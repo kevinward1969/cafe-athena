@@ -1,0 +1,84 @@
+# Café Athena - Sauce Béchamel (Mother Sauce No. 1)
+
+The fundamental white sauce—smooth, creamy, and subtly infused with aromatics.
+
+**Yield:** ~1 Liter (1 Quart) | **Prep:** 10 min | **Cook:** 25 min | **Total:** ~35 min
+
+---
+
+## Headnote
+
+As one of the five French Mother Sauces, Béchamel is the starting point for countless dishes, from Mornay (cheese sauce) to Soubise (onion sauce). A perfect Béchamel is not just thickened milk; it is a stable emulsion with a "nappe" consistency (coats the spoon) and a flavor profile that eliminates the raw taste of flour without overpowering the dish it accompanies.
+
+**Teaching Idea: The Temperature Differential.** To ensure a lump-free sauce without aggressive whisking, we add cool or room-temperature liquid to a hot roux. This delays the gelatinization of starches just long enough for them to disperse evenly before swelling.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the Oignon Piqué:** Peel the onion half. Pin the bay leaf to the onion using the whole clove (press the clove through the leaf into the layers).
+- **Measure the Roux:** Weigh the butter and flour separately.
+- **Grate the Nutmeg:** Prepare the nutmeg and white pepper; do not pre-grate if possible, as volatile oils dissipate quickly.
+- **Set the Station:** Have a fine-mesh strainer (chinois) and a clean storage container ready.
+
+---
+
+## Ingredients
+
+### The Liquid Base
+
+- 1000 g (1 liter) Whole Milk
+- ½ Yellow Onion, peeled (root end intact)
+- 1 Dried Bay Leaf
+- 1 Whole Clove
+
+### The Roux (Thickener)
+
+- 50 g (3.5 tbsp) Unsalted Butter
+- 50 g (⅓ cup + 1 tbsp) All-Purpose Flour
+
+### The Seasoning
+
+- 4 g (1 tsp) Diamond Crystal Kosher Salt
+- 1 g (¼ tsp) White Pepper, ground
+- 0.5 g (⅛ tsp) Freshly Grated Nutmeg
+
+---
+
+## Method
+
+**Phase 1: The Infusion** In a medium saucepan, combine the **Whole Milk** and the **Oignon Piqué** (onion studded with clove and bay leaf). Place over medium heat. Bring just to a bare simmer (small bubbles around the rim, approximately 180°F/82°C). **Do not boil.** Remove from heat immediately, cover, and let steep for 15–20 minutes.
+
+> *Why: Steeping extracts the aromatic compounds from the onion and clove without evaporating the water content of the milk or scorching the bottom of the pot.*
+
+**Phase 2: The White Roux** While the milk steeps, place a separate heavy-bottomed saucepan over medium-low heat. Add the **Unsalted Butter**. Once the butter is melted and foaming subsides, add the **All-Purpose Flour** all at once. Stir constantly with a whisk or silicone spatula for 2–3 minutes. The mixture should bubble gently and look like wet sand.
+
+> *Sensory Cue: The roux is ready when it smells faintly of baked pie crust or toasted nuts, but has taken on **no color** (it should remain pale yellow). Why: We must cook the flour to break down the raw cereal taste, but for a Béchamel, we must stop before the starches dextrinize (turn brown), which would reduce thickening power.*
+
+**Phase 3: The Integration** Remove the Oignon Piqué from the milk (discard it). Ensure the roux is hot and bubbling. Pour in about one-third of the infused milk while whisking vigorously. The mixture will instantly seize into a thick paste. **Do not panic.** Immediately add the remaining milk in two stages, whisking constantly to dissolve the paste into the liquid.
+
+**Phase 4: The Simmer** Bring the sauce to a gentle simmer over medium-low heat, stirring frequently to prevent scorching in the corners of the pot. Lower the heat and cook for 10–15 minutes.
+
+> *Why: The starch granules need time to fully swell and stabilize. If undercooked, the sauce will have a gritty texture and floury aftertaste.*
+
+**Phase 5: Season and Strain** Remove from heat. Stir in the **Salt**, **White Pepper**, and **Nutmeg**. The nutmeg should be a background note, not a dominant flavor. Pass the sauce through a fine-mesh sieve into a clean container to ensure a perfectly smooth texture.
+
+> *Storage Note: If not using immediately, press a sheet of plastic wrap or parchment paper directly onto the surface of the sauce to prevent a "skin" (casein film) from forming.*
+
+---
+
+## Chef's Notes / Variations
+
+- **The Mornay Derivative:** To turn this into a cheese sauce, remove from heat and whisk in 100 g (1 cup) grated Gruyère and 25 g (¼ cup) Parmesan. Do not return to high heat, or the cheese will separate and become oily.
+- **Viscosity Adjustments:**
+  - *Thin (Soup Base):* Reduce roux to 35 g Butter / 35 g Flour.
+  - *Thick (Soufflé/Croquette Base):* Increase roux to 70 g Butter / 70 g Flour.
+- **Gluten-Free:** Substitute the AP Flour with a 1:1 Gluten-Free flour blend or sweet rice flour. The texture may be slightly more gelatinous.
+
+---
+
+## Glossary
+
+- **Roux:** A cooked mixture of equal parts flour and fat (by weight), used as a thickening agent.
+- **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
+- **Oignon Piqué:** French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.

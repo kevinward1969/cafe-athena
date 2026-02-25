@@ -1,0 +1,78 @@
+# Café Athena - Sodium Acetate (Salt & Vinegar Crystals)
+
+A chemical synthesis of the classic "Salt & Vinegar" flavor profile found in snack foods.
+
+Yield: ~80 g (½ cup) | Prep: 15 min | Active Cook: 45 min | Passive Cure: 4 hr+
+
+---
+
+## Headnote
+
+Real "Salt & Vinegar" flavor is not made by drying vinegar; it is made by chemically neutralizing an acid (vinegar) with a base (baking soda) to create a new salt called Sodium Acetate. **Teaching Idea: Stoichiometry.** We intentionally use an excess of vinegar in this ratio. If we used too much baking soda, the unreacted soda would remain in the final product, resulting in a soapy, metallic, and bitter taste. Excess vinegar simply evaporates, ensuring a clean, sharp flavor.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Ventilate the kitchen:** Turn on the hood fan (boiling vinegar creates pungent fumes).
+- **Select the vessel:** Use a large, non-reactive stockpot (at least 4 liters). The reaction will foam aggressively.
+- **Prepare the drying zone:** Line a rimmed baking sheet with parchment paper.
+
+---
+
+## Ingredients
+
+### The Reactants
+
+- 1000 g (1 liter) Distilled White Vinegar (5% acidity)
+- 55 g (3 ½ tbsp) Baking Soda (Sodium Bicarbonate)
+
+### The Buffer Blend (Post-Process)
+
+- 10 g (2 tsp) Citric Acid
+- 10 g (1 tbsp) Diamond Crystal Kosher Salt
+- 5 g (2 tsp) Cornstarch
+
+---
+
+## Method
+
+### Phase 1: The Neutralization
+
+Pour the **distilled white vinegar** into the stockpot. Place over medium heat. Slowly sprinkle in the **baking soda** a little at a time, whisking constantly. **Safety Cue:** Wait for the foaming to subside before adding more. Adding it all at once will cause a volcanic overflow.
+
+### Phase 2: The Reduction
+
+Once all the baking soda is dissolved and fizzing stops, increase heat to high and bring to a boil. Reduce the liquid by 90% (until only about 100 ml remains).
+
+> Sensory Cue: As the water evaporates, the bubbles will become smaller, thicker, and slower.
+
+**The "Ice Skin" Test:** Blow gently on the surface of the liquid. If a thin, opaque skin forms instantly (like ice on a puddle), the solution is supersaturated and ready. Remove from heat immediately.
+
+### Phase 3: The Crystallization
+
+Pour the hot syrup onto the parchment-lined baking sheet. Do not place it in the oven yet. Let it sit at room temperature for 2–4 hours.
+
+> Why: Sodium Acetate Trihydrate melts at 136°F (58°C). If you put the wet syrup into a hot oven, it will remain liquid. It must crystallize into a solid "ice" block at room temperature first.
+
+### Phase 4: Dehydration
+
+Once the liquid has turned into a solid, white crystalline mass, break it into shards. Set your oven to its lowest possible setting (150°F–170°F / 65°C–75°C). Place the shards in the oven and dry for 1 hour or until chalky and completely brittle.
+
+### Phase 5: Pulverization
+
+Transfer the dried shards to a spice grinder or mortar and pestle. Add the **citric acid**, **Diamond Crystal salt**, and **cornstarch**. Grind into a fine, snow-white powder. Store in an airtight container immediately.
+
+---
+
+## Chef's Notes / Variations
+
+**The "Buffer" Blend:** Pure Sodium Acetate has a vinegar aroma but lacks the sharp "bite" on the tongue. The addition of **Citric Acid** provides that aggressive tang associated with potato chips, while the cornstarch prevents the highly hygroscopic powder from turning into a sticky brick in the jar.
+
+---
+
+## Glossary
+
+- **Sodium Acetate:** The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
+- **Exothermic:** A chemical reaction that releases heat.
+- **Hygroscopic:** The tendency of a substance to absorb moisture from the air. This powder will clump quickly if left uncovered.

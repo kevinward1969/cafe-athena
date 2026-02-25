@@ -1,0 +1,91 @@
+# Café Athena - Master Compound Butter (Beurre Composé)
+
+Essential finishing fats capable of elevating grilled proteins through precise flavor encapsulation.
+
+Yield: 250 g (1 Log) | Prep: 15 min | Inactive: 2 hr
+
+---
+
+## Headnote
+
+Compound butter is not merely mixed butter; it is an emulsion of fat and flavor. By manipulating the butter at its point of highest plasticity, we can suspend liquids and solids within the fat matrix without breaking the emulsion. This master recipe provides a neutral base and three distinct variations: Classic Maître d'Hôtel, Modern Umami, and Calabrian Heat. **Teaching Idea: Fat Plasticity.** Butter is an emulsion of water in fat. To incorporate new ingredients successfully, the butter must be at 21°C/70°F—soft enough to fold, but solid enough to hold structure. If it melts, the emulsion breaks and the result will be greasy.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Temper the butter:** Leave at room temperature for 1–2 hours until it yields easily to thumb pressure.
+- **Prepare the mix-ins:** Finely mince herbs, roast garlic, or zest citrus depending on the selected variation.
+- **Setup rolling station:** Cut a 12-inch square of parchment paper or plastic wrap.
+
+---
+
+## Ingredients
+
+### The Base
+
+- 225 g (1 cup) Unsalted Butter, European style (82% fat), softened
+- 4 g (1 tsp) Diamond Crystal Kosher Salt (Adjust for salty mix-ins)
+
+### Variation A: Classic Maître d'Hôtel (Steak & Fish)
+
+- 15 g (¼ cup) Flat-leaf Parsley, finely minced
+- 10 ml (2 tsp) Lemon Juice, fresh
+- 1 Lemon, zest only
+- 1 g (½ tsp) White Pepper, ground
+
+### Variation B: Modern Umami (Poultry & Veg)
+
+- 30 g (1 tbsp) White Miso Paste
+- 2 Cloves Roasted Garlic, smashed to paste
+- 5 ml (1 tsp) Maple Syrup or Honey
+- *Note: Reduce Base salt to 2 g if using this variation.*
+
+### Variation C: Calabrian Heat (Pork & Shellfish)
+
+- 15 g (1 tbsp) Calabrian Chili Paste (or Chili Crunch)
+- 5 ml (1 tsp) Lime Juice, fresh
+- 1 Lime, zest only
+- 5 g (1 tbsp) Panko Breadcrumbs, toasted (add last)
+
+---
+
+## Method
+
+### Phase 1: Mechanical Aeration
+
+Place the tempered butter and salt in a medium bowl. Using a stiff silicone spatula or whisk, beat the butter vigorously for 60 seconds.
+
+> Why: This creates a slight aeration, increasing the volume and making the fat matrix more receptive to the mix-ins.
+
+> Sensory Cue: The butter should look creamy, slightly paler, and have the consistency of stiff mayonnaise.
+
+### Phase 2: The Infusion
+
+Add the ingredients from your chosen **Variation** (A, B, or C). Fold them gently into the butter until evenly distributed. **Critical:** If using liquid acids (lemon/lime juice), add them slowly while whipping. If the butter looks curdled, it is too cold or has too much liquid—whip harder to re-emulsify. **Texture Note:** If using Variation C (Calabrian), fold the toasted panko in at the very last second to preserve the crunch.
+
+### Phase 3: Shaping the Torchon
+
+Spoon the soft butter mixture onto the lower third of your parchment paper or plastic wrap. Fold the bottom edge over the butter. Use a bench scraper or the edge of your hand to push against the butter log, tightening it into a cylinder while pulling the paper taut. Twist the ends of the paper in opposite directions (like a candy wrapper) to compress the log into a tight, uniform cylinder.
+
+### Phase 4: Crystallization
+
+Refrigerate the log for at least **2 hours**.
+
+> Why: The butter fat needs to recrystallize to lock the flavors in place and firm up for slicing.
+
+---
+
+## Chef's Notes / Variations
+
+- **Freezing:** These logs freeze perfectly. Wrap the parchment log in aluminum foil to prevent freezer burn. Slice rounds directly from frozen to melt over hot steaks.
+- **Serving Temp:** Serve cold slices on hot food. The contrast of the cold, melting fat against the hot protein creates the sauce *à la minute*.
+- **Variation C (Heat):** If you cannot find Calabrian chili paste, you may substitute Sambal Oelek, but drain the excess vinegar first to prevent the butter from weeping.
+
+---
+
+## Glossary
+
+- **Beurre Composé:** "Compound Butter." Butter mixed with supplementary ingredients used to season dishes.
+- **Plasticity:** The property of a solid material to undergo permanent deformation under load; for butter, the "workable" range between solid and melted.
+- **Torchon:** "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter logs.

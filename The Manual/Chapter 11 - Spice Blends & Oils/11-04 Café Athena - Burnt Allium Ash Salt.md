@@ -1,0 +1,70 @@
+# Café Athena - Burnt Allium Ash Salt
+
+A stark, jet-black finishing salt that adds smokiness, bitterness, and visual drama.
+
+Yield: ~125 g (¾ cup) | Prep: 10 min | Cook: 45–60 min | Total: ~1.5 hr
+
+---
+
+## Headnote
+
+This recipe is a study in controlled carbonization. By pushing fibrous alliums past the point of caramelization, we create a form of culinary activated charcoal. **Teaching Idea: Bitter as a Seasoning.** In the West, we often avoid bitterness. However, when paired with the rich fat of a steak or the creaminess of a soft-boiled egg, the bitterness of the ash cuts through the richness, balancing the palate.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat Oven:** Set to 425°F (220°C) with the convection fan on (if available).
+- **Ventilation:** Turn your hood fan to **HIGH**. This process creates significant smoke.
+- **Prepare Trays:** Line two baking sheets with parchment paper (essential for cleanup).
+- **Wash and Dry:** Ensure the leek tops are washed thoroughly and dried completely.
+
+---
+
+## Ingredients
+
+### The Biomass
+
+- 200 g (2 large bundles) Leek Tops (Dark green parts only) OR Scallion Greens
+- *Note: Any water left on the greens will steam the vegetable instead of burning it, resulting in a gummy texture.*
+
+### The Base
+
+- 100 g (1 cup) Diamond Crystal Kosher Salt
+
+---
+
+## Method
+
+### Phase 1: The Carbonization
+
+Roughly chop the **leek tops**. Spread them in a single, loose layer across the parchment-lined baking sheets. **Do not overcrowd.** Airflow is key to drying them out quickly. Roast for **45–60 minutes**. **The Check:** Rotate pans halfway through. You are looking for a complete transformation: the greens should be jet black, brittle, and crumble instantly to dust when touched. If they bend or feel soft, they are not done.
+
+### Phase 2: The Pulverization
+
+Remove from the oven and let cool completely on the pan (they will crisp up further as they cool). Transfer the black carbon to a spice grinder or mortar. Pulse until you have a fine, black dust.
+
+*Chef's Tip: Let the dust settle inside the grinder for 30 seconds before opening the lid, or you will inhale carbon powder.*
+
+### Phase 3: The Integration
+
+Weigh your resulting ash (you will likely have 20–30 g). Add the **Diamond Crystal Salt** at a ratio of **4:1 (Salt to Ash)** by weight.
+
+*Example: If you have 25 g of Ash, add 100 g of Salt.*
+
+Pulse the mixture together briefly to coat the white crystals in the black dust. **Sensory Check:** Taste a pinch. It should be salty first, with a smoky, earthy finish. If you want a darker color and more bitterness, add more ash in small increments.
+
+---
+
+## Chef's Notes / Variations
+
+- **Storage:** Store in a clear jar to show off the color. Keep airtight; humidity will make the ash weep and clump.
+- **The "Dirty" Steak:** Dust heavily over a Ribeye or Strip Steak before slicing.
+- **Garde Manger:** Sprinkle over deviled eggs, goat cheese, or white asparagus for high visual contrast.
+
+---
+
+## Glossary
+
+- **Carbonization:** The process of converting organic matter into carbon through high heat pyrolysis.
+- **Allium:** The plant family that includes onions, garlic, leeks, and chives.

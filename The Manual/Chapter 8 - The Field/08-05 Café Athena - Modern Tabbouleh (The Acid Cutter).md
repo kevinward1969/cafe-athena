@@ -1,0 +1,79 @@
+# Café Athena - Modern Tabbouleh (The Acid Cutter)
+
+A high-acidity grain salad designed to cleanse the palate against rich, fatty meats.
+
+**Yield:** 4 servings | **Prep:** 20 min | **Hydration:** 30 min | **Total:** 50 min
+
+---
+
+## Headnote
+
+This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Instead of using plain water, we hydrate the fine bulgur directly in a mixture of fresh lemon juice and tomato water. This "acid-cooking" technique infuses the grain with brightness from the inside out, creating a sharp, refreshing foil for smoked pork or heavy BBQ.
+
+**Teaching Idea: Acid Hydration.** Fine bulgur (Burghul #1) is porous enough to rehydrate in cold acidic liquids. This process takes slightly longer than hot water hydration but preserves the raw, fresh flavor of the citrus and tomato without oxidizing them with heat.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Extract Tomato Water:** Blitz tomatoes with salt and strain to collect the clear liquid.
+- **Juice the Lemons:** Squeeze fresh lemons to yield the required volume.
+- **Knife Work:** Finely dice the cucumber and slice the scallions.
+- **Herb Prep:** Pick parsley and mint leaves; wash and dry thoroughly before chopping.
+
+---
+
+## Ingredients
+
+### The Grain Base
+
+- 150 g (1 cup) Fine Bulgur Wheat (Burghul #1)
+
+### The Acid Hydration Liquid
+
+- 120 ml (½ cup) Fresh Lemon Juice
+- 120 ml (½ cup) Tomato Water (see Method)
+- 60 ml (¼ cup) Extra Virgin Olive Oil
+- 6 g (2 tsp) Diamond Crystal Kosher Salt
+
+### The Fresh Fold
+
+- 200 g (1 large) Cucumber, seeded and finely diced (brunoise)
+- 4 Scallions (Green Onions), thinly sliced
+- 60 g (2 cups, packed) Fresh Parsley, finely chopped
+- 15 g (½ cup, packed) Fresh Mint, finely chopped
+
+---
+
+## Method
+
+**Phase 1: Tomato Water Extraction** Roughly chop 2–3 ripe tomatoes (approx. 300 g) and toss them into a blender with a pinch of salt. Pulse briefly to break them down (do not puree into a smoothie). Pour the pulp into a fine-mesh sieve set over a bowl. Press gently with a ladle to extract **120 ml (½ cup)** of thin, pinkish liquid. Discard the pulp or save for stock.
+
+> **Why:** Tomato water provides pure umami and acidity without the mushy texture of the tomato flesh.
+
+**Phase 2: Acid Hydration** In a mixing bowl, whisk together the tomato water, lemon juice, olive oil, and salt until emulsified. Add the dry bulgur wheat. Stir immediately to ensure even coating. Cover and let sit at room temperature for **30 minutes**.
+
+> **Why:** The grain will absorb the vinaigrette, plumping up and becoming tender-crisp. Because no heat is applied, the lemon flavor remains "sharp" rather than "cooked."
+
+**Phase 3: The Vegetable Fold** Once the bulgur has absorbed the liquid (it should look dry, not soupy), use a fork to fluff the grains. Fold in the diced cucumber and sliced scallions.
+
+> **Sensory Cue:** The mixture should look like loose, jeweled sand, not a wet mash.
+
+**Phase 4: The Herb Finish** Right before serving, fold in the chopped parsley and mint.
+
+> **Why:** Herbs oxidize (turn black) quickly when exposed to acid. Adding them at the last second keeps the salad vibrant green. Taste for seasoning. It should be aggressive—tart enough to make you pucker slightly.
+
+---
+
+## Chef's Notes / Variations
+
+- **The "Soggy" Factor:** If preparing this in advance for a party, complete Phases 1 through 3. Keep the herbs separate and fold them in just as the pork steaks come off the grill.
+- **Cucumber Seeds:** It is critical to remove the seeds from the cucumber before dicing. The seeds release water over time, which will dilute the sharp acidity you worked hard to build.
+
+---
+
+## Glossary
+
+- **Tomato Water:** The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
+- **Brunoise:** A culinary knife cut in which the food item is first julienned and then turned a quarter turn and diced, producing cubes of about 3 mm or less.
+- **Emulsify:** To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.

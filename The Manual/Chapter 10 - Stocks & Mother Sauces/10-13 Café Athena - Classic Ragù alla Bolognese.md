@@ -1,0 +1,102 @@
+# Café Athena - Classic Ragù alla Bolognese
+
+A complex, slow-simmered meat emulsion defined by the interplay of milk, wine, and time.
+
+Yield: 1.5 kg (8 servings) | Prep: 45 min | Cook: 3.5–4.5 hr
+
+---
+
+## Headnote
+
+True Bolognese is not a tomato sauce with meat; it is a meat sauce supported by tomato. The key to its velvet texture is the inclusion of milk, which neutralizes the acidity of the wine and tomatoes while tenderizing the protein fibers. **Teaching Idea: The Maillard-Liquid Balance.** Unlike a steak, we do not want a hard, crusty sear on the ground meat, which creates tough "pebbles." We cook the meat until the water evaporates and the fat renders, achieving a gentle browning that preserves tenderness.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the Soffritto:** Finely dice the onion, carrot, and celery into a precise 2mm brunoise.
+- **Temper the Proteins:** Remove ground meats from the fridge 20 minutes before cooking.
+- **Warm the Liquids:** Gently warm the milk and stock in separate small saucepans (cold liquids seize the fat).
+- **Oven Setup:** (Optional) Preheat oven to 300°F/150°C if choosing the oven-braise method.
+
+---
+
+## Ingredients
+
+### The Base (Soffritto & Fats)
+
+- 45 g (3 tbsp) Unsalted Butter
+- 30 ml (2 tbsp) Extra Virgin Olive Oil
+- 115 g (4 oz) Pancetta or Guanciale, finely minced
+- 200 g (1 ½ cups) Yellow Onion, finely diced
+- 150 g (1 cup) Carrots, finely diced
+- 150 g (1 cup) Celery, finely diced
+
+### The Proteins
+
+- 450 g (1 lb) Ground Beef Chuck (20% fat)
+- 225 g (½ lb) Ground Pork Shoulder
+
+### The Liquids & Aromatics
+
+- 240 ml (1 cup) Dry White Wine (Pinot Grigio or Sauvignon Blanc)
+- 240 ml (1 cup) Whole Milk, warm
+- 60 g (¼ cup) Tomato Paste (Double Concentrate)
+- 400 g (14 oz) Canned San Marzano Tomatoes, crushed by hand
+- 240 ml (1 cup) White Chicken Stock or Beef Stock (Low Sodium)
+- 2 Bay Leaves, fresh if possible
+
+### The Seasoning
+
+- Diamond Crystal Kosher Salt (to taste)
+- Freshly cracked Black Pepper
+- Nutmeg (freshly grated), small pinch
+
+---
+
+## Method
+
+### Phase 1: The Foundation (Soffritto)
+
+In a heavy-bottomed Dutch oven, melt the butter and oil over medium-low heat. Add the minced pancetta and render slowly until the fat releases and the meat is translucent but not crisp (approx. 8 minutes).
+
+> Why: Rendering the pork fat creates a flavorful medium to cook the vegetables.
+
+Add the onion, carrot, and celery (the Soffritto). Sweat gently for 15–20 minutes, stirring frequently. Do not let them brown; they should become soft, sweet, and pale gold.
+
+> Why: High heat destroys the delicate aromatics of the vegetables. Low and slow maximizes natural sugars.
+
+### Phase 2: The Meat & The Acid
+
+Increase heat to medium. Add the ground beef and pork. Break up the meat immediately with a wooden spoon or potato masher to ensure a fine texture. Cook until all raw red color is gone and the liquid released by the meat has evaporated, leaving only sizzling fat.
+
+> Sensory Cue: Listen for the sound to change from a "hiss" (steaming water) to a "crackle" (frying fat).
+
+Add the dry white wine. Simmer briskly until the wine has evaporated completely and the scent of alcohol is gone.
+
+### Phase 3: The Lactose Emulsion
+
+Reduce heat to medium-low. Pour in the warm milk and grate a pinch of nutmeg over the meat. Simmer gently, stirring occasionally, until the milk has evaporated and been absorbed by the meat.
+
+> Why: The milk proteins coat the meat fibers, protecting them from the acidity of the tomatoes and ensuring the final sauce is creamy, not oily.
+
+### Phase 4: The Long Simmer
+
+Clear a "hot spot" in the center of the pan. Add the tomato paste and toast it for 1 minute until it darkens to a brick red. Stir it into the meat.
+
+> Why: Toasting ("pincé") caramelizes the sugars in the paste, removing the raw metallic taste.
+
+Add the crushed tomatoes, stock, and bay leaves. Bring to a barely-there simmer (one bubble every few seconds). Cover with a lid slightly ajar. Cook for **3 to 4 hours**, checking every 45 minutes to stir and add a splash of water if the sauce becomes too dry.
+
+### Phase 5: Finishing (Mantecatura)
+
+When the fat has separated from the sauce and floats on top in orange droplets, the ragù is ready. Taste and adjust with salt and pepper. Remove bay leaves. **Service Note:** If serving immediately with pasta, toss the pasta with the sauce and a ladle of pasta water, stirring vigorously to emulsify the separated fat back into the sauce.
+
+---
+
+## Glossary
+
+- **Soffritto:** The "holy trinity" of Italian cooking (onion, carrot, celery) sautéed in fat to provide an aromatic base.
+- **Brunoise:** A very fine dice (approx. 2mm–3mm cubes).
+- **Pincé:** To cook a tomato product (usually paste) in fat until it darkens and caramelizes.
+- **Mantecatura:** The process of vigorously mixing cooked pasta with sauce and fat to create a creamy emulsion.

@@ -1,0 +1,81 @@
+# Café Athena - Velvet Root Vegetable Mash
+
+Roasted sweet potatoes and steamed carrots whipped with gingered brown butter.
+
+**Yield:** 4–6 servings | **Prep:** 20 min | **Cook:** 45–60 min | **Total:** ~1 hr 20 min
+
+---
+
+## Headnote
+
+By roasting the sweet potatoes in their skins rather than boiling them, we allow the natural sugars to concentrate, preventing the water-logged flavor typical of boiled mashes. We finish the dish with a "bloomed" spice butter—heating the turmeric and ginger in hot fat to release lipid-soluble flavor compounds that would otherwise remain dormant.
+
+**Teaching Idea: Starch Retrogradation & Shearing.** Using a blender on starchy vegetables ruptures the starch granules, releasing amylose that creates a gluey texture. Always use a ricer or food mill for root vegetables to maintain a fluffy, cellular structure.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat oven:** Set to 400°F/205°C.
+- **Prepare the aromatics:** Minced garlic and measured spices should be in a small ramekin, ready to add to the hot butter.
+- **Set up the steamer:** Have a pot with a steamer basket ready for the carrots.
+- **Warm the bowl:** Rinse your mixing bowl with hot water so the mash doesn't cool down upon contact.
+
+---
+
+## Ingredients
+
+### The Root Base
+
+- 600 g (2 medium) Sweet Potatoes, scrubbed but unpeeled
+- 300 g (4 medium) Carrots, peeled and cut into 1-inch rounds
+- 10 g (1 tbsp) Diamond Crystal Kosher Salt (for seasoning)
+- 15 ml (1 tbsp) Fresh Lemon Juice
+
+### The Spiced Beurre Noisette
+
+- 56 g (4 tbsp) Unsalted Butter
+- 2 cloves Garlic, minced fine
+- 1 g (½ tsp) Ground Turmeric
+- 0.5 g (¼ tsp) Ground Ginger
+- Pinch of Black Pepper
+
+---
+
+## Method
+
+**Phase 1: Thermal Processing**
+
+**Roast the Potatoes:** Prick the sweet potatoes all over with a fork. Place them on a foil-lined baking sheet and roast for 45–60 minutes, or until a knife slides into the center with zero resistance.
+
+> **Why:** Roasting in the skin traps the steam, cooking the potato in its own moisture while concentrating sweetness.
+
+**Steam the Carrots:** While the potatoes roast, place the carrots in a steamer basket over boiling water. Cover and steam for 15–20 minutes until completely tender. Drain and let them steam-dry for 2 minutes to remove excess surface moisture.
+
+**Phase 2: The Infusion (Brown & Bloom)**
+
+**Make Beurre Noisette:** In a small saucepan or skillet, melt the butter over medium heat. Swirl constantly until the milk solids turn golden brown and smell nutty.
+
+**Bloom the Spices:** Immediately remove the pan from the heat. Add the minced garlic, turmeric, ginger, and black pepper. Swirl for 30 seconds.
+
+> **Sensory Cue:** The residual heat of the butter will cook the garlic and spices without burning them. The mixture should become deeply aromatic and turn a vibrant orange-gold.
+
+**Phase 3: Textural Processing**
+
+**Extract the Flesh:** Once the potatoes are cool enough to handle but still hot, slice them open and scoop the flesh into the ricer. Discard skins.
+
+**Rice the Vegetables:** Pass both the sweet potato flesh and the steamed carrots through a ricer or food mill directly into the warmed mixing bowl. Do not mash by hand or use a blender.
+
+**Phase 4: Emulsification**
+
+**Incorporate the Fat:** Pour the warm spiced brown butter over the riced vegetables. Add the lemon juice and half the salt.
+
+**Fold:** Using a spatula, gently fold the mixture until the butter is absorbed and the color is uniform. Taste and adjust with the remaining salt if needed. Serve immediately.
+
+---
+
+## Glossary
+
+- **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty flavor profile.
+- **Blooming:** The process of briefly heating spices in fat to release essential oils and amplify flavor.
+- **Ricer:** A utensil with small holes through which cooked food is extruded, breaking it down without rupturing starch granules.

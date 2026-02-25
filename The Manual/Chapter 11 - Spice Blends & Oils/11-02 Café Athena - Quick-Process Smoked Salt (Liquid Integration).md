@@ -1,0 +1,75 @@
+# Café Athena - Quick-Process Smoked Salt (Liquid Integration)
+
+An accelerated technique for achieving cold-smoked flavor profiles using liquid suspension rather than combustion.
+
+Yield: 115 g (¾ cup) | Prep: 5 min | Cook: 60–90 min | Total: ~2 hr
+
+---
+
+## Headnote
+
+This technique relies on controlled re-crystallization. By wetting the salt just enough to coat it without fully dissolving it, we trap the smoke solids (phenols) onto the crystal surface as the water evaporates. **Teaching Idea: Surface Area & Adsorption.** We exclusively use Diamond Crystal salt for this because its hollow, pyramid-shaped geometry acts like a microscopic cup, holding the liquid smoke physically rather than just chemically, ensuring a dry, flaky finish rather than a hard block.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat the oven:** Set to 175°F (80°C) or its lowest possible setting (Keep Warm).
+- **Prepare the tray:** Line a quarter-sheet pan with parchment paper.
+- **Misfire check:** Ensure your liquid smoke is brand new or well-shaken; sediment settles at the bottom.
+
+---
+
+## Ingredients
+
+### The Base
+
+- 100 g (1 cup) Diamond Crystal Kosher Salt
+- 15 g (1 tbsp) Liquid Smoke (See Variations for wood profiles)
+- 1 g (1 pinch) Sugar (Optional, for "Bark" formation)
+
+---
+
+## Method
+
+### Phase 1: The Slurry
+
+In a medium mixing bowl, combine the **Diamond Crystal Kosher Salt**, **liquid smoke**, and **sugar** (if using). Using a whisk or gloved fingers, agitate the mixture vigorously for 30 seconds.
+
+> Sensory Cue: The texture should resemble damp sand or wet snow. It should clump when squeezed but crumble easily. If it is liquid or soupy, add more salt immediately.
+
+### Phase 2: The Dehydration
+
+Spread the salt mixture onto the parchment-lined sheet pan. Shake the pan to distribute it into an even, single layer. Place in the preheated oven.
+
+> Why: Gentle heat drives off the water content of the liquid smoke while leaving the heavy smoke solids attached to the salt crystals.
+
+### Phase 3: The Agitation
+
+Set a timer for 20 minutes. When it rings, remove the pan and break up any clumps with a fork or whisk. Shake to redistribute. Repeat this process 3–4 times.
+
+> Sensory Cue: The process is complete when the salt is completely free-flowing, lighter in color than when wet, and makes a dry "hissing" sound when shaken in the pan.
+
+### Phase 4: Curing
+
+Turn off the oven and let the pan sit inside with the door cracked open until completely cool (about 30 minutes). Transfer to an airtight glass jar.
+
+---
+
+## Chef's Notes / Variations
+
+**Wood Profile Modulation:**
+
+- **Hickory (The Standard):** Strong, bacon-like nose. Best for general finishing on eggs, potatoes, or burgers.
+- **Applewood (The Sweet):** Milder, slightly fruity. Excellent for pork, scallops, or finishing desserts like caramel or chocolate chip cookies.
+- **Mesquite (The Earth):** Sharp, acrid, and earthy. Best reserved for hearty beef cuts (ribeye, short rib) or chili.
+- **Pecan (The Nut):** Rounder and mellower than hickory. A great all-purpose choice for roasted vegetables.
+
+**Application Note:** Because this salt has been dissolved and re-crystallized slightly, it may have a harder "crunch" than raw Diamond Crystal. Use it strictly as a **finishing salt**, not for cooking water or bulk seasoning.
+
+---
+
+## Glossary
+
+- **Hygroscopic:** The physical property of a substance (like salt) to attract and hold water molecules from the surrounding environment.
+- **Phenols:** Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.

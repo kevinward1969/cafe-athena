@@ -1,0 +1,88 @@
+# Café Athena - King Trumpet "Scallops" & Celeriac Mousseline
+
+Pan-seared mushroom stems, hazelnut-brown butter vinaigrette, and stabilized root vegetable purée.
+
+**Yield:** Serves 4 (Appetizer) or 2 (Entrée) | **Prep:** 30 min | **Cook:** 25 min | **Total:** 55 min
+
+---
+
+## Headnote
+
+This dish treats a humble fungus with the same respect usually reserved for seafood. By trimming King Trumpet mushrooms into cylinders and scoring them, we mimic the texture and appearance of a scallop.
+
+**Teaching Idea:** Mushrooms are structurally similar to sponges; they must be seared hard to collapse their air pockets before adding fat, otherwise they will absorb the butter immediately and become greasy rather than golden.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Trim** the King Trumpet stems into uniform 1.5-inch (4 cm) "medallions." Save caps for stock.
+- **Score** the top and bottom of each medallion in a tight cross-hatch pattern (do not cut all the way through).
+- **Peel and dice** the celeriac (celery root) into uniform 1-inch cubes.
+- **Toast** the hazelnuts in a dry pan until fragrant, then roughly chop.
+- **Mince** the chives and shallot.
+- **Cube** the cold butter for the mousseline and keep it chilled.
+
+---
+
+## Ingredients
+
+### The Celeriac Mousseline
+
+- 450 g (1 lb) celeriac (celery root), peeled and diced
+- 350 ml (1½ cups) whole milk (enough to cover)
+- 2 sprigs fresh thyme
+- 1 clove garlic, smashed
+- 60 g (4 tbsp) unsalted butter, cold and cubed
+- 1 g (⅛ tsp) xanthan gum (optional, for stabilization)
+- Salt (Diamond Crystal) and white pepper to taste
+
+### The King Trumpet "Scallops"
+
+- 4-6 large King Trumpet mushrooms (stems only)
+- 30 ml (2 tbsp) neutral oil (grapeseed or canola)
+- 45 g (3 tbsp) unsalted butter
+- 2 sprigs fresh thyme
+- 1 clove garlic, crushed (skin on)
+
+### The Hazelnut Vinaigrette
+
+- 60 g (4 tbsp) unsalted butter
+- 30 g (¼ cup) hazelnuts, toasted and chopped
+- 1 small shallot, minced
+- 15 ml (1 tbsp) Sherry vinegar
+- 5 g (1 tbsp) fresh chives, minced
+- Flaky sea salt (Maldon) for finishing
+
+---
+
+## Method
+
+**1. Construct the Mousseline** Place the diced celeriac, milk, thyme sprigs, and smashed garlic in a saucepan. Bring to a gentle simmer over medium heat. Cook for 15–20 minutes until the celeriac offers zero resistance to a knife tip.
+
+> **Why:** Cooking in milk preserves the ivory color and infuses the vegetable with fat and protein before blending.
+
+Strain the celeriac, discarding the thyme and garlic, but **reserve** the cooking milk. Transfer the hot celeriac to a blender. Add the cold butter and a splash (approx. 30ml) of the reserved milk. Blend on high until perfectly smooth. If using xanthan gum, shear it in now to prevent the water from leaching out on the plate. Season with salt and white pepper. Pass through a fine-mesh sieve (tamis) for a Michelin-level texture. Keep warm.
+
+**2. Sear the Mushrooms** Heat a stainless steel or cast iron skillet over medium-high heat. Add the neutral oil. When the oil shimmers and just begins to smoke, place the mushroom medallions in the pan, cut-side down. **Do not touch them** for 3–4 minutes.
+
+> **Sensory Cue:** You are looking for a deep, golden-brown crust (Maillard reaction) on the bottom. If they release liquid, the pan wasn't hot enough—keep cooking until the liquid evaporates and they fry in the remaining oil.
+
+**3. Baste (Arroser)** Flip the mushrooms. They should look like seared scallops. Add the 45g of butter, thyme sprigs, and crushed garlic to the pan. As the butter foams, tilt the pan and spoon the hot, foaming fat over the mushrooms repeatedly for 2–3 minutes.
+
+> **Why:** Basting cooks the center of the dense mushroom gently while infusing the porous structure with the aromatics. Remove mushrooms to a plate lined with paper towel.
+
+**4. Finish the Vinaigrette** Wipe out the skillet (or use a small saucepan). Add the 60g butter and heat over medium until the milk solids turn golden brown and smell nutty (beurre noisette). Immediately remove from heat. Stir in the minced shallot, toasted hazelnuts, and Sherry vinegar to stop the cooking.
+
+> **Sensory Cue:** The vinegar will sputter aggressively; this steam helps mellow the raw onion flavor of the shallot. Stir in the chives last.
+
+**5. Assembly** Spoon a circle of celeriac mousseline onto the center of the plate. Use the back of a spoon to create a divot (the "well"). Place 3 mushroom "scallops" atop the purée. Spoon the warm hazelnut vinaigrette over the mushrooms and around the base. Finish with a pinch of flaky sea salt on each mushroom.
+
+---
+
+## Glossary
+
+- **Mousseline:** A fine purée enriched with fat (usually cream or butter) to create a light, silky texture.
+- **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+- **Arroser:** The technique of spooning hot fat over an item as it cooks to ensure even heat distribution and flavor penetration.
+- **Beurre Noisette:** "Hazelnut butter" (Brown Butter). Butter cooked until the water evaporates and the milk solids toast to a hazelnut color.

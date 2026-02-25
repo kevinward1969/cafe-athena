@@ -1,0 +1,72 @@
+# Café Athena - Onion Potato Crisps
+
+Light, shatter-crisp vegetable tuiles leveraging potato amylopectin and raw onion aromatics for a concentrated savory snack.
+
+**Yield:** 40 pieces | **Prep:** 20 min | **Cook:** 30 min | **Total:** 50 min
+
+---
+
+## Headnote
+
+This technique utilizes the high amylopectin content of Yukon Gold potatoes to create a stable, glassy matrix. By incorporating raw onion into the hot potato emulsion, we preserve the volatile sulfur compounds that would otherwise be lost during a pre-cook, resulting in a more vibrant aromatic profile.
+
+**Teaching Idea: Starch Gelatinization & Internal Vapor Pressure.** Adding a precise amount of baking powder creates microscopic CO₂ bubbles that expand during the early stage of baking. These pockets weaken the starch wall just enough to provide a delicate "shatter" texture rather than a hard, chip-like crunch.
+
+---
+
+## Mise en Place
+
+- Peel and cube the Yukon Gold potatoes into 1-inch (2.5 cm) pieces.
+- Roughly chop the yellow onion.
+- Measure the potato starch and baking powder.
+- Prepare two large baking sheets with parchment paper.
+- Prepare a pastry bag without a tip (or snip the corner).
+
+---
+
+## Ingredients
+
+- **200 g (approx. 1½ cups)** Yukon Gold potatoes, peeled and cubed
+- **100 g (approx. 1 small)** yellow onion, chopped
+- **50 g (3½ tbsp)** potato cooking water, boiling
+- **50 g (⅓ cup)** potato starch (plus 10 g reserved if needed)
+- **2 g (½ tsp)** baking powder
+- **2 g (pinch)** kosher salt
+
+---
+
+## Method
+
+### The Emulsion
+
+1. **Boil the Potatoes:** Place potatoes in a pot of cold salted water. Bring to a boil and cook for 12–15 minutes until fork-tender.
+2. **Reserve and Drain:** Reserve 50 g of the boiling water, then drain the potatoes.
+3. **Homogenize:** While the potatoes are still steaming hot, place them in a high-speed blender with the raw onions and the 50 g of boiling potato water. Blend on high for 60–90 seconds until the mixture is a completely smooth, glossy emulsion.
+
+### The Matrix
+
+4. **Integrate Starches:** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt.
+5. **Whisk:** Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
+
+### Formation and Dehydration
+
+6. **Preheat:** Set the oven to 230°F/110°C.
+7. **Pipe:** Transfer the mixture to a piping bag. Pipe 1-inch (2.5 cm) dollops onto the parchment-lined baking sheet, spaced 2 inches (5 cm) apart.
+8. **The Press:** Place a second sheet of parchment paper over the dollops. Use the flat bottom of a measuring cup to press each dollop into a thin, uniform disc approximately 2–3 inches (5–7.5 cm) wide. Carefully peel back the top parchment layer.
+9. **Bake:** Bake for 30–35 minutes until the crisps are completely dehydrated and lift easily from the paper without sticking. They should be pale with almost no browning.
+10. **Cool:** Transfer the parchment sheet to a wire rack. The crisps will reach their final brittle state as they reach room temperature.
+
+---
+
+## Chef's Notes
+
+- **Storage:** These are highly hygroscopic (they absorb moisture from the air). Store immediately in an airtight container with a silica desiccant pack to maintain crunch.
+- **Variation:** For a "sour cream and onion" profile, whisk in 5 g of buttermilk powder during step 4.
+
+---
+
+## Glossary
+
+- **Amylopectin:** A highly branched polymer of glucose found in plants. In potatoes, it is responsible for the "sticky" and "glassy" qualities of a cooked starch gel.
+- **Gelatinization:** The process where starch granules absorb water and swell when heated, eventually breaking open and forming a thickened gel.
+- **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. We bake at a lower temperature to minimize this and keep the onion flavor "fresh."
