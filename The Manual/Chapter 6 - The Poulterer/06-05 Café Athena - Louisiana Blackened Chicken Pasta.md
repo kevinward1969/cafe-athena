@@ -1,0 +1,5 @@
+# 06-05 Café Athena - Louisiana Blackened Chicken Pasta
+
+> **Note:** This document contains embedded images and was too large to export automatically.
+> Please download it manually from Google Drive:
+> https://docs.google.com/document/d/1ASrxcH2Zj1u40jsW0emvfdFw1uPi2OSNKh6NJuoiz3Q/edit

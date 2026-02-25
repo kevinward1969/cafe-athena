@@ -1,0 +1,50 @@
+## **Technique Folio - The Larder (Inventory & Storage)**
+
+**Concept Definition** A professional walk-in cooler is a library, not a junk drawer. Every item has a specific address, a standardized container, and a visible expiration date. Home cooks lose money and flavor because they store food in opaque bags, forget what they have, and let it rot. The Larder system is about **Visual Control** and **Rotation**.
+
+**The Logic: FIFO (First In, First Out)** This is the Golden Rule of inventory.
+
+* **The Problem:** You buy new milk and put it in front of the old milk. You use the new one, and the old one sours in the back.
+* **The Fix:** When restocking, you must physically move the old product to the front and place the new product behind it. You always use the oldest product first to ensure freshness and zero waste.
+
+**The Hardware: Standardization** Throw away your "Tupperware" mountain of mismatched lids and stained bowls. Professional kitchens use **Standardized Storage**.
+
+* **Deli Containers (Quarts & Pints):**
+  * *The Standard:* Clear, cylindrical plastic containers.
+  * *The Advantage:* They all share the *exact same lid*. They stack perfectly. They are transparent so you can identify contents instantly without opening them.
+* **Cambro Squares (2qt / 4qt):**
+  * *The Standard:* Square polycarbonate containers with volume markers.
+  * *The Advantage:* Square shapes maximize shelf space (circles waste corners). Use these for bulk prep (stocks, flour, rice).
+
+**The Protocol: Labeling (Blue Tape)** If it isn't labeled, it is trash.
+
+* **The Gear:** 1-inch Blue Painter's Tape and a Black Sharpie.
+* **The Data:** Every label must have:
+  1. **Product Name** (e.g., "Chicken Stock").
+  2. **Date Made** (e.g., "12/23").
+  3. **Use-By Date** (Optional but recommended for raw proteins).
+* **The Cut:** Do not tear the tape with jagged edges. Cut it square with scissors or a dispenser. It shows respect for the product. Remove the tape *before* washing the container; baked-on tape is permanent.
+
+**Civilian Application: The Home Fridge** You likely don't have a walk-in cooler, but your home refrigerator obeys the same laws of physics.
+
+* **The Door (The Warm Zone):**
+  * *Physics:* This is the warmest part of the fridge because it swings open into the room.
+  * *Rule:* Never store milk or eggs here. Store **condiments only** (ketchup, mustard, pickles)—items with high acid/salt that won't spoil easily.
+* **The Shelves (The Vertical Hierarchy):**
+  * *Top Shelf (Ready-to-Eat):* Leftovers, drinks, yogurt. (Safe from drips).
+  * *Middle Shelf (Stable Ingredients):* Eggs, milk, cheese.
+  * *Bottom Shelf (The Danger Zone):* Raw meat/poultry. (If it leaks, it hits the plastic liner, not your lunch).
+* **The Drawers (Humidity Control):**
+  * *High Humidity (Closed Vent):* Leafy greens, herbs (prevents wilting).
+  * *Low Humidity (Open Vent):* Fruits, apples, pears (allows ethylene gas to escape so they don't rot).
+* **Freezer Tetris (The Flat Pack):**
+  * *Technique:* Freeze soups, stocks, and sauces in Ziploc bags laid **perfectly flat** on a baking sheet. Once frozen, they become "tiles" that can be stacked vertically like books, saving massive amounts of space.
+
+**Practice Exercise: The "Blue Tape" Purge** **Goal:** Reset your inventory baseline.
+
+1. **Setup:** Buy a roll of blue painter's tape, a sharpie, and a sleeve of Deli Containers.
+2. **Action:** Open your fridge.
+   * *Transfer:* Move any half-open bags or weird bowls of leftovers into Deli Containers.
+   * *Label:* Date everything. If you don't know when you made it, throw it out.
+   * *Organize:* Move all raw meat to the bottom. Move all condiments to the door.
+3. **Result:** You will likely gain 30% more space and instantly know what you need to cook for dinner.

@@ -1,0 +1,48 @@
+## **Technique Folio - The Steward (Care & Maintenance)**
+
+**Concept Definition** In a professional kitchen, the "Steward" (or *Plongeur*) is often considered an entry-level role, but the **principles of Stewardship** are the responsibility of the Chef. Tools degrade with every use. A knife edge rolls; a pan loses its seasoning; stainless steel oxidizes. Your goal is not just to clean, but to **restore** your tools to their original mechanical advantage before the next service.
+
+**The Physics: Alignment & Polymerization** To maintain your kit, you must understand what happens to metal at the microscopic level:
+
+* **The Burr (Knives):** A sharp knife edge is a microscopic row of "teeth." When you cut, these teeth don't break off immediately; they bend (roll) over. A dull knife is often just a bent knife.
+* **Polymerization (Cast Iron):** When you heat oil past its smoke point, the fatty acid chains break down and bond with the iron, creating a hard, plastic-like layer called a polymer. This is your "seasoning."
+* **Thermal Shock (Pans):** Metal expands when hot. If you hit a searing hot pan with cold water, the metal contracts violently. Since the layers (steel/aluminum) contract at different rates, the pan warps, ruining its contact with the stove forever.
+
+**Practical Application: The Maintenance Loop**
+
+**1. The Edge (Blade Management)**
+
+* **Honing (The Daily Ritual):**
+  * *Tool:* The Honing Rod (Steel).
+  * *Function:* It does *not* sharpen (remove metal). It **realigns** the rolled-over teeth.
+  * *Technique:* Swipe the blade against the rod at a 15° angle (match a book of matches). Do this *every single time* you pick up your knife.
+* **Sharpening (The Periodic Repair):**
+  * *Tool:* Whetstone (1000/6000 grit).
+  * *Function:* Grinding away metal to create a fresh edge.
+  * *Frequency:* Once every 2–6 months, depending on usage.
+* **Storage:** Never store a knife loose in a drawer. It bangs against other tools, destroying the edge you just fixed. Use a magnetic strip or a blade guard.
+
+**2. The Iron (Cast Iron & Carbon Steel)**
+
+* **The Rule:** Water is the enemy. Rust is the penalty.
+* **Cleaning:**
+  * *The Salt Scrub:* If food is stuck, do not soak. Pour coarse salt into the warm pan and scrub with a paper towel. The salt acts as an abrasive without stripping the seasoning.
+  * *The Drying:* After washing, place the pan back on the burner on low heat until bone dry.
+* **Re-Seasoning:** If the pan looks gray or dull, wipe a microscopic layer of neutral oil (canola/grapeseed) onto it and heat until it smokes lightly. You are rebuilding the polymer.
+
+**3. The Steel (Stainless Clad)**
+
+* **The "Rainbow" Stain:** If your shiny pan develops a blue/rainbow tint, that is heat oxidation or mineral deposit. It is harmless but unsightly.
+  * *The Fix:* A splash of white vinegar will dissolve it instantly.
+* **The Stuck "Fond":** If you burned food onto the stainless steel:
+  * *Deglaze:* Add water and boil it on the stove. The bubbles will lift the carbon.
+  * *The Chemical:* Use "Bar Keepers Friend" (Oxalic Acid). It chemically breaks the bond between the food and the steel without scratching the mirror finish.
+
+**Practice Exercise: The "Paper" Test** **Goal:** Diagnose the state of your edge.
+
+1. **Setup:** Hold a single sheet of standard printer paper vertically in the air.
+2. **Action:** Place the heel of your knife at the top edge and slice down lightly.
+3. **The Diagnosis:**
+   * *Silent Slice:* The knife glides through with a "whisper." (Perfect Alignment).
+   * *The Tear:* The knife catches, rips the paper, or creates a jagged edge. (The edge is rolled or dull).
+4. **Correction:** If it tears, hone the knife (10 swipes per side) and try again. If it still tears, it needs the whetstone.

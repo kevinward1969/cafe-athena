@@ -1,0 +1,42 @@
+### **Technique Folio - Spontaneous Fermentation (Wild Capture Sourdough Starter)**
+
+**Concept Definition:** Unlike the packet you possess, which contains a monoculture (a single, specific strain of yeast and bacteria selected for stability), a "Wild" starter is a **polyculture**. You are creating a biological trap to capture whatever yeast and bacteria are currently living on the grain husks and in your kitchen air.
+
+**The Science: The "Bran Advantage"** To start a SCOBY from scratch, Whole Wheat and Rye are not just "okay"—they are **mandatory**. Here is why White Flour fails at this stage while Rye succeeds:
+
+* **Microbial Load (The Seed):** The wild yeast (*Saccharomyces exiguus*) and lactic acid bacteria you need live on the **bran** (the outer shell) of the wheat berry. White flour has this removed. Using 100% White Flour to start a culture is like trying to plant a forest using only sawdust. You need the seeds found in Whole Wheat or Rye.
+* **The "Ash" Content (The Fuel):** Rye flour is rich in minerals (technically called "ash"), specifically manganese, zinc, and iron. These act as micronutrients that drive reproduction rates in yeast.
+* **Amylase Activity (The Engine):** Rye contains high levels of the enzyme *amylase*, which breaks complex starches into simple sugars. This provides an immediate, easily accessible food source for the weak microbes, allowing them to establish a foothold quickly.
+
+**The "False Start" Phenomenon (Crucial Theory)** When starting a wild SCOBY, you will observe a violent burst of activity on Day 2 or 3, often accompanied by a vile smell (like rotting cheese or vomit).
+
+* **The Cause:** This is **not** yeast. It is a bacterial infection (usually *Leuconostoc*) that thrives in a neutral pH.
+* **The Solution:** Do not throw it away. As you continue to feed it, the *Lactobacillus* will produce acid, dropping the pH of the culture. This acidity kills the bad bacteria and creates the perfect environment for the good yeast to finally move in.
+
+**Practical Application: The "Rye Jumpstart" Protocol**
+
+**1. The Capture (Days 1–3)**
+
+* **Ratio:** 1:1 by weight.
+* **Ingredients:** 50g Whole Rye Flour + 50g Warm Water (80°F/26°C).
+* **Why:** We use 100% Rye here to ensure the highest possible microbial load. We want a "dirty" flour to ensure we catch something.
+
+**2. The Selection (Days 4–7)**
+
+* **Action:** Discard 50% of the mixture, then feed.
+* **The Shift:** Switch to a 50/50 blend of **Unbleached All-Purpose Flour** and **Whole Wheat**.
+* **Why:** If you continue with 100% Rye, the culture will become too proteolytic (the gluten will degrade into soup) and too sour. We introduce white flour now to "train" the yeast to eat the food it will eventually bake with.
+
+**3. The "Float Test" (Verification)**
+
+* Once the culture doubles in size within 4–6 hours of feeding and smells like pleasant, ripe fruit or yogurt (not gym socks), it is ready.
+
+**Practice Exercise: The "Comparison Jar"**
+
+* **Goal:** Visualize the difference in microbial activity between substrates.
+* **Setup:** Two small jars.
+  * **Jar A:** 20g White Flour + 20g Water.
+  * **Jar B:** 20g Whole Rye Flour + 20g Water.
+* **Action:** Leave on the counter for 48 hours.
+* **Observation:** Jar A will likely be gray, still, and separate into water and paste. Jar B will likely be expanded, bubbly, and smell distinct.
+* **Lesson:** Biology requires the right habitat. Jar B is a forest; Jar A is a parking lot.

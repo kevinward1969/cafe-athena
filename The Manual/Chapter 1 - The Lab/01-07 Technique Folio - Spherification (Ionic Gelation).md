@@ -1,0 +1,68 @@
+# **Technique Folio - Spherification (Ionic Gelation)**
+
+### **Concept Definition**
+
+**Spherification** is the process of encapsulating a liquid within a thin, gelled membrane, mimicking the texture of caviar or an egg yolk. This is achieved using **hydrocolloids**—gums that thicken or gel when dispersed in water.
+
+There are two primary methods:
+
+* **Direct Spherification:** An alginate-spiked liquid is dropped into a calcium bath. The gel forms from the *outside in*. (Best for: Syrups, "caviar" drops).
+* **Reverse Spherification:** A calcium-rich liquid is dropped into an alginate bath. The gel forms at the *interface*. (Best for: Alcohol, dairy, high-acid juices, and large spheres).
+
+### **The Science**
+
+At a molecular level, this technique relies on **Ionic Gelation**. The primary agent is **Sodium Alginate**, a long-chain polysaccharide extracted from brown algae. In its hydrated state, alginate chains repel each other, creating a viscous liquid.
+
+When these chains encounter **Calcium ions (Ca²⁺)**, a cross-linking reaction occurs. The divalent calcium ions displace the sodium ions and bind two different alginate chains together, locking them into a "net" or 3D matrix. This creates the semi-solid membrane.
+
+* **In Direct Spherification:** The calcium bath penetrates the alginate droplet. The gelling continues until the calcium reaches the center, eventually solidifying the entire sphere.
+* **In Reverse Spherification:** The alginate bath interacts with the calcium leaking *out* of the droplet. The membrane forms on the surface. Once removed from the bath and rinsed, the reaction halts, leaving the liquid center permanently liquid.
+
+### **Practical Application**
+
+To execute this in a home kitchen, you must control the chemical variables.
+
+#### **1. The Core Variables**
+
+* **Hydration (Shearing):** Sodium Alginate is hydrophilic but difficult to hydrate; it tends to clump. You must use an immersion blender to create a high-shear vortex to disperse it fully.
+* **De-aeration:** Blending creates air bubbles which will ruin the aesthetic of your sphere. The alginate base must rest (2–12 hours) or be vacuum-sealed to remove air before use.
+* **pH Sensitivity:** Alginate degrades in high acid (pH < 3.6). For acidic ingredients (citrus, balsamic), use **Sodium Citrate** as a buffer, or switch to Reverse Spherification, which is pH-resistant.
+
+#### **2. The Master Ratios (Cheat Sheet)**
+
+Use these starting percentages to formulate your own recipes.
+
+| Method | Best For | The Base (Flavor) | The Bath (Setting) |
+| :---- | :---- | :---- | :---- |
+| **Direct** | Syrups, thin juices, caviar drops. | Liquid + **0.8%** Sodium Alginate | Water + **0.5–1.0%** Calcium Chloride |
+| **Reverse** | Dairy, alcohol, large yolks. | Liquid + **2.0%** Calcium Lactate Gluconate | Water + **0.5%** Sodium Alginate |
+
+#### **3. Advanced Troubleshooting**
+
+* **The "Splat" Factor (Viscosity):** If your flavor base is thin (like water or a cocktail), it will flatten into a disk when dropped.
+  * *The Fix:* Whisk **0.2% Xanthan Gum** into the flavor base. This adds just enough viscosity to hold a round shape due to surface tension.
+* **Calcium Selection:**
+  * **Calcium Chloride (CaCl₂):** Extremely salty/bitter. Use *only* for the Bath (Direct method) where it is rinsed off.
+  * **Calcium Lactate Gluconate:** Flavorless. Use for the Base (Reverse method) where it remains inside the food.
+* **The "Frozen Reverse" Technique:** Shaping perfect spheres with a spoon is difficult.
+  * *The Fix:* Freeze your calcium-rich flavor base in silicone hemisphere molds. Drop the frozen solids into a warm (50°C/120°F) alginate bath. As the surface thaws, it gels instantly, creating a perfectly round shell.
+
+### **Practice Exercise: Mango & Cardamom "Yolks"**
+
+**Goal:** Create large, stable liquid-center spheres using the Reverse Spherification method.
+
+**Components**
+
+* **The Bath:** 1000g Water (low calcium/filtered) + 5g Sodium Alginate (0.5%).
+* **The Base:** 250g Mango Puree + 5g Calcium Lactate Gluconate (2%) + pinch of ground Cardamom.
+
+**Procedure**
+
+1. **Prepare the Bath (T-Minus 12 Hours):** Disperse the Sodium Alginate into the water using an immersion blender until completely dissolved. Strain and let rest in the fridge overnight to remove air bubbles.
+2. **Prepare the Base:** Whisk the Calcium Lactate and cardamom into the mango puree. If the puree is too thick to flow into a sphere, thin it slightly with water or simple syrup.
+3. **Form the Spheres:**
+   * Pour the Alginate bath into a wide, flat container (at least 2 inches deep).
+   * Using a hemispherical tablespoon measure, scoop the mango mixture.
+   * Bring the spoon close to the surface of the bath and pour rapidly with a "wrist flick" to drop the liquid as a single coherent blob.
+4. **Cook:** Let the spheres float in the bath for 2 minutes. Do not let them touch the bottom or each other.
+5. **Rinse & Serve:** Using a slotted spoon, transfer the spheres to a bowl of clean water to rinse off excess alginate. Serve immediately.

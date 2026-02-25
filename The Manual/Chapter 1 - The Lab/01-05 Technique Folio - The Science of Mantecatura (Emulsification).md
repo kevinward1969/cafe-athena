@@ -1,0 +1,30 @@
+## **Technique Folio - The Science of Mantecatura (Emulsification)**
+
+**Concept Definition** *Mantecatura* (from the Spanish/Italian *manteca*, meaning butter or lard) is the final, critical step in making risotto. It is the vigorous beating of cold fat (butter) and cheese into the hot rice mixture off the heat. It transforms a pot of wet rice into a cohesive, flowing, creamy dish.
+
+**The Science** Technically, a finished risotto is a **Three-Phase System**:
+
+1. **Solids:** The rice grains (starch structure).
+2. **Continuous Phase:** The liquid (stock thickened with dissolved starch).
+3. **Dispersed Phase:** The fat (butter and cheese).
+
+The goal of Mantecatura is to create a stable **Oil-in-Water Emulsion**.
+
+* **The Stabilizer (Starch):** As the rice cooks, it releases amylose and amylopectin into the stock. This starchy liquid acts as the surfactant (stabilizer) that allows water and fat to mix without separating.
+* **The Temperature Variable:** Emulsions are heat-sensitive. If the risotto is boiling (212°F/100°C), the fat molecules move too fast to bond with the starch water, causing the butter to "break" (separate into clear oil).
+* **The "Rest":** By resting the pot for 1 minute off the heat, the temperature drops to roughly 175°F–185°F (80°C–85°C). This is the "Goldilocks Zone" where fat melts but remains stable enough to be trapped in the starch network.
+
+**Practical Application**
+
+1. **Remove from Heat:** Never perform Mantecatura over a flame.
+2. **Add Cold Fat:** Use *cold* cubed butter, not melted. Cold butter melts slowly, allowing it to disperse evenly as tiny droplets rather than flooding the mix as liquid oil.
+3. **Agitation:** You must beat the mixture vigorously. The physical force shears the fat into microscopic droplets, thickening the sauce.
+
+**Practice Exercise: The "Viscosity" Test** **Goal:** Observe how agitation changes texture.
+
+1. **The Control:** Take a scoop of risotto *before* adding butter. Put it on a plate.
+   * *Observation:* It looks "weepy." A ring of thin liquid will likely seep out from the rice.
+2. **The Variable:** Add your cold butter and cheese to the pot. Rest for 1 minute.
+3. **The Action:** Beat the risotto hard with a wooden spoon for 30 seconds.
+4. **The Result:** Plate the finished risotto next to the control.
+   * *Observation:* The finished risotto flows like lava. There is no weeping liquid; the sauce and rice move as one unit.

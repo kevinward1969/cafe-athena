@@ -1,0 +1,53 @@
+## **Technique Folio \- Knife Mechanics (The Geometry of the Cut)**
+
+**Concept Definition:** Knife skills are not about speed; they are about **Geometry** and **Physics**. A knife is a wedge. Your goal is to drive that wedge through food with the least amount of resistance. Most home cooks "chop" (pushing straight down), which requires force. Professionals "slice" (moving forward or backward while pushing down), which uses mechanical advantage.
+
+**The Physics: Cellular Integrity**
+
+* **The Wedge Effect:** A knife blade is thick at the spine and microscopic at the edge. If you just push down, you are forcing a wedge into a solid object. This crushes the cell walls.  
+  * *Result:* Crushed herbs turn black (oxidation). Crushed onions release syn-propanethial-S-oxide (the gas that makes you cry) because you ruptured the cells violently.  
+* **The Draw Slice:** By adding horizontal motion (sliding the blade), you reduce the friction of the wedge. You are sawing, not splitting.  
+  * *Result:* Cleanly severed cell walls retain their juices and flavor.
+
+**Practical Application: The Interface**
+
+**1\. The Grip: The Pinch (The Fulcrum)** Most beginners hold the handle like a tennis racket. This is wrong. It puts the center of gravity far from your hand, reducing control.
+
+* **The Technique:** Place your thumb on one side of the blade (the metal itself) and your coiled index finger on the other. Your remaining three fingers wrap loosely around the handle.  
+* **Why:** You are now holding the tool at its fulcrum (balance point). The knife becomes an extension of your arm, not an accessory dangling from it.
+
+**2\. The Guide: The Claw (The Shield)** Your non-dominant hand has two jobs: holding the food and protecting your fingertips.
+
+* **The Technique:** Curl your fingertips inward so your nails are hidden. Rest the flat plane of the knife blade against your knuckles.  
+* **The Mechanism:** Your knuckles act as a fence. The knife rides up and down against them, making it physically impossible to cut yourself unless you lift the blade higher than your knuckles.
+
+**3\. The Motion: The Locomotive** Stop "chopping" like a piston. Use the curvature of the blade.
+
+* **The Rolling Cut:** Start with the tip on the board. Push the blade forward and down, rolling on the curve. Cycle the knife in a circular motion like the wheel of a train. This keeps the knife in contact with the board and ensures a clean slice.
+
+**4\. The Standards: Precision Cuts** In *Café Athena*, we use metric definitions. "Small Dice" is subjective; "6mm" is not. Uniformity equals even cooking.
+
+**The Rectangles (Sticks & Cubes)**
+
+* **Fine Julienne:** 1.5mm×1.5mm×50mm. Used for garnishes and raw salads.  
+* **Julienne:** 3mm×3mm×50mm strips. The standard starting point for carrots and celery.  
+* **Batonnet:** 6mm×6mm×50mm sticks. The standard "fry" shape.  
+* **Brunoise:** 3mm×3mm×3mm cubes. (Derived from cross-cutting a Julienne).  
+* **Small Dice (Macédoine):** 6mm×6mm×6mm. (Derived from cross-cutting a Batonnet).  
+* **Medium Dice (Parmentier):** 12mm×12mm×12mm. Standard for soups and stews.
+
+**The Geometrics (Shapes)**
+
+* **Paysanne (Tile):** 12mm×12mm×3mm. A thin, flat square. Used in soups to cook quickly while matching the surface area of a medium dice.  
+* **Rondelle (Rounds):** Discs cut from cylindrical vegetables (carrots, parsnips). Thickness varies (3mm to 6mm) but must be consistent.  
+* **Tourné (Turned):** The classic 7-sided football shape. 50mm long. Used for glazed root vegetables. It demonstrates mastery of knife control.  
+* **Chiffonade (Ribbons):** For leafy herbs (basil, sage). Stack leaves, roll tightly like a cigar, and slice perpendicular into fine threads.
+
+**Practice Exercise: The "Scallion" Test** **Goal:** Verify sharpness and technique.
+
+1. **Setup:** Place a single scallion (green onion) on your board.  
+2. **Action:** Slice it into thin rings using the **Rolling Cut**.  
+3. **The Audit:** Look at the rings.  
+   * *Pass:* The rings are perfect circles. The board is dry.  
+   * *Fail:* The rings are flattened ovals connected by a thread of uncut skin (accordion). The board is wet (juice pressed out).  
+4. **Correction:** If you failed, you are pushing down (crushing) instead of slicing (sliding), or your knife is dull.

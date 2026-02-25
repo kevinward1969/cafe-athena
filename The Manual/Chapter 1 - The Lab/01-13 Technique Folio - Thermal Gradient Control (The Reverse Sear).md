@@ -1,0 +1,53 @@
+# 01-13 Technique Folio - Thermal Gradient Control (The Reverse Sear)
+
+**CONCEPT DEFINITION:** The Reverse Sear is a two-stage cooking method where the meat is brought to its target internal temperature gently in a low-temperature environment (oven) before being finished with a high-heat sear. This creates a uniform "edge-to-edge" doneness, eliminating the "bullseye" gradient (gray band) found in traditionally cooked steaks.
+
+**THE SCIENCE** Traditional cooking relies on high heat to drive energy into the center of the meat. To get the center to medium-rare (54°C), the exterior layers must inevitably be overcooked to gray well-done. This is a high thermal gradient.
+
+The Reverse Sear utilizes a low thermal gradient. By keeping the oven temperature low (95°C–120°C), we gently raise the core temperature without overcooking the outer layers. Furthermore, the circulating dry air in the oven desiccates (dries) the surface of the meat. Since water boils at 100°C and the Maillard reaction (browning) occurs rapidly above 150°C, surface moisture is the enemy of a good crust. The pre-drying phase allows for an almost instant, deep-brown sear when the meat finally hits the pan.
+
+**PRACTICAL APPLICATION**
+
+* **The Cut:** This method is strictly for thick cuts (at least 4cm / 1.5 inches). Thin steaks will overcook internally before the surface dries.
+* **The Setup:** Airflow is critical. The steak must sit on a wire rack over a baking sheet, not directly on the metal sheet, to ensure even heating and drying on all sides.
+* **The Thermometer:** This technique relies on precision, not time. A digital probe thermometer is mandatory.
+
+**PRACTICE EXERCISE: THE PERFECT REVERSE SEAR**
+
+**YIELD:** 2 Steaks | **PREP:** 10 min | **COOK:** 45–60 min
+
+**MISE EN PLACE**
+
+* **Thaw** the steaks completely if frozen (24–48 hours in fridge).
+* **Set** a wire rack inside a rimmed baking sheet.
+* **Pat** the steaks completely dry with paper towels.
+* **Season** generously with salt (dry brine) at least 45 minutes prior, leaving them uncovered in the fridge if time permits.
+* **Preheat** oven to **225°F / 105°C**.
+
+**INGREDIENTS**
+
+* 2 thick-cut Ribeye or New York Strip steaks (min 4cm / 1.5 in thick)
+* 15ml (1 tbsp) Neutral oil (Grapeseed or Canola)
+* 45g (3 tbsp) Unsalted butter
+* 2 sprigs Thyme or Rosemary
+* 1 clove Garlic, crushed
+* Flaky salt (Maldon)
+
+**METHOD**
+
+**1. THE TEMPER (THE DRY PHASE)** Place the seasoned steaks on the wire rack assembly. Insert a probe thermometer into the geometric center of the smallest steak. Place in the oven. Cook until the internal temperature reaches **115°F / 46°C** for Medium-Rare. *Note:* This will look unappealing—pale and gray. This is normal. **Why:** We are aiming for 10–15 degrees below our final target temp, as the sear will add the rest.
+
+**2. THE REST (EQUILIBRIUM)** Remove steaks from the oven. Let them rest on the rack for 10 minutes. **Why:** This halts the rising temperature and allows the surface moisture to evaporate further.
+
+**3. THE SEAR (MAILLARD REACTION)** Heat a heavy cast-iron skillet over high heat until smoking. Add the neutral oil. Place steaks in the pan. Sear for 45–60 seconds on the first side. Flip the steaks. They should be deep mahogany brown.
+
+**4. THE BASTE (AROMATICS)** Immediately after flipping, turn the heat to medium. Add the butter, garlic, and herbs. Tilt the pan so the melting butter pools with the herbs. Spoon the hot, foaming butter over the steaks constantly for 45 seconds. **Why:** Butter solids milk wash the surface, filling in crevices for consistent browning and flavor transfer.
+
+**5. SERVICE** Remove from pan immediately. Slice against the grain and finish with flaky salt.
+
+**GLOSSARY**
+
+* **Thermal Gradient:** The difference in temperature between the exterior and interior of the meat.
+* **Desiccation:** The removal of moisture. Essential for efficient browning.
+* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+* **Dry Brine:** Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.

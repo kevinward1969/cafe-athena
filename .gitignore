@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.Trashes
+
+# Local development
+.env
+.env.local
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Editor backups
+*~
+*.bak
+*.swp
+
+# Google Drive / Cloud
+.gdrive*
+*.gdoc

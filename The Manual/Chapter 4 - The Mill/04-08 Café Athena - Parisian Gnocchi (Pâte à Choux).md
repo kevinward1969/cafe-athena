@@ -1,0 +1,81 @@
+# Café Athena - Parisian Gnocchi (Pâte à Choux)
+
+## Light, herb-flecked dumplings that bridge the gap between pasta and pastry, featuring a crisp, butter-basted exterior and a cloud-like interior.
+
+Yield: 4 servings | Prep: 30 min | Cook: 20 min | Total: ~50 min
+
+**Headnote** Unlike their dense potato cousins, Parisian Gnocchi are built on *Pâte à Choux*, the same dough used for profiteroles and éclairs. Because the flour is pre-cooked in a liquid fat mixture (the *panade*), the starch granules gelatinize before the dumplings ever hit the boiling water. This results in a dumpling with superior structural integrity that puffs dramatically when seared, creating a texture that is simultaneously crispy and ethereal.
+
+**Teaching Idea:** The Panade (Starch Gelatinization). Cooking the flour and butter together before adding eggs is not just about mixing; it is about moisture control. By "drying out" the dough in the pot, you evaporate excess water, allowing the dough to absorb more egg (fat and emulsifiers) later. This creates the steam necessary for the gnocchi to puff during the final sear.
+
+**Mise en Place (Action Checklist)**
+
+* **Weigh all ingredients:** Precision is critical for the choux ratio.
+* **Prepare the poaching liquid:** Bring a large pot of water to a rolling boil and salt heavily (like the sea).
+* **Set up the ice bath:** Prepare a bowl with ice and water to shock the gnocchi.
+* **Prepare the piping bag:** Fit a large piping bag with a ½-inch (1.25 cm) round tip (or simply cut the tip).
+* **Mise the herbs:** Finely chop the chives and parsley.
+* **Grate the cheese:** Microplane the Gruyère and Parmesan.
+
+**Ingredients**
+
+**The Panade (The Base)**
+
+* 125 g (½ cup) Water
+* 125 g (½ cup) Whole Milk
+* 113 g (1 stick) Unsalted Butter, cut into cubes
+* 4 g (1 tsp) Diamond Crystal Kosher Salt
+* 1 g (¼ tsp) Freshly Grated Nutmeg
+* 150 g (1 cup + 1 tbsp) All-Purpose Flour
+
+**The Enrichment**
+
+* 15 g (1 tbsp) Dijon Mustard
+* 3 Large Eggs, room temperature (approx. 150g total)
+* 60 g (½ cup) Gruyère Cheese, finely grated
+* 30 g (¼ cup) Parmesan Cheese, finely grated
+* 10 g (2 tbsp) Chives, finely minced
+* 10 g (2 tbsp) Parsley, finely minced
+
+**The Sear (Finishing)**
+
+* 30 g (2 tbsp) Unsalted Butter
+* 15 ml (1 tbsp) Neutral Oil (Grapeseed or Canola)
+
+**Method**
+
+**Phase 1: Make the Panade** Combine water, milk, butter, salt, and nutmeg in a medium saucepan over medium-high heat. Bring to a boil. Once the butter is fully melted and the liquid is rolling, remove from heat immediately.
+
+Add the flour all at once. Stir vigorously with a wooden spoon until a dough forms. Return the pan to medium heat.
+
+**Cook the dough:** Mash the dough against the bottom and sides of the pan constantly for 2–3 minutes. **Sensory Cue:** The dough is ready when it pulls away cleanly from the sides of the pan, forms a smooth ball, and leaves a thin, filmy skin on the bottom of the pot. **Why:** This "drying" phase evaporates water, ensuring the flour starch is fully gelatinized and ready to accept the eggs without becoming runny.
+
+**Phase 2: The Emulsion** Transfer the hot dough to the bowl of a stand mixer fitted with the paddle attachment. Mix on low speed for 1–2 minutes to release steam. **Sensory Cue:** Touch the bowl; it should be warm, not scalding hot (below 140°F/60°C). If it is too hot, the eggs will scramble.
+
+Add the Dijon mustard. Add the eggs **one at a time**, mixing on medium speed. Wait until each egg is fully incorporated before adding the next. The dough will look curdy at first but will come together into a glossy, smooth paste.
+
+Add the cheeses and herbs. Mix on low speed just until combined. Transfer the mixture to your prepared piping bag.
+
+**Phase 3: Poach and Shock** Reduce the boiling water to a simmer. Working in batches, pipe the dough over the water, using a paring knife or bench scraper to cut the stream of dough into 1-inch (2.5 cm) "pillows" that drop directly into the water.
+
+**Simmer:** Cook for 2–3 minutes. **Sensory Cue:** The gnocchi will float to the surface. Let them float for 30 seconds to ensure the center is set.
+
+**Shock:** Using a spider or slotted spoon, transfer the gnocchi immediately to the ice bath. Once cool (about 1 minute), drain and toss with a little oil to prevent sticking. **Why:** The ice bath halts the cooking process, setting the protein structure so the gnocchi are firm enough to be handled and seared later.
+
+**Phase 4: The Maillard Sear** In a large stainless steel or cast-iron skillet, heat the neutral oil over medium-high heat until shimmering. Add the boiled gnocchi in a single layer (do not crowd the pan).
+
+Sear undisturbed for 2–3 minutes until the bottoms are deep golden brown.
+
+Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and brown the other sides, about 1–2 minutes more. Serve immediately.
+
+**Chef's Notes / Variations**
+
+* **Make Ahead:** These freeze exceptionally well after Phase 3. Freeze them on a sheet tray after boiling/cooling, then bag them. You can sear them directly from frozen (just add 1–2 minutes to the sear time).
+* **Saucing:** Unlike potato gnocchi which rely on sauce for flavor, these are rich in fat and cheese. They pair best with a simple Brown Butter & Sage sauce or a light Mornay.
+* **Texture Troubleshooting:** If your gnocchi dissolve in the water, you likely did not cook the *panade* long enough (Phase 1) or added too many eggs. The dough should hold its shape when piped.
+
+**Glossary**
+
+* **Panade:** A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry.
+* **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the mixture.
+* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.

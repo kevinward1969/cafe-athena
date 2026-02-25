@@ -1,0 +1,66 @@
+# Café Athena - Italian Wedding Soup (Pollo Rustica)
+
+**A robust dual-protein soup featuring toasted Israeli couscous, seared chicken, and tender Boursin meatballs.** **Yield:** 4–6 servings | **Prep:** 30 min | **Cook:** 45 min
+
+**Overview** This "Rustica" variant moves away from delicate starters into main-course territory. We replace standard orzo with Israeli couscous, treating it like risotto to preserve texture. The "marriage" here is threefold: the savory depth of the roasted meatballs, the Maillard-rich seared chicken, and the bright, vegetal finish of fresh herbs.
+
+### **Mise en Place (Action Checklist)**
+
+* **Roast the Meatballs:** Prepare the *Boursin & Bacon* meatball mix. Shape into small (38 g) rounds. Roast at **425°F / 220°C** for 15–18 minutes until fully cooked.
+* **Process the Chicken:** Cut chicken breasts into 1-inch (2.5 cm) cubes. Pat dry with paper towels (crucial for searing).
+* **Dice the Mirepoix:** Small dice the onion, carrots, and celery (aim for sizes matching the couscous pearls).
+* **Prepare Aromatics:** Mince the garlic cloves and finely chop the parsley.
+* **Measure the Couscous:** Have the Israeli couscous ready.
+
+### **Ingredients**
+
+**The Proteins**
+
+* 1 batch **Mini Boursin & Bacon Meatballs** (scaled to 38 g; see **Chapter 3**)
+* 2 large chicken breasts, cubed
+* 30 ml (2 tbsp) olive oil (for searing)
+
+**The Soup Base**
+
+* 1 yellow onion, small dice
+* 2 carrots, small dice
+* 2 celery stalks, small dice
+* 3 cloves garlic, minced
+* 240 g (1½ cups) Israeli couscous (Pearl couscous)
+* 1.5 L (6 cups) chicken stock (high quality)
+* 120 ml (½ cup) dry white wine (Pinot Grigio or Sauvignon Blanc)
+* Salt and black pepper to taste
+
+**The Finish**
+
+* 150 g (5 oz) fresh spinach
+* 15 g (2 tbsp) fresh flat-leaf parsley, finely chopped
+* Freshly grated Parmesan cheese
+
+### **Method**
+
+**1. Sear the Chicken (The Maillard Step)** Heat olive oil in a cast-iron skillet over high heat until shimmering. Add chicken cubes in a single layer (do not crowd). Sear hard for 2–3 minutes until golden brown on one side.
+
+* **Note:** The chicken should still be raw in the center.
+* **Why:** We want the flavor of the crust, but we will finish cooking it gently in the broth later to keep it tender. Remove chicken and set aside.
+
+**2. Deglaze and Build the Base** In a large Dutch oven or soup pot, add a splash of oil and the mirepoix (onion, carrot, celery). Sauté over medium heat until onions are translucent (5–6 min). **Add the minced garlic and cook for 45 seconds until fragrant.** Pour the white wine into the hot cast-iron skillet used for the chicken. Scrape up the **fond** (browned bits). Pour this flavorful liquid into the soup pot with the vegetables.
+
+**3. Toast the Starch** Add the dry Israeli couscous to the soup pot. Stir constantly for 2–3 minutes.
+
+* **Sensory Cue:** The pearls should smell nutty and turn a light golden brown.
+* **Why:** This toasts the outer starch layer, preventing the pasta from releasing too much amylose and turning the soup cloudy/gummy.
+
+**4. Simmer the Broth** Add the chicken stock to the pot. Bring to a boil, then reduce to a simmer. Cook for 8–10 minutes, or until the couscous is *al dente* (firm to the bite).
+
+**5. The Marriage (Final Assembly)** Reduce heat to low. Add the seared chicken cubes and the roasted meatballs to the pot. Simmer gently for 3–5 minutes.
+
+* **Check:** Ensure chicken is cooked through and meatballs are hot.
+* **Finish:** Turn off the heat. Stir in the fresh spinach and chopped parsley immediately. They will wilt in seconds. Taste and adjust salt/pepper. Serve with Parmesan.
+
+### **Glossary**
+
+* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+* **Fond:** The caramelized browned bits stuck to the bottom of a pan after searing meat; a major source of flavor.
+* **Mirepoix:** A flavor base made from diced vegetables (usually onions, carrots, and celery).
+* **Deglaze:** Adding liquid to a hot pan to dissolve the fond.

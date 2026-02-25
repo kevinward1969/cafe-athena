@@ -1,0 +1,44 @@
+## **Technique Folio - Salinity & Equilibrium**
+
+**Concept Definition:** Salt (NaCl) is the only rock we eat. In the kitchen, it is not just a seasoning; it is a tool for **Water Management**. It has the power to draw moisture out of a vegetable (cell wall collapse) or trap moisture inside a steak (protein denaturation). Controlling salt means controlling the texture of your food.
+
+**The Science: The Three Mechanisms** To use salt like a professional, you must understand what it is doing to the water in your food.
+
+1. **Osmosis (The Extraction):** Salt is hygroscopic (water-loving). When you salt a raw vegetable (like a cucumber or eggplant), the salt pulls water *out* of the cells through the semi-permeable cell walls to dissolve the salt crystals.
+   * *Result:* Crunchy vegetables become limp; raw onions lose their bite; cabbage softens for coleslaw without cooking.
+2. **Diffusion (The Penetration):** Over time, the salty brine created by osmosis will re-absorb into the food, seeking equilibrium.
+   * *Result:* This is how brining works. The salt travels deep into the center of a turkey breast, carrying flavor with it.
+3. **Denaturation (The Modification):** In proteins (meat), salt dissolves the muscle filament *myosin*.
+   * *Result:* This loosens the protein network, allowing it to hold onto water like a sponge rather than squeezing it out like a wrung towel. A pre-salted steak will always be juicier than one salted immediately before cooking.
+
+**Practical Application: The "When" and "What"**
+
+**1. The "When" (Timing is Texture)**
+
+* **Salt Early (Meat):** Salt large roasts or steaks at least 45 minutes (or up to 24 hours) before cooking.
+  * *Why:* You need time for Diffusion. If you salt and immediately sear, the salt draws moisture to the surface, which boils off (steaming the gray meat) and leaves the inside bland. Give it time to re-absorb.
+* **Salt Early (Sweating Veg):** When sautéing onions (Mirepoix), add salt immediately.
+  * *Why:* It draws out moisture quickly, preventing the onions from browning/burning and helping them soften (sweat).
+* **Salt Late (Finishing):** For mushrooms or delicate salads.
+  * *Why:* Salt makes mushrooms rubbery if added too soon. Salt wilts salad greens instantly.
+
+**2. The "What" (Grain Geometry)** Not all salts are created equal. We measure salt by **Volume** (fingers/spoons), but we taste salt by **Weight**.
+
+* **Diamond Crystal Kosher (The Standard):** Hollow, pyramid-shaped crystals. They are light and crush easily between fingers.
+  * *Density:* 1 teaspoon = 3 grams.
+  * *Verdict:* Very forgiving. You can cover a steak in "snow" without over-salting.
+* **Morton Kosher:** Dense, rolled flakes.
+  * *Density:* 1 teaspoon = 6 grams (Twice as salty by volume!).
+  * *Verdict:* If using Morton, cut all recipe salt amounts by 50%.
+* **Table Salt:** Tiny, dense cubes. Often iodized.
+  * *Density:* 1 teaspoon = 7 grams.
+  * *Verdict:* Do not use for cooking. It dissolves too fast, is hard to pinch, and the iodine adds a metallic taste. Use only for pasta water in a pinch.
+
+**Practice Exercise: The "Zucchini Sweat"** **Goal:** Visualize the power of Osmosis.
+
+1. **Setup:** Slice one zucchini into rounds. Divide into two piles.
+2. **Action:** Sprinkle Pile A generously with salt. Leave Pile B alone. Wait 15 minutes.
+3. **Observation:**
+   * *Pile B:* Dry, rigid, white/green.
+   * *Pile A:* Wet, glistening, flexible, and sitting in a pool of green liquid.
+4. **Lesson:** You just "cooked" the zucchini without heat. If you had thrown Pile A into a hot pan without drying it, it would have steamed in that liquid instead of searing.
