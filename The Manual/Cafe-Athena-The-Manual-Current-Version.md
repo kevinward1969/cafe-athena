@@ -145,6 +145,8 @@
 * 10-17 Café Athena \- Pressure-Roasted Brown Stock (Fond Brun)  
 * 10-18 Café Athena \- Sauce Espagnole (Mother Sauce No. 3\)  
 * 10-19 Café Athena \- Classic Demi-Glace
+* 10-20 Café Athena \- Ligurian Salsa di Noci (Toasted Walnut Pesto)
+* 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 

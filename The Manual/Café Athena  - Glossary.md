@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## A
 
+- Acid Coagulation: The partial denaturing of milk proteins caused by the introduction of an acid (lemon juice, vinegar), which tightens and thickens cream-based sauces without starch.
 - Al Dente: "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.
 - Alveoli: The internal hole structure of the bread.
@@ -143,6 +144,7 @@ of a sauce that is thick enough to coat the back of a spoon and hold a line when
 ## P
 
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry.
+- Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
 - Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to.
 - Pincage: A mixing technique involving squeezing dough through fingers to incorporate ingredients evenly.
 - Pincé: The technique of cooking tomato paste until it darkens/caramelizes.
