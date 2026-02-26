@@ -68,8 +68,9 @@
 * 04-11 Café Athena \- Gnocchi 201 (The Master Doughs)  
 * 04-12 Café Athena \- Pasta e Patate (Napoli Style)  
 * 04-13 Café Athena \- Same-Day Sourdough Discard Focaccia  
-* 04-14 Café Athena – "The Companion" Louisiana-Style Black Beans & Rice  
-* 04-15 Café Athena \- Prosciutto Balanzoni
+* 04-14 Café Athena \- "The Companion" Louisiana-Style Black Beans & Rice  
+* 04-15 Café Athena \- Prosciutto Balanzoni  
+* 04-16 Café Athena \- The Definitive Guide to Egg Pasta
 
 ## CHAPTER 5: THE FISHMONGER
 
