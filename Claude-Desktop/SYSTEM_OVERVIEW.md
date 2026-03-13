@@ -168,6 +168,7 @@ When Claude processes your request, it references files in this order:
 
 4. Context Files
    ├─→ Cafe-Athena-Workflow-Guide.md (workflow context)
+   ├─→ skill-guide.md (Antigravity Skills mapping)
    └─→ Any previous conversation history
 ```
 

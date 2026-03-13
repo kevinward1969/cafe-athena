@@ -26,7 +26,7 @@ Go to Claude project settings → **Instructions** field
 
 Copy the entire content of `PROJECT_INSTRUCTIONS.md` from this folder and paste it there.
 
-This is ~400 lines. The project will reference attached files for detailed standards.
+This is ~155 lines. The project will reference attached files for detailed standards.
 
 ---
 
@@ -72,7 +72,7 @@ Let's work on a new pasta recipe.
 
 ### Expected Response:
 ```
-I understand you want to develop a recipe. Let's proceed in Mode 1: The Lab.
+I understand you want to develop a new pasta recipe. Let's proceed in Mode 1: The Lab.
 
 [Claude proceeds with recipe development guidance]
 ```
@@ -98,7 +98,7 @@ After setup, check:
 
 - [ ] Project name appears at top of project
 - [ ] Description visible in project settings
-- [ ] Instructions field contains ~400 lines of PROJECT_INSTRUCTIONS.md
+- [ ] Instructions field contains ~155 lines of PROJECT_INSTRUCTIONS.md
 - [ ] All 6 files show in "Attached files" list
 - [ ] Test message triggers Mode 1 detection
 - [ ] Claude references Recipe-Format-Standard.md when asked about format

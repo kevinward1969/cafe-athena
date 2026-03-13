@@ -42,6 +42,27 @@ In Claude Desktop, use the **Attach Files** feature to add (in order):
 | [Technique-Folio-Example.md](../Guidance/Technique-Folio-Example.md) | Sample technique folio |
 | [Technique_Folio_Template_v1.md](../Guidance/Technique_Folio_Template_v1.md) | Technique folio structure template |
 | [Cafe-Athena-The-Manual-Current-Version.md](../The%20Manual/Cafe-Athena-The-Manual-Current-Version.md) | **CRITICAL:** Master index of all cookbook content |
+| [skill-guide.md](../skill-guide.md) | Reference for Antigravity Awesome Skills |
+
+---
+
+## ANTIGRAVITY SKILLS SETUP
+
+To use the advanced agentic skills referenced in the documentation:
+
+1. **Install Skills Library:**
+   Run this command in your terminal (installs to `~/.agent/skills/`):
+   ```bash
+   npx antigravity-awesome-skills --antigravity
+   ```
+
+2. **Verify Installation:**
+   ```bash
+   test -d ~/.agent/skills && echo "Skills installed successfully"
+   ```
+
+3. **Usage:**
+   Reference skills in chat using the `@` prefix (e.g., `Use @brainstorming to...`).
 
 ---
 
@@ -114,3 +135,6 @@ This condensed version maintains all functionality by:
 - **Replace attached files** if Guidance/ versions are updated (excepting Template)
 - **Refresh Manual file** if you add new recipes to maintain accurate indexing
 - **Test with sample request** in each mode before production use
+
+### SCALING NOTE
+If Mode 2 index scans begin returning incorrect numbers (without a CRITICAL ERROR), the Manual file may be too large for reliable retrieval. Split into per-chapter files once the cookbook exceeds ~200 entries.

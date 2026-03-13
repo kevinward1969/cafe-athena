@@ -71,6 +71,7 @@
 * 04-14 Café Athena \- "The Companion" Louisiana-Style Black Beans & Rice  
 * 04-15 Café Athena \- Prosciutto Balanzoni  
 * 04-16 Café Athena \- The Definitive Guide to Egg Pasta
+* 04-17 Café Athena – The Quintessential Spinach Pasta
 
 ## CHAPTER 5: THE FISHMONGER
 
@@ -99,6 +100,7 @@
 * 07-09 Café Athena \- MasterClass Beef Bourguignon  
 * 07-10 Café Athena \- "The Competition Red" Texas-Style Chili  
 * 07-10a Café Athena – "The Competition Red" Texas-Style Chili
+* 07-11 Café Athena \- Pressure-Braised Chuck Roast (The Competition Pot Roast)
 
 ## CHAPTER 8: THE FIELD
 
@@ -148,6 +150,7 @@
 * 10-19 Café Athena \- Classic Demi-Glace
 * 10-20 Café Athena \- Ligurian Salsa di Noci (Toasted Walnut Pesto)
 * 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
+* 10-22 Café Athena \- Beurre Noisette (The Toasted Butter)
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 
