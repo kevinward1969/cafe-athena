@@ -80,6 +80,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## F
 
 - Farcia: A professional term for a fine pasta stuffing or emulsified meat filling.
+- Fat Rendering: The process of applying low, sustained heat to convert solid fat into liquid, which then drains away or is reabsorbed — producing a firmer, less greasy texture in cured meat products.
+- Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
 - Fond: The caramelized browned bits of food stuck to the bottom of a pan after sautéing; the foundation of flavor for sauces.
@@ -94,6 +96,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Garlic-Infused Oil: Olive oil gently heated with crushed garlic cloves until fragrant, then strained. Delivers garlic flavor without the sharpness or texture of raw garlic.
 - Glutamate: An amino acid responsible for the umami taste sensation. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
+- Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
+ An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 
 ## H
 
@@ -123,6 +127,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
 - Mirepoix: A flavor base made from cooked diced vegetables, usually onion, carrot, and celery in a 2:1:1 ratio.
+- Mise en Place: "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
 - Monter au Beurre: "Mount with butter." The technique of finishing a sauce by whisking in cold butter at the end of cooking to add shine, thickness, and flavor.
 - Mousseline: A fine purée enriched with fat (usually cream or butter) to create a light, silky texture.
 
@@ -135,6 +140,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Osmosis: The movement of water across a cell wall from low salt concentration to high salt concentration.
+- Osmotic Diffusion: The process by which dissolved compounds in a brine migrate through a semi-permeable membrane (the meat's cell walls) from an area of high concentration to low, seasoning the interior.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
 
 ## P
