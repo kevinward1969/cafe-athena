@@ -4,7 +4,8 @@
 
 This folder contains the lean, optimized setup for running the Café Athena AI Agent in Claude Desktop. The project uses:
 - **PROJECT_INSTRUCTIONS.md** as the Claude Project's "Instructions" field
-- **Filesystem Access** via MCP/Antigravity for reference documents
+- **GitHub Connection** (via Project "Files" tab) for universal read-access and portability
+- **Filesystem Access** (via MCP/Antigravity) for local write-access and indexing
 
 ---
 
@@ -30,21 +31,32 @@ AI Chef for iterative recipe development, manuscript-ready formatting, and culin
 2. Copy the entire content
 3. In Claude Desktop project settings, paste under **Instructions**
 
-### 3. Filesystem Access (Recommended)
+### 3. File Access & Portability
 
-To ensure the AI always uses the most current reference materials, it is recommended to use **Filesystem MCP** (in Claude Desktop) or **Antigravity**. The instructions are configured to read these paths directly:
+There are two primary ways to give the AI access to your repo. **Option A is recommended for mobile/web use.**
 
-| Path | Purpose |
+#### **Option A: GitHub Connector (Best for Portability)**
+*Recommended if you want to use the agent via Claude.ai (Web) or Mobile.*
+
+1. In your Claude Project, go to the **Files** tab.
+2. Click **Connect to GitHub**.
+3. Select your `cafe-athena` repository.
+4. The AI can now **read** all files in `Guidance/`, `The Manual/`, and `PROJECT_STATUS.md` from any device.
+
+#### **Option B: Filesystem MCP (Best for Local Execution)**
+*Required if you want the AI to **write** recipes directly to your local folders and update indexes.*
+
+1. Ensure **Claude Desktop** is configured with a Filesystem MCP server pointing to `/Users/kevinward/Projects/Cafe Athena`.
+2. The AI can now **read and write** directly across the entire repo.
+
+| Key Reference Paths | Purpose |
 |------|---------|
-| `Guidance/Recipe-Format-Standard.md` | Master formatting rules for all recipe outputs |
-| `Guidance/Cafe-Athena-Workflow-Guide.md` | Strategic workflow (Lab → Manual → Publish) |
-| `Guidance/Recipe-Example.md` | Sample recipe following the standard |
-| `Guidance/Technique-Folio-Example.md` | Sample technique folio |
-| `Guidance/Technique_Folio_Template_v1.md` | Technique folio structure template |
-| `The Manual/` | **CRITICAL:** Chapter directories for live indexing |
-| `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | Structural reference only |
+| `Guidance/Recipe-Format-Standard.md` | Master formatting rules |
+| `Guidance/Cafe-Athena-Workflow-Guide.md` | Strategic transitions |
+| `The Manual/Chapter X/` | **CRITICAL:** Live indexing |
+| `PROJECT_STATUS.md` | **SESSION BRIDGE:** Handoff context |
 
-*Note: If you do not have filesystem access, you must manually attach these files in the Claude Project UI, but be aware they will not automatically stay in sync with your local edits.*
+*Note: Avoid "attaching" static files manually in the Claude Project UI; they will not stay in sync with your GitHub pushes.*
 
 ---
 
