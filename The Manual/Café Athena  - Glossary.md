@@ -14,8 +14,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.
 - Alveoli: The internal hole structure of the bread.
 - Amylopectin: A highly branched polymer of glucose found in plants. In potatoes, it is responsible for the "sticky" and "glassy" qualities of a cooked starch gel.
-- Arroser: The technique of spooning hot fat over an item as it cooks to ensure even heat distribution and flavor penetration.
-- Arrosé: The French technique of basting meat or fish with foaming butter and aromatics during the final stages of cooking.
+- Arroser (or Arrosé): The French technique of basting meat, fish, or vegetables with foaming butter and aromatics during cooking to ensure even heat distribution and flavor penetration.
 - Au Sec: "Nearly dry." Reducing a liquid until only a teaspoon or so remains.
 - Auger: The spiral drill bit inside a meat grinder that pushes food toward the cutting blade.
 - Autolyse: The process of mixing flour and water (no salt, no yeast) and letting it rest for 20–60 minutes. This fully hydrates the starch and relaxes the gluten before mixing begins.
@@ -62,14 +61,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - De-gas: The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
+- Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Desiccation: The removal of moisture. Essential for efficient browning.
+- Détrempe: The base ball of dough that encases the butter in laminated pastries.
 - Dextrinization: The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
 - Diastatic Malt: Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
 - Diffusion: The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the food).
 - DOP: _Denominazione di Origine Protetta._ Certification guaranteeing the tomatoes are true San Marzanos.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
-- Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
-- Détrempe: The base ball of dough that encases the butter in laminated pastries.
 
 ## E
 
@@ -144,8 +143,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
 - Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to; also the thin, papery skin surrounding a nut.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
-- Pincage: A mixing technique involving squeezing dough through fingers to incorporate ingredients evenly.
-- Pincé (or Pincage): The technique of cooking tomato paste in fat until it darkens and caramelizes.
+- Pincage (Dough Mixing): A French technique of squeezing dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
+- Pincé (or Pincage - Tomato): The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
 - Polyphenol Oxidase: An enzyme found in plants that causes browning when exposed to oxygen.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
