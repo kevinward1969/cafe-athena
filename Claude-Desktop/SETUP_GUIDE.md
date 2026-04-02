@@ -4,7 +4,7 @@
 
 This folder contains the lean, optimized setup for running the Café Athena AI Agent in Claude Desktop. The project uses:
 - **PROJECT_INSTRUCTIONS.md** as the Claude Project's "Instructions" field
-- **Attached files** (listed below) as reference documents
+- **Filesystem Access** via MCP/Antigravity for reference documents
 
 ---
 
@@ -30,19 +30,21 @@ AI Chef for iterative recipe development, manuscript-ready formatting, and culin
 2. Copy the entire content
 3. In Claude Desktop project settings, paste under **Instructions**
 
-### 3. Attach Reference Files
+### 3. Filesystem Access (Recommended)
 
-In Claude Desktop, use the **Attach Files** feature to add (in order):
+To ensure the AI always uses the most current reference materials, it is recommended to use **Filesystem MCP** (in Claude Desktop) or **Antigravity**. The instructions are configured to read these paths directly:
 
-| File | Purpose |
+| Path | Purpose |
 |------|---------|
-| [Recipe-Format-Standard.md](../Guidance/Recipe-Format-Standard.md) | Master formatting rules for all recipe outputs |
-| [Cafe-Athena-Workflow-Guide.md](../Guidance/Cafe-Athena-Workflow-Guide.md) | Strategic workflow (Lab → Manual → Publish) |
-| [Recipe-Example.md](../Guidance/Recipe-Example.md) | Sample recipe following the standard |
-| [Technique-Folio-Example.md](../Guidance/Technique-Folio-Example.md) | Sample technique folio |
-| [Technique_Folio_Template_v1.md](../Guidance/Technique_Folio_Template_v1.md) | Technique folio structure template |
-| [Cafe-Athena-The-Manual-Current-Version.md](../The%20Manual/Cafe-Athena-The-Manual-Current-Version.md) | **CRITICAL:** Master index of all cookbook content |
-| [skill-guide.md](../skill-guide.md) | Reference for Antigravity Awesome Skills |
+| `Guidance/Recipe-Format-Standard.md` | Master formatting rules for all recipe outputs |
+| `Guidance/Cafe-Athena-Workflow-Guide.md` | Strategic workflow (Lab → Manual → Publish) |
+| `Guidance/Recipe-Example.md` | Sample recipe following the standard |
+| `Guidance/Technique-Folio-Example.md` | Sample technique folio |
+| `Guidance/Technique_Folio_Template_v1.md` | Technique folio structure template |
+| `The Manual/` | **CRITICAL:** Chapter directories for live indexing |
+| `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | Structural reference only |
+
+*Note: If you do not have filesystem access, you must manually attach these files in the Claude Project UI, but be aware they will not automatically stay in sync with your local edits.*
 
 ---
 
@@ -68,7 +70,7 @@ To use the advanced agentic skills referenced in the documentation:
 
 ## FILE REFERENCE GUIDE
 
-### System Assets (Attached)
+### System Assets (Live Reading)
 
 **Recipe-Format-Standard.md**
 - Master formatting rules for all recipe outputs
@@ -93,11 +95,10 @@ To use the advanced agentic skills referenced in the documentation:
 - Structural template for all technique folios
 - Sections: Concept Definition, The Science, Technique/Practical Application, Reference Values, Safety & Constraints, Applications & Links, Sources
 
-**Cafe-Athena-The-Manual-Current-Version.md** ⭐ CRITICAL
-- Single source of truth for cookbook structure
-- Used for INDEX UPDATE PROTOCOL in Mode 2
-- Agent must scan this file to assign correct XX-YY numbers to new recipes/folios
-- Format: `Chapter N - [Chapter Name]` followed by indexed entries
+**The Manual/** ⭐ CRITICAL
+- The AI scans the live chapter directories (e.g., `The Manual/Chapter 4/`) to assign correct XX-YY numbers.
+- Never assign a number based on the `Current Version` document; it is for structural reference only.
+- Agent must prove it read the live filesystem by listing the last 3 files in the target directory.
 
 ---
 
@@ -107,7 +108,7 @@ This condensed version maintains all functionality by:
 
 ✓ **Removing redundancy**: Combined mode-specific stop points into universal guidance  
 ✓ **Prioritizing decision logic**: When to ask vs. execute (at end)  
-✓ **File-based detail**: Complex protocols moved to attached documents  
+✓ **Filesystem precision**: Replaces static "attached" reference files with dynamic path-based reading
 ✓ **Keeping hard stops**: All critical safety/indexing stops preserved  
 ✓ **Simplifying language**: Same technical rigor, fewer words  
 
@@ -116,10 +117,10 @@ This condensed version maintains all functionality by:
 ## TROUBLESHOOTING PROJECT ISSUES
 
 **If Claude doesn't follow format standard:**
-→ Ensure Recipe-Format-Standard.md is attached and Claude references it explicitly
+→ Confirm it has access to the `Guidance/` directory and can read the standard file
 
 **If chapter indexing fails:**
-→ Ensure Cafe-Athena-The-Manual-Current-Version.md is attached and Claude scans it for last 3 entries
+→ Ensure the AI can see the live subdirectories in `The Manual/` and is scanning the files directly
 
 **If mode detection fails:**
 → Check that PROJECT_INSTRUCTIONS.md keywords match user input exactly
@@ -132,8 +133,6 @@ This condensed version maintains all functionality by:
 ## MAINTENANCE
 
 - **Update PROJECT_INSTRUCTIONS.md** if you change mode keywords or core constraints
-- **Replace attached files** if Guidance/ versions are updated (excepting Template)
-- **Refresh Manual file** if you add new recipes to maintain accurate indexing
 - **Test with sample request** in each mode before production use
 
 ### SCALING NOTE

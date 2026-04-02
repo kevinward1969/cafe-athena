@@ -1,0 +1,97 @@
+# Café Athena - Calf Liver & Duck Fat Mousse
+
+A silky, Michelin-caliber mousse leveraging the deep savory notes of duck fat, the precision of a cold-butter emulsion, and a fragrant beurre noisette seal.
+
+**Yield:** 1 terrine (approx. 1 lb/450 g) | **Prep:** 20 min | **Inactive:** 6 hr | **Cook:** 15 min | **Total:** 6 hr 35 min
+
+## Headnote
+
+This preparation elevates the often-maligned calf liver into a state of pure luxury. By substituting a portion of the traditional butter for duck fat and employing a "cold emulsion" technique—where chilled butter is emulsified into the warm liver base—we achieve a texture that is exceptionally stable and airy. **Teaching Idea: Prague Powder #1.** The addition of Prague Powder #1 (sodium nitrite) is essential not just for safety in larger batches, but to preserve the vibrant, rose-pink hue that distinguishes a professional mousse from a rustic pâté.
+
+## Mise en Place
+
+* [ ] Clean calf liver of all silver skin and connective tissue.
+* [ ] Weigh all fats (butter and duck fat) precisely; temperature is critical.
+* [ ] Prepare a fine-mesh bag (nut milk bag) inside a large sieve over a chilled bowl.
+* [ ] Cube the 120 g of unsalted butter into ½-inch pieces. Refrigerate until ice-cold (needed for final emulsion).
+
+## Ingredients
+
+### The Cure & Soak
+
+* 450 g (1 lb) Calf liver, cleaned and sliced into 1-inch pieces
+* 300 ml Whole milk (for soaking)
+* 1.25 g (¼ tsp) Prague Powder #1
+* 1 sprig Fresh thyme
+
+### The Sauté & Gastrique
+
+* 60 g Duck fat
+* 40 g Shallots, finely minced
+* 60 ml Brandy (Cognac or Armagnac)
+* 15 ml (1 tbsp) Honey or maple syrup
+* 30 ml (2 tbsp) Heavy cream
+* 6 g (1 tsp) Diamond Crystal kosher salt
+* 2 g (½ tsp) Pink peppercorns, crushed
+* 1 pinch Freshly grated nutmeg
+
+### The Final Emulsion & Seal
+
+* 120 g Unsalted butter, high-fat (82%+), ice-cold and cubed
+* 50 g Beurre noisette (prepared and kept liquid but not hot)
+
+## Method
+
+### Phase 1: The Protein Treatment
+
+In a non-reactive bowl, combine the cleaned liver, milk, thyme, and Prague Powder #1. Cover and refrigerate for 2 hours.
+
+**Why:** This step leaches out excess mineral "iron" flavors and allows the curing salt to penetrate the tissue.
+
+Drain and pat the liver thoroughly dry with paper towels; discard the milk.
+
+### Phase 2: The High-Heat Sear
+
+In a heavy-bottomed skillet or sautoir, heat the duck fat over medium-high heat until shimmering. Add the liver pieces in a single layer. Sear quickly for 60–90 seconds per side until a deep Maillard crust forms while keeping the interior medium-pink (approx. 130°F/54°C internal temperature).
+
+**Sensory Cue:** The exterior should be deeply caramelized and the liver should still feel springy to the touch, not firm.
+
+Remove the liver to a plate.
+
+### Phase 3: The Gastrique Reduction
+
+In the same pan, add the minced shallots and cook in the remaining duck fat until translucent. Deglaze with the brandy, scraping the bottom of the pan to release the fond. Add the honey and pink peppercorns. Reduce the liquid by half until it reaches a syrupy consistency. Stir in the heavy cream and bring to a simmer for 30 seconds. Remove from heat.
+
+### Phase 4: The Cold Emulsion
+
+Transfer the warm liver and the gastrique reduction (including all fats and juices from the pan) into a high-speed blender. Blend on high until a smooth paste forms. While the blender is running on low, gradually drop in the cubes of ice-cold butter one by one.
+
+**Why:** The temperature of the liver will gently melt the butter, creating a thick, glossy emulsion rather than allowing the fat to separate.
+
+Season with salt and nutmeg.
+
+### Phase 5: The Refined Pass
+
+While the mixture is still warm, pour it into the fine-mesh bag set inside the sieve. Using a plastic scraper or gloved hands, massage the mixture through the mesh into a clean bowl.
+
+**Why:** This removes any remaining bits of connective tissue or "grain," ensuring a perfectly smooth texture.
+
+### Phase 6: The Set and Seal
+
+Pour the smooth mousse into a terrine mold or glass jars, leaving ¼-inch of space at the top. Tap the mold on the counter to remove air bubbles. Smooth the surface and refrigerate for 2 hours to set the top.
+
+Once firm, pour the liquid beurre noisette over the top to create an airtight seal. Refrigerate for at least 4 additional hours (ideally overnight) before serving.
+
+## Chef's Notes / Variations
+
+* **The Temperature Sweet Spot:** If the liver mixture drops below 110°F/43°C during the pass through the bag, the butter will begin to seize. If this happens, gently warm the bowl over a bain-marie to loosen the fat before continuing to strain.
+* **Serving:** Serve with toasted brioche and a sharp component, such as pickled cornichons or a sour cherry compote, to balance the richness of the duck fat.
+
+## Glossary
+
+* **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty flavor and golden-brown color.
+* **Cold Emulsion:** A technique where ice-cold fat is gradually incorporated into a warm protein base. The residual heat gently melts the fat while the blender creates a stable emulsion, resulting in a lighter, airier texture than traditional hot emulsions.
+* **Fond:** The caramelized bits of protein and sugars that stick to the bottom of a pan during searing. These concentrated flavors are released during deglazing and add depth to sauces.
+* **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that creates browned, savory flavors.
+* **Prague Powder #1:** A curing salt (93.75% table salt, 6.25% sodium nitrite) used to preserve color and prevent spoilage in charcuterie.
+* **Tamis/Fine-Mesh Bag:** Tools used for "refining" a protein base to remove texture-breaking solids.

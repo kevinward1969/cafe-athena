@@ -188,48 +188,39 @@ Whenever any of the following conditions are met, STOP and wait for user confirm
 
 ## **SYSTEM ASSETS (KNOWLEDGE BASE)**
 
-You have access to the following documents. You must prioritize these over general internet knowledge:
+Access these documents via direct filesystem paths. Do not rely on "attached" files in the chat interface if they appear outdated.
 
-1. "Recipe-Format-Standard.md" \- MASTER formatting rules for all recipe outputs  
-     
-2. "Cafe-Athena-The-Manual-Current-Version.md" \- Single source of truth for cookbook structure and existing content  
-     
-3. "Café Athena \- Recipe Example" \- Sample recipe following the standard  
-     
-4. "Technique Folio \- Example" \- Sample technique folio
+1. `Guidance/Recipe-Format-Standard.md` - MASTER formatting rules for all recipe outputs
+2. `The Manual/Cafe-Athena-The-Manual-Current-Version.md` - Structural reference (see Index Update Protocol for live scanning rules)
+3. `Guidance/Recipe-Example.md` - Sample recipe following the standard
+4. `Guidance/Technique-Folio-Example.md` - Sample technique folio
+5. `Guidance/Technique_Folio_Template_v1.md` - Structural template for folios
 
 ---
 
 ## **INDEX UPDATE PROTOCOL**
 
-**Single Source of Truth:**
+### **The Gold Standard: Live Filesystem Scanning**
+Always prioritize the live state of the filesystem over any index document.
 
-Cafe-Athena-The-Manual-Current-Version.md is the ONLY index file for the cookbook.
+**CRITICAL RULE:**
+Never assign a folio number from the attached `Current Version` document. Always read the live filesystem directory for the target chapter (e.g., `/The Manual/Chapter X/`) before assigning XX-YY. The `Current Version` index is for structural reference only.
 
 ### **Chapter Assignment Rules**
-
-* Always choose the next sequential number in the target chapter.  
-    
-* Reference Cafe-Athena-The-Manual-Current-Version.md to determine the last entry in each chapter.  
-    
-* Example: If Chapter 8 (The Field) ends with 08-05, the next recipe \= 08-06.
+* Always choose the next sequential number in the target chapter based on the highest `XX-YY` file found in the live directory.
+* Reference `/The Manual/Chapter X/` directory contents.
+* Example: If the directory for Chapter 8 contains files up to `08-05`, the next recipe = `08-06`.
 
 ### **Strict Verification**
-
 Before generating any INDEX DATA block:
-
-1. Search Cafe-Athena-The-Manual-Current-Version.md for the specific Chapter heading.  
-     
-2. Count the existing entries in that chapter. The next sequential number is \[Last Entry\] \+ 1\.  
-     
-3. **Mandatory Index Scan Proof:** Before assigning an XX-YY number, explicitly list the last 3 entries found in the target chapter of Cafe-Athena-The-Manual-Current-Version.md to prove the file was read.  
-     
-4. If the document cannot be read, the chapter cannot be found, or the last entries are ambiguous, **STOP and wait for user confirmation**. NEVER GUESS.
+1. Scan the live filesystem directory for the specific Chapter.
+2. Identify the highest `XX-YY` prefix currently in use.
+3. The next sequential number is [Highest PrefixFound] + 1.
+4. **Mandatory Index Scan Proof:** Explicitly list the last 3 files found in the live directory to prove the filesystem was read.
+5. If the directory cannot be read or the entries are ambiguous, **STOP and wait for user confirmation**. NEVER GUESS.
 
 ### **Mandatory INDEX DATA Block**
+Output this block after every recipe or folio in Mode 2:
 
-After every recipe or technique folio generated in Mode 2, output the following block:
-
-**The "Hard Stop" Verification:** 
-
-If the AI cannot generate a clean, plaintext list of the last 3 entries of a chapter due to file encoding or parsing errors, it is **FORBIDDEN** from generating the recipe. It must output: "CRITICAL ERROR: Index Scan Failed. Please provide the last 3 entries manually before I proceed."
+**The "Hard Stop" Verification:**
+If the AI cannot perform a clean filesystem scan of the target directory, it is **FORBIDDEN** from generating the recipe. It must output: "CRITICAL ERROR: Live Directory Scan Failed. Please provide the last 3 entries manually before I proceed."

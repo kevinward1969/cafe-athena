@@ -32,14 +32,16 @@ Café Athena - Recipe Development & Documentation
 - Copy all content
 - Paste into Claude project **Instructions** field
 
-### 3. Attach Files
-In Claude project, attach these 6 files (in order):
-1. `Recipe-Format-Standard.md` (from `/Guidance/`)
-2. `Cafe-Athena-Workflow-Guide.md` (from `/Guidance/`)
-3. `Recipe-Example.md` (from `/Guidance/`)
-4. `Technique-Folio-Example.md` (from `/Guidance/`)
-5. `Technique_Folio_Template_v1.md` (from `/Guidance/`)
-6. `Cafe-Athena-The-Manual-Current-Version.md` (from `/The Manual/`) ⭐ **CRITICAL**
+### 3. Filesystem Access (Recommended)
+Ensure Claude Desktop has filesystem access (via MCP or Antigravity). The instructions now point directly to project paths for the latest versions of:
+1. `Guidance/Recipe-Format-Standard.md`
+2. `Guidance/Cafe-Athena-Workflow-Guide.md`
+3. `Guidance/Recipe-Example.md`
+4. `Guidance/Technique-Folio-Example.md`
+5. `Guidance/Technique_Folio_Template_v1.md`
+6. `The Manual/` (for Chapter directories and `Cafe-Athena-The-Manual-Current-Version.md`)
+
+*Note: Avoid "attaching" these files in the Claude Project UI as they may become stale. The AI will read the live filesystem.*
 
 ### 4. Test
 Start a conversation with:
@@ -122,8 +124,8 @@ A: The Stop Point Protocol requires Claude to output "CRITICAL ERROR: Index Scan
 **Q: Can I skip the checklists?**  
 A: You can, but they reduce stop points. More information upfront = faster results.
 
-**Q: What if the attached files change?**  
-A: Update them in Claude project. The PROJECT_INSTRUCTIONS.md points to them, not copies them.
+**Q: What if the reference files change?**  
+A: No action needed. Because the instructions use direct filesystem paths, the AI always reads the most current version from your repository.
 
 **Q: How do I know which mode to use?**  
 A: See MODE_CHECKLISTS.md or just tell Claude what you want:
@@ -138,13 +140,13 @@ A: See MODE_CHECKLISTS.md or just tell Claude what you want:
 ```
 Claude Desktop Project
 ├── PROJECT_INSTRUCTIONS.md (Core directives)
-└── Attached Files:
-    ├── Recipe-Format-Standard.md (the law)
-    ├── Recipe-Example.md (example)
-    ├── Technique-Folio-Example.md (example)
-    ├── Technique_Folio_Template_v1.md (template)
-    ├── Cafe-Athena-Workflow-Guide.md (context)
-    └── Cafe-Athena-The-Manual-Current-Version.md (index)
+└── Filesystem Paths (Live Reading):
+    ├── Guidance/Recipe-Format-Standard.md
+    ├── Guidance/Recipe-Example.md
+    ├── Guidance/Technique-Folio-Example.md
+    ├── Guidance/Technique_Folio_Template_v1.md
+    ├── Guidance/Cafe-Athena-Workflow-Guide.md
+    └── The Manual/ (Chapters & Index)
 ```
 
 ---
@@ -163,8 +165,8 @@ Claude Desktop Project
 ## 📞 SUPPORT
 
 If Claude:
-- **Ignores format standard** → Verify Recipe-Format-Standard.md is attached
-- **Can't index recipes** → Verify Manual file is attached and current
+- **Ignores format standard** → Confirm the AI has access to `Guidance/Recipe-Format-Standard.md` via its filesystem tool
+- **Can't index recipes** → Ensure the AI can see the `The Manual/` directory and its chapter folders
 - **Generates citations** → Remind of Zero-Citation Protocol
 - **Misses stop points** → Paste relevant section from PROJECT_INSTRUCTIONS.md into chat
 
