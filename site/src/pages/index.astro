@@ -1,0 +1,110 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+
+const sections = [
+  { 
+    id: 'academy', 
+    title: 'The Academy', 
+    subtitle: 'Technique & Theory', 
+    desc: 'The science and fundamental logic of the kitchen.', 
+    href: '/academy' 
+  },
+  { 
+    id: 'brigade', 
+    title: 'The Brigade', 
+    subtitle: 'The Recipe Collection', 
+    desc: 'The core repertoire, organized by traditional station.', 
+    href: '/brigade' 
+  },
+  { 
+    id: 'larder', 
+    title: 'The Larder', 
+    subtitle: 'Building Blocks', 
+    desc: 'Stocks, sauces, and foundational flavor compounds.', 
+    href: '/larder' 
+  },
+  { 
+    id: 'glossary', 
+    title: 'The Glossary', 
+    subtitle: 'Lexicon', 
+    desc: 'The unified dictionary of culinary terminology.', 
+    href: '/glossary' 
+  }
+];
+---
+
+<BaseLayout title="Welcome" currentPage="home">
+  <div class="max-w-7xl mx-auto px-6 py-20 lg:py-32 flex flex-col items-center">
+    
+    <!-- Ultra Hero -->
+    <section class="text-center w-full max-w-4xl mx-auto mb-24 landing-hero opacity-0 translate-y-8">
+      <div class="inline-block border border-[#c9a96e] px-4 py-1 rounded-full text-xs font-semibold tracking-widest uppercase text-[#c9a96e] mb-8">
+        Café Athena
+      </div>
+      <h1 class="font-heading text-6xl md:text-8xl lg:text-9xl font-bold text-[#1a1a2e] tracking-tighter leading-none mb-8">
+        The Manual
+      </h1>
+      <p class="font-heading text-2xl md:text-3xl italic text-[#6b6b7b] max-w-2xl mx-auto">
+        A living codex of technique, science, and culinary soul. {allRecipes.length} curated formulas and methods.
+      </p>
+    </section>
+
+    <!-- Navigation Cards -->
+    <div class="w-full grid grid-cols-1 md:grid-cols-2 gap-8 perspective-container text-left">
+      {sections.map(section => (
+        <a 
+          href={section.href}
+          class="landing-card block group focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#c9a96e] rounded-2xl"
+        >
+          <div class="glass-panel h-full p-10 lg:p-12 rounded-2xl relative overflow-hidden transition-all duration-700 ease-out hover:-translate-y-2 hover:shadow-[0_40px_80px_rgba(26,26,46,0.1)] isometric-card border-t-4 border-t-transparent hover:border-t-[#c9a96e]">
+            
+            <div class="absolute inset-0 bg-gradient-to-br from-white/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none"></div>
+
+            <div class="relative z-10">
+              <h2 class="font-heading text-4xl lg:text-5xl font-bold text-[#1a1a2e] mb-2">{section.title}</h2>
+              <p class="font-bold text-xs tracking-widest uppercase text-[#c9a96e] mb-6">{section.subtitle}</p>
+              <p class="text-[#6b6b7b] text-lg max-w-sm mb-12">{section.desc}</p>
+              
+              <div class="w-12 h-12 rounded-full bg-[#1a1a2e] flex items-center justify-center text-white transform transition-transform duration-500 group-hover:scale-110 group-hover:bg-[#c9a96e]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </div>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+  </div>
+
+  <script>
+    import { gsap } from 'gsap';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+      if (!prefersReducedMotion) {
+        const tl = gsap.timeline();
+        
+        tl.to('.landing-hero', {
+          y: 0,
+          opacity: 1,
+          duration: 1.2,
+          ease: 'power3.out'
+        })
+        .from('.landing-card', {
+          y: 60,
+          opacity: 0,
+          rotationX: 15,
+          duration: 1,
+          stagger: 0.15,
+          ease: 'power3.out'
+        }, "-=0.6");
+      } else {
+        document.querySelector('.landing-hero')?.classList.remove('opacity-0', 'translate-y-8');
+      }
+    });
+  </script>
+</BaseLayout>

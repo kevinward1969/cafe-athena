@@ -1,0 +1,45 @@
+---
+import RecipeLayout from '../layouts/RecipeLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allRecipes = await getCollection('recipes');
+  const sorted = allRecipes.sort((a, b) => a.data.index.localeCompare(b.data.index));
+
+  return sorted.map((recipe, idx) => {
+    const prev = idx > 0 ? sorted[idx - 1] : null;
+    const next = idx < sorted.length - 1 ? sorted[idx + 1] : null;
+
+    return {
+      params: { slug: recipe.id },
+      props: {
+        recipe,
+        prevRecipe: prev ? { slug: prev.id, title: prev.data.title } : null,
+        nextRecipe: next ? { slug: next.id, title: next.data.title } : null,
+      },
+    };
+  });
+}
+
+const { recipe, prevRecipe, nextRecipe } = Astro.props;
+const { Content } = await render(recipe);
+
+// Resolve hero image path
+let heroImagePath: string | undefined;
+if (recipe.data.heroImage) {
+  heroImagePath = `/images/${recipe.data.heroImage}`;
+}
+---
+
+<RecipeLayout
+  title={recipe.data.title}
+  index={recipe.data.index}
+  chapter={recipe.data.chapter}
+  chapterName={recipe.data.chapterName}
+  heroImage={heroImagePath}
+  subtitle={recipe.data.subtitle}
+  prevRecipe={prevRecipe}
+  nextRecipe={nextRecipe}
+>
+  <Content />
+</RecipeLayout>

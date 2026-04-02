@@ -1,0 +1,195 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// Read and parse the glossary markdown file
+const glossaryPath = path.resolve('src/content/glossary.md');
+let glossaryContent = '';
+try {
+  glossaryContent = fs.readFileSync(glossaryPath, 'utf-8');
+} catch {
+  glossaryContent = '# Glossary\n\nNo glossary file found.';
+}
+
+// Parse glossary into structured data
+interface GlossaryEntry {
+  term: string;
+  definition: string;
+}
+
+interface GlossarySection {
+  letter: string;
+  entries: GlossaryEntry[];
+}
+
+function parseGlossary(content: string): GlossarySection[] {
+  const sections: GlossarySection[] = [];
+  const lines = content.split('\n');
+  let currentLetter = '';
+  const entries: GlossaryEntry[] = [];
+
+  for (const line of lines) {
+    // Match "- Term: Definition" or "- **Term:** Definition"
+    const match = line.match(/^[-*]\s+\*?\*?([^:*]+?)\*?\*?\s*:\s*(.+)$/);
+    if (match) {
+      const term = match[1].trim();
+      const definition = match[2].trim();
+      const letter = term[0].toUpperCase();
+
+      if (letter !== currentLetter) {
+        currentLetter = letter;
+      }
+      entries.push({ term, definition });
+    }
+  }
+
+  // Group by letter
+  const grouped = new Map<string, GlossaryEntry[]>();
+  for (const entry of entries) {
+    const letter = entry.term[0].toUpperCase();
+    if (!grouped.has(letter)) {
+      grouped.set(letter, []);
+    }
+    grouped.get(letter)!.push(entry);
+  }
+
+  // Sort letters and entries
+  const sortedLetters = Array.from(grouped.keys()).sort();
+  for (const letter of sortedLetters) {
+    const letterEntries = grouped.get(letter)!;
+    letterEntries.sort((a, b) => a.term.localeCompare(b.term));
+    sections.push({ letter, entries: letterEntries });
+  }
+
+  return sections;
+}
+
+const glossarySections = parseGlossary(glossaryContent);
+const allLetters = glossarySections.map(s => s.letter);
+---
+
+<BaseLayout title="Glossary" currentPage="glossary">
+  <div class="max-w-4xl mx-auto px-6 py-16">
+    
+    <div class="page-title text-center mb-16 opacity-0 translate-y-8">
+      <h1 class="font-heading text-5xl md:text-7xl font-bold text-[#1a1a2e] tracking-tight mb-4">Glossary</h1>
+      <p class="font-heading text-xl md:text-2xl italic text-[#6b6b7b]">A Chef's Lexicon of Technique & Terminology</p>
+      <div class="w-16 h-0.5 bg-[#c9a96e] mx-auto mt-6"></div>
+    </div>
+
+    <!-- Search -->
+    <div class="sticky top-[4.5rem] z-40 bg-[#faf7f2]/95 backdrop-blur-xl py-4 mb-8 border-b border-[#e0d8cc] glossary-search-bar opacity-0">
+      <div class="relative max-w-2xl mx-auto">
+        <svg class="absolute left-4 top-1/2 -translate-y-1/2 text-[#6b6b7b]" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.35-4.35"></path>
+        </svg>
+        <input
+          type="text"
+          class="w-full pl-12 pr-4 py-3 bg-white/50 border border-[#e0d8cc] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#c9a96e] focus:bg-white transition-all text-[#1a1a2e] placeholder:text-[#6b6b7b]/60"
+          id="glossary-search"
+          placeholder="Search terms..."
+          autocomplete="off"
+        />
+      </div>
+    </div>
+
+    <!-- Letter Navigation -->
+    <nav class="flex flex-wrap justify-center gap-2 mb-16 glossary-nav opacity-0" aria-label="Glossary letter navigation">
+      {allLetters.map(letter => (
+        <a 
+          href={`#letter-${letter}`}
+          class="w-8 h-8 flex items-center justify-center rounded bg-white border border-[#e0d8cc] text-sm font-semibold text-[#1a1a2e] hover:border-[#c9a96e] hover:text-[#c9a96e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] transition-colors"
+        >{letter}</a>
+      ))}
+    </nav>
+
+    <!-- Glossary Entries -->
+    <div id="glossary-content" class="space-y-16">
+      {glossarySections.map(section => (
+        <section class="glossary-section" id={`letter-${section.letter}`}>
+          <h2 class="font-heading text-4xl font-bold text-[#c9a96e] mb-6 pb-2 border-b border-[#e0d8cc]">{section.letter}</h2>
+          <dl class="space-y-8">
+            {section.entries.map(entry => (
+              <div class="glossary-term group" data-term={entry.term.toLowerCase()}>
+                <dt class="font-heading text-xl font-bold text-[#1a1a2e] mb-1 group-hover:text-[#c9a96e] transition-colors">{entry.term}</dt>
+                <dd class="text-[#6b6b7b] leading-relaxed pl-4 border-l-2 border-[#e0d8cc]">{entry.definition}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      ))}
+    </div>
+
+    <div id="no-results" class="hidden text-center py-16">
+      <p class="font-heading text-2xl italic text-[#6b6b7b]">No matching terms found.</p>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // @ts-ignore
+      const gsap = window.gsap;
+      const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+      if (!prefersReducedMotion && gsap) {
+        const tl = gsap.timeline();
+        tl.to('.page-title', { y: 0, opacity: 1, duration: 0.8, ease: 'power3.out' })
+          .to('.glossary-search-bar', { opacity: 1, duration: 0.5 }, "-=0.4")
+          .to('.glossary-nav', { opacity: 1, duration: 0.5 }, "-=0.3");
+      } else {
+        document.querySelector('.page-title')?.classList.remove('opacity-0', 'translate-y-8');
+        document.querySelector('.glossary-search-bar')?.classList.remove('opacity-0');
+        document.querySelector('.glossary-nav')?.classList.remove('opacity-0');
+      }
+
+      const searchInput = document.getElementById('glossary-search') as HTMLInputElement;
+      const glossaryContent = document.getElementById('glossary-content');
+      const noResults = document.getElementById('no-results');
+      
+      if (!searchInput || !glossaryContent || !noResults) return;
+
+      const sections = glossaryContent.querySelectorAll('.glossary-section');
+      const terms = glossaryContent.querySelectorAll('.glossary-term');
+
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase().trim();
+
+        if (!query) {
+          terms.forEach(t => (t as HTMLElement).style.display = '');
+          sections.forEach(s => (s as HTMLElement).style.display = '');
+          noResults.classList.add('hidden');
+          return;
+        }
+
+        let visibleCount = 0;
+
+        terms.forEach(t => {
+          const termEl = t as HTMLElement;
+          const termText = termEl.dataset.term || '';
+          const defText = termEl.querySelector('dd')?.textContent?.toLowerCase() || '';
+
+          if (termText.includes(query) || defText.includes(query)) {
+            termEl.style.display = '';
+            visibleCount++;
+          } else {
+            termEl.style.display = 'none';
+          }
+        });
+
+        sections.forEach(section => {
+          const sectionEl = section as HTMLElement;
+          const visibleTerms = sectionEl.querySelectorAll('.glossary-term:not([style*="display: none"])');
+          sectionEl.style.display = visibleTerms.length > 0 ? '' : 'none';
+        });
+
+        if(visibleCount === 0) {
+          noResults.classList.remove('hidden');
+        } else {
+          noResults.classList.add('hidden');
+        }
+      });
+    });
+  </script>
+</BaseLayout>

@@ -1,0 +1,140 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  currentPage?: string;
+}
+
+const { 
+  title, 
+  description = 'Café Athena — The Manual. AI-powered recipe development and culinary technique education.', 
+  currentPage = '' 
+} = Astro.props;
+
+const navItems = [
+  { label: 'Academy', href: '/academy', id: 'academy' },
+  { label: 'Brigade', href: '/brigade', id: 'brigade' },
+  { label: 'Larder', href: '/larder', id: 'larder' },
+  { label: 'Glossary', href: '/glossary', id: 'glossary' },
+];
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <meta name="description" content={description} />
+  <title>{title} · Café Athena</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg-[#faf7f2] text-[#1a1a2e] font-body min-h-screen flex flex-col selection:bg-[#c9a96e] selection:text-white">
+  
+  <header class="sticky top-0 z-50 bg-[#faf7f2]/90 backdrop-blur-xl border-b border-[#e0d8cc]/50 transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+      <a 
+        href="/" 
+        class="font-heading text-xl font-bold tracking-widest uppercase focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-opacity hover:opacity-80"
+      >
+        Café <span class="text-[#c9a96e]">Athena</span>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav class="hidden md:flex gap-8 items-center" aria-label="Main Navigation">
+        {navItems.map(item => (
+          <a 
+            href={item.href}
+            class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
+              currentPage === item.id ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
+            }`}
+          >
+            {item.label}
+            <!-- Active/Hover Indicator underline -->
+            <span class={`absolute bottom-0 left-0 h-0.5 bg-[#c9a96e] transition-all duration-300 ease-out origin-left ${
+              currentPage === item.id ? 'w-full' : 'w-0 group-hover:w-full'
+            }`}></span>
+          </a>
+        ))}
+      </nav>
+
+      <!-- Mobile Nav Toggle -->
+      <button 
+        id="nav-toggle" 
+        class="md:hidden p-2 text-[#1a1a2e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+        aria-label="Toggle navigation menu"
+        aria-expanded="false"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <!-- Mobile Nav Menu -->
+    <div 
+      id="mobile-nav" 
+      class="md:hidden absolute top-full left-0 w-full bg-[#faf7f2]/95 backdrop-blur-xl border-b border-[#e0d8cc] shadow-lg overflow-hidden transition-all duration-300 ease-out max-h-0 opacity-0 invisible flex flex-col"
+      aria-hidden="true"
+    >
+      <nav class="flex flex-col px-6 py-4 gap-4">
+        {navItems.map(item => (
+          <a 
+            href={item.href}
+            class={`text-lg font-medium tracking-wide uppercase focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm ${
+              currentPage === item.id ? 'text-[#c9a96e]' : 'text-[#1a1a2e]'
+            }`}
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-grow">
+    <slot />
+  </main>
+
+  <footer class="mt-24 py-12 px-6 bg-[#1a1a2e] text-[#f5f0e8] text-center border-t-4 border-[#c9a96e]">
+    <div class="max-w-7xl mx-auto">
+      <div class="font-heading text-2xl font-bold tracking-widest uppercase mb-2">
+        Café <span class="text-[#c9a96e]">Athena</span>
+      </div>
+      <p class="text-sm text-[#e0d8cc]/70 italic font-heading text-xl">The Manual — Technique & Theory · The Brigade</p>
+    </div>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const toggle = document.getElementById('nav-toggle');
+      const mobileNav = document.getElementById('mobile-nav');
+      
+      if (toggle && mobileNav) {
+        toggle.addEventListener('click', () => {
+          const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', (!isExpanded).toString());
+          mobileNav.setAttribute('aria-hidden', isExpanded.toString());
+          
+          if (!isExpanded) {
+            mobileNav.classList.remove('max-h-0', 'opacity-0', 'invisible');
+            mobileNav.classList.add('max-h-[400px]', 'opacity-100', 'visible');
+          } else {
+            mobileNav.classList.add('max-h-0', 'opacity-0', 'invisible');
+            mobileNav.classList.remove('max-h-[400px]', 'opacity-100', 'visible');
+          }
+        });
+      }
+    });
+  </script>
+</body>
+</html>
+
+<style>
+  @import '../styles/global.css';
+
+  /* Vercel Guidelines: scroll-margin-top on headings */
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 5rem;
+  }
+</style>

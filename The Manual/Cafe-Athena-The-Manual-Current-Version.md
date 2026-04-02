@@ -102,6 +102,7 @@
 * 07-10 Café Athena \- "The Competition Red" Texas-Style Chili  
 * 07-10a Café Athena – "The Competition Red" Texas-Style Chili
 * 07-11 Café Athena \- Pressure-Braised Chuck Roast (The Competition Pot Roast)
+* 07-12 Café Athena \- Dehydrator Bacon (Four Ways)
 
 ## CHAPTER 8: THE FIELD
 

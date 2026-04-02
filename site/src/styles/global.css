@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@theme {
+  --color-charcoal: #1a1a2e;
+  --color-charcoal-light: #2d2d44;
+  --color-cream: #f5f0e8;
+  --color-parchment: #faf7f2;
+  --color-olive-gold: #c9a96e;
+  --color-olive-dark: #a8873f;
+  --color-burgundy: #6b2737;
+  --color-smoke: #6b6b7b;
+  --color-divider: #e0d8cc;
+
+  --font-heading: "Cormorant Garamond", serif;
+  --font-body: "Inter", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-parchment text-charcoal font-body antialiased;
+    overscroll-behavior: none; /* Prevent bounce for smoother GSAP */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading text-charcoal font-medium;
+    text-wrap: balance;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-cream/80 backdrop-blur-xl border border-white/20 shadow-[0_20px_40px_rgba(26,26,46,0.05)];
+  }
+
+  .perspective-container {
+    perspective: 1000px;
+  }
+
+  .isometric-card {
+    will-change: transform;
+    transform-style: preserve-3d;
+  }
+}

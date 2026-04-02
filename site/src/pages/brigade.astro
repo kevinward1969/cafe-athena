@@ -1,0 +1,29 @@
+---
+import SectionLayout from '../layouts/SectionLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+
+const chapters = [
+  { num: 3, name: 'Garde Manger', desc: 'Cold Kitchen — Salads, Terrines & Spheres' },
+  { num: 4, name: 'The Mill', desc: 'Grains, Pasta & Bread' },
+  { num: 5, name: 'The Fishmonger', desc: 'Seafood & Shellfish' },
+  { num: 6, name: 'The Poulterer', desc: 'Chicken, Duck & Game Birds' },
+  { num: 7, name: 'The Butcher', desc: 'Beef, Pork & Offal' },
+  { num: 8, name: 'The Field', desc: 'Vegetables & Plant-Forward' },
+  { num: 9, name: 'The Pâtissier', desc: 'Pastry, Desserts & Confections' }
+].map(ch => ({
+  ...ch,
+  recipes: allRecipes
+    .filter(r => r.data.chapter === ch.num)
+    .sort((a, b) => a.data.index.localeCompare(b.data.index)),
+}));
+---
+
+<SectionLayout
+  title="The Brigade"
+  subtitle="The core recipe collection, organized by traditional kitchen stations."
+  part="II"
+  currentPage="brigade"
+  chapters={chapters}
+/>

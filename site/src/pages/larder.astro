@@ -1,0 +1,24 @@
+---
+import SectionLayout from '../layouts/SectionLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+
+const chapters = [
+  { num: 10, name: 'Stocks & Mother Sauces', desc: 'Foundation Sauces & Building Blocks' },
+  { num: 11, name: 'Spice Blends & Oils', desc: 'Seasoning, Finishing & Flavor Compounds' }
+].map(ch => ({
+  ...ch,
+  recipes: allRecipes
+    .filter(r => r.data.chapter === ch.num)
+    .sort((a, b) => a.data.index.localeCompare(b.data.index)),
+}));
+---
+
+<SectionLayout
+  title="The Larder"
+  subtitle="Building blocks: Stocks, sauces, preserves, and foundational flavors that elevate any dish."
+  part="III"
+  currentPage="larder"
+  chapters={chapters}
+/>

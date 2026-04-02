@@ -1,0 +1,24 @@
+---
+import SectionLayout from '../layouts/SectionLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+
+const chapters = [
+  { num: 1, name: 'The Lab', desc: 'Technique Folios — Science & Theory' },
+  { num: 2, name: 'The Foundation', desc: 'Station Management, Tools & Sanitation' }
+].map(ch => ({
+  ...ch,
+  recipes: allRecipes
+    .filter(r => r.data.chapter === ch.num)
+    .sort((a, b) => a.data.index.localeCompare(b.data.index)),
+}));
+---
+
+<SectionLayout
+  title="The Academy"
+  subtitle="Technique & Theory. Understanding the foundational science and preparation methods behind the dishes."
+  part="I"
+  currentPage="academy"
+  chapters={chapters}
+/>
