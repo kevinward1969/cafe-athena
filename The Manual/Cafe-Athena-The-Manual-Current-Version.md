@@ -153,6 +153,7 @@
 * 10-20 Café Athena \- Ligurian Salsa di Noci (Toasted Walnut Pesto)
 * 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
 * 10-22 Café Athena \- Beurre Noisette (The Toasted Butter)
+* 10-23 Café Athena \- The Asian Dipping Sauce Collection
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 
