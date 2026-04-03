@@ -18,3 +18,8 @@
 
 * **Buffering Capacity:** Whole Wheat and Rye flours act as a "buffer," meaning they can tolerate higher levels of acid before the pH drops. This allows you to ferment them longer without destroying the dough.
 * **Enzymatic Velocity:** Rye ferments fastest; White flour ferments slowest. If you are in a rush, feed your starter Rye. If you want to sleep in, feed it White.
+## Keywords
+Sourdough, Starter, Fermentation, Gluten, Whole Wheat, Rye Flour, Baking, Bread, Lactic Acid, Microbial, USA, Belgium, Germany, Italy, San Francisco Style, Desem, Lievito Madre, Amish Friendship
+
+## Category
+cuisine: Global | style: Technique Folio

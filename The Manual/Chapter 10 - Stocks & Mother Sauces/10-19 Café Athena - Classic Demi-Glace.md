@@ -70,3 +70,8 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 - **Dépouillage:** The practice of skimming skin, fat, and scum from the surface of a stock or sauce.
 - **Nappe:** From the French *napper* (to coat). The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
 - **Chinois:** A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
+## Keywords
+Reduction, Sauce Espagnole, Brown Stock, Gelatin, Classical, Gastronomy, Flavor Concentration, Simmer, Skimming, Mother Sauce
+
+## Category
+cuisine: French | style: Classical

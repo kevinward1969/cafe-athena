@@ -121,4 +121,8 @@ Remove finished strips to a wire rack and allow to cool completely at room tempe
 - **Gochugaru:** Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - **Five Spice:** A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
 - **Mise en Place:** "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
+## Keywords
+Dehydration, Bacon, Brining, Soy Sauce, Smoke, Flavor Infusion, Fermented, Umami, Snackable, Dry Rub
 
+## Category
+cuisine: Global | style: Technique Folio

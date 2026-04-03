@@ -77,3 +77,8 @@ Lift out using the parchment, cut into squares, and sprinkle with smoked flaky s
 
 - **Beurre Noisette:** (French: "Hazelnut Butter") Butter melted and cooked until the milk solids toast to a golden brown, creating a nutty aroma.
 - **Emulsion:** A stable mixture of two liquids that don't normally mix (like fat and water), often achieved here by the lecithin in the egg yolks.
+## Keywords
+Brown Butter, Miso, Caramel, Truffle, Brownies, Pastry, Savory-Sweet, Coffee, Walnut, Fudgy
+
+## Category
+cuisine: Asian-Fusion | style: Technique Folio

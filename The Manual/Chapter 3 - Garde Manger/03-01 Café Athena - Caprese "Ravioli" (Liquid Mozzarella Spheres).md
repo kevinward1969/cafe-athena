@@ -50,3 +50,8 @@ A modernist antipasto featuring a liquid mozzarella core that bursts when eaten.
 * **Concasse:** A technique for preparing tomatoes: peeling, seeding, and dicing them.
 
 Technique Required: Reverse Spherification. See Chapter 1
+## Keywords
+Mozzarella, Spheres, Sodium Alginate, Italian, Emulsification, Viscosity, Modern, Antipasto, Liquid, Texture
+
+## Category
+cuisine: Italian | style: Modern

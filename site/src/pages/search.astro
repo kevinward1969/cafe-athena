@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search" currentPage="search">
+  <div class="max-w-4xl mx-auto px-6 py-16 md:py-24">
+
+    <header class="text-center mb-16">
+      <p class="font-bold text-xs tracking-widest uppercase text-[#c9a96e] mb-4">The Manual</p>
+      <h1 class="font-heading text-5xl md:text-6xl font-bold text-[#1a1a2e] tracking-tight mb-6">
+        Search
+      </h1>
+      <p class="font-heading text-xl italic text-[#6b6b7b]">
+        Search recipes, techniques, and ingredients across the full Manual.
+      </p>
+      <div class="w-16 h-0.5 bg-[#e0d8cc] mx-auto mt-8"></div>
+    </header>
+
+    <div id="search" class="rounded-2xl bg-white/60 border border-[#e0d8cc] shadow-sm p-6 md:p-10"></div>
+
+  </div>
+</BaseLayout>
+
+<!-- Pagefind UI — loaded from the built index, only available after `npm run build` -->
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/_pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: false,
+      resetStyles: false,
+      showImages: false,
+      excerptLength: 30,
+    });
+  });
+</script>
+
+<style>
+  /* Adapt Pagefind's default UI to match the Café Athena design system */
+  .pagefind-ui__search-input {
+    border-radius: 0.5rem;
+    border: 1px solid #e0d8cc;
+    background: #faf7f2;
+    color: #1a1a2e;
+    font-family: var(--font-body, Inter, sans-serif);
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    width: 100%;
+  }
+
+  .pagefind-ui__search-input:focus {
+    outline: 2px solid #c9a96e;
+    outline-offset: 2px;
+    border-color: #c9a96e;
+  }
+
+  .pagefind-ui__result {
+    border-bottom: 1px solid #e0d8cc;
+    padding: 1.25rem 0;
+  }
+
+  .pagefind-ui__result-title a {
+    font-family: var(--font-heading, 'Cormorant Garamond', serif);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    text-decoration: none;
+  }
+
+  .pagefind-ui__result-title a:hover {
+    color: #c9a96e;
+  }
+
+  .pagefind-ui__result-excerpt {
+    color: #6b6b7b;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+    line-height: 1.6;
+  }
+
+  .pagefind-ui__result-excerpt mark {
+    background: #f5e9d0;
+    color: #1a1a2e;
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+
+  .pagefind-ui__message {
+    color: #6b6b7b;
+    font-style: italic;
+    font-size: 0.9rem;
+  }
+
+  .pagefind-ui__button {
+    background: #1a1a2e;
+    color: #f5f0e8;
+    border: none;
+    border-radius: 0.375rem;
+    padding: 0.5rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: background 0.2s;
+  }
+
+  .pagefind-ui__button:hover {
+    background: #c9a96e;
+  }
+</style>

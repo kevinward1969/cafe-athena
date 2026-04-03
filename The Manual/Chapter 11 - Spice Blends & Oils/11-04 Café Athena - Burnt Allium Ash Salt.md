@@ -68,3 +68,8 @@ Pulse the mixture together briefly to coat the white crystals in the black dust.
 
 - **Carbonization:** The process of converting organic matter into carbon through high heat pyrolysis.
 - **Allium:** The plant family that includes onions, garlic, leeks, and chives.
+## Keywords
+Carbonization, Leek, Ash, Salt, Smoke, Bitter, Roasting, Spice Grinder, Culinary Charcoal, Texture
+
+## Category
+cuisine: Global | style: Technique Folio

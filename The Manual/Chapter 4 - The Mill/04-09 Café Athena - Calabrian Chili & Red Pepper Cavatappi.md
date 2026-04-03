@@ -59,3 +59,8 @@ Yield: 4 servings | Prep: 30 min | Cook: 25 min
 **Glossary**
 
 **Mantecatura:** The Italian technique of vigorously tossing pasta with fat (butter/cheese) and starchy water to create a creamy emulsion. **Pinçage:** The process of cooking tomato paste in fat until it darkens/caramelizes. **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon without running off.
+## Keywords
+Emulsification, Calabrian Chili, Red Peppers, Pasta, Italian, Roasting, Mantecatura, Pecorino Romano, Spicy, Creamy
+
+## Category
+cuisine: Italian | style: Technique Folio

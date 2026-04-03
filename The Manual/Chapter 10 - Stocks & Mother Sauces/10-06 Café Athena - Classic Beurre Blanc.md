@@ -82,3 +82,8 @@ This is the ultimate test of temperature control. Unlike a flour-thickened gravy
 - **Monter au Beurre:** "To mount with butter." The process of adding cold butter to a hot liquid to create an emulsion.
 - **Au Sec:** "Nearly dry." Reducing a liquid until only a teaspoon or so remains.
 - **Nappé:** The consistency at which a sauce is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
+## Keywords
+Beurre Blanc, Emulsification, Butter Sauce, French Cuisine, Reduction, Acidic, Dairy, Classical, Technique, Pastry
+
+## Category
+cuisine: French | style: Classical

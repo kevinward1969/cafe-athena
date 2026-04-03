@@ -45,3 +45,8 @@ We do not simply "clean" to make things look shiny; we sanitize to destroy patho
 * **Reading B:** Anything else (e.g., 34°F or 29°F). ✗
 
 **Lesson:** If you see Reading B, your thermometer is uncalibrated. A variance of 2 degrees can be the difference between a safe roast and a health code violation. Adjust the nut on the back of the dial or follow digital reset instructions until it reads exactly 32°F.
+## Keywords
+Sanitation, HACCP, Cooling, Bacteria, Food Safety, Refrigeration, Binary Fission, Danger Zone, Temperature Control, Foodborne Illness
+
+## Category
+cuisine: Global | style: Technique Folio

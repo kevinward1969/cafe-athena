@@ -48,3 +48,8 @@
 3. **Result:** Look at the browning pattern.
    * *Observation:* You will likely see dark toast in the back corners and pale bread near the door.
    * *Correction:* This map tells you why you must *rotate your trays* halfway through baking.
+## Keywords
+Conduction, Convection, Radiation, Heat Transfer, Maillard Reaction, Searing, Steak, Cast Iron, Temperature Control, Flavor Chemistry
+
+## Category
+cuisine: Global | style: Technique Folio

@@ -23,3 +23,8 @@
 3. **The Variable:** Place the bowl over a pot of simmering water (bain-marie). Whisk vigorously for 2–3 minutes.
 4. **The Result:** The mixture will turn pale yellow/white and thicken. Lift the whisk. The batter should fall in a slow, folding "ribbon" that sits on the surface for seconds before sinking.
 5. **Verdict:** Rub a drop between your fingers. It should feel smooth, not sandy. You have now created the foundation for the crust.
+## Keywords
+Sugar Dissolution, Protein Migration, Thermal Energy, Mechanical Energy, Emulsification, Baking, Crusting, Glossy, Crackly, Pastry
+
+## Category
+cuisine: Asian-Fusion | style: Technique Folio

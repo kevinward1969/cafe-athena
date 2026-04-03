@@ -77,3 +77,8 @@
 2. **Action:** Add 1 tablespoon of water to each after 2 minutes.
 3. **Observe:** The water in the thin pan will likely sizzle and evaporate instantly (or the pan might warp). The cast iron may just barely hiss.
 4. **Conclusion:** The heavy pan is a slow-charging battery; the thin pan is a wire. You need to preheat heavy pans significantly longer to get performance.
+## Keywords
+Cast Iron, Thermal Mass, Stainless Steel, Conduction, Forged Blades, Chef's Knife, Serrated Knife, Paring Knife, Heat Transfer, Maillard Reaction
+
+## Category
+cuisine: Global | style: Technique Folio

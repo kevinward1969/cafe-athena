@@ -50,3 +50,8 @@ Yield: 4 servings | Prep: 10 min | Cook: 25 min | Total: ~45 min
 * **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the liquid. In pressure cooking, this happens more efficiently due to higher temperatures.
 * **Mantecatura:** An Italian term for the final phase of risotto or polenta making, where fat (butter/cheese) is vigorously whipped into the starch to create a creamy emulsion.
 * **Brunoise:** A very fine dice (approx. 3mm cubes), ensuring the jalapeño distributes heat evenly in every bite without large crunchy chunks.
+## Keywords
+Polenta, Pressure Cooking, Cornmeal, Cheddar, Jalapeño, Gelatinization, BBQ, Stock, Dairy, Starch
+
+## Category
+cuisine: Global | style: Technique Folio

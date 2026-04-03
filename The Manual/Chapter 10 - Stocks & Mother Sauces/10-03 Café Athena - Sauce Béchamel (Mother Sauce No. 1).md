@@ -82,3 +82,8 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 - **Roux:** A cooked mixture of equal parts flour and fat (by weight), used as a thickening agent.
 - **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
 - **Oignon Piqué:** French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
+## Keywords
+Béchamel, Milk, Roux, Butter, Flour, Emulsion, French, Sauce, Thickening, Aromatics
+
+## Category
+cuisine: French | style: Classical

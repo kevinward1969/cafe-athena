@@ -11,6 +11,10 @@ const recipes = defineCollection({
     type: z.enum(['recipe', 'technique']),
     heroImage: z.string().optional(),
     subtitle: z.string().optional(),
+    keywords: z.array(z.string()).optional().default([]),
+    cuisine: z.string().optional().default(''),
+    style: z.string().optional().default(''),
+    dietary: z.string().optional().default(''),
   }),
 });
 

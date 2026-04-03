@@ -69,3 +69,8 @@ Yield: 4–6 servings | Prep: 45 min | Cook: 3.5–4 hr
 * **Mirepoix:** A flavor base made from diced vegetables (traditionally onions, carrots, celery).
 * **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
 * **Pincé:** The technique of cooking tomato paste until it darkens/caramelizes.
+## Keywords
+Braising, Oxtail, Red Wine, Beef Stock, French, Mushroom, Gelatin, Confit, Mirepoix, Slow Cook
+
+## Category
+cuisine: French | style: Technique Folio

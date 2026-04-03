@@ -143,3 +143,8 @@ Return the beef and vegetables briefly to the jus to warm through and glaze, 2�
 * **Glutamate:** An amino acid responsible for the umami taste sensation. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that produces the complex flavors and brown color associated with searing and roasting. Requires surface temperatures above 280°F/140°C.
 * **Nappé:** The consistency at which a sauce coats the back of a spoon and a clean line holds when a finger is drawn through it.
+## Keywords
+Pressure Braising, Chuck Roast, Cold Smoking, Umami, Maillard Reaction, Glutamate, Beef, Competition, Slow Cooker, Beurre Noisette
+
+## Category
+cuisine: Global | style: Competition

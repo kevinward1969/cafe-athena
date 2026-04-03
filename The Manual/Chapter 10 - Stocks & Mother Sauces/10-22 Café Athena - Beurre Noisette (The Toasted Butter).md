@@ -103,3 +103,8 @@ Allow finished butter to cool to room temperature, then refrigerate until fully 
 - **Abort Vessel:** A heat-proof bowl used to immediately halt cooking by receiving the finished butter away from the heat source.
 - **Compound Butter (Beurre Composé):** Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
 - **Butterfat:** The fat component of butter, expressed as a percentage. Higher butterfat means less water, richer flavor, and faster browning.
+## Keywords
+Butter, Toasted Butter, Maillard Reaction, French Cuisine, Flavor Development, Caramelization, Fat, Milk Solids, Aromatics, Culinary Technique
+
+## Category
+cuisine: French | style: Technique Folio

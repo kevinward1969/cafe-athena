@@ -73,3 +73,8 @@ Turn off the oven and let the pan sit inside with the door cracked open until co
 
 - **Hygroscopic:** The physical property of a substance (like salt) to attract and hold water molecules from the surrounding environment.
 - **Phenols:** Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
+## Keywords
+Smoked Salt, Liquid Smoke, Crystallization, Oven Drying, Salt, Flavor Infusion, Phenols, Diamond Crystal Salt, Texture, Dehydration
+
+## Category
+cuisine: Global | style: Technique Folio

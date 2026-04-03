@@ -85,3 +85,8 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 - **Sauce Dérivée:** A "daughter sauce" created by adding flavorings to a leading "Mother Sauce" (in this case, Mayonnaise).
 - **Brunoise:** A very fine dice (approx. 3mm cubes).
 - **Emulsion:** A mixture of two liquids that normally don't mix (oil and water/vinegar), held together by an emulsifier (egg yolk).
+## Keywords
+Emulsion, Mayonnaise, Cornichons, Lemon Juice, Dill, Chives, Brine, Seafood, Tartar, Texture
+
+## Category
+cuisine: French | style: Technique Folio

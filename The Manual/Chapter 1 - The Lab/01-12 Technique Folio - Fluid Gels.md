@@ -23,3 +23,8 @@
 3. **Set:** Refrigerate for 45 minutes until the liquid becomes a firm, bouncy "hockey puck."
 4. **Shear:** Place the gel chunks into a blender with 0.5g (a tiny pinch) of xanthan gum.
 5. **Observe:** Blend on high until the mixture is perfectly smooth. Pipe a dot onto a plate; it should stand tall without any water ring forming around the base.
+## Keywords
+Shear-Thinning, Agar-Agar, Xanthan Gum, Hydrocolloid, Blending, Gel, Texture, Lemon, Herb, Spherical
+
+## Category
+cuisine: Asian-Fusion | style: Technique Folio

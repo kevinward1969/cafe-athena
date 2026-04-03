@@ -61,3 +61,8 @@ Remove the parmesan rind and basil leaves. Add the cubed smoked mozzarella, grat
 
 * **Mantecatura:** The Italian technique of vigorously stirring fat and cheese into a starch-based dish (like risotto or pasta) off the heat to create a creamy emulsion.
 * **Soffritto:** The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
+## Keywords
+Pasta, Potatoes, Smoked Mozzarella, Italian, Creamy, Emulsification, Risotto, Mantecatura, Comfort Food, One-Pot
+
+## Category
+cuisine: Italian | style: Weeknight

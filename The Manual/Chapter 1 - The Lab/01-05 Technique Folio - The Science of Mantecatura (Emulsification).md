@@ -28,3 +28,8 @@ The goal of Mantecatura is to create a stable **Oil-in-Water Emulsion**.
 3. **The Action:** Beat the risotto hard with a wooden spoon for 30 seconds.
 4. **The Result:** Plate the finished risotto next to the control.
    * *Observation:* The finished risotto flows like lava. There is no weeping liquid; the sauce and rice move as one unit.
+## Keywords
+Emulsification, Risotto, Mantecatura, Butter, Cheese, Starch, Heat, Fat, Rice, Cold Fat
+
+## Category
+cuisine: Italian | style: Technique Folio

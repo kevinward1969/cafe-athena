@@ -79,3 +79,8 @@ By roasting the sweet potatoes in their skins rather than boiling them, we allow
 - **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty flavor profile.
 - **Blooming:** The process of briefly heating spices in fat to release essential oils and amplify flavor.
 - **Ricer:** A utensil with small holes through which cooked food is extruded, breaking it down without rupturing starch granules.
+## Keywords
+Root Vegetables, Roasting, Whipping, Butter, Spice, Turmeric, Ginger, Starch Retrogradation, Shearing, Mashed Potatoes
+
+## Category
+cuisine: Global | style: Technique Folio

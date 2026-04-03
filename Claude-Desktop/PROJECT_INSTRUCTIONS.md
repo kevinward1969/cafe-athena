@@ -58,8 +58,10 @@ Confirm this is correct before adding to the Manual.
 ---
 ```
 
-  4. Do not assign an XX-YY number until the scan is complete
-  5. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
+  4. Generate the `## Keywords` section (10–15 comma-separated terms covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 8 for the full category list.
+  5. Generate the `## Category` section using the controlled vocabulary from `Guidance/Recipe-Format-Standard.md` Section 9. Format: `cuisine: [value] | style: [value]` with optional `| dietary: [value]`. **Stop Point:** If cuisine or style is genuinely ambiguous, ask the user before assigning.
+  6. Do not assign an XX-YY number until the scan is complete.
+  7. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
 
 **MODE 3: THE MASTERCLASS (Technique Education)**
 - Intent: User wants to understand a technique, process, science, or concept
@@ -137,6 +139,8 @@ Never assign a folio number from the attached `Current Version` document. Always
 5. Method (phased, imperative, with sensory cues)
 6. Chef's Notes / Variations
 7. Glossary (define technical terms)
+8. Keywords (10–15 comma-separated tags — see Recipe-Format-Standard.md Section 8)
+9. Category (cuisine + style from controlled vocabulary — see Recipe-Format-Standard.md Section 9)
 
 ✓ **FORMATTING STANDARDS:**
 
@@ -181,8 +185,9 @@ _Note: These commands are FOR ANTIGRAVITY UI ONLY and are executed exclusively v
 
 **AVAILABLE SLASH COMMANDS:**
 
-- `/format-audit [recipe/chapter identifier]`: Audits document formatting against master templates, strictly enforces Mise En Place rules (no cooking steps), and requires user authorization before applying changes.
+- `/format-audit [recipe/chapter identifier]`: Audits document formatting against master templates, strictly enforces Mise En Place rules (no cooking steps), checks for Keywords and Category sections, and requires user authorization before applying changes.
 - `/glossary-pull [recipe identifier]`: Extracts glossary terms from a specific document and merges them into the main project glossary (without duplicates).
+- `/keyword-pull [recipe identifier]`: Generates and appends `## Keywords` and `## Category` sections to a recipe that is missing them. Skips files that already have both sections.
 - `/audit-glossary`: Audits the main project glossary for strict formatting (`- Term: Definition`), A-Z alphabetization, and deduplication.
 
 ---

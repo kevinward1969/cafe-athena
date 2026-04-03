@@ -96,3 +96,8 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 * **Colloidal Suspension:** A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 * **Fond:** The browned bits stuck to the bottom of the pot after searing, packed with concentrated flavor.
 * **Guk-ganjang:** A traditional Korean soy sauce made only from fermented soybeans and brine, with a deeper, more complex flavor than standard soy sauce.
+## Keywords
+Texas-Style Chili, Umami, Fermented, Beef, Demi-Glace, Cocoa, Guinness, Searing, Maillard Reaction, Competition, Chili Paste
+
+## Category
+cuisine: American | style: Competition

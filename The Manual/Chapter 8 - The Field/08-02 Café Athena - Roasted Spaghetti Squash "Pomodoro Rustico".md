@@ -75,3 +75,8 @@ We replace the traditional heavy pasta sauce with a "Rustico" preparation—rapi
 
 - **Hygroscopic:** The ability to attract and hold water molecules from the surrounding environment.
 - **Blooming:** The process of briefly heating spices in fat to release essential oils.
+## Keywords
+Spaghetti Squash, Tomato Ragout, Osmotic Cure, Sauté, Italian, Garlic, Olive Oil, Herbal, Rustic, Vegetable Pasta
+
+## Category
+cuisine: Italian | style: Rustic

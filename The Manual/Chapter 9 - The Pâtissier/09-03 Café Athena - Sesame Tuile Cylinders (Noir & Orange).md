@@ -90,3 +90,8 @@ These cylinders are technically a hybrid of a *Tuile* and a *Florentine*. The hi
 - **Plasticity:** The quality of being easily shaped or molded. In sugar work, this depends entirely on temperature.
 - **Tuile:** French for "tile." A thin, crisp wafer, often curved, named after the curved roof tiles of French country homes.
 - **Ganache:** An emulsion of chocolate and liquid (usually cream).
+## Keywords
+Tuile, Sesame, Miso, Dark Chocolate, Ganache, Orange, Crystallization, Baking, Pastry, Sweet & Savory
+
+## Category
+cuisine: Asian-Fusion | style: Technique Folio

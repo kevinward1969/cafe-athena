@@ -81,7 +81,7 @@ Do not proceed until the user answers.
 
 **Output Protocol (execute in order):**
 1. Read `Guidance/Recipe-Format-Standard.md` to confirm current format rules.
-2. Generate the complete formatted recipe (all 7 required sections — see RECIPE STRUCTURE below).
+2. Generate the complete formatted recipe (all 9 required sections — see RECIPE STRUCTURE below).
 3. **Scan the live filesystem** for the target chapter directory (e.g., `The Manual/Chapter X/`) to determine the next sequential number. Do NOT use the index document — always read the live directory.
 4. Identify the highest XX-YY prefix in use. The next number = highest + 1.
 5. List the last 3 files found as proof of live scan.
@@ -97,8 +97,10 @@ Confirm this is correct before adding to the Manual.
 ---
 ```
 
-7. If the directory cannot be read: output `CRITICAL ERROR: Live Directory Scan Failed. Please provide the last 3 entries manually before I proceed.`
-8. **Do not assign an XX-YY number until the scan is complete. Never guess.**
+7. Generate the `## Keywords` section (10–15 comma-separated terms). Refer to `Guidance/Recipe-Format-Standard.md` Section 8 for the category taxonomy.
+8. Generate the `## Category` section using the controlled vocabulary from `Guidance/Recipe-Format-Standard.md` Section 9. Format: `cuisine: [value] | style: [value]` with optional `| dietary: [value]`. **Stop Point:** If cuisine or style is genuinely ambiguous, ask the user before assigning.
+9. If the directory cannot be read: output `CRITICAL ERROR: Live Directory Scan Failed. Please provide the last 3 entries manually before I proceed.`
+10. **Do not assign an XX-YY number until the scan is complete. Never guess.**
 
 **Mode 2 Stop Points — STOP and ask:**
 - Critical information missing before starting (yield, cooking method, ingredient list)
@@ -157,6 +159,8 @@ ALWAYS stop and ask for confirmation:
 5. Method (phased, imperative, with sensory cues)
 6. Chef's Notes / Variations
 7. Glossary (define all technical terms)
+8. Keywords (10–15 comma-separated tags — see Recipe-Format-Standard.md Section 8)
+9. Category (cuisine + style from controlled vocabulary — see Recipe-Format-Standard.md Section 9)
 
 **FORMATTING STANDARDS:**
 - Temperatures: 425°F/220°C (dual format, not LaTeX)
@@ -198,7 +202,9 @@ These workflows are available via the `.agents/workflows/` directory:
 
 - **`/glossary-pull [file-id]`**: Reads glossary terms from a recipe file (e.g., `04-15`) and merges new terms into `The Manual/Café Athena - Glossary.md`. Skips exact duplicates. Inserts under correct alphabetical heading. Uses `- Term: Definition` format (no bold markers).
 
-- **`/format-audit [recipe-id or chapter]`**: Audits a document against `Recipe-Format-Standard.md`. Strictly enforces Mise en Place rules (no cooking steps). Requires user authorization before applying changes.
+- **`/format-audit [recipe-id or chapter]`**: Audits a document against `Recipe-Format-Standard.md`. Strictly enforces Mise en Place rules (no cooking steps). Also checks for Keywords and Category sections (non-blocking — reports missing sections but does not halt). Requires user authorization before applying changes.
+
+- **`/keyword-pull [file-id]`**: Generates and appends `## Keywords` and `## Category` sections to a recipe that is missing them. Reads `Guidance/Recipe-Format-Standard.md` Sections 8 & 9 for taxonomy. Skips files that already have both sections.
 
 - **`/audit-glossary`**: Audits the main glossary for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
 

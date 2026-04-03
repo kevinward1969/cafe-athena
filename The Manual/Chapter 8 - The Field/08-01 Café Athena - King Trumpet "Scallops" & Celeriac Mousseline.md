@@ -86,3 +86,8 @@ Strain the celeriac, discarding the thyme and garlic, but **reserve** the cookin
 - **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - **Arroser:** The technique of spooning hot fat over an item as it cooks to ensure even heat distribution and flavor penetration.
 - **Beurre Noisette:** "Hazelnut butter" (Brown Butter). Butter cooked until the water evaporates and the milk solids toast to a hazelnut color.
+## Keywords
+Pan-searing, Mushroom, Celeriac, Butter, Hazelnut, Vinaigrette, Mousseline, Root Vegetable, Technique, Appetizer
+
+## Category
+cuisine: Asian-Fusion | style: Technique Folio

@@ -46,3 +46,8 @@
    * Turn blender to low. Dust the Xanthan into the vortex.
    * Slowly stream in 150ml Oil.
 3. **The Result:** The Test Group will turn into a creamy, opaque dressing that mimics the texture of dairy but contains none. It will remain stable in the fridge for weeks.
+## Keywords
+Emulsion, Hydrocolloid, Xanthan Gum, Lecithin, Vinaigrette, Mayonnaise, Hollandaise, Shear-Thinning, Fat-Water, Fermented
+
+## Category
+cuisine: Global | style: Technique Folio

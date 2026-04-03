@@ -53,3 +53,8 @@ Yield: 2 servings | Prep: 15 min | Inactive: 45 min | Cook: 20 min
 * **Fond:** The browned bits of food (sugars, proteins) stuck to the bottom of a pan after searing. The foundation of a pan sauce.
 * **Nappé:** French culinary term meaning to coat the back of a spoon or spatula, indicating the correct viscosity of a sauce.
 * **Monter au Beurre:** "Mount with butter." The process of swirling cold butter into a sauce at the end of cooking to add shine, richness, and thickness.
+## Keywords
+Steak, Pepper, Emulsion, Sear, Cognac, Cream, Peppercorns, French, Beef, Maillard Reaction
+
+## Category
+cuisine: French | style: Technique Folio

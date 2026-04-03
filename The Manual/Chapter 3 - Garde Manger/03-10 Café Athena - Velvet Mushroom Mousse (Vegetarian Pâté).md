@@ -78,3 +78,8 @@ Yield: 6–8 servings | Prep: 45 min | Inactive: 4 hr | Cook: 20 min
 * **Fond:** The caramelized browned bits of food stuck to the bottom of a pan after sautéing; the foundation of flavor for sauces.
 * **Tamis:** A flat, drum-shaped sieve used to create perfectly smooth purées.
 * **Soft Peaks:** The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
+## Keywords
+emulsification, gelatin, mushroom, miso, sherry, umami, vegetarian, pâté, pastry, fine dining, weeknight
+
+## Category
+cuisine: French | style: Fine Dining | dietary: Vegetarian

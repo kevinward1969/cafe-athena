@@ -86,3 +86,8 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 - **Dépouillage:** The practice of skimming the surface of a cooking liquid to remove fat and impurities.
 - **Fond Brun:** Brown Stock, usually made from roasted beef or veal bones.
 - **Nappe:** The consistency where a sauce is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
+## Keywords
+Roux, Brown Sauce, Caramelization, Stock, Mirepoix, Reduction, Flavor Development, Classical Cuisine, Meat Reduction, Pastry
+
+## Category
+cuisine: French | style: Classical

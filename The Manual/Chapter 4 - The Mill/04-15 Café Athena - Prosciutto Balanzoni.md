@@ -82,3 +82,8 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 * **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
 * **Farcia:** A professional term for a fine pasta stuffing or emulsified meat filling.
 * **Nappé:** The consistency where a sauce coats the back of a spoon and a clear line remains when a finger is drawn through it.
+## Keywords
+Pasta, Spinach, Prosciutto, Ricotta, Egg, Butter, Parmesan, Italian, Hand-Kneading, Emulsion
+
+## Category
+cuisine: Italian | style: Technique Folio

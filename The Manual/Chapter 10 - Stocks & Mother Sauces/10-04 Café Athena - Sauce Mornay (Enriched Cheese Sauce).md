@@ -85,3 +85,8 @@ Remove the pot from the heat completely. Add the **Gruyère** and **Parmigiano R
 - **Liaison:** A mixture of egg yolks and cream used to thicken and enrich a sauce at the end of cooking.
 - **Tempering:** The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
 - **Emulsion:** A mixture of two liquids that would ordinarily not mix (like fat and water), stabilized by an agent (like protein or starch).
+## Keywords
+Béchamel, Cheese Sauce, Gruyère, Parmesan, Emulsification, Dairy, French, Sauce, Enrichment, Thermal Shock
+
+## Category
+cuisine: French | style: Technique Folio

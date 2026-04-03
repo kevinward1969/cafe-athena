@@ -45,6 +45,40 @@ def clean_dirs():
         os.makedirs(d, exist_ok=True)
 
 
+def extract_metadata(body):
+    """Extract and strip ## Keywords and ## Category sections from body content.
+
+    Returns (cleaned_body, keywords, cuisine, style, dietary).
+    """
+    keywords = []
+    cuisine = ''
+    style = ''
+    dietary = ''
+
+    # Extract ## Keywords section
+    kw_match = re.search(r'^## Keywords\n(.+?)(?=\n## |\Z)', body, re.MULTILINE | re.DOTALL)
+    if kw_match:
+        raw_kw = kw_match.group(1).strip()
+        keywords = [k.strip() for k in raw_kw.split(',') if k.strip()]
+        body = body[:kw_match.start()].rstrip('\n') + '\n' + body[kw_match.end():]
+
+    # Extract ## Category section
+    cat_match = re.search(r'^## Category\n(.+?)(?=\n## |\Z)', body, re.MULTILINE | re.DOTALL)
+    if cat_match:
+        raw_cat = cat_match.group(1).strip()
+        for part in raw_cat.split('|'):
+            part = part.strip()
+            if part.startswith('cuisine:'):
+                cuisine = part[len('cuisine:'):].strip()
+            elif part.startswith('style:'):
+                style = part[len('style:'):].strip()
+            elif part.startswith('dietary:'):
+                dietary = part[len('dietary:'):].strip()
+        body = body[:cat_match.start()].rstrip('\n') + '\n' + body[cat_match.end():]
+
+    return body.strip(), keywords, cuisine, style, dietary
+
+
 def copy_glossary():
     """Copy the glossary file."""
     os.makedirs(os.path.dirname(GLOSSARY_DEST), exist_ok=True)
@@ -129,8 +163,18 @@ def process_chapter(chapter_dir):
             if len(parts) >= 3:
                 body = parts[2].lstrip('\n')
 
+        # Extract keywords and category, stripping those sections from body
+        body, keywords, cuisine, style, dietary = extract_metadata(body)
+
         # Escape quotes for YAML
         yaml_title = display_title.replace('"', "'")
+
+        # Serialize keywords as YAML list
+        if keywords:
+            kw_items = ', '.join(f'"{k}"' for k in keywords)
+            yaml_keywords = f'[{kw_items}]'
+        else:
+            yaml_keywords = '[]'
 
         # Build frontmatter
         frontmatter = f"""---
@@ -140,6 +184,10 @@ chapter: {chapter_num}
 chapterName: "{chapter_name}"
 type: "{content_type}"
 heroImage: "{hero_image}"
+keywords: {yaml_keywords}
+cuisine: "{cuisine}"
+style: "{style}"
+dietary: "{dietary}"
 ---
 
 """

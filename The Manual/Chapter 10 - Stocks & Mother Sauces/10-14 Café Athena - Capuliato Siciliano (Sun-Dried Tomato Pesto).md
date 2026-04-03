@@ -84,3 +84,8 @@ Let the jar sit open on the counter for **15 minutes**.
 - **Capuliato:** Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - **Headspace:** The empty space left between the top of the food product and the lid of the jar to allow for expansion or oil coverage.
 - **Auger:** The spiral drill bit inside a meat grinder that pushes food toward the cutting blade.
+## Keywords
+Sun-dried tomatoes, pesto, Italian, mince, oil-based, umami, herb, chili, preserve, anaerobic preservation
+
+## Category
+cuisine: Italian | style: Rustic

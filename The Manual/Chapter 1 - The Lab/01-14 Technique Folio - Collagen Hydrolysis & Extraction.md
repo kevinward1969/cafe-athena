@@ -24,3 +24,8 @@ Gelatin is hydrocolloidal; when warm, it provides a silky mouthfeel (viscosity).
 
 * **Result A (Liquid):** Insufficient extraction or too much water. Reduce further.
 * **Result B (Jell-O):** Perfect extraction. This stock will glaze a spoon (nappe) when reduced and mount butter perfectly.
+## Keywords
+Collagen, Hydrolysis, Gelatin, Stock Making, Extraction, Protein, Viscosity, Thermal Energy, Conduction, Simmer, Pressure Cooker
+
+## Category
+cuisine: Global | style: Technique Folio

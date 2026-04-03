@@ -174,6 +174,69 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ---
 
+## SECTION 8: KEYWORDS
+
+**Location:** End of recipe, after Glossary
+
+**Purpose:** Powers site search and recipe discovery
+
+**Format:** `## Keywords` heading followed by a single comma-separated line of 10–15 terms
+
+**Categories to cover:**
+
+- Cooking technique (e.g., braising, emulsification, blind bake, confit)
+- Primary ingredients (e.g., duck, miso, puff pastry, brown butter)
+- Cuisine origin (e.g., French, Korean, Italian, Vietnamese)
+- Equipment (e.g., pressure cooker, stand mixer, chinois, dehydrator)
+- Flavor profile (e.g., umami, smoky, fermented, bright, rich)
+- Occasion or difficulty (e.g., competition, weeknight, pastry, plating)
+
+**Example:**
+
+```markdown
+## Keywords
+duck, confit, French technique, fat poaching, pressure cooker, collagen, umami, weeknight, protein
+```
+
+---
+
+## SECTION 9: CATEGORY
+
+**Location:** End of recipe, after Keywords
+
+**Purpose:** Powers faceted filtering on the website (cuisine + style dropdowns)
+
+**Format:** `## Category` heading followed by a single structured line using the controlled vocabulary below
+
+**Required fields:** `cuisine:` and `style:` — both mandatory
+**Optional field:** `dietary:` — include only if applicable
+
+**Controlled Vocabulary:**
+
+**cuisine:** `French` · `Italian` · `Japanese` · `Korean` · `Vietnamese` · `Chinese` · `American` · `Mediterranean` · `Asian-Fusion` · `Global`
+
+**style:** `Classical` · `Modern` · `Rustic` · `Competition` · `Fine Dining` · `Weeknight` · `Pastry` · `Technique Folio`
+
+**dietary (optional):** `Vegetarian` · `Pescatarian`
+
+**Format:**
+
+```markdown
+## Category
+cuisine: French | style: Classical
+```
+
+With optional dietary tag:
+
+```markdown
+## Category
+cuisine: Italian | style: Rustic | dietary: Vegetarian
+```
+
+**Stop Point:** If the recipe's cuisine or style is genuinely ambiguous (e.g., a fusion dish that could be classified multiple ways), ask the user before assigning. Do not guess.
+
+---
+
 ## UNIVERSAL FORMATTING STANDARDS
 
 **Temperatures:**

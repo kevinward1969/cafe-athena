@@ -67,6 +67,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dextrinization: The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
 - Diastatic Malt: Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
 - Diffusion: The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the food).
+- Doenjang: Korean fermented soybean paste. Pungent, deeply savory, and more aggressive than Japanese miso. Used as an accent ingredient — a small amount adds significant depth.
 - DOP: _Denominazione di Origine Protetta._ Certification guaranteeing the tomatoes are true San Marzanos.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
 
@@ -80,6 +81,9 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## F
 
 - Farcia: A professional term for a fine pasta stuffing or emulsified meat filling.
+- Fat Rendering: The process of applying low, sustained heat to convert solid fat into liquid, which then drains away or is reabsorbed — producing a firmer, less greasy texture in cured meat products.
+- Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
+- Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
 - Fond: The caramelized browned bits of food stuck to the bottom of a pan after sautéing; the foundation of flavor for sauces.
@@ -94,6 +98,9 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Garlic-Infused Oil: Olive oil gently heated with crushed garlic cloves until fragrant, then strained. Delivers garlic flavor without the sharpness or texture of raw garlic.
 - Glutamate: An amino acid responsible for the umami taste sensation. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
+- Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
+- Gochujang: Korean fermented chili paste made from red chilies, glutinous rice, and soybeans. Provides simultaneous heat, sweetness, and umami in a single ingredient.
+ An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 
 ## H
 
@@ -122,19 +129,24 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
+- Microplaned: Grated on a rasp-style grater (Microplane brand) to produce an ultra-fine, almost paste-like result. Used for ginger and garlic to maximize surface area and flavor release without visible texture.
 - Mirepoix: A flavor base made from cooked diced vegetables, usually onion, carrot, and celery in a 2:1:1 ratio.
+- Mirin: Japanese sweet rice wine used for cooking. Lower alcohol than sake, with a distinct sweetness and glossy body. Not interchangeable with sake.
+- Mise en Place: "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
 - Monter au Beurre: "Mount with butter." The technique of finishing a sauce by whisking in cold butter at the end of cooking to add shine, thickness, and flavor.
 - Mousseline: A fine purée enriched with fat (usually cream or butter) to create a light, silky texture.
 
 ## N
 
 - Nappé: The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
+- Nuoc Cham: Vietnamese dipping sauce built on fish sauce, acid, sugar, garlic, and chili. A table condiment as ubiquitous in Vietnam as soy sauce in Japan.
 
 ## O
 
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Osmosis: The movement of water across a cell wall from low salt concentration to high salt concentration.
+- Osmotic Diffusion: The process by which dissolved compounds in a brine migrate through a semi-permeable membrane (the meat's cell walls) from an area of high concentration to low, seasoning the interior.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
 
 ## P
@@ -147,11 +159,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Pincé (or Pincage - Tomato): The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
 - Polyphenol Oxidase: An enzyme found in plants that causes browning when exposed to oxygen.
+- Ponzu: Japanese condiment combining soy sauce with citrus juice (traditionally yuzu). The name derives from the Dutch word "pons" (punch) and the Japanese "su" (vinegar).
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
 
 ## S
 
 - Saikyo Miso: A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
+- Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
 - Sauce Dérivée: A secondary sauce created by adding ingredients to a Mother Sauce.
 - Scald: Heating a liquid (usually dairy) to just below the boiling point (183°F/84°C) to change its protein structure.
 - Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.

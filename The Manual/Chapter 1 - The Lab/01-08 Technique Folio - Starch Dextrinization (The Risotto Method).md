@@ -25,3 +25,8 @@
    * Add 50g couscous. Stir constantly for 3 minutes until golden brown (Dextrinization).
    * Add 75ml water (careful, it will steam). Simmer covered until absorbed.
    * *Observation:* Nutty aroma, darker color, individual pearls roll apart easily.
+## Keywords
+Dextrinization, Risotto Method, Pasta, Israeli Couscous, Toasting, Maillard Reaction, Viscosity, Separation, Soup, Pilaf
+
+## Category
+cuisine: Italian | style: Technique Folio

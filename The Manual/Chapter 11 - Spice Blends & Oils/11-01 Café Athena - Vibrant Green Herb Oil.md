@@ -68,3 +68,8 @@ Pour the mixture into the prepared filter setup. Transfer to the refrigerator an
 
 - **Polyphenol Oxidase:** An enzyme in plant cells that causes browning when exposed to oxygen; heat deactivates it.
 - **Shear:** The mechanical force applied by blender blades to tear apart solid particles and disperse them into the liquid.
+## Keywords
+Blanching, Herb Infusion, Chlorophyll Extraction, Mechanical Extraction, Oil, Parsley, Chives, Grapeseed Oil, Thermal Shock, Flavor Stabilization
+
+## Category
+cuisine: Global | style: Technique Folio

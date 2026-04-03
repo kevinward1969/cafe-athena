@@ -76,3 +76,8 @@ With the mixer on medium-low, add the eggs in four additions. Wait for the dough
 - **Panade:** A thick paste made from flour and liquid, used as a base for doughs or as a binder in meat preparations.
 - **Dextrinization:** The process of breaking down starch into smaller units (dextrins) using dry heat, which aids in browning and flavor development.
 - **Emulsion:** A stable mixture of two liquids that don't naturally mix (like water and fat).
+## Keywords
+Pâte à Choux, Dough, Baking, Thermal Leavening, Gelatinization, Steam, Expansion, Pastry, Emulsification, Cream Puff, Twice-Cooked
+
+## Category
+cuisine: French | style: Technique Folio

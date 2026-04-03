@@ -76,3 +76,8 @@ While the paste is still hot (above 60°C), brush it generously over the freshly
 - **Blooming:** The technique of briefly heating spices in fat to release essential oils and amplify flavor complexity.
 - **Suspension:** A heterogeneous mixture containing solid particles large enough for sedimentation. Unlike a solution (where salt dissolves in water), the spices here are suspended in oil and will settle over time.
 - **Lipophilic:** "Fat-loving." Describes chemical compounds (like capsaicin) that dissolve in fats, oils, and lipids, but not in water.
+## Keywords
+Cayenne Pepper, Brown Sugar, Smoked Paprika, Spice Blend, Frying Oil, Heat Extraction, Capsaicin, Lipophilic, Glaze, Pastry
+
+## Category
+cuisine: American | style: Technique Folio

@@ -58,3 +58,8 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 3. **Observe:** Notice that the cheese does not become stringy. It melts immediately into the liquid.
 4. **Finish:** Once all cheese is added, use an immersion blender for 10 seconds to ensure a perfect glossy texture.
 5. **Test:** Pour over chips or bread. Note that even as it cools, it does not separate; it simply firms up.
+## Keywords
+Melting Salt, Sodium Citrate, Cheese, Emulsion, Casein, Calcium, Chelation, Food Science, Sauce, Dairy
+
+## Category
+cuisine: Global | style: Technique Folio

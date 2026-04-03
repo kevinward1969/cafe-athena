@@ -81,3 +81,8 @@ Immediately transfer the basil to the ice bath. Once cold, remove the leaves and
 - **Polyphenol Oxidase:** An enzyme found in plants that causes browning when exposed to oxygen.
 - **Blanching:** A cooking process wherein a food is scalded in boiling water, removed after a brief, timed interval, and plunged into iced water to halt the cooking process.
 - **Emulsion:** A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
+## Keywords
+Basil, Pesto, Emulsification, Blanch, Italian, Olive Oil, Cheese, Nuts, Herb, Green
+
+## Category
+cuisine: Italian | style: Technique Folio

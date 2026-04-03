@@ -55,3 +55,8 @@ This recipe leverages the enzymatic activity of a healthy sourdough discard to c
 * **Autolyse:** A resting period for dough immediately after mixing flour and water, aiding gluten development.
 * **Bulk Fermentation:** The first stage of fermentation, where the dough gains the majority of its volume.
 * **Salamoia:** An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
+## Keywords
+Sourdough, Focaccia, Discard, High-hydration, Olive Oil, Yeast, Salt, Baking, Dimpled, Steam
+
+## Category
+cuisine: Italian | style: Weeknight

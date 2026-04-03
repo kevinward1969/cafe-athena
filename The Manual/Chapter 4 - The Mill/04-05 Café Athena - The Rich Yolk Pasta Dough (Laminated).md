@@ -48,3 +48,8 @@ Yield: ~450 g dough (4 servings) | Prep: 45 min | Inactive: 30 min | Total: ~1 h
 * **"00" Flour:** An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
 * **Plasticity:** The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly.
 * **Lamination:** The process of folding dough to create layers. In pasta, this is micro-layering for texture rather than the macro-layering seen in croissants.
+## Keywords
+Pasta Dough, Lamination, Egg Yolk, Gluten Inhibition, Fat Hydration, Emulsification, Italian, Technique, Pastry, Silk Texture
+
+## Category
+cuisine: Italian | style: Technique Folio

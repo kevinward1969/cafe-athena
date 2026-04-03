@@ -76,3 +76,8 @@ Transfer the dried shards to a spice grinder or mortar and pestle. Add the **cit
 - **Sodium Acetate:** The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
 - **Exothermic:** A chemical reaction that releases heat.
 - **Hygroscopic:** The tendency of a substance to absorb moisture from the air. This powder will clump quickly if left uncovered.
+## Keywords
+Chemical Synthesis, Vinegar, Baking Soda, Sodium Acetate, Crystallization, Reduction, Fermentation, Flavor Profile, Stoichiometry, Culinary Experiment
+
+## Category
+cuisine: Global | style: Technique Folio

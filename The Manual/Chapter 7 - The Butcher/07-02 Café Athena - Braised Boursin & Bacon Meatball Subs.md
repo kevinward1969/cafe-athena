@@ -82,3 +82,8 @@
 * **Soffritto:** An aromatic flavor base made by gently cooking vegetables (onions, garlic) in fat.
 * **Fond:** The caramelized brown bits stuck to the bottom of a pan after searing meat or vegetables; a concentrated source of flavor.
 * **Panade:** A mixture of starch and liquid used to bind ground meat and maintain moisture.
+## Keywords
+Braising, Meatballs, Bacon, Boursin, Tomato, Provolone, Sourdough, Italian, Pork, Garlic
+
+## Category
+cuisine: Italian | style: Weeknight

@@ -67,3 +67,8 @@ Remove steaks to a cutting board or warm plate. Pour the remaining marrow fat an
 - **Reverse Sear:** A two-stage cooking method (low heat first, high heat second) that maximizes edge-to-edge doneness and minimizes the "gray band."
 - **Osmotic Pressure:** The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
 - **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+## Keywords
+Reverse Sear, Bone Marrow, Ribeye, Herb Baste, Dry-brining, Steak, Maillard Reaction, High Heat, Fat Rendering, Aromatics
+
+## Category
+cuisine: French | style: Technique Folio

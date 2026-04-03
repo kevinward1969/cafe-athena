@@ -49,3 +49,8 @@ To master kefir, you must understand that you are managing a living ecosystem, n
 * **Action:** Strain through fine mesh.
 * **Result:** You have effectively made Kefir Cheese. The whey can be used as a starter for fermenting vegetables, and the solids can be salted and spread like cream cheese.
 * **Lesson:** Fermentation is a continuum. Stop early for drinkable kefir; go long for soft cheese.
+## Keywords
+Microbial Fermentation, Kefir, Dairy, Fermentation, Lactic Acid, Yeast, SCOBY, Symbiotic Culture, Mesophilic, Polysaccharide
+
+## Category
+cuisine: Global | style: Technique Folio

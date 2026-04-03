@@ -46,3 +46,8 @@
    * *Silent Slice:* The knife glides through with a "whisper." (Perfect Alignment).
    * *The Tear:* The knife catches, rips the paper, or creates a jagged edge. (The edge is rolled or dull).
 4. **Correction:** If it tears, hone the knife (10 swipes per side) and try again. If it still tears, it needs the whetstone.
+## Keywords
+Knife sharpening, Honing, Cast iron, Thermal shock, Polymerization, Blade management, Seasoning, Metal restoration, Culinary maintenance, Edge alignment
+
+## Category
+cuisine: Japanese | style: Technique Folio

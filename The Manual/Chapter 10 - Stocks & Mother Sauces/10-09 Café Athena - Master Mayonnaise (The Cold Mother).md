@@ -68,3 +68,8 @@ If the mayonnaise is too stiff (jelly-like), whisk in the **warm water** one tea
 
 - **Emulsion:** A mixture of two liquids that would ordinarily not mix (oil and water).
 - **Lecithin:** A fatty substance found in egg yolks that bonds with both water and oil, stabilizing the mixture.
+## Keywords
+Emulsification, Mayonnaise, Egg Yolk, Olive Oil, Mustard, Vinegar, Kosher Salt, Neutral Oil, Technique, Cold Kitchen
+
+## Category
+cuisine: Global | style: Technique Folio

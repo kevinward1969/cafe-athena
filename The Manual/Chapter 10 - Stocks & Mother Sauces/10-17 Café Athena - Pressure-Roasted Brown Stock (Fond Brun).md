@@ -98,3 +98,8 @@ While traditional brown stock requires 8–12 hours of simmering to extract gela
 - **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - **Pincé:** The culinary technique of cooking tomato paste until it caramelizes and turns brown.
 - **Mirepoix:** A flavor base made from cooked diced vegetables, usually onions, carrots, and celery.
+## Keywords
+Pressure Cooking, Brown Stock, Veal Bones, Mirepoix, Tomato Paste, Pincage, Gelatin, Red Wine, Maillard Reaction, Caramelization
+
+## Category
+cuisine: French | style: Technique Folio

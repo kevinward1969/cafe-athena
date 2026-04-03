@@ -70,3 +70,8 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 - **Amylopectin:** A highly branched polymer of glucose found in plants. In potatoes, it is responsible for the "sticky" and "glassy" qualities of a cooked starch gel.
 - **Gelatinization:** The process where starch granules absorb water and swell when heated, eventually breaking open and forming a thickened gel.
 - **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. We bake at a lower temperature to minimize this and keep the onion flavor "fresh."
+## Keywords
+Vegetable Tuiles, Potato, Onion, Starch Gelatinization, Emulsification, Amylopectin, Baking Powder, Savory Snack, Technique, Crisp
+
+## Category
+cuisine: Global | style: Technique Folio

@@ -81,3 +81,8 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 * **Maillard Reaction:** The chemical reaction between amino acids and sugars that creates browned flavors.
 * **Blooming:** Toasting spices in fat to activate volatile oils.
 * **Colloidal Suspension:** A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
+## Keywords
+Texas-Style Chili, Umami, Fermented, Beef, Chili Paste, Demi-Glace, Searing, Competition, Hand-Cut, Spice Blend
+
+## Category
+cuisine: American | style: Competition

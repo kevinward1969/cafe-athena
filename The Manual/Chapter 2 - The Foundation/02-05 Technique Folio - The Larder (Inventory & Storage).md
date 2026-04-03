@@ -48,3 +48,8 @@
    * *Label:* Date everything. If you don't know when you made it, throw it out.
    * *Organize:* Move all raw meat to the bottom. Move all condiments to the door.
 3. **Result:** You will likely gain 30% more space and instantly know what you need to cook for dinner.
+## Keywords
+Inventory Management, FIFO, Standardization, Storage, Labeling, Container, Dairy, Poultry, Expiration Dates, Visual Control
+
+## Category
+cuisine: Global | style: Technique Folio

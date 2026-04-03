@@ -40,3 +40,8 @@
 * **Action:** Leave on the counter for 48 hours.
 * **Observation:** Jar A will likely be gray, still, and separate into water and paste. Jar B will likely be expanded, bubbly, and smell distinct.
 * **Lesson:** Biology requires the right habitat. Jar B is a forest; Jar A is a parking lot.
+## Keywords
+Sourdough Starter, Fermentation, Wild Yeast, Bran, Rye Flour, Microbial Culture, Polyculture, pH, Amylase, Bacteria
+
+## Category
+cuisine: Global | style: Technique Folio
