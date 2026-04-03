@@ -1,0 +1,89 @@
+# **Café Athena – Sourdough Hybrid "Spoon" Buns**
+
+A high-hydration, no-knead bun utilizing a dual-leavening system for maximum aromatic complexity and structural reliability. The "spooning" technique produces an irregular, rustic crumb with a thin, shattered-glass crust.
+
+**Yield:** 15–18 buns | **Prep:** 30 min | **Inactive:** 5 hr | **Cook:** 30 min | **Total:** 6 hr
+
+## Headnote
+
+These buns represent the intersection of high-hydration rheology and controlled fermentation. At approximately 83% total hydration (accounting for the water and flour contributed by the starter), this dough is too fluid to shape conventionally — and that is precisely the point. By utilizing a "past-peak" sourdough starter alongside a small amount of commercial yeast, we achieve a dough that is both deeply flavorful and sufficiently gassed to withstand the "spooning" method. The absence of traditional shaping preserves the delicate internal gas structure. **Teaching Idea: Flour Skin & Encapsulation.** In ultra-high hydration doughs (80%+), handling is minimized. By pouring the dough onto a heavily floured surface and dusting the top, we create a temporary "flour skin." This dry barrier encapsulates the wet, tacky interior, allowing the spoon to portion the dough without sticking or tearing the gluten network.
+
+## Mise en Place
+
+> **Timing Note:** Your sourdough starter must be active and at peak activity before beginning this recipe. A starter at peak will be domed, slightly jiggly, have doubled in volume, and smell yeasty-tangy. Plan your feeding schedule so the starter peaks at the moment you are ready to mix. Do not begin until this condition is met.
+
+- Confirm starter is at peak activity (see note above).
+- Finely mince the fresh rosemary.
+- Measure all dry ingredients into a small bowl and whisk to combine.
+- Measure water and olive oil.
+- Line two large baking sheets with parchment paper or silicone mats.
+- Set a dough warmer plate (if using) to 76°F/24°C.
+
+## Ingredients
+
+### The Dough
+
+- 200 g (approx. ¾ cup) active sourdough starter (100% hydration)
+- 860 g (approx. 7⅛ cups) bread flour
+- 700 g (approx. 3 cups) water, room temperature (70°F/21°C)
+- 2 g (approx. ⅔ tsp) instant yeast
+- 10 g (3¼ tsp) Diamond Crystal kosher salt
+- 27 g (2 tbsp) extra virgin olive oil
+
+### Aromatics & Bench Work
+
+- 1 g (1 tsp) dried oregano
+- 1 g (1 tsp) dried thyme
+- 3 g (1 tsp) garlic powder
+- 1 g (1 tsp) fresh rosemary, finely minced
+- Additional bread flour, for bench work
+
+## Method
+
+### Phase 1: The Hybrid Mix
+
+In a large stainless steel bowl, combine the water, active sourdough starter, and instant yeast. Whisk vigorously until the starter is fully dispersed and the liquid is frothy. Add the olive oil. Gradually fold in the flour, salt, and herbs using a sturdy spatula or dough whisk. Mix until no dry pockets of flour remain. The dough will be extremely shaggy, sticky, and fluid — this is correct.
+
+### Phase 2: Controlled Bulk Fermentation
+
+Cover the bowl tightly with plastic wrap or a damp cloth. Place on a warmer plate set to 76°F/24°C, or in a warm, draft-free area. Ferment for 60 minutes. At the end of this period, the dough should have increased in volume by roughly 20%, showing visible small bubbles on the surface and appearing "jiggly" when the bowl is shaken.
+
+### Phase 3: Cold Retardation
+
+Transfer the bowl directly to the refrigerator for a minimum of 4 hours and up to 12 hours. This window gives you overnight optionality — mix in the evening, bake the following morning. The cold environment slows fermentation and firms the dough's structure, making it viscous enough to portion cleanly. The dough is ready when it is cold to the touch and holds a slight indentation when pressed.
+
+### Phase 4: Encapsulation & Spooning
+
+Generously dust a clean work surface with bread flour. Gently tip the cold dough out of the bowl onto the flour — do not pull or stretch it. Sift a heavy layer of flour over the top of the dough mass. Using a large metal spoon or ladle, scoop a 3–4 inch (7–10 cm) portion of dough. The flour coating on the surface should encapsulate the exterior of each scoop. Place each portion onto the prepared baking sheet. Repeat for the remaining dough, leaving 2 inches of space between buns. Do not press, tuck, or shape the portions.
+
+**Sensory Cue:** Each scooped bun should look rough and irregular — no smooth surfaces. If the exterior looks tight or sealed, the flour skin is working correctly.
+
+### Phase 5: Final Proof & Steam Bake
+
+Preheat the oven to 450°F/232°C. Place a cast iron pan or stainless steel tray on the bottom rack. Allow the scooped buns to rest at room temperature for 20–30 minutes while the oven reaches temperature. Just before loading, pour 1 cup of boiling water into the bottom pan to generate steam. Slide the baking sheets into the oven. Bake for 25–30 minutes until the crust is deep golden brown and the internal temperature of a center bun reaches 205°F/96°C. Cool completely on a wire rack before serving.
+
+**Sensory Cue:** The crust should sound hollow when tapped on the bottom. If it sounds dense, return to the oven for 3–5 additional minutes.
+
+## Chef's Notes / Variations
+
+- **Peak Starter Indicators:** A starter at peak will be domed (not collapsed), will have doubled from its fed volume, will pass the float test (a small spoonful dropped in water will float), and will smell pleasantly tangy with a yeasty undertone. A flat, deflated, or sharply sour starter is past peak — re-feed and wait.
+- **Cold Retard Window:** The 4–12 hour cold window is flexible. Mix the evening before and bake the next morning with no compromise in quality. Beyond 12 hours, fermentation continues slowly and the dough may become over-proofed and slack.
+- **Crumb Diagnosis:** An open, irregular alveoli structure is the target. If the final crumb is tight and dense, the most likely cause is an under-ripe starter. If the crumb is gummy, the buns were under-baked — trust the internal temperature (205°F/96°C), not the clock.
+- **Steam Control:** If you do not have a steam pan, spray the oven walls with water three times during the first 5 minutes of baking to encourage maximum oven spring and crust development.
+- **Freezing:** Baked buns freeze exceptionally well. Cool completely, then freeze individually on a tray before transferring to a bag. Reheat directly from frozen at 375°F/190°C for 8–10 minutes. Do not thaw first — the direct heat restores crust integrity.
+- **Bianco Variation:** Omit all dried herbs. Top each scooped bun with flaky sea salt and a thumbprint of fresh rosemary oil just before loading into the oven.
+
+## Glossary
+
+- **Levain:** A portion of sourdough starter that has been refreshed and is at peak activity for baking.
+- **Hybrid Leavening:** The concurrent use of wild yeast (sourdough) and commercial yeast to balance deep fermentation flavor with rise reliability.
+- **Rheology:** The study of the flow and deformation of matter; in baking, it describes the viscosity and "slump" behavior of a high-hydration dough.
+- **Alveoli:** The gas pockets within the crumb of a bread, created by CO₂ produced during fermentation.
+- **Cold Retardation:** Slowing fermentation by placing dough in a refrigerator, which firms its structure and develops flavor complexity.
+- **Oven Spring:** The rapid final rise of dough during the first minutes of baking, driven by heat expanding the trapped CO₂ and steam.
+
+## Keywords
+sourdough, hybrid leavening, high-hydration, bread, no-knead, bulk fermentation, cold retard, oven spring, buns, bread flour, wild yeast, commercial yeast, steam bake, rustic, open crumb
+
+## Category
+cuisine: Global | style: Modern

@@ -47,6 +47,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Cold Smoking: Exposing food to smoke at temperatures below 90°F/32°C. Adds flavor without cooking the product.
 - Collagen: A structural protein in connective tissue that converts to gelatin when cooked slowly with moisture.
+- Cold Retardation: Slowing fermentation by placing dough in a refrigerator, which firms its structure and develops flavor complexity.
 - Colloidal Suspension: A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 - Compound Butter (Beurre Composé): Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
 - Concasse: A technique for preparing tomatoes: peeling, seeding, and dicing them.
@@ -100,12 +101,12 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - Gochujang: Korean fermented chili paste made from red chilies, glutinous rice, and soybeans. Provides simultaneous heat, sweetness, and umami in a single ingredient.
- An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 
 ## H
 
 - Headspace: The empty space left between the top of the food product and the lid of the jar to allow for expansion or oil coverage.
 - Honeycomb: The aerated, custardy internal structure of a perfectly baked canelé.
+- Hybrid Leavening: The concurrent use of wild yeast (sourdough) and commercial yeast to balance deep fermentation flavor with rise reliability.
 - Hydration: The ratio of water to flour by weight. 85% hydration means 850g water for every 1000g flour.
 - Hydrocolloid: A substance that forms a gel in the presence of water (e.g., starch, gelatin, agar, alginate).
 - Hydrolysis: The chemical breakdown of a compound due to reaction with water; here, turning collagen into gelatin.
@@ -119,6 +120,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lamination (Pasta): The process of folding and re-rolling pasta dough through the thickest setting to build structure and achieve a uniform rectangular sheet.
+- Levain: A portion of sourdough starter that has been refreshed and is at peak activity for baking.
 - Lecithin: A fatty substance found in egg yolks that bonds with both water and oil, stabilizing the mixture.
 - Letter Fold: A standard folding technique where dough is folded in thirds, like a business letter.
 - Liaison: A mixture of egg yolks and cream used to thicken and enrich a sauce at the end of cooking.
@@ -148,6 +150,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Osmosis: The movement of water across a cell wall from low salt concentration to high salt concentration.
 - Osmotic Diffusion: The process by which dissolved compounds in a brine migrate through a semi-permeable membrane (the meat's cell walls) from an area of high concentration to low, seasoning the interior.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
+- Oven Spring: The rapid final rise of dough during the first minutes of baking, driven by heat expanding the trapped CO₂ and steam.
 
 ## P
 
@@ -161,6 +164,10 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Polyphenol Oxidase: An enzyme found in plants that causes browning when exposed to oxygen.
 - Ponzu: Japanese condiment combining soy sauce with citrus juice (traditionally yuzu). The name derives from the Dutch word "pons" (punch) and the Japanese "su" (vinegar).
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
+
+## R
+
+- Rheology: The study of the flow and deformation of matter; in baking, it describes the viscosity and "slump" behavior of a high-hydration dough.
 
 ## S
 

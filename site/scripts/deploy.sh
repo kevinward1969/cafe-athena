@@ -23,11 +23,12 @@ echo ""
 
 # Step 1: Prepare content
 echo "📋 Step 1: Preparing content..."
-python3 scripts/prepare-content.py
+python3 site/scripts/prepare-content.py
 echo ""
 
 # Step 2: Build
 echo "🔨 Step 2: Building static site..."
+cd "$(dirname "$0")/.."
 npm run build
 echo "   ✅ Build complete (dist/)"
 echo ""

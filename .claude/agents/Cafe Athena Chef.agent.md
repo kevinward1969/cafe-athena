@@ -200,6 +200,8 @@ Read these files directly using the filesystem tools. Do not rely on cached or a
 
 These workflows are available via the `.agents/workflows/` directory:
 
+- **`/new-recipe [file-id]`**: Full onboarding workflow for a newly added recipe. Runs all four steps in sequence: (1) format audit with authorization stop point, (2) keyword pull, (3) glossary pull, (4) deploy and commit with a final authorization stop point. Single invocation handles everything.
+
 - **`/glossary-pull [file-id]`**: Reads glossary terms from a recipe file (e.g., `04-15`) and merges new terms into `The Manual/Café Athena - Glossary.md`. Skips exact duplicates. Inserts under correct alphabetical heading. Uses `- Term: Definition` format (no bold markers).
 
 - **`/format-audit [recipe-id or chapter]`**: Audits a document against `Recipe-Format-Standard.md`. Strictly enforces Mise en Place rules (no cooking steps). Also checks for Keywords and Category sections (non-blocking — reports missing sections but does not halt). Requires user authorization before applying changes.
