@@ -241,7 +241,45 @@ Listed in priority order:
 
 ---
 
-## 9. Agent File Quick Reference
+## 9. Brainstorm — Claude Co-Work for Bulk & Parallel Tasks
+
+**Status: Exploratory — not yet implemented**
+
+Claude Code supports a "co-work" pattern where multiple sub-agents run in parallel within a single session, each handling an independent slice of a larger task. This is potentially valuable for Café Athena given the volume of pending work (~69 glossary pulls, ~85 image briefs, 11 chapter format audits).
+
+### What Co-Work Could Solve
+
+| Problem | Current Approach | Co-Work Possibility |
+| ------- | ---------------- | ------------------- |
+| Glossary pull for 69 files | Run one at a time, session by session | Launch a sub-agent per chapter in parallel; each agent runs `/glossary-pull` across its chapter and reports results |
+| Format audit for 11 chapters | One chapter per session | Spawn 11 agents simultaneously, each auditing one chapter, returning a consolidated report |
+| Image brief generation for 85 recipes | One brief at a time | Spawn agents per chapter to generate all briefs, output as a batch paste list for Gemini |
+| Keyword/category pull | Per-recipe, manual | Batch per chapter in parallel |
+
+### Key Questions to Resolve Before Implementing
+
+1. **Authorization model** — The current `/format-audit` and `/glossary-pull` workflows have per-recipe stop points requiring human confirmation. Bulk operation via co-work would need a "batch authorization" mode where the user approves the full chapter output at once rather than recipe by recipe. Is that acceptable for glossary and keyword work? (Format audits are higher stakes and may still need per-recipe review.)
+
+2. **Conflict risk** — If multiple agents write to the same file (e.g., the main glossary) simultaneously, there is a merge conflict risk. Glossary pulls in particular all write to `Café Athena - Glossary.md`. Co-work agents would need to either run sequentially for that file, or each produce a diff that gets merged in a final step.
+
+3. **Context cost** — Each co-work agent starts with full context overhead. For 69 glossary pulls, spawning 69 agents is expensive. A better model may be one agent per chapter (7 agents for glossary work) rather than one per recipe.
+
+4. **Workflow readiness** — The existing `.agents/workflows/` files are written for single-recipe invocation. A batch variant would need either new workflow files (`/glossary-pull-chapter [N]`) or a wrapper agent that loops through a chapter's files and calls the existing logic.
+
+### Recommended Starting Point
+
+If pursuing this, start with **glossary pull** — it's the lowest-stakes bulk operation (no stop points, no authorization gates, no site impact). Build a `/glossary-pull-chapter [N]` workflow that:
+
+1. Scans all `.md` files in the chapter folder
+2. Extracts glossary terms from each
+3. Merges into the main glossary sequentially (one file at a time to avoid conflicts)
+4. Reports a summary of terms added
+
+This would clear the 69-file backlog in a handful of sessions rather than dozens.
+
+---
+
+## 10. Agent File Quick Reference
 
 | What you need | Where it lives |
 | ------------- | -------------- |

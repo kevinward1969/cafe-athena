@@ -21,6 +21,37 @@ Last Updated: 2026-04-02
 
 ## 🔧 Site & Asset Maintenance
 
+### Pending Deploy
+
+The following are committed/staged but not yet live:
+
+- `01-03.md`, `01-04.md`, `01-05.md` — recipe content updates
+- `01-03.png`, `01-04.png`, `01-05.png` — new Ch. 1 hero images
+- Section images: `section-academy.webp`, `section-brigade.webp`, `section-glossary.webp`, `section-larder.webp`
+
+**Next step:** Run `prepare-content` and `deploy.sh`.
+
+---
+
+### Glossary Pull — Missing Entries
+
+Run `/glossary-pull [index]` for each file below. Chapters 8–11 are complete.
+
+| Chapter | Files Remaining | Command |
+| :--- | :--- | :--- |
+| Chapter 1 - The Lab | 19/19 | `/glossary-pull 01-01` through `01-19` |
+| Chapter 2 - The Foundation | 7/7 | `/glossary-pull 02-01` through `02-07` |
+| Chapter 3 - Garde Manger | 12/13 | All except 03-01 |
+| Chapter 4 - The Mill | 15/18 | All except 04-05, 04-11, 04-16 |
+| Chapter 5 - The Fishmonger | 2/2 | `/glossary-pull 05-01`, `05-02` |
+| Chapter 6 - The Poulterer | 6/6 | `/glossary-pull 06-01` through `06-06` |
+| Chapter 7 - The Butcher | 8/13 | All except 07-01–07-05 |
+| Chapters 8–11 | ✅ Complete | — |
+
+**Total remaining: ~69 files**
+
+---
+
 ### Format Audit — Full Cookbook
 
 Run `/format-audit Chapter N` across all chapters to validate every recipe and folio against `Recipe-Format-Standard.md`. Includes structural order, Mise En Place compliance, Keywords, and Category sections.
@@ -41,16 +72,15 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 ### PNG → WebP Optimization
 
-19 hero images in chapter folders are still `.png` and need conversion. Run:
-
-```
-/recipe-hero-image optimize all
-```
+Run `/recipe-hero-image optimize all` to convert all PNGs in chapter folders to WebP in one pass.
 
 | File | Chapter | Status |
 | :--- | :--- | :--- |
 | 01-01.png | Chapter 1 | Pending |
 | 01-02.png | Chapter 1 | Pending |
+| 01-03.png | Chapter 1 | Pending |
+| 01-04.png | Chapter 1 | Pending |
+| 01-05.png | Chapter 1 | Pending |
 | 03-01.png | Chapter 3 | Pending |
 | 03-03.png | Chapter 3 | Pending |
 | 03-04.png | Chapter 3 | Pending |
