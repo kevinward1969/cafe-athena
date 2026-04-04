@@ -36,12 +36,18 @@
 * **Small Dice (Macédoine):** 6mm×6mm×6mm. (Derived from cross-cutting a Batonnet).  
 * **Medium Dice (Parmentier):** 12mm×12mm×12mm. Standard for soups and stews.
 
+[ref:02-04b | Julienne and strip cuts]
+
+[ref:02-04c | Square vegetable cuts]
+
 **The Geometrics (Shapes)**
 
 * **Paysanne (Tile):** 12mm×12mm×3mm. A thin, flat square. Used in soups to cook quickly while matching the surface area of a medium dice.  
 * **Rondelle (Rounds):** Discs cut from cylindrical vegetables (carrots, parsnips). Thickness varies (3mm to 6mm) but must be consistent.  
 * **Tourné (Turned):** The classic 7-sided football shape. 50mm long. Used for glazed root vegetables. It demonstrates mastery of knife control.  
 * **Chiffonade (Ribbons):** For leafy herbs (basil, sage). Stack leaves, roll tightly like a cigar, and slice perpendicular into fine threads.
+
+[ref:02-04a | Geometric and classic vegetable shapes]
 
 **Practice Exercise: The "Scallion" Test** **Goal:** Verify sharpness and technique.
 

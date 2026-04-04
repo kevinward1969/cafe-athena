@@ -7,14 +7,16 @@ description: Two-mode workflow for hero images — Create mode builds a Gemini p
 Invoked with:
 
 - `/recipe-hero-image [index]` — Create mode, e.g. `/recipe-hero-image 04-17`
-- `/recipe-hero-image optimize [index|chapter-N|all]` — Optimize mode, e.g. `/recipe-hero-image optimize 04-17` or `/recipe-hero-image optimize chapter-4` or `/recipe-hero-image optimize all`
+- `/recipe-hero-image optimize [index|chapter-N|all]` — Optimize mode, e.g. `/recipe-hero-image optimize 04-17` or `/recipe-hero-image optimize 04-17a` or `/recipe-hero-image optimize chapter-4` or `/recipe-hero-image optimize all`
+- `/recipe-hero-image insert [index] "[position hint]" "[caption]"` — Insert mode, e.g. `/recipe-hero-image insert 04-11 "after the gnocchi shapes list" "Gnocchi shape guide"`
 
 ---
 
 ## Phase 0 — Mode Detection
 
 1. If the first argument is `optimize`, branch to **Optimize Mode** below.
-2. Otherwise, treat the argument as a recipe index and continue with **Create Mode**.
+2. If the first argument is `insert`, branch to **Insert Mode** below.
+3. Otherwise, treat the argument as a recipe index and continue with **Create Mode**.
 
 ---
 
@@ -74,6 +76,42 @@ Present the following instructions to the user:
 
 ---
 
+---
+
+## INSERT MODE
+
+### Phase 1 — Locate Folio and Determine Next Letter
+
+1. Identify the source chapter folder from the index (e.g., `04-11` → `The Manual/Chapter 4 - The Mill/`).
+2. Read the source `.md` file (filename matches `{index}*`).
+3. Scan the file for existing `[ref:{index}*]` shortcodes to determine which letters are already used.
+4. The next available letter is the one immediately after the highest used (e.g., if `04-11a` and `04-11b` exist, next is `04-11c`). If none exist, start with `a`.
+
+---
+
+### Phase 2 — Find Insertion Point *(STOP POINT)*
+
+1. Parse the position hint to identify the target section (e.g., `"after the gnocchi shapes list"` → look for the relevant heading or last list item in that section).
+2. Show the user the exact line where the shortcode will be inserted and the shortcode that will be written:
+
+   > *"I'll insert `[ref:04-11c | Caption]` after the line: `* **Pici di Patate:** …`"*
+
+**WAIT** for the user to confirm.
+
+---
+
+### Phase 3 — Insert Shortcode
+
+1. Insert the shortcode as a standalone paragraph (blank line above, blank line below):
+
+   ```
+   [ref:{index}{letter} | {caption}]
+   ```
+
+2. Confirm insertion: *"`[ref:04-11c | Caption]` inserted. Rename your source image to `04-11c.png` and run `/recipe-hero-image optimize 04-11c` before deploying."*
+
+---
+
 ## OPTIMIZE MODE
 
 ### Phase 1 — Identify Targets
@@ -81,6 +119,7 @@ Present the following instructions to the user:
 Determine which chapter-folder PNG/WebP files to process:
 
 - **`optimize {index}`** — single file: find `{index}.png` in the chapter folder for that recipe
+- **`optimize {index}{letter}`** — single reference image: find `{index}{letter}.png` (e.g., `04-11a.png`) in the chapter folder
 - **`optimize chapter-N`** — all `*.png` files in `The Manual/Chapter N - */`
 - **`optimize all`** — all `*.png` files across all chapter folders in `The Manual/`
 

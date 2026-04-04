@@ -154,6 +154,17 @@ def process_chapter(chapter_dir):
                 image_count += 1
                 break
 
+        # Copy reference images (XX-YYa.webp/png, XX-YYb.webp/png, etc.) — prefer .webp over .png
+        reference_images = []
+        for ext in ('webp', 'png'):
+            for ref_file in sorted(globmod.glob(os.path.join(chapter_dir, f'{index}[a-z].{ext}'))):
+                ref_name = os.path.basename(ref_file)
+                base = os.path.splitext(ref_name)[0]
+                if not any(os.path.splitext(r)[0] == base for r in reference_images):
+                    shutil.copy2(ref_file, os.path.join(IMAGES_DIR, ref_name))
+                    reference_images.append(ref_name)
+                    image_count += 1
+
         # Read original content
         with open(md_file, 'r', encoding='utf-8') as f:
             original_content = f.read()
@@ -178,6 +189,13 @@ def process_chapter(chapter_dir):
         else:
             yaml_keywords = '[]'
 
+        # Serialize reference images as YAML list
+        if reference_images:
+            ref_items = ', '.join(f'"{r}"' for r in reference_images)
+            yaml_reference_images = f'[{ref_items}]'
+        else:
+            yaml_reference_images = '[]'
+
         # Build frontmatter
         frontmatter = f"""---
 title: "{yaml_title}"
@@ -186,6 +204,7 @@ chapter: {chapter_num}
 chapterName: "{chapter_name}"
 type: "{content_type}"
 heroImage: "{hero_image}"
+referenceImages: {yaml_reference_images}
 keywords: {yaml_keywords}
 cuisine: "{cuisine}"
 style: "{style}"

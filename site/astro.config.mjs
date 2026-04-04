@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { remarkRefImages } from './src/plugins/remark-ref-images.mjs';
 
 import tailwindcss from '@tailwindcss/vite';
 
@@ -10,6 +11,7 @@ export default defineConfig({
     shikiConfig: {
       theme: 'github-dark',
     },
+    remarkPlugins: [remarkRefImages],
   },
   vite: {
     css: {

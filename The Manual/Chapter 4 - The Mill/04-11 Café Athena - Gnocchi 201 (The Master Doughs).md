@@ -110,6 +110,8 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 * **Gnocchi Ripieni (Stuffed):** A larger, flattened pillow folded over a filling (cheese, mushroom, speck). Bulges in the center; sealed edges.
 * **Pici di Patate:** The linear gnocchi. The dough is rolled into thick, worm-like noodles rather than cut into segments. Changes the "chew" completely.
 
+[ref:04-11a | Gnocchi shape guide]
+
 **Glossary**
 
 * **Ricer:** A kitchen tool that extrudes food through small holes (like a giant garlic press), creating a fluffy texture without overworking the starch.

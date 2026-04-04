@@ -10,6 +10,7 @@ const recipes = defineCollection({
     chapterName: z.string(),
     type: z.enum(['recipe', 'technique']),
     heroImage: z.string().optional(),
+    referenceImages: z.array(z.string()).optional().default([]),
     subtitle: z.string().optional(),
     keywords: z.array(z.string()).optional().default([]),
     cuisine: z.string().optional().default(''),
