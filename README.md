@@ -248,6 +248,8 @@ Every recipe and folio has a unique index in `XX-YY` format:
 
 Example: `04-11` = Chapter 4, entry 11.
 
+The hero image filename matches the folio index: `04-11.webp`.
+
 Reference images extend this with a letter suffix: `04-11a`, `04-11b`.
 
 Claude scans the live Manual directory before assigning any new number to prevent conflicts.
