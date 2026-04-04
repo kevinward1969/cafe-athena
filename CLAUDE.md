@@ -33,6 +33,18 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 
 ---
 
+## ⚠️ Version Bump Rule
+
+**Whenever any agent file is modified, you must:**
+
+1. Bump the version number in the file header (e.g. `Version: 1.1` → `Version: 1.2`)
+2. Add an entry to `AGENT_CHANGELOG.md` describing what changed and why
+3. Follow the propagation rule below for any changes that affect secondary surfaces
+
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`, and any `.agents/workflows/*.md` file.
+
+---
+
 ## ⚠️ Agent Propagation Rule
 
 **When any of the following files are modified, stop and remind the user to manually update the corresponding external surfaces before committing.**

@@ -5,6 +5,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ---
 
 ## Gemini Gem 1 — The Chef
+
 **File:** `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
 **Current Version:** 3.4
 
@@ -19,17 +20,20 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ---
 
 ## Claude Desktop Agent
+
 **File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.1
+**Current Version:** 1.2
 
 | Version | Date | Changes |
 |---------|------|---------|
 | v1.0 | — | Initial release. Three-mode system prompt for Claude Desktop / Claude.ai Projects. |
 | v1.1 | 2026-03-12 | Full audit pass (see `Claude-Desktop/CD-Audit.md` for details). Key changes: replaced keyword-based mode detection with intent classification; added Mode 2 INDEX VERIFICATION block; added multi-intent request handler; added folio index protocol to Mode 3; added persona tone directives per mode; added version header; fixed line-count discrepancy in COPY_PASTE_TEMPLATE.md. |
+| v1.2 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to header. Added Mode 2 step 8: CLAUDE CODE HANDOFF block (`/register-recipe [XX-YY]`) output after user confirms recipe is written to The Manual. Added update reminder note to header. |
 
 ---
 
 ## Claude Code Sub-Agent — Café Athena Chef
+
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
 **Current Version:** 1.1  
 **Status:** Canonical master — update this first.
@@ -42,6 +46,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ---
 
 ## Gemini Gem 2 — The Visual Director
+
 **File:** `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`  
 **Current Version:** 1.0
 

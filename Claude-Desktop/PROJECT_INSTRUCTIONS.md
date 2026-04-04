@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.1 (2026-03-13)
+# Version: 1.2 (2026-04-04)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 >
