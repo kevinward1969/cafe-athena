@@ -38,7 +38,7 @@ Images follow a two-type system. Both types source from chapter folders in `The 
 * **HERO IMAGES (one per recipe):**
 
   1. Run `/recipe-hero-image [index]` — the AI reads the recipe frontmatter and headnote, builds a detailed Gemini image prompt, and presents it for approval.
-  2. Take the prompt to Gemini (Nano Banana), generate the image, and save as `{index}.png` into the chapter folder.
+  2. Take the prompt to Gemini (image generation), generate the image, and save as `{index}.png` into the chapter folder.
   3. Run `/recipe-hero-image optimize [index]` — converts the PNG to WebP (quality 85, max 1920×1080) and deletes the original.
 
 * **REFERENCE IMAGES (inline figures within the recipe body):**

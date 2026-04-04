@@ -12,9 +12,9 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 
 ## Phase 1 — Locate the Recipe
 
-1. Search the `/Users/kevinward/Projects/Cafe Athena/The Manual/` directory for a file matching the identifier (e.g., `*04-18*`).
+1. Search the `The Manual/` directory using the Glob tool with a wildcard pattern matching the identifier (e.g., `The Manual/**/*04-18*`).
 2. Confirm the file path and display the recipe title to the user before proceeding.
-3. Read the full recipe file.
+3. Read the full recipe file using the Read tool.
 
 ---
 
@@ -66,7 +66,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 ## Phase 4 — Glossary Pull
 
 1. Read the recipe's `### Glossary` section and extract all terms.
-2. Read the main glossary at `/Users/kevinward/Projects/Cafe Athena/The Manual/Café Athena  - Glossary.md`.
+2. Read the main glossary at `The Manual/Café Athena  - Glossary.md` using the Read tool.
 3. For each extracted term, check for duplicates (exact term name match = skip).
 4. Format new terms as `- Term: Definition` (no bold asterisks).
 5. Insert new terms under the correct alphabetical `## [Letter]` heading in alphabetical order within that section.

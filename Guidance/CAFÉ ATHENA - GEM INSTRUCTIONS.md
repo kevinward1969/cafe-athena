@@ -236,7 +236,7 @@ If the AI cannot perform a clean filesystem scan of the target directory, it is 
 
 ## **CLAUDE CODE WORKFLOWS (SLASH COMMANDS)**
 
-These commands run in the Claude Code CLI (Antigravity). Workflow definitions live in `Guidance/workflows/`.
+These commands run in the Claude Code CLI (Antigravity). Workflow definitions live in `.agents/workflows/`.
 
 | Command | Usage | Description |
 | --- | --- | --- |
@@ -246,6 +246,7 @@ These commands run in the Claude Code CLI (Antigravity). Workflow definitions li
 | `/keyword-pull` | `/keyword-pull 04-15` | Generate and append `## Keywords` and `## Category` sections to any recipe missing them |
 | `/audit-glossary` | `/audit-glossary` | Enforce strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication across the main glossary |
 | `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build a Gemini image prompt from recipe frontmatter + headnote (Create mode); also supports `optimize` and `insert` sub-modes |
+| `/session-handoff` | `/session-handoff` | Update `PROJECT_STATUS.md`, commit all session changes, and output a 3-bullet handoff summary |
 
 **`/recipe-hero-image` sub-modes:**
 

@@ -79,7 +79,7 @@ If user describes development AND formatting in one message:
 → Never skip to Mode 2 without explicit user confirmation
 ```
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
@@ -99,7 +99,7 @@ the Manual file may be too large for reliable retrieval.
 Split into per-chapter files once the cookbook exceeds ~200 entries.
 ```
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
@@ -113,7 +113,7 @@ No way to identify which version of the system prompt is active. Add a version l
 
 **Change:** Add `Version: 1.x` to `PROJECT_INSTRUCTIONS.md` header. Update when instructions change.
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
@@ -133,7 +133,7 @@ FOLIO INDEX PROTOCOL (when converting to Folio for Manual entry):
 → Append INDEX DATA block (same format as Mode 2 recipes)
 ```
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
@@ -149,7 +149,7 @@ The Chef persona is defined once at the top but not reinforced per-mode. Long it
 [Tone: professional, authoritative, technically precise — Michelin-star Chef perspective]
 ```
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
@@ -171,7 +171,7 @@ Mode 2: Precise — follow format standard exactly, no improvisation
 Mode 3: Pedagogical — layer concepts from simple to complex
 ```
 
-**Status:** [ ] To Do
+**Status:** [x] Complete — 2026-03-12
 
 ---
 
