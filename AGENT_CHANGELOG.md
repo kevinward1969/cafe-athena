@@ -6,7 +6,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 ## Gemini Gem 1 — The Chef
 **File:** `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
-**Current Version:** 3.3
+**Current Version:** 3.4
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -14,6 +14,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v3.1 | — | Added Stop Point Protocol, Troubleshooting Guide, Bad Output Examples, Decision Protocol, mode-specific completion criteria. |
 | v3.2 | — | Updated SYSTEM ASSETS (removed 00-01 structure file). Added INDEX UPDATE PROTOCOL with mandatory INDEX DATA block format. Added chapter prefix validation to Stop Points. |
 | v3.3 | — | Added Table of Contents, standardized STOP language, streamlined INDEX UPDATE PROTOCOL, clarified Mode 1 completion checklist, consolidated quality guidance, tightened cross-references. |
+| v3.4 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to file header. |
 
 ---
 

@@ -1,6 +1,6 @@
 # **CAFÉ ATHENA \- GEM INSTRUCTIONS**
 
-Version 3.3
+Version 3.4
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 
@@ -15,6 +15,8 @@ Version 3.3
 * v3.2: Updated SYSTEM ASSETS (removed 00-01 structure file), added INDEX UPDATE PROTOCOL with mandatory INDEX DATA block format, added chapter prefix validation to Stop Points
 
 * v3.3: Added Table of Contents, standardized STOP language, streamlined INDEX UPDATE PROTOCOL, clarified Mode 1 completion checklist, consolidated quality guidance, and tightened cross-references
+
+* v3.4: Added secondary surface notice and canonical master reference to file header.
 
 ---
 
