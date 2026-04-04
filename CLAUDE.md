@@ -22,6 +22,7 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 | File | Role |
 |------|------|
 | `PROJECT_STATUS.md` | Session state — active recipes, pending tasks. Check this at the start of each session. |
+| `recipes.json` | Pipeline registry — tracks stage completion (glossary, hero image, format audit, etc.) for every entry. Updated via `/register-recipe` and `/sync-registry`. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
 | `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
@@ -62,6 +63,8 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 | `/recipe-hero-image optimize [id\|chapter-N\|all]` | Convert PNG hero images to WebP |
 | `/recipe-hero-image insert [id] "[position]" "[caption]"` | Insert image shortcode into a folio |
 | `/new-recipe` | Scaffold a new recipe through the full pipeline |
+| `/register-recipe [id]` | Register a new entry in `recipes.json` after Claude Desktop Mode 2 |
+| `/sync-registry` | Sync `recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |
 
 ---

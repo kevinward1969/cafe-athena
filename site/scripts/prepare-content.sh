@@ -68,9 +68,9 @@ for chapter_dir in "$MANUAL_DIR"/Chapter*/; do
 
     filename=$(basename "$md_file")
 
-    # Extract the index (XX-YY) from the filename
-    # Handles: "03-01 Café Athena - ..." and "[03-13] Café Athena - ..."
-    index=$(echo "$filename" | grep -oE '^[\[]*[0-9]{2}-[0-9]{2}[a-z]*[\]]*' | tr -d '[]')
+    # Extract the index from the filename.
+    # Handles: "03-01 Café Athena - ...", "[03-13] Café Athena - ...", "07-10.2 Café Athena - ..."
+    index=$(echo "$filename" | grep -oE '^[\[]*[0-9]{2}-[0-9]{2}(\.[0-9]+)?[a-z]*[\]]*' | tr -d '[]')
 
     if [ -z "$index" ]; then
       echo "   ⚠️  Skipping (no index): $filename"
@@ -79,7 +79,7 @@ for chapter_dir in "$MANUAL_DIR"/Chapter*/; do
 
     # Extract title from filename
     # Remove index prefix, "Café Athena - " prefix, and .md extension
-    title=$(echo "$filename" | sed -E 's/^[\[]*[0-9]{2}-[0-9]{2}[a-z]*[\]]* //' | sed 's/\.md$//')
+    title=$(echo "$filename" | sed -E 's/^[\[]*[0-9]{2}-[0-9]{2}(\.[0-9]+)?[a-z]*[\]]* //' | sed 's/\.md$//')
     # Remove "Café Athena - " or "Technique Folio - " prefix for display
     display_title=$(echo "$title" | sed -E 's/^(Café Athena - |Technique Folio - )//')
 
@@ -144,8 +144,8 @@ FRONTMATTER
   for img_file in "$chapter_dir"*.png "$chapter_dir"*.webp; do
     [ -f "$img_file" ] || continue
     img_name=$(basename "$img_file")
-    # Skip hero images already copied above (XX-YY.png or XX-YY.webp — no letter suffix)
-    if echo "$img_name" | grep -qE '^[0-9]{2}-[0-9]{2}\.(png|webp)$'; then
+    # Skip hero images already copied above (XX-YY or XX-YY.N — no letter suffix)
+    if echo "$img_name" | grep -qE '^[0-9]{2}-[0-9]{2}(\.[0-9]+)?\.(png|webp)$'; then
       continue
     fi
     cp "$img_file" "$IMAGES_DIR/$img_name"

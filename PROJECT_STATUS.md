@@ -144,6 +144,7 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 | 06-05 | Louisiana Blackened Chicken Pasta | Ch. 6 | Pending |
 | 06-06 | Modern Chicken Pot Pie (Velouté Method) | Ch. 6 | Pending |
 | 07-10 | The Competition Red Texas-Style Chili | Ch. 7 | Pending |
+| 07-10.2 | The Competition Red Texas-Style Chili (v2) | Ch. 7 | Pending |
 | 07-11 | Pressure-Braised Chuck Roast | Ch. 7 | Pending |
 | 07-12 | Dehydrator Bacon (Four Ways) | Ch. 7 | Pending |
 | 08-01 | King Trumpet Scallops & Celeriac Mousseline | Ch. 8 | Pending |

@@ -54,24 +54,23 @@ WHY: Intent-first classification is more reliable than keyword scanning. Users r
 
 OUTPUT PROTOCOL (follow in order):
 
-  1. Generate the complete formatted recipe
-  2. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
-  3. Append the INDEX VERIFICATION block below the recipe (mandatory, every time):
+1. Generate the complete formatted recipe.
+2. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
+3. Append the INDEX VERIFICATION block below the recipe (mandatory, every time) — format: `Chapter scanned / Last 3 entries found / Assigned number / Confirm this is correct before adding to the Manual.`
+4. Generate the `## Keywords` section (10–15 comma-separated terms covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 8 for the full category list.
+5. Generate the `## Category` section using the controlled vocabulary from `Guidance/Recipe-Format-Standard.md` Section 9. Format: `cuisine: [value] | style: [value]` with optional `| dietary: [value]`. **Stop Point:** If cuisine or style is genuinely ambiguous, ask the user before assigning.
+6. Do not assign an XX-YY number until the scan is complete.
+7. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
+8. After the user confirms the recipe is written to The Manual, output this handoff block exactly — it is the trigger for Claude Code to register the entry in `recipes.json`:
 
 ```
 ---
-INDEX VERIFICATION
-Chapter scanned: [Chapter Name]
-Last 3 entries found: [XX-01] · [XX-02] · [XX-03]
-Assigned number: [XX-04]
-Confirm this is correct before adding to the Manual.
+CLAUDE CODE HANDOFF
+/register-recipe [XX-YY]
 ---
 ```
 
-  1. Generate the `## Keywords` section (10–15 comma-separated terms covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 8 for the full category list.
-  2. Generate the `## Category` section using the controlled vocabulary from `Guidance/Recipe-Format-Standard.md` Section 9. Format: `cuisine: [value] | style: [value]` with optional `| dietary: [value]`. **Stop Point:** If cuisine or style is genuinely ambiguous, ask the user before assigning.
-  3. Do not assign an XX-YY number until the scan is complete.
-  4. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
+Replace `[XX-YY]` with the assigned index number. Remind the user: *"Paste this into Claude Code to register the recipe in the pipeline tracker."*
 
 **MODE 3: THE MASTERCLASS (Technique Education)**
 
@@ -203,7 +202,7 @@ Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. T
 
 ## ⚡ CLAUDE CODE WORKFLOWS
 
-_These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `.agents/workflows/`._
+*These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `.agents/workflows/`.*
 
 **AVAILABLE SLASH COMMANDS:**
 

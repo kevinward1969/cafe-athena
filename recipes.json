@@ -1,0 +1,2232 @@
+{
+  "_meta": {
+    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "generatedOn": "2026-04-04",
+    "stages": {
+      "formatAudit": "Format audit run via /format-audit",
+      "keywordPull": "Keywords + Category sections added via /keyword-pull",
+      "glossaryPull": "Glossary terms extracted via /glossary-pull",
+      "heroImage": "Hero image exists in chapter folder (PNG or WebP)",
+      "heroImageOptimized": "Hero image converted to WebP via /recipe-hero-image optimize",
+      "referenceImages": "Inline reference images exist (XX-YYa convention)",
+      "referenceImagesProcessed": "Reference images converted to WebP (null = n/a)",
+      "deployed": "Included in last site deploy"
+    }
+  },
+  "recipes": [
+    {
+      "id": "01-01",
+      "title": "Thermodynamics & Heat Control",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-02",
+      "title": "Salinity & Equilibrium",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-03",
+      "title": "Baker's Percentages & Hydration (The Ratio)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-04",
+      "title": "Emulsions & Hydrocolloids (The Bond)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-05",
+      "title": "The Science of Mantecatura (Emulsification)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-06",
+      "title": "Sodium Citrate (The Melting Salt)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-07",
+      "title": "Spherification (Ionic Gelation)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-08",
+      "title": "Starch Dextrinization (The Risotto Method)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-09",
+      "title": "Sugar Dissolution & The Papery Crust (The Modern Brownie)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-10",
+      "title": "The Architecture of Bread",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-11",
+      "title": "Vacuum Compression & Cellular Integrity",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-12",
+      "title": "Fluid Gels",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-13",
+      "title": "Thermal Gradient Control (The Reverse Sear)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-14",
+      "title": "Collagen Hydrolysis & Extraction",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-15",
+      "title": "Microbial Fermentation (Kefir)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-16",
+      "title": "Microbial Substrate Adaptation (Dormant Cultures Sourdough)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-17",
+      "title": "Spontaneous Fermentation (Wild Capture Sourdough Starter)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-18",
+      "title": "Sourdough Stewardship (The Levain vs. The Mother)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "01-19",
+      "title": "Global Sourdough Taxonomies",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-01",
+      "title": "The Kitchen Cockpit (Station Management)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-02",
+      "title": "The Kit (Analog Tools)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-03",
+      "title": "The Machine Shop (Electrics)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-04",
+      "title": "Knife Mechanics (The Geometry of the Cut)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": true,
+        "referenceImagesProcessed": true,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-05",
+      "title": "The Larder (Inventory & Storage)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-06",
+      "title": "The Steward (Care & Maintenance)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "02-07",
+      "title": "Sanitation & HACCP (The Defense)",
+      "chapter": 2,
+      "chapterName": "The Foundation",
+      "type": "technique",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-01",
+      "title": "Caprese \"Ravioli\" (Liquid Mozzarella Spheres)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-02",
+      "title": "Mini Boursin & Bacon Meatballs",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-03",
+      "title": "Modern Caprese",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-04",
+      "title": "Smoked Salmon & Compressed Cucumber on Potato Fondant",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-05",
+      "title": "Spicy Sesame & Yuzu Tuna Tartare",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-06",
+      "title": "Vacuum-Infused Market Pickles (Giardiniera)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-07",
+      "title": "Silky Chicken Liver Mousse (Stovetop Method)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-08",
+      "title": "Sous Vide Chicken Liver Mousse",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-09",
+      "title": "Winter Citrus & Shaved Fennel Salad",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-10",
+      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-11",
+      "title": "Double Deviled Eggs (Le Jambon)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-12",
+      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "03-13",
+      "title": "Calf Liver & Duck Fat Mousse",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-01",
+      "title": "80:20 Poolish-Sourdough Baguettes",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-02",
+      "title": "Risotto alla Milanese (The MPW Method)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-03",
+      "title": "Risotto of White Mushrooms",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-04",
+      "title": "Stabilized Cacio e Pepe",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-05",
+      "title": "The Rich Yolk Pasta Dough (Laminated)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-06",
+      "title": "High-Hydration Focaccia (The 85% Method)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-07",
+      "title": "Pressure-Gelatinized Polenta",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-08",
+      "title": "Parisian Gnocchi (Pâte à Choux)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-09",
+      "title": "Calabrian Chili & Red Pepper Cavatappi",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-10",
+      "title": "Pressure-Gelatinized Polenta (The BBQ Pitmaster)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-11",
+      "title": "Gnocchi 201 (The Master Doughs)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": true,
+        "referenceImagesProcessed": true,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-12",
+      "title": "Pasta e Patate (Napoli Style)",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-13",
+      "title": "Same-Day Sourdough Discard Focaccia",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-14",
+      "title": "The Companion Louisiana-Style Black Beans & Rice",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-15",
+      "title": "Prosciutto Balanzoni",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-16",
+      "title": "The Definitive Guide to Egg Pasta",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-17",
+      "title": "The Quintessential Spinach Pasta",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "04-18",
+      "title": "Sourdough Hybrid Spoon Buns",
+      "chapter": 4,
+      "chapterName": "The Mill",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "05-01",
+      "title": "Pan-Seared Scallops with Pea Fluid Gel",
+      "chapter": 5,
+      "chapterName": "The Fishmonger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "05-02",
+      "title": "Miso-Cured Black Cod (Saikyo Yaki)",
+      "chapter": 5,
+      "chapterName": "The Fishmonger",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-01",
+      "title": "Italian Wedding Soup (Pollo Rustica)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-02",
+      "title": "Wafu Wedding Soup (Kyoto Spice)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-03",
+      "title": "Traditional Duck Confit",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-04",
+      "title": "Nashville Hot Chicken (The Weissman Method)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-05",
+      "title": "Louisiana Blackened Chicken Pasta",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "06-06",
+      "title": "Modern Chicken Pot Pie (Velouté Method)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-01",
+      "title": "Ribeye with Bone Marrow & Herb Baste",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-02",
+      "title": "Braised Boursin & Bacon Meatball Subs",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-03",
+      "title": "K.W. Signature Smoked Pork Steaks",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-04",
+      "title": "Beef Bourguignon (The Elevated Short Rib Braise)",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-05",
+      "title": "Oxtail Bourguignon",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-06",
+      "title": "Steak au Poivre (Bistro Style)",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-07",
+      "title": "Skirt Steak Bordelaise",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-08",
+      "title": "Braised Beef Stroganoff",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-09",
+      "title": "MasterClass Beef Bourguignon",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-10",
+      "title": "The Competition Red Texas-Style Chili",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-10.2",
+      "title": "The Competition Red Texas-Style Chili",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-11",
+      "title": "Pressure-Braised Chuck Roast (The Competition Pot Roast)",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "07-12",
+      "title": "Dehydrator Bacon (Four Ways)",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-01",
+      "title": "King Trumpet \"Scallops\" & Celeriac Mousseline",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-02",
+      "title": "Roasted Spaghetti Squash \"Pomodoro Rustico\"",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-03",
+      "title": "Velvet Root Vegetable Mash",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-04",
+      "title": "St. Louis Style Kisir (Red Hot Bulgur)",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-05",
+      "title": "Modern Tabbouleh (The Acid Cutter)",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "08-06",
+      "title": "Onion Potato Crisps",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-01",
+      "title": "Brown Butter & Miso-Caramel Truffle Brownies",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-02",
+      "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-03",
+      "title": "Sesame Tuile Cylinders (Noir & Orange)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-04",
+      "title": "Pâte à Choux (The Steam Dough)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-05",
+      "title": "Pâte Feuilletée (Classic Puff Pastry)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-06",
+      "title": "Pâte Brisée (Classic Shortcrust)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-07",
+      "title": "Pâte Sucrée (Sweet Tart Dough)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-08",
+      "title": "Rough Puff Pastry (Demi-Feuilletée)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-09",
+      "title": "Pâte Sablée (Rich Shortbread Crust)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-10",
+      "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "09-11",
+      "title": "Brandy-Infused Canelés de Bordeaux",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-01",
+      "title": "High-Pressure White Chicken Stock (Fond Blanc)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-02",
+      "title": "Vibrant Basil Pesto (Genovese)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-03",
+      "title": "Sauce Béchamel (Mother Sauce No. 1)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-04",
+      "title": "Sauce Mornay (Enriched Cheese Sauce)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-05",
+      "title": "Classic Beurre Rouge",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-06",
+      "title": "Classic Beurre Blanc",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-07",
+      "title": "Master Compound Butter (Beurre Composé)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-08",
+      "title": "Sauce Hollandaise (Mother Sauce No. 5)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-09",
+      "title": "Master Mayonnaise (The Cold Mother)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-10",
+      "title": "Classic Remoulade (Sauce Dérivée)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-11",
+      "title": "Classic Tartar Sauce (Sauce Dérivée)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-12",
+      "title": "Cultured Crème Fraîche",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-13",
+      "title": "Classic Ragù alla Bolognese",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-14",
+      "title": "Capuliato Siciliano (Sun-Dried Tomato Pesto)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-15",
+      "title": "Sauce Tomate (Mother Sauce No. 4)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-16",
+      "title": "Sauce Velouté (Mother Sauce No. 2)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-17",
+      "title": "Pressure-Roasted Brown Stock (Fond Brun)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-18",
+      "title": "Sauce Espagnole (Mother Sauce No. 3)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-19",
+      "title": "Classic Demi-Glace",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-20",
+      "title": "Ligurian Salsa di Noci (Toasted Walnut Pesto)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-21",
+      "title": "Lemon Cream & Parmigiano Sauce",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-22",
+      "title": "Beurre Noisette (The Toasted Butter)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "10-23",
+      "title": "The Asian Dipping Sauce Collection",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "11-01",
+      "title": "Vibrant Green Herb Oil",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "11-02",
+      "title": "Quick-Process Smoked Salt (Liquid Integration)",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "11-03",
+      "title": "Sodium Acetate (Salt & Vinegar Crystals)",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "11-04",
+      "title": "Burnt Allium Ash Salt",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    },
+    {
+      "id": "11-05",
+      "title": "Nashville Fire Paste (Lipophilic Heat)",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      }
+    }
+  ]
+}
