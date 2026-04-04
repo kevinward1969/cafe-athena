@@ -90,9 +90,13 @@ for chapter_dir in "$MANUAL_DIR"/Chapter*/; do
       content_type="recipe"
     fi
 
-    # Check for hero image (XX-YY.png convention)
+    # Check for hero image — prefer .webp, fall back to .png
     hero_image=""
-    if [ -f "$chapter_dir${index}.png" ]; then
+    if [ -f "$chapter_dir${index}.webp" ]; then
+      hero_image="${index}.webp"
+      cp "$chapter_dir${index}.webp" "$IMAGES_DIR/${index}.webp"
+      IMAGE_COUNT=$((IMAGE_COUNT + 1))
+    elif [ -f "$chapter_dir${index}.png" ]; then
       hero_image="${index}.png"
       cp "$chapter_dir${index}.png" "$IMAGES_DIR/${index}.png"
       IMAGE_COUNT=$((IMAGE_COUNT + 1))
@@ -136,17 +140,16 @@ FRONTMATTER
 
   done
 
-  # Also copy any remaining .png images not yet matched (technique diagrams, etc.)
-  for img_file in "$chapter_dir"*.png; do
+  # Also copy any remaining images not yet matched (reference images, technique diagrams, etc.)
+  for img_file in "$chapter_dir"*.png "$chapter_dir"*.webp; do
     [ -f "$img_file" ] || continue
     img_name=$(basename "$img_file")
-    # Skip if already copied (matches XX-YY.png pattern)
-    if echo "$img_name" | grep -qE '^[0-9]{2}-[0-9]{2}[a-z]*\.png$'; then
+    # Skip hero images already copied above (XX-YY.png or XX-YY.webp — no letter suffix)
+    if echo "$img_name" | grep -qE '^[0-9]{2}-[0-9]{2}\.(png|webp)$'; then
       continue
     fi
-    # Copy as-is for technique diagrams
     cp "$img_file" "$IMAGES_DIR/$img_name"
-    echo "   🎨 Copied diagram: $img_name"
+    echo "   🎨 Copied image: $img_name"
   done
 done
 
