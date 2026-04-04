@@ -38,11 +38,25 @@ CHAPTER_NAMES = {
 
 
 def clean_dirs():
-    """Remove and recreate output directories."""
-    for d in [CONTENT_DIR, IMAGES_DIR]:
-        if os.path.exists(d):
-            shutil.rmtree(d)
-        os.makedirs(d, exist_ok=True)
+    """Remove and recreate output directories.
+
+    IMAGES_DIR is cleaned selectively — files matching section-*.webp
+    are preserved so homepage section images survive pipeline rebuilds.
+    """
+    # Content dir: full wipe and recreate
+    if os.path.exists(CONTENT_DIR):
+        shutil.rmtree(CONTENT_DIR)
+    os.makedirs(CONTENT_DIR, exist_ok=True)
+
+    # Images dir: remove recipe images only, keep section-*.webp
+    if os.path.exists(IMAGES_DIR):
+        for fname in os.listdir(IMAGES_DIR):
+            if not fname.startswith('section-'):
+                fpath = os.path.join(IMAGES_DIR, fname)
+                if os.path.isfile(fpath):
+                    os.remove(fpath)
+    else:
+        os.makedirs(IMAGES_DIR, exist_ok=True)
 
 
 def extract_metadata(body):

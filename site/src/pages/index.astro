@@ -11,7 +11,9 @@ const sections = [
     title: 'The Academy',
     subtitle: 'Technique & Theory',
     desc: 'The science and fundamental logic of the kitchen.',
-    href: '/academy'
+    href: '/academy',
+    image: '/images/section-academy.webp',
+    imageAlt: "Chef's hands working over a copper pan"
   },
   {
     id: 'brigade',
@@ -19,7 +21,9 @@ const sections = [
     title: 'The Brigade',
     subtitle: 'The Recipe Collection',
     desc: 'The core repertoire, organized by traditional station.',
-    href: '/brigade'
+    href: '/brigade',
+    image: '/images/section-brigade.webp',
+    imageAlt: 'Plated beef served on slate'
   },
   {
     id: 'larder',
@@ -27,7 +31,9 @@ const sections = [
     title: 'The Larder',
     subtitle: 'Building Blocks',
     desc: 'Stocks, sauces, and foundational flavor compounds.',
-    href: '/larder'
+    href: '/larder',
+    image: '/images/section-larder.webp',
+    imageAlt: 'Mirepoix vegetables on a slate board'
   },
   {
     id: 'glossary',
@@ -35,14 +41,16 @@ const sections = [
     title: 'The Glossary',
     subtitle: 'Lexicon',
     desc: 'The unified dictionary of culinary terminology.',
-    href: '/glossary'
+    href: '/glossary',
+    image: '/images/section-glossary.webp',
+    imageAlt: 'Annotated vintage cookbook open on a table'
   }
 ];
 ---
 
 <BaseLayout title="Welcome" currentPage="home">
   <div class="max-w-7xl mx-auto px-6 py-20 lg:py-32 flex flex-col items-center">
-    
+
     <!-- Ultra Hero -->
     <section class="text-center w-full max-w-4xl mx-auto mb-24 landing-hero opacity-0 translate-y-8">
       <div class="inline-block border border-[#c9a96e] px-4 py-1 rounded-full text-xs font-semibold tracking-widest uppercase text-[#c9a96e] mb-8">
@@ -61,31 +69,61 @@ const sections = [
       </div>
     </section>
 
-    <!-- Navigation Cards -->
-    <div class="w-full grid grid-cols-1 md:grid-cols-2 gap-8 perspective-container text-left">
+    <!-- Editorial Cards -->
+    <div class="w-full flex flex-col gap-6">
       {sections.map(section => (
-        <a 
+        <a
           href={section.href}
-          class="landing-card block group focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#c9a96e] rounded-2xl"
+          class="landing-card group block relative rounded-2xl overflow-hidden focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#c9a96e]"
+          style="height: clamp(260px, 30vw, 420px);"
         >
-          <div class="glass-panel h-full p-10 lg:p-12 rounded-2xl relative overflow-hidden transition-all duration-700 ease-out hover:-translate-y-2 hover:shadow-[0_40px_80px_rgba(26,26,46,0.1)] isometric-card border-t-4 border-t-transparent hover:border-t-[#c9a96e]">
+          <!-- Background photo -->
+          <img
+            src={section.image}
+            alt={section.imageAlt}
+            class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+            loading="lazy"
+            decoding="async"
+          />
 
-            <!-- Part watermark -->
-            <div class="absolute top-6 right-8 font-heading text-8xl font-bold text-[#1a1a2e]/[0.04] leading-none select-none pointer-events-none" aria-hidden="true">
-              {section.part}
-            </div>
+          <!-- Dark overlay: stronger at left where text lives -->
+          <div class="absolute inset-0 bg-gradient-to-r from-[#1a1a2e]/85 via-[#1a1a2e]/50 to-[#1a1a2e]/20 transition-opacity duration-500 group-hover:from-[#1a1a2e]/90"></div>
 
-            <div class="absolute inset-0 bg-gradient-to-br from-white/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none"></div>
+          <!-- Gold top-border reveal on hover -->
+          <div class="absolute top-0 left-0 right-0 h-[3px] bg-[#c9a96e] scale-x-0 origin-left transition-transform duration-500 group-hover:scale-x-100"></div>
 
-            <div class="relative z-10">
-              <h2 class="font-heading text-4xl lg:text-5xl font-bold text-[#1a1a2e] mb-2">{section.title}</h2>
-              <p class="font-bold text-xs tracking-widest uppercase text-[#c9a96e] mb-6">{section.subtitle}</p>
-              <p class="text-[#6b6b7b] text-lg max-w-sm mb-12">{section.desc}</p>
+          <!-- Content -->
+          <div class="relative z-10 h-full flex flex-col justify-center px-10 lg:px-16 max-w-2xl">
+            <p class="font-mono text-xs font-semibold tracking-[0.25em] uppercase text-[#c9a96e] mb-3">
+              Part {section.part}
+            </p>
+            <h2 class="font-heading text-5xl lg:text-6xl font-bold text-white leading-tight mb-2">
+              {section.title}
+            </h2>
+            <p class="font-bold text-xs tracking-widest uppercase text-[#c9a96e]/80 mb-4">
+              {section.subtitle}
+            </p>
+            <p class="text-white/70 text-base lg:text-lg mb-8 max-w-sm">
+              {section.desc}
+            </p>
 
-              <div class="w-12 h-12 rounded-full bg-[#1a1a2e] flex items-center justify-center text-white transform transition-transform duration-500 group-hover:scale-110 group-hover:bg-[#c9a96e]">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            <!-- Arrow CTA -->
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-full border border-white/30 flex items-center justify-center text-white transition-all duration-500 group-hover:bg-[#c9a96e] group-hover:border-[#c9a96e]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
               </div>
+              <span class="text-sm font-semibold tracking-wider uppercase text-white/60 group-hover:text-white transition-colors duration-300">
+                Explore
+              </span>
             </div>
+          </div>
+
+          <!-- Part watermark (right side) -->
+          <div
+            class="absolute right-10 top-1/2 -translate-y-1/2 font-heading text-[10rem] font-bold text-white/[0.04] leading-none select-none pointer-events-none"
+            aria-hidden="true"
+          >
+            {section.part}
           </div>
         </a>
       ))}
@@ -101,7 +139,7 @@ const sections = [
 
       if (!prefersReducedMotion) {
         const tl = gsap.timeline();
-        
+
         tl.to('.landing-hero', {
           y: 0,
           opacity: 1,
@@ -111,9 +149,8 @@ const sections = [
         .from('.landing-card', {
           y: 60,
           opacity: 0,
-          rotationX: 15,
-          duration: 1,
-          stagger: 0.15,
+          duration: 0.9,
+          stagger: 0.12,
           ease: 'power3.out'
         }, "-=0.6");
       } else {
