@@ -5,8 +5,8 @@ description: Generates and appends ## Keywords and ## Category sections to a rec
 # Keyword Pull Workflow
 
 1. The user will provide a command like `/keyword-pull [file identifier]`, for example `/keyword-pull 10-23`.
-2. Find the correct recipe document. Search the project directory (`/Users/kevinward/Projects/Cafe Athena/`) with a pattern matching the file identifier (e.g., `*[file identifier]*`).
-3. Read the recipe document.
+2. Find the correct recipe document. Use the Glob tool with a pattern matching the file identifier (e.g., `The Manual/**/*[file identifier]*`).
+3. Read the recipe document using the Read tool.
 4. Check if `## Keywords` AND `## Category` sections already exist at the bottom of the file.
    - If BOTH sections exist: report "Keywords and Category already present — no changes made." and stop.
    - If either is missing: proceed to generate the missing section(s).
@@ -34,5 +34,5 @@ description: Generates and appends ## Keywords and ## Category sections to a rec
    ```
 
    (Include `| dietary: Vegetarian` only if applicable.)
-9. Append the new sections to the end of the source recipe file, after the Glossary section.
+9. Append the new sections to the end of the source recipe file, after the Glossary section, using the Edit tool.
 10. Inform the user which sections were added and confirm the category assignment.

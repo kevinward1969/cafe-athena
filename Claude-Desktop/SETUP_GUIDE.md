@@ -51,7 +51,7 @@ There are two primary ways to give the AI access to your repo. **Option A is rec
 
 *Required if you want the AI to **write** recipes directly to your local folders and update indexes.*
 
-1. Ensure **Claude Desktop** is configured with a Filesystem MCP server pointing to `/Users/kevinward/Projects/Cafe Athena`.
+1. Ensure **Claude Desktop** is configured with a Filesystem MCP server pointing to your local project root (e.g., `/path/to/cafe-athena`).
 2. The AI can now **read and write** directly across the entire repo.
 
 | Key Reference Paths | Purpose |

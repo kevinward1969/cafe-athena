@@ -57,13 +57,24 @@ cafe-athena/
 │   ├── Technique-Folio-Example.md
 │   ├── Technique_Folio_Template_v1.md
 │   ├── Cafe-Athena-Workflow-Guide.md
-│   └── workflows/                  # Claude Code slash command definitions
-│       ├── audit-glossary.md
+│   ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md       # Gemini Gem 1 (culinary AI)
+│   ├── CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md  # Gemini Gem 2 (image AI)
+│   └── archived/
+│
+├── .claude/                        # Claude Code (Antigravity) configuration
+│   ├── agents/
+│   │   └── Cafe Athena Chef.agent.md  # Sub-agent definition
+│   └── settings.local.json
+│
+├── .agents/                        # Claude Code slash-command workflow files
+│   └── workflows/
+│       ├── new-recipe.md
 │       ├── format-audit.md
 │       ├── glossary-pull.md
 │       ├── keyword-pull.md
-│       ├── new-recipe.md
-│       └── recipe-hero-image.md
+│       ├── audit-glossary.md
+│       ├── recipe-hero-image.md
+│       └── session-handoff.md
 │
 ├── scripts/                        # Utility scripts
 │   └── extract-keywords.py
@@ -204,8 +215,9 @@ Slash commands for common tasks — type directly in the Antigravity chat (Claud
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in the main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Extract keywords for site metadata |
 | `/recipe-hero-image` | `/recipe-hero-image 04-15` | Generate a hero image brief for a recipe |
+| `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md and commit all session changes |
 
-Workflow definitions live in `Guidance/workflows/`.
+Workflow definitions live in `.agents/workflows/`.
 
 ---
 
@@ -284,6 +296,7 @@ python scripts/prepare-content.py
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | Master index of all content |
 | `The Manual/Café Athena - Glossary.md` | Consolidated culinary glossary |
 | `PROJECT_STATUS.md` | Active work, pending items, strategic context |
+| `MULTI_AGENT_ARCHITECTURE.md` | Full multi-agent system map, evaluation, and improvement roadmap |
 
 ---
 

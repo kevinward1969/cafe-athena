@@ -286,7 +286,7 @@ Claude scans this to find the last entry and assign 09-04 to the next recipe.
 
 ## CLAUDE CODE SLASH COMMANDS
 
-Run in the Claude Code CLI (Antigravity). Full definitions in `Guidance/workflows/`.
+Run in the Claude Code CLI (Antigravity). Full definitions in `.agents/workflows/`.
 
 | Command | Example | Purpose |
 |---------|---------|---------|
@@ -298,6 +298,7 @@ Run in the Claude Code CLI (Antigravity). Full definitions in `Guidance/workflow
 | `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build Gemini image prompt (Create mode) |
 | `/recipe-hero-image optimize` | `/recipe-hero-image optimize all` | Convert PNG → WebP, delete originals |
 | `/recipe-hero-image insert` | `/recipe-hero-image insert 04-11 "after shapes list" "Caption"` | Insert `[ref:]` shortcode at position |
+| `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output handoff summary |
 
 ---
 

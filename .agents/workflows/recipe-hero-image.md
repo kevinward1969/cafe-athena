@@ -58,7 +58,7 @@ Present the full prompt to the user formatted as a blockquote. Ask:
 
 Present the following instructions to the user:
 
-1. Open Gemini (Nano Banana)
+1. Open Gemini (image generation)
 2. Paste the prompt and generate the image
 3. Save the output file as **`{index}.png`** into the chapter folder:
    `The Manual/Chapter {chapter} - {chapterName}/`

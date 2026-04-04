@@ -199,7 +199,7 @@ Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. T
 
 ## ⚡ CLAUDE CODE WORKFLOWS
 
-_These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `Guidance/workflows/`._
+_These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `.agents/workflows/`._
 
 **AVAILABLE SLASH COMMANDS:**
 
@@ -209,6 +209,7 @@ _These slash commands run in the Claude Code (Antigravity) CLI. Workflow definit
 - `/keyword-pull [index]`: Generates and appends `## Keywords` and `## Category` sections to any recipe missing them.
 - `/audit-glossary`: Audits the main project glossary for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
 - `/recipe-hero-image [index]`: Builds a Gemini image prompt from recipe frontmatter and headnote (Create mode). Also supports `optimize [index|chapter-N|all]` and `insert [index] "[position]" "[caption]"` sub-modes.
+- `/session-handoff`: Updates `PROJECT_STATUS.md`, commits all session changes to git, and outputs a 3-bullet handoff summary.
 
 ---
 
