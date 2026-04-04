@@ -2,6 +2,8 @@
 
 Version 1.0
 
+> **Purpose-limited surface** — This file governs image generation only (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `AGENT_CHANGELOG.md` for version history.
+
 ---
 
 ## ROLE

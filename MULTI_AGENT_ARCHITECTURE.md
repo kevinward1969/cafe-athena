@@ -8,7 +8,22 @@ This document describes the full multi-agent ecosystem for the Café Athena cook
 
 ---
 
-## 1. Agent Inventory
+## 1. How the Agents Are Actually Used
+
+Each AI surface has a distinct role in the day-to-day workflow. They are not interchangeable — each is chosen for what it does best.
+
+| Surface | Used For | Why |
+| ------- | -------- | --- |
+| **Claude Desktop** | Recipe development (Mode 1 — The Lab), recipe formatting (Mode 2 — The Manual), technique education (Mode 3 — The MasterClass) | Easier conversational interface; can write directly to the filesystem via MCP |
+| **Claude Code (sub-agent)** | Development, format audits, QA, web functions, glossary pulls, deploys | Full tool access (Read/Write/Edit/Grep/Glob/Bash); slash-command workflows; best for agentic file operations |
+| **Gemini Gem 1** | Alternative surface for recipe development when preferred | Useful for exploratory ideation; generates image briefs for Gem 2 |
+| **Gemini Gem 2** | Hero image creation for recipes and web images | Purpose-built for image generation; consumes briefs from Gem 1 or `/recipe-hero-image` |
+
+**The division is intentional.** Claude Desktop handles the creative and culinary work. Claude Code handles the technical and operational work. Gemini handles all image generation. They share the same cookbook manuscript (`The Manual/`) and format standard (`Guidance/Recipe-Format-Standard.md`) as the common source of truth.
+
+---
+
+## 2. Agent Inventory
 
 The system currently has **four distinct AI agent surfaces**, each targeting a different deployment context:
 
@@ -33,7 +48,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
 
 ---
 
-## 2. Architecture Diagram
+## 3. Architecture Diagram
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -77,7 +92,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
 
 ---
 
-## 3. Agent Relationships & Data Flow
+## 4. Agent Relationships & Data Flow
 
 ```
 Concept / Idea
@@ -108,7 +123,7 @@ Concept / Idea
 
 ---
 
-## 4. Evaluated Strengths
+## 5. Evaluated Strengths
 
 The current architecture is well-designed in several important ways:
 
@@ -121,7 +136,7 @@ The current architecture is well-designed in several important ways:
 
 ---
 
-## 5. Identified Improvement Opportunities
+## 6. Identified Improvement Opportunities
 
 ### 5.1 Agent Redundancy & Divergence Risk
 
@@ -134,7 +149,7 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 **Recommendation:** Designate `.claude/agents/Cafe Athena Chef.agent.md` as the **canonical master** (it is the most recent and most capable version). When updating the system prompt, update the master first and port changes to the other two. Note the version number in a shared changelog.
 
-**Status:** Version header (`version: "1.1"`) added to sub-agent YAML frontmatter in this update. Remaining: create `AGENT_CHANGELOG.md` and formally declare canonical master in documentation.
+**Status:** Complete — `version: "1.1"` added to sub-agent YAML frontmatter. `AGENT_CHANGELOG.md` created with retroactive entries for all four agents. Canonical master declared via cross-reference notes at the top of each agent file.
 
 ---
 
@@ -170,6 +185,8 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 **Recommendation:** Replace the "Nano Banana" reference with a generic instruction ("Open Gemini image generation"). Consider adding versioning to the Hero Image Gem instructions and linking to a reference image folder to show the agent what the established visual style looks like in practice.
 
+**Status:** Complete — `recipe-hero-image.md` Phase 3 already reads "Open Gemini (image generation)" with no platform-specific UI references. No further action needed.
+
 ---
 
 ### 5.6 No Error Recovery Playbook
@@ -196,36 +213,35 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 ---
 
-## 6. Multi-Agent Improvement Roadmap
+## 7. Multi-Agent Improvement Roadmap
 
 Listed in priority order:
 
-| Priority | Item | Effort | Impact |
-| -------- | ---- | ------ | ------ |
-| 🔴 High | Add `AGENT_CHANGELOG.md` to prevent divergence between agent versions | Low | High |
-| 🔴 High | Designate canonical master agent (sub-agent) and add version header | Low | High |
-| 🟡 Medium | Add a new `Image Scout` sub-agent or Gem to fully automate the brief→prompt→save pipeline | Medium | Medium |
-| 🟡 Medium | Enhance `/format-audit` to support batch-chapter output as a single report with one authorization stop | Medium | High |
-| 🟡 Medium | Create `TROUBLESHOOTING.md` for Claude Code error recovery | Low | Medium |
-| 🟢 Low | Retire or archive the Claude Desktop `Claude-Desktop/` folder as the sub-agent supersedes it | Low | Low |
-| 🟢 Low | Update Hero Image Gem to remove platform-specific UI references ("Nano Banana") | Low | Low |
-| 🟢 Low | Add a batch `/generate-all-briefs [chapter]` workflow for bulk image brief generation | Medium | Medium |
+| Status | Item | Notes |
+| ------ | ---- | ----- |
+| ✅ Done | Add `AGENT_CHANGELOG.md` | Created with retroactive entries for all four agents |
+| ✅ Done | Designate canonical master + add version header | Sub-agent is canonical master; cross-references added to all agent files |
+| ✅ Done | Update Hero Image Gem — remove "Nano Banana" reference | Already removed in `recipe-hero-image.md`; no further action needed |
+| ✅ Done | Fix settings portability (absolute paths) | Fixed in a prior session |
+| ✅ Done | Fix workflow tool names (Desktop Commander → Claude Code) | Fixed in a prior session |
+| ⏸ Deferred | Create `TROUBLESHOOTING.md` for Claude Code error recovery | Defer until there are recurring errors worth documenting |
+| ⏸ Skipped | Enhance `/format-audit` for single-authorization batch output | Current per-recipe authorization is intentional quality control — do not change |
+| ⏸ Skipped | Retire Claude Desktop `Claude-Desktop/` folder | Claude Desktop is still in active use for Modes 1–3; folder stays |
+| 🔲 Future | Add batch `/generate-all-briefs [chapter]` workflow | Only useful for a bulk image sprint; revisit when needed |
 
 ---
 
-## 7. Recommended Next Steps
+## 8. Recommended Next Steps
 
-1. **Create `AGENT_CHANGELOG.md`** — Start with a retroactive entry for each agent's known version history. This is low-effort and immediately improves maintainability.
+1. **Run format audit on all chapters** — Use Claude Code with `/format-audit Chapter N` starting with Chapter 1. All 11 chapters are pending. This clears formatting debt before adding new content.
 
-2. **Run format audit on all chapters** — `PROJECT_STATUS.md` shows all 11 chapters as "Pending." Use the Claude Code sub-agent with `/format-audit Chapter N` starting with Chapter 1. This clears technical debt before adding new content.
+2. **Bulk image optimization** — Run `/recipe-hero-image optimize all` to convert any remaining PNG hero images to WebP before the next deploy.
 
-3. **Bulk image optimization** — 19 hero images are PNG and need WebP conversion. Run `/recipe-hero-image optimize all` once before the next deploy.
-
-4. **Unified version tracking** — Add `version:` to the `.claude/agents/Cafe Athena Chef.agent.md` YAML frontmatter and bump it whenever the agent instructions change.
+3. **Keep `AGENT_CHANGELOG.md` current** — When updating any agent file, bump the version number in the file header and add a changelog entry. This is the only ongoing maintenance item from the architecture review.
 
 ---
 
-## 8. Agent File Quick Reference
+## 9. Agent File Quick Reference
 
 | What you need | Where it lives |
 | ------------- | -------------- |
