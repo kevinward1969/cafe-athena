@@ -4,7 +4,8 @@
       "Bash(grep -n \"heroImage\" \"/Users/kevinward/Projects/Cafe Athena/site/src/content/recipes\"/*.md)",
       "Bash(grep -h \"heroImage:\" site/src/content/recipes/*.md)",
       "Bash(grep -h \"^heroImage:\" site/src/content/recipes/*.md)",
-      "Bash(npx markdownlint-cli2:*)"
+      "Bash(npx markdownlint-cli2:*)",
+      "Bash(ls \"/Users/kevinward/Projects/Cafe Athena/The Manual/Chapter 2 - The Foundation/\"*.png \"/Users/kevinward/Projects/Cafe Athena/The Manual/Chapter 4 - The Mill/\"*.png)"
     ]
   }
 }
