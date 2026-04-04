@@ -27,26 +27,6 @@
   }
 }
 
-@layer components {
-  .ref-image {
-    margin: 2rem 0;
-    text-align: center;
-  }
-
-  .ref-image img {
-    max-width: 100%;
-    border-radius: 8px;
-    display: inline-block;
-  }
-
-  .ref-image figcaption {
-    margin-top: 0.5rem;
-    font-size: 0.875rem;
-    font-style: italic;
-    color: var(--color-smoke);
-  }
-}
-
 @layer utilities {
   .glass-panel {
     @apply bg-cream/80 backdrop-blur-xl border border-white/20 shadow-[0_20px_40px_rgba(26,26,46,0.05)];
