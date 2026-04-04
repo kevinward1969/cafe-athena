@@ -89,3 +89,20 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 - Hero images (site): `site/public/images/XX-YY.webp`
 - Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content
 - Deploy: `site/deploy.sh`
+
+---
+
+## Image Lifecycle & Cleanup Policy
+
+Images in `The Manual/` are working files. Once processed and confirmed in `site/public/images/`, they should be deleted from The Manual folder.
+
+**Delete from `The Manual/` when:**
+
+- Hero image: `recipes.json` shows `heroImageOptimized: true`
+- Reference image: `recipes.json` shows `referenceImagesProcessed: true`
+
+This applies equally to hero images (`XX-YY.webp`) and reference images (`XX-YYa.webp`, etc.).
+
+**Canonical location for all processed images:** `site/public/images/`
+
+The `.png` originals in The Manual may be kept until optimized, then deleted once `heroImageOptimized: true`. Reference the `recipes.json` registry as the source of truth for what has been processed.
