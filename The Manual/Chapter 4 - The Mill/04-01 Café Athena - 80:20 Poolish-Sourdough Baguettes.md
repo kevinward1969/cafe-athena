@@ -1,6 +1,6 @@
 # Café Athena - 80/20 Poolish-Sourdough Baguettes
 
-## A hybrid-leavened master recipe combining the nutty sweetness of poolish with the structure of sourdough.
+## A hybrid-leavened master recipe combining the nutty sweetness of poolish with the structure of sourdough
 
 Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
 
@@ -62,8 +62,11 @@ Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
 * **Couche:** A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
 * **Diastatic Malt:** Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
 * **Lame:** A double-edged razor blade mounted on a handle, used for scoring bread.
+
 ## Keywords
+
 Sourdough, Poolish, Baguettes, Fermentation, Gluten Development, Dough, Baking Steel, Steam, Starter, Hybrid Leavening, Crust
 
 ## Category
+
 cuisine: French | style: Technique Folio

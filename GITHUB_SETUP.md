@@ -18,6 +18,7 @@ Follow these steps to initialize the repository locally and push it to GitHub.
 5. Copy the repository URL (HTTPS or SSH)
 
 **Example URL:**
+
 ```
 https://github.com/YOUR_USERNAME/cafe-athena.git
 ```
@@ -57,6 +58,7 @@ git remote -v
 ```
 
 You should see:
+
 ```
 origin  https://github.com/YOUR_USERNAME/cafe-athena.git (fetch)
 origin  https://github.com/YOUR_USERNAME/cafe-athena.git (push)
@@ -79,6 +81,7 @@ git status
 ```
 
 You should see:
+
 ```
 Changes to be committed:
   new file:   .gitignore
@@ -105,6 +108,7 @@ git push -u origin main
 ```
 
 If prompted for authentication:
+
 - **HTTPS:** Enter your GitHub username and personal access token (not password)
 - **SSH:** Use your SSH key (if configured)
 
@@ -113,11 +117,13 @@ If prompted for authentication:
 ## Step 7: Verify on GitHub
 
 Go to your GitHub repository URL:
+
 ```
 https://github.com/YOUR_USERNAME/cafe-athena
 ```
 
 You should see:
+
 - ✅ README.md displayed
 - ✅ .gitignore applied
 - ✅ All folders visible (Claude-Desktop/, Guidance/, The Manual/)
@@ -190,6 +196,7 @@ git push -u origin private/manuscripts
 ```
 
 Then in `.gitignore`, add:
+
 ```
 # Keep private
 The Manual/
@@ -204,7 +211,8 @@ git commit -m "Exclude The Manual from main branch"
 git push
 ```
 
-**Result:** 
+**Result:**
+
 - `main` branch: Claude Desktop syncs public Guidance/ files
 - `private/manuscripts` branch: Local backup of cookbook content
 
@@ -213,11 +221,13 @@ git push
 ## SSH vs HTTPS
 
 ### HTTPS (Easier, Recommended)
+
 - Use personal access token instead of password
 - Requires token generation in GitHub settings
 - Works on any network
 
 ### SSH (More Secure)
+
 - Requires SSH key setup
 - Faster after initial setup
 - Better for frequent commits
@@ -229,22 +239,26 @@ Choose whichever you prefer; HTTPS is simpler for most users.
 ## Troubleshooting
 
 ### "fatal: not a git repository"
+
 ```bash
 cd /Users/kevinward/Projects/Cafe\ Athena
 git init
 ```
 
 ### "Permission denied (publickey)" (SSH only)
-- Verify SSH key is added to GitHub: https://github.com/settings/keys
+
+- Verify SSH key is added to GitHub: <https://github.com/settings/keys>
 - Or switch to HTTPS: `git remote set-url origin https://github.com/...`
 
 ### "remote origin already exists"
+
 ```bash
 git remote remove origin
 git remote add origin https://github.com/YOUR_USERNAME/cafe-athena.git
 ```
 
 ### Files not appearing on GitHub
+
 ```bash
 git status  # Check if files are tracked
 git add .   # Add all files
@@ -253,6 +267,7 @@ git push
 ```
 
 ### Claude can't access GitHub repo
+
 1. Verify repo is **Public** (not Private)
 2. Verify Claude project GitHub integration is connected
 3. Try disconnecting and reconnecting the GitHub integration in Claude project
@@ -272,7 +287,8 @@ Your repository is ready! Next:
 
 ## Quick Reference (Copy/Paste)
 
-### First-time setup (all at once):
+### First-time setup (all at once)
+
 ```bash
 cd /Users/kevinward/Projects/Cafe\ Athena
 git init
@@ -283,7 +299,8 @@ git branch -M main
 git push -u origin main
 ```
 
-### Ongoing updates:
+### Ongoing updates
+
 ```bash
 git add .
 git commit -m "Your message here"

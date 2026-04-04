@@ -62,8 +62,11 @@ Drain the water. Rinse the bones thoroughly under cold running water to wash awa
 - **Hydrolysis:** The chemical breakdown of a compound due to reaction with water; here, turning collagen into gelatin.
 - **Mirepoix:** A flavor base made from cooked diced vegetables, usually onion, carrot, and celery in a 2:1:1 ratio.
 - **Natural Release:** Letting a pressure cooker cool down slowly until pressure equalizes, preventing internal turbulence.
+
 ## Keywords
+
 Pressure Cooking, Chicken Stock, Fond Blanc, Gelatin, Clarified Stock, Mirepoix, French Cuisine, Technique, Umami, Poultry, Extraction, Aromatics, Cleaver
 
 ## Category
+
 cuisine: French | style: Technique Folio

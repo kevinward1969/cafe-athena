@@ -86,8 +86,11 @@ Tear the fresh basil leaves by hand and stir them in. Let them steep in the hot 
 - **Nappe:** The ability of a liquid to coat the back of a spoon; indicates proper thickness.
 - **Emulsion:** A mixture of two liquids that don't normally mix (oil and water), suspended together.
 - **DOP:** *Denominazione di Origine Protetta.* Certification guaranteeing the tomatoes are true San Marzanos.
+
 ## Keywords
+
 Tomato, Emulsion, Garlic, Basil, Parmesan, Italian, Technique, Nappe, Umami, Red Pepper Flakes
 
 ## Category
+
 cuisine: Italian | style: Classical

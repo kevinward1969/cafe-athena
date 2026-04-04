@@ -1,6 +1,6 @@
 # Café Athena - Miso-Cured Black Cod (Saikyo Yaki)
 
-## Buttery, flaking sablefish with a deep savory cure and a caramelized, sweet-umami crust.
+## Buttery, flaking sablefish with a deep savory cure and a caramelized, sweet-umami crust
 
 Yield: 4 servings | Prep: 20 min | Inactive: 24–48 hr | Cook: 12–15 min | Total: ~25–50 hr
 
@@ -61,8 +61,11 @@ Place under the broiler for **60–90 seconds**. Watch constantly. **Sensory Cue
 * **Saikyo Miso:** A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
 * **Hygroscopic:** The property of a substance to absorb moisture from the air or its surroundings.
 * **Diffusion:** The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the fish).
+
 ## Keywords
+
 Miso, Black Cod, Saikyo Yaki, Curing, Fermented, Umami, Japanese, Sablefish, Glaze, Marine
 
 ## Category
+
 cuisine: Japanese | style: Technique Folio

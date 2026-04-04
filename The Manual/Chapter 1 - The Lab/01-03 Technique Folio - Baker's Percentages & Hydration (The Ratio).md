@@ -21,8 +21,11 @@
 3. **Calculate Salt (2%):** 500g × 0.02 = 10g Salt.
 4. **Calculate Yeast (1%):** 500g × 0.01 = 5g Instant Yeast.
 5. **Action:** Combine, mix, and observe how this hydration level feels compared to a standard sandwich bread (usually 60%).
+
 ## Keywords
+
 Baker's Percentages, Hydration, Flour, Dough, Bread, Gluten, Yeast, Scaling, Rustic, Loaf
 
 ## Category
+
 cuisine: Global | style: Technique Folio

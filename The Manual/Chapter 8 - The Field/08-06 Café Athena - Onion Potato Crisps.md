@@ -45,16 +45,16 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ### The Matrix
 
-4. **Integrate Starches:** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt.
-5. **Whisk:** Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
+1. **Integrate Starches:** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt.
+2. **Whisk:** Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
 
 ### Formation and Dehydration
 
-6. **Preheat:** Set the oven to 230°F/110°C.
-7. **Pipe:** Transfer the mixture to a piping bag. Pipe 1-inch (2.5 cm) dollops onto the parchment-lined baking sheet, spaced 2 inches (5 cm) apart.
-8. **The Press:** Place a second sheet of parchment paper over the dollops. Use the flat bottom of a measuring cup to press each dollop into a thin, uniform disc approximately 2–3 inches (5–7.5 cm) wide. Carefully peel back the top parchment layer.
-9. **Bake:** Bake for 30–35 minutes until the crisps are completely dehydrated and lift easily from the paper without sticking. They should be pale with almost no browning.
-10. **Cool:** Transfer the parchment sheet to a wire rack. The crisps will reach their final brittle state as they reach room temperature.
+1. **Preheat:** Set the oven to 230°F/110°C.
+2. **Pipe:** Transfer the mixture to a piping bag. Pipe 1-inch (2.5 cm) dollops onto the parchment-lined baking sheet, spaced 2 inches (5 cm) apart.
+3. **The Press:** Place a second sheet of parchment paper over the dollops. Use the flat bottom of a measuring cup to press each dollop into a thin, uniform disc approximately 2–3 inches (5–7.5 cm) wide. Carefully peel back the top parchment layer.
+4. **Bake:** Bake for 30–35 minutes until the crisps are completely dehydrated and lift easily from the paper without sticking. They should be pale with almost no browning.
+5. **Cool:** Transfer the parchment sheet to a wire rack. The crisps will reach their final brittle state as they reach room temperature.
 
 ---
 
@@ -70,8 +70,11 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 - **Amylopectin:** A highly branched polymer of glucose found in plants. In potatoes, it is responsible for the "sticky" and "glassy" qualities of a cooked starch gel.
 - **Gelatinization:** The process where starch granules absorb water and swell when heated, eventually breaking open and forming a thickened gel.
 - **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. We bake at a lower temperature to minimize this and keep the onion flavor "fresh."
+
 ## Keywords
+
 Vegetable Tuiles, Potato, Onion, Starch Gelatinization, Emulsification, Amylopectin, Baking Powder, Savory Snack, Technique, Crisp
 
 ## Category
+
 cuisine: Global | style: Technique Folio

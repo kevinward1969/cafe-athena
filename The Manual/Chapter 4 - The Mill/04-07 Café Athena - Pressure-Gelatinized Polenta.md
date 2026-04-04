@@ -1,6 +1,6 @@
 # Café Athena - Pressure-Gelatinized Polenta
 
-## Ultra-creamy, no-stir cornmeal finished with the mantecatura technique.
+## Ultra-creamy, no-stir cornmeal finished with the mantecatura technique
 
 Yield: 4–6 servings | Prep: 10 min | Cook: 25 min | Total: ~40 min
 
@@ -52,8 +52,11 @@ Add the **cold Butter**, **Parmigiano-Reggiano**, and **Mascarpone**. Whisk unti
 **Glossary**
 
 **Gelatinization:** The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid. **Mantecatura:** An Italian technique (usually for risotto) of vigorously beating cold fat and cheese into a hot starch mixture to create a creamy emulsion. **Retrogradation:** The recrystallization of starch molecules as they cool, causing the food to harden or weep liquid (syneresis).
+
 ## Keywords
+
 Polenta, Pressure Cooking, Gelatinization, Cornmeal, Dairy, Parmesan, Mantecatura, Emulsification, Texture, Creamy
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

@@ -24,6 +24,7 @@ description: Generates and appends ## Keywords and ## Category sections to a rec
    - `dietary:` — ONE value from the allowed dietary list (only if clearly applicable)
    - **Stop Point:** If the cuisine or style is genuinely ambiguous, ask the user before assigning. Do not guess.
 8. Format the new sections exactly as:
+
    ```
    ## Keywords
    term1, term2, term3, term4, term5, term6, term7, term8, term9, term10
@@ -31,6 +32,7 @@ description: Generates and appends ## Keywords and ## Category sections to a rec
    ## Category
    cuisine: French | style: Classical
    ```
+
    (Include `| dietary: Vegetarian` only if applicable.)
 9. Append the new sections to the end of the source recipe file, after the Glossary section.
 10. Inform the user which sections were added and confirm the category assignment.

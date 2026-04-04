@@ -53,8 +53,11 @@
 2. **Action:** Turn the blender to maximum speed and let it run for 3 minutes.
 3. **Result:** Measure the temperature. It will likely have risen by 20–30°F.
 4. **Lesson:** If that water was a delicate fresh herb puree or a raw emulsion, you would have just cooked it. *Pulse* to keep things cool.
+
 ## Keywords
+
 Blending, Emulsification, Torque, Shear Force, High-Speed Blender, Immersion Blender, Food Processor, Friction, Heat, Liquid
 
 ## Category
+
 cuisine: Asian-Fusion | style: Technique Folio

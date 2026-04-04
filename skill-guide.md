@@ -16,20 +16,27 @@ This guide outlines how to leverage the **Antigravity Awesome Skills** library (
 ## 🛠️ Integration into Workflows
 
 ### Mode 1: The Lab (Recipe Development)
+
 When exploring new concepts, invoke **`@brainstorming`**. It will lead you through a structured discovery process to define ingredients, methods, and sensory cues before you write the final manuscript.
 
 ### Mode 2: The Manual (Production Formatting)
+
 Before finalising a recipe for the Manual, run **`@copy-editing`** to ensure the instructions are imperative and technically precise. Then use **`@lint-and-validate`** to ensure all fractions (Unicode), temperatures (dual format), and en-dashes are correct.
 
 ### Mode 3: The Masterclass (Technique Education)
+
 When drafting new Folios, use **`@doc-coauthoring`**. It helps maintain the pedagogical layer, moving from simple science to complex application as required by the `Technique_Folio_Template_v1.md`.
 
 ### Glossary Management
+
 Use **`@lint-and-validate`** during both `/audit-glossary` and `/glossary-pull` to ensure every term follows the strict `- Term: Definition` format and lacks messy bolding or broken lines.
 
 ## 🚀 Getting Started
+
 Ensure you have the skills installed:
+
 ```bash
 npx antigravity-awesome-skills --antigravity
 ```
+
 Once installed, you can mention any skill name (e.g., `@brainstorming`) in your chat with the Antigravity assistant.

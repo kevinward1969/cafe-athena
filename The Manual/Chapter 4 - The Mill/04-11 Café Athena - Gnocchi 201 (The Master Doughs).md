@@ -115,8 +115,11 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 * **Ricer:** A kitchen tool that extrudes food through small holes (like a giant garlic press), creating a fluffy texture without overworking the starch.
 * **Gelatinization:** The process in which starch granules absorb water and swell when heated, thickening the liquid (seen in Phase 3).
 * **Semolina:** Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
+
 ## Keywords
+
 Gnocchi, Potato, Ricotta, Semolina, Starch, Dough, Pasta, Baking, Moisture Management, Texture
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

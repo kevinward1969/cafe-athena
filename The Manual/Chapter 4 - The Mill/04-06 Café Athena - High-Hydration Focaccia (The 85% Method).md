@@ -72,8 +72,11 @@ Sprinkle with **Flaky Sea Salt** and toppings (if using). Bake for **22–25 min
 * **Hydration:** The ratio of water to flour by weight. 85% hydration means 850g water for every 1000g flour.
 * **Retard:** Placing dough in a cold environment (fridge) to slow fermentation.
 * **Pincage:** A mixing technique involving squeezing dough through fingers to incorporate ingredients evenly.
+
 ## Keywords
+
 Focaccia, Hydration, Dough, Gluten, Fermentation, Yeast, Olive Oil, Salt, Bread Flour, Time
 
 ## Category
+
 cuisine: Global | style: Weeknight

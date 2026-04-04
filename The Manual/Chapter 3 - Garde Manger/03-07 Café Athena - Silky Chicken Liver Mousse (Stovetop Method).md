@@ -1,6 +1,6 @@
 # Café Athena - Silky Chicken Liver Mousse (Stovetop Method)
 
-## A classic bistro spread achieved through careful pan-roasting and emulsification, requiring no specialized machinery.
+## A classic bistro spread achieved through careful pan-roasting and emulsification, requiring no specialized machinery
 
 Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 15 min | Set: 4–12 hr
 
@@ -63,8 +63,11 @@ Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 15 min | Set: 4–12 hr
 * **Carryover Cooking:** The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
 * **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 * **Deglaze:** To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
+
 ## Keywords
+
 Chicken Liver, Mousse, Emulsification, Pan-roasting, Butter, Cognac, Gelatin, Pâté, Maillard Reaction, Stovetop
 
 ## Category
+
 cuisine: French | style: Technique Folio

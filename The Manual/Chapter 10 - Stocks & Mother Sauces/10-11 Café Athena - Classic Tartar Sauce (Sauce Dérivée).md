@@ -56,17 +56,17 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 ### Phase 2: The Incorporation
 
-3. In a medium mixing bowl, place the **Master Mayonnaise** and **Dijon mustard**. Whisk gently to combine.
-4. Add the **dried cornichons**, **dried capers**, and the **shallot-lemon mixture**.
-5. Fold gently with a silicone spatula until evenly distributed.
+1. In a medium mixing bowl, place the **Master Mayonnaise** and **Dijon mustard**. Whisk gently to combine.
+2. Add the **dried cornichons**, **dried capers**, and the **shallot-lemon mixture**.
+3. Fold gently with a silicone spatula until evenly distributed.
 
 > Sensory Cue: The mixture should look "chunky" and hold its shape. If it looks glossy and runny, the vegetables were not dried enough.
 
 ### Phase 3: Season and Cure
 
-6. Fold in the **fresh dill**, **chives**, **salt**, **white pepper**, and **Tabasco**.
-7. Taste for seasoning. The sauce should be punchy and tart. If it feels too sharp, add the **sugar** sparingly.
-8. Cover with plastic wrap pressed directly against the surface and refrigerate for at least **1 hour** before serving.
+1. Fold in the **fresh dill**, **chives**, **salt**, **white pepper**, and **Tabasco**.
+2. Taste for seasoning. The sauce should be punchy and tart. If it feels too sharp, add the **sugar** sparingly.
+3. Cover with plastic wrap pressed directly against the surface and refrigerate for at least **1 hour** before serving.
 
 > Why: Cold fat holds air better than warm fat, and the resting period allows the flavors to meld (diffusion).
 
@@ -85,8 +85,11 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 - **Sauce Dérivée:** A "daughter sauce" created by adding flavorings to a leading "Mother Sauce" (in this case, Mayonnaise).
 - **Brunoise:** A very fine dice (approx. 3mm cubes).
 - **Emulsion:** A mixture of two liquids that normally don't mix (oil and water/vinegar), held together by an emulsifier (egg yolk).
+
 ## Keywords
+
 Emulsion, Mayonnaise, Cornichons, Lemon Juice, Dill, Chives, Brine, Seafood, Tartar, Texture
 
 ## Category
+
 cuisine: French | style: Technique Folio

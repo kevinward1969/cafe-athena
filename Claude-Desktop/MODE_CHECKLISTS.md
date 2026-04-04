@@ -15,18 +15,21 @@ Use these checklists before starting a conversation in each mode. They help you 
 - [ ] I'm ready to test specific variables (temperature, timing, technique)
 
 **Conversation Starter:**
+
 ```
 "Let's work on [dish name]. Here's what I'm thinking: [concept, texture, flavor]. 
 Starting ingredients: [list]. I want to focus on [specific technique or element]."
 ```
 
 **During Development:**
+
 - Tell Claude when to "finalize" or you're "ready for Manual"
 - Describe what's not working (taste, texture, timing)
 - Provide tasting notes and observations
 - Ask "Why?" questions about techniques
 
 **Signs You're Ready for Mode 2:**
+
 - Recipe tested multiple times
 - Consistent results achieved
 - All instructions clear and sensory cues included
@@ -46,18 +49,21 @@ Starting ingredients: [list]. I want to focus on [specific technique or element]
 - [ ] I understand the recipe will be assigned an INDEX number (XX-YY)
 
 **Conversation Starter:**
+
 ```
 "Generate the final recipe for [dish name]. Target chapter: [Chapter Name]. 
 Here's the finalized version: [paste recipe content from Mode 1]."
 ```
 
 **What Claude Will Do:**
+
 1. Format according to Recipe-Format-Standard.md
 2. Check that all 7 required sections are present
 3. Scan Cafe-Athena-The-Manual-Current-Version.md for the correct XX-YY number
 4. Output manuscript-ready recipe with INDEX DATA block
 
 **Critical Stop Points (Claude Will Ask):**
+
 - "What chapter does this belong to?"
 - "I found the last entry in [Chapter] is [XX-YY]. The next number will be [XX-YY+1]. Confirm?"
 - "This is missing [section]. Please provide before I continue."
@@ -76,12 +82,14 @@ Here's the finalized version: [paste recipe content from Mode 1]."
 - [ ] I have access to Technique_Folio_Template_v1.md and Technique-Folio-Example.md
 
 **Conversation Starter:**
+
 ```
 "Teach me about [technique]. Here's what I understand: [current knowledge]. 
 What I want to know: [specific questions]."
 ```
 
 **Examples:**
+
 ```
 "Teach me about spherification. I know it's Algin + Calcium, but I don't understand the chemistry."
 
@@ -91,12 +99,14 @@ What I want to know: [specific questions]."
 ```
 
 **During Conversation:**
+
 - Ask "Why?" questions
 - Request practical applications and examples
 - Request testing formulas or reference values
 - Say "Ready to convert this to a Technique Folio?" when you want formalization
 
 **What Claude Will Output:**
+
 1. **Tutorial Phase**: Detailed explanation of science, practical application, sensory cues
 2. **Folio Phase** (on request): Formatted Technique Folio with:
    - Concept Definition
@@ -108,6 +118,7 @@ What I want to know: [specific questions]."
    - Sources
 
 **Signs You're Ready for Folio Conversion:**
+
 - You understand the underlying science
 - You have practical application steps
 - You have reference values (temperatures, ratios, timing)
@@ -119,6 +130,7 @@ What I want to know: [specific questions]."
 ## SWITCHING MODES
 
 **In any mode, you can switch by saying:**
+
 ```
 "Switch to Mode 1: The Lab" 
 "Change to Mode 2: The Manual"
@@ -134,24 +146,29 @@ Claude will confirm and context remains available.
 Claude will **always** STOP and ask you to confirm if:
 
 ❌ **Food Safety Issue**
+
 - Unsafe temperature range
 - HACCP violation (time/temperature abuse)
 - Potential allergen or contamination concern
 
 ❌ **Format Contradiction**
+
 - Your instruction contradicts Recipe-Format-Standard.md
 - Technical term usage conflicts with standard definition
 
 ❌ **Index Conflict**
+
 - Chapter assignment doesn't match content
 - Chapter prefix (XX-) doesn't match expected sequence
 - Manual index cannot be scanned
 
 ❌ **Missing Information**
+
 - Yield, cooking method, or ingredient list incomplete (Mode 2)
 - Diagram required but only text available (Mode 3)
 
 **When Claude Stops:**
+
 - Wait for the question
 - Provide clarification or confirmation
 - Do NOT override food safety concerns

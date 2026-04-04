@@ -138,6 +138,7 @@ Claude will STOP and wait for your confirmation when:
 ```
 
 **Claude's STOP Response:**
+
 ```
 "I need clarification on [specific element] before proceeding."
 OR
@@ -179,23 +180,27 @@ When Claude processes your request, it references files in this order:
 ### Starting a Mode
 
 **MODE 1:**
+
 ```
 "Let's work on [dish name]. Here's my concept: [idea]. 
 Starting ingredients: [list]. I want to focus on [technique]."
 ```
 
 **MODE 2:**
+
 ```
 "Format this recipe for publication. Target chapter: [Chapter Name]. 
 Here's the finalized version: [paste recipe]."
 ```
 
 **MODE 3:**
+
 ```
 "Teach me about [technique]. I want to understand [specific aspect]."
 ```
 
 ### Switching Modes
+
 ```
 "Switch to Mode [1/2/3]: The [Lab/Manual/MasterClass]"
 ```
@@ -203,6 +208,7 @@ Here's the finalized version: [paste recipe]."
 ### Triggering Completion
 
 **Mode 1 → Mode 2:**
+
 ```
 "Finalize this recipe"
 OR
@@ -210,13 +216,15 @@ OR
 ```
 
 **Mode 3 → Folio:**
+
 ```
 "Ready to convert this to a Technique Folio?"
 OR
 "Format this as a Folio"
 ```
 
-### Override (use rarely):
+### Override (use rarely)
+
 ```
 "Proceed anyway"  ← Only after Claude stops
 ```
@@ -235,6 +243,7 @@ OR
 ✓ **MUST be readable** (if not → CRITICAL ERROR)  
 
 **Format Example:**
+
 ```
 # Chapter 9 - The Pâtissier
 
@@ -250,6 +259,7 @@ Claude scans this to find the last entry and assign 09-04 to the next recipe.
 ## ZERO-CITATION RULE
 
 🚫 **FORBIDDEN** in all output:
+
 - `[source]`
 - `[1]`, `[2]`, `[3]`
 - `[cite]`
@@ -277,9 +287,9 @@ Claude scans this to find the last entry and assign 09-04 to the next recipe.
 ## RED FLAGS (Stop Immediately)
 
 🛑 **Claude should refuse or stop before:**
+
 - Temperature/timing would result in food poisoning
 - Chapter assignment doesn't exist in Manual
 - Cannot read Manual file (index unreadable)
 - Ingredient list, yield, or method missing (Modes 1→2 transition)
 - Instruction contradicts established standard
-

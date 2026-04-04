@@ -39,8 +39,11 @@
   * **The Peak:** The top will dome, then flatten.
   * **The Fall:** The dome collapses, and streaks appear on the glass.
 * **Lesson:** You must mix your dough *at the Peak* or slightly before. Once it falls, the yeast is exhausted, and the acid load is too high.
+
 ## Keywords
+
 Sourdough, Starter, Fermentation, Acidity, Proteolysis, Gluten, Levain, Mother, Dough, Yeast
 
 ## Category
+
 cuisine: Global | style: Technique Folio

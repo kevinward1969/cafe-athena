@@ -349,7 +349,7 @@ This system is designed for professional culinary documentation. Adapt as needed
 
 ## 🔗 Links
 
-- **Claude Desktop:** https://claude.ai/projects
+- **Claude Desktop:** <https://claude.ai/projects>
 - **GitHub Integration:** See project Files section
 - **Local Setup:** See `GITHUB_SETUP.md` for Git commands
 

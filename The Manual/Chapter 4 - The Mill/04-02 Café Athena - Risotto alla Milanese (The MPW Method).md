@@ -51,8 +51,11 @@
 * **Mantecatura:** The final step of beating cold butter and cheese into risotto off the heat to create a creamy emulsion.
 * **Sweat:** To cook vegetables in fat over low heat so they soften and release moisture without browning.
 * **Al Dente:** "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
+
 ## Keywords
+
 Risotto, Milanese, Saffron, Carnaroli Rice, White Beef Stock, Butter, Parmesan, Italian, Technique, Creamy
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

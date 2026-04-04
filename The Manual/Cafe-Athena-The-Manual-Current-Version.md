@@ -1,4 +1,4 @@
-# CAFÉ ATHENA THE MANUAL 
+# CAFÉ ATHENA THE MANUAL
 
 ## (CURRENT VERSION)
 
@@ -84,7 +84,7 @@
 
 * 06-01 Café Athena \- Italian Wedding Soup (Pollo Rustica)  
 * 06-02 Café Athena \- Wafu Wedding Soup (Kyoto Spice)  
-* 06-03 Café Athena \- Traditional Duck Confit   
+* 06-03 Café Athena \- Traditional Duck Confit
 * 06-04 Café Athena \- Nashville Hot Chicken (The Weissman Method)  
 * 06-05 Café Athena \- Louisiana Blackened Chicken Pasta  
 * 06-06 Café Athena \- Modern Chicken Pot Pie (Velouté Method)

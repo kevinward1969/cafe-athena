@@ -64,8 +64,11 @@ This dish retains the soul of a classic Caprese—sweet tomato, rich dairy, and 
 * **Fluid Gel:** A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 * **De-gas:** The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 * **Spherification (Direct):** A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.
+
 ## Keywords
+
 Spherification, Tomato, Balsamic, Mozzarella, Sodium Alginate, Calcium Chloride, Gel, Caviar, Italian, Deconstruction
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

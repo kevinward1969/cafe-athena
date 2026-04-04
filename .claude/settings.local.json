@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"heroImage\" \"/Users/kevinward/Projects/Cafe Athena/site/src/content/recipes\"/*.md)",
+      "Bash(grep -h \"heroImage:\" site/src/content/recipes/*.md)",
+      "Bash(grep -h \"^heroImage:\" site/src/content/recipes/*.md)",
+      "Bash(npx markdownlint-cli2:*)"
+    ]
+  }
+}

@@ -47,8 +47,8 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 > Why: We are building the first layer of flavor. Unlike a white sauce, we want the sugars in the vegetables to caramelize.
 
-2. **Form the Roux:** Lower the heat to medium. Sprinkle the flour over the vegetables. Stir constantly with a wooden spoon or stiff whisk.
-3. **Cook to Brown:** Continue cooking the flour-fat mixture until it smells nutty and turns the color of peanut butter.
+1. **Form the Roux:** Lower the heat to medium. Sprinkle the flour over the vegetables. Stir constantly with a wooden spoon or stiff whisk.
+2. **Cook to Brown:** Continue cooking the flour-fat mixture until it smells nutty and turns the color of peanut butter.
 
 > Sensory Cue: The roux will shift from bubbling froth to a drier, darker paste. Do not burn it (black specks are failure).
 
@@ -58,7 +58,7 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 > Why: This "pincage" technique removes the metallic, acidic taste of raw tomato and adds umami depth.
 
-2. **Integrate:** Stir the paste into the roux mixture until uniform.
+1. **Integrate:** Stir the paste into the roux mixture until uniform.
 
 ### Phase 3: The Integration & Reduction
 
@@ -68,7 +68,7 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 > Why: As the starch swells and the sauce reduces, it pushes out impurities. Skimming ensures the final sauce is glossy and clean, not muddy.
 
-4. **Strain:** Pass the finished sauce through a Chinois (fine-mesh sieve) into a clean container. Press on the solids to extract flavor, but do not force them through.
+1. **Strain:** Pass the finished sauce through a Chinois (fine-mesh sieve) into a clean container. Press on the solids to extract flavor, but do not force them through.
 
 ---
 
@@ -86,8 +86,11 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 - **Dépouillage:** The practice of skimming the surface of a cooking liquid to remove fat and impurities.
 - **Fond Brun:** Brown Stock, usually made from roasted beef or veal bones.
 - **Nappe:** The consistency where a sauce is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
+
 ## Keywords
+
 Roux, Brown Sauce, Caramelization, Stock, Mirepoix, Reduction, Flavor Development, Classical Cuisine, Meat Reduction, Pastry
 
 ## Category
+
 cuisine: French | style: Classical

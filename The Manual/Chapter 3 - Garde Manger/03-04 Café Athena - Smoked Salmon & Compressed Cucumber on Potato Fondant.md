@@ -59,8 +59,11 @@ Garnish
 * **Dextrinization:** The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
 * **Fondant:** A method of cooking vegetables where they are seared in fat and then braised in stock until tender.
 * **Vacuum Compression:** A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
+
 ## Keywords
+
 Smoked Salmon, Vacuum Compression, Potato Fondant, Cucumber, Brunoise, Dextrinization, Starch, Thermal Contrast, Acid Compression, Chilled, Tartare
 
 ## Category
+
 cuisine: Japanese | style: Technique Folio

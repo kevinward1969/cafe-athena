@@ -70,8 +70,11 @@ This sauce achieves its body through two mechanisms working together: heat-drive
 - **Nappé:** The consistency at which a sauce coats the back of a spoon and a clear line holds when you draw a finger through it — the standard test for a properly reduced sauce.
 - **Pangrattato:** Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
 - **Acid Coagulation:** The partial denaturing of milk proteins caused by the introduction of an acid (lemon juice, vinegar), which tightens and thickens cream-based sauces without starch.
+
 ## Keywords
+
 Cream, Lemon, Parmigiano-Reggiano, Emulsification, Reduction, Butter, Sauce, Acid, Cheese, Chives
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

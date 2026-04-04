@@ -77,8 +77,11 @@ A study in textural contrast: a dark, resinous caramelized shell protecting a te
 - **White Oil:** A 50/50 mixture of beeswax and butter used to create a non-stick, high-gloss finish.
 - **Scald:** Heating a liquid (usually dairy) to just below the boiling point (183°F/84°C) to change its protein structure.
 - **Honeycomb:** The aerated, custardy internal structure of a perfectly baked canelé.
+
 ## Keywords
+
 Canelés, Brandy, Thermal Shock, Caramelization, Pastry, Custard, Beeswax, Carbon Steel, French, Fermented
 
 ## Category
+
 cuisine: French | style: Technique Folio

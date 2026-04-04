@@ -83,7 +83,9 @@ Preheat the oven to 450°F/232°C. Place a cast iron pan or stainless steel tray
 - **Oven Spring:** The rapid final rise of dough during the first minutes of baking, driven by heat expanding the trapped CO₂ and steam.
 
 ## Keywords
+
 sourdough, hybrid leavening, high-hydration, bread, no-knead, bulk fermentation, cold retard, oven spring, buns, bread flour, wild yeast, commercial yeast, steam bake, rustic, open crumb
 
 ## Category
+
 cuisine: Global | style: Modern

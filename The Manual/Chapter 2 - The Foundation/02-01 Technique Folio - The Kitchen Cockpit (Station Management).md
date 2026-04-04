@@ -58,8 +58,11 @@ At home, you likely do not have six different boards. Therefore, you must replac
 * **The Wet Hand:** Your non-dominant hand touches the raw meat. It *never* leaves the meat zone.
 * **The Dry Hand:** Your dominant hand holds the knife. It *never* touches the meat directly.
 * This ensures your knife handle—and thus your salt cellar, oven door, and towels—remains sanitary.
+
 ## Keywords
+
 Mise en place, Cognitive Load, Sanitation, Thermodynamics, Cutting Board, Workflow, Food Safety, Emulsion, Maillard Reaction, Station Management
 
 ## Category
+
 cuisine: Global | style: Technique Folio

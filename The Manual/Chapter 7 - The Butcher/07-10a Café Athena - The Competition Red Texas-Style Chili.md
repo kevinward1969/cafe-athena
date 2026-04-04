@@ -22,43 +22,43 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 #### The Beef Foundation
 
-* 3175 g (7 lbs) beef chuck, hand-cut into 1 cm cubes
-* 1360 g (3 lbs) beef chuck, coarse-ground (10 mm) — 225 g (½ lb) reserved for second browning
-* 60 g (4 tbsp) high-smoke point oil (tallow or avocado oil)
+- 3175 g (7 lbs) beef chuck, hand-cut into 1 cm cubes
+- 1360 g (3 lbs) beef chuck, coarse-ground (10 mm) — 225 g (½ lb) reserved for second browning
+- 60 g (4 tbsp) high-smoke point oil (tallow or avocado oil)
 
 #### The Umami Base
 
-* 1.5 L (6 cups) fortified beef stock
-* 500 ml (2 cups) beef demi-glace
-* 45 g (3 tbsp) red miso paste
-* 30 ml (2 tbsp) fish sauce
-* 10 ml (2 tsp) Guk-ganjang (Korean aged soy sauce)
+- 1.5 L (6 cups) fortified beef stock
+- 500 ml (2 cups) beef demi-glace
+- 45 g (3 tbsp) red miso paste
+- 30 ml (2 tbsp) fish sauce
+- 10 ml (2 tsp) Guk-ganjang (Korean aged soy sauce)
 
 #### The Aromatics & Spices
 
-* 3 large yellow onions, finely diced
-* 4 poblano peppers, seeded and finely diced
-* 10 cloves garlic, minced
-* 60 g (4 tbsp) tomato paste
-* 50 g (½ cup) "Competition Blend" chili paste (Ancho, Guajillo, Pasilla)
+- 3 large yellow onions, finely diced
+- 4 poblano peppers, seeded and finely diced
+- 10 cloves garlic, minced
+- 60 g (4 tbsp) tomato paste
+- 50 g (½ cup) "Competition Blend" chili paste (Ancho, Guajillo, Pasilla)
   - [ ] **Ancho** — 3 dried pods (about 25g) — the backbone, sweet and earthy
   - [ ] **Guajillo** — 2 dried pods (about 15g) — bright, tangy, slightly fruity heat
   - [ ] **Pasilla** — 2 dried pods (about 10g) — dark, raisin-like, adds complexity
   - [ ] Cascabel peppers — 2–3 dried pods (about 10-15g) — warm, nutty heat layer
-* 4 packets Sazón with Culantro y Achiote
-* 30 g (3 tbsp) ground cumin
-* 20 g (2 tbsp) Triple Cocoa Blend (unsweetened)
-* 15 g (2 tbsp) Mexican oregano
-* 10 g (1 tbsp) Smoked Red Pepper Blend (Café Athena house blend)
+- 4 packets Sazón with Culantro y Achiote
+- 30 g (3 tbsp) ground cumin
+- 20 g (2 tbsp) Triple Cocoa Blend (unsweetened)
+- 15 g (2 tbsp) Mexican oregano
+- 10 g (1 tbsp) Smoked Red Pepper Blend (Café Athena house blend)
 
 #### The Deglaze
 
-* 350 ml (12 oz) Guinness Draught
+- 350 ml (12 oz) Guinness Draught
 
 #### The Finish
 
-* 60 ml (¼ cup) apple cider vinegar
-* Diamond Crystal kosher salt, to taste
+- 60 ml (¼ cup) apple cider vinegar
+- Diamond Crystal kosher salt, to taste
 
 ### Method
 
@@ -70,7 +70,7 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 **Phase 4: The Long Simmer.** Deglaze with Guinness and stir, scraping up any fond. Allow the Guinness to reduce by roughly half, about 3–4 minutes. Add the fortified liquid mixture and chili paste. Return all seared beef and browned coarse-grind to the pot. Bring to a boil, then reduce to the lowest simmer. Cook partially covered for 4–5 hours until meat is fork-tender.
 
-* **Pressure Option:** Transfer to a 12-qt pressure cooker; cook on High Pressure for 35 minutes, and allow the cooker to release naturally.
+- **Pressure Option:** Transfer to a 12-qt pressure cooker; cook on High Pressure for 35 minutes, and allow the cooker to release naturally.
 
 **Phase 4a: Second Browning.** At approximately hour 3, heat a separate skillet with a small amount of oil until shimmering. Sear the reserved 225 g of coarse-grind beef until a hard crust forms. Fold into the pot for the final stretch of the simmer.
 
@@ -82,22 +82,25 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 ### Chef's Notes
 
-* **The "Wait" Factor:** Chili is a colloidal suspension that improves as proteins and fats stabilize. The Cold-Cure phase allows full flavor integration and is essential for competition entry.
-* **Optional Heat Addition:** For a brighter, sharper heat note, add 2–3 dried Cascabel peppers — toasted, rehydrated, and blended — to the chili paste in Phase 4. Cascabel adds a nutty, slightly smoky heat that cuts through the richness without overwhelming the umami layers.
-* **Guk-ganjang:** Korean aged soy sauce is fermented from soybeans only (no wheat) and is significantly funkier and more intense than Japanese soy. A little goes a long way. Look for it at Asian specialty markets.
-* **Sazón Substitute:** If Sazón with Culantro y Achiote packets are unavailable, search online for a homemade Sazón recipe. The key components are annatto (achiote), coriander, cumin, garlic powder, and salt.
-* For competition service, hold above 140°F and stir occasionally to maintain nappé and prevent scorching.
+- **The "Wait" Factor:** Chili is a colloidal suspension that improves as proteins and fats stabilize. The Cold-Cure phase allows full flavor integration and is essential for competition entry.
+- **Optional Heat Addition:** For a brighter, sharper heat note, add 2–3 dried Cascabel peppers — toasted, rehydrated, and blended — to the chili paste in Phase 4. Cascabel adds a nutty, slightly smoky heat that cuts through the richness without overwhelming the umami layers.
+- **Guk-ganjang:** Korean aged soy sauce is fermented from soybeans only (no wheat) and is significantly funkier and more intense than Japanese soy. A little goes a long way. Look for it at Asian specialty markets.
+- **Sazón Substitute:** If Sazón with Culantro y Achiote packets are unavailable, search online for a homemade Sazón recipe. The key components are annatto (achiote), coriander, cumin, garlic powder, and salt.
+- For competition service, hold above 140°F and stir occasionally to maintain nappé and prevent scorching.
 
 ### Glossary
 
-* **Nappé:** A sauce thick enough to coat the back of a spoon.
-* **Maillard Reaction:** The chemical reaction between amino acids and sugars that creates browned flavors.
-* **Blooming:** Toasting spices in fat to activate volatile oils.
-* **Colloidal Suspension:** A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
-* **Fond:** The browned bits stuck to the bottom of the pot after searing, packed with concentrated flavor.
-* **Guk-ganjang:** A traditional Korean soy sauce made only from fermented soybeans and brine, with a deeper, more complex flavor than standard soy sauce.
+- **Nappé:** A sauce thick enough to coat the back of a spoon.
+- **Maillard Reaction:** The chemical reaction between amino acids and sugars that creates browned flavors.
+- **Blooming:** Toasting spices in fat to activate volatile oils.
+- **Colloidal Suspension:** A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
+- **Fond:** The browned bits stuck to the bottom of the pot after searing, packed with concentrated flavor.
+- **Guk-ganjang:** A traditional Korean soy sauce made only from fermented soybeans and brine, with a deeper, more complex flavor than standard soy sauce.
+
 ## Keywords
+
 Texas-Style Chili, Umami, Fermented, Beef, Demi-Glace, Cocoa, Guinness, Searing, Maillard Reaction, Competition, Chili Paste
 
 ## Category
+
 cuisine: American | style: Competition

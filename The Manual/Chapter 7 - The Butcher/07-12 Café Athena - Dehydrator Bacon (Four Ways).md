@@ -19,10 +19,10 @@ Commercial hickory-smoked bacon carries a head start — it's already cured, alr
 - Set dehydrator to 160°F/71°C and allow to preheat
 - Line dehydrator trays — do not overlap strips
 
-
 ## Ingredients
 
 ### The Base Brine (Shared by All Four Profiles)
+
 *Scale to fully submerge your bacon — this ratio is per 1 lb/450 g of strips*
 
 - 240 ml (1 cup) regular soy sauce
@@ -56,7 +56,6 @@ Commercial hickory-smoked bacon carries a head start — it's already cured, alr
 - 3 g (1 tsp) smoked paprika
 - 2 g (½ tsp) coarse black pepper
 - 2 g (½ tsp) garlic powder
-
 
 ### Profile 4 — Asian-Leaning (Dry Rub)
 
@@ -98,7 +97,6 @@ Run the dehydrator at 160°F/71°C. Begin checking at the 6-hour mark.
 
 Thick-cut strips will typically require 7–10 hours depending on ambient humidity and dehydrator air circulation. Do not rush this.
 
-
 ### Phase 5 – Rest & Set
 
 Remove finished strips to a wire rack and allow to cool completely at room temperature — minimum 20 minutes. Strips will firm further as residual fat solidifies.
@@ -121,8 +119,11 @@ Remove finished strips to a wire rack and allow to cool completely at room tempe
 - **Gochugaru:** Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - **Five Spice:** A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
 - **Mise en Place:** "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
+
 ## Keywords
+
 Dehydration, Bacon, Brining, Soy Sauce, Smoke, Flavor Infusion, Fermented, Umami, Snackable, Dry Rub
 
 ## Category
+
 cuisine: Global | style: Technique Folio

@@ -67,8 +67,11 @@ True to its name (*sable* means "sand" in French), this dough prioritizes tender
 
 - **Short:** A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - **Confectioners' Sugar:** Sugar ground to a fine dust with a small amount of cornstarch; used here to prevent the gritty texture of granulated sugar.
+
 ## Keywords
+
 Shortbread, Pastry, Butter, Egg Yolks, French, Gluten-Free, Sand, Baking, Crumb, Tart
 
 ## Category
+
 cuisine: French | style: Pastry

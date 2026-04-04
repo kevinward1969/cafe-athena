@@ -64,17 +64,25 @@ const { title, subtitle, part, currentPage, chapters } = Astro.props;
 
           <div class="flex flex-col gap-2">
             {ch.recipes.map(recipe => (
-              <a 
+              <a
                 href={`/${recipe.id}`}
-                class="recipe-list-item flex items-center justify-between p-4 rounded-lg bg-white/50 hover:bg-white border border-transparent hover:border-[#e0d8cc] transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+                class="recipe-list-item group flex items-center justify-between p-4 rounded-lg bg-white/50 hover:bg-white border border-transparent hover:border-[#e0d8cc] hover:shadow-sm transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
               >
                 <div class="flex items-center gap-4">
                   <span class="font-mono text-sm font-semibold text-[#c9a96e] w-12 shrink-0">{recipe.data.index}</span>
-                  <span class="font-heading text-xl text-[#1a1a2e] font-medium">{recipe.data.title}</span>
+                  <div class="flex items-center gap-2">
+                    <span class="font-heading text-xl text-[#1a1a2e] font-medium">{recipe.data.title}</span>
+                    {recipe.data.type === 'technique' && (
+                      <span class="hidden sm:inline text-[10px] font-bold tracking-widest uppercase text-[#6b6b7b]/50 border border-[#e0d8cc] rounded px-1.5 py-0.5">Technique</span>
+                    )}
+                  </div>
                 </div>
-                {recipe.data.heroImage && (
-                  <span class="text-lg opacity-80" aria-label="Has photo">📸</span>
-                )}
+                <div class="flex items-center gap-2.5 shrink-0 ml-4">
+                  {recipe.data.heroImage && (
+                    <svg class="text-[#6b6b7b]/30" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Has photo"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+                  )}
+                  <svg class="text-[#e0d8cc] group-hover:text-[#c9a96e] transition-colors duration-300" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                </div>
               </a>
             ))}
             {ch.recipes.length === 0 && (

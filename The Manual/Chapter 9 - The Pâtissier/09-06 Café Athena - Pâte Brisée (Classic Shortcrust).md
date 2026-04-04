@@ -71,8 +71,11 @@ Gather the smeared dough pieces back together. They should now bond into a cohes
 - **Sablage:** The "sanding" method of mixing fat into flour until it resembles sand, coating the proteins to shorten the gluten strands.
 - **Fraisage:** A French technique of smearing dough with the heel of the hand to blend fat and flour without overworking the gluten.
 - **Blind Bake:** Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.
+
 ## Keywords
+
 Shortcrust, Pastry, Butter, Flour, Fat, Gluten Inhibition, Fraisage, Sablage, Baking, Technique
 
 ## Category
+
 cuisine: French | style: Technique Folio

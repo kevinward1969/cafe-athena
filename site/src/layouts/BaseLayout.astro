@@ -97,12 +97,31 @@ const navItems = [
     <slot />
   </main>
 
-  <footer class="mt-24 py-12 px-6 bg-[#1a1a2e] text-[#f5f0e8] text-center border-t-4 border-[#c9a96e]">
-    <div class="max-w-7xl mx-auto">
-      <div class="font-heading text-2xl font-bold tracking-widest uppercase mb-2">
-        Café <span class="text-[#c9a96e]">Athena</span>
+  <footer class="mt-24 bg-[#1a1a2e] text-[#f5f0e8] border-t-4 border-[#c9a96e]">
+    <div class="max-w-7xl mx-auto px-6 py-12 md:py-16">
+      <div class="flex flex-col md:flex-row justify-between items-start gap-8 mb-10">
+
+        <!-- Brand -->
+        <div>
+          <div class="font-heading text-2xl font-bold tracking-widest uppercase mb-1">
+            Café <span class="text-[#c9a96e]">Athena</span>
+          </div>
+          <p class="font-heading italic text-[#e0d8cc]/50 text-lg">The Manual</p>
+        </div>
+
+        <!-- Footer Nav -->
+        <nav class="flex flex-wrap gap-x-8 gap-y-3" aria-label="Footer navigation">
+          <a href="/academy" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Academy</a>
+          <a href="/brigade" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Brigade</a>
+          <a href="/larder" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Larder</a>
+          <a href="/glossary" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Glossary</a>
+          <a href="/search" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Search</a>
+        </nav>
       </div>
-      <p class="text-sm text-[#e0d8cc]/70 italic font-heading text-xl">The Manual — Technique & Theory · The Brigade</p>
+
+      <div class="border-t border-[#e0d8cc]/10 pt-6 text-center">
+        <p class="text-xs text-[#e0d8cc]/25 tracking-widest uppercase">A living codex of culinary technique &amp; theory</p>
+      </div>
     </div>
   </footer>
 

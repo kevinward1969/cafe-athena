@@ -72,8 +72,11 @@ By borrowing the classical "sacrificial vegetable" technique, we infuse the wine
 * **Lardons:** Strips of slab bacon or salt pork, usually poached or rendered to create a cooking fat.
 * **Pincage:** The technique of cooking tomato paste in fat until it caramelizes/darkens, removing acidity and adding depth.
 * **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
+
 ## Keywords
+
 Braising, Red Wine, Short Ribs, Gelatin, Reduction, Bacon, Leeks, Wine, French, Umami
 
 ## Category
+
 cuisine: French | style: Technique Folio

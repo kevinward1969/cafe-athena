@@ -1,6 +1,6 @@
 # Café Athena - Sous Vide Chicken Liver Mousse
 
-## A perfectly smooth, aerated forcemeat topped with a ruby port wine gelée, using thermal precision to eliminate the "grainy" texture of traditional methods.
+## A perfectly smooth, aerated forcemeat topped with a ruby port wine gelée, using thermal precision to eliminate the "grainy" texture of traditional methods
 
 Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 60 min | Set: 4–12 hr
 
@@ -61,8 +61,11 @@ Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 60 min | Set: 4–12 hr
 * **Forcemeat:** A mixture of ground, lean meat emulsified with fat.
 * **Au Sec:** "Until dry." To cook a liquid until it has nearly evaporated.
 * **Bloom:** To hydrate gelatin in cold water before heating, ensuring it dissolves evenly without clumping.
+
 ## Keywords
+
 Sous Vide, Chicken Liver, Mousse, Emulsion, Gelée, Port Wine, Fat-in-Water, Pâté, Thermal Precision, Fermented
 
 ## Category
+
 cuisine: French | style: Technique Folio

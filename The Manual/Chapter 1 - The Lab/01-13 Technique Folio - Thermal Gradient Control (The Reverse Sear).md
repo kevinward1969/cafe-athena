@@ -51,8 +51,11 @@ The Reverse Sear utilizes a low thermal gradient. By keeping the oven temperatur
 * **Desiccation:** The removal of moisture. Essential for efficient browning.
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 * **Dry Brine:** Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
+
 ## Keywords
+
 Reverse Sear, Steak, Thermal Gradient, Low-Temperature Cooking, High-Heat Sear, Maillard Reaction, Dry Brining, Precision Cooking, Meat Science, Sear, Doneness
 
 ## Category
+
 cuisine: Global | style: Technique Folio

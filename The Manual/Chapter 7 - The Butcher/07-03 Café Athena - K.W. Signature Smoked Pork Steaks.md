@@ -78,8 +78,11 @@ Yield: 4 servings | Prep: 1 hr 45 min | Cook: 1.5–2 hr | Total: ~4 hr
 * **Pellicle:** A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to.
 * **Offset Method:** A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 * **Hydrolysis:** The chemical breakdown of a compound due to reaction with water; in cooking, specifically the breakdown of tough collagen into soft gelatin using heat and moisture.
+
 ## Keywords
+
 Smoked Pork, Pork Shoulder, Smoke, Garlic, Citrus, Herb Bark, Vinegar, Worcestershire, Charcoal, Wood Smoke
 
 ## Category
+
 cuisine: Global | style: Technique Folio

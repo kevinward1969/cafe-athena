@@ -89,8 +89,11 @@ Refrigerate the log for at least **2 hours**.
 - **Beurre Composé:** "Compound Butter." Butter mixed with supplementary ingredients used to season dishes.
 - **Plasticity:** The property of a solid material to undergo permanent deformation under load; for butter, the "workable" range between solid and melted.
 - **Torchon:** "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter logs.
+
 ## Keywords
+
 Butter, Emulsion, Fat Plasticity, Herb, Miso, Chili, Citrus, Salt, Pastry, Technique
 
 ## Category
+
 cuisine: French | style: Technique Folio

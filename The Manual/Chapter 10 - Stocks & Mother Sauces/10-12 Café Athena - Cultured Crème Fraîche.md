@@ -77,8 +77,11 @@ Once set, remove the cheesecloth and seal with a solid airtight lid. Move the ja
 - **Inoculation:** The introduction of bacteria (the starter) into a medium (the cream) to begin fermentation.
 - **Mesophilic:** Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
 - **Ultra-Pasteurized:** A process of heating milk to 138°C (280°F) for 2 seconds. It extends shelf life but damages the proteins required for cheese and curd making.
+
 ## Keywords
+
 Fermentation, Crème Fraîche, Dairy, Buttermilk, Emulsion, Pasteurization, Microbial, Texture, Sauce, Cultured
 
 ## Category
+
 cuisine: Global | style: Technique Folio

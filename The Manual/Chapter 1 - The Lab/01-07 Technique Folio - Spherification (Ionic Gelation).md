@@ -66,8 +66,11 @@ Use these starting percentages to formulate your own recipes.
    * Bring the spoon close to the surface of the bath and pour rapidly with a "wrist flick" to drop the liquid as a single coherent blob.
 4. **Cook:** Let the spheres float in the bath for 2 minutes. Do not let them touch the bottom or each other.
 5. **Rinse & Serve:** Using a slotted spoon, transfer the spheres to a bowl of clean water to rinse off excess alginate. Serve immediately.
+
 ## Keywords
+
 Spherification, Ionic Gelation, Sodium Alginate, Calcium, Hydrocolloids, Alginate, Gelation, Molecular Gastronomy, Emulsification, Technique Folio
 
 ## Category
+
 cuisine: Asian-Fusion | style: Technique Folio

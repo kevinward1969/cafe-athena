@@ -7,13 +7,17 @@ Use this file to quickly set up your Claude Desktop project. Copy the exact text
 ## STEP 1: Project Name & Description
 
 ### Project Name (Required)
+
 Copy exactly:
+
 ```
 Café Athena - Recipe Development & Documentation
 ```
 
 ### Project Description (Optional but recommended)
+
 Copy exactly:
+
 ```
 AI Chef for iterative recipe development, manuscript-ready formatting, and culinary technique education. Three modes: The Lab (development), The Manual (publication), The MasterClass (education).
 ```
@@ -37,26 +41,32 @@ In Claude project → **Attach Files** button
 Attach these 6 files in this exact order:
 
 ### File 1: Recipe-Format-Standard.md
+
 **Location:** `/Guidance/Recipe-Format-Standard.md`  
 **Purpose:** Master formatting rules for all recipe outputs
 
 ### File 2: Cafe-Athena-Workflow-Guide.md
+
 **Location:** `/Guidance/Cafe-Athena-Workflow-Guide.md`  
 **Purpose:** Strategic workflow methodology (Lab → Manual → Publish)
 
 ### File 3: Recipe-Example.md
+
 **Location:** `/Guidance/Recipe-Example.md`  
 **Purpose:** Sample recipe following the standard (reference for Mode 1 & 2)
 
 ### File 4: Technique-Folio-Example.md
+
 **Location:** `/Guidance/Technique-Folio-Example.md`  
 **Purpose:** Sample technique folio (reference for Mode 3)
 
 ### File 5: Technique_Folio_Template_v1.md
+
 **Location:** `/Guidance/Technique_Folio_Template_v1.md`  
 **Purpose:** Structural template for all technique folios (Mode 3)
 
 ### File 6: Cafe-Athena-The-Manual-Current-Version.md ⭐ CRITICAL
+
 **Location:** `/The Manual/Cafe-Athena-The-Manual-Current-Version.md`  
 **Purpose:** Master index of all cookbook content (required for Mode 2 indexing)
 
@@ -70,7 +80,8 @@ In your new Claude project, try:
 Let's work on a new pasta recipe.
 ```
 
-### Expected Response:
+### Expected Response
+
 ```
 I understand you want to develop a new pasta recipe. Let's proceed in Mode 1: The Lab.
 

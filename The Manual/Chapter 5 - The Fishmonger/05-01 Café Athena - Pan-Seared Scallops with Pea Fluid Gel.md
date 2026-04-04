@@ -58,8 +58,11 @@ This dish demonstrates the power of hydrocolloids to transform a standard vegeta
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 * **Arrosé:** The French technique of basting meat or fish with foaming butter and aromatics during the final stages of cooking.
 * **Syneresis:** The expulsion of liquid from a gel, often seen as "weeping" or water pooling around a purée.
+
 ## Keywords
+
 Pan-seared scallops, Pea purée, Hydrocolloids, Agar-agar, Xanthan gum, Shear-thinning, Gel-then-shear, Molecular gastronomy, Vegetable purée, Fluid gel
 
 ## Category
+
 cuisine: Asian-Fusion | style: Technique Folio

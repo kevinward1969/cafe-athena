@@ -89,8 +89,11 @@ Once all butter is incorporated, the sauce should be opaque, glossy, and thick e
 - **Monte au Beurre:** "Mount with butter." The technique of finishing a sauce by whisking in cold butter to add shine, thickness, and flavor.
 - **Emulsion:** A mixture of two liquids that don't normally mix (like oil and water), stabilized by agitation or a bonding agent.
 - **Nappé:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
+
 ## Keywords
+
 Red Wine, Emulsion, Butter, Mushroom, Reduction, Aromatics, Classical, Technique, Fine Dining, Earthy
 
 ## Category
+
 cuisine: French | style: Classical

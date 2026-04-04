@@ -37,8 +37,11 @@ In the professional kitchen, this technique is utilized to create garnishes that
    * **Visual:** The compressed cubes should be translucent and deep green.
    * **Texture:** The compressed cubes should feel dense and "snappy," while the control remains airy and soft.
    * **Flavor:** The vinegar should be present throughout the entire cube, not just on the surface.
+
 ## Keywords
+
 Vacuum Compression, Cellular Architecture, Marination, Hydrostatic Infusion, Texture Modification, Pickling, Fruits, Vegetables, Translucency, Culinary Technique
 
 ## Category
+
 cuisine: Global | style: Technique Folio

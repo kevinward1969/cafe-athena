@@ -77,8 +77,11 @@ Traditional Ligurian walnut sauce often suffers from two flaws: the bitter astri
 - **Panade:** A mixture of starch and liquid used to provide structure or moisture to sauces and forcemeats.
 - **Blooming:** The process of heating dried herbs or spices in fat to dissolve their fat-soluble flavor compounds.
 - **Nappé:** A culinary term describing a sauce that is thick enough to coat the back of a spoon.
+
 ## Keywords
+
 Walnut, Pesto, Emulsion, Italian, Liguria, Panade, Starch, Dairy, Olive Oil, Toasted
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

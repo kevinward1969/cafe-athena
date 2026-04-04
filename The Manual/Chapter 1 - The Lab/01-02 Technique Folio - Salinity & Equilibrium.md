@@ -42,8 +42,11 @@
    * *Pile B:* Dry, rigid, white/green.
    * *Pile A:* Wet, glistening, flexible, and sitting in a pool of green liquid.
 4. **Lesson:** You just "cooked" the zucchini without heat. If you had thrown Pile A into a hot pan without drying it, it would have steamed in that liquid instead of searing.
+
 ## Keywords
+
 Salting, Osmosis, Diffusion, Water Management, Protein Denaturation, Vegetables, Meat, Texture, Equilibrium, Brining
 
 ## Category
+
 cuisine: Global | style: Technique Folio

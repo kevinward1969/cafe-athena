@@ -1,6 +1,6 @@
 # Café Athena - Parisian Gnocchi (Pâte à Choux)
 
-## Light, herb-flecked dumplings that bridge the gap between pasta and pastry, featuring a crisp, butter-basted exterior and a cloud-like interior.
+## Light, herb-flecked dumplings that bridge the gap between pasta and pastry, featuring a crisp, butter-basted exterior and a cloud-like interior
 
 Yield: 4 servings | Prep: 30 min | Cook: 20 min | Total: ~50 min
 
@@ -79,8 +79,11 @@ Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and 
 * **Panade:** A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry.
 * **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the mixture.
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+
 ## Keywords
+
 Pâte à Choux, Gnocchi, Dumplings, Pastry, Choux, Butter-basted, French, Egg, Cheese, Herbal, Seared
 
 ## Category
+
 cuisine: French | style: Technique Folio

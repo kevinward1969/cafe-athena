@@ -100,8 +100,11 @@ When the fat has separated from the sauce and floats on top in orange droplets, 
 - **Brunoise:** A very fine dice (approx. 2mm–3mm cubes).
 - **Pincé:** To cook a tomato product (usually paste) in fat until it darkens and caramelizes.
 - **Mantecatura:** The process of vigorously mixing cooked pasta with sauce and fat to create a creamy emulsion.
+
 ## Keywords
+
 Slow Simmer, Meat Emulsion, Ragù, Pancetta, Milk, Wine, Tomato Paste, Stock, Browning, Soffritto
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

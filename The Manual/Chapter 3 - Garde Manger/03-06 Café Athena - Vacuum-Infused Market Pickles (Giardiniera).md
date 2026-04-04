@@ -60,8 +60,11 @@ Yield: 1 liter (1 quart) | Prep: 25 min | Processing: 5 min | Passive: 20 min
 * **Vacuum Compression:** A technique where atmospheric pressure is removed, causing air to exit porous food, and then re-introduced, forcing surrounding liquid into the food.
 * **Lacto-Fermentation:** A biological pickling process using bacteria and time (days/weeks). This recipe is *not* fermentation; it is a direct-acidification pickle.
 * **Equilibrium:** The point where the salt/acid concentration inside the vegetable matches the liquid outside.
+
 ## Keywords
+
 Pickling, Vacuum Infusion, Vegetables, Brine, Fermentation, Serrano Peppers, Jalapeño Peppers, Kosher Salt, Acid, Culinary Technique
 
 ## Category
+
 cuisine: Global | style: Technique Folio

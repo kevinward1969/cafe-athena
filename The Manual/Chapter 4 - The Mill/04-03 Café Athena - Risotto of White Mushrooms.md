@@ -47,8 +47,11 @@
 * **Mantecatura:** The final step of beating cold butter and cheese into risotto off the heat to create a creamy emulsion.
 * **Fold:** To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
 * **Deglaze:** Adding liquid to a hot pan to dissolve the fond (browned bits).
+
 ## Keywords
+
 Risotto, Mushrooms, Italian, Carnaroli Rice, Stock, Sauté, Butter, Parmesan, Herb, Technique
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

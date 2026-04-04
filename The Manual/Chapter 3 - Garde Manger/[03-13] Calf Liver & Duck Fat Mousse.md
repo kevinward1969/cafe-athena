@@ -95,8 +95,11 @@ Once firm, pour the liquid beurre noisette over the top to create an airtight se
 * **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that creates browned, savory flavors.
 * **Prague Powder #1:** A curing salt (93.75% table salt, 6.25% sodium nitrite) used to preserve color and prevent spoilage in charcuterie.
 * **Tamis/Fine-Mesh Bag:** Tools used for "refining" a protein base to remove texture-breaking solids.
+
 ## Keywords
+
 Calf Liver, Duck Fat, Mousse, Emulsification, Beurre Noisette, Gastrique, Cold Butter Emulsion, Prague Powder #1, Fermented, Savory
 
 ## Category
+
 cuisine: French | style: Technique Folio

@@ -72,8 +72,11 @@ Cover and refrigerate for at least **30 minutes** before serving.
 
 - **Sauce Dérivée:** A secondary sauce created by adding ingredients to a Mother Sauce.
 - **Maceration:** Softening or breaking down food by soaking it in a liquid or seasoning.
+
 ## Keywords
+
 Emulsification, Mayonnaise, Anchovy, Cornichon, Herb, French, Caper, Texture, Sauce, Flavor, Classical
 
 ## Category
+
 cuisine: French | style: Classical

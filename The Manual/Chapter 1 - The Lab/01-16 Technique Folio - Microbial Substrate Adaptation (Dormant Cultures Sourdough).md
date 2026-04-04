@@ -25,8 +25,11 @@
 * **Note:** Adding Rye later is actually a great trick to boost activity if your starter becomes sluggish, as the extra nutrients act like "microbial steroids."
 
 **Summary Answer** If you use Rye or Whole Wheat *now* (to activate), you risk the wild yeast on the flour killing off the SF culture packet. Use AP Flour to wake it up. Use Rye/Whole Wheat blends to maintain it later if you desire a more sour, complex flavor.
+
 ## Keywords
+
 Sourdough, Microbial Culture, Fermentation, Wild Yeast, Lactic Acid, Acetic Acid, Flour, Symbiotic Culture, Enzyme, Starter
 
 ## Category
+
 cuisine: Global | style: Technique Folio

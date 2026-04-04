@@ -1,6 +1,6 @@
 # Café Athena - Braised "Boursin & Bacon" Meatball Subs
 
-## Tender beef-and-pork spheres enriched with garlic-herb cheese, braised in a reduced tomato soffritto, and finished with a torch-fired provolone crust.
+## Tender beef-and-pork spheres enriched with garlic-herb cheese, braised in a reduced tomato soffritto, and finished with a torch-fired provolone crust
 
 **Yield:** 24–30 meatballs (6–8 subs) | Prep: 45 min | Chill: 1 hr | Cook: 1.5 hr
 
@@ -82,8 +82,11 @@
 * **Soffritto:** An aromatic flavor base made by gently cooking vegetables (onions, garlic) in fat.
 * **Fond:** The caramelized brown bits stuck to the bottom of a pan after searing meat or vegetables; a concentrated source of flavor.
 * **Panade:** A mixture of starch and liquid used to bind ground meat and maintain moisture.
+
 ## Keywords
+
 Braising, Meatballs, Bacon, Boursin, Tomato, Provolone, Sourdough, Italian, Pork, Garlic
 
 ## Category
+
 cuisine: Italian | style: Weeknight

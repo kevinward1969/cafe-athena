@@ -25,14 +25,17 @@ Every recipe must follow this strict vertical order:
 The Title Block must be executed as **three distinct, independent lines**. Insert a full blank line (double hard return) between each element.
 
 **Line 1:** **[Agent Name] - [Dish Name]** (Bold Title Case)
+
 - Cafe Athena: **Café Athena - [Dish Name]**
 - VersiChef: **VersiChef - [Dish Name]**
 
 **Line 2:** [One-line descriptor] (Standard Text)
+
 - Describe texture, flavor profile, or defining characteristic
 - Example: "Soft, cake-like cookies featuring nutty beurre noisette, bright citrus, and a lingering, sophisticated heat."
 
 **Line 3:** Yield and Timing metadata
+
 - Format: **Yield:** X servings | **Prep:** X min | **Cook:** X min | **Total:** X min
 - If inactive time exists: **Yield:** X servings | **Prep:** X min | **Inactive:** X hr | **Cook:** X min | **Total:** X hr
 
@@ -45,10 +48,12 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 **Length:** 2–5 sentences
 
 **Content Requirements:**
+
 1. Describe the dish's texture, flavor, and key characteristics
 2. Include one **Teaching Idea** - the "why" behind a key technique used in the recipe
 
 **Format:**
+
 - First 1-3 sentences: Describe what makes this dish special
 - Final sentence or callout: **Teaching Idea:** [Concept]. [Explanation]
 
@@ -66,6 +71,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 **CRITICAL CONSTRAINT:** Mise en Place contains ONLY prep actions that happen BEFORE cooking begins. NO cooking steps belong here.
 
 **Correct Actions:**
+
 - "Dice the onion"
 - "Bloom the gelatin in cold water"
 - "Preheat oven to 425°F/220°C"
@@ -74,6 +80,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 - "Line a baking sheet with parchment"
 
 **INCORRECT - These are cooking steps, NOT mise:**
+
 - "Sauté the onions until translucent" ← This belongs in Method
 - "Reduce the sauce by half" ← This belongs in Method
 - "Cook pasta until al dente" ← This belongs in Method
@@ -85,25 +92,30 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 ## SECTION 4: INGREDIENTS
 
 **Grouping:**
+
 - Group ingredients by component or function
 - Use descriptive headers: "The Dry Mix," "The Wet Base," "The Herb Component," "For Finishing"
 
 **Notation Standard:**
+
 - **Format:** [Weight] g ([Volume]) [Item]
 - **Example:** 210 g (1 ⅔ cups) all-purpose flour
 - **Both units required** for accessibility (weight for precision, volume for convenience)
 
 **Case Rules:**
+
 - Use lowercase for all ingredients unless they contain a proper noun
 - Correct: "all-purpose flour," "extra virgin olive oil," "Diamond Crystal kosher salt"
 - Correct: "San Marzano tomatoes," "Parmigiano-Reggiano"
 
 **Salt Specification:**
+
 - Default: "Diamond Crystal kosher salt"
 - If recipe requires Morton's, specify and note conversion
 - Never use generic "salt" - always specify brand/type
 
 **Special Notations:**
+
 - "(weighed before browning)" when ingredient changes state
 - "(room temperature)" when temperature matters for technique
 - "(zest only)" or "(juice only)" for citrus
@@ -113,10 +125,12 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 ## SECTION 5: METHOD
 
 **Structure:**
+
 - Break into logical **phases** with **Bold Title Case** subheadings
 - Example: **Phase 1: Brown the Butter**, **Phase 2: Build the Emulsion**, **Phase 3: Bake**
 
 **Writing Style:**
+
 - Imperative mood: "Add," "Whisk," "Simmer," "Reduce"
 - Active, direct, concise
 
@@ -132,6 +146,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 **Why:** The extended mixing time incorporates air, which creates a lighter texture in the final cookie."
 
 **Sensory Cues - What to Include:**
+
 - Visual: "until golden brown," "until the edges set," "until the mixture resembles wet sand"
 - Textural: "until the dough is no longer sticky," "until it coats the back of a spoon (nappé)"
 - Auditory: "until the sizzling subsides," "until you hear a gentle simmer"
@@ -147,6 +162,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 **Purpose:** Anticipate user questions and provide practical guidance
 
 **Common Topics:**
+
 - "Can I freeze this?"
 - "What if I don't have [ingredient]?"
 - "Can I make this ahead?"
@@ -164,10 +180,12 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 **Content:** Define any technical culinary terms used in the Method
 
 **Format:**
+
 - **Term:** Definition
 - Keep definitions concise (1-2 sentences)
 
 **Examples:**
+
 - **Blooming:** The process of briefly heating spices in fat to release essential oils and amplify flavor.
 - **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty flavor.
 - **Nappé:** The consistency where a sauce coats the back of a spoon and a clear line remains when you draw your finger through it.
@@ -240,19 +258,23 @@ cuisine: Italian | style: Rustic | dietary: Vegetarian
 ## UNIVERSAL FORMATTING STANDARDS
 
 **Temperatures:**
+
 - Always dual format: Fahrenheit / Celsius
 - Use standard text, not LaTeX: "425°F/220°C"
 
 **Measurements:**
+
 - Metric and US customary for ingredients
 - Prefer grams for precision, provide volume equivalent
 
 **Typography:**
+
 - Use proper fractions: ⅔, ¼, ½ (not 2/3, 1/4, 1/2)
 - Use degree symbol: ° (not asterisk or "degrees")
 - Use en-dash for ranges: 12–14 minutes (not hyphen: 12-14)
 
 **Terminology:**
+
 - Use proper culinary French/Italian terms
 - Always explain in Glossary
 - Example: Use "mise en place" but define it
@@ -264,6 +286,7 @@ cuisine: Italian | style: Rustic | dietary: Vegetarian
 **CRITICAL RULE:** Never include system-inserted citation markers
 
 **Forbidden:**
+
 - [source]
 - [1], [2], [3]
 - [cite]
@@ -277,9 +300,11 @@ cuisine: Italian | style: Rustic | dietary: Vegetarian
 ## AGENT-SPECIFIC NOTES
 
 **Cafe Athena:**
+
 - After generating recipe, provide "INDEX DATA" block with Chapter and Title
 - Recipes are for permanent cookbook archive
 
 **VersiChef:**
+
 - After generating recipe, ask "Do you have any follow-up questions on this technique?"
 - Recipes are for immediate use, may be transferred to Cafe Athena later

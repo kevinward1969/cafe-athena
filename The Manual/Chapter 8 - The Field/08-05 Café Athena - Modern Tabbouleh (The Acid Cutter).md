@@ -77,8 +77,11 @@ This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Inst
 - **Tomato Water:** The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
 - **Brunoise:** A culinary knife cut in which the food item is first julienned and then turned a quarter turn and diced, producing cubes of about 3 mm or less.
 - **Emulsify:** To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
+
 ## Keywords
+
 Bulgur, Lemon Juice, Tomato Water, Cucumber, Parsley, Mint, Acid Hydration, Grain Salad, Refreshing, Fine Dicing
 
 ## Category
+
 cuisine: Mediterranean | style: Technique Folio

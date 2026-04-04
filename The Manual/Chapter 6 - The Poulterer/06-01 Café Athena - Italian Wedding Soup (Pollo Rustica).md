@@ -64,8 +64,11 @@
 * **Fond:** The caramelized browned bits stuck to the bottom of a pan after searing meat; a major source of flavor.
 * **Mirepoix:** A flavor base made from diced vegetables (usually onions, carrots, and celery).
 * **Deglaze:** Adding liquid to a hot pan to dissolve the fond.
+
 ## Keywords
+
 Italian, Chicken, Meatballs, Couscous, Searing, Risotto, Herbs, Stock, Wine, Parmesan, Maillard, Poultry, Soup, Rustic
 
 ## Category
+
 cuisine: Italian | style: Weeknight

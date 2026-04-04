@@ -71,8 +71,11 @@
 * **Confit:** French verb *confire* (to preserve). Cooking food submerged in fat at a low temperature.
 * **Denaturation:** The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
 * **Osmosis:** The movement of water across a cell wall from low salt concentration to high salt concentration.
+
 ## Keywords
+
 Duck, Confit, Salt Cure, Fat Render, Poultry, Preservation, Gelatinization, Umami, French, Traditional, Texture
 
 ## Category
+
 cuisine: French | style: Classical

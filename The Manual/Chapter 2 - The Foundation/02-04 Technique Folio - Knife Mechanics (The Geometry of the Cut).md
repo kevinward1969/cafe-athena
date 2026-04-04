@@ -51,8 +51,11 @@
    * *Pass:* The rings are perfect circles. The board is dry.  
    * *Fail:* The rings are flattened ovals connected by a thread of uncut skin (accordion). The board is wet (juice pressed out).  
 4. **Correction:** If you failed, you are pushing down (crushing) instead of slicing (sliding), or your knife is dull.
+
 ## Keywords
+
 Knife Skills, Geometry, Physics, Cell Wall Integrity, Slice, Draw Slice, Grip, Pinch, Claw, Food Preparation
 
 ## Category
+
 cuisine: Global | style: Technique Folio

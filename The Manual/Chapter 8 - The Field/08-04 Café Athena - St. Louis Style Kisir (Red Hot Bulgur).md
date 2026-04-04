@@ -76,8 +76,11 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 - **Blooming:** The process of briefly heating spices in fat to release essential oils and amplify flavor.
 - **Burghul #1:** The finest grind of cracked wheat. It cooks instantly in hot water and is the standard for *Kisir* and *Tabbouleh*.
 - **Kisir:** A traditional Turkish salad made from fine bulgur, tomato paste, pomegranate molasses, and herbs.
+
 ## Keywords
+
 Bulgur, Kisir, Tomato Paste, BBQ, Spice, Grain, Red Pepper, Mediterranean, St Louis, Spicy
 
 ## Category
+
 cuisine: Mediterranean | style: Weeknight

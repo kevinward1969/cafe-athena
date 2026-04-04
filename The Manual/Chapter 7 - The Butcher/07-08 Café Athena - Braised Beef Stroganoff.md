@@ -2,4 +2,4 @@
 
 > **Note:** This document contains embedded images and was too large to export automatically.
 > Please download it manually from Google Drive:
-> https://docs.google.com/document/d/18L1XjSAC8vKxyCpSZ119NtQjuLWYkxghT6H-D_-ZhCA/edit
+> <https://docs.google.com/document/d/18L1XjSAC8vKxyCpSZ119NtQjuLWYkxghT6H-D_-ZhCA/edit>

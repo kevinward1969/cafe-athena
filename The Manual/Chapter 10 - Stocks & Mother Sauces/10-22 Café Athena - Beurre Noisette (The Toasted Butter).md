@@ -84,10 +84,10 @@ Allow finished butter to cool to room temperature, then refrigerate until fully 
 - **Pan Selection:** Light-colored stainless or enameled interiors are mandatory for accuracy. Non-stick pans are acceptable but the dark surface delays your ability to read the color of the solids accurately. Never use a black carbon steel or cast iron pan for this technique.
 
 - **Butter Fat Content & Quality:** This is where your raw material choice has a direct, measurable impact on flavor.
-   - **Standard American butter (Land O'Lakes, store brand):** ~80% butterfat, ~18% water. Higher water content means more sputtering, longer cook time, and a slightly milder noisette flavor. Perfectly functional.
-   - **Kerrygold / Irish and European-style butters:** ~82–84% butterfat. Less water, richer milk solids, and a more pronounced grassiness from grass-fed cows. The noisette produced is noticeably deeper and more complex. Recommended for applications where the butter is the star (finishing pasta, basting fish).
-   - **High-fat European cultured butters (Plugrá, Beurre d'Isigny, Bordier):** 84–87% butterfat. The cultured tang adds a lactic dimension to the toasted notes. These are the benchmark for pastry applications and compound butters where the flavor is unmasked by other strong ingredients.
-   - **Clarified or ghee as a base:** Do not use. Removing the milk solids before browning defeats the entire purpose — there is nothing left to brown.
+  - **Standard American butter (Land O'Lakes, store brand):** ~80% butterfat, ~18% water. Higher water content means more sputtering, longer cook time, and a slightly milder noisette flavor. Perfectly functional.
+  - **Kerrygold / Irish and European-style butters:** ~82–84% butterfat. Less water, richer milk solids, and a more pronounced grassiness from grass-fed cows. The noisette produced is noticeably deeper and more complex. Recommended for applications where the butter is the star (finishing pasta, basting fish).
+  - **High-fat European cultured butters (Plugrá, Beurre d'Isigny, Bordier):** 84–87% butterfat. The cultured tang adds a lactic dimension to the toasted notes. These are the benchmark for pastry applications and compound butters where the flavor is unmasked by other strong ingredients.
+  - **Clarified or ghee as a base:** Do not use. Removing the milk solids before browning defeats the entire purpose — there is nothing left to brown.
 
 - **Yield Reality:** Expect 170–180 g of finished butter from 226 g raw. The loss is almost entirely water. For recipes requiring a precise weight of noisette, always start with more butter than you think you need.
 
@@ -103,8 +103,11 @@ Allow finished butter to cool to room temperature, then refrigerate until fully 
 - **Abort Vessel:** A heat-proof bowl used to immediately halt cooking by receiving the finished butter away from the heat source.
 - **Compound Butter (Beurre Composé):** Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
 - **Butterfat:** The fat component of butter, expressed as a percentage. Higher butterfat means less water, richer flavor, and faster browning.
+
 ## Keywords
+
 Butter, Toasted Butter, Maillard Reaction, French Cuisine, Flavor Development, Caramelization, Fat, Milk Solids, Aromatics, Culinary Technique
 
 ## Category
+
 cuisine: French | style: Technique Folio

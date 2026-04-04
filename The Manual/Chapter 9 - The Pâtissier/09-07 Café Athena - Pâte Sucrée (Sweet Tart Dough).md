@@ -75,8 +75,11 @@ While savory doughs limit gluten development by coating flour in fat (sablage), 
 - **Creaming Method:** A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - **Hygroscopic:** The ability of a substance (like sugar or salt) to attract and hold water molecules from the surrounding environment.
 - **Plasticity:** The consistency of fat where it is solid enough to hold shape but soft enough to be molded; essential for proper emulsification.
+
 ## Keywords
+
 Sweet Tart Dough, Creaming Method, Emulsification, Butter, Sugar, Almond Flour, Pastry, Tart Shell, Gluten Development, Baking
 
 ## Category
+
 cuisine: French | style: Pastry

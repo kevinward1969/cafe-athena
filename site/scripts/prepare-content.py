@@ -144,13 +144,15 @@ def process_chapter(chapter_dir):
         display_title = extract_title(filename, index)
         content_type = determine_type(filename)
 
-        # Check for hero image
+        # Check for hero image — prefer .webp over .png
         hero_image = ''
-        hero_path = os.path.join(chapter_dir, f'{index}.png')
-        if os.path.exists(hero_path):
-            hero_image = f'{index}.png'
-            shutil.copy2(hero_path, os.path.join(IMAGES_DIR, f'{index}.png'))
-            image_count += 1
+        for ext in ('webp', 'png'):
+            hero_path = os.path.join(chapter_dir, f'{index}.{ext}')
+            if os.path.exists(hero_path):
+                hero_image = f'{index}.{ext}'
+                shutil.copy2(hero_path, os.path.join(IMAGES_DIR, f'{index}.{ext}'))
+                image_count += 1
+                break
 
         # Read original content
         with open(md_file, 'r', encoding='utf-8') as f:

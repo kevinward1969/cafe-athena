@@ -1,6 +1,6 @@
 # Café Athena - Winter Citrus & Shaved Fennel Salad
 
-## Razor-thin vegetables and bright citrus suprèmes dressed in a shear-stable vinaigrette.
+## Razor-thin vegetables and bright citrus suprèmes dressed in a shear-stable vinaigrette
 
 Yield: 4 servings | Prep: 30 min | Cook: 0 min
 
@@ -59,8 +59,11 @@ Yield: 4 servings | Prep: 30 min | Cook: 0 min
 * **Supreme:** A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.
 * **Shear Power:** The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
 * **Turgor Pressure:** The pressure of water inside a plant cell pushing against the cell wall. High turgor = crisp vegetables.
+
 ## Keywords
+
 Shaved Fennel, Citrus Salad, Vinaigrette, Xanthan Gum, Emulsification, Mediterranean, Pastry, Technique, High-Shear, Raw Vegetables
 
 ## Category
+
 cuisine: Mediterranean | style: Technique Folio

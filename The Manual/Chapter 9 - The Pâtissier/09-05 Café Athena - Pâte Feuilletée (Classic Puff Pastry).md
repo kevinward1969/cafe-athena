@@ -79,8 +79,11 @@ True puff pastry is a marvel of physics, not chemistry. There is no yeast or bak
 - **Détrempe:** The base ball of dough that encases the butter in laminated pastries.
 - **Beurrage:** The prepared block of butter (often mixed with a little flour) used for lamination.
 - **Plasticity:** The property of a solid fat to be shaped or molded without breaking or melting.
+
 ## Keywords
+
 Puff Pastry, Lamination, Butter, Flour, Dough, French, Technique, Pastry, Cold Butter, Mechanical
 
 ## Category
+
 cuisine: French | style: Technique Folio

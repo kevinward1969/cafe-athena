@@ -48,8 +48,11 @@ This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Tr
 * **Chelate:** The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
 * **Bloom:** Heating spices in fat or a dry pan to release volatile aromatic oils.
 * **Mantecatura:** Italian term for the vigorous tossing of pasta with fat and cheese to create a creamy emulsion.
+
 ## Keywords
+
 Cacio e Pepe, Emulsification, Cheese, Pasta, Sodium Citrate, Pepper, Italian, Molecular Gastronomy, Technique, Modern Cuisine
 
 ## Category
+
 cuisine: Italian | style: Technique Folio

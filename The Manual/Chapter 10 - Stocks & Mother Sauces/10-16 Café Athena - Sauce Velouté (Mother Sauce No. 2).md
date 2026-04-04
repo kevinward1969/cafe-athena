@@ -93,8 +93,11 @@ Remove the herbs. Pass the sauce through a Chinois (fine-mesh strainer) into a c
 - **Dépouillage:** The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - **Nappé:** The consistency of a liquid that is thick enough to coat the back of a spoon.
 - **Cartouche:** A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
+
 ## Keywords
+
 Velouté, Roux, Stock, Chicken, Butter, Flour, Savory, Classical, Emulsification, Reduction, Simmer, Skimming, Technique, Pastry
 
 ## Category
+
 cuisine: French | style: Classical

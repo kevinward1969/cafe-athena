@@ -1,6 +1,6 @@
-**CAFÉ ATHENA \- WORKFLOW GUIDE** 
+**CAFÉ ATHENA \- WORKFLOW GUIDE**
 
-Strategic methodology for dish development and technical documentation. 
+Strategic methodology for dish development and technical documentation.
 
 **WORKFLOW A: THE NEW RECIPE CYCLE (THE LAB TO PRODUCTION)**
 
@@ -21,4 +21,4 @@ Strategic methodology for dish development and technical documentation.
 
 * **PHASE 1: DOCUMENT CREATION**. Create a new Google Doc for every finalized recipe or technical folio.  
 * **PHASE 2: DATA TRANSFER**. Populate the new document with the content and title provided by the GEM.  
-* **PHASE 3: MASTER INDEX UPDATE**. Ensure the new title is added to **CAFE ATHENA \- THE MANUAL \- CURRENT VERSION** to maintain organizational integrity. 
+* **PHASE 3: MASTER INDEX UPDATE**. Ensure the new title is added to **CAFE ATHENA \- THE MANUAL \- CURRENT VERSION** to maintain organizational integrity.

@@ -75,8 +75,11 @@ While classic puff relies on a precise "lock-in" of a butter block, Rough Puff r
 - **Demi-Feuilletée:** "Half-Leaf." A French term for simplified puff pastry methods.
 - **Blitz Method:** A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - **Letter Fold:** A standard folding technique where dough is folded in thirds, like a business letter.
+
 ## Keywords
+
 Puff Pastry, Lamination, Butter, Dough, Gluten, Frozen Butter, Technique, Flaky, Savory, Pastry
 
 ## Category
+
 cuisine: French | style: Technique Folio

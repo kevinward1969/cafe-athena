@@ -83,8 +83,11 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 - **Blooming:** The process of briefly heating spices in fat to release essential oils and amplify flavor.
 - **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty flavor.
 - **Turbinado:** A coarse, raw sugar that retains some molasses. Its large crystal size prevents it from melting quickly in the oven, providing texture.
+
 ## Keywords
+
 Brown Butter, Cheesecake, Cookies, Citrus, Red Pepper, Baking Powder, Cream Cheese, Turbinado Sugar, Lemon, Spice Blooming
 
 ## Category
+
 cuisine: Asian-Fusion | style: Weeknight

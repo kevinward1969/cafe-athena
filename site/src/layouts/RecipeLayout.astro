@@ -11,11 +11,12 @@ interface Props {
   keywords?: string[];
   cuisine?: string;
   style?: string;
+  recipeType?: string;
   prevRecipe?: { slug: string; title: string } | null;
   nextRecipe?: { slug: string; title: string } | null;
 }
 
-const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', prevRecipe, nextRecipe } = Astro.props;
+const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', recipeType = 'recipe', prevRecipe, nextRecipe } = Astro.props;
 const hasHero = heroImage && heroImage.length > 0;
 
 let sectionHref = '/brigade';
@@ -59,8 +60,9 @@ if (chapter === 1 || chapter === 2) {
           />
         </div>
       ) : (
-        <div class="w-full h-[200px] bg-gradient-to-br from-[#1a1a2e] to-[#2d2d44] flex items-center justify-center">
-          <span class="text-6xl opacity-30">🍽</span>
+        <div class="w-full h-[200px] bg-gradient-to-b from-[#f0ece3] to-[#e8e2d9] flex flex-col items-center justify-center border-b border-[#e0d8cc] gap-2">
+          <p class="font-heading text-7xl font-bold text-[#1a1a2e]/[0.06] leading-none tracking-tighter select-none">{index}</p>
+          <p class="font-heading italic text-[10px] text-[#c9a96e]/40 tracking-[0.3em] uppercase select-none">Café Athena</p>
         </div>
       )}
 
@@ -77,11 +79,29 @@ if (chapter === 1 || chapter === 2) {
           {subtitle && <p class="font-heading text-2xl italic text-[#6b6b7b] max-w-2xl mx-auto">{subtitle}</p>}
         </header>
 
-        <div class="w-16 h-0.5 bg-[#e0d8cc] mx-auto mb-16"></div>
+        <div class="w-16 h-0.5 bg-[#e0d8cc] mx-auto mb-8"></div>
+
+        <!-- Metadata tags -->
+        {(recipeType === 'technique' || cuisine || recipeStyle || keywords.length > 0) && (
+          <div class="flex flex-wrap gap-2 justify-center mb-12">
+            {recipeType === 'technique' && (
+              <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-widest uppercase bg-[#1a1a2e] text-[#f5f0e8]">Technique</span>
+            )}
+            {cuisine && (
+              <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#c9a96e]/10 text-[#a8873f] border border-[#c9a96e]/20">{cuisine}</span>
+            )}
+            {recipeStyle && (
+              <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#1a1a2e]/5 text-[#1a1a2e]/50 border border-[#1a1a2e]/10">{recipeStyle}</span>
+            )}
+            {keywords.map(kw => (
+              <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-white border border-[#e0d8cc] text-[#6b6b7b]">{kw}</span>
+            ))}
+          </div>
+        )}
 
         <!-- Markdown Body -->
         <div
-          class="prose prose-lg mx-auto prose-headings:font-heading prose-headings:font-bold prose-headings:text-[#1a1a2e] prose-h2:text-3xl prose-h3:text-2xl prose-p:text-[#6b6b7b] prose-p:leading-relaxed prose-a:text-[#c9a96e] prose-a:no-underline hover:prose-a:underline prose-li:text-[#6b6b7b] prose-strong:text-[#1a1a2e]"
+          class="prose prose-lg mx-auto prose-headings:font-heading prose-headings:font-bold prose-headings:text-[#1a1a2e] prose-h2:text-3xl prose-h3:text-2xl prose-p:text-[#2d2d44] prose-p:leading-relaxed prose-a:text-[#c9a96e] prose-a:no-underline hover:prose-a:underline prose-li:text-[#2d2d44] prose-strong:text-[#1a1a2e]"
           data-pagefind-body
           data-pagefind-meta={`title:${title}, chapter:Chapter ${chapter} – ${chapterName}${cuisine ? `, cuisine:${cuisine}` : ''}${recipeStyle ? `, style:${recipeStyle}` : ''}`}
         >

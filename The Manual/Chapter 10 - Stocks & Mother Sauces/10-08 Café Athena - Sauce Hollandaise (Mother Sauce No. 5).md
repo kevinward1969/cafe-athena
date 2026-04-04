@@ -84,8 +84,11 @@ Taste and adjust acid or salt if necessary. Serve immediately.
 - **Emulsion:** A mixture of two liquids that would ordinarily not mix (oil and water), stabilized by an agent (lecithin in egg yolks).
 - **Shear Force:** Unaligned forces pushing one part of a body in one specific direction, and another part of the body in the opposite direction. In cooking, high-speed blades create shear force to rip fat droplets apart.
 - **Nappe:** The consistency at which a sauce is thick enough to coat the back of a spoon and hold a clean line when drawn through with a finger.
+
 ## Keywords
+
 Emulsification, Hollandaise, Egg Yolks, Butter, Lemon Juice, High Shear Force, Bain-Marie, Sauce, Culinary Technique, Pastry
 
 ## Category
+
 cuisine: French | style: Technique Folio

@@ -82,8 +82,11 @@ Serve side-by-side with the Competition Red in a bowl or divided plate. Spoon th
 * **Sushi Rice:** The subtle vinegar seasoning in sushi rice echoes the ACV in both the chili and the beans. Its sticky texture holds together under the bean stew and stands up next to the heavy chili without turning to mush.
 * **Make-Ahead:** Start your bean soak the same night you put the chili into its Cold-Cure — zero extra effort. The beans improve overnight after cooking, just like the chili. Cook them the day before if possible. The rice is best made day-of. Reheat the beans gently with a splash of stock — they will thicken considerably as they cool. Reheat the rice in a covered pot over low heat with a few drops of water.
 * **Scaling:** This recipe serves 16–20 as a side portion. For a bar cook-off, assume about half your crowd will want the beans and rice. Scale accordingly.
+
 ## Keywords
+
 Black Beans, Louisiana Cuisine, Smoked Sausage, Pork, Sushi Rice, Fermented, Stew, Cumin, Rice Vinegar, Smoky
 
 ## Category
+
 cuisine: American | style: Weeknight

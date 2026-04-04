@@ -69,8 +69,11 @@ Yield: 4 Leg Quarters (8 pieces) | Prep: 45 min | Inactive: 4–24 hr | Cook: 20
 * **Dry Brine:** Salting meat in advance to denature proteins via osmosis, without adding external water.
 * **Lipophilic:** Fat-soluble. Flavor compounds that extract best in oil rather than water.
 * **Bloom:** The process of cooking spices in hot fat to release essential oils.
+
 ## Keywords
+
 Fried Chicken, Buttermilk, Spice Glaze, Dry Brining, Hot Sauce, Kosher Salt, Southern Cuisine, Deep-Frying, Fermented, Umami
 
 ## Category
+
 cuisine: American | style: Weeknight

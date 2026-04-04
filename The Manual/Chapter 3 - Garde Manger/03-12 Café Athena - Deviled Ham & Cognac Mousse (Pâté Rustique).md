@@ -53,8 +53,11 @@ Alcohol Substitute: If avoiding alcohol, substitute the Cognac with an equal amo
 Emulsification: The process of mixing two liquids that are difficult to mix (here, fat and water-based proteins) into a stable, uniform suspension.
 
 Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
+
 ## Keywords
+
 Deviled Ham, Mousse, Emulsification, Cognac, Pâté, Fat Suspension, Mechanical Emulsification, Cream Cheese, Butter, Pink Peppercorns
 
 ## Category
+
 cuisine: French | style: Technique Folio
