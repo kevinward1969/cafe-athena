@@ -19,7 +19,7 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
 
-Plus **six slash-command workflows** (`.agents/workflows/`) that the Claude Code sub-agent executes:
+Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Code sub-agent executes:
 
 | Workflow | Command | Purpose |
 | -------- | ------- | ------- |
@@ -128,11 +128,13 @@ The current architecture is well-designed in several important ways:
 **Issue:** The same three-mode system prompt is maintained in three separate files:
 - `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.3)
 - `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.1)
-- `.claude/agents/Cafe Athena Chef.agent.md` (no version number)
+- `.claude/agents/Cafe Athena Chef.agent.md` (v1.1)
 
 Each surface has diverged slightly. Changes to one do not automatically propagate to the others. Over time, the agents will give inconsistent advice.
 
-**Recommendation:** Designate `.claude/agents/Cafe Athena Chef.agent.md` as the **canonical master** (it is the most recent and most capable version). When updating the system prompt, update the master first and port changes to the other two. Add a `version:` header to the sub-agent YAML frontmatter and note the version number in a shared changelog.
+**Recommendation:** Designate `.claude/agents/Cafe Athena Chef.agent.md` as the **canonical master** (it is the most recent and most capable version). When updating the system prompt, update the master first and port changes to the other two. Note the version number in a shared changelog.
+
+**Status:** Version header (`version: "1.1"`) added to sub-agent YAML frontmatter in this update. Remaining: create `AGENT_CHANGELOG.md` and formally declare canonical master in documentation.
 
 ---
 
@@ -140,7 +142,9 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 **Issue:** The handoff from Gemini Gem 1 (which generates the image brief) to Gemini Gem 2 (which generates the image) is entirely manual. The user must copy/paste between two separate chat surfaces.
 
-**Recommendation:** Add a dedicated Claude Code workflow `/generate-image-brief [id]` that generates the full Gemini image prompt in one command. The user can then paste it directly into Gemini Gem 2 without opening the recipe file themselves. (The current `/recipe-hero-image` workflow already does this — it should be documented more prominently as the bridge between the two Gem agents.)
+**Recommendation:** Add a dedicated Claude Code workflow `/generate-image-brief [id]` that generates the full Gemini image prompt in one command. The user can then paste it directly into Gemini Gem 2 without opening the recipe file themselves.
+
+**Status:** Already implemented. `/recipe-hero-image` Create mode serves exactly this purpose and is documented as the Gem 1→Gem 2 bridge in the sub-agent's BUILT-IN WORKFLOWS section and in README.md. No additional workflow needed unless a standalone brief-only command is desired.
 
 ---
 

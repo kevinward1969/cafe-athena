@@ -5,10 +5,10 @@ interface Props {
   currentPage?: string;
 }
 
-const { 
-  title, 
-  description = 'Café Athena — The Manual. AI-powered recipe development and culinary technique education.', 
-  currentPage = '' 
+const {
+  title,
+  description = 'Café Athena — The Manual. AI-powered recipe development and culinary technique education.',
+  currentPage = ''
 } = Astro.props;
 
 const navItems = [
@@ -16,7 +16,20 @@ const navItems = [
   { label: 'Brigade', href: '/brigade', id: 'brigade' },
   { label: 'Larder', href: '/larder', id: 'larder' },
   { label: 'Glossary', href: '/glossary', id: 'glossary' },
-  { label: 'Search', href: '/search', id: 'search' },
+];
+
+const quickLinks = [
+  { label: 'Mother Sauces', href: '/larder' },
+  { label: 'Knife Skills', href: '/academy' },
+  { label: 'Mise en Place', href: '/glossary' },
+  { label: 'Stocks & Broths', href: '/larder' },
+];
+
+const featuredEntries = [
+  { type: 'Technique', title: 'The Maillard Reaction', excerpt: 'Chemical reactions between amino acids and reducing sugars that create complex flavors.', href: '/academy' },
+  { type: 'Recipe', title: 'Classic Consommé', excerpt: 'The pinnacle of classical French stock cookery — pure, trembling clarity.', href: '/brigade' },
+  { type: 'Glossary', title: 'Mise en Place', excerpt: 'The foundational philosophy of professional kitchen organization.', href: '/glossary' },
+  { type: 'Larder', title: 'Beurre Blanc', excerpt: 'A classical French butter emulsion sauce from the Loire Valley.', href: '/larder' },
 ];
 ---
 
@@ -33,11 +46,11 @@ const navItems = [
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 <body class="bg-[#faf7f2] text-[#1a1a2e] font-body min-h-screen flex flex-col selection:bg-[#c9a96e] selection:text-white">
-  
+
   <header class="sticky top-0 z-50 bg-[#faf7f2]/90 backdrop-blur-xl border-b border-[#e0d8cc]/50 transition-all duration-300">
     <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-      <a 
-        href="/" 
+      <a
+        href="/"
         class="font-heading text-xl font-bold tracking-widest uppercase focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-opacity hover:opacity-80"
       >
         Café <span class="text-[#c9a96e]">Athena</span>
@@ -46,41 +59,60 @@ const navItems = [
       <!-- Desktop Nav -->
       <nav class="hidden md:flex gap-8 items-center" aria-label="Main Navigation">
         {navItems.map(item => (
-          <a 
+          <a
             href={item.href}
             class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
               currentPage === item.id ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
             }`}
           >
             {item.label}
-            <!-- Active/Hover Indicator underline -->
             <span class={`absolute bottom-0 left-0 h-0.5 bg-[#c9a96e] transition-all duration-300 ease-out origin-left ${
               currentPage === item.id ? 'w-full' : 'w-0 group-hover:w-full'
             }`}></span>
           </a>
         ))}
+
+        <!-- Search trigger -->
+        <button
+          data-search-trigger
+          aria-label="Open search (⌘K)"
+          class="flex items-center gap-2 text-sm font-medium tracking-wide uppercase text-[#6b6b7b] hover:text-[#1a1a2e] transition-colors px-2 py-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          Search
+          <span class="hidden lg:inline font-mono text-[10px] bg-[#1a1a2e]/[0.06] text-[#6b6b7b]/70 px-1.5 py-0.5 rounded border border-[#e0d8cc] tracking-normal normal-case leading-none">⌘K</span>
+        </button>
       </nav>
 
-      <!-- Mobile Nav Toggle -->
-      <button 
-        id="nav-toggle" 
-        class="md:hidden p-2 text-[#1a1a2e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
-        aria-label="Toggle navigation menu"
-        aria-expanded="false"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
-      </button>
+      <!-- Mobile: search icon + hamburger -->
+      <div class="flex md:hidden items-center gap-1">
+        <button
+          data-search-trigger
+          aria-label="Open search"
+          class="p-2 text-[#1a1a2e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </button>
+        <button
+          id="nav-toggle"
+          class="p-2 text-[#1a1a2e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+          aria-label="Toggle navigation menu"
+          aria-expanded="false"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+        </button>
+      </div>
     </div>
 
     <!-- Mobile Nav Menu -->
-    <div 
-      id="mobile-nav" 
+    <div
+      id="mobile-nav"
       class="md:hidden absolute top-full left-0 w-full bg-[#faf7f2]/95 backdrop-blur-xl border-b border-[#e0d8cc] shadow-lg overflow-hidden transition-all duration-300 ease-out max-h-0 opacity-0 invisible flex flex-col"
       aria-hidden="true"
     >
       <nav class="flex flex-col px-6 py-4 gap-4">
         {navItems.map(item => (
-          <a 
+          <a
             href={item.href}
             class={`text-lg font-medium tracking-wide uppercase focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm ${
               currentPage === item.id ? 'text-[#c9a96e]' : 'text-[#1a1a2e]'
@@ -100,16 +132,12 @@ const navItems = [
   <footer class="mt-24 bg-[#1a1a2e] text-[#f5f0e8] border-t-4 border-[#c9a96e]">
     <div class="max-w-7xl mx-auto px-6 py-12 md:py-16">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8 mb-10">
-
-        <!-- Brand -->
         <div>
           <div class="font-heading text-2xl font-bold tracking-widest uppercase mb-1">
             Café <span class="text-[#c9a96e]">Athena</span>
           </div>
           <p class="font-heading italic text-[#e0d8cc]/50 text-lg">The Manual</p>
         </div>
-
-        <!-- Footer Nav -->
         <nav class="flex flex-wrap gap-x-8 gap-y-3" aria-label="Footer navigation">
           <a href="/academy" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Academy</a>
           <a href="/brigade" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Brigade</a>
@@ -118,42 +146,290 @@ const navItems = [
           <a href="/search" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Search</a>
         </nav>
       </div>
-
       <div class="border-t border-[#e0d8cc]/10 pt-6 text-center">
         <p class="text-xs text-[#e0d8cc]/25 tracking-widest uppercase">A living codex of culinary technique &amp; theory</p>
       </div>
     </div>
   </footer>
 
+  <!-- ─── Search Modal ──────────────────────────────────────────────────────── -->
+  <div
+    id="search-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Search the Manual"
+    aria-hidden="true"
+    class="fixed inset-0 z-[200] bg-[#1a1a2e]/97 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-300 flex flex-col overflow-y-auto"
+  >
+    <!-- Close button -->
+    <button
+      id="search-close"
+      aria-label="Close search"
+      class="absolute top-8 right-8 md:right-12 flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+    >
+      <span class="hidden sm:inline font-mono text-[10px] tracking-[0.25em] uppercase">Esc to Close</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+    </button>
+
+    <!-- Content -->
+    <div class="flex-1 flex flex-col items-center px-6 md:px-12 pt-20 md:pt-28 pb-20 max-w-5xl mx-auto w-full">
+
+      <!-- Label -->
+      <div class="w-full mb-3">
+        <span class="font-mono text-[10px] tracking-[0.3em] uppercase text-[#c9a96e]/60">Digital Codex Search</span>
+      </div>
+
+      <!-- Input row -->
+      <div class="w-full flex items-end gap-3 md:gap-5 pb-5 mb-14 border-b border-white/10 focus-within:border-[#c9a96e]/40 transition-colors duration-300">
+        <svg class="flex-shrink-0 mb-1 text-[#c9a96e]/60" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        <input
+          id="search-input"
+          type="text"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="Search the manual…"
+          class="flex-1 min-w-0 bg-transparent border-none outline-none font-heading text-4xl md:text-5xl lg:text-6xl italic text-white/90 placeholder:text-white/20"
+        />
+        <button
+          id="search-submit"
+          class="flex-shrink-0 mb-2 bg-[#c9a96e] text-[#1a1a2e] px-4 md:px-6 py-2 font-mono text-[10px] font-bold uppercase tracking-widest hover:bg-[#ddb97a] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white rounded-sm"
+        >
+          Enter
+        </button>
+      </div>
+
+      <!-- Discovery panel (shown when no query) -->
+      <div id="search-discovery" class="w-full grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-16">
+
+        <!-- Quick Links -->
+        <div class="md:col-span-4">
+          <h3 class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-6">Quick Links</h3>
+          <ul class="space-y-5">
+            {quickLinks.map(link => (
+              <li>
+                <a
+                  href={link.href}
+                  class="font-heading text-xl italic text-white/70 hover:text-[#c9a96e] transition-colors flex items-center gap-3 group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+                >
+                  <span class="w-1 h-1 rounded-full bg-[#c9a96e]/50 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" aria-hidden="true"></span>
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <!-- Featured Entries -->
+        <div class="md:col-span-8">
+          <h3 class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-6">Featured Entries</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {featuredEntries.map(entry => (
+              <a
+                href={entry.href}
+                class="group flex flex-col gap-1.5 bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.05] hover:border-[#c9a96e]/20 p-5 transition-all duration-300 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+              >
+                <span class="font-mono text-[9px] uppercase tracking-widest text-white/30">{entry.type}</span>
+                <h4 class="font-heading text-lg text-white/90 group-hover:text-[#c9a96e] transition-colors leading-snug">{entry.title}</h4>
+                <p class="text-xs text-white/35 leading-relaxed line-clamp-2">{entry.excerpt}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Results panel (shown when query is active) -->
+      <div id="search-results" class="w-full hidden">
+        <div id="search-results-list" class="divide-y divide-white/[0.06]"></div>
+        <p id="search-no-results" class="hidden font-heading text-2xl italic text-white/25 text-center py-16">No entries found.</p>
+      </div>
+
+    </div>
+
+    <!-- Watermark -->
+    <div class="absolute bottom-6 right-8 md:right-12 select-none pointer-events-none" aria-hidden="true">
+      <span class="font-heading text-[80px] md:text-[120px] font-bold italic text-white/[0.025] leading-none">Athena</span>
+    </div>
+  </div>
+  <!-- ─── End Search Modal ──────────────────────────────────────────────────── -->
+
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const toggle = document.getElementById('nav-toggle');
+
+      // ── Mobile nav ────────────────────────────────────────────────────────────
+      const toggle    = document.getElementById('nav-toggle');
       const mobileNav = document.getElementById('mobile-nav');
-      
-      if (toggle && mobileNav) {
-        toggle.addEventListener('click', () => {
-          const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
-          toggle.setAttribute('aria-expanded', (!isExpanded).toString());
-          mobileNav.setAttribute('aria-hidden', isExpanded.toString());
-          
-          if (!isExpanded) {
-            mobileNav.classList.remove('max-h-0', 'opacity-0', 'invisible');
-            mobileNav.classList.add('max-h-[400px]', 'opacity-100', 'visible');
-          } else {
-            mobileNav.classList.add('max-h-0', 'opacity-0', 'invisible');
-            mobileNav.classList.remove('max-h-[400px]', 'opacity-100', 'visible');
-          }
-        });
+
+      toggle?.addEventListener('click', () => {
+        const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', String(!isExpanded));
+        mobileNav?.setAttribute('aria-hidden', String(isExpanded));
+        if (!isExpanded) {
+          mobileNav?.classList.remove('max-h-0', 'opacity-0', 'invisible');
+          mobileNav?.classList.add('max-h-[400px]', 'opacity-100', 'visible');
+        } else {
+          mobileNav?.classList.add('max-h-0', 'opacity-0', 'invisible');
+          mobileNav?.classList.remove('max-h-[400px]', 'opacity-100', 'visible');
+        }
+      });
+
+      // ── Search modal ──────────────────────────────────────────────────────────
+      const modal       = document.getElementById('search-modal')!;
+      const closeBtn    = document.getElementById('search-close')!;
+      const input       = document.getElementById('search-input') as HTMLInputElement;
+      const submitBtn   = document.getElementById('search-submit')!;
+      const discovery   = document.getElementById('search-discovery')!;
+      const resultsWrap = document.getElementById('search-results')!;
+      const resultsList = document.getElementById('search-results-list')!;
+      const noResults   = document.getElementById('search-no-results')!;
+      const triggers    = document.querySelectorAll<HTMLElement>('[data-search-trigger]');
+
+      let lastFocused: HTMLElement | null = null;
+      let pagefind: any = null;
+      let debounce: ReturnType<typeof setTimeout>;
+
+      // ── Open / close ──────────────────────────────────────────────────────────
+      function openModal() {
+        lastFocused = document.activeElement as HTMLElement;
+        modal.classList.remove('opacity-0', 'pointer-events-none');
+        modal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        requestAnimationFrame(() => input.focus());
       }
+
+      function closeModal() {
+        modal.classList.add('opacity-0', 'pointer-events-none');
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+        lastFocused?.focus();
+        // Reset
+        input.value = '';
+        showDiscovery();
+      }
+
+      // ── Pagefind (lazy, raw API) ───────────────────────────────────────────────
+      // Use new Function to defer import resolution to runtime — Vite cannot
+      // statically analyse this path, which only exists after `npm run build`.
+      const runtimeImport = new Function('u', 'return import(u)');
+
+      async function getPagefind() {
+        if (pagefind) return pagefind;
+        try {
+          const pf = await runtimeImport('/_pagefind/pagefind.js');
+          await pf.init();
+          pagefind = pf;
+        } catch {
+          // Not available in dev mode — run `npm run build` first
+        }
+        return pagefind;
+      }
+
+      // ── State helpers ─────────────────────────────────────────────────────────
+      function showDiscovery() {
+        discovery.classList.remove('hidden');
+        resultsWrap.classList.add('hidden');
+        resultsList.innerHTML = '';
+        noResults.classList.add('hidden');
+      }
+
+      function renderResults(items: any[]) {
+        discovery.classList.add('hidden');
+        resultsWrap.classList.remove('hidden');
+        noResults.classList.add('hidden');
+
+        if (items.length === 0) {
+          resultsList.innerHTML = '';
+          noResults.classList.remove('hidden');
+          return;
+        }
+
+        resultsList.innerHTML = items.map(item => {
+          const label = sectionLabel(item.url ?? '');
+          const title = item.meta?.title ?? item.url ?? 'Untitled';
+          const excerpt = item.excerpt ?? '';
+          return `
+            <a
+              href="${item.url}"
+              class="group flex flex-col md:flex-row md:items-baseline gap-1 md:gap-6 py-5 px-1 hover:bg-white/[0.03] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+            >
+              <span class="flex-shrink-0 font-mono text-[9px] uppercase tracking-widest text-[#c9a96e]/50 md:w-20">${label}</span>
+              <div class="min-w-0">
+                <h4 class="font-heading text-xl text-white/90 group-hover:text-[#c9a96e] transition-colors leading-snug">${title}</h4>
+                ${excerpt ? `<p class="text-sm text-white/35 mt-1 leading-relaxed line-clamp-2">${excerpt}</p>` : ''}
+              </div>
+            </a>
+          `;
+        }).join('');
+      }
+
+      function sectionLabel(url: string): string {
+        if (/\/academy/.test(url))  return 'Technique';
+        if (/\/glossary/.test(url)) return 'Glossary';
+        if (/\/larder/.test(url))   return 'Larder';
+        if (/\/brigade/.test(url))  return 'Brigade';
+        return 'Entry';
+      }
+
+      // ── Search ────────────────────────────────────────────────────────────────
+      async function doSearch(query: string) {
+        if (!query.trim()) { showDiscovery(); return; }
+        const pf = await getPagefind();
+        if (!pf) { renderResults([]); return; }
+        const { results: hits } = await pf.search(query);
+        const data = await Promise.all(hits.slice(0, 10).map((r: any) => r.data()));
+        renderResults(data);
+      }
+
+      // ── Event wiring ──────────────────────────────────────────────────────────
+      triggers.forEach(t => t.addEventListener('click', openModal));
+      closeBtn.addEventListener('click', closeModal);
+      submitBtn.addEventListener('click', () => doSearch(input.value));
+
+      input.addEventListener('input', () => {
+        clearTimeout(debounce);
+        debounce = setTimeout(() => doSearch(input.value), 220);
+      });
+
+      // Click the backdrop (not the content) to close
+      modal.addEventListener('click', e => {
+        if (e.target === modal) closeModal();
+      });
+
+      // Global keyboard
+      document.addEventListener('keydown', e => {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          modal.getAttribute('aria-hidden') === 'false' ? closeModal() : openModal();
+        }
+      });
+
+      // Modal keyboard: ESC + focus trap
+      modal.addEventListener('keydown', e => {
+        if (e.key === 'Escape') { closeModal(); return; }
+        if (e.key !== 'Tab') return;
+
+        const focusable = Array.from(
+          modal.querySelectorAll<HTMLElement>('button, input, a[href], [tabindex]:not([tabindex="-1"])')
+        ).filter(el => !el.hasAttribute('disabled'));
+
+        const first = focusable[0];
+        const last  = focusable[focusable.length - 1];
+
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault(); last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault(); first.focus();
+        }
+      });
     });
   </script>
+
 </body>
 </html>
 
 <style>
   @import '../styles/global.css';
 
-  /* Vercel Guidelines: scroll-margin-top on headings */
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 5rem;
   }
