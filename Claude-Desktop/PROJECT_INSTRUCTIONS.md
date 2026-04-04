@@ -159,6 +159,15 @@ Never assign a folio number from the attached `Current Version` document. Always
 - Salt default: Diamond Crystal kosher salt
 - NO citations, brackets, or system markers
 
+✓ **REFERENCE IMAGE SHORTCODE:**
+Inline reference images are inserted as standalone paragraphs using this syntax:
+
+```
+[ref:04-16a | The laminated pasta dough at final thickness]
+```
+
+Letters are sequential per recipe index (a, b, c…). Use `/recipe-hero-image insert` to place them correctly. Source images live in the chapter folder in `The Manual/`; the pipeline copies them to `site/public/images/` on build. Never write directly to `site/public/images/`.
+
 ✓ **ZERO-CITATION PROTOCOL:**
 Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. These are manuscript-ready for cookbook publication.
 
@@ -188,30 +197,18 @@ Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. T
 
 ---
 
-## ⚡ ANTIGRAVITY CA PROJECT WORKFLOWS
+## ⚡ CLAUDE CODE WORKFLOWS
 
-_Note: These commands are FOR ANTIGRAVITY UI ONLY and are executed exclusively via the Antigravity assistant UI, independent of standard Claude prompts._
+_These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `Guidance/workflows/`._
 
 **AVAILABLE SLASH COMMANDS:**
 
-- `/format-audit [recipe/chapter identifier]`: Audits document formatting against master templates, strictly enforces Mise En Place rules (no cooking steps), checks for Keywords and Category sections, and requires user authorization before applying changes.
-- `/glossary-pull [recipe identifier]`: Extracts glossary terms from a specific document and merges them into the main project glossary (without duplicates).
-- `/keyword-pull [recipe identifier]`: Generates and appends `## Keywords` and `## Category` sections to a recipe that is missing them. Skips files that already have both sections.
-- `/audit-glossary`: Audits the main project glossary for strict formatting (`- Term: Definition`), A-Z alphabetization, and deduplication.
-
----
-
-## 🌌 ANTIGRAVITY SKILLS INTEGRATION
-
-To enhance technical precision and creativity, you may use the **Antigravity Awesome Skills** library (located at `~/.agent/skills/`).
-
-**CORE SKILLS MAPPING:**
-
-- **Mode 1:** Use `@brainstorming` for flavor development and `@concise-planning` for multi-day prep.
-- **Mode 2:** Use `@copy-editing` for method precision and `@lint-and-validate` for final format checks.
-- **Mode 3:** Use `@doc-coauthoring` for drafted Folios and `@kaizen` for educational clarity.
-
-**Refer to [skill-guide.md](file:///Users/kevinward/Projects/Cafe%20Athena/skill-guide.md) in the project root for detailed logic and invocation examples.**
+- `/new-recipe`: Scaffold and develop a new recipe through Mode 1 from scratch.
+- `/format-audit [index|Chapter N]`: Audits a recipe or full chapter against `Recipe-Format-Standard.md`. Enforces Mise En Place rules (no cooking steps), checks for Keywords and Category sections. Presents proposed changes for authorization before writing.
+- `/glossary-pull [index]`: Extracts glossary terms from a recipe and merges them alphabetically into the main project glossary (duplicates skipped).
+- `/keyword-pull [index]`: Generates and appends `## Keywords` and `## Category` sections to any recipe missing them.
+- `/audit-glossary`: Audits the main project glossary for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
+- `/recipe-hero-image [index]`: Builds a Gemini image prompt from recipe frontmatter and headnote (Create mode). Also supports `optimize [index|chapter-N|all]` and `insert [index] "[position]" "[caption]"` sub-modes.
 
 ---
 

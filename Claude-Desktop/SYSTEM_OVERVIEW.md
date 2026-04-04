@@ -65,20 +65,21 @@ WORKFLOW A: New Recipe Development
 [Manual Work]          [Claude Work]          [Manual Work]
 ─────────────          ─────────────          ─────────────
    │                       │
-   ├─ Concept          ┌────┴────┐           ┌─ Edit pdf/
-   ├─ Rough recipe     │ MODE 1  │           │   Google Doc
+   ├─ Concept          ┌────┴────┐           ┌─ Taste/
+   ├─ Rough recipe     │ MODE 1  │           │   refine
    │                   │ The Lab │           │
-   ├─ Initial test  ←──┤ [ITERATE]─────→  ┌──┴─ Taste/
-   │                   │ [1-10 passes]    │  │   refine
+   ├─ Initial test  ←──┤ [ITERATE]─────→  ┌──┴─ Adjust
+   │                   │ [1-10 passes]    │  │
    └─ Finalize        └─────┬──────┘       │  │
       (say "ready")         │      ┌───────┘  │
                             │      │          │
                         [MODE 2]   │ [Test]   │
                         The Manual ├──────────┘
                         [SINGLE]   │
-                        [Format]   ├─→ Publish
-                                   │   to Manual
-                                   └─→ Archive
+                        [Format]   ├─→ Write to
+                                   │   The Manual/
+                                   └─→ Run pipeline
+                                       → Site live
 ```
 
 ---
@@ -169,7 +170,6 @@ When Claude processes your request, it references files in this order:
 
 4. Context Files
    ├─→ Cafe-Athena-Workflow-Guide.md (workflow context)
-   ├─→ skill-guide.md (Antigravity Skills mapping)
    └─→ Any previous conversation history
 ```
 
@@ -281,6 +281,23 @@ Claude scans this to find the last entry and assign 09-04 to the next recipe.
 | **Requires Manual scan** | No | YES ⭐ | No |
 | **Exit Condition** | "Finalize" | Single output | "Convert to Folio" |
 | **Publishing Ready** | No | YES | (After Folio) YES |
+
+---
+
+## CLAUDE CODE SLASH COMMANDS
+
+Run in the Claude Code CLI (Antigravity). Full definitions in `Guidance/workflows/`.
+
+| Command | Example | Purpose |
+|---------|---------|---------|
+| `/new-recipe` | `/new-recipe` | Scaffold a new recipe through Mode 1 |
+| `/format-audit` | `/format-audit 04-15` | Audit recipe against format standard |
+| `/glossary-pull` | `/glossary-pull 04-15` | Merge recipe glossary terms into main glossary |
+| `/keyword-pull` | `/keyword-pull 04-15` | Add missing Keywords + Category sections |
+| `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
+| `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build Gemini image prompt (Create mode) |
+| `/recipe-hero-image optimize` | `/recipe-hero-image optimize all` | Convert PNG → WebP, delete originals |
+| `/recipe-hero-image insert` | `/recipe-hero-image insert 04-11 "after shapes list" "Caption"` | Insert `[ref:]` shortcode at position |
 
 ---
 

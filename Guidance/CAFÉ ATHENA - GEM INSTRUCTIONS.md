@@ -60,6 +60,10 @@ Version 3.3
 
 11. Decision Protocol: When to Ask vs. Execute
 
+12. Claude Code Workflows (Slash Commands)
+
+13. Reference Image Shortcode System
+
 ---
 
 ## **ROLE & PERSONA**
@@ -227,3 +231,45 @@ Output this block after every recipe or folio in Mode 2:
 
 **The "Hard Stop" Verification:**
 If the AI cannot perform a clean filesystem scan of the target directory, it is **FORBIDDEN** from generating the recipe. It must output: "CRITICAL ERROR: Live Directory Scan Failed. Please provide the last 3 entries manually before I proceed."
+
+---
+
+## **CLAUDE CODE WORKFLOWS (SLASH COMMANDS)**
+
+These commands run in the Claude Code CLI (Antigravity). Workflow definitions live in `Guidance/workflows/`.
+
+| Command | Usage | Description |
+| --- | --- | --- |
+| `/new-recipe` | `/new-recipe` | Scaffold and develop a new recipe through Mode 1 |
+| `/format-audit` | `/format-audit 04-15` or `/format-audit Chapter 4` | Audit a recipe or full chapter against format standards; enforces Mise En Place rules; requires authorization before writing changes |
+| `/glossary-pull` | `/glossary-pull 04-15` | Extract glossary terms from a recipe and merge alphabetically into the main glossary (duplicates skipped) |
+| `/keyword-pull` | `/keyword-pull 04-15` | Generate and append `## Keywords` and `## Category` sections to any recipe missing them |
+| `/audit-glossary` | `/audit-glossary` | Enforce strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication across the main glossary |
+| `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build a Gemini image prompt from recipe frontmatter + headnote (Create mode); also supports `optimize` and `insert` sub-modes |
+
+**`/recipe-hero-image` sub-modes:**
+
+* **Create:** `/recipe-hero-image [index]` — builds Gemini prompt, waits for user to generate and save the image
+* **Insert:** `/recipe-hero-image insert [index] "[position hint]" "[caption]"` — inserts a `[ref:]` shortcode at the correct location with the next available letter
+* **Optimize:** `/recipe-hero-image optimize [index|chapter-N|all]` — converts PNG → WebP, deletes original
+
+---
+
+## **REFERENCE IMAGE SHORTCODE SYSTEM**
+
+Inline reference images are embedded in recipe body text using a shortcode processed by the Astro build pipeline.
+
+**Syntax** (standalone paragraph — blank line above and below):
+
+```
+[ref:04-16a | The laminated pasta dough at final thickness]
+```
+
+**Rules:**
+
+* The image ID follows the recipe index with a sequential letter suffix: `04-16a`, `04-16b`, `04-16c`, etc.
+* Letters are assigned in order — scan existing `[ref:]` shortcodes in the file to determine the next available letter.
+* Use `/recipe-hero-image insert` to place shortcodes correctly rather than inserting manually.
+* Source images live in the chapter folder in `The Manual/` (e.g., `The Manual/Chapter 4 - The Mill/04-16a.webp`).
+* **Never reference or write to `site/public/images/` directly.** The pipeline (`prepare-content.py`) copies all images there automatically on every build.
+* After inserting a shortcode, the corresponding image file must be saved as `{index}{letter}.png` in the chapter folder, then optimized with `/recipe-hero-image optimize {index}{letter}` before deploying.
