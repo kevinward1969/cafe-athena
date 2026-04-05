@@ -48,10 +48,12 @@ def clean_dirs():
         shutil.rmtree(CONTENT_DIR)
     os.makedirs(CONTENT_DIR, exist_ok=True)
 
-    # Images dir: remove recipe images only, keep section-*.webp
+    # Images dir: remove recipe images only, keep section-*.webp and
+    # already-optimized WebP hero images (XX-YY.webp pattern).
     if os.path.exists(IMAGES_DIR):
+        recipe_id_pattern = re.compile(r'^\d{2}-\d{2}[a-z]?\.webp$')
         for fname in os.listdir(IMAGES_DIR):
-            if not fname.startswith('section-'):
+            if not fname.startswith('section-') and not recipe_id_pattern.match(fname):
                 fpath = os.path.join(IMAGES_DIR, fname)
                 if os.path.isfile(fpath):
                     os.remove(fpath)
@@ -159,6 +161,8 @@ def process_chapter(chapter_dir):
         content_type = determine_type(filename)
 
         # Check for hero image — prefer .webp over .png
+        # First check The Manual chapter folder, then fall back to already-optimized
+        # images already present in site/public/images/ (placed there directly).
         hero_image = ''
         for ext in ('webp', 'png'):
             hero_path = os.path.join(chapter_dir, f'{index}.{ext}')
@@ -167,6 +171,11 @@ def process_chapter(chapter_dir):
                 shutil.copy2(hero_path, os.path.join(IMAGES_DIR, f'{index}.{ext}'))
                 image_count += 1
                 break
+        if not hero_image:
+            optimized_path = os.path.join(IMAGES_DIR, f'{index}.webp')
+            if os.path.exists(optimized_path):
+                hero_image = f'{index}.webp'
+                image_count += 1
 
         # Copy reference images (XX-YYa.webp/png, XX-YYb.webp/png, etc.) — prefer .webp over .png
         reference_images = []
