@@ -122,7 +122,7 @@ There are two image types: **hero images** (one per recipe, shown at the top of 
 | Hero image | `{index}.webp` | `04-16.webp` |
 | Reference image | `{index}{letter}.webp` | `04-16a.webp`, `04-16b.webp` |
 
-**Source of truth:** All images live in their chapter folder inside `The Manual/` (e.g., `The Manual/Chapter 4 - The Mill/04-16.webp`). The `prepare-content.py` pipeline copies them into `site/public/images/` on every build. **Never edit `site/public/images/` directly** — it is fully managed by the pipeline.
+**Canonical location:** `site/public/images/` is the source of truth for all processed images. Chapter folders in `The Manual/` are working directories — images are deleted from them once processed and deployed.
 
 #### Hero Image Workflow
 
@@ -132,7 +132,7 @@ Use `/recipe-hero-image` (three modes):
 | --- | --- | --- |
 | Create | `/recipe-hero-image 04-17` | Reads recipe frontmatter + headnote, builds a Gemini prompt, hands off to you to generate and save the PNG |
 | Insert | `/recipe-hero-image insert 04-11 "after the shapes list" "Caption"` | Inserts a `[ref:]` shortcode at the right position in the source folio and assigns the next available letter |
-| Optimize | `/recipe-hero-image optimize 04-17` | Converts PNG → WebP (quality 85, max 1920×1080), deletes the original |
+| Optimize | `/recipe-hero-image optimize 04-17` | Converts PNG → WebP (quality 85, max 1920×1080), deletes the original PNG, deploys, then deletes the WebP from the chapter folder |
 
 You can also optimize a full chapter or everything at once:
 
@@ -140,6 +140,8 @@ You can also optimize a full chapter or everything at once:
 /recipe-hero-image optimize chapter-4
 /recipe-hero-image optimize all
 ```
+
+**Bypass path:** If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip optimization, update `recipes.json`, deploy, and commit without touching the chapter folder.
 
 #### Reference Image Shortcode
 

@@ -33,13 +33,17 @@ Strategic methodology for dish development, technical documentation, and site pu
 
 **WORKFLOW C: ADDING IMAGES**
 
-Images follow a two-type system. Both types source from chapter folders in `The Manual/` — never from `site/public/images/`, which is managed automatically by the pipeline.
+Images follow a two-type system. The canonical location for all processed images is `site/public/images/` — chapter folder copies are working files only and are deleted once processed.
 
 * **HERO IMAGES (one per recipe):**
 
+  **Standard path:**
   1. Run `/recipe-hero-image [index]` — the AI reads the recipe frontmatter and headnote, builds a detailed Gemini image prompt, and presents it for approval.
   2. Take the prompt to Gemini (image generation), generate the image, and save as `{index}.png` into the chapter folder.
-  3. Run `/recipe-hero-image optimize [index]` — converts the PNG to WebP (quality 85, max 1920×1080) and deletes the original.
+  3. Run `/recipe-hero-image optimize [index]` — converts the PNG to WebP (quality 85, max 1920×1080), deletes the original PNG, deploys, then deletes the WebP from the chapter folder.
+
+  **Bypass path (pre-optimized):**
+  If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip the optimize step, update `recipes.json`, deploy, and commit. No chapter folder involvement needed.
 
 * **REFERENCE IMAGES (inline figures within the recipe body):**
 
