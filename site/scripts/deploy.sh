@@ -37,6 +37,7 @@ echo ""
 echo "🚀 Step 3: Deploying to FastComet..."
 rsync -avz --delete \
   --exclude='.DS_Store' \
+  --filter='protect images/**.webp' \
   dist/ \
   "${REMOTE_HOST}:${REMOTE_PATH}/"
 
