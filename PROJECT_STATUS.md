@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-02
+Last Updated: 2026-04-04
 
 ## 🎯 Active Development
 
@@ -21,15 +21,16 @@ Last Updated: 2026-04-02
 
 ## 🔧 Site & Asset Maintenance
 
-### Pending Deploy
+### Hero Image Progress
 
-The following are committed/staged but not yet live:
+| Chapter | Status |
+| :--- | :--- |
+| Chapter 1 — The Lab (01-01 through 01-19) | ✅ All deployed |
+| Chapter 2 — The Foundation (02-01 through 02-04) | ✅ Deployed |
+| Chapter 2 — The Foundation (02-05 through 02-07) | ⏳ Pending |
+| Chapters 3–11 | ⏳ Pending |
 
-- `01-03.md`, `01-04.md`, `01-05.md` — recipe content updates
-- `01-03.png`, `01-04.png`, `01-05.png` — new Ch. 1 hero images
-- Section images: `section-academy.webp`, `section-brigade.webp`, `section-glossary.webp`, `section-larder.webp`
-
-**Next step:** Run `prepare-content` and `deploy.sh`.
+**Next hero image batch:** 02-05, 02-06, 02-07 (The Larder, The Steward, Sanitation & HACCP)
 
 ---
 
