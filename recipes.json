@@ -490,7 +490,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": "02-05.webp",
+      "heroImageOptimized": true
     },
     {
       "id": "02-06",
@@ -508,7 +510,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": "02-06.webp",
+      "heroImageOptimized": true
     },
     {
       "id": "02-07",
@@ -526,7 +530,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": "02-07.webp",
+      "heroImageOptimized": true
     },
     {
       "id": "03-01",
@@ -562,7 +568,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": "03-02.webp",
+      "heroImageOptimized": true
     },
     {
       "id": "03-03",
