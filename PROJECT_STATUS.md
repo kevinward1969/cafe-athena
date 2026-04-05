@@ -30,7 +30,7 @@ Last Updated: 2026-04-05
 | Chapter 2 — The Foundation (02-05 through 02-07) | ⏳ Pending |
 | Chapter 3 — Garde Manger (03-01 through 03-05) | ✅ All deployed |
 | Chapter 3 — Garde Manger (03-06 through 03-10) | ✅ All deployed |
-| Chapter 3 — Garde Manger (03-11 through 03-13) | ⏳ Pending |
+| Chapter 3 — Garde Manger (03-11 through 03-13) | ✅ All deployed |
 | Chapters 4–11 | ⏳ Pending |
 
 **Next hero image batch:** 02-05, 02-06, 02-07 (The Larder, The Steward, Sanitation & HACCP)
@@ -123,9 +123,9 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 | 03-08 | Sous Vide Chicken Liver Mousse | Ch. 3 | ✅ Deployed |
 | 03-09 | Winter Citrus & Shaved Fennel Salad | Ch. 3 | ✅ Deployed |
 | 03-10 | Velvet Mushroom Mousse | Ch. 3 | ✅ Deployed |
-| 03-11 | Double Deviled Eggs (Le Jambon) | Ch. 3 | Pending |
-| 03-12 | Deviled Ham & Cognac Mousse | Ch. 3 | Pending |
-| 03-13 | Calf Liver & Duck Fat Mousse | Ch. 3 | Pending |
+| 03-11 | Double Deviled Eggs (Le Jambon) | Ch. 3 | ✅ Deployed |
+| 03-12 | Deviled Ham & Cognac Mousse | Ch. 3 | ✅ Deployed |
+| 03-13 | Calf Liver & Duck Fat Mousse | Ch. 3 | ✅ Deployed |
 | 04-01 | 80:20 Poolish-Sourdough Baguettes | Ch. 4 | Pending |
 | 04-02 | Risotto alla Milanese | Ch. 4 | Pending |
 | 04-03 | Risotto of White Mushrooms | Ch. 4 | Pending |
