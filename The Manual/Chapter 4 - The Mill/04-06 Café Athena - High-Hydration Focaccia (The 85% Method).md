@@ -73,6 +73,16 @@ Sprinkle with **Flaky Sea Salt** and toppings (if using). Bake for **22–25 min
 * **Retard:** Placing dough in a cold environment (fridge) to slow fermentation.
 * **Pincage:** A mixing technique involving squeezing dough through fingers to incorporate ingredients evenly.
 
+## Glossary
+
+*   **Hydration:** The total water content of the dough, typically expressed as a percentage of flour weight, significantly impacts dough structure and extensibility.
+*   **Pincage:** A delicate hand-mixing technique used in high-hydration doughs to gently incorporate ingredients without developing excessive gluten strength.
+*   **Coil Fold:** A specific folding technique employed in high-hydration doughs to align gluten strands and build strength without degassing the dough.
+*   **Retard:** A controlled period of cold fermentation, typically in a refrigerator, that slows down enzymatic activity and develops flavor complexity.
+*   **Dimple:** A technique used during shaping to create structural support and prevent excessive oven spring in high-hydration doughs.
+*   **Glutenin:** A key protein found in wheat flour that contributes to dough elasticity and extensibility.
+*   **Gliadin:** Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
+
 ## Keywords
 
 Focaccia, Hydration, Dough, Gluten, Fermentation, Yeast, Olive Oil, Salt, Bread Flour, Time

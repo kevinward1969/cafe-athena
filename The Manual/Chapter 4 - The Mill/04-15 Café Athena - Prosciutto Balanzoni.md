@@ -83,6 +83,16 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 * **Farcia:** A professional term for a fine pasta stuffing or emulsified meat filling.
 * **Nappé:** The consistency where a sauce coats the back of a spoon and a clear line remains when a finger is drawn through it.
 
+## Glossary
+
+* **Beurre Noisette:** Butter subjected to Maillard reaction, resulting in a nutty aroma and browned appearance.
+* **Farcia:** A meticulously prepared, emulsified filling, typically incorporating finely minced ingredients and a binding agent, crucial for maintaining texture and stability in pasta applications.
+* **Nappé:** The desired consistency of a sauce, achieved through controlled reduction, where a thin film coats the back of a spoon, indicating proper emulsification and flavor development.
+* **Sensory Cue:** A descriptive term referring to a specific tactile or olfactory indication used to assess the quality of a culinary process, such as dough texture or butter color.
+* **Volcano:** A technique used when hydrating flour, referring to the method of creating a mound of flour to receive the liquid ingredient.
+* **Emulsion:** A stable mixture of two or more immiscible liquids, such as fat and water, stabilized by an emulsifier, essential for creating smooth, cohesive fillings and sauces.
+* **Lint-Free Towel:** A specialized textile used to remove excess moisture from ingredients, preventing undesirable textural changes and ensuring optimal dough consistency.
+
 ## Keywords
 
 Pasta, Spinach, Prosciutto, Ricotta, Egg, Butter, Parmesan, Italian, Hand-Kneading, Emulsion

@@ -79,6 +79,15 @@ Yield: 6–8 servings | Prep: 45 min | Inactive: 4 hr | Cook: 20 min
 * **Tamis:** A flat, drum-shaped sieve used to create perfectly smooth purées.
 * **Soft Peaks:** The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 
+## Glossary
+
+*   **Gelatin:** A protein derived from collagen, used to create a semi-solid structure by forming a network when heated and dissolved in water.
+*   **Fond:** The browned bits of caramelized food residue that adhere to the bottom of a pan after cooking, contributing significantly to flavor.
+*   **Emulsion:** A mixture of two or more immiscible liquids, such as oil and water, stabilized by an emulsifier (like lecithin) to prevent separation.
+*   **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, responsible for developing complex flavors and aromas during cooking.
+*   **Aeration:** The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
+*   **Tamis:** A fine-mesh sieve used to strain liquids or solids, removing particles and creating a smoother texture.
+
 ## Keywords
 
 emulsification, gelatin, mushroom, miso, sherry, umami, vegetarian, pâté, pastry, fine dining, weeknight

@@ -70,6 +70,15 @@ Yield: 4–6 servings | Prep: 45 min | Cook: 3.5–4 hr
 * **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
 * **Pincé:** The technique of cooking tomato paste until it darkens/caramelizes.
 
+## Glossary
+
+*   **Collagen:** A protein found in connective tissues that, when heated slowly, undergoes hydrolysis, breaking down into gelatin, contributing to a rich, velvety sauce.
+*   **Fond:** The concentrated flavor developed from the browned bits (Maillard reaction products) at the bottom of a pot during sautéing, essential for building depth of flavor in a braise.
+*   **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that produces hundreds of flavor and aroma compounds, resulting in browning and complex flavors.
+*   **Nappe:** A thickened sauce achieved by reducing the liquid until it coats the back of a spoon, creating a smooth and glossy consistency.
+*   **Pincé:** A French culinary term referring to the color change of a sauce or ingredient during cooking, specifically the transformation of tomato paste from red to a darker, brick-colored hue.
+*   **Mirepoix:** A classic French culinary technique utilizing a base of diced onions, carrots, and celery, used to build flavor in stocks, sauces, and stews.
+
 ## Keywords
 
 Braising, Oxtail, Red Wine, Beef Stock, French, Mushroom, Gelatin, Confit, Mirepoix, Slow Cook

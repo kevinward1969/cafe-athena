@@ -64,6 +64,14 @@ Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 15 min | Set: 4–12 hr
 * **Maillard Reaction:** The chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 * **Deglaze:** To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 
+## Glossary
+
+* **Bloom:** The process of hydrating gelatin by suspending it in cold water, allowing it to fully absorb the liquid and swell before being added to a warm mixture.
+* **Curing Salt #1 (Nitrite):** Sodium nitrite added to meat products to inhibit bacterial growth, preserve color, and enhance flavor; used in small quantities for its preservative properties.
+* **Chinois:** A fine-mesh sieve used in pastry and sauce making to strain out solids, resulting in a smooth and refined texture.
+* **Emulsion:** A stable mixture of two immiscible liquids, such as fat and water, created through agitation and often stabilized with a thickening agent like gelatin.
+* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that occurs during cooking at high temperatures, producing complex flavors and aromas, and contributing to browning.
+
 ## Keywords
 
 Chicken Liver, Mousse, Emulsification, Pan-roasting, Butter, Cognac, Gelatin, Pâté, Maillard Reaction, Stovetop

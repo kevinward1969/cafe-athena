@@ -26,6 +26,16 @@
    * Add 75ml water (careful, it will steam). Simmer covered until absorbed.
    * *Observation:* Nutty aroma, darker color, individual pearls roll apart easily.
 
+## Glossary
+
+*   **Dextrinization:** The chemical breakdown of starch molecules during dry heat, resulting in the formation of smaller, less viscous dextrins.
+*   **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, producing complex flavor compounds during heat exposure.
+*   **Viscosity:** A fluid’s resistance to flow, influenced by the interactions between its molecules; dextrinized starch exhibits lower viscosity.
+*   **Separation:** The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
+*   **Toasting:** The initial heating of pasta in fat, crucial for initiating dextrinization and developing toasted flavors.
+*   **Amylose:** A component of starch that contributes to viscosity and stickiness; dextrinization reduces its impact.
+*   **Risotto Method:** A cooking technique involving toasting grains in fat before adding liquid, mimicking the process used for risotto rice.
+
 ## Keywords
 
 Dextrinization, Risotto Method, Pasta, Israeli Couscous, Toasting, Maillard Reaction, Viscosity, Separation, Soup, Pilaf

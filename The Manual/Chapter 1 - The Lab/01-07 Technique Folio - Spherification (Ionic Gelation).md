@@ -67,6 +67,16 @@ Use these starting percentages to formulate your own recipes.
 4. **Cook:** Let the spheres float in the bath for 2 minutes. Do not let them touch the bottom or each other.
 5. **Rinse & Serve:** Using a slotted spoon, transfer the spheres to a bowl of clean water to rinse off excess alginate. Serve immediately.
 
+## Glossary
+
+* **Sodium Alginate:** A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.
+* **Ionic Gelation:** A food-stabilization technique utilizing divalent cations, primarily calcium ions, to cross-link alginate chains, forming a semi-solid gel.
+* **Calcium Lactate Gluconate:** A calcium salt used as a setting agent in reverse spherification, offering a flavorless reaction compared to calcium chloride.
+* **Calcium Chloride:** A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
+* **Xanthan Gum:** A polysaccharide used as a viscosity modifier to increase the surface tension of a liquid, aiding in the formation of stable spheres.
+* **Sodium Citrate:** A buffering agent used to mitigate the degradation of alginate in acidic environments, maintaining gel stability.
+* **Shearing:** A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
+
 ## Keywords
 
 Spherification, Ionic Gelation, Sodium Alginate, Calcium, Hydrocolloids, Alginate, Gelation, Molecular Gastronomy, Emulsification, Technique Folio

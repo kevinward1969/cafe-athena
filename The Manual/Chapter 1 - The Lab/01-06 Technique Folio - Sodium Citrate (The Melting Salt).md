@@ -59,6 +59,16 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 4. **Finish:** Once all cheese is added, use an immersion blender for 10 seconds to ensure a perfect glossy texture.
 5. **Test:** Pour over chips or bread. Note that even as it cools, it does not separate; it simply firms up.
 
+## Glossary
+
+*   **Casein:** A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
+*   **Chelation:** The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
+*   **Emulsion:** A stable mixture of two or more immiscible liquids, such as fat and water, where one liquid is dispersed as small droplets within the other.
+*   **Sodium Ions:** Positively charged ions that, when replacing calcium ions in cheese, weaken the casein protein bonds, facilitating the melting process.
+*   **Calcium Ions:** Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
+*   **Emulsifying Salt:** A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
+*   **Dissolve:** The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
+
 ## Keywords
 
 Melting Salt, Sodium Citrate, Cheese, Emulsion, Casein, Calcium, Chelation, Food Science, Sauce, Dairy

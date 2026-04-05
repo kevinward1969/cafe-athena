@@ -59,6 +59,17 @@ At home, you likely do not have six different boards. Therefore, you must replac
 * **The Dry Hand:** Your dominant hand holds the knife. It *never* touches the meat directly.
 * This ensures your knife handle—and thus your salt cellar, oven door, and towels—remains sanitary.
 
+## Glossary
+
+* **Cognitive Load:** The deliberate organization of a workstation minimizes the mental effort required for task execution by reducing the need for constant searching and retrieval.
+* **Sanitation Vectoring:** Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
+* **Biofilm:** A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
+* **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, contributing significantly to flavor and aroma development during cooking.
+* **Proprioception:** The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
+* **Strict Hierarchy of Prep:** A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
+* **Biofilm:** The adherence of microorganisms to surfaces, forming a protective matrix that resists disruption by standard cleaning agents.
+* **Tannins:** Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
+
 ## Keywords
 
 Mise en place, Cognitive Load, Sanitation, Thermodynamics, Cutting Board, Workflow, Food Safety, Emulsion, Maillard Reaction, Station Management

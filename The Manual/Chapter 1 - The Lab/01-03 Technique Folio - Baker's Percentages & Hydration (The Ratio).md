@@ -22,6 +22,16 @@
 4. **Calculate Yeast (1%):** 500g × 0.01 = 5g Instant Yeast.
 5. **Action:** Combine, mix, and observe how this hydration level feels compared to a standard sandwich bread (usually 60%).
 
+## Glossary
+
+*   **Baker's Percentages:** A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
+*   **Hydration:** The ratio of water to flour in dough, critically influencing the gluten network's development and, consequently, the final crumb structure.
+*   **Gluten:** A protein complex within flour that, when hydrated and mixed, forms a network responsible for dough's elasticity and structure.
+*   **Crumb:** The internal texture of baked goods, particularly referring to the open or dense structure of bread.
+*   **Oven Spring:** The rapid expansion of dough in the oven due to steam pressure, contributing to the formation of large air pockets.
+*   **Scaling:** The process of adjusting recipe quantities, often utilizing baker's percentages for precise and repeatable results.
+*   **Dough:** A mixture of flour, water, and other ingredients that has been mixed and kneaded, forming a pliable mass ready for baking.
+
 ## Keywords
 
 Baker's Percentages, Hydration, Flour, Dough, Bread, Gluten, Yeast, Scaling, Rustic, Loaf

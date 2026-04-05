@@ -49,6 +49,15 @@ Yield: ~450 g dough (4 servings) | Prep: 45 min | Inactive: 30 min | Total: ~1 h
 * **Plasticity:** The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly.
 * **Lamination:** The process of folding dough to create layers. In pasta, this is micro-layering for texture rather than the macro-layering seen in croissants.
 
+## Glossary
+
+* **“00” Flour:** An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
+* **Plasticity:** The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly.
+* **Lamination:** The process of folding dough to create layers. In pasta, this is micro-layering for texture rather than the macro-layering found in pastry.
+* **Volcano Method:** A technique for incorporating liquid into flour, creating a well to prevent gluten development and resulting in a tender dough.
+* **Hydration:** The process of adding moisture to flour to develop gluten and create a cohesive dough; in this case, the absorption of egg yolk liquid into the starch granules.
+* **Scrape (Bench Scrape):** A tool used to cut and fold dough, ensuring even incorporation of flour and preventing tearing.
+
 ## Keywords
 
 Pasta Dough, Lamination, Egg Yolk, Gluten Inhibition, Fat Hydration, Emulsification, Italian, Technique, Pastry, Silk Texture

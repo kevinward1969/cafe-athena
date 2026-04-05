@@ -22,12 +22,13 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 | File | Role |
 |------|------|
 | `PROJECT_STATUS.md` | Session state — active recipes, pending tasks. Check this at the start of each session. |
-| `recipes.json` | Pipeline registry — tracks stage completion (glossary, hero image, format audit, etc.) for every entry. Updated via `/register-recipe` and `/sync-registry`. |
+| `recipes.json` | Pipeline registry — tracks stage completion per recipe. Each entry has `stages` (formatAudit, glossaryPull, heroImage, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
 | `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.agents/workflows/` | Slash-command workflow definitions |
+| `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
 | `The Manual/` | Full cookbook manuscript (source files) |
 | `site/src/content/recipes/` | Built recipe files consumed by the Astro site |
 
@@ -78,6 +79,31 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 | `/register-recipe [id]` | Register a new entry in `recipes.json` after Claude Desktop Mode 2 |
 | `/sync-registry` | Sync `recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |
+
+---
+
+## Local Python Scripts (Ollama)
+
+These scripts run against a local [Ollama](https://ollama.com) server (`localhost:11434`) — no API tokens used.
+
+**Installed models:** `llama3.2:latest` (default, 2 GB), `gemma3:4b` (higher quality, 3.3 GB)
+
+| Script | Purpose | Use when |
+|--------|---------|----------|
+| `scripts/audit.py` | Bulk audit + Ollama-powered repair | Run first to detect structural issues and generate glossary/keyword content |
+| `scripts/extract-keywords.py` | Keywords/Category backfill | Superseded by `audit.py` — use `audit.py --scan-only` + approve instead |
+| `scripts/add-glossary-sections.py` | Glossary section generation | Superseded by `audit.py` |
+
+**Common commands:**
+
+```bash
+python3 scripts/audit.py --scan-only        # scan all, no changes
+python3 scripts/audit.py --status           # show audit status summary
+python3 scripts/audit.py --chapter 3        # audit + fix Chapter 3
+python3 scripts/audit.py --model gemma3:4b  # use higher-quality model
+```
+
+See `README.md` for full documentation and the Ollama approval workflow.
 
 ---
 

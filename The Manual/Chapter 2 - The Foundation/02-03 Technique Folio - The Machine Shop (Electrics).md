@@ -54,6 +54,14 @@
 3. **Result:** Measure the temperature. It will likely have risen by 20–30°F.
 4. **Lesson:** If that water was a delicate fresh herb puree or a raw emulsion, you would have just cooked it. *Pulse* to keep things cool.
 
+## Glossary
+
+*   **Torque:** A rotational force applied to an object, crucial for understanding the power output of machines like stand mixers.
+*   **Shear Force:** A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
+*   **Friction Heat:** The conversion of kinetic energy (motion) into thermal energy (heat) due to resistance during processes like blending.
+*   **Lamination:** The process of layering dough sheets, achieved by the pasta roller, resulting in a desirable "snap" in the final product.
+*   **Smear:** The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
+
 ## Keywords
 
 Blending, Emulsification, Torque, Shear Force, High-Speed Blender, Immersion Blender, Food Processor, Friction, Heat, Liquid

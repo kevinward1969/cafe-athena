@@ -73,6 +73,14 @@ By borrowing the classical "sacrificial vegetable" technique, we infuse the wine
 * **Pincage:** The technique of cooking tomato paste in fat until it caramelizes/darkens, removing acidity and adding depth.
 * **Nappe:** The consistency of a sauce that is thick enough to coat the back of a spoon and hold a line when drawn through with a finger.
 
+## Glossary
+
+* **Sacrificial Aromatics:** Vegetables used solely for flavor extraction in a stock or sauce base, intended to be discarded rather than eaten.
+* **Lardons:** Strips of slab bacon or salt pork, usually poached or rendered to create a cooking fat.
+* **Pincage:** The Maillard reaction occurring when tomato paste is cooked in fat, resulting in a dark, intensely flavored crust.
+* **Fond:** The browned bits of food residue that accumulate on the bottom of a pot during cooking, contributing significantly to flavor.
+* **Nappe:** A thickened sauce that coats the back of a spoon, achieved through emulsification with fat.
+
 ## Keywords
 
 Braising, Red Wine, Short Ribs, Gelatin, Reduction, Bacon, Leeks, Wine, French, Umami

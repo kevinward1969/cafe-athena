@@ -53,6 +53,16 @@ Add the **cold Butter**, **Parmigiano-Reggiano**, and **Mascarpone**. Whisk unti
 
 **Gelatinization:** The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid. **Mantecatura:** An Italian technique (usually for risotto) of vigorously beating cold fat and cheese into a hot starch mixture to create a creamy emulsion. **Retrogradation:** The recrystallization of starch molecules as they cool, causing the food to harden or weep liquid (syneresis).
 
+## Glossary
+
+*   **Gelatinization:** The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
+*   **Mantecatura:** An Italian technique of vigorously beating cold fat and cheese into a hot starch mixture to create a creamy emulsion.
+*   **Retrogradation:** The recrystallization of starch molecules as they cool, causing the food to harden or weep liquid (syneresis).
+*   **Emulsification:** The process of combining two immiscible liquids (like fat and water) into a stable mixture, typically through the action of an emulsifier.
+*   **Nappe:** A term describing a sauce or puree’s consistency – thick enough to coat the back of a spoon without running off immediately.
+*   **Syneresis:** The expulsion of liquid from a gel or emulsion, often due to the loss of structural integrity.
+*   **Polenta:** A traditional Italian dish made from coarsely ground cornmeal, cooked in water or broth to create a creamy porridge.
+
 ## Keywords
 
 Polenta, Pressure Cooking, Gelatinization, Cornmeal, Dairy, Parmesan, Mantecatura, Emulsification, Texture, Creamy

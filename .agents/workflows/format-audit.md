@@ -4,6 +4,8 @@ description: Audits recipes and technique folios for formatting and structural a
 
 # Format Audit Workflow
 
+> **Note:** This slash command performs a deep AI-driven content review (sensory cues, Mise vs. Method violations, typographic checks). For bulk structural detection and automated glossary/keyword generation, use `scripts/audit.py` instead. The two tools are complementary — run `audit.py` first to close structural gaps, then `/format-audit` for content-level review.
+
 1. The user will provide a command like `/format-audit [identifier]`. The identifier can be a specific file (e.g., `04-15`) or a broad scope like an entire chapter (e.g., `Chapter 4`).
 2. Search the `The Manual/` directory using the Glob tool (with a wildcard pattern like `**/[identifier]*`) to locate all matching documents.
 3. Determine if the target documents are Recipes or Technique Folios.

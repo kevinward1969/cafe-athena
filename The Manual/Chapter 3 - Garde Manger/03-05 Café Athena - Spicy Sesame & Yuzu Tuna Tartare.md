@@ -59,6 +59,15 @@ Yield: 4 servings | Prep: 30 min | Cook: 0 min
 * **Saku:** A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.
 * **Emulsion:** A mixture of two liquids that don't normally mix (like oil and water/vinegar), held together by a stabilizer (in this case, the egg yolk in the mayonnaise).
 
+## Glossary
+
+*   **Brunoise:** A very fine dice (1/8 inch), used to ensure the garnish doesn't overpower the main ingredient.
+*   **Emulsion:** A mixture of two liquids that don't normally mix (like oil and water/vinegar), held together by a stabilizer (in this case, the egg yolk in the mayonnaise).
+*   **Saku:** A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.
+*   **Mayonnaise:** A stable emulsion of oil and egg yolk, used here as a base for the spicy component.
+*   **Denaturation:** The process of unfolding or disrupting the structure of a protein, often triggered by heat or acid.
+*   **Brunoise:** A very fine dice (1/8 inch), used to ensure the garnish doesn't overpower the main ingredient.
+
 ## Keywords
 
 Tuna, Tartare, Emulsion, Sesame, Yuzu, Spicy, Sushi, Japanese, Avocado, Raw Fish

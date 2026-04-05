@@ -49,6 +49,16 @@
    * *Observation:* You will likely see dark toast in the back corners and pale bread near the door.
    * *Correction:* This map tells you why you must *rotate your trays* halfway through baking.
 
+## Glossary
+
+*   **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that produces browned flavor in food.
+*   **Convection:** A heat transfer method involving the movement of fluids (air or liquid) to distribute heat.
+*   **Radiation:** A heat transfer method involving electromagnetic waves, such as infrared radiation.
+*   **Leidenfrost Effect:** A phenomenon where a liquid droplet suspended above a hot surface vaporizes due to the intense heat, creating a cushion that prevents direct contact.
+*   **Searing:** A high-heat cooking technique using direct contact with a hot surface to develop a browned crust on food.
+*   **Threshold:** The minimum temperature required for a specific chemical reaction, such as the Maillard reaction, to occur effectively.
+*   **Inverse Square Law:** A principle stating that the intensity of radiation decreases proportionally to the square of the distance from the source.
+
 ## Keywords
 
 Conduction, Convection, Radiation, Heat Transfer, Maillard Reaction, Searing, Steak, Cast Iron, Temperature Control, Flavor Chemistry

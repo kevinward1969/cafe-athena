@@ -56,6 +56,16 @@ This recipe leverages the enzymatic activity of a healthy sourdough discard to c
 * **Bulk Fermentation:** The first stage of fermentation, where the dough gains the majority of its volume.
 * **Salamoia:** An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
 
+## Glossary
+
+*   **Alveoli:** The internal hole structure of the bread.
+*   **Autolyse:** A resting period for dough immediately after mixing flour and water, aiding gluten development.
+*   **Bulk Fermentation:** The first stage of fermentation, where the dough gains the majority of its volume.
+*   **Salamoia:** An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
+*   **Stretch and Fold:** A technique used to develop gluten strength in dough without excessive kneading.
+*   **Sourdough Discard:** A fermented starter used in bread making, contributing acidity and flavor.
+*   **Dimpled:** Characterized by indentations or depressions in the surface.
+
 ## Keywords
 
 Sourdough, Focaccia, Discard, High-hydration, Olive Oil, Yeast, Salt, Baking, Dimpled, Steam

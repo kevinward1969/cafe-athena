@@ -80,6 +80,15 @@ Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and 
 * **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the mixture.
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 
+## Glossary
+
+*   **Panade:** A liquid fat mixture, typically water and butter, used to hydrate flour and gelatinize starch in doughs like pâte à choux.
+*   **Gelatinization:** The process by which starch granules absorb water and swell, resulting in a thickened mixture; crucial for achieving the desired texture in doughs.
+*   **Sensory Cue:** A descriptive term referring to a specific tactile or visual indication of a dough’s development, such as the “filmy skin” indicating proper drying.
+*   **Emulsion:** A stable mixture of two or more immiscible liquids, like oil and egg, where one is dispersed within the other, creating a homogenous texture.
+*   **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, producing complex flavors and aromas during high-heat cooking.
+*   **Shock (in culinary context):** The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
+
 ## Keywords
 
 Pâte à Choux, Gnocchi, Dumplings, Pastry, Choux, Butter-basted, French, Egg, Cheese, Herbal, Seared

@@ -24,6 +24,16 @@
 4. **Shear:** Place the gel chunks into a blender with 0.5g (a tiny pinch) of xanthan gum.
 5. **Observe:** Blend on high until the mixture is perfectly smooth. Pipe a dot onto a plate; it should stand tall without any water ring forming around the base.
 
+## Glossary
+
+*   **Shear-Thinning:** A rheological property describing a fluid's viscosity reduction under shear stress, resulting in a thinned consistency.
+*   **Agar-Agar:** A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
+*   **Xanthan Gum:** A polysaccharide used as a food additive to stabilize emulsions, prevent syneresis, and modify texture.
+*   **Hydrocolloid:** A large family of water-soluble polymers used in food science to modify texture, stability, and viscosity.
+*   **Blending:** The process of mechanically agitating a substance, particularly a liquid, using a high-speed blender to disrupt structures and create a homogenous mixture.
+*   **Syneresis:** The expulsion of free water from a gel or emulsion, often caused by the breakdown of the stabilizing network.
+*   **Rheology:** The study of the flow and deformation of matter, encompassing properties like viscosity and elasticity.
+
 ## Keywords
 
 Shear-Thinning, Agar-Agar, Xanthan Gum, Hydrocolloid, Blending, Gel, Texture, Lemon, Herb, Spherical

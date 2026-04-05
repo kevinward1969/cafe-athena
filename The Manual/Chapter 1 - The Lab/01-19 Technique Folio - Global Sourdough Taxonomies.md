@@ -19,6 +19,16 @@
 * **Buffering Capacity:** Whole Wheat and Rye flours act as a "buffer," meaning they can tolerate higher levels of acid before the pH drops. This allows you to ferment them longer without destroying the dough.
 * **Enzymatic Velocity:** Rye ferments fastest; White flour ferments slowest. If you are in a rush, feed your starter Rye. If you want to sleep in, feed it White.
 
+## Glossary
+
+*   **Amylase:** An enzyme naturally present in rye flour that rapidly breaks down starches, accelerating fermentation.
+*   **Buffering Capacity:** The ability of a flour, such as whole wheat or rye, to resist pH changes during fermentation, allowing for extended fermentation times.
+*   **Hydration:** The ratio of water to flour in a dough, significantly impacting gluten development and microbial activity.
+*   **Lactic Acid:** A primary organic acid produced by bacteria during sourdough fermentation, contributing to a creamy, yogurt-like flavor.
+*   **Microbial:** Relating to or consisting of microorganisms, specifically referring to the bacteria and yeasts involved in sourdough fermentation.
+*   **Substrate:** The grain or flour used as a food source for the sourdough starter, influencing its bacterial composition and flavor.
+*   **Strengthen:** The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
+
 ## Keywords
 
 Sourdough, Starter, Fermentation, Gluten, Whole Wheat, Rye Flour, Baking, Bread, Lactic Acid, Microbial, USA, Belgium, Germany, Italy, San Francisco Style, Desem, Lievito Madre, Amish Friendship

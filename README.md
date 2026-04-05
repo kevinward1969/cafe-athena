@@ -76,8 +76,10 @@ cafe-athena/
 │       ├── recipe-hero-image.md
 │       └── session-handoff.md
 │
-├── scripts/                        # Utility scripts
-│   └── extract-keywords.py
+├── scripts/                        # Local Python utility scripts (Ollama-powered)
+│   ├── audit.py                    # ⭐ Recipe audit & repair tool
+│   ├── add-glossary-sections.py    # (superseded by audit.py)
+│   └── extract-keywords.py         # (superseded by audit.py)
 │
 └── Claude-Desktop/                 # Legacy Claude Desktop configuration
 ```
@@ -202,6 +204,89 @@ Here's the finalized version: [recipe text]"
 "Teach me about the Maillard reaction — not just browning,
 the actual chemistry and how temperature affects it."
 ```
+
+---
+
+## 🔧 Local Python Tools
+
+These scripts run locally and use [Ollama](https://ollama.com) for AI generation — no API tokens consumed.
+
+### Prerequisites
+
+```bash
+# Install Ollama (macOS)
+brew install ollama
+ollama serve         # starts the local server at localhost:11434
+
+# Pull the models used by audit.py
+ollama pull llama3.2   # default — fast, 2 GB
+ollama pull gemma3:4b  # higher quality output, 3.3 GB
+```
+
+### audit.py — Recipe Audit & Repair
+
+The primary local tool. Scans every recipe file against the format standard, identifies structural issues, generates fixes via Ollama for auto-fixable problems, and applies changes only after user approval. Results are written back to `recipes.json` under an `audit` block.
+
+```bash
+# Audit all recipes (scan only — no changes)
+python3 scripts/audit.py --scan-only
+
+# Show current audit status summary
+python3 scripts/audit.py --status
+
+# Audit a single recipe (with fix generation + approval)
+python3 scripts/audit.py --id 04-15
+
+# Audit an entire chapter
+python3 scripts/audit.py --chapter 3
+
+# Audit only recipes not yet audited
+python3 scripts/audit.py --pending-only
+
+# Use a different model (gemma3:4b produces richer definitions)
+python3 scripts/audit.py --model gemma3:4b
+
+# Apply all generated fixes without interactive prompts (use when running via Claude Code)
+python3 scripts/audit.py --auto-approve
+```
+
+**What it detects:**
+
+| Issue | Auto-fix via Ollama? |
+| --- | --- |
+| Missing `## Headnote` | No — manual rewrite needed |
+| Missing `## Mise en Place` | No — manual rewrite needed |
+| Missing `## Ingredients` | No — manual rewrite needed |
+| Missing `## Method` | No — manual rewrite needed |
+| Missing `## Glossary` | **Yes** — generates 3–8 culinary definitions |
+| Missing `## Keywords` | **Yes** — generates 10–15 comma-separated terms |
+| Missing `## Category` | **Yes** — assigns from controlled vocabulary |
+| Malformed `## Category` | **Yes** — rewrites to correct format |
+| Sections out of order | No — flagged for manual correction |
+| Pre-standard bold-header format | No — flagged for full reformat in Claude Desktop |
+
+**Approval flow:** For each recipe with auto-fixable issues, `audit.py` calls Ollama, displays the proposed content, and asks `[y/n/edit]` before writing anything. Approved fixes are applied to the source file in `The Manual/` and the `audit` field in `recipes.json` is updated.
+
+**recipes.json `audit` block:**
+
+```json
+"audit": {
+  "lastRun": "2026-04-05",
+  "status": "clean | issues_found | approved",
+  "issues": ["missing_glossary", "missing_keywords"]
+}
+```
+
+### Relationship to `/format-audit`
+
+The `/format-audit` slash command (Claude Code) and `audit.py` are **complementary, not competing**:
+
+| Tool | Scope | Depth | Use when |
+| --- | --- | --- | --- |
+| `audit.py` | Structural section detection | Fast, pattern-based | Bulk scanning and glossary/keyword generation |
+| `/format-audit` | Deep content review | AI-driven, nuanced | Checking sensory cues, Mise vs. Method violations, typographic correctness |
+
+Run `audit.py` first to fix structural gaps, then `/format-audit` for deep content review.
 
 ---
 

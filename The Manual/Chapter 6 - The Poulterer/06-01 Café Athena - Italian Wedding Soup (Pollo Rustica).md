@@ -65,6 +65,14 @@
 * **Mirepoix:** A flavor base made from diced vegetables (usually onions, carrots, and celery).
 * **Deglaze:** Adding liquid to a hot pan to dissolve the fond.
 
+## Glossary
+
+*   **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that produces browned food with complex flavor.
+*   **Fond:** The concentrated, browned flavor residue (gelatin) left on the bottom of a pan after searing or sautéing.
+*   **Mirepoix:** A foundational flavor base consisting of diced onions, carrots, and celery, commonly used in French and Italian cuisine.
+*   **Deglaze:** The process of dissolving the *fond* (browned bits) from a pan by adding a liquid, typically wine or stock.
+*   **Al Dente:** A term describing pasta or grains that are cooked to be firm to the bite, retaining a slight resistance.
+
 ## Keywords
 
 Italian, Chicken, Meatballs, Couscous, Searing, Risotto, Herbs, Stock, Wine, Parmesan, Maillard, Poultry, Soup, Rustic

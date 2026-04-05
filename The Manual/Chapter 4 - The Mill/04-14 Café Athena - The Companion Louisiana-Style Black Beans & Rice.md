@@ -83,6 +83,16 @@ Serve side-by-side with the Competition Red in a bowl or divided plate. Spoon th
 * **Make-Ahead:** Start your bean soak the same night you put the chili into its Cold-Cure — zero extra effort. The beans improve overnight after cooking, just like the chili. Cook them the day before if possible. The rice is best made day-of. Reheat the beans gently with a splash of stock — they will thicken considerably as they cool. Reheat the rice in a covered pot over low heat with a few drops of water.
 * **Scaling:** This recipe serves 16–20 as a side portion. For a bar cook-off, assume about half your crowd will want the beans and rice. Scale accordingly.
 
+## Glossary
+
+* **Mashing:** The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
+* **Bloom:** The process of heating spices, such as cumin, in oil to release their volatile aromatic compounds and intensify their flavor.
+* **Rice Vinegar:** A seasoned vinegar, typically containing rice vinegar, sugar, and salt, used to flavor and adjust the acidity of sushi rice.
+* **Louisiana Holy Trinity:** A foundational mirepoix of diced onion, celery, and bell pepper, commonly used in Louisiana Creole and Cajun cuisine.
+* **Acid Finish:** The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
+* **Starch Release:** The enzymatic breakdown of bean cell walls during prolonged simmering, resulting in the release of soluble starches that thicken the liquid.
+* **Mise en Place:** The French culinary term for "everything in its place," referring to the preparation of ingredients before beginning to cook.
+
 ## Keywords
 
 Black Beans, Louisiana Cuisine, Smoked Sausage, Pork, Sushi Rice, Fermented, Stew, Cumin, Rice Vinegar, Smoky

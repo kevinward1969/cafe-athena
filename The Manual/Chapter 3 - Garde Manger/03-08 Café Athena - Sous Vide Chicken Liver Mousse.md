@@ -62,6 +62,15 @@ Yield: 4–6 Ramekins (500 ml) | Prep: 40 min | Cook: 60 min | Set: 4–12 hr
 * **Au Sec:** "Until dry." To cook a liquid until it has nearly evaporated.
 * **Bloom:** To hydrate gelatin in cold water before heating, ensuring it dissolves evenly without clumping.
 
+## Glossary
+
+*   **Forcemeat:** A mixture of ground, lean meat emulsified with fat.
+*   **Au Sec:** "Until dry." To cook a liquid until it has nearly evaporated.
+*   **Bloom:** To hydrate gelatin in cold water before heating, ensuring it dissolves evenly without clumping.
+*   **Curing Salt #1:** Sodium nitrite used in small quantities to inhibit bacterial growth and maintain color in cured meats.
+*   **Chinois:** A fine-mesh sieve used for straining delicate mixtures, ensuring a smooth texture.
+*   **Emulsion:** A stable mixture of two immiscible liquids, such as fat and water, created through the process of emulsification.
+
 ## Keywords
 
 Sous Vide, Chicken Liver, Mousse, Emulsion, Gelée, Port Wine, Fat-in-Water, Pâté, Thermal Precision, Fermented

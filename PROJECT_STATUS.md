@@ -6,16 +6,13 @@ Last Updated: 2026-04-05
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
-| **10-22** | Beurre Noisette (The Toasted Butter) | Completed | Written to Chapter 10. **Pending:** Caper variant timing, dual-state miso appearance, live cross-ref to 09-02. |
-| **07-11** | Pressure-Braised Chuck Roast | Completed | **Pending:** Add Cognac substitute options. |
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
 | **04-16** | Definitive Guide to Egg Pasta | Completed | Indexed. |
 
 ## 🌅 On the Horizon
 
-- **Vidalia Onion Exploration**: Caramelized onion oil or confit as a companion to 11-01 (Vibrant Green Herb Oil). *Note: Currently consulting cookbooks.*
-- **Glossary Workflow**: Automated terminology extraction from recipes with duplicate prevention and A-Z sorting.
-- **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary.
+- **Glossary Workflow**: Automated terminology extraction from recipes with duplicate prevention and A-Z sorting. Track progress via `glossaryPull` in `recipes.json` — 72 entries pending.
+- **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary. Run after glossary pull backlog is cleared.
 
 ---
 
@@ -23,15 +20,7 @@ Last Updated: 2026-04-05
 
 ### Hero Image Progress
 
-| Chapter | Status |
-| :--- | :--- |
-| Chapter 1 — The Lab (01-01 through 01-19) | ✅ All deployed |
-| Chapter 2 — The Foundation (02-01 through 02-04) | ✅ Deployed |
-| Chapter 2 — The Foundation (02-05 through 02-07) | ⏳ Pending |
-| Chapter 3 — Garde Manger (03-01 through 03-05) | ✅ All deployed |
-| Chapter 3 — Garde Manger (03-06 through 03-10) | ✅ All deployed |
-| Chapter 3 — Garde Manger (03-11 through 03-13) | ✅ All deployed |
-| Chapters 4–11 | ⏳ Pending |
+Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
 **Next hero image batch:** 02-05, 02-06, 02-07 (The Larder, The Steward, Sanitation & HACCP)
 
@@ -39,20 +28,13 @@ Last Updated: 2026-04-05
 
 ### Glossary Pull — Missing Entries
 
-Run `/glossary-pull [index]` for each file below. Chapters 8–11 are complete.
+Tracked in `recipes.json` via `glossaryPull` stage. **72 entries remaining** (Chapters 1–7, plus any new additions). Chapters 8–11 are complete.
 
-| Chapter | Files Remaining | Command |
-| :--- | :--- | :--- |
-| Chapter 1 - The Lab | 19/19 | `/glossary-pull 01-01` through `01-19` |
-| Chapter 2 - The Foundation | 7/7 | `/glossary-pull 02-01` through `02-07` |
-| Chapter 3 - Garde Manger | 12/13 | All except 03-01 |
-| Chapter 4 - The Mill | 15/18 | All except 04-05, 04-11, 04-16 |
-| Chapter 5 - The Fishmonger | 2/2 | `/glossary-pull 05-01`, `05-02` |
-| Chapter 6 - The Poulterer | 6/6 | `/glossary-pull 06-01` through `06-06` |
-| Chapter 7 - The Butcher | 8/13 | All except 07-01–07-05 |
-| Chapters 8–11 | ✅ Complete | — |
+Run `/glossary-pull [id]` for each pending entry. Check status with:
 
-**Total remaining: ~69 files**
+```
+python3 -c "import json; d=json.load(open('recipes.json')); [print(r['id']) for r in d['recipes'] if not r['stages'].get('glossaryPull')]"
+```
 
 ---
 

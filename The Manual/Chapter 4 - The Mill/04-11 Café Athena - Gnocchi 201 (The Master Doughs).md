@@ -118,6 +118,16 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 * **Gelatinization:** The process in which starch granules absorb water and swell when heated, thickening the liquid (seen in Phase 3).
 * **Semolina:** Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
 
+## Glossary
+
+* **Retrogradation:** The process by which starch molecules re-associate, creating a firmer, more stable structure in baked potatoes, crucial for gnocchi dough cohesion.
+* **Coagulation:** The process of protein molecules clumping together, as seen in ricotta, contributing to the binding properties of the gnocchi dough.
+* **Gelatinization:** The process of starch granules absorbing water and swelling, creating a thickened paste, utilized in the semolina-based gnocchi.
+* **Moisture Management:** A technique focused on controlling water content during dough formation, essential for achieving a light and tender gnocchi texture, avoiding a dense, chewy result.
+* **Sensory Cue:** The tactile assessment of dough consistency – in this case, a soft, slightly tacky texture indicative of optimal gluten development without overworking.
+* **Choux Pastry:** A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+* **Polenta:** A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+
 ## Keywords
 
 Gnocchi, Potato, Ricotta, Semolina, Starch, Dough, Pasta, Baking, Moisture Management, Texture
