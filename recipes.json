@@ -30,7 +30,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-02",
@@ -48,7 +50,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-03",
@@ -66,7 +70,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-04",
@@ -84,7 +90,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-05",
@@ -102,7 +110,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-06",
@@ -120,7 +130,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-07",
@@ -138,7 +150,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-08",
@@ -156,7 +170,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-09",
@@ -174,7 +190,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-10",
@@ -192,7 +210,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-11",
@@ -210,7 +230,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-12",
@@ -228,7 +250,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-13",
@@ -246,7 +270,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-14",
@@ -264,7 +290,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-15",
@@ -282,7 +310,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-16",
@@ -300,7 +330,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-17",
@@ -318,7 +350,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-18",
@@ -336,7 +370,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "01-19",
@@ -354,7 +390,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "02-01",
@@ -372,7 +410,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "02-02",
@@ -390,7 +430,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "02-03",
@@ -408,7 +450,9 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "02-04",
@@ -426,7 +470,9 @@
         "referenceImages": true,
         "referenceImagesProcessed": true,
         "deployed": false
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "02-05",
