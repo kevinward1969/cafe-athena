@@ -202,8 +202,46 @@ Note to user: *"WebP files are now in the chapter folders. The deploy script wil
 
 ---
 
+### Phase 5 — Chapter Folder Cleanup
+
+After a successful deploy, delete the converted WebP files from the chapter folder — they are now canonical in `site/public/images/` and the chapter copy is redundant.
+
+For each processed index, delete `{index}.webp` from the chapter folder:
+
+```bash
+rm "The Manual/Chapter {N} - {chapterName}/{index}.webp"
+```
+
+Confirm: *"Chapter folder cleanup complete. WebP source files removed from `The Manual/`."*
+
+Commit the deletions:
+
+```bash
+git add -A
+git commit -m "chore: remove processed WebP images from Chapter {N} manual folder"
+git push
+```
+
+---
+
+## BYPASS MODE (Pre-Optimized Images)
+
+If the user has already optimized and placed the WebP directly into `site/public/images/` (skipping the chapter folder entirely), use this streamlined path:
+
+**Trigger:** User states the image is already in `site/public/images/`, or the file is found there but not in the chapter folder.
+
+1. Verify the file exists at `site/public/images/{index}.webp`
+2. Update `recipes.json` — set `heroImage: true`, `heroImageOptimized: true`
+3. Run `bash site/scripts/deploy.sh`
+4. After successful deploy, update `recipes.json` — set `deployed: true`
+5. Commit and push
+
+Skip Phase 3 (optimization script) and Phase 5 (chapter folder cleanup) entirely — there is nothing to clean up.
+
+---
+
 ## Notes
 
-- **`site/public/images/` is never touched directly.** It is fully managed by `prepare-content.py` which runs as Step 1 of `deploy.sh`.
+- **Chapter folder WebPs must be deleted after deploy.** Once `site/public/images/` has the canonical copy and `heroImageOptimized: true` is set in `recipes.json`, the chapter folder copy serves no purpose.
 - `prepare-content.py` supports both `.png` and `.webp` hero images — it checks for `.webp` first, then falls back to `.png`.
 - The built recipe files in `site/src/content/recipes/` are auto-generated. Never edit them manually.
