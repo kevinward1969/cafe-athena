@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-04
+Last Updated: 2026-04-05
 
 ## 🎯 Active Development
 
@@ -28,7 +28,10 @@ Last Updated: 2026-04-04
 | Chapter 1 — The Lab (01-01 through 01-19) | ✅ All deployed |
 | Chapter 2 — The Foundation (02-01 through 02-04) | ✅ Deployed |
 | Chapter 2 — The Foundation (02-05 through 02-07) | ⏳ Pending |
-| Chapters 3–11 | ⏳ Pending |
+| Chapter 3 — Garde Manger (03-01 through 03-05) | ✅ All deployed |
+| Chapter 3 — Garde Manger (03-06 through 03-10) | ✅ All deployed |
+| Chapter 3 — Garde Manger (03-11 through 03-13) | ⏳ Pending |
+| Chapters 4–11 | ⏳ Pending |
 
 **Next hero image batch:** 02-05, 02-06, 02-07 (The Larder, The Steward, Sanitation & HACCP)
 
@@ -115,11 +118,11 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 | 02-06 | The Steward (Care & Maintenance) | Ch. 2 | Pending |
 | 02-07 | Sanitation & HACCP (The Defense) | Ch. 2 | Pending |
 | 03-02 | Mini Boursin & Bacon Meatballs | Ch. 3 | Pending |
-| 03-06 | Vacuum-Infused Market Pickles | Ch. 3 | Pending |
-| 03-07 | Silky Chicken Liver Mousse | Ch. 3 | Pending |
-| 03-08 | Sous Vide Chicken Liver Mousse | Ch. 3 | Pending |
-| 03-09 | Winter Citrus & Shaved Fennel Salad | Ch. 3 | Pending |
-| 03-10 | Velvet Mushroom Mousse | Ch. 3 | Pending |
+| 03-06 | Vacuum-Infused Market Pickles | Ch. 3 | ✅ Deployed |
+| 03-07 | Silky Chicken Liver Mousse | Ch. 3 | ✅ Deployed |
+| 03-08 | Sous Vide Chicken Liver Mousse | Ch. 3 | ✅ Deployed |
+| 03-09 | Winter Citrus & Shaved Fennel Salad | Ch. 3 | ✅ Deployed |
+| 03-10 | Velvet Mushroom Mousse | Ch. 3 | ✅ Deployed |
 | 03-11 | Double Deviled Eggs (Le Jambon) | Ch. 3 | Pending |
 | 03-12 | Deviled Ham & Cognac Mousse | Ch. 3 | Pending |
 | 03-13 | Calf Liver & Duck Fat Mousse | Ch. 3 | Pending |

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Caf\u00e9 Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
     "generatedOn": "2026-04-04",
     "stages": {
       "formatAudit": "Format audit run via /format-audit",
@@ -637,11 +637,11 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       }
     },
     {
@@ -655,11 +655,11 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       }
     },
     {
@@ -673,11 +673,11 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       }
     },
     {
@@ -691,16 +691,16 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       }
     },
     {
       "id": "03-10",
-      "title": "Velvet Mushroom Mousse (Vegetarian P\u00e2t\u00e9)",
+      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -709,11 +709,11 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       }
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "id": "03-12",
-      "title": "Deviled Ham & Cognac Mousse (P\u00e2t\u00e9 Rustique)",
+      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -898,7 +898,7 @@
     },
     {
       "id": "04-08",
-      "title": "Parisian Gnocchi (P\u00e2te \u00e0 Choux)",
+      "title": "Parisian Gnocchi (Pâte à Choux)",
       "chapter": 4,
       "chapterName": "The Mill",
       "type": "recipe",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": "06-06",
-      "title": "Modern Chicken Pot Pie (Velout\u00e9 Method)",
+      "title": "Modern Chicken Pot Pie (Velouté Method)",
       "chapter": 6,
       "chapterName": "The Poulterer",
       "type": "recipe",
@@ -1584,7 +1584,7 @@
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1602,7 +1602,7 @@
       "id": "09-02",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1620,7 +1620,7 @@
       "id": "09-03",
       "title": "Sesame Tuile Cylinders (Noir & Orange)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1636,9 +1636,9 @@
     },
     {
       "id": "09-04",
-      "title": "P\u00e2te \u00e0 Choux (The Steam Dough)",
+      "title": "Pâte à Choux (The Steam Dough)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1654,9 +1654,9 @@
     },
     {
       "id": "09-05",
-      "title": "P\u00e2te Feuillet\u00e9e (Classic Puff Pastry)",
+      "title": "Pâte Feuilletée (Classic Puff Pastry)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1672,9 +1672,9 @@
     },
     {
       "id": "09-06",
-      "title": "P\u00e2te Bris\u00e9e (Classic Shortcrust)",
+      "title": "Pâte Brisée (Classic Shortcrust)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1690,9 +1690,9 @@
     },
     {
       "id": "09-07",
-      "title": "P\u00e2te Sucr\u00e9e (Sweet Tart Dough)",
+      "title": "Pâte Sucrée (Sweet Tart Dough)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1708,9 +1708,9 @@
     },
     {
       "id": "09-08",
-      "title": "Rough Puff Pastry (Demi-Feuillet\u00e9e)",
+      "title": "Rough Puff Pastry (Demi-Feuilletée)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1726,9 +1726,9 @@
     },
     {
       "id": "09-09",
-      "title": "P\u00e2te Sabl\u00e9e (Rich Shortbread Crust)",
+      "title": "Pâte Sablée (Rich Shortbread Crust)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1746,7 +1746,7 @@
       "id": "09-10",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1762,9 +1762,9 @@
     },
     {
       "id": "09-11",
-      "title": "Brandy-Infused Canel\u00e9s de Bordeaux",
+      "title": "Brandy-Infused Canelés de Bordeaux",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -1816,7 +1816,7 @@
     },
     {
       "id": "10-03",
-      "title": "Sauce B\u00e9chamel (Mother Sauce No. 1)",
+      "title": "Sauce Béchamel (Mother Sauce No. 1)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -1888,7 +1888,7 @@
     },
     {
       "id": "10-07",
-      "title": "Master Compound Butter (Beurre Compos\u00e9)",
+      "title": "Master Compound Butter (Beurre Composé)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "10-10",
-      "title": "Classic Remoulade (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Remoulade (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -1960,7 +1960,7 @@
     },
     {
       "id": "10-11",
-      "title": "Classic Tartar Sauce (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Tartar Sauce (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -1978,7 +1978,7 @@
     },
     {
       "id": "10-12",
-      "title": "Cultured Cr\u00e8me Fra\u00eeche",
+      "title": "Cultured Crème Fraîche",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "10-13",
-      "title": "Classic Rag\u00f9 alla Bolognese",
+      "title": "Classic Ragù alla Bolognese",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2050,7 +2050,7 @@
     },
     {
       "id": "10-16",
-      "title": "Sauce Velout\u00e9 (Mother Sauce No. 2)",
+      "title": "Sauce Velouté (Mother Sauce No. 2)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
