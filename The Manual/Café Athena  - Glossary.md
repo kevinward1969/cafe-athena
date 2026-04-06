@@ -116,6 +116,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - De-gas: The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
+- Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
 - Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
 - Desiccation: The removal of moisture. Essential for efficient browning.
 - Desired Dough Temperature (DDT): A calculated target temperature for dough fermentation, typically maintained through precise control of water temperature and environmental factors.
@@ -136,6 +137,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Draw Slice: A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
+- Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
 - Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Détrempe: The base ball of dough that encases the butter in laminated pastries.
 
@@ -302,6 +304,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
+- Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
 - Proteolysis: The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
 - Purge: The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
@@ -326,6 +329,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Risottata: A cooking technique, particularly applied to pasta, involving the gradual addition of liquid to create a creamy, thickened sauce through starch release.
 - Risotto Method: A cooking technique involving toasting grains in fat before adding liquid, mimicking the process used for risotto rice.
 - Rolling Cut: A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
+- Roulade: A preparation rolled into a tight cylinder — typically using plastic wrap or a flat food layer — then chilled to hold its compressed shape before slicing or further cooking.
 - Roux: A cooked mixture of equal parts fat (typically butter) and flour, used as a thickening agent for sauces and other culinary preparations.
 - Rye Flour: A grain flour containing a high mineral content (ash) and amylase activity, essential for establishing a robust sourdough starter.
 
