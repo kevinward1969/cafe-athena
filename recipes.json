@@ -2306,6 +2306,31 @@
       "heroImageOptimized": true
     },
     {
+      "id": "07-13",
+      "title": "Individual Beef Wellington",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-06",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-06",
+        "status": "clean",
+        "issues": []
+      },
+      "heroImage": false,
+      "heroImageOptimized": false
+    },
+    {
       "id": "08-01",
       "title": "King Trumpet \"Scallops\" & Celeriac Mousseline",
       "chapter": 8,
