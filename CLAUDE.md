@@ -114,7 +114,24 @@ See `README.md` for full documentation and the Ollama approval workflow.
 - Hero images (source): `The Manual/Chapter N - Name/XX-YY.png` (or `.webp`)
 - Hero images (site): `site/public/images/XX-YY.webp`
 - Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content
-- Deploy: `site/deploy.sh`
+- Deploy: `site/scripts/deploy.sh` (from project root) — but **do not run prepare-content.py** during deploy if images have been placed directly in `site/public/images/`, as it can wipe them.
+
+### ⚠️ heroImage Frontmatter Format (CRITICAL)
+
+The `heroImage` field in `site/src/content/recipes/XX-YY.md` must be the **filename only** — e.g. `"07-10.webp"`. **Never** use a path like `"/images/07-10.webp"`.
+
+The template (`[...slug].astro:30`) automatically prepends `/images/` when rendering. Using a full path results in a broken double-path like `/images//images/07-10.webp`.
+
+When manually adding heroImage frontmatter (not via prepare-content.py), always use: `heroImage: "XX-YY.webp"`
+
+### Two Image Workflows
+
+1. **Via The Manual:** Place `.png` in `The Manual/Chapter N/` → `prepare-content.py` copies it to `site/public/images/` and sets the frontmatter automatically.
+2. **Direct placement:** Place optimized `.webp` directly in `site/public/images/` → manually set `heroImage: "XX-YY.webp"` in `site/src/content/recipes/XX-YY.md` (filename only, no path prefix).
+
+### Known Issues
+
+- **07-10.2 recipe not appearing on site:** The `extract_index` regex in `prepare-content.py` (line 111) only matches `XX-YY` with optional lowercase letter suffixes (`[a-z]*`). The `.2` version suffix in `07-10.2` is not supported. This recipe needs a manual site content file or a regex fix to support numeric sub-versions.
 
 ---
 
