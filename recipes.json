@@ -2266,8 +2266,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
@@ -2276,7 +2276,9 @@
         "lastRun": "2026-04-05",
         "status": "clean",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "07-12",
@@ -2289,8 +2291,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
@@ -2299,7 +2301,9 @@
         "lastRun": "2026-04-05",
         "status": "clean",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "08-01",
@@ -2312,8 +2316,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
@@ -2322,7 +2326,9 @@
         "lastRun": "2026-04-05",
         "status": "clean",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "08-02",
@@ -2335,8 +2341,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
@@ -2345,7 +2351,9 @@
         "lastRun": "2026-04-05",
         "status": "clean",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "08-03",
@@ -2358,8 +2366,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": false
@@ -2368,7 +2376,9 @@
         "lastRun": "2026-04-05",
         "status": "clean",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "08-04",
