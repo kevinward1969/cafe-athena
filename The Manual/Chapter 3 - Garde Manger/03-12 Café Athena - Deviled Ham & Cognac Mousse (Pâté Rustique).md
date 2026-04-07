@@ -56,13 +56,13 @@ Temper: To bring an ingredient to a specific temperature (usually room temperatu
 
 ## Glossary
 
-*   **Emulsification:** The process of mixing two liquids that are difficult to mix (here, fat and water-based proteins) into a stable, uniform suspension.
-*   **Temper:** To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
-*   **Mechanical Emulsification:** High-speed shearing forces fat globules to disperse evenly into the protein structure, creating a creamy texture.
-*   **Fat Suspension:** The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
-*   **Oxidation:** The process by which a substance reacts with oxygen, often leading to discoloration and degradation of flavor and aroma, addressed by direct plastic wrap contact.
-*   **Recrystallization:** The process by which a liquid transforms into a solid state, altering the texture of the butter to achieve a spreadable pâté.
-*   **Sensory Cue:** A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
+* **Emulsification:** The process of mixing two liquids that are difficult to mix (here, fat and water-based proteins) into a stable, uniform suspension.
+* **Temper:** To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
+* **Mechanical Emulsification:** High-speed shearing forces fat globules to disperse evenly into the protein structure, creating a creamy texture.
+* **Fat Suspension:** The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
+* **Oxidation:** The process by which a substance reacts with oxygen, often leading to discoloration and degradation of flavor and aroma, addressed by direct plastic wrap contact.
+* **Recrystallization:** The process by which a liquid transforms into a solid state, altering the texture of the butter to achieve a spreadable pâté.
+* **Sensory Cue:** A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
 
 ## Keywords
 

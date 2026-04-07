@@ -67,12 +67,12 @@ This dish retains the soul of a classic Caprese—sweet tomato, rich dairy, and 
 
 ## Glossary
 
-*   **Hydrocolloid:** A substance that forms a gel in the presence of water, crucial for stabilizing the balsamic gel and tomato caviar.
-*   **Spherification (Direct):** A molecular gastronomy technique utilizing sodium alginate and calcium chloride to create encapsulated liquid spheres, central to the dish’s textural element.
-*   **Sodium Alginate:** A polysaccharide derived from brown algae, used as a key ingredient in the tomato caviar’s gel membrane formation.
-*   **Calcium Chloride:** An ionic compound reacting with sodium alginate to form the gel membrane during the spherification process.
-*   **De-gas:** A technique employed to eliminate dissolved air bubbles from a liquid, ensuring clarity and proper texture in the tomato base.
-*   **Agar-agar:** A seaweed-derived hydrocolloid utilized as a gelling agent in the balsamic fluid gel, providing structural integrity.
+* **Hydrocolloid:** A substance that forms a gel in the presence of water, crucial for stabilizing the balsamic gel and tomato caviar.
+* **Spherification (Direct):** A molecular gastronomy technique utilizing sodium alginate and calcium chloride to create encapsulated liquid spheres, central to the dish’s textural element.
+* **Sodium Alginate:** A polysaccharide derived from brown algae, used as a key ingredient in the tomato caviar’s gel membrane formation.
+* **Calcium Chloride:** An ionic compound reacting with sodium alginate to form the gel membrane during the spherification process.
+* **De-gas:** A technique employed to eliminate dissolved air bubbles from a liquid, ensuring clarity and proper texture in the tomato base.
+* **Agar-agar:** A seaweed-derived hydrocolloid utilized as a gelling agent in the balsamic fluid gel, providing structural integrity.
 
 ## Keywords
 

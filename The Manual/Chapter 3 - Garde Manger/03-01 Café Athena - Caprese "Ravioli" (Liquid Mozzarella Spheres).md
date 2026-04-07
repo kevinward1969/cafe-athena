@@ -53,13 +53,13 @@ Technique Required: Reverse Spherification. See Chapter 1
 
 ## Glossary
 
-*   **Viscosity:** The measure of a fluid’s resistance to flow (thickness).
-*   **Sodium Alginate:** A polysaccharide derived from brown algae used to create a gel-forming bath for spherification techniques.
-*   **Calcium Lactate Gluconate (CLG):** A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
-*   **Reverse Spherification:** A culinary technique utilizing sodium alginate to create a gel membrane around a liquid center, contrasting with traditional spherification.
-*   **Concasse:** A technique for preparing tomatoes: peeling, seeding, and dicing them.
-*   **Osmosis:** The movement of solvent molecules through a semipermeable membrane from a region of high water concentration to a region of low water concentration.
-*   **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
+* **Viscosity:** The measure of a fluid’s resistance to flow (thickness).
+* **Sodium Alginate:** A polysaccharide derived from brown algae used to create a gel-forming bath for spherification techniques.
+* **Calcium Lactate Gluconate (CLG):** A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
+* **Reverse Spherification:** A culinary technique utilizing sodium alginate to create a gel membrane around a liquid center, contrasting with traditional spherification.
+* **Concasse:** A technique for preparing tomatoes: peeling, seeding, and dicing them.
+* **Osmosis:** The movement of solvent molecules through a semipermeable membrane from a region of high water concentration to a region of low water concentration.
+* **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
 
 ## Keywords
 

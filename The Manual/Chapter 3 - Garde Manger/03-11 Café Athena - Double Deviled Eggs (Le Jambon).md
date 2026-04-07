@@ -57,13 +57,13 @@ Smooth, savory yolk mousse fortified with spiced cured ham and brightened with c
 
 ## Glossary
 
-*   **Emulsion:** A mixture of two immiscible liquids, stabilized by emulsifiers like lecithin, creating a homogenous mixture.
-*   **Sieve:** A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
-*   **Thermal Shock:** The rapid change in temperature applied to food to halt enzymatic activity and alter texture, as utilized in the egg cooling process.
-*   **Mousse:** A light, airy mixture achieved through aeration and stabilization, often incorporating fats and liquids to create a smooth, velvety texture.
-*   **Garde Manger:** The French term for the department of a professional kitchen dedicated to preparing cold foods, including appetizers and salads.
-*   **Textural Refinement:** The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
-*   **Peak:** A term used in pastry and sauce making to describe the texture achieved when whipping a mixture, characterized by a firm, stable structure.
+* **Emulsion:** A mixture of two immiscible liquids, stabilized by emulsifiers like lecithin, creating a homogenous mixture.
+* **Sieve:** A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
+* **Thermal Shock:** The rapid change in temperature applied to food to halt enzymatic activity and alter texture, as utilized in the egg cooling process.
+* **Mousse:** A light, airy mixture achieved through aeration and stabilization, often incorporating fats and liquids to create a smooth, velvety texture.
+* **Garde Manger:** The French term for the department of a professional kitchen dedicated to preparing cold foods, including appetizers and salads.
+* **Textural Refinement:** The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
+* **Peak:** A term used in pastry and sauce making to describe the texture achieved when whipping a mixture, characterized by a firm, stable structure.
 
 ## Keywords
 

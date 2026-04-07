@@ -62,11 +62,11 @@ Garnish
 
 ## Glossary
 
-*   **Brunoise:** A precise culinary cut where the food is julienned and then diced into uniform cubes of 3mm or less.
-*   **Dextrinization:** The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
-*   **Fondant:** A method of cooking vegetables where they are seared in fat and then braised in stock until tender.
-*   **Vacuum Compression:** A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
-*   **Starch Dextrinization:** The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
+* **Brunoise:** A precise culinary cut where the food is julienned and then diced into uniform cubes of 3mm or less.
+* **Dextrinization:** The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
+* **Fondant:** A method of cooking vegetables where they are seared in fat and then braised in stock until tender.
+* **Vacuum Compression:** A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
+* **Starch Dextrinization:** The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
 
 ## Keywords
 

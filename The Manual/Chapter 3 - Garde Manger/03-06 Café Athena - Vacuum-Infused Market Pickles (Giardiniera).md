@@ -63,13 +63,13 @@ Yield: 1 liter (1 quart) | Prep: 25 min | Processing: 5 min | Passive: 20 min
 
 ## Glossary
 
-*   **Vacuum Compression:** A technique where atmospheric pressure is removed, causing air to exit porous food, and then re-introduced, forcing surrounding liquid into the food.
-*   **Lacto-Fermentation:** A biological pickling process using bacteria and time (days/weeks). This recipe is *not* fermentation; it is a direct-acidification pickle.
-*   **Equilibrium:** The point where the salt/acid concentration inside the vegetable matches the liquid outside.
-*   **Chamber Vacuum:** A specific vacuum sealing technique utilizing a chamber to create a controlled pressure differential for rapid infusion.
-*   **Direct Acidification:** A pickling method employing a concentrated acid solution (vinegar) to quickly penetrate and preserve food, contrasting with the slower process of fermentation.
-*   **Brine Synthesis:** The process of combining ingredients – typically vinegar, water, sugar, and salt – to create a flavorful liquid used for pickling.
-*   **Translucency:** A visual characteristic of the finished product, indicating the complete replacement of air within the vegetable cells by the infused brine.
+* **Vacuum Compression:** A technique where atmospheric pressure is removed, causing air to exit porous food, and then re-introduced, forcing surrounding liquid into the food.
+* **Lacto-Fermentation:** A biological pickling process using bacteria and time (days/weeks). This recipe is *not* fermentation; it is a direct-acidification pickle.
+* **Equilibrium:** The point where the salt/acid concentration inside the vegetable matches the liquid outside.
+* **Chamber Vacuum:** A specific vacuum sealing technique utilizing a chamber to create a controlled pressure differential for rapid infusion.
+* **Direct Acidification:** A pickling method employing a concentrated acid solution (vinegar) to quickly penetrate and preserve food, contrasting with the slower process of fermentation.
+* **Brine Synthesis:** The process of combining ingredients – typically vinegar, water, sugar, and salt – to create a flavorful liquid used for pickling.
+* **Translucency:** A visual characteristic of the finished product, indicating the complete replacement of air within the vegetable cells by the infused brine.
 
 ## Keywords
 
