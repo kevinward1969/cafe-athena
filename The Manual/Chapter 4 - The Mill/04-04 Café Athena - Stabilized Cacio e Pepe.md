@@ -51,13 +51,13 @@ This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Tr
 
 ## Glossary
 
-*   **Sodium Citrate:** A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
-*   **Chelate:** The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
-*   **Bloom:** Heating spices in fat or a dry pan to release volatile aromatic oils.
-*   **Mantecatura:** Italian term for the vigorous tossing of pasta with fat and cheese to create a creamy emulsion.
-*   **Casein:** A family of phosphoproteins that constitute the major proteins in milk, and are the primary component of cheese.
-*   **Fondue:** A rich, slowly melting cheese sauce, often used as a base for sauces or for dipping.
-*   **Emulsifier:** A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
+* **Sodium Citrate:** A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
+* **Chelate:** The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
+* **Bloom:** Heating spices in fat or a dry pan to release volatile aromatic oils.
+* **Mantecatura:** Italian term for the vigorous tossing of pasta with fat and cheese to create a creamy emulsion.
+* **Casein:** A family of phosphoproteins that constitute the major proteins in milk, and are the primary component of cheese.
+* **Fondue:** A rich, slowly melting cheese sauce, often used as a base for sauces or for dipping.
+* **Emulsifier:** A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
 
 ## Keywords
 

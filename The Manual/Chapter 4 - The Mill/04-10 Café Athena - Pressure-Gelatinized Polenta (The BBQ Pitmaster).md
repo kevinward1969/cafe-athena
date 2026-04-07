@@ -53,11 +53,11 @@ Yield: 4 servings | Prep: 10 min | Cook: 25 min | Total: ~45 min
 
 ## Glossary
 
-*   **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the liquid.
-*   **Mantecatura:** The final stage of polenta preparation involving vigorous whisking of fat (butter/cheese) into the starch to create a smooth emulsion.
-*   **Brunoise:** A specific, very fine dice (approximately 3mm cubes) used for vegetables, ensuring even heat distribution.
-*   **Natural Release:** A pressure cooking technique where the pressure is allowed to decrease slowly over time, minimizing starch foam formation.
-*   **Sensory Cue:** A descriptor used to guide the cook’s perception of the dish’s texture and consistency, in this case, “molten lava.”
+* **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the liquid.
+* **Mantecatura:** The final stage of polenta preparation involving vigorous whisking of fat (butter/cheese) into the starch to create a smooth emulsion.
+* **Brunoise:** A specific, very fine dice (approximately 3mm cubes) used for vegetables, ensuring even heat distribution.
+* **Natural Release:** A pressure cooking technique where the pressure is allowed to decrease slowly over time, minimizing starch foam formation.
+* **Sensory Cue:** A descriptor used to guide the cook’s perception of the dish’s texture and consistency, in this case, “molten lava.”
 
 ## Keywords
 

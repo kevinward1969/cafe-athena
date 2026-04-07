@@ -50,13 +50,13 @@
 
 ## Glossary
 
-*   **Mantecatura:** The final step of beating cold butter and cheese into risotto off the heat to create a creamy emulsion.
-*   **Fold:** To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
-*   **Deglaze:** Adding liquid to a hot pan to dissolve the fond (browned bits).
-*   **Al Dente:** Indicating the desired texture of cooked rice, meaning “to the tooth,” representing a firm, yet yielding consistency.
-*   **Sauté:** A cooking technique involving cooking food quickly in a small amount of fat over relatively high heat.
-*   **Fond:** The browned bits deposited on the bottom of a pan during high-heat cooking, contributing significantly to flavor.
-*   **Rest:** Allowing a cooked dish to sit undisturbed, allowing flavors to meld and the texture to stabilize.
+* **Mantecatura:** The final step of beating cold butter and cheese into risotto off the heat to create a creamy emulsion.
+* **Fold:** To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
+* **Deglaze:** Adding liquid to a hot pan to dissolve the fond (browned bits).
+* **Al Dente:** Indicating the desired texture of cooked rice, meaning “to the tooth,” representing a firm, yet yielding consistency.
+* **Sauté:** A cooking technique involving cooking food quickly in a small amount of fat over relatively high heat.
+* **Fond:** The browned bits deposited on the bottom of a pan during high-heat cooking, contributing significantly to flavor.
+* **Rest:** Allowing a cooked dish to sit undisturbed, allowing flavors to meld and the texture to stabilize.
 
 ## Keywords
 
