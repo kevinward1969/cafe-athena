@@ -48,13 +48,13 @@ We do not simply "clean" to make things look shiny; we sanitize to destroy patho
 
 ## Glossary
 
-*   **Binary Fission:** The process by which bacteria reproduce through cell division, resulting in exponential population growth.
-*   **Danger Zone:** The temperature range (41°F to 135°F) where bacterial growth is most rapid and poses the greatest risk of foodborne illness.
-*   **Lag Phase:** The initial period following bacterial introduction to food, during which microorganisms adapt to their new environment before entering the log phase.
-*   **Log Phase:** The exponential growth phase of bacterial proliferation, characterized by rapid multiplication through binary fission.
-*   **Quaternary Ammonium (Quats):** A common kitchen sanitizer that effectively reduces microbial populations through chemical disinfection.
-*   **Sanitize:** To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
-*   **Litmus Paper:** An indicator used to assess the concentration of sanitizing solutions, providing a visual confirmation of effectiveness.
+* **Binary Fission:** The process by which bacteria reproduce through cell division, resulting in exponential population growth.
+* **Danger Zone:** The temperature range (41°F to 135°F) where bacterial growth is most rapid and poses the greatest risk of foodborne illness.
+* **Lag Phase:** The initial period following bacterial introduction to food, during which microorganisms adapt to their new environment before entering the log phase.
+* **Log Phase:** The exponential growth phase of bacterial proliferation, characterized by rapid multiplication through binary fission.
+* **Quaternary Ammonium (Quats):** A common kitchen sanitizer that effectively reduces microbial populations through chemical disinfection.
+* **Sanitize:** To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
+* **Litmus Paper:** An indicator used to assess the concentration of sanitizing solutions, providing a visual confirmation of effectiveness.
 
 ## Keywords
 

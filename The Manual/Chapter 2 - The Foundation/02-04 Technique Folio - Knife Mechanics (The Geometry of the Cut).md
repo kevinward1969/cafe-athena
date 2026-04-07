@@ -60,13 +60,13 @@
 
 ## Glossary
 
-*   **Geometry:** The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
-*   **Cell Wall Integrity:** The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.
-*   **Draw Slice:** A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
-*   **Fulcrum:** The pivot point around which a lever rotates, referring to the thumb's placement in the knife grip for optimal control and balance.
-*   **Tourné:** A specific knife cut producing a characteristic 7-sided football shape, demonstrating advanced knife control and precision.
-*   **Brunoise:** A precise dice cut achieved by cross-cutting a julienne, resulting in small, uniform cubes.
-*   **Rolling Cut:** A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
+* **Geometry:** The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
+* **Cell Wall Integrity:** The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.
+* **Draw Slice:** A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
+* **Fulcrum:** The pivot point around which a lever rotates, referring to the thumb's placement in the knife grip for optimal control and balance.
+* **Tourné:** A specific knife cut producing a characteristic 7-sided football shape, demonstrating advanced knife control and precision.
+* **Brunoise:** A precise dice cut achieved by cross-cutting a julienne, resulting in small, uniform cubes.
+* **Rolling Cut:** A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
 
 ## Keywords
 

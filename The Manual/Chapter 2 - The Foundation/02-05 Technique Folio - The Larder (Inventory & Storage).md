@@ -51,12 +51,12 @@
 
 ## Glossary
 
-*   **FIFO:** First In, First Out – a stock rotation method prioritizing the oldest items.
-*   **Standardized Storage:** Utilizing uniform containers and labeling systems for efficient inventory management.
-*   **Condiments:** Food products with a high acidity or salt content, suitable for storage in the refrigerator's warmest zone.
-*   **Polycarbonate:** A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.
-*   **Ethylene Gas:** A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
-*   **Blue Tape:** A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
+* **FIFO:** First In, First Out – a stock rotation method prioritizing the oldest items.
+* **Standardized Storage:** Utilizing uniform containers and labeling systems for efficient inventory management.
+* **Condiments:** Food products with a high acidity or salt content, suitable for storage in the refrigerator's warmest zone.
+* **Polycarbonate:** A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.
+* **Ethylene Gas:** A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
+* **Blue Tape:** A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
 
 ## Keywords
 

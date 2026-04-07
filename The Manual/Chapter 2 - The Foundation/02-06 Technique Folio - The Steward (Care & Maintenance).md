@@ -49,13 +49,13 @@
 
 ## Glossary
 
-*   **Honing:** The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
-*   **Polymerization:** The process by which fatty acid chains in cast iron break down and bond with the metal, forming a protective, plastic-like layer (seasoning).
-*   **Thermal Shock:** The distortion of metal cookware caused by rapid temperature changes, specifically the differential contraction of layers within the metal.
-*   **Seasoning:** The polymerized layer of oil that develops on cast iron cookware, enhancing its non-stick properties and protecting against rust.
-*   **Bar Keepers Friend:** A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
-*   **Rainbow Stain:** The discoloration of stainless steel cookware caused by heat oxidation and mineral deposits, often appearing as blue or multicolored streaks.
-*   **Fond:** The caramelized sugars and browned bits left on the bottom of a pan after cooking, utilized in deglazing techniques.
+* **Honing:** The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
+* **Polymerization:** The process by which fatty acid chains in cast iron break down and bond with the metal, forming a protective, plastic-like layer (seasoning).
+* **Thermal Shock:** The distortion of metal cookware caused by rapid temperature changes, specifically the differential contraction of layers within the metal.
+* **Seasoning:** The polymerized layer of oil that develops on cast iron cookware, enhancing its non-stick properties and protecting against rust.
+* **Bar Keepers Friend:** A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
+* **Rainbow Stain:** The discoloration of stainless steel cookware caused by heat oxidation and mineral deposits, often appearing as blue or multicolored streaks.
+* **Fond:** The caramelized sugars and browned bits left on the bottom of a pan after cooking, utilized in deglazing techniques.
 
 ## Keywords
 
