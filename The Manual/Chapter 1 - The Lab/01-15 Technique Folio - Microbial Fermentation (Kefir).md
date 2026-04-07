@@ -52,12 +52,12 @@ To master kefir, you must understand that you are managing a living ecosystem, n
 
 ## Glossary
 
-*   **Mesophilic:** Characterized by microorganisms that thrive in moderate temperatures, typically between 20°C and 45°C (68°F and 113°F).
-*   **Polysaccharide:** A complex carbohydrate consisting of many sugar units linked together, forming a branching, three-dimensional structure.
-*   **Syneresis:** The spontaneous expulsion of a liquid from a gel or solid, commonly observed during the separation of whey from casein in fermented dairy products.
-*   **Lactic Acid:** A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
-*   **CO₂:** Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
-*   **Casein:** The primary protein found in milk, which undergoes denaturation and thickening during the fermentation process, contributing to kefir's texture.
+* **Mesophilic:** Characterized by microorganisms that thrive in moderate temperatures, typically between 20°C and 45°C (68°F and 113°F).
+* **Polysaccharide:** A complex carbohydrate consisting of many sugar units linked together, forming a branching, three-dimensional structure.
+* **Syneresis:** The spontaneous expulsion of a liquid from a gel or solid, commonly observed during the separation of whey from casein in fermented dairy products.
+* **Lactic Acid:** A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
+* **CO₂:** Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
+* **Casein:** The primary protein found in milk, which undergoes denaturation and thickening during the fermentation process, contributing to kefir's texture.
 
 ## Keywords
 

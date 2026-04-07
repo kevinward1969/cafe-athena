@@ -42,13 +42,13 @@
 
 ## Glossary
 
-*   **Proteolysis:** The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
-*   **pH Curve:** The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
-*   **Hooch:** A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.
-*   **Levain:** A young, active pre-ferment created by diluting a portion of the Mother starter with fresh flour and water, reducing acidity.
-*   **Mother:** A long-term, refrigerated sourdough starter maintained in a 1:1:1 ratio to preserve microbial activity.
-*   **Gluten:** The complex protein network within dough that provides elasticity and structure, weakened by excessive acidity.
-*   **Peak:** The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
+* **Proteolysis:** The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
+* **pH Curve:** The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
+* **Hooch:** A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.
+* **Levain:** A young, active pre-ferment created by diluting a portion of the Mother starter with fresh flour and water, reducing acidity.
+* **Mother:** A long-term, refrigerated sourdough starter maintained in a 1:1:1 ratio to preserve microbial activity.
+* **Gluten:** The complex protein network within dough that provides elasticity and structure, weakened by excessive acidity.
+* **Peak:** The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 
 ## Keywords
 

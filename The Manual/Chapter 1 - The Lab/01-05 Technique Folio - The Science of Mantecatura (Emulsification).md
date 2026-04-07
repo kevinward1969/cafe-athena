@@ -31,13 +31,13 @@ The goal of Mantecatura is to create a stable **Oil-in-Water Emulsion**.
 
 ## Glossary
 
-*   **Emulsion:** A thermodynamically unstable mixture of two or more immiscible liquids, in which one liquid is dispersed as droplets within the other.
-*   **Amylose:** A type of starch molecule found in rice, responsible for its thickening properties when heated in liquid.
-*   **Amylopectin:** Another type of starch molecule found in rice, which contributes to the rice's structure and viscosity.
-*   **Surfactant:** A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
-*   **Oil-in-Water Emulsion:** A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
-*   **Viscosity:** A fluid’s resistance to flow, influenced by the cohesive forces within the fluid, as demonstrated by the change in the risotto’s texture during agitation.
-*   **Mantecatura:** The culinary technique of vigorously incorporating cold butter and cheese into hot rice to create a creamy, emulsified texture.
+* **Emulsion:** A thermodynamically unstable mixture of two or more immiscible liquids, in which one liquid is dispersed as droplets within the other.
+* **Amylose:** A type of starch molecule found in rice, responsible for its thickening properties when heated in liquid.
+* **Amylopectin:** Another type of starch molecule found in rice, which contributes to the rice's structure and viscosity.
+* **Surfactant:** A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
+* **Oil-in-Water Emulsion:** A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
+* **Viscosity:** A fluid’s resistance to flow, influenced by the cohesive forces within the fluid, as demonstrated by the change in the risotto’s texture during agitation.
+* **Mantecatura:** The culinary technique of vigorously incorporating cold butter and cheese into hot rice to create a creamy, emulsified texture.
 
 ## Keywords
 

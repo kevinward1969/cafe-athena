@@ -26,13 +26,13 @@
 
 ## Glossary
 
-*   **Dissolution:** The complete dispersal of a solid substance (such as sugar) into a liquid, forming a homogeneous mixture.
-*   **Protein Migration:** The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
-*   **Thermal Energy:** The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
-*   **Mechanical Energy:** Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
-*   **Ribbon Stage:** A textural state of a batter characterized by a slow-falling, viscous consistency when the sugar has sufficiently dissolved.
-*   **Bain-Marie:** A technique utilizing a water bath to gently heat a vessel or its contents, promoting even temperature distribution.
-*   **Solubility:** The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
+* **Dissolution:** The complete dispersal of a solid substance (such as sugar) into a liquid, forming a homogeneous mixture.
+* **Protein Migration:** The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
+* **Thermal Energy:** The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
+* **Mechanical Energy:** Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
+* **Ribbon Stage:** A textural state of a batter characterized by a slow-falling, viscous consistency when the sugar has sufficiently dissolved.
+* **Bain-Marie:** A technique utilizing a water bath to gently heat a vessel or its contents, promoting even temperature distribution.
+* **Solubility:** The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
 
 ## Keywords
 

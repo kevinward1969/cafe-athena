@@ -34,6 +34,7 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
 | **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
+| **Copilot Agent — Markdownlint QA** | `.github/agents/markdownlint-qa.agent.md` | VS Code Copilot Chat | read, edit, search, execute | Same pipeline, accessible from VS Code standard chat |
 
 > **Claude Code-only note:** Both Claude Code sub-agents and all `.agents/workflows/` slash commands run exclusively inside Claude Code (CLI or VS Code extension). They are not compatible with VS Code's standard chat panel or GitHub Copilot chat — those surfaces do not have access to the Claude Code slash command system or sub-agent framework.
 
@@ -149,6 +150,7 @@ The current architecture is well-designed in several important ways:
 ### 5.1 Agent Redundancy & Divergence Risk
 
 **Issue:** The same three-mode system prompt is maintained in three separate files:
+
 - `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.3)
 - `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.1)
 - `.claude/agents/Cafe Athena Chef.agent.md` (v1.1)

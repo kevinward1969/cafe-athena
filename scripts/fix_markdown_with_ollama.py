@@ -193,18 +193,26 @@ def run_markdownlint(root: Path, file_path: Path) -> List[LintIssue]:
         return []
 
     issues: List[LintIssue] = []
-    for _, path_issues in payload.items():
-        for item in path_issues:
-            rule_names = item.get("ruleNames") or [""]
-            rule = rule_names[0] if rule_names else ""
-            issues.append(
-                LintIssue(
-                    line=int(item.get("lineNumber", 0)),
-                    rule=rule,
-                    description=str(item.get("ruleDescription", "")).strip(),
-                    detail=str(item.get("errorDetail") or "").strip(),
-                )
+    # markdownlint-cli ≥0.37 returns a flat list; older versions return a
+    # dict keyed by file path. Handle both shapes.
+    if isinstance(payload, list):
+        items: List[dict] = payload
+    else:
+        items = []
+        for path_issues in payload.values():
+            items.extend(path_issues)
+
+    for item in items:
+        rule_names = item.get("ruleNames") or [""]
+        rule = rule_names[0] if rule_names else ""
+        issues.append(
+            LintIssue(
+                line=int(item.get("lineNumber", 0)),
+                rule=rule,
+                description=str(item.get("ruleDescription", "")).strip(),
+                detail=str(item.get("errorDetail") or "").strip(),
             )
+        )
     return issues
 
 

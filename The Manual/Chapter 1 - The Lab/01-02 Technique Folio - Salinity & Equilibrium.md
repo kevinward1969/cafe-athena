@@ -45,13 +45,13 @@
 
 ## Glossary
 
-*   **Osmosis:** The movement of a solvent, such as water, across a semi-permeable membrane from a region of high water concentration to a region of low water concentration.
-*   **Diffusion:** The net movement of a substance from an area of high concentration to an area of low concentration.
-*   **Denaturation:** The unfolding of a protein molecule from its native, folded conformation, often due to heat, acidity, or salinity.
-*   **Equilibrium:** A state of balance between opposing forces or concentrations, in this case, between water and salt within a food item.
-*   **Brining:** A method of preserving or flavoring food by immersing it in a concentrated salt solution, facilitating osmosis.
-*   **Volume:** A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
-*   **Diamond Crystal Kosher:** A specific type of kosher salt characterized by its hollow, pyramid-shaped crystals and low density.
+* **Osmosis:** The movement of a solvent, such as water, across a semi-permeable membrane from a region of high water concentration to a region of low water concentration.
+* **Diffusion:** The net movement of a substance from an area of high concentration to an area of low concentration.
+* **Denaturation:** The unfolding of a protein molecule from its native, folded conformation, often due to heat, acidity, or salinity.
+* **Equilibrium:** A state of balance between opposing forces or concentrations, in this case, between water and salt within a food item.
+* **Brining:** A method of preserving or flavoring food by immersing it in a concentrated salt solution, facilitating osmosis.
+* **Volume:** A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
+* **Diamond Crystal Kosher:** A specific type of kosher salt characterized by its hollow, pyramid-shaped crystals and low density.
 
 ## Keywords
 

@@ -49,13 +49,13 @@
 
 ## Glossary
 
-*   **Emulsion:** The stable mixture of two or more immiscible liquids, typically formed by dispersing one liquid into another through the action of an emulsifier.
-*   **Hydrocolloid:** A substance, often a gum or starch, that modifies the viscosity of water by creating a network that entraps dispersed phases.
-*   **Lecithin:** An amphiphilic compound, commonly found in egg yolks and soy, utilized as an emulsifier due to its dual affinity for water and fat.
-*   **Xanthan Gum:** A fermented polysaccharide used as a hydrocolloid to stabilize emulsions and thicken liquids, functioning effectively across a wide temperature range.
-*   **Shear-Thinning:** A property exhibited by certain fluids, such as xanthan gum solutions, where viscosity decreases under shear stress (e.g., shaking or blending).
-*   **Amphiphilic:** Describing molecules with both hydrophilic (water-loving) and hydrophobic (fat-loving) characteristics, crucial for emulsification.
-*   **Mucilage:** A viscous, gummy substance, such as that found in Dijon mustard, used to temporarily stabilize emulsions by increasing viscosity.
+* **Emulsion:** The stable mixture of two or more immiscible liquids, typically formed by dispersing one liquid into another through the action of an emulsifier.
+* **Hydrocolloid:** A substance, often a gum or starch, that modifies the viscosity of water by creating a network that entraps dispersed phases.
+* **Lecithin:** An amphiphilic compound, commonly found in egg yolks and soy, utilized as an emulsifier due to its dual affinity for water and fat.
+* **Xanthan Gum:** A fermented polysaccharide used as a hydrocolloid to stabilize emulsions and thicken liquids, functioning effectively across a wide temperature range.
+* **Shear-Thinning:** A property exhibited by certain fluids, such as xanthan gum solutions, where viscosity decreases under shear stress (e.g., shaking or blending).
+* **Amphiphilic:** Describing molecules with both hydrophilic (water-loving) and hydrophobic (fat-loving) characteristics, crucial for emulsification.
+* **Mucilage:** A viscous, gummy substance, such as that found in Dijon mustard, used to temporarily stabilize emulsions by increasing viscosity.
 
 ## Keywords
 
