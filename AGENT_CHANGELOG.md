@@ -56,6 +56,18 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 ---
 
+## Claude Code Sub-Agent — Markdownlint QA
+
+**File:** `.claude/agents/Markdownlint QA.agent.md`
+**Current Version:** 1.0
+**Status:** Claude Code only — no secondary surfaces.
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-04-06 | Initial release. Four-mode pipeline agent (Scan, Safe Fix, Deep Fix, Full Pipeline) orchestrating `scripts/markdownlint_safe_fix.py` and `scripts/fix_markdown_with_ollama.py`. Authorization checkpoint before any file writes. Scope resolution from file ID, chapter name, site, or all. Model guidance for llama3.2 vs gemma3:4b. |
+
+---
+
 ## Notes
 
 - Dates marked `—` are not recorded in the original files. Use `git log` to approximate if needed.

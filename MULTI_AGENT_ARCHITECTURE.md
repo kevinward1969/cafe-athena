@@ -1,7 +1,7 @@
 # Café Athena — Multi-Agent Architecture
 
-**Version:** 1.0  
-**Last Updated:** April 2026  
+**Version:** 1.1  
+**Last Updated:** 2026-04-06  
 **Status:** Active  
 
 This document describes the full multi-agent ecosystem for the Café Athena cookbook project, including each agent's role, the relationships between them, identified improvement opportunities, and recommended next steps.
@@ -33,6 +33,9 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 | **Gemini Gem 2 — The Visual Director** | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Hero image creation for recipes |
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
+| **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
+
+> **Claude Code-only note:** Both Claude Code sub-agents and all `.agents/workflows/` slash commands run exclusively inside Claude Code (CLI or VS Code extension). They are not compatible with VS Code's standard chat panel or GitHub Copilot chat — those surfaces do not have access to the Claude Code slash command system or sub-agent framework.
 
 Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Code sub-agent executes:
 
@@ -72,13 +75,18 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
   └──────────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────────┐
-  │   CLAUDE CODE SUB-AGENT (Antigravity CLI)                                │
-  │   .claude/agents/Cafe Athena Chef.agent.md                               │
-  │   All 3 modes + Read/Write/Edit/Grep/Glob/Bash tools                     │
+  │   CLAUDE CODE SUB-AGENTS (Antigravity CLI / VS Code Extension)           │
   │                                                                           │
+  │   Café Athena Chef  (.claude/agents/Cafe Athena Chef.agent.md)           │
+  │   All 3 modes + Read/Write/Edit/Grep/Glob/Bash tools                     │
   │   Executes workflows from .agents/workflows/:                            │
   │     /new-recipe  /format-audit  /glossary-pull  /keyword-pull            │
   │     /audit-glossary  /recipe-hero-image  /session-handoff                │
+  │                                                                           │
+  │   Markdownlint QA  (.claude/agents/Markdownlint QA.agent.md)            │
+  │   4-mode lint pipeline: Scan / Safe Fix / Deep Fix / Full Pipeline       │
+  │   Orchestrates: markdownlint_safe_fix.py → fix_markdown_with_ollama.py  │
+  │   Authorization checkpoint before any file writes                        │
   └──────────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────────┐
@@ -224,6 +232,7 @@ Listed in priority order:
 | ✅ Done | Update Hero Image Gem — remove "Nano Banana" reference | Already removed in `recipe-hero-image.md`; no further action needed |
 | ✅ Done | Fix settings portability (absolute paths) | Fixed in a prior session |
 | ✅ Done | Fix workflow tool names (Desktop Commander → Claude Code) | Fixed in a prior session |
+| ✅ Done | Add Markdownlint QA sub-agent | Two-stage lint pipeline (deterministic + Ollama) with 4 modes and authorization gates |
 | ⏸ Deferred | Create `TROUBLESHOOTING.md` for Claude Code error recovery | Defer until there are recurring errors worth documenting |
 | ⏸ Skipped | Enhance `/format-audit` for single-authorization batch output | Current per-recipe authorization is intentional quality control — do not change |
 | ⏸ Skipped | Retire Claude Desktop `Claude-Desktop/` folder | Claude Desktop is still in active use for Modes 1–3; folder stays |
@@ -284,11 +293,13 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 | What you need | Where it lives |
 | ------------- | -------------- |
 | Master recipe formatting rules | `Guidance/Recipe-Format-Standard.md` |
-| Claude Code sub-agent system prompt | `.claude/agents/Cafe Athena Chef.agent.md` |
+| Claude Code culinary sub-agent | `.claude/agents/Cafe Athena Chef.agent.md` |
+| Claude Code markdownlint sub-agent | `.claude/agents/Markdownlint QA.agent.md` |
 | Claude Desktop / Claude.ai system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
 | Gemini Gem 1 instructions (culinary AI) | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
 | Gemini Gem 2 instructions (image AI) | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` |
 | Slash-command workflow definitions | `.agents/workflows/` |
+| Markdownlint config | `.markdownlint.json` |
 | Active session state | `PROJECT_STATUS.md` |
 | Full cookbook manuscript | `The Manual/` |
 | Published cookbook site | `site/` |

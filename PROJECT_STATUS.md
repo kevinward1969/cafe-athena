@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-05
+Last Updated: 2026-04-06
 
 ## 🎯 Active Development
 
@@ -10,6 +10,12 @@ Last Updated: 2026-04-05
 | **04-16** | Definitive Guide to Egg Pasta | Completed | Indexed. |
 
 ## 🌅 On the Horizon
+
+- **Home Page Copy — 3 Main Area Descriptions**: Update the wording for the three main manual section descriptions on the site home page.
+- **Food Critic / Food Writer Agent**: Create a new Claude Code agent for creative and marketing copy — editorial, journalistic, blog posts, social media. Separate surface from the Chef agent.
+- **Glossary Letter Navigation Fix**: Letter anchor links jump too far down and overshoot the letter heading. Needs scroll offset or anchor adjustment so the letter appears at the top of the viewport.
+- **Academy Section Randomizer (Home Page)**: Randomize the "Highlights from The Academy" section to show 3 random items per page load, pulling only from Chapters 1 and 2, excluding folios without hero images.
+- **Featured Recipe Randomizer (Home Page)**: Randomize the Featured Recipe section to pull a random recipe from Chapters 3+ per page load, excluding any recipes without hero images.
 
 - **Glossary Workflow**: Automated terminology extraction from recipes with duplicate prevention and A-Z sorting. Track progress via `glossaryPull` in `recipes.json` — 72 entries pending.
 - **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary. Run after glossary pull backlog is cleared.

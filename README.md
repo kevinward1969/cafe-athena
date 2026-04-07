@@ -63,7 +63,8 @@ cafe-athena/
 │
 ├── .claude/                        # Claude Code (Antigravity) configuration
 │   ├── agents/
-│   │   └── Cafe Athena Chef.agent.md  # Sub-agent definition
+│   │   ├── Cafe Athena Chef.agent.md      # Culinary sub-agent (Modes 1–3)
+│   │   └── Markdownlint QA.agent.md       # Markdown lint pipeline sub-agent
 │   └── settings.local.json
 │
 ├── .agents/                        # Claude Code slash-command workflow files
@@ -78,6 +79,8 @@ cafe-athena/
 │
 ├── scripts/                        # Local Python utility scripts (Ollama-powered)
 │   ├── audit.py                    # ⭐ Recipe audit & repair tool
+│   ├── markdownlint_safe_fix.py    # Deterministic markdownlint fixer (stage 1)
+│   ├── fix_markdown_with_ollama.py # Ollama-powered markdownlint fixer (stage 2)
 │   ├── add-glossary-sections.py    # (superseded by audit.py)
 │   └── extract-keywords.py         # (superseded by audit.py)
 │
@@ -276,6 +279,49 @@ python3 scripts/audit.py --auto-approve
   "issues": ["missing_glossary", "missing_keywords"]
 }
 ```
+
+### markdownlint_safe_fix.py + fix_markdown_with_ollama.py — Markdown Lint Pipeline
+
+A two-stage pipeline for detecting and repairing markdownlint issues across all `.md` files. Orchestrated by the **Markdownlint QA** Claude Code sub-agent — invoke it in Claude Code chat instead of running these scripts directly.
+
+**Stage 1 — Deterministic (no LLM, zero content risk):**
+
+```bash
+# Check only — no writes
+python3 scripts/markdownlint_safe_fix.py --mode check --verbose --root .
+
+# Dry-run: simulate fixes, report what would change
+python3 scripts/markdownlint_safe_fix.py --mode dry-run --verbose --root .
+
+# Apply fixes (only if issue count improves; reverts automatically if not)
+python3 scripts/markdownlint_safe_fix.py --mode fix --root .
+
+# Scope to a single file or chapter
+python3 scripts/markdownlint_safe_fix.py --mode fix --glob "**/04-09.md" --root .
+python3 scripts/markdownlint_safe_fix.py --mode fix --glob "The Manual/Chapter 4*/**/*.md" --root .
+```
+
+**Stage 2 — Ollama LLM (for issues the deterministic fixer cannot touch):**
+
+```bash
+# Dry-run: see which files Ollama can improve
+python3 scripts/fix_markdown_with_ollama.py --dry-run --root .
+
+# Apply Ollama fixes (default model: llama3.2)
+python3 scripts/fix_markdown_with_ollama.py --root .
+
+# Use higher-quality model for stubborn issues
+python3 scripts/fix_markdown_with_ollama.py --model gemma3:4b --root .
+
+# Scope to a chapter
+python3 scripts/fix_markdown_with_ollama.py --glob "The Manual/Chapter 4*/**/*.md" --root .
+```
+
+Both scripts require Ollama running at `localhost:11434` for stage 2 (stage 1 requires only `npx markdownlint-cli`). The shared lint config is `.markdownlint.json` at the project root.
+
+**Recommended workflow:** Run stage 1 first to close all deterministic issues, then stage 2 for any that remain. The Markdownlint QA sub-agent handles both stages with scope resolution, dry-run previews, and authorization checkpoints.
+
+---
 
 ### Relationship to `/format-audit`
 
