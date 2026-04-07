@@ -6,10 +6,10 @@
 
 ## Glossary
 
-*   **Maillard Reaction:** This non-enzymatic browning process occurs when amino acids and reducing sugars are heated, creating complex flavor compounds and a desirable crust.
-*   **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture through the action of an emulsifier, typically egg yolk.
-*   **Reductive Sugar Reduction:** A technique where sugar is slowly caramelized in a liquid with the addition of an acid, such as vinegar, to minimize browning and preserve delicate flavors.
-*   **Court-Bouillon:** A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
+* **Maillard Reaction:** This non-enzymatic browning process occurs when amino acids and reducing sugars are heated, creating complex flavor compounds and a desirable crust.
+* **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture through the action of an emulsifier, typically egg yolk.
+* **Reductive Sugar Reduction:** A technique where sugar is slowly caramelized in a liquid with the addition of an acid, such as vinegar, to minimize browning and preserve delicate flavors.
+* **Court-Bouillon:** A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
 
 ## Keywords
 

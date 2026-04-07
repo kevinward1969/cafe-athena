@@ -6,10 +6,10 @@
 
 ## Glossary
 
-*   **Maillard Reaction:** This non-enzymatic browning process occurs when amino acids and reducing sugars are heated, creating complex flavor compounds and a desirable crust.
-*   **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture through the action of an emulsifier.
-*   **Sous Vide:** A precise cooking technique involving sealing food in a bag and immersing it in a temperature-controlled water bath for consistent results.
-*   **Reduction:** Concentrating a liquid, typically a sauce, by simmering it to evaporate water and intensify flavors.
+* **Maillard Reaction:** This non-enzymatic browning process occurs when amino acids and reducing sugars are heated, creating complex flavor compounds and a desirable crust.
+* **Emulsification:** The process of combining two immiscible liquids, such as oil and water, into a stable mixture through the action of an emulsifier.
+* **Sous Vide:** A precise cooking technique involving sealing food in a bag and immersing it in a temperature-controlled water bath for consistent results.
+* **Reduction:** Concentrating a liquid, typically a sauce, by simmering it to evaporate water and intensify flavors.
 
 ## Keywords
 

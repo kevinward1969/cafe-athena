@@ -56,12 +56,12 @@ Yield: 2 servings | Prep: 15 min | Inactive: 45 min | Cook: 20 min
 
 ## Glossary
 
-*   **Maillard Reaction:** A complex chemical reaction between amino acids and reducing sugars that produces browned food with characteristic flavors and aromas.
-*   **Fond:** The concentrated, flavorful residue (browned sugars and proteins) deposited on the bottom of a pan during high-heat cooking, forming the base of many sauces.
-*   **Nappé:** A French term describing the desired consistency of a sauce – thick enough to coat the back of a spoon, but still fluid enough to pour.
-*   **Monter au Beurre:** The technique of incorporating cold, cubed butter into a warm sauce, creating a stable emulsion and enhancing its richness and shine.
-*   **Osmosis:** The movement of solvent (in this case, water) across a semi-permeable membrane (the meat’s surface) from a region of high concentration to a region of low concentration.
-*   **Deglaze:** The process of dissolving the browned bits (fond) from the bottom of a pan by adding a liquid, typically wine, stock, or brandy, and simmering.
+* **Maillard Reaction:** A complex chemical reaction between amino acids and reducing sugars that produces browned food with characteristic flavors and aromas.
+* **Fond:** The concentrated, flavorful residue (browned sugars and proteins) deposited on the bottom of a pan during high-heat cooking, forming the base of many sauces.
+* **Nappé:** A French term describing the desired consistency of a sauce – thick enough to coat the back of a spoon, but still fluid enough to pour.
+* **Monter au Beurre:** The technique of incorporating cold, cubed butter into a warm sauce, creating a stable emulsion and enhancing its richness and shine.
+* **Osmosis:** The movement of solvent (in this case, water) across a semi-permeable membrane (the meat’s surface) from a region of high concentration to a region of low concentration.
+* **Deglaze:** The process of dissolving the browned bits (fond) from the bottom of a pan by adding a liquid, typically wine, stock, or brandy, and simmering.
 
 ## Keywords
 

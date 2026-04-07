@@ -6,13 +6,13 @@
 >
 ## Glossary
 
-*   **Dashi:** A foundational Japanese broth traditionally made from kombu (kelp) and katsuobushi (dried bonito flakes), prized for its intense umami flavor.
-*   **Miso:** A fermented soybean paste, integral to Japanese cuisine, offering a complex savory flavor profile and contributing to umami.
-*   **Kombu:** A type of edible seaweed, primarily *Porphyra* species, used in dashi to impart a subtle sweetness and umami.
-*   **Katsuobushi:** Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
-*   **Umami:** The fifth basic taste, often described as savory or meaty, resulting from the presence of glutamates.
-*   **Tofu:** A coagulated soybean product, available in various textures (silken, firm, etc.), frequently used in Japanese cuisine for its neutral flavor and ability to absorb sauces.
-*   **Fermented:** A process that utilizes microorganisms to transform food, resulting in enhanced flavor, aroma, and nutritional value, as seen in miso.
+* **Dashi:** A foundational Japanese broth traditionally made from kombu (kelp) and katsuobushi (dried bonito flakes), prized for its intense umami flavor.
+* **Miso:** A fermented soybean paste, integral to Japanese cuisine, offering a complex savory flavor profile and contributing to umami.
+* **Kombu:** A type of edible seaweed, primarily *Porphyra* species, used in dashi to impart a subtle sweetness and umami.
+* **Katsuobushi:** Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
+* **Umami:** The fifth basic taste, often described as savory or meaty, resulting from the presence of glutamates.
+* **Tofu:** A coagulated soybean product, available in various textures (silken, firm, etc.), frequently used in Japanese cuisine for its neutral flavor and ability to absorb sauces.
+* **Fermented:** A process that utilizes microorganisms to transform food, resulting in enhanced flavor, aroma, and nutritional value, as seen in miso.
 
 ## Keywords
 

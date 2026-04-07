@@ -85,13 +85,13 @@
 
 ## Glossary
 
-*   **Panade:** A paste of starch (typically breadcrumbs) and liquid, used to coat protein to prevent over-coagulation during cooking.
-*   **Soffritto:** A foundational Italian sauté of finely diced aromatic vegetables (typically onion, carrot, and celery) used as the base for sauces and stews.
-*   **Gelatin:** A protein derived from collagen, used to enhance the texture and binding properties of meat mixtures, particularly in applications requiring structural integrity.
-*   **Bloom (Gelatin):** The process of hydrating gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve.
-*   **Sensory Cue:** A descriptor referring to the desired textural or visual characteristics of a prepared dish, guiding the cook in assessing its quality.
-*   **Visual Cue:** A descriptor referring to the desired appearance of a prepared dish, guiding the cook in assessing its quality.
-*   **Demi-Baguette:** A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
+* **Panade:** A paste of starch (typically breadcrumbs) and liquid, used to coat protein to prevent over-coagulation during cooking.
+* **Soffritto:** A foundational Italian sauté of finely diced aromatic vegetables (typically onion, carrot, and celery) used as the base for sauces and stews.
+* **Gelatin:** A protein derived from collagen, used to enhance the texture and binding properties of meat mixtures, particularly in applications requiring structural integrity.
+* **Bloom (Gelatin):** The process of hydrating gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve.
+* **Sensory Cue:** A descriptor referring to the desired textural or visual characteristics of a prepared dish, guiding the cook in assessing its quality.
+* **Visual Cue:** A descriptor referring to the desired appearance of a prepared dish, guiding the cook in assessing its quality.
+* **Demi-Baguette:** A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
 
 ## Keywords
 

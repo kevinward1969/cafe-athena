@@ -61,12 +61,12 @@ This dish demonstrates the power of hydrocolloids to transform a standard vegeta
 
 ## Glossary
 
-*   **Agar-agar:** A gelatinous polysaccharide derived from seaweed, used as a hydrocolloid to induce gel formation in food products.
-*   **Xanthan Gum:** A polysaccharide used as a thickening and stabilizing agent in food, particularly effective in shear-thinning applications.
-*   **Shear-Thinning Rheology:** A property of certain fluids where their viscosity decreases under stress, allowing them to flow more easily when agitated or poured.
-*   **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, responsible for the development of complex flavors and aromas in cooked foods.
-*   **Arrosé:** A culinary technique involving the continuous basting of food with melted butter and aromatics during the final stages of cooking to enhance flavor and texture.
-*   **Syneresis:** The process of water expulsion from a gel matrix, often resulting in a watery separation or "weeping" effect.
+* **Agar-agar:** A gelatinous polysaccharide derived from seaweed, used as a hydrocolloid to induce gel formation in food products.
+* **Xanthan Gum:** A polysaccharide used as a thickening and stabilizing agent in food, particularly effective in shear-thinning applications.
+* **Shear-Thinning Rheology:** A property of certain fluids where their viscosity decreases under stress, allowing them to flow more easily when agitated or poured.
+* **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, responsible for the development of complex flavors and aromas in cooked foods.
+* **Arrosé:** A culinary technique involving the continuous basting of food with melted butter and aromatics during the final stages of cooking to enhance flavor and texture.
+* **Syneresis:** The process of water expulsion from a gel matrix, often resulting in a watery separation or "weeping" effect.
 
 ## Keywords
 
