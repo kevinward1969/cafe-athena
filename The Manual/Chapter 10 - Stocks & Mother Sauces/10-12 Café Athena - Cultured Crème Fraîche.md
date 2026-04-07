@@ -36,13 +36,13 @@ While sour cream relies on acid to thicken, true Crème Fraîche relies on high 
 
 ## Method
 
-### Phase 1: Inoculation
+**Phase 1: Inoculation.**
 
 Pour the heavy cream into the sterilized Mason jar. Add the cultured buttermilk. Secure the lid tightly for a moment and shake vigorously for 15 seconds to distribute the bacteria evenly.
 
 > Why: Uneven distribution can lead to "hot spots" of fermentation and pockets of uncultured cream that may spoil.
 
-### Phase 2: The Incubation
+**Phase 2: The Incubation.**
 
 Remove the solid lid. Place the cheesecloth (or coffee filter) over the mouth of the jar and screw the metal ring down over it to secure it in place.
 
@@ -50,13 +50,13 @@ Remove the solid lid. Place the cheesecloth (or coffee filter) over the mouth of
 
 Place the jar in a draft-free spot at **room temperature (22°C–25°C / 72°F–77°F)**. Let it sit undisturbed for **12 to 24 hours**.
 
-### Phase 3: The Set Check
+**Phase 3: The Set Check.**
 
 After 12 hours, gently tilt the jar. The mixture should look like thick yogurt and pull away from the glass in a mass rather than flowing like a liquid.
 
 > Sensory Cue: It is ready when it reaches the consistency of soft mayonnaise and smells distinctly tangy and nutty. If it is still runny, allow it to ferment for up to 12 more hours.
 
-### Phase 4: Cold Maturation
+**Phase 4: Cold Maturation.**
 
 Once set, remove the cheesecloth and seal with a solid airtight lid. Move the jar to the refrigerator.
 

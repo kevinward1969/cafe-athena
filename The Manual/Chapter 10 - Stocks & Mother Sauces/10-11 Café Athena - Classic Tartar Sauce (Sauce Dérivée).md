@@ -47,14 +47,14 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 ## Method
 
-### Phase 1: The Acid Bloom
+**Phase 1: The Acid Bloom.**
 
 1. In a small non-reactive bowl, combine the minced **shallot** and **lemon juice**.
 2. Let stand for 5–10 minutes.
 
 > Why: The acid "cooks" the raw shallot slightly, taming its harsh sulfurous compounds and turning them sweet and mild.
 
-### Phase 2: The Incorporation
+**Phase 2: The Incorporation.**
 
 1. In a medium mixing bowl, place the **Master Mayonnaise** and **Dijon mustard**. Whisk gently to combine.
 2. Add the **dried cornichons**, **dried capers**, and the **shallot-lemon mixture**.
@@ -62,7 +62,7 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 > Sensory Cue: The mixture should look "chunky" and hold its shape. If it looks glossy and runny, the vegetables were not dried enough.
 
-### Phase 3: Season and Cure
+**Phase 3: Season and Cure.**
 
 1. Fold in the **fresh dill**, **chives**, **salt**, **white pepper**, and **Tabasco**.
 2. Taste for seasoning. The sauce should be punchy and tart. If it feels too sharp, add the **sugar** sparingly.

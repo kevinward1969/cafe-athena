@@ -62,13 +62,13 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 > **Sensory Cue:** Stop the mixer when you still see tiny traces of flour; finish folding by hand with a spatula. The dough will be sticky.
 
-**5. Phase 1: Bulk Chill** Cover the bowl with plastic wrap and refrigerate for **1 hour**.
+**Phase 1: Bulk Chill.** Cover the bowl with plastic wrap and refrigerate for **1 hour**.
 
 > **Why:** This initial chill firms the fat just enough to make the dough handleable without it melting in your hands during shaping.
 
-**6. Phase 2: Shape and Coat** Scoop the chilled dough into 2 tbsp portions (golf ball size). Quickly roll them into spheres with your hands. Immediately roll each ball in the Turbinado sugar, pressing gently to ensure a thick, even crust.
+**Phase 2: Shape and Coat.** Scoop the chilled dough into 2 tbsp portions (golf ball size). Quickly roll them into spheres with your hands. Immediately roll each ball in the Turbinado sugar, pressing gently to ensure a thick, even crust.
 
-**7. Phase 3: Structural Maturation** Place the coated balls on a parchment-lined tray. Cover loosely and refrigerate for **3 to 12 hours**.
+**Phase 3: Structural Maturation.** Place the coated balls on a parchment-lined tray. Cover loosely and refrigerate for **3 to 12 hours**.
 
 > **Why:** This long rest hydrates the flour fully (better chew) and dries the surface slightly, ensuring the sugar crust stays crunchy while the center remains soft.
 

@@ -46,25 +46,25 @@ If Béchamel is the canvas, Mornay is the painting. By introducing aged cheeses 
 
 ## Method
 
-### Phase 1: Construct the Mother Sauce
+**Phase 1: Construct the Mother Sauce.**
 
 Prepare the **Béchamel Base** exactly as described in the *Classic Béchamel* recipe: Infuse the milk with aromatics; cook the white roux; integrate the liquids; simmer for 15 minutes to hydrate starches.
 
 > Sensory Cue: The sauce should be smooth, white, and coat the back of a spoon (nappe).
 
-### Phase 2: The Temper (Critical Control Point)
+**Phase 2: The Temper (Critical Control Point).**
 
 Reduce the heat on the Béchamel to the lowest possible setting (or remove from heat entirely for a moment). Ladle about 120 ml (1/2 cup) of the hot Béchamel into the bowl containing the **Liaison** (yolks + cream), whisking the eggs constantly while you pour.
 
 > Why: This brings the eggs up to a safe temperature without shocking them into curdling.
 
-### Phase 3: The Binding
+**Phase 3: The Binding.**
 
 Pour the now-warm Liaison mixture back into the main pot of Béchamel, whisking constantly. Return the pot to very low heat. Cook for 1–2 minutes, stirring constantly. **Do not let it boil.** If the sauce boils, the egg yolks will scramble and the sauce will break.
 
 > Sensory Cue: The sauce will become noticeably glossy and slightly thicker, taking on a rich ivory color.
 
-### Phase 4: The Cheese Integration
+**Phase 4: The Cheese Integration.**
 
 Remove the pot from the heat completely. Add the **Gruyère** and **Parmigiano Reggiano** in three handfuls, whisking gently between additions until fully melted. Adjust seasoning with salt, nutmeg, and the optional **Cayenne Pepper**.
 

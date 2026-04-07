@@ -222,8 +222,9 @@ brew install ollama
 ollama serve         # starts the local server at localhost:11434
 
 # Pull the models used by audit.py
-ollama pull llama3.2   # default — fast, 2 GB
-ollama pull gemma3:4b  # higher quality output, 3.3 GB
+ollama pull llama3.2    # generation model (glossary, keywords, category) — 2 GB
+ollama pull qwen2.5:7b  # detection model (mise violation analysis) — 4.7 GB
+ollama pull gemma3:4b   # optional alternative — 3.3 GB
 ```
 
 ### audit.py — Recipe Audit & Repair
@@ -246,8 +247,14 @@ python3 scripts/audit.py --chapter 3
 # Audit only recipes not yet audited
 python3 scripts/audit.py --pending-only
 
-# Use a different model (gemma3:4b produces richer definitions)
+# Enable LLM-based Mise/Method violation detection (uses qwen2.5:7b)
+python3 scripts/audit.py --deep
+
+# Override the generation model (glossary, keywords, category)
 python3 scripts/audit.py --model gemma3:4b
+
+# Override the detection model (mise violation check)
+python3 scripts/audit.py --detect-model qwen2.5:7b
 
 # Apply all generated fixes without interactive prompts (use when running via Claude Code)
 python3 scripts/audit.py --auto-approve
@@ -255,18 +262,22 @@ python3 scripts/audit.py --auto-approve
 
 **What it detects:**
 
-| Issue | Auto-fix via Ollama? |
-| --- | --- |
-| Missing `## Headnote` | No — manual rewrite needed |
-| Missing `## Mise en Place` | No — manual rewrite needed |
-| Missing `## Ingredients` | No — manual rewrite needed |
-| Missing `## Method` | No — manual rewrite needed |
-| Missing `## Glossary` | **Yes** — generates 3–8 culinary definitions |
-| Missing `## Keywords` | **Yes** — generates 10–15 comma-separated terms |
-| Missing `## Category` | **Yes** — assigns from controlled vocabulary |
-| Malformed `## Category` | **Yes** — rewrites to correct format |
-| Sections out of order | No — flagged for manual correction |
-| Pre-standard bold-header format | No — flagged for full reformat in Claude Desktop |
+| Issue | Method | Auto-fix? |
+| --- | --- | --- |
+| Missing `## Headnote` | Structural | No — manual rewrite needed |
+| Missing `## Mise en Place` | Structural | No — manual rewrite needed |
+| Missing `## Ingredients` | Structural | No — manual rewrite needed |
+| Missing `## Method` | Structural | No — manual rewrite needed |
+| Missing `## Glossary` | Structural | **Yes** — generates 3–8 culinary definitions |
+| Missing `## Keywords` | Structural | **Yes** — generates 10–15 comma-separated terms |
+| Missing `## Category` | Structural | **Yes** — assigns from controlled vocabulary |
+| Malformed `## Category` | Structural | **Yes** — rewrites to correct format |
+| Sections out of order | Structural | No — flagged for manual correction |
+| Pre-standard bold-header format | Structural | No — flagged for full reformat in Claude Desktop |
+| Temperature missing F/C pair | Regex | No — flagged for manual correction |
+| Keywords count outside 10–15 | Regex | No — flagged for manual correction |
+| Unbolded `Phase N:` in Method | Regex | No — flagged for manual correction |
+| Heat step in Mise en Place | LLM (`--deep`) | No — flagged for manual correction |
 
 **Approval flow:** For each recipe with auto-fixable issues, `audit.py` calls Ollama, displays the proposed content, and asks `[y/n/edit]` before writing anything. Approved fixes are applied to the source file in `The Manual/` and the `audit` field in `recipes.json` is updated.
 
@@ -329,10 +340,11 @@ The `/format-audit` slash command (Claude Code) and `audit.py` are **complementa
 
 | Tool | Scope | Depth | Use when |
 | --- | --- | --- | --- |
-| `audit.py` | Structural section detection | Fast, pattern-based | Bulk scanning and glossary/keyword generation |
-| `/format-audit` | Deep content review | AI-driven, nuanced | Checking sensory cues, Mise vs. Method violations, typographic correctness |
+| `audit.py` | Structural + regex + optional LLM detection | Fast, mostly pattern-based | Bulk scanning, glossary/keyword generation, temperature/phase checks |
+| `audit.py --deep` | + Mise/Method violation detection | `qwen2.5:7b` local LLM | When you want heat-step checking without sending data to Claude |
+| `/format-audit` | Deep content review | Claude-driven, nuanced | Sensory cues, complex Mise vs. Method calls, typographic edge cases |
 
-Run `audit.py` first to fix structural gaps, then `/format-audit` for deep content review.
+Run `audit.py` (optionally with `--deep`) first to close structural gaps, then `/format-audit` for nuanced content review.
 
 ---
 

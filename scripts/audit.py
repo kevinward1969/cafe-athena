@@ -10,7 +10,9 @@ Usage:
     python3 scripts/audit.py --id 01-01             # audit one recipe
     python3 scripts/audit.py --chapter 3            # audit a chapter
     python3 scripts/audit.py --scan-only            # report issues, no fixes
-    python3 scripts/audit.py --model gemma3:4b      # use different model
+    python3 scripts/audit.py --model gemma3:4b      # generation model (glossary, keywords, category)
+    python3 scripts/audit.py --detect-model qwen2.5:7b  # detection model (mise violation)
+    python3 scripts/audit.py --deep                 # enable LLM-based Mise/Method violation check
     python3 scripts/audit.py --status               # show audit status summary
 
 Audit status values in recipes.json:
@@ -18,6 +20,12 @@ Audit status values in recipes.json:
     clean         — audited, no issues
     issues_found  — issues detected, fixes not yet approved
     approved      — fixes applied
+
+Checks performed:
+    Structural (always):  missing sections, section order, category format
+    Regex (always):       dual temperatures, keywords count, bold phase headers
+    LLM detection (--deep): mise en place heat-step violations via qwen2.5:7b
+    LLM generation:       glossary, keywords, category content via llama3.2
 """
 
 import argparse
@@ -41,6 +49,14 @@ MANUAL_DIR = BASE / "The Manual"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 TODAY = date.today().isoformat()
 
+# Model defaults
+DEFAULT_GEN_MODEL = "llama3.2:latest"    # generation: glossary, keywords, category
+DEFAULT_DETECT_MODEL = "qwen2.5:7b"      # detection: mise violation analysis
+
+# Keywords count bounds per format standard
+KEYWORDS_MIN = 10
+KEYWORDS_MAX = 15
+
 # Standard section order per format standard
 REQUIRED_SECTIONS = [
     "Headnote",
@@ -57,6 +73,9 @@ RECIPE_ONLY_SECTIONS = {"Ingredients"}
 
 # Sections Claude can generate via Ollama
 AUTO_FIXABLE = {"missing_glossary", "missing_keywords", "missing_category"}
+
+# Issues fixed by local regex (no Ollama needed)
+REGEX_FIXABLE = {"phase_header_format"}
 
 CATEGORY_VALID_CUISINES = {
     "French", "Italian", "Japanese", "Korean", "Vietnamese",
@@ -142,7 +161,91 @@ def check_category_format(text: str) -> bool:
     return cuisine in CATEGORY_VALID_CUISINES and style in CATEGORY_VALID_STYLES
 
 
-def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path) -> RecipeAudit:
+def check_dual_temperatures(text: str) -> list[str]:
+    """Return Method section lines containing a lone °F or °C without its paired unit.
+
+    Scoped to ## Method only — avoids false positives in headnotes, chef's notes,
+    and educational/science prose in technique folios.
+    """
+    m = re.search(r'^## Method\s*\n(.*?)(?=^## |\Z)', text, re.MULTILINE | re.DOTALL)
+    if not m:
+        return []  # No Method section — structural checks cover that separately
+    issues = []
+    for line in m.group(1).splitlines():
+        has_f = bool(re.search(r'\d+°F', line))
+        has_c = bool(re.search(r'\d+°C', line))
+        if has_f and not has_c:
+            issues.append(line.strip()[:80])
+        elif has_c and not has_f:
+            issues.append(line.strip()[:80])
+    return issues
+
+
+def check_keywords_count(text: str) -> int | None:
+    """Return the number of comma-separated keywords, or None if section is absent."""
+    m = re.search(r'^## Keywords\s*\n+(.+)$', text, re.MULTILINE)
+    if not m:
+        return None
+    terms = [t.strip() for t in m.group(1).split(',') if t.strip()]
+    return len(terms)
+
+
+def check_bold_phase_headers(text: str) -> list[str]:
+    """Return lines in Method containing 'Phase N:' that don't use **Phase N: Title.** format."""
+    m = re.search(r'^## Method\s*\n(.*?)(?=^## |\Z)', text, re.MULTILINE | re.DOTALL)
+    if not m:
+        return []
+    violations = []
+    for line in m.group(1).splitlines():
+        if re.search(r'Phase \d+:', line):
+            # Valid format: line (trimmed) starts with **Phase N:
+            if not re.match(r'^\*\*Phase \d+:', line.strip()):
+                violations.append(line.strip()[:80])
+    return violations
+
+
+MISE_DETECT_SYSTEM = """\
+You are auditing the "Mise en Place" section of a recipe.
+
+Your ONLY job: identify bullet points that apply direct heat.
+Direct heat means: sautéing, boiling, frying, roasting, toasting, blanching, \
+rendering, searing, reducing, sweating, caramelizing, or any cooking action.
+
+Pure prep is fine and should NOT be flagged: chopping, measuring, portioning, \
+mincing, slicing, draining, patting dry, separating, peeling, zesting, \
+placing items near the stove, or having something ready.
+
+If you find a heat-applying bullet, respond with exactly:
+VIOLATION: [quote the bullet text verbatim, max 120 chars]
+
+If no heat-applying steps are present, respond with exactly:
+PASS
+"""
+
+
+def extract_mise_section(text: str) -> str:
+    """Return only the Mise en Place section text, or empty string."""
+    m = re.search(
+        r'^## Mise en Place.*?\n(.*?)(?=^## |\Z)',
+        text, re.MULTILINE | re.DOTALL | re.IGNORECASE,
+    )
+    return m.group(1).strip() if m else ""
+
+
+def detect_mise_violation(text: str, detect_model: str) -> str:
+    """Ask the detect model to find heat steps in Mise en Place.
+    Returns the violation description string, or empty string if none."""
+    mise = extract_mise_section(text)
+    if not mise:
+        return ""
+    raw = call_ollama(detect_model, MISE_DETECT_SYSTEM, mise, timeout=60)
+    if raw.startswith("VIOLATION:"):
+        return raw[len("VIOLATION:"):].strip()
+    return ""
+
+
+def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
+               deep: bool = False, detect_model: str = DEFAULT_DETECT_MODEL) -> RecipeAudit:
     text = fpath.read_text(encoding="utf-8")
     audit = RecipeAudit(recipe_id, title, recipe_type, fpath, text)
 
@@ -187,6 +290,47 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path) -> Rec
             description="## Category exists but format is invalid (expected: cuisine: X | style: Y)",
             auto_fix=True,
         ))
+
+    # Dual temperature format check
+    temp_issues = check_dual_temperatures(text)
+    if temp_issues:
+        audit.issues.append(Issue(
+            code="dual_temperature",
+            description=(
+                f"Temperature(s) missing F/C pair on {len(temp_issues)} line(s): "
+                f"{temp_issues[0][:60]}{'...' if len(temp_issues) > 1 else ''}"
+            ),
+            auto_fix=False,
+        ))
+
+    # Keywords count check (only if section is present)
+    if "Keywords" in sections:
+        kw_count = check_keywords_count(text)
+        if kw_count is not None and not (KEYWORDS_MIN <= kw_count <= KEYWORDS_MAX):
+            audit.issues.append(Issue(
+                code="keywords_count",
+                description=f"Keywords has {kw_count} terms (expected {KEYWORDS_MIN}–{KEYWORDS_MAX})",
+                auto_fix=False,
+            ))
+
+    # Bold phase header check
+    unbolded = check_bold_phase_headers(text)
+    if unbolded:
+        audit.issues.append(Issue(
+            code="phase_header_format",
+            description=f"### phase header(s) in Method (will convert to **bold**): {len(unbolded)} found",
+            auto_fix=True,
+        ))
+
+    # LLM-based Mise/Method violation check (only with --deep)
+    if deep and "Mise en Place" in sections:
+        violation = detect_mise_violation(text, detect_model)
+        if violation:
+            audit.issues.append(Issue(
+                code="mise_method_violation",
+                description=f"Heat step in Mise en Place: {violation}",
+                auto_fix=False,
+            ))
 
     return audit
 
@@ -257,8 +401,35 @@ def call_ollama(model: str, system: str, content: str, timeout: int = 120) -> st
         return ""
 
 
+def fix_phase_headers(text: str) -> str:
+    """Convert ### Phase N: Title → **Phase N: Title.** within the Method section."""
+    method_m = re.search(
+        r'^(## Method\s*\n)(.*?)(?=^## |\Z)', text, re.MULTILINE | re.DOTALL
+    )
+    if not method_m:
+        return text
+
+    def replace_header(m):
+        title = m.group(1).strip()
+        if not title.endswith('.'):
+            title += '.'
+        return f'**{title}**'
+
+    fixed_body = re.sub(
+        r'^### (Phase \d+:.+?)$', replace_header,
+        method_m.group(2), flags=re.MULTILINE,
+    )
+    return text[:method_m.start(2)] + fixed_body + text[method_m.end(2):]
+
+
 def generate_fix(issue: Issue, audit: RecipeAudit, model: str) -> str:
     text = audit.file_text
+
+    if issue.code == "phase_header_format":
+        # Pure regex fix — no Ollama needed. Return a preview of affected lines.
+        violations = check_bold_phase_headers(text)
+        preview = "\n".join(f"  {v[:70]} → **{v.lstrip('#').strip()}.**" for v in violations[:8])
+        return preview or "No violations found."
 
     if issue.code == "missing_glossary":
         raw = call_ollama(model, GLOSSARY_SYSTEM, text)
@@ -309,6 +480,8 @@ def replace_section(text: str, heading: str, new_block: str) -> str:
 
 
 def apply_fix(issue: Issue, text: str) -> str:
+    if issue.code == "phase_header_format":
+        return fix_phase_headers(text)
     if issue.code == "missing_glossary":
         return insert_before(text, issue.fix_content, ["Keywords", "Category"])
     elif issue.code == "missing_keywords":
@@ -367,7 +540,12 @@ def print_header(text: str):
     print(f"{BOLD}{CYAN}{'─' * 60}{RESET}")
 
 def print_issue(issue: Issue):
-    tag = f"{GREEN}[auto-fix]{RESET}" if issue.auto_fix else f"{YELLOW}[manual]{RESET}"
+    if issue.code in REGEX_FIXABLE:
+        tag = f"{GREEN}[regex-fix]{RESET}"
+    elif issue.auto_fix:
+        tag = f"{GREEN}[auto-fix]{RESET}"
+    else:
+        tag = f"{YELLOW}[manual]{RESET}"
     print(f"  {tag} {issue.description}")
 
 def prompt_yn(question: str, default: str = "y") -> bool:
@@ -397,6 +575,8 @@ def run_audit(
     model: str,
     scan_only: bool,
     auto_approve: bool = False,
+    deep: bool = False,
+    detect_model: str = DEFAULT_DETECT_MODEL,
 ):
     id_to_entry = {r["id"]: r for r in data["recipes"]}
 
@@ -428,7 +608,7 @@ def run_audit(
         recipe_type = entry.get("type", "recipe")
 
         # --- Audit ---
-        audit = audit_file(rid, title, recipe_type, fpath)
+        audit = audit_file(rid, title, recipe_type, fpath, deep=deep, detect_model=detect_model)
 
         if not audit.has_issues:
             clean_count += 1
@@ -569,7 +749,9 @@ def main():
     parser.add_argument("--id", help="Audit a single recipe by ID")
     parser.add_argument("--chapter", type=int, help="Audit all recipes in a chapter")
     parser.add_argument("--scan-only", action="store_true", help="Detect issues only, no fixes")
-    parser.add_argument("--model", default="llama3.2:latest", help="Ollama model")
+    parser.add_argument("--model", default=DEFAULT_GEN_MODEL, help="Generation model (glossary, keywords, category)")
+    parser.add_argument("--detect-model", default=DEFAULT_DETECT_MODEL, help="Detection model (mise violation)")
+    parser.add_argument("--deep", action="store_true", help="Enable LLM-based Mise/Method violation check")
     parser.add_argument("--status", action="store_true", help="Show audit status summary")
     parser.add_argument("--pending-only", action="store_true", help="Only audit never-audited recipes")
     parser.add_argument("--auto-approve", action="store_true", help="Apply all generated fixes without prompting")
@@ -598,9 +780,12 @@ def main():
         return
 
     print(f"{BOLD}Café Athena — Recipe Audit{RESET}")
-    print(f"Model: {args.model} | Recipes: {len(target_ids)} | Scan only: {args.scan_only}")
+    print(f"Gen model: {args.model} | Detect model: {args.detect_model} | Deep: {args.deep} | Recipes: {len(target_ids)}")
 
-    run_audit(target_ids, data, args.model, args.scan_only, args.auto_approve)
+    run_audit(
+        target_ids, data, args.model, args.scan_only, args.auto_approve,
+        deep=args.deep, detect_model=args.detect_model,
+    )
 
 
 if __name__ == "__main__":

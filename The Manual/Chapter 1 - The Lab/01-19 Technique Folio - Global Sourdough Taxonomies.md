@@ -31,7 +31,7 @@
 
 ## Keywords
 
-Sourdough, Starter, Fermentation, Gluten, Whole Wheat, Rye Flour, Baking, Bread, Lactic Acid, Microbial, USA, Belgium, Germany, Italy, San Francisco Style, Desem, Lievito Madre, Amish Friendship
+Sourdough, Starter, Fermentation, Gluten, Whole Wheat, Rye Flour, Baking, Bread, Lactic Acid, Microbial, San Francisco Style, Desem, Lievito Madre, Amish Friendship, wild yeast
 
 ## Category
 

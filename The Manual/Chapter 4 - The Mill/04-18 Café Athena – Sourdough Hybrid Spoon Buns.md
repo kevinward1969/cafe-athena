@@ -40,25 +40,25 @@ These buns represent the intersection of high-hydration rheology and controlled 
 
 ## Method
 
-### Phase 1: The Hybrid Mix
+**Phase 1: The Hybrid Mix.**
 
 In a large stainless steel bowl, combine the water, active sourdough starter, and instant yeast. Whisk vigorously until the starter is fully dispersed and the liquid is frothy. Add the olive oil. Gradually fold in the flour, salt, and herbs using a sturdy spatula or dough whisk. Mix until no dry pockets of flour remain. The dough will be extremely shaggy, sticky, and fluid — this is correct.
 
-### Phase 2: Controlled Bulk Fermentation
+**Phase 2: Controlled Bulk Fermentation.**
 
 Cover the bowl tightly with plastic wrap or a damp cloth. Place on a warmer plate set to 76°F/24°C, or in a warm, draft-free area. Ferment for 60 minutes. At the end of this period, the dough should have increased in volume by roughly 20%, showing visible small bubbles on the surface and appearing "jiggly" when the bowl is shaken.
 
-### Phase 3: Cold Retardation
+**Phase 3: Cold Retardation.**
 
 Transfer the bowl directly to the refrigerator for a minimum of 4 hours and up to 12 hours. This window gives you overnight optionality — mix in the evening, bake the following morning. The cold environment slows fermentation and firms the dough's structure, making it viscous enough to portion cleanly. The dough is ready when it is cold to the touch and holds a slight indentation when pressed.
 
-### Phase 4: Encapsulation & Spooning
+**Phase 4: Encapsulation & Spooning.**
 
 Generously dust a clean work surface with bread flour. Gently tip the cold dough out of the bowl onto the flour — do not pull or stretch it. Sift a heavy layer of flour over the top of the dough mass. Using a large metal spoon or ladle, scoop a 3–4 inch (7–10 cm) portion of dough. The flour coating on the surface should encapsulate the exterior of each scoop. Place each portion onto the prepared baking sheet. Repeat for the remaining dough, leaving 2 inches of space between buns. Do not press, tuck, or shape the portions.
 
 **Sensory Cue:** Each scooped bun should look rough and irregular — no smooth surfaces. If the exterior looks tight or sealed, the flour skin is working correctly.
 
-### Phase 5: Final Proof & Steam Bake
+**Phase 5: Final Proof & Steam Bake.**
 
 Preheat the oven to 450°F/232°C. Place a cast iron pan or stainless steel tray on the bottom rack. Allow the scooped buns to rest at room temperature for 20–30 minutes while the oven reaches temperature. Just before loading, pour 1 cup of boiling water into the bottom pan to generate steam. Slide the baking sheets into the oven. Bake for 25–30 minutes until the crust is deep golden brown and the internal temperature of a center bun reaches 205°F/96°C. Cool completely on a wire rack before serving.
 

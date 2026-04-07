@@ -46,25 +46,25 @@ We define Marinara not as a vegetable soup, but as an oil-in-water emulsion. By 
 
 ## Method
 
-### Phase 1: The Cold Infusion
+**Phase 1: The Cold Infusion.**
 
 Combine the **cold** olive oil, minced garlic, and red pepper flakes (if using) in a large Dutch oven. Turn the heat to medium-low. Cook gently, stirring frequently, for 5–7 minutes.
 
 > Sensory Cue: The garlic should turn a pale, golden straw color and smell sweet/nutty. Do not let it turn brown.
 
-### Phase 2: The Emulsion
+**Phase 2: The Emulsion.**
 
 Add the hand-crushed tomatoes and their juices carefully. Stir vigorously for 30 seconds to force the oil and tomato water to emulsify.
 
 > Why: Agitation at this stage helps suspend the fat droplets within the tomato base, creating a creamy mouthfeel later.
 
-### Phase 3: The Simmer
+**Phase 3: The Simmer.**
 
 Submerge the Parmesan rind and the basil stem bundle into the sauce. Increase heat to bring to a bubble, then immediately reduce to low. Simmer gently, uncovered, for 45 minutes.
 
 > Sensory Cue: Stir occasionally to prevent scorching. The sauce should reduce slightly and thicken enough to coat a spoon.
 
-### Phase 4: Finishing
+**Phase 4: Finishing.**
 
 Remove from heat. Discard the Parmesan rind and basil stems. Taste the sauce. Season with Diamond Crystal Kosher Salt.
 

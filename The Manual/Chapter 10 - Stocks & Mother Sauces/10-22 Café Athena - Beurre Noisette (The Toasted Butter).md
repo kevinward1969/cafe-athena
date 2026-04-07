@@ -31,7 +31,7 @@ Beurre noisette begins as whole butter and ends as something categorically diffe
 
 ## Method
 
-### Phase 1: The Technique
+**Phase 1: The Technique.**
 
 1. **Melt the Butter:** Place butter pieces in a light-colored saucepan over medium heat. Stir or swirl occasionally as the butter melts.
 

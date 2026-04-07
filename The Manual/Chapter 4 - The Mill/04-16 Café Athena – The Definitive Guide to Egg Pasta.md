@@ -34,7 +34,7 @@ This is not a recipe — it is a skill. Egg pasta dough is one of the few prepar
 
 ## Method
 
-### Phase 1: Mixing
+**Phase 1: Mixing.**
 
 **Option A — By Hand (The Well Method)**
 
@@ -56,7 +56,7 @@ Add the wet ingredients to the bowl first. You can whisk them briefly by hand be
 
 ---
 
-### Phase 2: Rest
+**Phase 2: Rest.**
 
 Form the dough into a smooth ball. Wrap tightly in plastic wrap — no exposed surfaces. Rest at room temperature for 30 minutes.
 
@@ -64,7 +64,7 @@ Form the dough into a smooth ball. Wrap tightly in plastic wrap — no exposed s
 
 ---
 
-### Phase 3: Rolling (KitchenAid Pasta Roller Attachment)
+**Phase 3: Rolling (KitchenAid Pasta Roller Attachment).**
 
 Divide the rested dough into 4 equal portions. Keep all portions not being worked wrapped in plastic — they will dry out quickly on contact with air.
 
@@ -85,7 +85,7 @@ Working one portion at a time, flatten it by hand into a rough rectangle no wide
 
 ---
 
-### Phase 4: The Boil
+**Phase 4: The Boil.**
 
 Add water to your pot — **no salt yet**. Cover and bring to a full rolling boil. Once boiling, add the salt and stir to dissolve. Allow the water to return to a rolling boil before adding pasta.
 

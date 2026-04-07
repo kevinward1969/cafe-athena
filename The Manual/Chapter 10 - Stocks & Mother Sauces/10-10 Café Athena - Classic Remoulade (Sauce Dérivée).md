@@ -44,23 +44,23 @@ Remoulade is the "Tartare Sauce" of the classical French kitchen, though signifi
 
 ## Method
 
-### Phase 1: The Compound Base
+**Phase 1: The Compound Base.**
 
 In a clean mixing bowl, combine the **cornichons**, **capers**, **anchovy paste**, and **fresh herbs**. Stir to combine thoroughly. This "dry mix" ensures the heavy ingredients are evenly distributed before the binder is added.
 
-### Phase 2: The Binding
+**Phase 2: The Binding.**
 
 Fold in the **Master Mayonnaise**. Use a rubber spatula to gently incorporate the aromatics without breaking the emulsion.
 
 > Why: Aggressive whisking at this stage can split the mayonnaise if the acidic ingredients react too quickly.
 
-### Phase 3: Seasoning and Maturation
+**Phase 3: Seasoning and Maturation.**
 
 Add the **Worcestershire sauce** and **Tabasco** (if using). Fold gently. Taste for seasoning. You likely will not need extra salt due to the anchovies and capers, but a crack of **black pepper** is essential.
 
 > Sensory Cue: The sauce should be pale green-flecked and hold its shape on a spoon.
 
-### Phase 4: Rest
+**Phase 4: Rest.**
 
 Cover and refrigerate for at least **30 minutes** before serving.
 

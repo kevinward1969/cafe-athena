@@ -36,17 +36,17 @@ This recipe is a study in controlled carbonization. By pushing fibrous alliums p
 
 ## Method
 
-### Phase 1: The Carbonization
+**Phase 1: The Carbonization.**
 
 Roughly chop the **leek tops**. Spread them in a single, loose layer across the parchment-lined baking sheets. **Do not overcrowd.** Airflow is key to drying them out quickly. Roast for **45–60 minutes**. **The Check:** Rotate pans halfway through. You are looking for a complete transformation: the greens should be jet black, brittle, and crumble instantly to dust when touched. If they bend or feel soft, they are not done.
 
-### Phase 2: The Pulverization
+**Phase 2: The Pulverization.**
 
 Remove from the oven and let cool completely on the pan (they will crisp up further as they cool). Transfer the black carbon to a spice grinder or mortar. Pulse until you have a fine, black dust.
 
 *Chef's Tip: Let the dust settle inside the grinder for 30 seconds before opening the lid, or you will inhale carbon powder.*
 
-### Phase 3: The Integration
+**Phase 3: The Integration.**
 
 Weigh your resulting ash (you will likely have 20–30 g). Add the **Diamond Crystal Salt** at a ratio of **4:1 (Salt to Ash)** by weight.
 

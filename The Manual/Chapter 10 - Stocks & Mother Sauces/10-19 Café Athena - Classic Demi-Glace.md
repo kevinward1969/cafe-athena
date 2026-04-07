@@ -32,7 +32,7 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 
 ## Method
 
-### Phase 1: The Marriage
+**Phase 1: The Marriage.**
 
 1. **Combine the liquids:** In a heavy-bottomed saucepan or saucier, combine the Sauce Espagnole and the Brown Stock.
 2. **Initiate heat:** Bring the mixture to a gentle boil over medium-high heat.
@@ -40,14 +40,14 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 
 > Why: Boiling agitates the fat and impurities, emulsifying them into the sauce and making it cloudy. A gentle simmer keeps the sauce clear.
 
-### Phase 2: The Reduction
+**Phase 2: The Reduction.**
 
 1. **Skim (Dépouillage):** Using a ladle, skim any foam or scum that rises to the surface.
 2. **Reduce:** Allow the sauce to simmer uncovered until reduced by exactly half (50%).
 
 > Sensory Cue: The sauce is ready when it coats the back of a spoon effectively (*nappe*) and has a deep, mahogany shine. It should not be runny, nor should it be a paste.
 
-### Phase 3: The Finish
+**Phase 3: The Finish.**
 
 1. **Strain:** Pass the reduced sauce through a fine-mesh strainer (chinois) into a clean container.
 

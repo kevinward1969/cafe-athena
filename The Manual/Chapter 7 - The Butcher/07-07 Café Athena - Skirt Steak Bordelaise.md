@@ -1,21 +1,65 @@
-# 07-07 Café Athena - Skirt Steak Bordelaise
+### **Café Athena - Skirt Steak Bordelaise**
 
-> **Note:** This document contains embedded images and was too large to export automatically.
-> Please download it manually from Google Drive:
-> <https://docs.google.com/document/d/1hbku5_hKGuH_JNl3wYFoQZmoW7ZPdbnE7Yu3DPFtZb0/edit>
->
+Pan-seared bavette with a red wine reduction and butter-mounted demi-glace.
+
+**Yield:** 2 servings | **Prep:** 45 min (active: 15 min) | **Cook:** 15 min | **Total:** ~60 min
+
+## Headnote
+
+This is the quintessential bistro "minute sauce." Unlike a traditional Bordelaise that requires bone marrow and days of reduction, this version relies on the Maillard reaction in the pan and a rapid reduction of wine and stock. The technique hinges on mounting cold butter at the very end, which emulsifies the liquids into a glossy, *nappé* consistency without flour or starch thickeners. **Teaching Idea: The Salt Timer.** As covered in our *Salinity & Equilibrium* folio (01-02), salt timing is the difference between a juicy steak and a steamed one. We salt 45 minutes before cooking so that the surface brine pulled out by osmosis has time to diffuse back into the muscle, seasoning the meat from within and leaving the exterior dry enough to sear properly.
+
+## Mise en Place (Action Checklist)
+
+- **Trim and portion:** Cut the skirt steak into manageable 6-inch lengths.
+- **Season early:** Salt the steaks 45 minutes before cooking and place on a wire rack.
+- **Prep aromatics:** Brunoise the shallots finely; chop the parsley.
+- **Chill the butter:** Cube the butter and return it to the fridge — it must be cold for the emulsion.
+- **Stage the liquids:** Measure wine and stock into vessels near the stove.
+
+## Ingredients
+
+### The Protein
+
+- 500 g (1.1 lb) skirt steak (bavette), trimmed
+- 6 g (1 tsp) Diamond Crystal kosher salt
+- 2 g (½ tsp) black pepper, coarsely cracked
+- 15 ml (1 tbsp) neutral oil (grapeseed or canola)
+
+### The Pan Sauce
+
+- 40 g (3 tbsp) shallots, brunoise
+- 120 g (½ cup) dry red wine (Cabernet or Syrah)
+- 240 g (1 cup) beef stock (high quality or fortified — see Chef's Notes)
+- 85 g (6 tbsp) unsalted butter, cold and cubed
+- 5 g (1 tbsp) flat-leaf parsley, finely chopped
+
+## Method
+
+**Phase 1: The Diffusion.** Place the trimmed steaks on a wire rack and season generously on all sides with the salt. Let stand at room temperature for **45 minutes**. **Why:** initially, salt draws moisture out via osmosis. If you cook now, the steak steams. After 40+ minutes, that surface brine is reabsorbed (diffusion), seasoning the meat internally and drying the surface for a better sear.
+
+**Phase 2: The Sear.** Place a stainless steel or cast-iron skillet over high heat until it smokes faintly. Add the neutral oil. Pat the steaks very dry with paper towels and lay them into the pan away from you. Sear for 2–3 minutes per side until a deep mahogany crust forms. Remove to a warm plate or carving board to rest. **Do not wipe the pan** — the dark *fond* on the bottom is the foundation of the sauce.
+
+**Phase 3: The Deglaze and Reduction.** Lower heat to medium. Add 1 tablespoon of the butter and the shallots to the dirty pan. Sauté for 1–2 minutes until softened but not browned. Pour in the red wine and scrape the bottom of the pan vigorously with a wooden spoon to dissolve the fond. Increase heat to medium-high and simmer rapidly until the wine is almost dry (reduced by 90%) — *au sec*, syrupy. Add the beef stock and simmer for 5–7 minutes until reduced by half and slightly thickened.
+
+**Phase 4: The Emulsion (*Monter au Beurre*).** Turn the heat to low (or pull the pan off the heat entirely). Add the remaining cold butter cubes one at a time, swirling the pan constantly. **Why:** introducing cold fat into a warm — not boiling — liquid creates a stable emulsion. If the liquid is boiling, the butter will break and separate into oil. Stir in the chopped parsley. Taste and adjust salt if needed (the reduction may already carry enough). Slice the steak **against the grain** into thick strips and spoon the glossy sauce over the meat.
+
+## Chef's Notes / Variations
+
+- **The "MPW" Fortification.** If using boxed broth, it lacks the gelatin and body for a proper sauce. To mimic a chef's stock, simmer your 1 cup of broth separately for 10 minutes with a smashed garlic clove, a sprig of fresh thyme, and a few drops of soy sauce before adding it to the recipe. This concentrates flavor and adds umami depth.
+- **Commercial Demi-Glace Shortcut.** High-quality demi-glace pastes (e.g., *More Than Gourmet*) are excellent substitutes. Dissolve 15 g (1 tbsp) of paste into 240 g (1 cup) of hot water in place of the beef stock. **Note:** these products are often very high in sodium — reduce or omit added salt in the final adjustment.
+- **Resting Matters.** Skirt steak is thin and cools fast. Tent loosely with foil during the sauce build, but no longer than 7–8 minutes total or the meat will go cold.
+
 ## Glossary
 
-* **Bordelaise:** A classic French sauce traditionally made with red wine, bone marrow, shallots, and Madeira wine, offering a rich, intensely savory flavor.
-* **Caramelization:** The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
-* **Sear:** The rapid browning of food's surface through direct, high-heat contact, creating a desirable Maillard reaction crust.
-* **Red Wine Reduction:** A technique involving simmering red wine to concentrate its flavors and reduce its volume, intensifying its complexity.
-* **Umami:** One of the five basic tastes, often described as savory or meaty, resulting from glutamate compounds in food.
-* **Braising:** A slow-cooking method involving searing food and then simmering it in a small amount of liquid, resulting in tender, flavorful results.
+- **Brunoise:** A very fine dice (1–2 mm cubes), here so the shallot melts into the sauce rather than reading as a textural element.
+- **Fond:** The browned bits of protein and sugar stuck to the bottom of a pan after searing meat — a concentrated flavor base.
+- **Monter au Beurre:** "To mount with butter." The technique of whisking cold butter into a warm sauce off direct heat to thicken it and add shine via emulsion.
+- **Au Sec:** "Almost dry." A reduction taken to a syrupy near-dryness to concentrate flavor.
+- **Nappé:** The consistency of a sauce thick enough to coat the back of a spoon.
 
 ## Keywords
 
-Beef, Skirt Steak, Bordelaise, Red Wine Reduction, Sear, Braising, Caramelization, Umami, Savory, French
+skirt steak, bavette, Bordelaise, pan sauce, monter au beurre, emulsion, fond, French technique, bistro, red wine reduction, Maillard, beef, butter mounting, classical, weeknight
 
 ## Category
 

@@ -45,18 +45,18 @@ Traditional Ligurian walnut sauce often suffers from two flaws: the bitter astri
 
 ## Method
 
-### Phase 1: Nut Preparation (De-Skinning)
+**Phase 1: Nut Preparation (De-Skinning).**
 
 1. **Toast:** Preheat oven to 350°F/177°C. Spread the walnuts in a single layer on a sheet pan. Toast for 7–9 minutes until the centers are pale golden and the aroma is distinctly nutty.
 2. **Peel:** Immediately transfer the hot walnuts to the center of a clean kitchen towel. Fold the towel over the nuts and rub vigorously against the counter for 60 seconds. The friction will remove the majority of the papery, bitter skins (pellicles). Pick out the clean walnuts and discard the skins.
 
-### Phase 2: The Aromatic Panade
+**Phase 2: The Aromatic Panade.**
 
 1. **Sauté:** In a small skillet over medium heat, add the olive oil. Once shimmering, add the baguette breadcrumbs and the whole garlic clove. Cook for 3–4 minutes, stirring constantly, until the crumbs are deep golden brown and the garlic is fragrant.
 2. **Bloom:** Add the dried marjoram to the skillet. Stir for 30 seconds until the herb's aroma is amplified by the hot oil.
 3. **Deglaze:** Pour in the first 60 ml (¼ cup) of milk. Stir rapidly as the breadcrumbs hydrate and form a thick, pasty mass. Once the milk is fully absorbed and the mixture pulls away from the pan, remove from heat and let cool for 5 minutes.
 
-### Phase 3: The Emulsion
+**Phase 3: The Emulsion.**
 
 1. **Process:** Place the skinned walnuts, the panade (including the garlic clove), and the Parmigiano Reggiano into a food processor or high-speed blender.
 2. **Hydrate:** Add the remaining 60 ml (¼ cup) of milk and the salt. Pulse until the mixture reaches a thick, uniform paste. If the mixture is too dry to move, add an additional tablespoon of milk.

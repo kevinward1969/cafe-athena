@@ -86,7 +86,7 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 
 These scripts run against a local [Ollama](https://ollama.com) server (`localhost:11434`) — no API tokens used.
 
-**Installed models:** `llama3.2:latest` (default, 2 GB), `gemma3:4b` (higher quality, 3.3 GB)
+**Installed models:** `llama3.2:latest` (generation, 2 GB), `qwen2.5:7b` (detection, 4.7 GB), `gemma3:4b` (3.3 GB)
 
 | Script | Purpose | Use when |
 |--------|---------|----------|
@@ -97,10 +97,12 @@ These scripts run against a local [Ollama](https://ollama.com) server (`localhos
 **Common commands:**
 
 ```bash
-python3 scripts/audit.py --scan-only        # scan all, no changes
-python3 scripts/audit.py --status           # show audit status summary
-python3 scripts/audit.py --chapter 3        # audit + fix Chapter 3
-python3 scripts/audit.py --model gemma3:4b  # use higher-quality model
+python3 scripts/audit.py --scan-only              # scan all, no changes
+python3 scripts/audit.py --status                 # show audit status summary
+python3 scripts/audit.py --chapter 3              # audit + fix Chapter 3
+python3 scripts/audit.py --deep                   # add LLM-based Mise/Method violation check (qwen2.5:7b)
+python3 scripts/audit.py --model llama3.2:latest  # generation model (glossary, keywords, category)
+python3 scripts/audit.py --detect-model qwen2.5:7b  # detection model (mise violation)
 ```
 
 See `README.md` for full documentation and the Ollama approval workflow.
