@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "description": "Caf\u00e9 Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
     "generatedOn": "2026-04-04",
     "stages": {
       "formatAudit": "Format audit run via /format-audit",
@@ -1020,7 +1020,7 @@
     },
     {
       "id": "03-10",
-      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
+      "title": "Velvet Mushroom Mousse (Vegetarian P\u00e2t\u00e9)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -1076,7 +1076,7 @@
     },
     {
       "id": "03-12",
-      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
+      "title": "Deviled Ham & Cognac Mousse (P\u00e2t\u00e9 Rustique)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -1121,6 +1121,29 @@
       },
       "audit": {
         "lastRun": "2026-04-07",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
+      "id": "03-14",
+      "title": "Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice",
+      "chapter": 3,
+      "chapterName": "Garde Manger",
+      "type": "recipe",
+      "added": "2026-04-08",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-08",
         "status": "clean",
         "issues": []
       }
@@ -1323,7 +1346,7 @@
     },
     {
       "id": "04-08",
-      "title": "Parisian Gnocchi (Pâte à Choux)",
+      "title": "Parisian Gnocchi (P\u00e2te \u00e0 Choux)",
       "chapter": 4,
       "chapterName": "The Mill",
       "type": "recipe",
@@ -1830,7 +1853,7 @@
     },
     {
       "id": "06-06",
-      "title": "Modern Chicken Pot Pie (Velouté Method)",
+      "title": "Modern Chicken Pot Pie (Velout\u00e9 Method)",
       "chapter": 6,
       "chapterName": "The Poulterer",
       "type": "recipe",
@@ -2373,7 +2396,7 @@
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2396,7 +2419,7 @@
       "id": "09-02",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2419,7 +2442,7 @@
       "id": "09-03",
       "title": "Sesame Tuile Cylinders (Noir & Orange)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2440,9 +2463,9 @@
     },
     {
       "id": "09-04",
-      "title": "Pâte à Choux (The Steam Dough)",
+      "title": "P\u00e2te \u00e0 Choux (The Steam Dough)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2463,9 +2486,9 @@
     },
     {
       "id": "09-05",
-      "title": "Pâte Feuilletée (Classic Puff Pastry)",
+      "title": "P\u00e2te Feuillet\u00e9e (Classic Puff Pastry)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2486,9 +2509,9 @@
     },
     {
       "id": "09-06",
-      "title": "Pâte Brisée (Classic Shortcrust)",
+      "title": "P\u00e2te Bris\u00e9e (Classic Shortcrust)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2509,9 +2532,9 @@
     },
     {
       "id": "09-07",
-      "title": "Pâte Sucrée (Sweet Tart Dough)",
+      "title": "P\u00e2te Sucr\u00e9e (Sweet Tart Dough)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2532,9 +2555,9 @@
     },
     {
       "id": "09-08",
-      "title": "Rough Puff Pastry (Demi-Feuilletée)",
+      "title": "Rough Puff Pastry (Demi-Feuillet\u00e9e)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2555,9 +2578,9 @@
     },
     {
       "id": "09-09",
-      "title": "Pâte Sablée (Rich Shortbread Crust)",
+      "title": "P\u00e2te Sabl\u00e9e (Rich Shortbread Crust)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2580,7 +2603,7 @@
       "id": "09-10",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2601,9 +2624,9 @@
     },
     {
       "id": "09-11",
-      "title": "Brandy-Infused Canelés de Bordeaux",
+      "title": "Brandy-Infused Canel\u00e9s de Bordeaux",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2672,7 +2695,7 @@
     },
     {
       "id": "10-03",
-      "title": "Sauce Béchamel (Mother Sauce No. 1)",
+      "title": "Sauce B\u00e9chamel (Mother Sauce No. 1)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2764,7 +2787,7 @@
     },
     {
       "id": "10-07",
-      "title": "Master Compound Butter (Beurre Composé)",
+      "title": "Master Compound Butter (Beurre Compos\u00e9)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2833,7 +2856,7 @@
     },
     {
       "id": "10-10",
-      "title": "Classic Remoulade (Sauce Dérivée)",
+      "title": "Classic Remoulade (Sauce D\u00e9riv\u00e9e)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2856,7 +2879,7 @@
     },
     {
       "id": "10-11",
-      "title": "Classic Tartar Sauce (Sauce Dérivée)",
+      "title": "Classic Tartar Sauce (Sauce D\u00e9riv\u00e9e)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2879,7 +2902,7 @@
     },
     {
       "id": "10-12",
-      "title": "Cultured Crème Fraîche",
+      "title": "Cultured Cr\u00e8me Fra\u00eeche",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2902,7 +2925,7 @@
     },
     {
       "id": "10-13",
-      "title": "Classic Ragù alla Bolognese",
+      "title": "Classic Rag\u00f9 alla Bolognese",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2971,7 +2994,7 @@
     },
     {
       "id": "10-16",
-      "title": "Sauce Velouté (Mother Sauce No. 2)",
+      "title": "Sauce Velout\u00e9 (Mother Sauce No. 2)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -3154,6 +3177,29 @@
       }
     },
     {
+      "id": "10-24",
+      "title": "Crispy Rice Platform (The Frozen-Fry Method)",
+      "chapter": 10,
+      "chapterName": "Stocks & Mother Sauces",
+      "type": "recipe",
+      "added": "2026-04-08",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-08",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "11-01",
       "title": "Vibrant Green Herb Oil",
       "chapter": 11,
@@ -3264,6 +3310,29 @@
       },
       "audit": {
         "lastRun": "2026-04-07",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
+      "id": "11-06",
+      "title": "KW Signature Smoked Red Pepper Blend",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "added": "2026-04-08",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-08",
         "status": "clean",
         "issues": []
       }
