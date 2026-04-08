@@ -55,7 +55,7 @@ const { title, subtitle, part, currentPage, chapters } = Astro.props;
     <!-- Recipe Listings -->
     <div class="space-y-24 max-w-4xl mx-auto">
       {chapters.map(ch => (
-        <section id={`chapter-${ch.num}`} class="recipe-listing-section">
+        <section id={`chapter-${ch.num}`} class="recipe-listing-section" style="scroll-margin-top: 80px;">
           <header class="mb-8 pb-4 border-b border-[#e0d8cc]">
             <h2 class="font-heading text-3xl md:text-4xl font-semibold text-[#1a1a2e]">
               Chapter {ch.num}: {ch.name}
