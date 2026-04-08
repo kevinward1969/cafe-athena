@@ -1,68 +1,81 @@
-# Café Athena - Smoked Salmon & Compressed Cucumber on Potato Fondant
+# **Café Athena - Smoked Salmon & Compressed Cucumber on Potato Fondant**
 
-A study of thermal contrast and cellular integrity via precision potato cookery and vacuum compression. Yield: 4 servings | Prep: 30 min | Inactive: 30 min | Cook: 20 min | Total: 1 hr 20 min
+A study of thermal contrast and cellular integrity via precision potato cookery and vacuum compression.
 
----
+**Yield:** 4 servings | **Prep:** 30 min | **Inactive:** 30 min | **Cook:** 20 min | **Total:** 1 hr 20 min
 
-### **Overview**
+## Headnote
 
-This dish serves as an exploration of structural architecture and moisture management at the Garde Manger station. By pairing a warm, dextrinized potato base with chilled, acid-compressed cucumber and fatty smoked salmon, we create a high-contrast sensory experience. The core teaching idea is utilizing Vacuum Compression to modify vegetable texture and Starch Dextrinization to ensure a rigid, flavorful foundation.
+This dish serves as an exploration of structural architecture and moisture management at the Garde Manger station. By pairing a warm, dextrinized potato base with chilled, acid-compressed cucumber and fatty smoked salmon, we create a high-contrast sensory experience. **Teaching Idea: Vacuum Compression & Starch Dextrinization.** Vacuum compression removes internal air from the cucumber and forces acid into its cell structure, creating a translucent, snappy texture. Searing the potato in clarified butter triggers starch dextrinization, building a rigid, flavorful base that won't turn soggy under the moist tartare above.
 
-### **Mise en Place (Mandatory Action Checklist)**
+## Mise en Place (Mandatory Action Checklist)
 
-* Peel the potatoes and punch into 4cm x 4cm squares, approximately 1.5cm thick.
-* Brunoise the cold-smoked salmon into precise 3mm cubes.
-* Peel and brunoise the English cucumber into 3mm cubes.
+* Peel the potatoes and punch into 4 cm x 4 cm squares, approximately 1.5 cm thick.
+* Brunoise the cold-smoked salmon into precise 3 mm cubes.
+* Peel and brunoise the English cucumber into 3 mm cubes.
 * Mince the chives and pick small sprigs of fresh dill.
-* Preheat oven to 400°F / 200°C.
+* Preheat oven to 400°F/200°C.
 
-### **Ingredients**
+## Ingredients
 
-Potato Fondant
+**Potato Fondant**
 
 * 2 large Russet potatoes
 * 60 g (4 tbsp) clarified butter
-* 120 ml (1/2 cup) white chicken stock
-* 2 g (1/2 tsp) Diamond Crystal kosher salt
+* 120 ml (½ cup) white chicken stock
+* 2 g (½ tsp) Diamond Crystal kosher salt
 
-Compressed Cucumber
+**Compressed Cucumber**
 
-* 150 g (1/2) English cucumber
+* 150 g (½) English cucumber
 * 30 ml (2 tbsp) white balsamic vinegar
 * 1 g (pinch) kosher salt
 
-Salmon Tartare
+**Salmon Tartare**
 
 * 200 g (7 oz) cold-smoked salmon
 * 30 g (2 tbsp) crème fraîche
 * 5 g (1 tsp) prepared horseradish
 * 2 g (1 tsp) minced chives
 
-Garnish
+**Garnish**
 
 * 15 g (1 tbsp) salmon roe
 * 4 small dill sprigs
 
-### **Method**
+## Method
 
-1. **Compress the Cucumber** Place the cucumber brunoise in a vacuum seal bag with the white balsamic and salt. Seal on the highest vacuum setting and let rest for 30 minutes. Why: This removes internal air pockets and forces the vinegar into the cellular structure, creating a translucent appearance and a snappy texture.
-2. **Sear the Fondant** In a cast-iron pan over medium-high heat, add the clarified butter. Once shimmering, sear the potato squares until a deep, uniform golden-brown crust forms on both sides (about 4 minutes per side). Why: This utilizes starch dextrinization to create a rigid, flavorful base that won't turn soggy under the moist tartare.
-3. **Braise and Finish** Carefully pour the chicken stock into the pan until it reaches halfway up the sides of the potatoes. Transfer the pan to the oven and cook for 10–12 minutes until the center is tender when pierced with a paring knife. Sensory Cue: The stock should be mostly evaporated, leaving the potatoes tender with a crisp exterior. Remove and drain on a wire rack to maintain structural integrity.
-4. **Bind the Tartare** In a chilled stainless steel bowl, gently fold together the salmon, drained compressed cucumber, crème fraîche, horseradish, and chives. Sensory Cue: The mixture should look glossy and hold its shape without any liquid weeping from the fish.
-5. **Assembly** Place one warm potato square in the center of a plate. Using a square ring mold, top with a generous mound of the chilled tartare. Crown with a micro-quenelle of crème fraîche, salmon roe pearls, and a sprig of dill.
+**Phase 1: Compress the Cucumber**
 
----
+Place the cucumber brunoise in a vacuum seal bag with the white balsamic and salt. Seal on the highest vacuum setting and let rest for 30 minutes.
 
-### **Glossary**
+**Why:** This removes internal air pockets and forces the vinegar into the cellular structure, creating a translucent appearance and a snappy texture.
 
-* **Brunoise:** A precise culinary cut where the food is julienned and then diced into uniform cubes of 3mm or less.
-* **Dextrinization:** The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
-* **Fondant:** A method of cooking vegetables where they are seared in fat and then braised in stock until tender.
-* **Vacuum Compression:** A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
+**Phase 2: Sear the Fondant**
+
+In a cast-iron pan over medium-high heat, add the clarified butter. Once shimmering, sear the potato squares until a deep, uniform golden-brown crust forms on both sides (about 4 minutes per side).
+
+**Why:** This utilizes starch dextrinization to create a rigid, flavorful base that won't turn soggy under the moist tartare.
+
+**Phase 3: Braise and Finish**
+
+Carefully pour the chicken stock into the pan until it reaches halfway up the sides of the potatoes. Transfer the pan to the oven and cook for 10–12 minutes until the center is tender when pierced with a paring knife.
+
+**Sensory Cue:** The stock should be mostly evaporated, leaving the potatoes tender with a crisp exterior. Remove and drain on a wire rack to maintain structural integrity.
+
+**Phase 4: Bind the Tartare**
+
+In a chilled stainless steel bowl, gently fold together the salmon, drained compressed cucumber, crème fraîche, horseradish, and chives.
+
+**Sensory Cue:** The mixture should look glossy and hold its shape without any liquid weeping from the fish.
+
+**Phase 5: Assembly**
+
+Place one warm potato square in the center of a plate. Using a square ring mold, top with a generous mound of the chilled tartare. Crown with a micro-quenelle of crème fraîche, salmon roe pearls, and a sprig of dill.
 
 ## Glossary
 
-* **Brunoise:** A precise culinary cut where the food is julienned and then diced into uniform cubes of 3mm or less.
+* **Brunoise:** A precise culinary cut where the food is julienned and then diced into uniform cubes of 3 mm or less.
 * **Dextrinization:** The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
 * **Fondant:** A method of cooking vegetables where they are seared in fat and then braised in stock until tender.
 * **Vacuum Compression:** A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
@@ -74,4 +87,4 @@ Smoked Salmon, Vacuum Compression, Potato Fondant, Cucumber, Brunoise, Dextriniz
 
 ## Category
 
-cuisine: Japanese | style: Technique Folio
+cuisine: Global | style: Technique Folio

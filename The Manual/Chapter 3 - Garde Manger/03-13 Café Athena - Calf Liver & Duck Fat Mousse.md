@@ -1,4 +1,4 @@
-# Café Athena - Calf Liver & Duck Fat Mousse
+# **Café Athena - Calf Liver & Duck Fat Mousse**
 
 A silky, Michelin-caliber mousse leveraging the deep savory notes of duck fat, the precision of a cold-butter emulsion, and a fragrant beurre noisette seal.
 
@@ -20,15 +20,15 @@ This preparation elevates the often-maligned calf liver into a state of pure lux
 ### The Cure & Soak
 
 * 450 g (1 lb) Calf liver, cleaned and sliced into 1-inch pieces
-* 300 ml Whole milk (for soaking)
+* 300 ml (1¼ cups) Whole milk (for soaking)
 * 1.25 g (¼ tsp) Prague Powder #1
 * 1 sprig Fresh thyme
 
 ### The Sauté & Gastrique
 
-* 60 g Duck fat
+* 60 g (¼ cup) Duck fat
 * 40 g Shallots, finely minced
-* 60 ml Brandy (Cognac or Armagnac)
+* 60 ml (¼ cup) Brandy (Cognac or Armagnac)
 * 15 ml (1 tbsp) Honey or maple syrup
 * 30 ml (2 tbsp) Heavy cream
 * 6 g (1 tsp) Diamond Crystal kosher salt
@@ -98,7 +98,7 @@ Once firm, pour the liquid beurre noisette over the top to create an airtight se
 
 ## Keywords
 
-Calf Liver, Duck Fat, Mousse, Emulsification, Beurre Noisette, Gastrique, Cold Butter Emulsion, Prague Powder #1, Fermented, Savory
+Calf Liver, Duck Fat, Mousse, Emulsification, Beurre Noisette, Gastrique, Cold Butter Emulsion, Prague Powder #1, Charcuterie, Savory
 
 ## Category
 

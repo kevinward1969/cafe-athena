@@ -1,0 +1,68 @@
+**Café Athena - Crispy Rice Platform (The Frozen-Fry Method)**
+
+A shatteringly crisp, golden shell with a warm, creamy sushi rice center.
+
+**Yield:** 14–16 pieces | **Prep:** 20 min | **Inactive:** Overnight soak + 8 hr freeze | **Cook:** 4–6 min per batch | **Total:** ~20 hr
+
+## Headnote
+
+The frozen-fry method is the key technique here. By pressing, chilling, and freezing the sushi rice solid before it ever touches hot fat, you create a thermal buffer: the surface dries and sets into a crust while the interior remains protected and creamy. This is the same principle behind frying a frozen arancini — the ice acts as a heat brake. **Teaching Idea: Thermal Gradient Control.** When a frozen mass hits hot fat, the extreme temperature differential causes rapid surface moisture evaporation and starch gelatinization at the crust before heat can penetrate to the center. The result is two distinct textures in a single piece — a shatteringly crisp shell surrounding a soft, yielding core.
+
+## Mise en Place (Action Checklist)
+
+- Rinse sushi rice thoroughly under cold water until water runs clear, then submerge in fresh cold water and soak overnight (8–12 hr)
+- Line molds or an 8×8 inch sheet pan with plastic wrap, leaving overhang on all sides for easy removal
+- Prepare a pressing weight: a second pan filled with canned goods works well
+- Have a wire rack ready for draining after frying
+
+## Ingredients
+
+### The Rice
+
+- 380 g (2 cups) sushi rice (short-grain)
+- Soaking water, reserved (do not discard after soaking)
+- 30 ml (2 tbsp) unseasoned rice vinegar
+- Diamond Crystal kosher salt, to taste
+
+### The Fry Medium
+
+- 60 ml (¼ cup) clarified butter
+- 20 ml (1½ tbsp) duck fat
+- (Approximate ratio: 75% clarified butter / 25% duck fat — scale to pan size; target ¼ inch depth)
+
+## Method
+
+**Phase 1 — Cook the Rice**
+Drain the soaked rice, reserving all soaking water. Combine rice and soaking water in a heavy-bottomed pot at a 1:1.1 ratio by volume — the soaking water is already partially starch-loaded and carries additional flavor. Bring to a boil over medium-high heat, then immediately reduce to the lowest possible simmer. Cover tightly and cook 12–15 minutes until all water is fully absorbed. *Sensory cue:* The sound will shift from a rolling simmer to a quiet hiss — that's your signal it's nearly done. Remove from heat and let steam, covered, for 5 minutes.
+
+**Phase 2 — Season and Press**
+Transfer the hot rice to a wide bowl. While still steaming, fold in the rice vinegar using a cutting motion with a rice paddle or spatula — do not stir aggressively or you will break the grains. Season with Diamond Crystal kosher salt. Taste: the rice should read subtly tangy and savory, not sweet. Pack firmly into the prepared molds or lined sheet pan, pressing to a uniform ½ inch depth. Apply your pressing weight and press firmly. Allow to cool completely to room temperature, then transfer to the freezer.
+
+*Sheet Pan Note:* Pull from the freezer once firm but not hard (approximately 1–2 hr). Cut into 1.5 × 1 inch rectangles using a sharp, wet knife. Return the cut pieces to the freezer and freeze completely solid — minimum 6 hr, overnight preferred.
+
+**Phase 3 — Fry**
+Heat clarified butter and duck fat in a covered saucier or straight-sided sauté pan over high heat until the fat is shimmering and just beginning to smoke. This compensates for the temperature drop when frozen rice enters the pan. Working in batches — do not crowd — place the frozen rice pieces flat-side down. Cover immediately to trap steam and minimize oil spatter. Fry 2–3 minutes per side.
+
+*Sensory cue:* The pieces will hiss aggressively for the first 60 seconds, then quiet as the surface dries. When the sizzle shifts from wet and reactive to dry and steady, check the crust color. Light gold = creamy center preserved. Deep gold = crunchier throughout. Both are valid — match to application.
+
+**Phase 4 — Rest and Serve**
+Transfer immediately to a wire rack. Do not rest on paper towels — trapped steam softens the crust. Use within 15–20 minutes for maximum contrast between shell and center.
+
+## Chef's Notes
+
+- **Mold size is flexible**, but keep the pressed rice block at ½ inch depth maximum regardless of footprint. Beyond that, the frozen core takes too long to heat through during the fry — the crust overcooks before the center warms, and you lose the creamy interior that defines this technique.
+- **Fry medium:** Clarified butter carries the high smoke point (≈450°F/232°C) and provides the crust. Duck fat adds flavor depth without lowering smoke point significantly. If duck fat is unavailable, 100% clarified butter works. Standard whole butter will not — the milk solids burn before the crust sets.
+- **These do not hold.** Fry to order or as close to service as possible. The crust softens within 30 minutes.
+- **Freezing window:** Platforms can be frozen for up to 2 weeks, well wrapped. Fry directly from frozen — do not thaw.
+
+## Glossary
+
+- **Clarified Butter:** Butter from which the water and milk solids have been removed by gentle melting and skimming, leaving pure butterfat. Smoke point is significantly higher than whole butter (≈450°F/232°C vs. ≈300°F/150°C).
+- **Duck Fat:** Rendered fat from duck, prized for its flavor and high smoke point. Adds a subtle richness to fried applications without overpowering.
+- **Thermal Gradient:** The difference in temperature between the exterior and interior of a food during cooking. A large gradient (frozen interior, very hot fat) allows the surface to set before heat penetrates — the principle behind this technique.
+
+## Keywords
+crispy rice, sushi rice, platform, canapé base, frozen-fry method, clarified butter, duck fat, short-grain rice, mise en place, building block, texture contrast, garde manger, frying technique, thermal gradient
+
+## Category
+cuisine: Japanese | style: Modern

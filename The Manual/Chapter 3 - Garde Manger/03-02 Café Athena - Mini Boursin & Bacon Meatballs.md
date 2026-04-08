@@ -1,4 +1,4 @@
-### **Café Athena - Mini Boursin & Bacon Meatballs**
+# **Café Athena - Mini Boursin & Bacon Meatballs**
 
 Rich, tender bites enriched with herbed cream cheese and smoky lardons.
 

@@ -1,0 +1,76 @@
+**Café Athena - KW Signature Smoked Red Pepper Blend**
+
+A four-pepper blend of hot-smoked, fully dehydrated chiles — ground to flake or powder depending on application.
+
+**Yield:** ~100–150 g finished blend (varies by pepper size and moisture content) | **Prep:** 20 min | **Inactive:** Smoke until coals cold + dehydrator until fully dry (~12–24 hr total) | **Cook:** Passive
+
+## Headnote
+
+This is a two-stage process — and the separation of those stages is the point. Hot smoking at declining heat allows the wood smoke to penetrate the flesh of the pepper without cooking it to mush, preserving the cellular structure for clean dehydration. The dehydrator then removes all remaining moisture without adding heat or flavor, locking the smoke character permanently into the dried flesh. **Teaching Idea: Staged Moisture Removal.** Smoke penetration is most efficient when the surface of the food is slightly tacky and open — the grapeseed oil coating keeps the skin from seizing and cracking under early heat, allowing smoke compounds to enter the flesh rather than bead off the surface. Dehydration finishes what the smoke started: once moisture is gone, the volatile aromatic compounds are fixed in the dried cell matrix and will not dissipate at room temperature.
+
+## Mise en Place (Action Checklist)
+
+- Prepare the offset smoker with a base fire; plan this process to follow another cook, using the declining post-peak coals
+- Halve all peppers lengthwise and remove seeds and membranes
+- Lightly spray cut surfaces with grapeseed oil
+- Have apple and hickory wood chunks (4–6 inch squares) ready to stoke the coals
+- Set dehydrator to 145°F/63°C
+- Note which trays will hold bell peppers and poblanos — they will need more time and should be staged
+
+## Ingredients
+
+### The Pepper Blend (One Batch)
+
+- 1 red bell pepper, halved and seeded
+- 4 poblano peppers, halved and seeded
+- 6 jalapeño peppers, halved and seeded
+- 4 serrano peppers, halved and seeded
+- Grapeseed oil, for light coating (spray preferred)
+
+## Method
+
+**Phase 1 — Prep and Oil**
+Halve all peppers lengthwise. Remove seeds and membranes completely — any remaining seed material will taste bitter after dehydration. Lightly spray cut surfaces with grapeseed oil. The coating should be a thin sheen, not a drench. *Why:* The oil keeps the surface permeable and prevents the skin from cracking and seizing under initial heat, which would block smoke penetration.
+
+**Phase 2 — Hot Smoke (Declining Heat)**
+This process follows another cook in the offset smoker. Once your primary cook is complete and the coals have passed peak heat, stoke the fire with a small addition of briquettes and add your apple and hickory wood chunks. You are not building a high-heat fire — you are building a smoldering, smoke-dense environment at declining temperature.
+
+Arrange the peppers cut-side up on the smoker grates. Close the smoker and leave undisturbed. *No flipping, no checking.* Allow the peppers to sit in the smoker until the coals are fully cold and the smoke has died — typically several hours. The peppers will be softened, deeply colored, and visibly smoke-stained when done.
+
+*Sensory cue:* The peppers should smell deeply smoky and roasted, not raw. The flesh will have collapsed slightly. This is correct.
+
+**Phase 3 — Dehydrate (Staged)**
+Transfer all peppers to dehydrator trays, cut-side up. Set the dehydrator to 145°F/63°C.
+
+**Staging protocol:** Jalapeños and serranos will finish significantly faster than poblanos and the bell pepper due to their lower moisture content and thinner walls. Check jalapeños and serranos at the 8–10 hour mark. Pull them when completely brittle — no flex, no tackiness. Leave poblanos and bell pepper to continue until they reach the same state, which may take an additional 4–8 hours.
+
+*Sensory cue for doneness:* Fully dehydrated peppers will snap cleanly rather than bend. Any remaining pliability means moisture remains — return to the dehydrator.
+
+**Phase 4 — Process**
+Once all peppers are fully dry and at room temperature, transfer to a food processor.
+
+- **For flake:** Pulse in short bursts, 3–5 seconds each, until a coarse, irregular flake texture is achieved. Stop frequently to check — flake goes to powder faster than expected.
+- **For powder:** Process continuously until fully ground. Sift if a fine, uniform powder is required.
+
+Store both forms separately in airtight containers away from heat and light.
+
+## Chef's Notes
+
+- **Flake vs. powder:** Flake delivers bursts of heat and smokiness with visible texture — ideal for dusting proteins (as in 03-14) and finishing applications where you want the spice to read visually. Powder integrates seamlessly into sauces, dijonnaise, dry rubs, and spice blends where uniform distribution matters. Keep both on hand.
+- **Wood selection:** The apple/hickory combination is intentional. Apple smoke is lighter, fruitier, and rounds the pepper's natural sweetness. Hickory is assertive and adds the deeper, bacon-adjacent smokiness. Using hickory alone would overpower the peppers; apple alone would be too light to register after dehydration.
+- **Declining heat is correct:** High heat at the start of smoking would cook the peppers too aggressively, causing them to release moisture rapidly and close the surface. Declining heat keeps the smoking environment gentle and long — maximizing smoke penetration time without destroying texture.
+- **Yield variability:** Fresh pepper size and ambient humidity both affect final yield. Expect anywhere from 100–150 g per batch. Do not adjust the pepper ratio to hit a specific weight — the ratio is calibrated for flavor balance, not yield.
+- **Scaling:** The recipe scales directly. Double or triple the pepper quantities and use the same process — the only variable is dehydrator time, which may increase slightly with heavier loads due to moisture load in the chamber.
+- **Shelf life:** Stored in an airtight container away from heat and light, both flake and powder will hold flavor for 6–12 months. Discard when the smoky aroma fades significantly.
+
+## Glossary
+
+- **Dehydration:** The removal of moisture from food through sustained low heat and airflow. At 145°F/63°C, water evaporates from the flesh while heat-sensitive aromatic compounds are largely preserved.
+- **Smoke Penetration:** The process by which smoke compounds (phenols, carbonyls, acids) absorb into the surface and flesh of a food during smoking. Most effective when the surface is warm, slightly open, and lightly coated — not sealed by high heat.
+- **Staging:** In dehydration, the practice of removing faster-drying items from the chamber before slower-drying ones, preventing over-processing of more delicate items while allowing denser items to continue.
+
+## Keywords
+smoked pepper, dehydrated chile, red pepper blend, spice blend, offset smoker, apple wood, hickory, jalapeño, serrano, poblano, building block, KW signature, chile flake, chile powder, house spice
+
+## Category
+cuisine: American | style: Modern

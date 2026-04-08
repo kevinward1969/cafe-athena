@@ -1,83 +1,94 @@
-**Café Athena - Velvet Mushroom Mousse (Vegetarian Pâté)**
+# **Café Athena - Velvet Mushroom Mousse (Vegetarian Pâté)**
 
 Rich, umami-forward spread stabilized with gelatin and lightened with Chantilly.
 
-Yield: 6–8 servings | Prep: 45 min | Inactive: 4 hr | Cook: 20 min
+**Yield:** 6–8 servings | **Prep:** 45 min | **Inactive:** 4 hr | **Cook:** 20 min
 
-**Headnote** This is not a dip; it is a structured mousse that rivals traditional liver pâté in both texture and depth. By incorporating gelatin and creating a stable emulsion with the heavy cream, we achieve a "sliceable" consistency that holds its shape on a crostini. The addition of miso and sherry mimics the savory, oxidized notes usually provided by organ meat. **Teaching Idea: Temperature & Emulsions.** The base must be cooled to roughly 85°F/30°C before folding. If the base is too hot, the whipped cream fat melts, breaking the aeration. If it is too cold, the gelatin sets into rubbery lumps before it is incorporated.
+## Headnote
 
-**Mise En Place (Action Checklist)**
+This is not a dip; it is a structured mousse that rivals traditional liver pâté in both texture and depth. By incorporating gelatin and creating a stable emulsion with the heavy cream, we achieve a "sliceable" consistency that holds its shape on a crostini. The addition of miso and sherry mimics the savory, oxidized notes usually provided by organ meat. **Teaching Idea: Temperature & Emulsions.** The base must be cooled to roughly 85°F/30°C before folding. If the base is too hot, the whipped cream fat melts, breaking the aeration. If it is too cold, the gelatin sets into rubbery lumps before it is incorporated.
+
+## Mise en Place (Action Checklist)
 
 * **Bloom the gelatin:** Submerge gelatin sheets in ice water (or sprinkle powder over 1 tbsp cold water) for 5 minutes.
 * **Clean and chop:** Wipe mushrooms clean and roughly chop; mince the shallots.
 * **Prep the station:** Set up a blender and a fine-mesh sieve (tamis) over a clean bowl.
 * **Chill the gear:** Place a metal mixing bowl and whisk in the refrigerator (for the whipped cream later).
 
-**Ingredients**
+## Ingredients
 
-**The Base & Aromatics**
+### The Base & Aromatics
 
 * 450 g (1 lb) Mixed Mushrooms (Cremini, Shiitake, Button), clean and chopped
-* 50 g (3 ½ tbsp) Unsalted Butter, divided
+* 50 g (3½ tbsp) Unsalted Butter, divided
 * 50 g (½ cup) Shallots, minced
 * 2 Cloves Garlic, smashed
 * 15 g (1 tbsp) White Miso Paste
 * 3 g (1 tsp) Fresh Thyme leaves
 
-**The Reduction**
+### The Reduction
 
 * 60 ml (¼ cup) Dry Sherry or Madeira
 * 5 ml (1 tsp) Sherry Vinegar
 * 4 g (1 tsp) Diamond Crystal Kosher Salt (plus more to taste)
 * Fresh Black Pepper, coarse grind
 
-**The Structure**
+### The Structure
 
 * 2 Sheets Silver Leaf Gelatin (or 4 g powdered gelatin bloomed in 1 tbsp water)
 * 120 ml (½ cup) Heavy Cream (Liquid)
 
-**The Aeration**
+### The Aeration
 
 * 120 ml (½ cup) Heavy Cream (Cold)
 
-**Method**
+## Method
 
-**Phase 1: Deep Browning (The Maillard)** Heat a large sauté pan over medium-high heat. Melt 25 g (half) of the butter. Add the shallots and garlic, sweating until translucent (2 minutes). Add the mushrooms.
+**Phase 1: Deep Browning (The Maillard)**
+
+Heat a large sauté pan over medium-high heat. Melt 25 g (half) of the butter. Add the shallots and garlic, sweating until translucent (2 minutes). Add the mushrooms.
 
 * **Why:** We want to drive off moisture rapidly to concentrate flavor. Cook undisturbed for 4–5 minutes until browned. Stir, add the thyme, remaining butter, and the white miso paste. Cook for 2 more minutes, allowing the miso to toast slightly on the bottom of the pan.
 
-**Phase 2: Deglaze and Hydrate** Pour in the Dry Sherry. Scrape the bottom of the pan vigorously with a wooden spoon to lift the *fond* (browned bits). Let the sherry reduce by half (roughly 1 minute). Add the **Liquid Heavy Cream** (120 ml) and bring to a simmer. Cook for 2–3 minutes until the mushrooms are tender and the liquid has slightly thickened. Remove from heat.
+**Phase 2: Deglaze and Hydrate**
 
-**Phase 3: Gelatin Integration** While the mixture is still hot (above 140°F/60°C), squeeze the excess water from the bloomed gelatin sheets and whisk them into the mushroom mixture until fully dissolved.
+Pour in the Dry Sherry. Scrape the bottom of the pan vigorously with a wooden spoon to lift the *fond* (browned bits). Let the sherry reduce by half (roughly 1 minute). Add the **Liquid Heavy Cream** (120 ml) and bring to a simmer. Cook for 2–3 minutes until the mushrooms are tender and the liquid has slightly thickened. Remove from heat.
+
+**Phase 3: Gelatin Integration**
+
+While the mixture is still hot (above 140°F/60°C), squeeze the excess water from the bloomed gelatin sheets and whisk them into the mushroom mixture until fully dissolved.
 
 * **Sensory Cue:** The liquid should look glossy and smooth, with no visible granules of gelatin.
 
-**Phase 4: Refining the Texture** Transfer the hot mixture to a high-speed blender. Blitz on high for 60 seconds until completely liquified. **Critical Step:** Pour the purée into the fine-mesh sieve (tamis) set over a clean bowl. Use a ladle or spatula to push the mixture through, discarding the fibrous skins and garlic bits left in the mesh.
+**Phase 4: Refining the Texture**
+
+Transfer the hot mixture to a high-speed blender. Blitz on high for 60 seconds until completely liquified.
+
+**Critical Step:** Pour the purée into the fine-mesh sieve (tamis) set over a clean bowl. Use a ladle or spatula to push the mixture through, discarding the fibrous skins and garlic bits left in the mesh.
 
 * **Why:** This ensures the final mouthfeel is "velvet," not gritty.
 
-**Phase 5: The Cool Down** Let the strained purée sit at room temperature, stirring occasionally, until it reaches roughly 85°F/30°C.
+**Phase 5: The Cool Down**
+
+Let the strained purée sit at room temperature, stirring occasionally, until it reaches roughly 85°F/30°C.
 
 * **Sensory Cue:** It should feel lukewarm to the touch—neither hot nor fridge-cold. If it begins to gel around the edges, whisk it vigorously to loosen.
 
-**Phase 6: The Fold** Retrieve your chilled bowl. Whip the **Cold Heavy Cream** (120 ml) to soft peaks (when you lift the whisk, the peak flops over). Add one-third of the whipped cream to the mushroom base and whisk firmly to lighten the mixture. Gently fold in the remaining two-thirds of the cream using a rubber spatula.
+**Phase 6: The Fold**
+
+Retrieve your chilled bowl. Whip the **Cold Heavy Cream** (120 ml) to soft peaks (when you lift the whisk, the peak flops over). Add one-third of the whipped cream to the mushroom base and whisk firmly to lighten the mixture. Gently fold in the remaining two-thirds of the cream using a rubber spatula.
 
 * **Technique:** Cut down the middle, scrape the bottom, and fold over. Stop as soon as the streaks disappear to preserve air bubbles.
 
-**Phase 7: Setting** Immediately transfer into ramekins, a serving crock, or a piping bag. Tap the container gently on the counter to level the surface. Cover with plastic wrap directly touching the surface (to prevent skin formation). Refrigerate for at least 4 hours to fully set the gelatin structure.
+**Phase 7: Setting**
 
-**Chef's Notes / Variations**
+Immediately transfer into ramekins, a serving crock, or a piping bag. Tap the container gently on the counter to level the surface. Cover with plastic wrap directly touching the surface (to prevent skin formation). Refrigerate for at least 4 hours to fully set the gelatin structure.
+
+## Chef's Notes / Variations
 
 * **Garnish:** Serve with pickled mustard seeds or a hazelnut dukkah to provide necessary textural contrast to the soft mousse.
 * **Alcohol Substitution:** If avoiding alcohol, use a high-quality vegetable stock with a splash of balsamic vinegar, though the flavor profile will be less complex.
 * **Storage:** Keeps for 3 days in the refrigerator. Do not freeze (the emulsion may break upon thawing).
-
-**Glossary**
-
-* **Bloom:** The process of hydrating gelatin in cold water before melting it, ensuring it dissolves evenly without clumping.
-* **Fond:** The caramelized browned bits of food stuck to the bottom of a pan after sautéing; the foundation of flavor for sauces.
-* **Tamis:** A flat, drum-shaped sieve used to create perfectly smooth purées.
-* **Soft Peaks:** The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 
 ## Glossary
 

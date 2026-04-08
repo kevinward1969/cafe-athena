@@ -53,6 +53,7 @@
 * ​​03-11 Café Athena \- Double Deviled Eggs (Le Jambon)  
 * 03-12 Café Athena \- Deviled Ham & Cognac Mousse (Pâté Rustique)
 * 03-13 Café Athena \- Calf Liver & Duck Fat Mousse
+* 03-14 Café Athena \- Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice
 
 ## CHAPTER 4: THE MILL
 
@@ -101,9 +102,10 @@
 * 07-08 Café Athena \- Braised Beef Stroganoff  
 * 07-09 Café Athena \- MasterClass Beef Bourguignon  
 * 07-10 Café Athena \- "The Competition Red" Texas-Style Chili  
-* 07-10a Café Athena – "The Competition Red" Texas-Style Chili
+* 07-10.2 Café Athena – "The Competition Red" Texas-Style Chili
 * 07-11 Café Athena \- Pressure-Braised Chuck Roast (The Competition Pot Roast)
 * 07-12 Café Athena \- Dehydrator Bacon (Four Ways)
+* 07-13 Café Athena \- Individual Beef Wellington
 
 ## CHAPTER 8: THE FIELD
 
@@ -155,6 +157,7 @@
 * 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
 * 10-22 Café Athena \- Beurre Noisette (The Toasted Butter)
 * 10-23 Café Athena \- The Asian Dipping Sauce Collection
+* 10-24 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 
@@ -163,4 +166,4 @@
 * 11-03 Café Athena \- Sodium Acetate (Salt & Vinegar Crystals)  
 * 11-04 Café Athena \- Burnt Allium Ash Salt  
 * 11-05 Café Athena \- Nashville Fire Paste (Lipophilic Heat)
-* 07-13 Café Athena \- Individual Beef Wellington
+* 11-06 Café Athena \- KW Signature Smoked Red Pepper Blend
