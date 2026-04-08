@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-06
+Last Updated: 2026-04-08
 
 ## 🎯 Active Development
 
@@ -11,11 +11,12 @@ Last Updated: 2026-04-06
 
 ## 🌅 On the Horizon
 
-- **Home Page Copy — 3 Main Area Descriptions**: Update the wording for the three main manual section descriptions on the site home page.
+- **Home Page Copy — 3 Main Area Descriptions**: ✅ Completed 2026-04-08.
+- **Glossary Letter Navigation Fix**: ✅ Completed 2026-04-08.
+- **Academy Section Randomizer (Home Page)**: ✅ Completed 2026-04-08.
+- **Featured Recipe Randomizer (Home Page)**: ✅ Completed 2026-04-08.
 - **Food Critic / Food Writer Agent**: Create a new Claude Code agent for creative and marketing copy — editorial, journalistic, blog posts, social media. Separate surface from the Chef agent.
-- **Glossary Letter Navigation Fix**: Letter anchor links jump too far down and overshoot the letter heading. Needs scroll offset or anchor adjustment so the letter appears at the top of the viewport.
-- **Academy Section Randomizer (Home Page)**: Randomize the "Highlights from The Academy" section to show 3 random items per page load, pulling only from Chapters 1 and 2, excluding folios without hero images.
-- **Featured Recipe Randomizer (Home Page)**: Randomize the Featured Recipe section to pull a random recipe from Chapters 3+ per page load, excluding any recipes without hero images.
+- **Section & Chapter Banner Images**: Full-bleed panoramic banners (~1920×380px WebP) for each section page and each chapter. Generated via Gemini Gem 2. See image briefs below. Implementation: add optional `bannerImage` prop to `SectionLayout.astro`. Naming: `banner-academy.webp`, `banner-brigade.webp`, `banner-larder.webp`, `banner-ch03.webp` … `banner-ch11.webp`. All placed in `site/public/images/`.
 
 - **Glossary Workflow**: Automated terminology extraction from recipes with duplicate prevention and A-Z sorting. Track progress via `glossaryPull` in `recipes.json` — 72 entries pending.
 - **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary. Run after glossary pull backlog is cleared.
@@ -184,6 +185,44 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 | 11-03 | Sodium Acetate (Salt & Vinegar Crystals) | Ch. 11 | Pending |
 | 11-04 | Burnt Allium Ash Salt | Ch. 11 | Pending |
 | 11-05 | Nashville Fire Paste (Lipophilic Heat) | Ch. 11 | Pending |
+
+---
+
+## 🖼 Banner Image Briefs
+
+Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photography, desaturated/grayscale, cinematic aspect ratio (~5:1). Generated via Gemini Gem 2. Place in `site/public/images/`.
+
+### Section Banners
+
+| File | Subject | Mood |
+| :--- | :--- | :--- |
+| `banner-academy.webp` | Close-up: copper saucepan mid-emulsification, thermometer probe, or whisk pulling a ribbon of sauce — the science of cooking in motion | Precise, analytical, controlled |
+| `banner-brigade.webp` | Wide shot across a kitchen pass or a row of plated dishes in sequence — the rhythm of professional service | Disciplined, energetic, serial |
+| `banner-larder.webp` | Aromatics, stock bones, a bouquet garni, jars of preserved goods — infrastructure before the recipe begins | Quiet, foundational, abundant |
+
+### Chapter Banners
+
+| File | Chapter | Subject |
+| :--- | :--- | :--- |
+| `banner-ch01.webp` | Ch. 1 — The Lab | Flames under copper, bubbling reduction, a fluid gel setting — pure technique |
+| `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision |
+| `banner-ch03.webp` | Ch. 3 — Garde Manger | A terrine sliced to reveal layers, or a cold platter of terrines and mousse |
+| `banner-ch04.webp` | Ch. 4 — The Mill | Flour-dusted bench, fresh pasta draped over a rack, bread scoring |
+| `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface |
+| `banner-ch06.webp` | Ch. 6 — The Poulterer | A whole duck or chicken, skin-on, with aromatics — raw and ready |
+| `banner-ch07.webp` | Ch. 7 — The Butcher | Prime beef cross-section showing marbling, or butchery tools on a block |
+| `banner-ch08.webp` | Ch. 8 — The Field | Root vegetables, fresh herbs, earthy tones — unpretentious and whole |
+| `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble |
+| `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze |
+| `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue |
+
+### Implementation Notes
+
+- Add optional `bannerImage` prop to `SectionLayout.astro` — renders a full-bleed `<img>` below the navbar with a bottom gradient overlay
+- Section pages (academy/brigade/larder) pass their banner; chapter sections can optionally pass chapter banners
+- The `clean_dirs` pattern in `prepare-content.py` already preserves `section-*.webp` — extend to also preserve `banner-*.webp`
+
+---
 
 ## 🧠 Strategic Context & Learnings
 
