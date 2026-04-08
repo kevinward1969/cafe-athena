@@ -1,4 +1,4 @@
-**Café Athena - Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice**
+# **Café Athena - Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice**
 
 Crispy rice platforms layered with dijonnaise, seared Korean SPAM, a cracked three-pepper crust, and torched Irish Dubliner — finished with dressed bitter greens and sesame.
 

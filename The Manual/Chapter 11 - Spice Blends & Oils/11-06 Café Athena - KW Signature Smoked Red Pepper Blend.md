@@ -1,4 +1,4 @@
-**Café Athena - KW Signature Smoked Red Pepper Blend**
+# **Café Athena - KW Signature Smoked Red Pepper Blend**
 
 A four-pepper blend of hot-smoked, fully dehydrated chiles — ground to flake or powder depending on application.
 

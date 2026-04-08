@@ -1,4 +1,4 @@
-**Café Athena - Crispy Rice Platform (The Frozen-Fry Method)**
+# **Café Athena - Crispy Rice Platform (The Frozen-Fry Method)**
 
 A shatteringly crisp, golden shell with a warm, creamy sushi rice center.
 

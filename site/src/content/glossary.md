@@ -3,9 +3,11 @@
 Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## 0-9
+
 - "00" Flour: An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
 
 ## A
+
 - Abort Vessel: A heat-proof bowl used to immediately halt cooking by receiving the finished butter away from the heat source.
 - Acid Coagulation: The partial denaturing of milk proteins caused by the introduction of an acid (lemon juice, vinegar), which tightens and thickens cream-based sauces without starch.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
@@ -29,6 +31,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Autolyse: The process of mixing flour and water (no salt, no yeast) and letting it rest for 20–60 minutes. This fully hydrates the starch and relaxes the gluten before mixing begins.
 
 ## B
+
 - Bain-Marie: A technique utilizing a water bath to gently heat a vessel or its contents, promoting even temperature distribution.
 - Baker's Percentages: A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
 - Baker’s Percentage: A system of measuring ingredients based on the weight of the flour in a recipe, allowing for precise scaling and consistent results.
@@ -62,6 +65,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Butterfat: The fat component of butter, expressed as a percentage. Higher butterfat means less water, richer flavor, and faster browning.
 
 ## C
+
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
@@ -110,12 +114,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Curing Salt #1: Sodium nitrite used in small quantities to inhibit bacterial growth and maintain color in cured meats.
 
 ## D
+
 - Danger Zone: The temperature range (41°F to 135°F) where bacterial growth is most rapid and poses the greatest risk of foodborne illness.
 - Dashi: A foundational Japanese broth traditionally made from kombu (kelp) and katsuobushi (dried bonito flakes), prized for its intense umami flavor.
 - DDT (Desired Dough Temperature): The specific target temperature for dough after mixing to ensure predictable fermentation timing.
 - De-gas: The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
+- Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
 - Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
 - Desiccation: The removal of moisture. Essential for efficient browning.
 - Desired Dough Temperature (DDT): A calculated target temperature for dough fermentation, typically maintained through precise control of water temperature and environmental factors.
@@ -136,10 +142,12 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Draw Slice: A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
+- Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
 - Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Détrempe: The base ball of dough that encases the butter in laminated pastries.
 
 ## E
+
 - Emulsification: The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
 - Emulsifier: A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
 - Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
@@ -152,6 +160,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Exothermic: A chemical reaction that releases heat.
 
 ## F
+
 - Farcia: A professional term for a fine pasta stuffing or emulsified meat filling.
 - Fat Rendering: The process of applying low, sustained heat to convert solid fat into liquid, which then drains away or is reabsorbed — producing a firmer, less greasy texture in cured meat products.
 - Fat Suspension: The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
@@ -172,6 +181,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Fulcrum: The pivot point around which a lever rotates, referring to the thumb's placement in the knife grip for optimal control and balance.
 
 ## G
+
 - Garde Manger: The French term for the department of a professional kitchen dedicated to preparing cold foods, including appetizers and salads.
 - Garlic-Infused Oil: Olive oil gently heated with crushed garlic cloves until fragrant, then strained. Delivers garlic flavor without the sharpness or texture of raw garlic.
 - Gelatin: A protein derived from collagen, exhibiting hydrocolloidal properties and producing a silky mouthfeel (viscosity) when warmed, and forming a semi-solid gel upon cooling.
@@ -188,6 +198,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Guk-ganjang: A fermented Korean soy sauce, known for its intensely savory and umami-rich flavor profile.
 
 ## H
+
 - Headspace: The empty space left between the top of the food product and the lid of the jar to allow for expansion or oil coverage.
 - Heterofermentative: A fermentation process resulting in the production of multiple organic acids, including acetic acid.
 - Homofermentative: A fermentation process characterized by the primary production of lactic acid.
@@ -203,15 +214,17 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Hygroscopic: The property of a substance to absorb moisture from the air or its surroundings.
 
 ## I
+
 - Infuse: To steep a flavor ingredient, such as saffron threads, in a liquid (stock) to extract its essence and impart its color and aroma.
 - Inoculation: The introduction of bacteria (the starter) into a medium (the cream) to begin fermentation.
 - Inverse Square Law: A principle stating that the intensity of radiation decreases proportionally to the square of the distance from the source.
 - Ionic Gelation: A food-stabilization technique utilizing divalent cations, primarily calcium ions, to cross-link alginate chains, forming a semi-solid gel.
 
 ## L
+
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
-- Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is *not* fermentation; it is a direct-acidification pickle.
+- Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination (Pasta): The process of folding and re-rolling pasta dough through the thickest setting to build structure and achieve a uniform rectangular sheet.
 - Lamination: The process of layering dough sheets, achieved by the pasta roller, resulting in a desirable "snap" in the final product.
@@ -230,6 +243,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Louisiana Holy Trinity: A foundational mirepoix of diced onion, celery, and bell pepper, commonly used in Louisiana Creole and Cajun cuisine.
 
 ## M
+
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
@@ -257,12 +271,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Myosin: A motor protein in muscle tissue that, when over-agitated during mixing, forms dense elastic networks — the primary cause of rubbery ground meat.
 
 ## N
+
 - Nappe: A smooth, even coating of a sauce or dressing, often described as having a velvety texture.
 - Nappé: The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
 - Natural Release: A pressure cooking technique where the pressure is allowed to decrease slowly over time, minimizing starch foam formation.
 - Nuoc Cham: Vietnamese dipping sauce built on fish sauce, acid, sugar, garlic, and chili. A table condiment as ubiquitous in Vietnam as soy sauce in Japan.
 
 ## O
+
 - Offset Cooking (Two-Zone Fire): A grilling technique utilizing two distinct heat zones – one with direct heat and one with indirect heat – for precise temperature control.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
@@ -274,6 +290,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Oxidation: The process by which a substance reacts with oxygen, often leading to discoloration and degradation of flavor and aroma, addressed by direct plastic wrap contact.
 
 ## P
+
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
@@ -302,11 +319,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
+- Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
 - Proteolysis: The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
 - Purge: The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
 
 ## R
+
 - Radiation: A heat transfer method involving electromagnetic waves, such as infrared radiation.
 - Rainbow Stain: The discoloration of stainless steel cookware caused by heat oxidation and mineral deposits, often appearing as blue or multicolored streaks.
 - Recrystallization: The process by which a liquid transforms into a solid state, altering the texture of the butter to achieve a spreadable pâté.
@@ -326,10 +345,12 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Risottata: A cooking technique, particularly applied to pasta, involving the gradual addition of liquid to create a creamy, thickened sauce through starch release.
 - Risotto Method: A cooking technique involving toasting grains in fat before adding liquid, mimicking the process used for risotto rice.
 - Rolling Cut: A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
+- Roulade: A preparation rolled into a tight cylinder — typically using plastic wrap or a flat food layer — then chilled to hold its compressed shape before slicing or further cooking.
 - Roux: A cooked mixture of equal parts fat (typically butter) and flour, used as a thickening agent for sauces and other culinary preparations.
 - Rye Flour: A grain flour containing a high mineral content (ash) and amylase activity, essential for establishing a robust sourdough starter.
 
 ## S
+
 - Sacrificial Aromatics: Vegetables used solely for flavor extraction in a stock or sauce base, intended to be discarded rather than eaten.
 - Saikyo Miso: A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
 - Saku: A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.
@@ -388,6 +409,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Syneresis: The expulsion of liquid from a gel, often seen as "weeping" or water pooling around a purée.
 
 ## T
+
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
@@ -412,11 +434,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Turgor Pressure: The pressure of water inside a plant cell pushing against the cell wall. High turgor = crisp vegetables.
 
 ## U
+
 - Ultra-Pasteurized: A process of heating milk to 138°C (280°F) for 2 seconds. It extends shelf life but damages the proteins required for cheese and curd making.
 - Umami-Dense: Characterized by a high concentration of umami compounds, contributing to a savory and rich flavor profile.
 - Umami: The fifth basic taste, often described as savory or meaty, resulting from the presence of glutamates.
 
 ## V
+
 - Vacuum Compression: A technique using a vacuum sealer to collapse cell walls in porous foods, allowing for instant marination and a modified, dense texture.
 - Velouté: A classic French sauce based on a light stock (typically chicken or veal) thickened with a roux, creating a smooth, creamy emulsion.
 - Vesicles: Small, fluid-filled sacs within citrus fruit that contain the juice, contributing to the fruit's flavor and texture.
@@ -427,6 +451,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Volume: A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
 
 ## W
+
 - Water Activity: A measure of the unbound water in a food system, indicating its potential for microbial growth; a lower water activity inhibits spoilage.
 - Well Method: A hand-mixing technique where flour is mounded and hollowed at the center to contain wet ingredients, which are gradually incorporated from the inside out.
 - Wet-Dry-Wet Dredge: A multi-stage coating process employing a liquid binder to create a textured, “craggy” batter for enhanced crisping.
@@ -435,7 +460,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## K
 
 - Katsuobushi: Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
-- Kombu: A type of edible seaweed, primarily *Porphyra* species, used in dashi to impart a subtle sweetness and umami.
+- Kombu: A type of edible seaweed, primarily _Porphyra_ species, used in dashi to impart a subtle sweetness and umami.
 
 ## Q
 
