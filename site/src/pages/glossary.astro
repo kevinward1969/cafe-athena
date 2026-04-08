@@ -108,7 +108,7 @@ const allLetters = glossarySections.map(s => s.letter);
     <!-- Glossary Entries -->
     <div id="glossary-content" class="space-y-16">
       {glossarySections.map(section => (
-        <section class="glossary-section" id={`letter-${section.letter}`}>
+        <section class="glossary-section" id={`letter-${section.letter}`} style="scroll-margin-top: 160px;">
           <h2 class="font-heading text-4xl font-bold text-[#c9a96e] mb-6 pb-2 border-b border-[#e0d8cc]">{section.letter}</h2>
           <dl class="space-y-8">
             {section.entries.map(entry => (

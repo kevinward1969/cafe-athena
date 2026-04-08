@@ -40,32 +40,29 @@ const pillars = [
   },
 ];
 
-const highlights = [
-  {
-    id: '01-01',
-    label: 'Technical Discipline 01',
-    title: 'Thermodynamics & Heat Control',
-    desc: 'The physics of thermal transfer in the kitchen. How heat moves through metal, water, and fat — and why it matters for every technique that follows.',
-    href: '/01-01',
-    image: '/images/01-01.webp',
-  },
-  {
-    id: '01-02',
-    label: 'Technical Discipline 02',
-    title: 'Salinity & Equilibrium',
-    desc: 'Why salt does more than season. A study of osmosis, equilibrium brining, and how salt transforms the cellular structure of proteins before heat is ever applied.',
-    href: '/01-02',
-    image: '/images/01-02.webp',
-  },
-  {
-    id: '01-03',
-    label: 'Technical Discipline 03',
-    title: "Baker's Percentages & Hydration",
-    desc: "The mathematics of dough. Understanding baker's percentages as a universal ratio system — the foundation of every bread, pasta, and pastry in this Manual.",
-    href: '/01-03',
-    image: '/images/01-03.webp',
-  },
-];
+// Academy candidates: Ch.1–2 with a hero image
+const academyCandidates = allRecipes
+  .filter(r => [1, 2].includes(r.data.chapter) && r.data.heroImage)
+  .map(r => ({
+    index: r.data.index,
+    title: r.data.title,
+    chapter: r.data.chapter,
+    chapterName: r.data.chapterName,
+    href: `/${r.id}`,
+    image: `/images/${r.data.heroImage}`,
+  }));
+
+// Featured candidates: Ch.3+ with a hero image
+const featuredCandidates = allRecipes
+  .filter(r => r.data.chapter >= 3 && r.data.heroImage)
+  .map(r => ({
+    index: r.data.index,
+    title: r.data.title,
+    chapter: r.data.chapter,
+    chapterName: r.data.chapterName,
+    href: `/${r.id}`,
+    image: `/images/${r.data.heroImage}`,
+  }));
 
 const glossaryTerms = [
   {
@@ -172,25 +169,7 @@ const glossaryTerms = [
         <span class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-3 block">Archive Insights</span>
         <h2 class="font-heading text-5xl md:text-6xl font-bold text-[#1a1a2e]">Highlights from The Academy</h2>
       </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16">
-        {highlights.map(h => (
-          <a href={h.href} class="group block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm">
-            <div class="aspect-video overflow-hidden bg-[#e0d8cc] mb-7 rounded-sm">
-              <img
-                src={h.image}
-                alt={h.title}
-                class="w-full h-full object-cover grayscale brightness-90 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
-                loading="lazy"
-                decoding="async"
-              />
-            </div>
-            <span class="font-mono text-[9px] uppercase tracking-[0.2em] text-[#6b6b7b] mb-2 block">{h.label}</span>
-            <h3 class="font-heading text-2xl font-bold text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors duration-300 mb-3 leading-snug">{h.title}</h3>
-            <p class="text-[#6b6b7b] text-base leading-relaxed">{h.desc}</p>
-          </a>
-        ))}
-      </div>
+      <div id="academy-grid" class="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16" aria-live="polite"></div>
     </div>
   </section>
 
@@ -199,8 +178,9 @@ const glossaryTerms = [
     <!-- Image -->
     <div class="w-full lg:w-2/3 relative min-h-[420px] overflow-hidden">
       <img
-        src="/images/07-04.webp"
-        alt="Beef Bourguignon — The Elevated Short Rib Braise"
+        id="featured-image"
+        src=""
+        alt=""
         class="w-full h-full object-cover brightness-75"
         loading="lazy"
         decoding="async"
@@ -210,30 +190,13 @@ const glossaryTerms = [
       </div>
     </div>
 
-    <!-- Editorial text -->
+    <!-- Recipe info -->
     <div class="w-full lg:w-1/3 bg-[#f0ede9] px-12 py-16 flex flex-col justify-center">
-      <span class="font-mono text-[11px] uppercase tracking-[0.2em] text-[#6b6b7b] mb-4 block">Synthesis of Archives</span>
-      <h2 class="font-heading text-4xl lg:text-5xl font-bold text-[#1a1a2e] mb-8 leading-tight">
-        Beef Bourguignon<br/>
-        <span class="font-normal italic text-[#6b6b7b] text-3xl">The Elevated Short Rib Braise</span>
-      </h2>
-      <p class="text-[#6b6b7b] text-lg leading-relaxed mb-10">
-        The definitive French braise. Short ribs rendered in Burgundy wine with lardons, pearl onions, and mushrooms — executed here with modern precision and classical discipline.
-      </p>
-
-      <div class="space-y-5 mb-12">
-        <div class="flex flex-col border-b border-[#e0d8cc] pb-4">
-          <span class="font-mono text-[9px] uppercase tracking-[0.1em] text-[#6b6b7b] mb-1">From The Brigade</span>
-          <span class="font-heading italic text-lg text-[#1a1a2e]">Braised Short Rib in Burgundy Reduction</span>
-        </div>
-        <div class="flex flex-col border-b border-[#e0d8cc] pb-4">
-          <span class="font-mono text-[9px] uppercase tracking-[0.1em] text-[#6b6b7b] mb-1">From The Larder</span>
-          <span class="font-heading italic text-lg text-[#1a1a2e]">Pressure-Roasted Brown Stock (Fond Brun)</span>
-        </div>
-      </div>
-
+      <span id="featured-label" class="font-mono text-[11px] uppercase tracking-[0.2em] text-[#6b6b7b] mb-4 block"></span>
+      <h2 id="featured-title" class="font-heading text-4xl lg:text-5xl font-bold text-[#1a1a2e] mb-10 leading-tight"></h2>
       <a
-        href="/07-04"
+        id="featured-link"
+        href=""
         class="inline-flex items-center gap-4 group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
       >
         <span class="font-mono text-[11px] uppercase tracking-[0.2em] font-bold text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors duration-300">Access the Full Dossier</span>
@@ -277,10 +240,55 @@ const glossaryTerms = [
     }
   </style>
 
-  <script>
+  <script define:vars={{ academyCandidates, featuredCandidates }}>
     import { gsap } from 'gsap';
 
+    function pickRandom(arr, n) {
+      const shuffled = [...arr].sort(() => Math.random() - 0.5);
+      return shuffled.slice(0, n);
+    }
+
+    function renderAcademyGrid() {
+      const grid = document.getElementById('academy-grid');
+      if (!grid || !academyCandidates.length) return;
+
+      const picks = pickRandom(academyCandidates, 3);
+      grid.innerHTML = picks.map(h => `
+        <a href="${h.href}" class="group block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm">
+          <div class="aspect-video overflow-hidden bg-[#e0d8cc] mb-7 rounded-sm">
+            <img
+              src="${h.image}"
+              alt="${h.title}"
+              class="w-full h-full object-cover grayscale brightness-90 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <span class="font-mono text-[9px] uppercase tracking-[0.2em] text-[#6b6b7b] mb-2 block">Chapter ${h.chapter} · ${h.chapterName}</span>
+          <h3 class="font-heading text-2xl font-bold text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors duration-300 mb-3 leading-snug">${h.title}</h3>
+        </a>
+      `).join('');
+    }
+
+    function renderFeaturedRecipe() {
+      if (!featuredCandidates.length) return;
+
+      const pick = pickRandom(featuredCandidates, 1)[0];
+      const img = document.getElementById('featured-image');
+      const label = document.getElementById('featured-label');
+      const title = document.getElementById('featured-title');
+      const link = document.getElementById('featured-link');
+
+      if (img) { img.src = pick.image; img.alt = pick.title; }
+      if (label) label.textContent = `Chapter ${pick.chapter} · ${pick.chapterName}`;
+      if (title) title.textContent = pick.title;
+      if (link) link.href = pick.href;
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
+      renderAcademyGrid();
+      renderFeaturedRecipe();
+
       const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
       if (!prefersReducedMotion) {
