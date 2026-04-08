@@ -240,7 +240,13 @@ const glossaryTerms = [
     }
   </style>
 
+  <!-- Pass candidate data to client via inline script (define:vars cannot coexist with imports) -->
   <script define:vars={{ academyCandidates, featuredCandidates }}>
+    window.__academyCandidates = academyCandidates;
+    window.__featuredCandidates = featuredCandidates;
+  </script>
+
+  <script>
     import { gsap } from 'gsap';
 
     function pickRandom(arr, n) {
@@ -250,10 +256,11 @@ const glossaryTerms = [
 
     function renderAcademyGrid() {
       const grid = document.getElementById('academy-grid');
-      if (!grid || !academyCandidates.length) return;
+      const candidates = (window as any).__academyCandidates ?? [];
+      if (!grid || !candidates.length) return;
 
-      const picks = pickRandom(academyCandidates, 3);
-      grid.innerHTML = picks.map(h => `
+      const picks = pickRandom(candidates, 3);
+      grid.innerHTML = picks.map((h: any) => `
         <a href="${h.href}" class="group block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm">
           <div class="aspect-video overflow-hidden bg-[#e0d8cc] mb-7 rounded-sm">
             <img
@@ -271,13 +278,14 @@ const glossaryTerms = [
     }
 
     function renderFeaturedRecipe() {
-      if (!featuredCandidates.length) return;
+      const candidates = (window as any).__featuredCandidates ?? [];
+      if (!candidates.length) return;
 
-      const pick = pickRandom(featuredCandidates, 1)[0];
-      const img = document.getElementById('featured-image');
+      const pick = pickRandom(candidates, 1)[0];
+      const img = document.getElementById('featured-image') as HTMLImageElement;
       const label = document.getElementById('featured-label');
       const title = document.getElementById('featured-title');
-      const link = document.getElementById('featured-link');
+      const link = document.getElementById('featured-link') as HTMLAnchorElement;
 
       if (img) { img.src = pick.image; img.alt = pick.title; }
       if (label) label.textContent = `Chapter ${pick.chapter} · ${pick.chapterName}`;
