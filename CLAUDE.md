@@ -131,10 +131,6 @@ When manually adding heroImage frontmatter (not via prepare-content.py), always 
 1. **Via The Manual:** Place `.png` in `The Manual/Chapter N/` → `prepare-content.py` copies it to `site/public/images/` and sets the frontmatter automatically.
 2. **Direct placement:** Place optimized `.webp` directly in `site/public/images/` → manually set `heroImage: "XX-YY.webp"` in `site/src/content/recipes/XX-YY.md` (filename only, no path prefix).
 
-### Known Issues
-
-- **07-10.2 recipe not appearing on site:** The `extract_index` regex in `prepare-content.py` (line 111) only matches `XX-YY` with optional lowercase letter suffixes (`[a-z]*`). The `.2` version suffix in `07-10.2` is not supported. This recipe needs a manual site content file or a regex fix to support numeric sub-versions.
-
 ---
 
 ## Image Lifecycle & Cleanup Policy

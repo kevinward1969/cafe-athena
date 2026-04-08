@@ -51,7 +51,7 @@ def clean_dirs():
     # Images dir: remove recipe images only, keep section-*.webp and
     # already-optimized WebP hero images (XX-YY.webp pattern).
     if os.path.exists(IMAGES_DIR):
-        recipe_id_pattern = re.compile(r'^\d{2}-\d{2}[a-z]?\.webp$')
+        recipe_id_pattern = re.compile(r'^\d{2}-\d{2}[a-z]*(?:\.\d+)?\.webp$')
         for fname in os.listdir(IMAGES_DIR):
             if not fname.startswith('section-') and not recipe_id_pattern.match(fname):
                 fpath = os.path.join(IMAGES_DIR, fname)
@@ -108,7 +108,7 @@ def copy_glossary():
 def extract_index(filename):
     """Extract the XX-YY index from a filename."""
     # Handles: "03-01 Café Athena - ..." and "[03-13] Café Athena - ..."
-    match = re.match(r'^\[?(\d{2}-\d{2}[a-z]*)\]?\s', filename)
+    match = re.match(r'^\[?(\d{2}-\d{2}[a-z]*(?:\.\d+)?)\]?\s', filename)
     if match:
         return match.group(1)
     return None
@@ -117,7 +117,7 @@ def extract_index(filename):
 def extract_title(filename, index):
     """Extract display title from the filename."""
     # Remove index prefix and .md extension
-    title = re.sub(r'^\[?\d{2}-\d{2}[a-z]*\]?\s+', '', filename)
+    title = re.sub(r'^\[?\d{2}-\d{2}[a-z]*(?:\.\d+)?\]?\s+', '', filename)
     title = title.replace('.md', '')
     # Remove "Café Athena - " or "Technique Folio - " prefix
     title = re.sub(r'^(Café Athena\s*[-–—]\s*|Technique Folio\s*[-–—]\s*)', '', title)
