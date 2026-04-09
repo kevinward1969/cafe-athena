@@ -190,7 +190,19 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 
 ## 🖼 Banner Image Briefs
 
-Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photography, desaturated/grayscale, cinematic aspect ratio (~5:1). Generated via Gemini Gem 2. Place in `site/public/images/`.
+Full-bleed panoramic banners (~1920×480px WebP). Cinematic aspect ratio (~4:1). Generated via Gemini Gem 2. Place in `site/public/images/`.
+
+### Color Grade System
+
+Each section has a distinct color grade that carries through all its chapter banners — functioning as visual wayfinding.
+
+| Section | Chapters | Grade | Character |
+| :--- | :--- | :--- | :--- |
+| **The Academy** | Ch. 1–2 | **Cool silver-blue** — desaturated with a slight blue-grey cast | Clinical, precise, intellectual |
+| **The Brigade** | Ch. 3–9 | **Warm copper-sepia** — confirmed in Photoshop mockup | Heat, craft, kitchen energy |
+| **The Larder** | Ch. 10–11 | **Deep amber-gold** — richer and darker than Brigade, almost candlelit | Slow-cooked, foundational, pantry depth |
+
+Generate each section as a batch with the same grade instruction to ensure consistency across all images in that section.
 
 ### Section Banners
 
