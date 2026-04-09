@@ -190,7 +190,7 @@ Use `/recipe-hero-image [index]` for each. Chapters with zero coverage are highe
 
 ## 🖼 Banner Image Briefs
 
-Full-bleed panoramic banners (~1920×480px WebP). Cinematic aspect ratio (~4:1). Generated via Gemini Gem 2. Place in `site/public/images/`.
+Full-bleed panoramic banners (~1920×480px WebP). Cinematic aspect ratio (~4:1). Generated in **Adobe Photoshop 2026** using the built-in Gemini/NanoBanana AI integration (Pro account). Color grading applied as Photoshop layers — save each section grade as a preset for consistency across the batch. Place finished files in `site/public/images/`.
 
 ### Color Grade System
 
@@ -206,27 +206,27 @@ Generate each section as a batch with the same grade instruction to ensure consi
 
 ### Section Banners
 
-| File | Subject | Mood |
-| :--- | :--- | :--- |
-| `banner-academy.webp` | Close-up: copper saucepan mid-emulsification, thermometer probe, or whisk pulling a ribbon of sauce — the science of cooking in motion | Precise, analytical, controlled |
-| `banner-brigade.webp` | Wide shot across a kitchen pass or a row of plated dishes in sequence — the rhythm of professional service | Disciplined, energetic, serial |
-| `banner-larder.webp` | Aromatics, stock bones, a bouquet garni, jars of preserved goods — infrastructure before the recipe begins | Quiet, foundational, abundant |
+| File | Subject | Mood | Status |
+| :--- | :--- | :--- | :--- |
+| `banner-academy.webp` | Close-up: copper saucepan mid-emulsification, thermometer probe, or whisk pulling a ribbon of sauce — the science of cooking in motion | Precise, analytical, controlled | Pending |
+| `banner-brigade.webp` | Wide shot across a kitchen pass or a row of plated dishes in sequence — the rhythm of professional service | Disciplined, energetic, serial | ✅ Created |
+| `banner-larder.webp` | Aromatics, stock bones, a bouquet garni, jars of preserved goods — infrastructure before the recipe begins | Quiet, foundational, abundant | Pending |
 
 ### Chapter Banners
 
-| File | Chapter | Subject |
-| :--- | :--- | :--- |
-| `banner-ch01.webp` | Ch. 1 — The Lab | Flames under copper, bubbling reduction, a fluid gel setting — pure technique |
-| `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision |
-| `banner-ch03.webp` | Ch. 3 — Garde Manger | A terrine sliced to reveal layers, or a cold platter of terrines and mousse |
-| `banner-ch04.webp` | Ch. 4 — The Mill | Flour-dusted bench, fresh pasta draped over a rack, bread scoring |
-| `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface |
-| `banner-ch06.webp` | Ch. 6 — The Poulterer | A whole duck or chicken, skin-on, with aromatics — raw and ready |
-| `banner-ch07.webp` | Ch. 7 — The Butcher | Prime beef cross-section showing marbling, or butchery tools on a block |
-| `banner-ch08.webp` | Ch. 8 — The Field | Root vegetables, fresh herbs, earthy tones — unpretentious and whole |
-| `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble |
-| `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze |
-| `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue |
+| File | Chapter | Subject | Status |
+| :--- | :--- | :--- | :--- |
+| `banner-ch01.webp` | Ch. 1 — The Lab | Flames under copper, bubbling reduction, a fluid gel setting — pure technique | Pending |
+| `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision | Pending |
+| `banner-ch03.webp` | Ch. 3 — Garde Manger | A terrine sliced to reveal layers, or a cold platter of terrines and mousse | Pending |
+| `banner-ch04.webp` | Ch. 4 — The Mill | Flour-dusted bench, fresh pasta draped over a rack, bread scoring | Pending |
+| `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface | Pending |
+| `banner-ch06.webp` | Ch. 6 — The Poulterer | A whole duck or chicken, skin-on, with aromatics — raw and ready | Pending |
+| `banner-ch07.webp` | Ch. 7 — The Butcher | Prime beef cross-section showing marbling, or butchery tools on a block | Pending |
+| `banner-ch08.webp` | Ch. 8 — The Field | Root vegetables, fresh herbs, earthy tones — unpretentious and whole | Pending |
+| `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble | Pending |
+| `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze | Pending |
+| `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue | Pending |
 
 ### Layout
 
