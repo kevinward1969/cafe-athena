@@ -53,7 +53,7 @@ def clean_dirs():
     if os.path.exists(IMAGES_DIR):
         recipe_id_pattern = re.compile(r'^\d{2}-\d{2}[a-z]*(?:_\d+)?\.webp$')
         for fname in os.listdir(IMAGES_DIR):
-            if not fname.startswith('section-') and not recipe_id_pattern.match(fname):
+            if not fname.startswith('section-') and not fname.startswith('banner-') and not recipe_id_pattern.match(fname):
                 fpath = os.path.join(IMAGES_DIR, fname)
                 if os.path.isfile(fpath):
                     os.remove(fpath)
