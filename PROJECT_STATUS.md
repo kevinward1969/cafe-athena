@@ -216,11 +216,27 @@ Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photogra
 | `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze |
 | `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue |
 
+### Layout
+
+Banner sits **between the page hero text and the chapter card grid** — not above the title. Acts as an atmospheric divider with real visual weight.
+
+```
+[ Navbar ]
+[ Part II · The Brigade · subtitle ]   ← existing hero
+[ ────── BANNER IMAGE ─────────────]   ← full-bleed, ~400–500px tall
+[ Chapter card grid ]                  ← existing grid
+```
+
+Color grading: warm sepia/copper tone. Apply a subtle dark vignette on top and bottom edges so it transitions cleanly into the cream page background.
+
 ### Implementation Notes
 
-- Add optional `bannerImage` prop to `SectionLayout.astro` — renders a full-bleed `<img>` below the navbar with a bottom gradient overlay
-- Section pages (academy/brigade/larder) pass their banner; chapter sections can optionally pass chapter banners
+- Add optional `bannerImage` prop to `SectionLayout.astro`
+- Banner renders after the hero `<section>` and before the chapter card grid `<div>`
+- Use `object-fit: cover`, no height constraint on mobile (let it breathe), cap at ~480px on desktop
+- No gradient needed on top edge — page background flows naturally; subtle gradient on bottom edge only
 - The `clean_dirs` pattern in `prepare-content.py` already preserves `section-*.webp` — extend to also preserve `banner-*.webp`
+- Chapter banners: same placement within each chapter's listing section (between chapter heading and recipe list)
 
 ---
 
