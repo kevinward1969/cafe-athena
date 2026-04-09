@@ -2,7 +2,7 @@
 
 The velvety bridge between stock and sauce, thickened with a blond roux.
 
-Yield: 1 liter (1 qt) | Prep: 10 min | Cook: 45 min | Total: ~55 min
+**Yield:** 1 liter (1 qt) | **Prep:** 10 min | **Cook:** 45 min | **Total:** ~55 min
 
 ---
 
@@ -16,7 +16,6 @@ Velouté (literally "velvety") is the most versatile of the Mother Sauces. While
 
 ## Mise en Place (Action Checklist)
 
-- **Heat the stock:** Bring the chicken stock to a bare simmer in a separate saucepan.
 - **Prepare the aromatics:** Have a tasting spoon and skimming ladle ready.
 - **Fabricate a cartouche:** Cut a round of parchment paper the size of your saucepan with a small vent hole in the center.
 - **Temper ingredients:** Cut butter into uniform cubes for even melting.
@@ -56,7 +55,7 @@ In a heavy-bottomed saucepan (saucier) over medium heat, melt the butter until f
 
 **Phase 2: The Incorporation.**
 
-While whisking the roux constantly, pour in the hot stock in three stages.
+While the roux finishes cooking, bring the chicken stock to a bare simmer in a separate saucepan. While whisking the roux constantly, pour in the hot stock in three stages.
 
 - **Stage 1:** Add one ladle. The mixture will seize and thicken instantly. Whisk until smooth.
 - **Stage 2:** Add half the remaining stock. Whisk vigorously to loosen the base.
@@ -96,7 +95,7 @@ Remove the herbs. Pass the sauce through a Chinois (fine-mesh strainer) into a c
 
 ## Keywords
 
-Velouté, Roux, Stock, Chicken, Butter, Flour, Savory, Classical, Emulsification, Reduction, Simmer, Skimming, Technique, Pastry
+velouté, roux, stock, chicken, butter, flour, savory, classical, emulsification, reduction, simmer, skimming, technique, pastry
 
 ## Category
 

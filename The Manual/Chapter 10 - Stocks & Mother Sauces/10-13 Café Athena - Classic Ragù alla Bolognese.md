@@ -2,7 +2,7 @@
 
 A complex, slow-simmered meat emulsion defined by the interplay of milk, wine, and time.
 
-Yield: 1.5 kg (8 servings) | Prep: 45 min | Cook: 3.5–4.5 hr
+**Yield:** 1.5 kg (8 servings) | **Prep:** 45 min | **Cook:** 3.5–4.5 hr | **Total:** ~5 hr
 
 ---
 
@@ -16,7 +16,6 @@ True Bolognese is not a tomato sauce with meat; it is a meat sauce supported by 
 
 - **Prepare the Soffritto:** Finely dice the onion, carrot, and celery into a precise 2mm brunoise.
 - **Temper the Proteins:** Remove ground meats from the fridge 20 minutes before cooking.
-- **Warm the Liquids:** Gently warm the milk and stock in separate small saucepans (cold liquids seize the fat).
 - **Oven Setup:** (Optional) Preheat oven to 300°F/150°C if choosing the oven-braise method.
 
 ---
@@ -76,7 +75,7 @@ Add the dry white wine. Simmer briskly until the wine has evaporated completely 
 
 **Phase 3: The Lactose Emulsion.**
 
-Reduce heat to medium-low. Pour in the warm milk and grate a pinch of nutmeg over the meat. Simmer gently, stirring occasionally, until the milk has evaporated and been absorbed by the meat.
+Reduce heat to medium-low. In a small saucepan over low heat, gently warm the milk until steaming (cold liquids seize the fat). Pour in the warm milk and grate a pinch of nutmeg over the meat. Simmer gently, stirring occasionally, until the milk has evaporated and been absorbed by the meat.
 
 > Why: The milk proteins coat the meat fibers, protecting them from the acidity of the tomatoes and ensuring the final sauce is creamy, not oily.
 
@@ -103,7 +102,7 @@ When the fat has separated from the sauce and floats on top in orange droplets, 
 
 ## Keywords
 
-Slow Simmer, Meat Emulsion, Ragù, Pancetta, Milk, Wine, Tomato Paste, Stock, Browning, Soffritto
+slow simmer, meat emulsion, ragù, pancetta, milk, wine, tomato paste, stock, browning, soffritto
 
 ## Category
 

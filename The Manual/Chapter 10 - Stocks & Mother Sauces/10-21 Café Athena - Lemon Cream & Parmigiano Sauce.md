@@ -1,4 +1,4 @@
-# **Café Athena - Lemon Cream & Parmigiano Sauce**
+# Café Athena - Lemon Cream & Parmigiano Sauce
 
 Bright, silky, and deeply savory — a quick pan sauce built on acid-thickened cream and finished with an off-heat emulsion of butter and aged cheese.
 
@@ -35,25 +35,23 @@ This sauce achieves its body through two mechanisms working together: heat-drive
 
 ## Method
 
-1. **Reduce the Cream:** Pour the cream into a small saucepan over medium heat. Bring to a gentle simmer, stirring frequently to prevent scorching. The cream should show small, steady bubbles at the edges — not a rolling boil.
+**Phase 1: Reduce the Cream.** Pour the cream into a small saucepan over medium heat. Bring to a gentle simmer, stirring frequently to prevent scorching. The cream should show small, steady bubbles at the edges — not a rolling boil.
 
    **Sensory Cue:** The cream will begin to look slightly more viscous and coat the spoon lightly, about 2–3 minutes.
 
-2. **Add Acid and Salt:** Add the lemon juice and salt. Stir to incorporate. The sauce will tighten visibly as the acid makes contact with the hot cream.
+**Phase 2: Add Acid and Salt.** Add the lemon juice and salt. Stir to incorporate. The sauce will tighten visibly as the acid makes contact with the hot cream.
 
    **Why:** The acid partially denatures the cream proteins, accelerating the thickening process without any starch.
 
-3. **Continue to Thicken:** Maintain the heat for an additional 1–2 minutes, stirring frequently, until the sauce coats the back of a spoon and a finger drawn through it leaves a clean line (*nappé*).
+**Phase 3: Continue to Thicken.** Maintain the heat for an additional 1–2 minutes, stirring frequently, until the sauce coats the back of a spoon and a finger drawn through it leaves a clean line (*nappé*).
 
    **Sensory Cue:** The sauce should feel slightly resistant when stirred — noticeably thicker than when the cream first went in.
 
-4. **Emulsify Off Heat:** Remove the pan from heat entirely. Add the butter and Parmigiano. Stir continuously in a tight circular motion until both are fully incorporated and the sauce is glossy and smooth.
+**Phase 4: Emulsify Off Heat.** Remove the pan from heat entirely. Add the butter and Parmigiano. Stir continuously in a tight circular motion until both are fully incorporated and the sauce is glossy and smooth.
 
    **Why:** Adding fat off heat prevents the emulsion from breaking. If the pan is too hot when the cheese goes in, the proteins seize and the sauce turns grainy.
 
-5. **Taste and Adjust:** Taste the sauce and adjust salt if needed. The Parmigiano contributes significant salinity — adjust cautiously.
-
-6. **Finish and Serve:** Add your chosen finish — stir chives and lemon zest directly into the sauce; scatter Pangrattato over the finished dish at plating, not into the sauce.
+**Phase 5: Season and Serve.** Taste the sauce and adjust salt if needed. The Parmigiano contributes significant salinity — adjust cautiously. Add your chosen finish — stir chives and lemon zest directly into the sauce; scatter Pangrattato over the finished dish at plating, not into the sauce.
 
 ## Chef's Notes / Variations
 
@@ -73,7 +71,7 @@ This sauce achieves its body through two mechanisms working together: heat-drive
 
 ## Keywords
 
-Cream, Lemon, Parmigiano-Reggiano, Emulsification, Reduction, Butter, Sauce, Acid, Cheese, Chives
+cream, lemon, Parmigiano-Reggiano, emulsification, reduction, butter, sauce, acid, cheese, chives
 
 ## Category
 

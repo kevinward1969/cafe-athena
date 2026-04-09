@@ -2,7 +2,7 @@
 
 Essential finishing fats capable of elevating grilled proteins through precise flavor encapsulation.
 
-Yield: 250 g (1 Log) | Prep: 15 min | Inactive: 2 hr
+**Yield:** 250 g (1 Log) | **Prep:** 15 min | **Inactive:** 2 hr | **Total:** ~2 hr 15 min
 
 ---
 
@@ -92,7 +92,7 @@ Refrigerate the log for at least **2 hours**.
 
 ## Keywords
 
-Butter, Emulsion, Fat Plasticity, Herb, Miso, Chili, Citrus, Salt, Pastry, Technique
+butter, emulsion, fat plasticity, herb, miso, chili, citrus, salt, pastry, technique
 
 ## Category
 

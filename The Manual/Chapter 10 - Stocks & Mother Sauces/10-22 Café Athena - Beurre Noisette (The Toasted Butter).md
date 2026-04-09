@@ -1,4 +1,4 @@
-# **Café Athena – Beurre Noisette (The Toasted Butter)**
+# Café Athena - Beurre Noisette (The Toasted Butter)
 
 Butter cooked past melting into a fragrant, amber liquid of toasted milk solids — the most transformative single-ingredient technique in the French kitchen.
 
@@ -49,9 +49,7 @@ Beurre noisette begins as whole butter and ends as something categorically diffe
 
 4. **Strain or Keep Solids:** For most applications, keep the solids — they carry the flavor. For elegant plated applications or clear compound butters, strain through a fine-mesh sieve.
 
----
-
-### Phase 2A: Fresh / Liquid Applications
+**Phase 2A: Fresh / Liquid Applications.**
 
 Use the butter warm, immediately after making, or gently rewarmed over low heat.
 
@@ -65,7 +63,7 @@ Use the butter warm, immediately after making, or gently rewarmed over low heat.
 
 ---
 
-### Phase 2B: Chilled / Solidified Applications
+**Phase 2B: Chilled / Solidified Applications.**
 
 Allow finished butter to cool to room temperature, then refrigerate until fully opaque and firm. Use as you would compound butter.
 
@@ -106,7 +104,7 @@ Allow finished butter to cool to room temperature, then refrigerate until fully 
 
 ## Keywords
 
-Butter, Toasted Butter, Maillard Reaction, French Cuisine, Flavor Development, Caramelization, Fat, Milk Solids, Aromatics, Culinary Technique
+butter, toasted butter, Maillard reaction, French cuisine, flavor development, caramelization, fat, milk solids, aromatics, culinary technique
 
 ## Category
 

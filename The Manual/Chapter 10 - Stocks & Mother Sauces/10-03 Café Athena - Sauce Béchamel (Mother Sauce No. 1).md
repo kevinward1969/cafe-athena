@@ -85,7 +85,7 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 
 ## Keywords
 
-Béchamel, Milk, Roux, Butter, Flour, Emulsion, French, Sauce, Thickening, Aromatics
+béchamel, milk, roux, butter, flour, emulsion, French, sauce, thickening, aromatics
 
 ## Category
 

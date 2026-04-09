@@ -2,7 +2,7 @@
 
 The "Living Cream"—a rich, cultured staple essential for stabilizing hot sauces and finishing soups.
 
-Yield: ~480 g (2 cups) | Prep: 5 min | Inactive: 12–36 hr
+**Yield:** ~480 g (2 cups) | **Prep:** 5 min | **Cook:** 0 min | **Inactive:** 12–36 hr | **Total:** ~12 hr
 
 ---
 
@@ -80,7 +80,7 @@ Once set, remove the cheesecloth and seal with a solid airtight lid. Move the ja
 
 ## Keywords
 
-Fermentation, Crème Fraîche, Dairy, Buttermilk, Emulsion, Pasteurization, Microbial, Texture, Sauce, Cultured
+fermentation, crème fraîche, dairy, buttermilk, emulsion, pasteurization, microbial, texture, sauce, cultured
 
 ## Category
 

@@ -2,7 +2,7 @@
 
 An essential French "butter sauce" characterized by a velvety texture, bright acidity, and rich, savory depth.
 
-Yield: 1 cup (4–6 servings) | Prep: 15 min | Cook: 15 min
+**Yield:** 1 cup (4–6 servings) | **Prep:** 15 min | **Cook:** 15 min | **Total:** 30 min
 
 ---
 
@@ -85,7 +85,7 @@ This is the ultimate test of temperature control. Unlike a flour-thickened gravy
 
 ## Keywords
 
-Beurre Blanc, Emulsification, Butter Sauce, French Cuisine, Reduction, Acidic, Dairy, Classical, Technique, Pastry
+beurre blanc, emulsification, butter sauce, French cuisine, reduction, acidic, dairy, classical, technique, pastry
 
 ## Category
 

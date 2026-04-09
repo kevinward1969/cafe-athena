@@ -1,4 +1,4 @@
-# **Café Athena – The Asian Dipping Sauce Collection**
+# Café Athena - The Asian Dipping Sauce Collection
 
 Five foundational dipping sauces spanning the flavor spectrum of East and Southeast Asian cuisine — from bright and funky to deep and fermented.
 
@@ -148,7 +148,7 @@ A great dipping sauce is not an afterthought — it is a study in balance. Every
 
 ## Keywords
 
-Dips, Sauce, Asian, Rice Vinegar, Chili, Fish Sauce, Fermented, Umami, Sweet, Citrus, Emulsification, Technique, Flavor Balance, East Asian
+dips, sauce, Asian, rice vinegar, chili, fish sauce, fermented, umami, sweet, citrus, emulsification, technique, flavor balance, East Asian
 
 ## Category
 

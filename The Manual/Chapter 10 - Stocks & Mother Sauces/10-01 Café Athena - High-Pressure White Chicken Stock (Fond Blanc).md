@@ -65,7 +65,7 @@ Drain the water. Rinse the bones thoroughly under cold running water to wash awa
 
 ## Keywords
 
-Pressure Cooking, Chicken Stock, Fond Blanc, Gelatin, Clarified Stock, Mirepoix, French Cuisine, Technique, Umami, Poultry, Extraction, Aromatics, Cleaver
+pressure cooking, chicken stock, fond blanc, gelatin, clarified stock, mirepoix, French cuisine, technique, umami, poultry, extraction, aromatics, cleaver
 
 ## Category
 

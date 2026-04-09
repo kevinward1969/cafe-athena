@@ -1,4 +1,4 @@
-# **Café Athena - Crispy Rice Platform (The Frozen-Fry Method)**
+# Café Athena - Crispy Rice Platform (The Frozen-Fry Method)
 
 A shatteringly crisp, golden shell with a warm, creamy sushi rice center.
 
@@ -32,20 +32,20 @@ The frozen-fry method is the key technique here. By pressing, chilling, and free
 
 ## Method
 
-**Phase 1 — Cook the Rice**
+**Phase 1: Cook the Rice.**
 Drain the soaked rice, reserving all soaking water. Combine rice and soaking water in a heavy-bottomed pot at a 1:1.1 ratio by volume — the soaking water is already partially starch-loaded and carries additional flavor. Bring to a boil over medium-high heat, then immediately reduce to the lowest possible simmer. Cover tightly and cook 12–15 minutes until all water is fully absorbed. *Sensory cue:* The sound will shift from a rolling simmer to a quiet hiss — that's your signal it's nearly done. Remove from heat and let steam, covered, for 5 minutes.
 
-**Phase 2 — Season and Press**
+**Phase 2: Season and Press.**
 Transfer the hot rice to a wide bowl. While still steaming, fold in the rice vinegar using a cutting motion with a rice paddle or spatula — do not stir aggressively or you will break the grains. Season with Diamond Crystal kosher salt. Taste: the rice should read subtly tangy and savory, not sweet. Pack firmly into the prepared molds or lined sheet pan, pressing to a uniform ½ inch depth. Apply your pressing weight and press firmly. Allow to cool completely to room temperature, then transfer to the freezer.
 
 *Sheet Pan Note:* Pull from the freezer once firm but not hard (approximately 1–2 hr). Cut into 1.5 × 1 inch rectangles using a sharp, wet knife. Return the cut pieces to the freezer and freeze completely solid — minimum 6 hr, overnight preferred.
 
-**Phase 3 — Fry**
+**Phase 3: Fry.**
 Heat clarified butter and duck fat in a covered saucier or straight-sided sauté pan over high heat until the fat is shimmering and just beginning to smoke. This compensates for the temperature drop when frozen rice enters the pan. Working in batches — do not crowd — place the frozen rice pieces flat-side down. Cover immediately to trap steam and minimize oil spatter. Fry 2–3 minutes per side.
 
 *Sensory cue:* The pieces will hiss aggressively for the first 60 seconds, then quiet as the surface dries. When the sizzle shifts from wet and reactive to dry and steady, check the crust color. Light gold = creamy center preserved. Deep gold = crunchier throughout. Both are valid — match to application.
 
-**Phase 4 — Rest and Serve**
+**Phase 4: Rest and Serve.**
 Transfer immediately to a wire rack. Do not rest on paper towels — trapped steam softens the crust. Use within 15–20 minutes for maximum contrast between shell and center.
 
 ## Chef's Notes
@@ -62,7 +62,9 @@ Transfer immediately to a wire rack. Do not rest on paper towels — trapped ste
 - **Thermal Gradient:** The difference in temperature between the exterior and interior of a food during cooking. A large gradient (frozen interior, very hot fat) allows the surface to set before heat penetrates — the principle behind this technique.
 
 ## Keywords
+
 crispy rice, sushi rice, platform, canapé base, frozen-fry method, clarified butter, duck fat, short-grain rice, mise en place, building block, texture contrast, garde manger, frying technique, thermal gradient
 
 ## Category
+
 cuisine: Japanese | style: Modern

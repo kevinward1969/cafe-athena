@@ -1,5 +1,12 @@
 # Café Athena — Claude Code Instructions
 
+## Working Style
+
+- Default to action. Explain only when the task is complex or you need clarification.
+- Use the minimum tokens necessary to complete the task.
+
+---
+
 ## What This Project Is
 
 A culinary cookbook project with a published Astro site at `cookbook.kevinward.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.

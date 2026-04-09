@@ -2,7 +2,7 @@
 
 Structured emulsion of San Marzano tomatoes, sweet garlic, and basil.
 
-Yield: 1 Liter (~1 Quart) | Prep: 15 min | Cook: 45 min | Total: ~1 hr
+**Yield:** 1 Liter (~1 Quart) | **Prep:** 15 min | **Cook:** 45 min | **Total:** ~1 hr
 
 ---
 
@@ -89,7 +89,7 @@ Tear the fresh basil leaves by hand and stir them in. Let them steep in the hot 
 
 ## Keywords
 
-Tomato, Emulsion, Garlic, Basil, Parmesan, Italian, Technique, Nappe, Umami, Red Pepper Flakes
+tomato, emulsion, garlic, basil, parmesan, Italian, technique, nappe, umami, red pepper flakes
 
 ## Category
 

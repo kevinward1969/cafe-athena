@@ -2,7 +2,7 @@
 
 A velvety, deeply aromatic red wine butter emulsion with notes of earth and dark fruit.
 
-Yield: ~240 ml (1 cup) | Prep: 15 min | Cook: 25 min | Total: ~40 min
+**Yield:** ~240 ml (1 cup) | **Prep:** 15 min | **Cook:** 25 min | **Total:** ~40 min
 
 ---
 
@@ -92,7 +92,7 @@ Once all butter is incorporated, the sauce should be opaque, glossy, and thick e
 
 ## Keywords
 
-Red Wine, Emulsion, Butter, Mushroom, Reduction, Aromatics, Classical, Technique, Fine Dining, Earthy
+red wine, emulsion, butter, mushroom, reduction, aromatics, classical, technique, fine dining, earthy
 
 ## Category
 

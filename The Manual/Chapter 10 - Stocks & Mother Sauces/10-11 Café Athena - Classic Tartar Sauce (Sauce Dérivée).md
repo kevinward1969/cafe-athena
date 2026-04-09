@@ -2,7 +2,7 @@
 
 A texturally rich, acid-forward emulsion designed to cut through fried seafood.
 
-Yield: 400 g (~1.5 cups) | Prep: 15 min | Cook: 0 min
+**Yield:** 400 g (~1.5 cups) | **Prep:** 15 min | **Cook:** 0 min | **Total:** 15 min
 
 ---
 
@@ -88,7 +88,7 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 ## Keywords
 
-Emulsion, Mayonnaise, Cornichons, Lemon Juice, Dill, Chives, Brine, Seafood, Tartar, Texture
+emulsion, mayonnaise, cornichons, lemon juice, dill, chives, brine, seafood, tartar, texture
 
 ## Category
 

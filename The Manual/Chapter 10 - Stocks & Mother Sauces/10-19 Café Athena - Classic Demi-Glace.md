@@ -2,7 +2,7 @@
 
 A rich, gelatinous reduction of Sauce Espagnole and Brown Stock.
 
-Yield: ~500 ml (2 cups) | Prep: 5 min | Cook: 1–2 hr | Total: ~2 hr
+**Yield:** ~500 ml (2 cups) | **Prep:** 5 min | **Cook:** 1–2 hr | **Total:** ~2 hr
 
 ---
 
@@ -73,7 +73,7 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 
 ## Keywords
 
-Reduction, Sauce Espagnole, Brown Stock, Gelatin, Classical, Gastronomy, Flavor Concentration, Simmer, Skimming, Mother Sauce
+reduction, sauce espagnole, brown stock, gelatin, classical, gastronomy, flavor concentration, simmer, skimming, mother sauce
 
 ## Category
 

@@ -2,7 +2,7 @@
 
 Deeply caramelized, gelatin-rich veal stock extracted under high pressure.
 
-Yield: ~2.5 Liters | Prep: 45 min | Cook: 2 hr (Pressure) | Total: ~4 hr
+**Yield:** ~2.5 Liters | **Prep:** 45 min | **Cook:** 2 hr (Pressure) | **Total:** ~4 hr
 
 ---
 
@@ -101,7 +101,7 @@ While traditional brown stock requires 8–12 hours of simmering to extract gela
 
 ## Keywords
 
-Pressure Cooking, Brown Stock, Veal Bones, Mirepoix, Tomato Paste, Pincage, Gelatin, Red Wine, Maillard Reaction, Caramelization
+pressure cooking, brown stock, veal bones, mirepoix, tomato paste, pincage, gelatin, red wine, Maillard reaction, caramelization
 
 ## Category
 

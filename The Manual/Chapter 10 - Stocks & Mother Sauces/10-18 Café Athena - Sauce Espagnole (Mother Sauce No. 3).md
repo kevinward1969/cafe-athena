@@ -2,7 +2,7 @@
 
 A rich, deeply caramelized brown sauce that serves as the foundation for demi-glace and hearty meat reductions.
 
-Yield: 750 ml (3 cups) | Prep: 30 min | Cook: 45–60 min | Total: ~1.5 hr
+**Yield:** 750 ml (3 cups) | **Prep:** 30 min | **Cook:** 45–60 min | **Total:** ~1.5 hr
 
 ---
 
@@ -89,7 +89,7 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 ## Keywords
 
-Roux, Brown Sauce, Caramelization, Stock, Mirepoix, Reduction, Flavor Development, Classical Cuisine, Meat Reduction, Pastry
+roux, brown sauce, caramelization, stock, mirepoix, reduction, flavor development, classical cuisine, meat reduction, pastry
 
 ## Category
 

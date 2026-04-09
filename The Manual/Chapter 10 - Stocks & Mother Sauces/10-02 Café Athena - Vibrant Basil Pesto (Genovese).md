@@ -17,8 +17,6 @@ The greatest enemy of fresh pesto is oxidation. When basil leaves are crushed, t
 ## Mise en Place (Action Checklist)
 
 - **Prepare the ice bath:** Fill a large bowl with 50% ice and 50% cold water.
-- **Boil the water:** Bring a medium pot of salted water to a rolling boil.
-- **Toast the nuts:** Toast pine nuts in a dry pan until golden and fragrant; cool completely.
 - **Grate the cheese:** Microplane the Parmesan into a fluffy pile (do not buy pre-grated).
 - **Chill the oil:** Place the olive oil in the refrigerator for 20 minutes prior to blending (friction creates heat; cold oil preserves the emulsion).
 
@@ -54,7 +52,7 @@ Immediately transfer the basil to the ice bath. Once cold, remove the leaves and
 
 > **Sensory Cue:** The basil should be squeezed into a tight, dry ball. Excess water will make the pesto runny and dilute the flavor.
 
-**Phase 2: The Paste** In a food processor or high-speed blender, combine the blanched basil, garlic, toasted pine nuts, and salt. Pulse 5–8 times until the mixture resembles a coarse, wet sand.
+**Phase 2: The Paste** In a dry skillet over medium heat, toast the pine nuts until golden and fragrant, about 2–3 minutes. Transfer to a plate and cool completely. In a food processor or high-speed blender, combine the blanched basil, garlic, toasted pine nuts, and salt. Pulse 5–8 times until the mixture resembles a coarse, wet sand.
 
 > **Why:** We break down the fibrous ingredients first to ensure a smooth final texture before adding the oil.
 
@@ -84,7 +82,7 @@ Immediately transfer the basil to the ice bath. Once cold, remove the leaves and
 
 ## Keywords
 
-Basil, Pesto, Emulsification, Blanch, Italian, Olive Oil, Cheese, Nuts, Herb, Green
+basil, pesto, emulsification, blanch, Italian, olive oil, cheese, nuts, herb, green
 
 ## Category
 

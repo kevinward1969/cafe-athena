@@ -2,7 +2,7 @@
 
 A rich, creamy emulsion of toasted walnuts and aromatics, stabilized with a garlic-infused panade for a luxurious, velvet-like texture.
 
-Yield: 4 servings | Prep: 15 min | Cook: 15 min | Total: 30 min
+**Yield:** 4 servings | **Prep:** 15 min | **Cook:** 15 min | **Total:** 30 min
 
 ---
 
@@ -80,7 +80,7 @@ Traditional Ligurian walnut sauce often suffers from two flaws: the bitter astri
 
 ## Keywords
 
-Walnut, Pesto, Emulsion, Italian, Liguria, Panade, Starch, Dairy, Olive Oil, Toasted
+walnut, pesto, emulsion, Italian, Liguria, panade, starch, dairy, olive oil, toasted
 
 ## Category
 

@@ -2,7 +2,7 @@
 
 Classic stable emulsion using yolk lecithin and mechanical shearing.
 
-Yield: 350 g (~1.5 cups) | Prep: 10 min | Cook: 0 min | Total: 10 min
+**Yield:** 350 g (~1.5 cups) | **Prep:** 10 min | **Cook:** 0 min | **Total:** 10 min
 
 ---
 
@@ -71,7 +71,7 @@ If the mayonnaise is too stiff (jelly-like), whisk in the **warm water** one tea
 
 ## Keywords
 
-Emulsification, Mayonnaise, Egg Yolk, Olive Oil, Mustard, Vinegar, Kosher Salt, Neutral Oil, Technique, Cold Kitchen
+emulsification, mayonnaise, egg yolk, olive oil, mustard, vinegar, kosher salt, neutral oil, technique, cold kitchen
 
 ## Category
 

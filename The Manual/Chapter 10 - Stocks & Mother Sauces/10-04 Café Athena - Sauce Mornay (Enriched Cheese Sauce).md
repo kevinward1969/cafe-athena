@@ -2,7 +2,7 @@
 
 A luxurious evolution of Béchamel, enriched with nutty Gruyère, Parmesan, and a silk-finish egg liaison.
 
-Yield: ~1.2 Liters (5 cups) | Prep: 15 min | Cook: 25 min | Total: ~40 min
+**Yield:** ~1.2 Liters (5 cups) | **Prep:** 15 min | **Cook:** 25 min | **Total:** ~40 min
 
 ---
 
@@ -27,15 +27,15 @@ If Béchamel is the canvas, Mornay is the painting. By introducing aged cheeses 
 
 - 1000 g (1 liter) Whole Milk (infused with Onion, Clove, Bay Leaf as per *Classic Béchamel*)
 - 50 g (3.5 tbsp) Unsalted Butter
-- 50 g (1/3 cup + 1 tbsp) All-Purpose Flour
+- 50 g (⅓ cup + 1 tbsp) All-Purpose Flour
 - 4 g (1 tsp) Diamond Crystal Kosher Salt
-- 0.5 g (1/8 tsp) Freshly Grated Nutmeg
-- 0.5 g (1/8 tsp) Cayenne Pepper (Optional, for brightness)
+- 0.5 g (⅛ tsp) Freshly Grated Nutmeg
+- 0.5 g (⅛ tsp) Cayenne Pepper (Optional, for brightness)
 
 ### The Liaison
 
 - 2 Large Egg Yolks
-- 60 g (1/4 cup) Heavy Cream
+- 60 g (¼ cup) Heavy Cream
 
 ### The Cheese Block
 
@@ -88,7 +88,7 @@ Remove the pot from the heat completely. Add the **Gruyère** and **Parmigiano R
 
 ## Keywords
 
-Béchamel, Cheese Sauce, Gruyère, Parmesan, Emulsification, Dairy, French, Sauce, Enrichment, Thermal Shock
+béchamel, cheese sauce, gruyère, parmesan, emulsification, dairy, French, sauce, enrichment, thermal shock
 
 ## Category
 

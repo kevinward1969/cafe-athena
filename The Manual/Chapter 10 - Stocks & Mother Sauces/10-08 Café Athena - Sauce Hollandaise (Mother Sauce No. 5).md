@@ -87,7 +87,7 @@ Taste and adjust acid or salt if necessary. Serve immediately.
 
 ## Keywords
 
-Emulsification, Hollandaise, Egg Yolks, Butter, Lemon Juice, High Shear Force, Bain-Marie, Sauce, Culinary Technique, Pastry
+emulsification, hollandaise, egg yolks, butter, lemon juice, high shear force, bain-marie, sauce, culinary technique, pastry
 
 ## Category
 

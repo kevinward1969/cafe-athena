@@ -2,7 +2,7 @@
 
 A savory, textured emulsion enriched with capers, herbs, and anchovy.
 
-Yield: 300 g (~1.25 cups) | Prep: 15 min | Cook: 0 min | Total: 15 min
+**Yield:** 300 g (~1.25 cups) | **Prep:** 15 min | **Cook:** 0 min | **Total:** 15 min
 
 ---
 
@@ -75,7 +75,7 @@ Cover and refrigerate for at least **30 minutes** before serving.
 
 ## Keywords
 
-Emulsification, Mayonnaise, Anchovy, Cornichon, Herb, French, Caper, Texture, Sauce, Flavor, Classical
+emulsification, mayonnaise, anchovy, cornichon, herb, French, caper, texture, sauce, flavor, classical
 
 ## Category
 
