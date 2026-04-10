@@ -2,7 +2,7 @@
 
 A high-viscosity suspension glaze designed to bond spicy, fat-soluble flavor compounds to a fried crust without compromising crunch.
 
-Yield: ~300 ml (Enough for 8 portions) | Prep: 5 min | Cook: 1 min (The Bloom)
+Yield: ~300 ml (Enough for 8 portions) | Prep: 5 min | Cook: 1 min (The Bloom) | Total: ~6 min
 
 ---
 
@@ -26,16 +26,16 @@ Authentic Nashville Hot Chicken does not rely on a dry rub, which sits on the su
 
 ### The Dry Matrix
 
-- 45 g (6 tbsp) Cayenne Pepper (Powdered)
-- 25 g (2 tbsp packed) Dark Brown Sugar
-- 12 g (2 tbsp) Smoked Paprika
-- 8 g (1 tbsp) Garlic Powder
+- 45 g (6 tbsp) cayenne pepper (powdered)
+- 25 g (2 tbsp packed) dark brown sugar
+- 12 g (2 tbsp) smoked paprika
+- 8 g (1 tbsp) garlic powder
 - 8 g (2 ½ tsp) Diamond Crystal Kosher Salt
-- 4 g (1 tsp) MSG (Monosodium Glutamate)
+- 4 g (1 tsp) MSG (monosodium glutamate)
 
 ### The Solvent
 
-- 240 ml (1 cup) Frying Oil, hot (taken directly from the fryer at 175°C / 350°F)
+- 240 ml (1 cup) frying oil, hot (taken directly from the fryer at 350°F/175°C)
 
 ---
 
@@ -49,7 +49,7 @@ In your heat-proof steel bowl, combine the **Cayenne Pepper**, **Brown Sugar**, 
 
 **Phase 2: The Bloom (Thermodynamic Extraction).**
 
-Carefully ladle the **Hot Frying Oil (175°C / 350°F)** directly into the bowl of spices.
+Carefully ladle the **Hot Frying Oil (350°F/175°C)** directly into the bowl of spices.
 
 > Sensory Cue: The mixture will boil aggressively and foam (release of steam from the garlic/sugar). This is normal.
 
@@ -57,7 +57,7 @@ Whisk furiously for 30 seconds until the bubbling subsides and the sugar has ful
 
 **Phase 3: The Application.**
 
-While the paste is still hot (above 60°C / 140°F), brush it generously over the freshly fried chicken.
+While the paste is still hot (above 140°F/60°C), brush it generously over the freshly fried chicken.
 
 > Why: As the oil cools, the viscosity increases. Applying it hot ensures a thin, even coating that penetrates the crevices of the crust.
 
@@ -79,7 +79,7 @@ While the paste is still hot (above 60°C / 140°F), brush it generously over th
 
 ## Keywords
 
-Cayenne Pepper, Brown Sugar, Smoked Paprika, Spice Blend, Frying Oil, Heat Extraction, Capsaicin, Lipophilic, Glaze, Pastry
+cayenne pepper, brown sugar, smoked paprika, spice blend, frying oil, heat extraction, capsaicin, lipophilic, glaze, Nashville hot chicken
 
 ## Category
 

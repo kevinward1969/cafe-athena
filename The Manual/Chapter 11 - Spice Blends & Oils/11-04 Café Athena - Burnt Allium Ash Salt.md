@@ -14,7 +14,7 @@ This recipe is a study in controlled carbonization. By pushing fibrous alliums p
 
 ## Mise en Place (Action Checklist)
 
-- **Preheat Oven:** Set to 425°F (220°C) with the convection fan on (if available).
+- **Preheat Oven:** Set to 425°F/220°C with the convection fan on (if available).
 - **Ventilation:** Turn your hood fan to **HIGH**. This process creates significant smoke.
 - **Prepare Trays:** Line two baking sheets with parchment paper (essential for cleanup).
 - **Wash and Dry:** Ensure the leek tops are washed thoroughly and dried completely.
@@ -25,7 +25,7 @@ This recipe is a study in controlled carbonization. By pushing fibrous alliums p
 
 ### The Biomass
 
-- 200 g (2 large bundles) Leek Tops (Dark green parts only) OR Scallion Greens
+- 200 g (2 large bundles) leek tops (dark green parts only) or scallion greens
 - *Note: Any water left on the greens will steam the vegetable instead of burning it, resulting in a gummy texture.*
 
 ### The Base
@@ -71,7 +71,7 @@ Pulse the mixture together briefly to coat the white crystals in the black dust.
 
 ## Keywords
 
-Carbonization, Leek, Ash, Salt, Smoke, Bitter, Roasting, Spice Grinder, Culinary Charcoal, Texture
+carbonization, leek, ash, salt, smoke, bitter, roasting, spice grinder, culinary charcoal, texture
 
 ## Category
 
