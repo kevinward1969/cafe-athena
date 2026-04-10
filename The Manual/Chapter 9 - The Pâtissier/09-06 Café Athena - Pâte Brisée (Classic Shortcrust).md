@@ -74,7 +74,7 @@ Gather the smeared dough pieces back together. They should now bond into a cohes
 
 ## Keywords
 
-Shortcrust, Pastry, Butter, Flour, Fat, Gluten Inhibition, Fraisage, Sablage, Baking, Technique
+shortcrust, pastry, butter, flour, fat, gluten inhibition, fraisage, sablage, baking, technique
 
 ## Category
 

@@ -10,6 +10,8 @@ Semi-homemade elevation using pastry technique to transform a box mix into a sav
 
 We treat the box mix merely as pre-measured dry ingredients, elevating it with *beurre noisette* (brown butter) and coffee to amplify the chocolate notes. The secret to the signature glossy, paper-thin crust is dissolving the sugar into the hot fat before the flour hydrates. By using a smaller, deeper pan, we insulate the batter, keeping the center dense and fudgy while the edges set.
 
+**Teaching Idea: Fat-Soluble Flavor Carriers.** Both the Maillard reaction products in the browned butter and the capsaicin in the optional cayenne are fat-soluble compounds. The hot beurre noisette acts as the extraction medium for both: flavor blooms into fat, not water. This is why the coffee and egg are added *after* the fat is ready — you want the fat-based flavor locked in first before the aqueous ingredients dilute it.
+
 ---
 
 ## Mise en Place (Action Checklist)
@@ -80,8 +82,8 @@ Lift out using the parchment, cut into squares, and sprinkle with smoked flaky s
 
 ## Keywords
 
-Brown Butter, Miso, Caramel, Truffle, Brownies, Pastry, Savory-Sweet, Coffee, Walnut, Fudgy
+brown butter, miso, caramel, truffle, brownies, pastry, savory-sweet, coffee, walnut, fudgy
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+cuisine: Asian-Fusion | style: Modern

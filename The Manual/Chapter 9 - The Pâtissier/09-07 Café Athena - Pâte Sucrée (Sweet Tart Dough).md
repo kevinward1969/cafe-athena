@@ -78,7 +78,7 @@ While savory doughs limit gluten development by coating flour in fat (sablage), 
 
 ## Keywords
 
-Sweet Tart Dough, Creaming Method, Emulsification, Butter, Sugar, Almond Flour, Pastry, Tart Shell, Gluten Development, Baking
+sweet tart dough, creaming method, emulsification, butter, sugar, almond flour, pastry, tart shell, gluten development, baking
 
 ## Category
 

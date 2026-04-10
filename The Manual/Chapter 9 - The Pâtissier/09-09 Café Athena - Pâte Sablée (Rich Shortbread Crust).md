@@ -70,7 +70,7 @@ True to its name (*sable* means "sand" in French), this dough prioritizes tender
 
 ## Keywords
 
-Shortbread, Pastry, Butter, Egg Yolks, French, Gluten-Free, Sand, Baking, Crumb, Tart
+shortbread, pastry, butter, egg yolks, french, sand, baking, crumb, tart
 
 ## Category
 

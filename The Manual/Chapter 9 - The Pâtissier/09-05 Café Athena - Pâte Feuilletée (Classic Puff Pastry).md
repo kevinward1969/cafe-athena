@@ -82,7 +82,7 @@ True puff pastry is a marvel of physics, not chemistry. There is no yeast or bak
 
 ## Keywords
 
-Puff Pastry, Lamination, Butter, Flour, Dough, French, Technique, Pastry, Cold Butter, Mechanical
+puff pastry, lamination, butter, flour, dough, french, technique, pastry, cold butter, mechanical
 
 ## Category
 

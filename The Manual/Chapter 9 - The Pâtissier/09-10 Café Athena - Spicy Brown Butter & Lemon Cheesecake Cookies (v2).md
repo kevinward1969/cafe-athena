@@ -16,7 +16,7 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 ## Mise en Place (Action Checklist)
 
-- **Brown and Bloom:** Cook the butter until milk solids are golden. **Immediately** remove from heat and stir in the red pepper. Pour into a heat-proof bowl and chill until solidified (opaque and soft).
+- Retrieve the spicy brown butter from the refrigerator and allow to temper to room temperature (70°F/21°C).
 - **Zest the lemon:** Microplane the zest directly over the weighed sugar to catch the oils.
 - **Temper the ingredients:** Ensure the solidified brown butter, cream cheese, and egg are all at room temperature (70°F/21°C).
 - **Prepare the coating:** Place the coarse raw sugar in a shallow bowl.
@@ -50,31 +50,35 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 ## Method
 
-**1. Infuse the Sugar** Rub the lemon zest into the granulated sugar with your fingertips until the mixture resembles wet sand and is aromatic.
+**Phase 1: Brown and Bloom.** Melt the butter in a light-colored saucepan over medium heat. Swirl constantly until the foaming subsides and the milk solids turn a toasted hazelnut brown. Remove from heat immediately and stir in the Aleppo pepper. Pour into a heat-proof bowl and refrigerate until fully solidified (opaque and soft), at least 2 hours or overnight.
+
+> **Why:** Blooming capsaicin in hot fat extracts the fat-soluble flavor compounds evenly, ensuring the heat is distributed throughout the dough rather than concentrated in pockets.
+
+**Phase 2: Infuse the Sugar.** Rub the lemon zest into the granulated sugar with your fingertips until the mixture resembles wet sand and is aromatic.
 
 > **Why:** Physical abrasion ruptures the oil cells in the zest, infusing the sugar more effectively than mixing alone.
 
-**2. Cream the Fats** In the bowl of a stand mixer fitted with the paddle attachment, combine the **solidified** spicy brown butter, room temperature cream cheese, and the lemon-sugar. Cream on medium-high speed for 3–4 minutes until very pale and aerated.
+**Phase 3: Cream the Fats.** In the bowl of a stand mixer fitted with the paddle attachment, combine the tempered spicy brown butter, room temperature cream cheese, and the lemon-sugar. Cream on medium-high speed for 3–4 minutes until very pale and aerated.
 
-**3. Build the Emulsion** Scrape down the sides of the bowl. Add the egg and vanilla extract. Mix on medium speed for 1 minute until fully combined and glossy.
+**Phase 4: Build the Emulsion.** Scrape down the sides of the bowl. Add the egg and vanilla extract. Mix on medium speed for 1 minute until fully combined and glossy.
 
-**4. Incorporate Dry Ingredients** Add the Dry Mix all at once. Mix on low speed just until streaks of flour disappear. **Do not overmix.**
+**Phase 5: Incorporate Dry Ingredients.** Add the Dry Mix all at once. Mix on low speed just until streaks of flour disappear. **Do not overmix.**
 
 > **Sensory Cue:** Stop the mixer when you still see tiny traces of flour; finish folding by hand with a spatula. The dough will be sticky.
 
-**Phase 1: Bulk Chill.** Cover the bowl with plastic wrap and refrigerate for **1 hour**.
+**Phase 6: Bulk Chill.** Cover the bowl with plastic wrap and refrigerate for **1 hour**.
 
 > **Why:** This initial chill firms the fat just enough to make the dough handleable without it melting in your hands during shaping.
 
-**Phase 2: Shape and Coat.** Scoop the chilled dough into 2 tbsp portions (golf ball size). Quickly roll them into spheres with your hands. Immediately roll each ball in the Turbinado sugar, pressing gently to ensure a thick, even crust.
+**Phase 7: Shape and Coat.** Scoop the chilled dough into 2 tbsp portions (golf ball size). Quickly roll them into spheres with your hands. Immediately roll each ball in the Turbinado sugar, pressing gently to ensure a thick, even crust.
 
-**Phase 3: Structural Maturation.** Place the coated balls on a parchment-lined tray. Cover loosely and refrigerate for **3 to 12 hours**.
+**Phase 8: Structural Maturation.** Place the coated balls on a parchment-lined tray. Cover loosely and refrigerate for **3 to 12 hours**.
 
 > **Why:** This long rest hydrates the flour fully (better chew) and dries the surface slightly, ensuring the sugar crust stays crunchy while the center remains soft.
 
-**8. Bake** Preheat oven to 350°F/175°C. Arrange the cold dough balls on baking sheets spaced 2 inches apart. Bake for **12–14 minutes**. The edges should be set and just starting to turn golden, but the centers should look slightly underdone and puffy.
+**Phase 9: Bake.** Preheat oven to 350°F/175°C. Arrange the cold dough balls on baking sheets spaced 2 inches apart. Bake for **12–14 minutes**. The edges should be set and just starting to turn golden, but the centers should look slightly underdone and puffy.
 
-**9. Cool** Cool on the pan for 5 minutes (they will deflate slightly and set), then transfer to a wire rack.
+**Phase 10: Cool.** Cool on the pan for 5 minutes (they will deflate slightly and set), then transfer to a wire rack.
 
 ---
 
@@ -86,8 +90,8 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 ## Keywords
 
-Brown Butter, Cheesecake, Cookies, Citrus, Red Pepper, Baking Powder, Cream Cheese, Turbinado Sugar, Lemon Zest, Spicy
+brown butter, cheesecake, cookies, citrus, red pepper, baking powder, cream cheese, turbinado sugar, lemon zest, spicy
 
 ## Category
 
-cuisine: Asian-Fusion | style: Weeknight
+cuisine: American | style: Weeknight

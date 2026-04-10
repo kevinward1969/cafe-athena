@@ -17,7 +17,7 @@ These cylinders are technically a hybrid of a *Tuile* and a *Florentine*. The hi
 ## Mise en Place (Action Checklist)
 
 - **Prep the Forms:** Set up your cannoli metal forms and a wire rack.
-- **Bloom the Peel:** Combine the heavy cream and dried orange peel granules in a small saucepan.
+- **Prep the Infusion Base:** Combine the heavy cream and dried orange peel granules in a small saucepan.
 - **Chop the Chocolate:** If using block chocolate, chop into small, uniform shards to ensure even melting.
 - **Preheat:** Set oven to 325°F/163°C. Line two baking sheets with silicone mats (Silpat) or parchment paper.
 
@@ -93,8 +93,8 @@ These cylinders are technically a hybrid of a *Tuile* and a *Florentine*. The hi
 
 ## Keywords
 
-Tuile, Sesame, Miso, Dark Chocolate, Ganache, Orange, Crystallization, Baking, Pastry, Sweet & Savory
+tuile, sesame, miso, dark chocolate, ganache, orange, crystallization, baking, pastry, sweet & savory
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+cuisine: Asian-Fusion | style: Fine Dining

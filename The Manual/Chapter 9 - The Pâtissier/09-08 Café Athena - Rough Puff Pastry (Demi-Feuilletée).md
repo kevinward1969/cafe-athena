@@ -78,7 +78,7 @@ While classic puff relies on a precise "lock-in" of a butter block, Rough Puff r
 
 ## Keywords
 
-Puff Pastry, Lamination, Butter, Dough, Gluten, Frozen Butter, Technique, Flaky, Savory, Pastry
+puff pastry, lamination, butter, dough, gluten, frozen butter, technique, flaky, savory, pastry
 
 ## Category
 
