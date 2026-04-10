@@ -146,7 +146,7 @@ Return the beef and vegetables briefly to the jus to warm through and glaze, 2â€
 
 ## Keywords
 
-Pressure Braising, Chuck Roast, Cold Smoking, Umami, Maillard Reaction, Glutamate, Beef, Competition, Slow Cooker, Beurre Noisette
+pressure braising, chuck roast, cold smoking, umami, maillard reaction, glutamate, beef, competition, slow cooker, beurre noisette
 
 ## Category
 

@@ -78,7 +78,7 @@ We replace the traditional heavy pasta sauce with a "Rustico" preparation—rapi
 
 ## Keywords
 
-Spaghetti Squash, Tomato Ragout, Osmotic Cure, Sauté, Italian, Garlic, Olive Oil, Herbal, Rustic, Vegetable Pasta
+spaghetti squash, tomato ragout, osmotic cure, sauté, italian, garlic, olive oil, herbal, rustic, vegetable pasta
 
 ## Category
 

@@ -82,7 +82,7 @@ By roasting the sweet potatoes in their skins rather than boiling them, we allow
 
 ## Keywords
 
-Root Vegetables, Roasting, Whipping, Butter, Spice, Turmeric, Ginger, Starch Retrogradation, Shearing, Mashed Potatoes
+root vegetables, roasting, whipping, butter, spice, turmeric, ginger, starch retrogradation, shearing, mashed potatoes
 
 ## Category
 

@@ -79,7 +79,7 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 
 ## Keywords
 
-Bulgur, Kisir, Tomato Paste, BBQ, Spice, Grain, Red Pepper, Mediterranean, St Louis, Spicy
+bulgur, kisir, tomato paste, bbq, spice, grain, red pepper, mediterranean, st louis, spicy
 
 ## Category
 

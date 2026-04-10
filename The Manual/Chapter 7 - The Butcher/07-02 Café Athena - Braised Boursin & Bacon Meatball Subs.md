@@ -2,20 +2,24 @@
 
 ## Tender beef-and-pork spheres enriched with garlic-herb cheese, braised in a reduced tomato soffritto, and finished with a torch-fired provolone crust
 
-**Yield:** 24–30 meatballs (6–8 subs) | Prep: 45 min | Chill: 1 hr | Cook: 1.5 hr
+**Yield:** 24–30 meatballs (6–8 subs) | **Prep:** 45 min | **Chill:** 1 hr | **Cook:** 1.5 hr | **Total:** ~3 hr 15 min
 
-**Headnote:** These are not standard Italian meatballs; they are engineered specifically for sandwiches. By folding crisp bacon and Boursin cheese directly into the meat mixture, we create pockets of savory fat and garlic-herb flavor that baste the meat from the inside out. We use a dual-cooking method—roasting to set the structure, then braising in a thick, clingy tomato sauce—to ensure the meatball is durable enough to hold up in a sub roll without disintegrating. **Teaching Idea: The Panade.** A panade is a paste made of starch (breadcrumbs) and liquid (eggs/dairy) that coats the protein strands, preventing them from tightening up into a hard knot during cooking. Here, the Boursin acts as the primary fat in the panade.
+---
 
-### **Mise en Place (Action Checklist)**
+## Headnote
 
-* **Render the Bacon:** Chop bacon into bits. Cook in the Dutch oven until crisp. Remove bits (save for the meatballs), leaving the fat in the pot (save for the sauce).
+These are not standard Italian meatballs; they are engineered specifically for sandwiches. By folding crisp bacon and Boursin cheese directly into the meat mixture, we create pockets of savory fat and garlic-herb flavor that baste the meat from the inside out. We use a dual-cooking method—roasting to set the structure, then braising in a thick, clingy tomato sauce—to ensure the meatball is durable enough to hold up in a sub roll without disintegrating. **Teaching Idea: The Panade.** A panade is a paste made of starch (breadcrumbs) and liquid (eggs/dairy) that coats the protein strands, preventing them from tightening up into a hard knot during cooking. Here, the Boursin acts as the primary fat in the panade.
+
+## Mise en Place (Action Checklist)
+
+* **Chop the bacon:** Cut bacon into small bits and set aside (it will be rendered in Phase 1 of the Method).
 * **Preheat oven:** Set to 425°F / 220°C.
 * **Prepare the Roasting Station:** Line a sheet pan with foil and fit a wire rack on top; spray rack with non-stick spray.
 * **Vegetable Prep:** Finely mince or grate the onion (divide usage for meatball vs. sauce). Mince the garlic.
 * **Cheese Prep:** Grate the Parmigiano/Pecorino. Slice the Provolone/Mozzarella.
 * **The Bread:** Bake or procure **04-01 Café Athena - 80/20 Poolish-Sourdough Baguettes** (shaped as demi-baguettes).
 
-### **Ingredients**
+## Ingredients
 
 **The Meat Base**
 
@@ -56,7 +60,7 @@
 * 12 Slices Provolone or Low-Moisture Mozzarella
 * 60 g (½ cup) Parmigiano Reggiano, grated (for dusting)
 
-### **Method**
+## Method
 
 **Phase 1: Render and Reserve** In a large Dutch oven (your future braising pot), cook the chopped bacon over medium-low heat until the fat renders and the bits are crisp. Use a slotted spoon to transfer the crispy bacon bits to a paper towel-lined plate (allow to cool). Leave the rendered liquid fat in the pot—take the pot off the heat for now. **Why:** This infuses the entire dish with smoke. The bits add texture to the meatball, while the fat becomes the foundation for the tomato sauce.
 
@@ -72,16 +76,10 @@
 
 **Phase 7: Reduction and Assembly** Carefully remove the meatballs to a holding bowl. Increase heat to medium-high and reduce the sauce for 10 minutes until it is thick and clings heavily to a spoon. Return meatballs to the pot to coat. Split the baguette rolls. Apply a layer of sauce to the bread. Load 3–4 meatballs per sub. Top with extra sauce. Lay slices of provolone over the meatballs. Dust with grated parmesan. Place the subs on a baking sheet and broil until the cheese is bubbling.
 
-### **Chef's Notes / Variations**
+## Chef's Notes / Variations
 
 * **The "Wood-Fired" Finish:** After broiling, use a kitchen torch to blister the top of the provolone and any exposed sauce. This adds a "leopard-spotted" char flavor found in pizza ovens that a home oven broiler often misses.
 * **Bread Selection:** Structure is key. If you are not baking the **Café Athena Baguettes**, choose a roll with a sturdy crust (like a seeded semolina roll). Soft hot dog buns will dissolve under the weight of the sauce.
-
-### **Glossary**
-
-* **Soffritto:** An aromatic flavor base made by gently cooking vegetables (onions, garlic) in fat.
-* **Fond:** The caramelized brown bits stuck to the bottom of a pan after searing meat or vegetables; a concentrated source of flavor.
-* **Panade:** A mixture of starch and liquid used to bind ground meat and maintain moisture.
 
 ## Glossary
 
@@ -95,7 +93,7 @@
 
 ## Keywords
 
-Braising, Meatballs, Bacon, Boursin, Tomato, Provolone, Sourdough, Italian, Pork, Garlic
+braising, meatballs, bacon, boursin, tomato, provolone, sourdough, italian, pork, garlic
 
 ## Category
 

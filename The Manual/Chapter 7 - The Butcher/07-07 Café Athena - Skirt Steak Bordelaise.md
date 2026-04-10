@@ -1,4 +1,4 @@
-### **Café Athena - Skirt Steak Bordelaise**
+# Café Athena - Skirt Steak Bordelaise
 
 Pan-seared bavette with a red wine reduction and butter-mounted demi-glace.
 
