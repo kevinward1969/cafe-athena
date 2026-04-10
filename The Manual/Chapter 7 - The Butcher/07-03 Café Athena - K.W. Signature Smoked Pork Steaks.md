@@ -2,18 +2,24 @@
 
 Hickory and applewood smoked shoulder cuts with a garlic-citrus bark.
 
-Yield: 4 servings | Prep: 1 hr 45 min | Cook: 1.5–2 hr | Total: ~4 hr
+**Yield:** 4 servings | **Prep:** 1 hr 45 min | **Cook:** 1.5–2 hr | **Total:** ~4 hr
 
-**Headnote** This signature method transforms the humble pork shoulder steak into a premium eating experience through precision thermal management and a unique compound layering technique. By utilizing a "Spray-Dust-Spray" application method, we create a hydration barrier that protects delicate herbs during the smoke while ensuring the garlic-citrus bark adheres aggressively to the meat. **Teaching Idea:** **The Hydro-Barrier.** Typically, dried herbs like parsley burn in a smoker. By saturating them with a vinegar-based solution and patting them into the meat surface, we keep the herb temperature below 212°F/100°C (the boiling point of water) long enough for the bark to set without scorching.
+---
 
-### **Mise En Place (Action Checklist)**
+## Headnote
+
+This signature method transforms the humble pork shoulder steak into a premium eating experience through precision thermal management and a unique compound layering technique. By utilizing a "Spray-Dust-Spray" application method, we create a hydration barrier that protects delicate herbs during the smoke while ensuring the garlic-citrus bark adheres aggressively to the meat. **Teaching Idea: The Hydro-Barrier.** Typically, dried herbs like parsley burn in a smoker. By saturating them with a vinegar-based solution and patting them into the meat surface, we keep the herb temperature below 212°F/100°C (the boiling point of water) long enough for the bark to set without scorching.
+
+---
+
+## Mise en Place (Action Checklist)
 
 * **Desiccate the Surface:** Pat steaks dry and place on a wire rack in the fridge for 1 hour before seasoning.
 * **Prepare the "Ward Solution":** Combine the liquid ingredients in a spray bottle (equal thirds) and shake vigorously.
 * **Stage the Station:** Set out the spice blends in the order of application (Garlic Salt → Lemon Pepper → Black Pepper → Parsley).
 * **Ignite the Fuel:** 30 minutes before cooking, start the charcoal in a chimney starter until red hot.
 
-### **Ingredients**
+## Ingredients
 
 **The Meat**
 
@@ -38,7 +44,7 @@ Yield: 4 servings | Prep: 1 hr 45 min | Cook: 1.5–2 hr | Total: ~4 hr
 * 5 Hickory Wood Chunks (rough cut, ~4-6 inches)
 * 5 Apple Wood Chunks (rough cut, ~4-6 inches)
 
-### **Method**
+## Method
 
 **Phase 1: Surface Desiccation** Remove the steaks from the packaging and pat them completely dry with paper towels. Place them on a wire rack set over a baking sheet and refrigerate uncovered for **1 hour**. **Why:** This removes surface moisture, which prevents the meat from "steaming" initially and allows the spray binder to tack up faster.
 
@@ -68,16 +74,10 @@ Yield: 4 servings | Prep: 1 hr 45 min | Cook: 1.5–2 hr | Total: ~4 hr
 
 **Phase 7: Structural Maturation** Remove the steaks from the grill and place them on a clean wire rack. Let them rest for **8–10 minutes** before serving. **Why:** Resting allows the muscle fibers to relax and reabsorb the rendered juices.
 
-### **Chef's Notes / Variations**
+## Chef's Notes / Variations
 
 * **Nosce Te Grill ("Know Thy Grill"):** Every grill has a micro-climate. In standard offset barrels, the rear (near the hinge) often runs hotter than the front (near the door). If your probes show a variance of >10°F, rotate the steaks during the flip (move front to back). Trust the probes, not the lid thermometer.
 * **The "Flavor Burst" Option:** For a deeper cure, you may dry brine the steaks 12–24 hours in advance. If doing so, **reduce the Garlic Salt by 50%** to avoid a "hammy" texture or over-salting.
-
-### **Glossary**
-
-* **Pellicle:** A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to.
-* **Offset Method:** A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
-* **Hydrolysis:** The chemical breakdown of a compound due to reaction with water; in cooking, specifically the breakdown of tough collagen into soft gelatin using heat and moisture.
 
 ## Glossary
 
@@ -89,8 +89,8 @@ Yield: 4 servings | Prep: 1 hr 45 min | Cook: 1.5–2 hr | Total: ~4 hr
 
 ## Keywords
 
-Smoked Pork, Pork Shoulder, Smoke, Garlic, Citrus, Herb Bark, Vinegar, Worcestershire, Charcoal, Wood Smoke
+smoked pork, pork shoulder, smoke, garlic, citrus, herb bark, vinegar, worcestershire, charcoal, wood smoke
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: American | style: Technique Folio

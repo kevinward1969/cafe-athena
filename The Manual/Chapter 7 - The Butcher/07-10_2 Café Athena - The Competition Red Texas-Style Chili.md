@@ -1,16 +1,16 @@
-## Café Athena – "The Competition Red" Texas-Style Chili
+# Café Athena - "The Competition Red" Texas-Style Chili
 
 A high-viscosity, umami-dense Texas Red featuring hand-cut chuck, coarse-grind binder, and a fortified demi-glace base.
 
 **Yield:** Approx. 8 quarts | **Prep:** 90 min | **Cook:** 5 hr | **Cold-Cure:** 12–24 hr | **Re-Thermalization:** 45–60 min | **Total:** ~30 hr (including Cold-Cure)
 
-### Headnote
+## Headnote
 
 Designed for the high-stakes environment of a professional cook-off, this "Texas Red" achieves superior depth through a triple-fermented umami base and a Guinness-fortified deglaze. By integrating hand-cut cubes for texture, a coarse-grind for sauce integration, and a late-stage second browning for bite, we create a multi-dimensional mouthfeel that dominates the palate.
 
 **Teaching Idea: Thermal Maillard Optimization.** By searing the hand-cut cubes in small batches, we prevent the pot's temperature from dropping, ensuring a high-quality crust rather than steaming the meat in its own juices.
 
-### Mise en Place
+## Mise en Place (Action Checklist)
 
 - [ ] **Prep Proteins:** Hand-dice 7 lbs (3175 g) of beef chuck into 1 cm cubes. Process 3 lbs (1360 g) of beef through a 10 mm grinder plate. Reserve 225 g (½ lb) of the coarse grind separately for the second browning.
 - [ ] **Construct Chili Paste:** Stem, seed, and toast dried pods; rehydrate and blend until smooth.
@@ -18,7 +18,7 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 - [ ] **Aromatic Prep:** Finely dice onions and poblano peppers; mince garlic.
 - [ ] **Station Setup:** Measure apple cider vinegar, Sazón, tomato paste, Guinness, and dry spices (including cocoa).
 
-### Ingredients
+## Ingredients
 
 #### The Beef Foundation
 
@@ -60,7 +60,7 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 - 60 ml (¼ cup) apple cider vinegar
 - Diamond Crystal kosher salt, to taste
 
-### Method
+## Method
 
 **Phase 1: Thermal Maillard Optimization.** In a large heavy-bottomed pot or commercial kettle, heat oil until it is shimmering. Sear hand-cut beef cubes in small batches until a deep brown crust forms. Remove and set aside. Brown the coarse-grind beef (excluding the 225 g reserve) until fully rendered and crumbly.
 
@@ -80,22 +80,13 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 **Phase 7: The Acid Finish.** Remove from heat. Stir in the apple cider vinegar. Taste and adjust with salt; expect 2–3 tsp Diamond Crystal, added gradually. Cover and rest for 30 minutes before serving.
 
-### Chef's Notes
+## Chef's Notes
 
 - **The "Wait" Factor:** Chili is a colloidal suspension that improves as proteins and fats stabilize. The Cold-Cure phase allows full flavor integration and is essential for competition entry.
 - **Optional Heat Addition:** For a brighter, sharper heat note, add 2–3 dried Cascabel peppers — toasted, rehydrated, and blended — to the chili paste in Phase 4. Cascabel adds a nutty, slightly smoky heat that cuts through the richness without overwhelming the umami layers.
 - **Guk-ganjang:** Korean aged soy sauce is fermented from soybeans only (no wheat) and is significantly funkier and more intense than Japanese soy. A little goes a long way. Look for it at Asian specialty markets.
 - **Sazón Substitute:** If Sazón with Culantro y Achiote packets are unavailable, search online for a homemade Sazón recipe. The key components are annatto (achiote), coriander, cumin, garlic powder, and salt.
 - For competition service, hold above 140°F and stir occasionally to maintain nappé and prevent scorching.
-
-### Glossary
-
-- **Nappé:** A sauce thick enough to coat the back of a spoon.
-- **Maillard Reaction:** The chemical reaction between amino acids and sugars that creates browned flavors.
-- **Blooming:** Toasting spices in fat to activate volatile oils.
-- **Colloidal Suspension:** A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
-- **Fond:** The browned bits stuck to the bottom of the pot after searing, packed with concentrated flavor.
-- **Guk-ganjang:** A traditional Korean soy sauce made only from fermented soybeans and brine, with a deeper, more complex flavor than standard soy sauce.
 
 ## Glossary
 
@@ -108,7 +99,7 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 ## Keywords
 
-Texas-Style Chili, Umami, Fermented, Beef, Demi-Glace, Cocoa, Guinness, Searing, Maillard Reaction, Competition, Chili Paste
+texas-style chili, umami, fermented, beef, demi-glace, cocoa, guinness, searing, maillard reaction, competition, chili paste
 
 ## Category
 

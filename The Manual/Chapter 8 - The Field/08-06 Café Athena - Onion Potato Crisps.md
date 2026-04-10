@@ -14,7 +14,7 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ---
 
-## Mise en Place
+## Mise en Place (Action Checklist)
 
 - Peel and cube the Yukon Gold potatoes into 1-inch (2.5 cm) pieces.
 - Roughly chop the yellow onion.
@@ -37,24 +37,13 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ## Method
 
-### The Emulsion
+**Phase 1: Build the Emulsion.** Place potatoes in a pot of cold salted water. Bring to a boil and cook for 12–15 minutes until fork-tender. Reserve 50 g of the boiling water, then drain the potatoes. While the potatoes are still steaming hot, place them in a high-speed blender with the raw onions and the 50 g of boiling potato water. Blend on high for 60–90 seconds until the mixture is a completely smooth, glossy emulsion.
 
-1. **Boil the Potatoes:** Place potatoes in a pot of cold salted water. Bring to a boil and cook for 12–15 minutes until fork-tender.
-2. **Reserve and Drain:** Reserve 50 g of the boiling water, then drain the potatoes.
-3. **Homogenize:** While the potatoes are still steaming hot, place them in a high-speed blender with the raw onions and the 50 g of boiling potato water. Blend on high for 60–90 seconds until the mixture is a completely smooth, glossy emulsion.
+**Phase 2: Build the Matrix.** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt. Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
 
-### The Matrix
+**Phase 3: Pipe and Press.** Preheat the oven to 230°F/110°C. Transfer the mixture to a piping bag. Pipe 1-inch (2.5 cm) dollops onto the parchment-lined baking sheet, spaced 2 inches (5 cm) apart. Place a second sheet of parchment paper over the dollops. Use the flat bottom of a measuring cup to press each dollop into a thin, uniform disc approximately 2–3 inches (5–7.5 cm) wide. Carefully peel back the top parchment layer.
 
-1. **Integrate Starches:** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt.
-2. **Whisk:** Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
-
-### Formation and Dehydration
-
-1. **Preheat:** Set the oven to 230°F/110°C.
-2. **Pipe:** Transfer the mixture to a piping bag. Pipe 1-inch (2.5 cm) dollops onto the parchment-lined baking sheet, spaced 2 inches (5 cm) apart.
-3. **The Press:** Place a second sheet of parchment paper over the dollops. Use the flat bottom of a measuring cup to press each dollop into a thin, uniform disc approximately 2–3 inches (5–7.5 cm) wide. Carefully peel back the top parchment layer.
-4. **Bake:** Bake for 30–35 minutes until the crisps are completely dehydrated and lift easily from the paper without sticking. They should be pale with almost no browning.
-5. **Cool:** Transfer the parchment sheet to a wire rack. The crisps will reach their final brittle state as they reach room temperature.
+**Phase 4: Dehydrate and Set.** Bake for 30–35 minutes until the crisps are completely dehydrated and lift easily from the paper without sticking. They should be pale with almost no browning. Transfer the parchment sheet to a wire rack. The crisps will reach their final brittle state as they reach room temperature.
 
 ---
 
@@ -73,7 +62,7 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ## Keywords
 
-Vegetable Tuiles, Potato, Onion, Starch Gelatinization, Emulsification, Amylopectin, Baking Powder, Savory Snack, Technique, Crisp
+vegetable tuiles, potato, onion, starch gelatinization, emulsification, amylopectin, baking powder, savory snack, technique, crisp
 
 ## Category
 

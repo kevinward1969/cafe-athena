@@ -1,4 +1,4 @@
-### **Café Athena - Braised Beef Stroganoff**
+# Café Athena - Braised Beef Stroganoff
 
 Deeply savory chunks of chuck braised in a mushroom fumet, finished with cultured crème fraîche and Dijon.
 

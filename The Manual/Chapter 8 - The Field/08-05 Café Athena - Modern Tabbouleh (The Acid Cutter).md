@@ -80,7 +80,7 @@ This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Inst
 
 ## Keywords
 
-Bulgur, Lemon Juice, Tomato Water, Cucumber, Parsley, Mint, Acid Hydration, Grain Salad, Refreshing, Fine Dicing
+bulgur, lemon juice, tomato water, cucumber, parsley, mint, acid hydration, grain salad, refreshing, fine dicing
 
 ## Category
 

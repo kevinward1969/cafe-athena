@@ -8,7 +8,7 @@ Hickory-kissed commercial bacon transformed into snackable, garnish-ready strips
 
 Commercial hickory-smoked bacon carries a head start — it's already cured, already kissed with smoke, and sliced to a consistent thickness. Our job is to hijack that foundation and drive new flavor deep into the fat and muscle before the dehydrator does its work. A 24-hour flavor brine opens the meat's protein structure and seasons from within; the dry rub then builds a concentrated surface crust as moisture evacuates during dehydration. **Teaching Idea: The Two-Stage Flavor Stack.** Wet brining deposits water-soluble flavor compounds (salts, sugars, aromatics) into the interior of the meat through osmotic diffusion. The subsequent dry rub targets the surface, where heat and moisture loss will concentrate those flavors into a caramelized, aromatic crust — a result neither method achieves alone.
 
-## Mise en Place
+## Mise en Place (Action Checklist)
 
 - Pull bacon from packaging and separate all strips; pat dry with paper towels
 - Prepare brine ingredients and whisk to combine in a non-reactive container (glass or food-safe plastic)
@@ -122,7 +122,7 @@ Remove finished strips to a wire rack and allow to cool completely at room tempe
 
 ## Keywords
 
-Dehydration, Bacon, Brining, Soy Sauce, Smoke, Flavor Infusion, Fermented, Umami, Snackable, Dry Rub
+dehydration, bacon, brining, soy sauce, smoke, flavor infusion, fermented, umami, snackable, dry rub
 
 ## Category
 

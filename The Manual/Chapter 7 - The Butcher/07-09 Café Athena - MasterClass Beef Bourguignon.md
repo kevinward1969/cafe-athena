@@ -1,4 +1,4 @@
-### **Café Athena - MasterClass Beef Bourguignon**
+# Café Athena - MasterClass Beef Bourguignon
 
 A refined expression of the Burgundian classic using a "clean braise," large-format beef, and overnight maturation for a glass-like sauce.
 
