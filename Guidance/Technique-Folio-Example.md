@@ -42,3 +42,20 @@
    * *Pile B:* Dry, rigid, white/green.  
    * *Pile A:* Wet, glistening, flexible, and sitting in a pool of green liquid.  
 4. **Lesson:** You just "cooked" the zucchini without heat. If you had thrown Pile A into a hot pan without drying it, it would have steamed in that liquid instead of searing.
+
+## Glossary
+
+* **Osmosis:** The movement of a solvent (water) across a semi-permeable membrane from a region of high water concentration to a region of low water concentration.
+* **Diffusion:** The net movement of a substance from an area of high concentration to an area of low concentration — how brine penetrates deep into meat over time.
+* **Denaturation:** The unfolding of a protein molecule from its native, folded conformation due to heat, acidity, or salinity.
+* **Equilibrium:** A state of balance between opposing concentrations — in this context, between salt and water within a food item.
+* **Brining:** A method of flavoring and tenderizing food by immersing it in a concentrated salt solution, facilitating osmosis and diffusion.
+* **Diamond Crystal Kosher:** A specific kosher salt characterized by hollow, pyramid-shaped crystals and low density — the project standard.
+
+## Keywords
+
+salinity, osmosis, diffusion, water management, protein denaturation, brining, salt, texture, equilibrium, seasoning, diamond crystal, kosher salt
+
+## Category
+
+cuisine: Global | style: Technique Folio

@@ -37,19 +37,21 @@ Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `h
 
 Run `/format-audit Chapter N` across all chapters to validate every recipe and folio against `Recipe-Format-Standard.md`. Includes structural order, Mise En Place compliance, Keywords, and Category sections.
 
-| Chapter | Status |
-| :--- | :--- |
-| Chapter 1 - The Lab | Pending |
-| Chapter 2 - The Foundation | Pending |
-| Chapter 3 - Garde Manger | Pending |
-| Chapter 4 - The Mill | Pending |
-| Chapter 5 - The Fishmonger | Pending |
-| Chapter 6 - The Poulterer | Pending |
-| Chapter 7 - The Butcher | Pending |
-| Chapter 8 - The Field | Pending |
-| Chapter 9 - The Pâtissier | Pending |
-| Chapter 10 - Stocks & Mother Sauces | ✅ Complete (2026-04-09) |
-| Chapter 11 - Spice Blends & Oils | Pending |
+> **Note:** Chapters 1 and 2 are entirely Technique Folios — they do not contain recipes. The format audit for these chapters uses folio-specific checks only (Glossary, Keywords lowercase, Category, dual temperatures). Recipe-specific sections (Mise En Place, Ingredients, Method) do not apply and should not be flagged. See `Guidance/Recipe-Format-Standard.md` — Technique Folio Format section.
+
+| Chapter | Type | Status |
+| :--- | :--- | :--- |
+| Chapter 1 - The Lab | Technique Folios (19) | Pending |
+| Chapter 2 - The Foundation | Technique Folios (7) | Pending |
+| Chapter 3 - Garde Manger | Recipes | Pending |
+| Chapter 4 - The Mill | Recipes | Pending |
+| Chapter 5 - The Fishmonger | Recipes | Pending |
+| Chapter 6 - The Poulterer | Recipes | Pending |
+| Chapter 7 - The Butcher | Recipes | ✅ Complete (2026-04-10) |
+| Chapter 8 - The Field | Recipes | ✅ Complete (2026-04-10) |
+| Chapter 9 - The Pâtissier | Recipes | ✅ Complete (2026-04-09) |
+| Chapter 10 - Stocks & Mother Sauces | Recipes | ✅ Complete (2026-04-09) |
+| Chapter 11 - Spice Blends & Oils | Recipes | ✅ Complete (2026-04-09) |
 
 ### PNG → WebP Optimization
 

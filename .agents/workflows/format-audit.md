@@ -9,17 +9,26 @@ description: Audits recipes and technique folios for formatting and structural a
 1. The user will provide a command like `/format-audit [identifier]`. The identifier can be a specific file (e.g., `04-15`) or a broad scope like an entire chapter (e.g., `Chapter 4`).
 2. Search the `The Manual/` directory using the Glob tool (with a wildcard pattern like `**/[identifier]*`) to locate all matching documents.
 3. Determine if the target documents are Recipes or Technique Folios.
-4. Read the corresponding reference templates from the `Guidance/` directory using the Read tool:
-   - For Recipes: `Guidance/Recipe-Format-Standard.md`
-   - For Technique Folios: `Guidance/Technique_Folio_Template_v1.md`
+4. Read `Guidance/Recipe-Format-Standard.md` — it contains format rules for both Recipes and Technique Folios (see the "Technique Folio Format" section).
 5. Loop through each discovered target document and Read its entirety.
-6. Evaluate the document deeply against the template rules. Look specifically for:
-   - **Vertical Order Validation:** Verify Title Block, Headnote, Mise En Place, Ingredients, Method, Notes, Glossary, Keywords, Category are all in the correct strict vertical succession.
-   - **Mise En Place vs. Method Violation Checks:** Ensure that NO cooking steps (applying heat) live within the Mise En Place section. Any "cooking" steps found in Mise En Place must be relocated to the Method section.
-   - **Typographical Checks:** Check for correct formatting in the Title Block, fractions, dual temperatures (e.g., Fahrenheit/Celsius), descriptive component headers, and proper bolding.
-   - **Content Completeness:** Check for missing sensory cues in the Method section or missing Yield/Timing data.
-   - **Keywords Check (non-blocking):** Check if `## Keywords` section exists and contains 10–15 comma-separated terms. If missing or fewer than 10 terms, flag as a formatting gap. Do not block audit on this — report only.
-   - **Category Check (non-blocking):** Check if `## Category` section exists and uses valid controlled vocabulary values (`cuisine:` and `style:` fields from Recipe-Format-Standard.md Section 9). If missing or values are non-standard, flag as a formatting gap. Report only — do not halt.
+6. Evaluate each document against the appropriate rules based on its type:
+
+   **For Recipes**, check:
+   - **Vertical Order:** Title Block → Headnote → Mise En Place → Ingredients → Method → Notes → Glossary → Keywords → Category
+   - **Mise En Place vs. Method Violations:** No cooking steps (applying heat) in Mise. Relocate any found to Method.
+   - **Typographical Checks:** Title Block format, proper fractions (⅔ not 2/3), dual temperatures (°F/°C), descriptive component headers, bolding.
+   - **Content Completeness:** Sensory cues in Method steps, Yield/Timing data in Title Block.
+   - **Keywords (non-blocking):** `## Keywords` exists with 10–15 lowercase comma-separated terms.
+   - **Category (non-blocking):** `## Category` exists with valid `cuisine:` and `style:` fields.
+
+   **For Technique Folios** (Chapters 1 & 2 are entirely folios; individual folios may appear in other chapters), check ONLY:
+   - **Glossary:** `## Glossary` present and covers all technical terms used in the body.
+   - **Keywords:** `## Keywords` present with 10–15 **lowercase** comma-separated terms. Title Case keywords are a violation.
+   - **Category:** `## Category` present and set to exactly `cuisine: Global | style: Technique Folio`.
+   - **Temperatures:** Dual format `°F/°C` used throughout.
+   - **No citation markers:** No `[source]`, `[1]`, or similar.
+   - **Body headers:** Section headers use **bold inline text**, not H2 headings.
+   - Do NOT flag missing Mise En Place, Ingredients, Yield/Timing, or Method phases — these do not apply to folios.
 7. **AUTHORIZATION LAYER (CRITICAL):** Do NOT automatically apply the changes. Instead, stop and present an evaluation to the user.
    - For each analyzed document, provide a short, bulleted list of the suggested changes (keep each bullet point to 1-2 concise sentences).
    - Example: "Recipe 04-15: Move the step 'Sauté the baby spinach' from Mise En Place to Phase 1 of the Method."

@@ -1,39 +1,44 @@
-# [ID] [Title] – [Subtitle/Descriptor]
+# Technique Folio Template
 
-**Type:** [Fundamental | Kitchen Ops & Environment | Product Geometry & Handling]  
-**Chapter:** [The Lab | Foundation | Cuts & Handling]  
-**Level:** [Foundation | Intermediate | Advanced]
+> Reference this template when authoring or auditing technique folios.
+> For the full format rules, see `Recipe-Format-Standard.md` — Technique Folio Format section.
 
-## Concept Definition
+---
 
-[1–2 paragraphs: what it is, why it matters to home cook, hook]
+## **Technique Folio - [Title]**
 
-## The Science
+**Concept Definition** [1–2 sentences: what this technique is and why it matters to the cook. Lead with the practical impact, not the textbook definition.]
 
-[Key principles, physics/biology: bullets or short paras]
+**The [Science / Physics / Chemistry / Mechanics]** [Heading name varies by topic. Cover the key principles — use numbered lists for distinct mechanisms, bullets for sub-points.]
 
-## Technique / Practical Application
+1. **[Mechanism Name]:** [Explanation.]
+   * *Example:* [Kitchen-relevant example.]
+   * *The Rule:* [The takeaway a cook should internalize.]
+2. **[Mechanism Name]:** [Explanation.]
+   * *Example:* [Kitchen-relevant example.]
+   * *The Rule:* [The takeaway.]
 
-1. [Step 1: action, cues, why]
-2. [Step 2, etc.]
+**Practical Application** [How to apply this in the kitchen. Can be numbered steps, bullets, or a named sub-section grid (e.g., "The When" and "The What").]
 
-- [Mistakes + fixes]
-- [Home adaptations]
+**Chef's Note: [Topic]** *(optional)* [A practical comparison, shortcut, or clarification that bridges theory and execution.]
 
-## Reference Values
+**Practice Exercise: [Name]** *(optional)* **Goal:** [What the cook will observe or prove.]
 
-| Parameter | Target | Notes |
-|-----------|--------|-------|
+1. **Setup:** [What to gather / prepare.]
+2. **Action:** [What to do.]
+3. **Observation:** [What they will see, and what it means.]
 
-## Safety & Constraints
+---
 
-[Warnings, temps, hazards]
+## Glossary
 
-## Applications & Links
+* **[Term]:** [Definition — 1–2 sentences, kitchen-relevant.]
+* **[Term]:** [Definition.]
 
-- [Example recipes]
-- [Related folios]
+## Keywords
 
-## Sources
+[10–15 lowercase, comma-separated terms covering: the core concept, related techniques, ingredients involved, equipment if relevant, and difficulty/context]
 
-[Web/practice notes]
+## Category
+
+cuisine: Global | style: Technique Folio

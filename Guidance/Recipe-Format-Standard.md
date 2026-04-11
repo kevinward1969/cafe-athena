@@ -255,6 +255,50 @@ cuisine: Italian | style: Rustic | dietary: Vegetarian
 
 ---
 
+## TECHNIQUE FOLIO FORMAT
+
+Technique Folios are educational documents — they explain the science and craft behind a technique. There is no recipe to execute. **Chapters 1 (The Lab) and 2 (The Foundation) consist entirely of folios.** Individual folios may also appear within recipe chapters.
+
+Folios do **NOT** have: Mise En Place, Ingredients, Yield/Timing metadata, or Method phases.
+
+### Structure
+
+Every folio must follow this strict vertical order:
+
+1. **Title Line** — `## **Technique Folio - [Title]**`
+2. **Body Sections** — using **bold inline headers** (not H2 headings):
+   - `**Concept Definition**` — What it is and why it matters
+   - `**The Science** / **The Physics** / **The Chemistry**` — Key principles (heading name varies by topic)
+   - `**Practical Application**` — How to use this in the kitchen
+   - `**Chef's Note**` *(optional)* — Practical tips or comparisons
+   - `**Practice Exercise**` *(optional)* — Hands-on exercise to internalize the concept
+3. `## Glossary` — Definitions of all technical terms used in the folio body
+4. `## Keywords` — 10–15 **lowercase**, comma-separated terms
+5. `## Category` — Always: `cuisine: Global | style: Technique Folio`
+
+### Format Audit Checks for Folios
+
+When running `/format-audit` on a folio, check only:
+
+- `## Glossary` present and covers all technical terms used in the body
+- `## Keywords` present with 10–15 **lowercase** comma-separated terms — Title Case is a violation
+- `## Category` present and set to exactly `cuisine: Global | style: Technique Folio`
+- Temperatures use dual format: `°F/°C` (e.g., `300°F/150°C`)
+- No citation markers (`[source]`, `[1]`, etc.)
+- Body section headers use **bold inline text**, not H2 headings
+
+### What Does NOT Apply to Folios
+
+These recipe format rules do **not** apply to technique folios and should not be flagged:
+
+- Title Block with Yield/Timing metadata
+- Headnote
+- Mise En Place
+- Ingredients section
+- Method phases and sensory cues
+
+---
+
 ## UNIVERSAL FORMATTING STANDARDS
 
 **Temperatures:**
