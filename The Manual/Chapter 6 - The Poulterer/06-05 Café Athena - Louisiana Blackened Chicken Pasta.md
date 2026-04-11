@@ -1,4 +1,4 @@
-### **Café Athena - Louisiana Blackened Chicken Pasta**
+# Café Athena - Louisiana Blackened Chicken Pasta
 
 Spicy, smoke-kissed poultry over pasta in a stabilized Cajun cream reduction.
 
@@ -78,7 +78,7 @@ This dish is an exercise in fond management. The flavor foundation is built by s
 
 ## Keywords
 
-Cajun, blackened, chicken, pasta, cream sauce, emulsification, fond, Louisiana, spice rub, penne, Maillard, reduction, weeknight, dairy, cream cheese
+cajun, blackened, chicken, pasta, cream sauce, emulsification, fond, louisiana, spice rub, penne, maillard, reduction, weeknight, dairy, cream cheese
 
 ## Category
 

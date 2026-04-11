@@ -1,4 +1,4 @@
-### **Café Athena - Modern Chicken Pot Pie (Velouté Method)**
+# Café Athena - Modern Chicken Pot Pie (Velouté Method)
 
 A classic comfort dish elevated through a precise blonde roux velouté and a hydrated, leavened crust.
 
@@ -67,7 +67,7 @@ The soul of a pot pie lies in its binder. By utilizing a **velouté** — one of
 
 ## Keywords
 
-pot pie, chicken, velouté, mother sauce, roux, blonde roux, gelatinization, comfort food, casserole, leavened crust, French technique, baked, family meal, weeknight, American
+pot pie, chicken, velouté, mother sauce, roux, blonde roux, gelatinization, comfort food, casserole, leavened crust, french technique, baked, family meal, weeknight, american
 
 ## Category
 

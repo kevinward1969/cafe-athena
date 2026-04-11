@@ -1,4 +1,4 @@
-### **Café Athena - Wafu Wedding Soup (Kyoto Spice)**
+# Café Athena - Wafu Wedding Soup (Kyoto Spice)
 
 A Japanese-inspired riff on Italian wedding soup featuring ginger, miso, sake, and toasted Israeli couscous.
 

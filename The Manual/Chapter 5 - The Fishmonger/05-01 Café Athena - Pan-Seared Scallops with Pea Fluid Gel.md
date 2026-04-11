@@ -1,6 +1,8 @@
 # Café Athena - Pan-Seared Scallops with Pea Fluid Gel
 
-Textural stabilization using agar-agar and xanthan gum to create a vibrant, shear-thinning purée. **Yield:** 4 servings | **Prep:** 30 min | **Inactive:** 1 hr | **Cook:** 10 min | **Total:** 1 hr 40 min
+Textural stabilization using agar-agar and xanthan gum to create a vibrant, shear-thinning purée.
+
+**Yield:** 4 servings | **Prep:** 30 min | **Inactive:** 1 hr | **Cook:** 10 min | **Total:** 1 hr 40 min
 
 ---
 
@@ -50,15 +52,6 @@ This dish demonstrates the power of hydrocolloids to transform a standard vegeta
 
 **5. Arrosé (The Butter Baste)** Flip the scallops and add the butter and thyme. As the butter foams, tilt the pan and use a spoon to continuously baste the scallops for 1 minute until they feel slightly firm to the touch. Remove from the pan immediately to prevent overcooking.
 
----
-
-### **Glossary**
-
-* **Fluid Gel:** A gel that has been mechanically sheared to create a smooth, pourable sauce that retains the structural stability of a solid.
-* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
-* **Arrosé:** The French technique of basting meat or fish with foaming butter and aromatics during the final stages of cooking.
-* **Syneresis:** The expulsion of liquid from a gel, often seen as "weeping" or water pooling around a purée.
-
 ## Glossary
 
 * **Agar-agar:** A gelatinous polysaccharide derived from seaweed, used as a hydrocolloid to induce gel formation in food products.
@@ -70,8 +63,8 @@ This dish demonstrates the power of hydrocolloids to transform a standard vegeta
 
 ## Keywords
 
-Pan-seared scallops, Pea purée, Hydrocolloids, Agar-agar, Xanthan gum, Shear-thinning, Gel-then-shear, Molecular gastronomy, Vegetable purée, Fluid gel
+pan-seared scallops, pea purée, hydrocolloids, agar-agar, xanthan gum, shear-thinning, gel-then-shear, molecular gastronomy, vegetable purée, fluid gel
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+cuisine: Global | style: Modern

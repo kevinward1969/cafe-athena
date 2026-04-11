@@ -2,15 +2,17 @@
 
 Deep-fried poultry featuring a "craggy" buttermilk crust and a lipophilic blooming spice glaze.
 
-Yield: 4 Leg Quarters (8 pieces) | Prep: 45 min | Inactive: 4–24 hr | Cook: 20 min
+**Yield:** 4 Leg Quarters (8 pieces) | **Prep:** 45 min | **Inactive:** 4–24 hr | **Cook:** 20 min | **Total:** ~5–25 hr
 
-**Headnote:** This technique relies on the "Wet-Dry-Wet" dredging system to maximize surface area. By drizzling a small amount of the liquid binder into the dry flour before dredging, we create artificial "craggy bits"—clusters of crunchy batter that adhere to the chicken. The heat comes not from the breading, but from a post-fry suspension of spices bloomed in the hot cooking oil. **Teaching Idea:** **The Dry Brine.** Unlike wet brining, which dilutes flavor with water, salting the meat directly (dry brining) uses osmotic pressure to draw moisture out, dissolve the salt, and reabsorb the concentrated brine into the muscle. This denatures the proteins for juiciness without waterlogging the meat.
+## Headnote
+
+This technique relies on the "Wet-Dry-Wet" dredging system to maximize surface area. By drizzling a small amount of the liquid binder into the dry flour before dredging, we create artificial "craggy bits"—clusters of crunchy batter that adhere to the chicken. The heat comes not from the breading, but from a post-fry suspension of spices bloomed in the hot cooking oil. **Teaching Idea:** **The Dry Brine.** Unlike wet brining, which dilutes flavor with water, salting the meat directly (dry brining) uses osmotic pressure to draw moisture out, dissolve the salt, and reabsorb the concentrated brine into the muscle. This denatures the proteins for juiciness without waterlogging the meat.
 
 ### **Mise En Place (Action Checklist)**
 
 * **Fabricate:** Separate the leg quarters into drums and thighs.
 * **Dry Brine:** Salt the chicken at least 4 hours (ideally 24 hours) in advance.
-* **Preheat Oil:** Bring frying oil to 175°C (350°F) in a Dutch oven or heavy pot.
+* **Preheat Oil:** Bring frying oil to 350°F/175°C in a Dutch oven or heavy pot.
 * **Station Setup:** Organize the Wet Bowl and Dry Bowl side-by-side.
 * **Glaze Prep:** Have the heat-proof metal bowl with the spice mix ready near the fryer.
 
@@ -52,7 +54,7 @@ Yield: 4 Leg Quarters (8 pieces) | Prep: 45 min | Inactive: 4–24 hr | Cook: 20
 
 **Phase 3: The Dredge** Dip a piece of chicken into the **Wet Binder** to coat fully. Lift and let excess drip off. Transfer to the **Dry Dredge**. Bury the chicken in the flour, pressing firmly to adhere the "craggy bits" to the skin. Shake off excess flour violently (you want a thin, textured coating, not a thick, doughy sweater). Place on a clean wire rack. Repeat for all pieces.
 
-**Phase 4: The Fry** Working in batches (do not crowd the pot), carefully lower the chicken into the **175°C (350°F)** oil. Fry for **10–12 minutes**, flipping occasionally. **Target:** Internal temperature of 74°C (165°F) and a deep, golden-brown crust. Transfer fried chicken to a wire rack to drain. **Critical:** Maintain oil temperature above 160°C (320°F) during the fry to prevent greasiness.
+**Phase 4: The Fry** Working in batches (do not crowd the pot), carefully lower the chicken into the **350°F/175°C** oil. Fry for **10–12 minutes**, flipping occasionally. **Target:** Internal temperature of 165°F/74°C and a deep, golden-brown crust. Transfer fried chicken to a wire rack to drain. **Critical:** Maintain oil temperature above 320°F/160°C during the fry to prevent greasiness.
 
 **Phase 5: The Bloom & Glaze** While the chicken is resting, combine the **Cayenne**, **Brown Sugar**, **Paprika**, **Garlic Powder**, and **Salt** in your heat-proof metal bowl. Ladle **240 ml (1 cup)** of the hot frying oil directly onto the spices. Whisk furiously to dissolve the sugar (The Bloom). **Application:** While the paste is hot, brush it generously over every inch of the fried chicken. Serve immediately with pickles and white bread.
 
@@ -63,12 +65,6 @@ Yield: 4 Leg Quarters (8 pieces) | Prep: 45 min | Inactive: 4–24 hr | Cook: 20
 * **Double Dredge:** For an extra-thick crust, dip the chicken Wet -> Dry -> Wet -> Dry. *Warning:* This requires precise oil temperature control to ensure the coating cooks through before burning.
 * **The "Shoyu" Substitution:** The original methodology specifies Matsutake Shoyu, a premium soy sauce infused with pine mushrooms. This ingredient introduces two critical variables: deep earthiness (mushroom umami) and a subtle smokiness.
 * **The Chemistry Hack:** To replicate this profile without the expense, combine **15 ml (1 tbsp) standard Soy Sauce** with **0.5 g (1 generous pinch) of MSG** (to mimic the fungal savory notes) and **1 drop of Liquid Smoke** or a pinch of **Smoked Paprika**. This reassembles the flavor profile using standard pantry isolates.
-
-### **Glossary**
-
-* **Dry Brine:** Salting meat in advance to denature proteins via osmosis, without adding external water.
-* **Lipophilic:** Fat-soluble. Flavor compounds that extract best in oil rather than water.
-* **Bloom:** The process of cooking spices in hot fat to release essential oils.
 
 ## Glossary
 
@@ -83,7 +79,7 @@ Yield: 4 Leg Quarters (8 pieces) | Prep: 45 min | Inactive: 4–24 hr | Cook: 20
 
 ## Keywords
 
-Fried Chicken, Buttermilk, Spice Glaze, Dry Brining, Hot Sauce, Kosher Salt, Southern Cuisine, Deep-Frying, Fermented, Umami
+fried chicken, buttermilk, spice glaze, dry brining, hot sauce, kosher salt, southern cuisine, deep-frying, fermented, umami
 
 ## Category
 

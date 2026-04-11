@@ -1,10 +1,12 @@
 # Café Athena - Miso-Cured Black Cod (Saikyo Yaki)
 
-## Buttery, flaking sablefish with a deep savory cure and a caramelized, sweet-umami crust
+Buttery, flaking sablefish with a deep savory cure and a caramelized, sweet-umami crust
 
-Yield: 4 servings | Prep: 20 min | Inactive: 24–48 hr | Cook: 12–15 min | Total: ~25–50 hr
+**Yield:** 4 servings | **Prep:** 20 min | **Inactive:** 24–48 hr | **Cook:** 12–15 min | **Total:** ~25–50 hr
 
-**Headnote** The secret to this dish is understanding that the marinade is actually a *cure*. By resting the fish in a high-salinity miso environment for up to two days, we firm the texture of this oily fish while infusing seasoning deep into the flesh. We solve the burning sugar problem by wiping the surface completely clean before roasting, applying a fresh layer of glaze only at the very end.
+## Headnote
+
+The secret to this dish is understanding that the marinade is actually a *cure*. By resting the fish in a high-salinity miso environment for up to two days, we firm the texture of this oily fish while infusing seasoning deep into the flesh. We solve the burning sugar problem by wiping the surface completely clean before roasting, applying a fresh layer of glaze only at the very end.
 
 **Teaching Idea:** **Hygroscopic Action.** Both salt and sugar are hygroscopic, meaning they attract and hold water molecules. In this cure, they draw moisture out of the fish's cells (concentrating flavor) while simultaneously dissolving into the remaining surface moisture to travel inward via diffusion.
 
@@ -19,20 +21,20 @@ Yield: 4 servings | Prep: 20 min | Inactive: 24–48 hr | Cook: 12–15 min | To
 
 **The Cure**
 
-* 225 g (¾ cup) White Miso (preferably Saikyo or Shiro)
-* 100 g (½ cup) Sake (Dry)
-* 50 g (¼ cup) Mirin
-* 50 g (¼ cup) Granulated Sugar
+* 225 g (¾ cup) white miso (preferably Saikyo or Shiro)
+* 100 g (½ cup) sake (dry)
+* 50 g (¼ cup) mirin
+* 50 g (¼ cup) granulated sugar
 
 **The Protein**
 
-* 680 g (4 fillets, 6 oz each) Black Cod (Sablefish), skin-on or off
-* Neutral Oil (for greasing)
+* 680 g (4 fillets, 6 oz each) black cod (sablefish), skin-on or off
+* neutral oil (for greasing)
 
 **The Garnish**
 
-* 10 g (1 tbsp) Sesame Seeds, toasted
-* 2 Scallions, shaved thin on a bias
+* 10 g (1 tbsp) sesame seeds, toasted
+* 2 scallions, shaved thin on a bias
 
 ### **Method**
 
@@ -56,12 +58,6 @@ Place under the broiler for **60–90 seconds**. Watch constantly. **Sensory Cue
 
 **Fish Selection:** If Black Cod is unavailable, Chilean Sea Bass is the closest structural equivalent. Salmon acts as a suitable alternative but requires only 12–24 hours of curing due to its lower fat content. **Skin Handling:** If roasting skin-on, the skin will likely soften during the cure. It is best to remove the skin after roasting or sear the skin-side in a pan before transferring to the oven if a crisp texture is desired.
 
-### **Glossary**
-
-* **Saikyo Miso:** A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
-* **Hygroscopic:** The property of a substance to absorb moisture from the air or its surroundings.
-* **Diffusion:** The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the fish).
-
 ## Glossary
 
 * **Saikyo Miso:** A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
@@ -75,8 +71,8 @@ Place under the broiler for **60–90 seconds**. Watch constantly. **Sensory Cue
 
 ## Keywords
 
-Miso, Black Cod, Saikyo Yaki, Curing, Fermented, Umami, Japanese, Sablefish, Glaze, Marine
+miso, black cod, saikyo yaki, curing, fermented, umami, japanese, sablefish, glaze, marine
 
 ## Category
 
-cuisine: Japanese | style: Technique Folio
+cuisine: Japanese | style: Modern

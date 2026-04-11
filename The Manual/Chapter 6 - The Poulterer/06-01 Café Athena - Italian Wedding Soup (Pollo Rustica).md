@@ -1,12 +1,16 @@
 # Café Athena - Italian Wedding Soup (Pollo Rustica)
 
-**A robust dual-protein soup featuring toasted Israeli couscous, seared chicken, and tender Boursin meatballs.** **Yield:** 4–6 servings | **Prep:** 30 min | **Cook:** 45 min
+A robust dual-protein soup featuring toasted Israeli couscous, seared chicken, and tender Boursin meatballs.
 
-**Overview** This "Rustica" variant moves away from delicate starters into main-course territory. We replace standard orzo with Israeli couscous, treating it like risotto to preserve texture. The "marriage" here is threefold: the savory depth of the roasted meatballs, the Maillard-rich seared chicken, and the bright, vegetal finish of fresh herbs.
+**Yield:** 4–6 servings | **Prep:** 30 min | **Cook:** 45 min | **Total:** ~75 min
+
+## Headnote
+
+This "Rustica" variant moves away from delicate starters into main-course territory. We replace standard orzo with Israeli couscous, treating it like risotto to preserve texture. The "marriage" here is threefold: the savory depth of the roasted meatballs, the Maillard-rich seared chicken, and the bright, vegetal finish of fresh herbs.
 
 ### **Mise en Place (Action Checklist)**
 
-* **Roast the Meatballs:** Prepare the *Boursin & Bacon* meatball mix. Shape into small (38 g) rounds. Roast at **425°F / 220°C** for 15–18 minutes until fully cooked.
+* **Have ready:** 1 batch Mini Boursin & Bacon Meatballs (see Chapter 3), roasted and warm.
 * **Process the Chicken:** Cut chicken breasts into 1-inch (2.5 cm) cubes. Pat dry with paper towels (crucial for searing).
 * **Dice the Mirepoix:** Small dice the onion, carrots, and celery (aim for sizes matching the couscous pearls).
 * **Prepare Aromatics:** Mince the garlic cloves and finely chop the parsley.
@@ -29,7 +33,7 @@
 * 240 g (1½ cups) Israeli couscous (Pearl couscous)
 * 1.5 L (6 cups) chicken stock (high quality)
 * 120 ml (½ cup) dry white wine (Pinot Grigio or Sauvignon Blanc)
-* Salt and black pepper to taste
+* Diamond Crystal kosher salt and freshly cracked black pepper, to taste
 
 **The Finish**
 
@@ -58,13 +62,6 @@
 * **Check:** Ensure chicken is cooked through and meatballs are hot.
 * **Finish:** Turn off the heat. Stir in the fresh spinach and chopped parsley immediately. They will wilt in seconds. Taste and adjust salt/pepper. Serve with Parmesan.
 
-### **Glossary**
-
-* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
-* **Fond:** The caramelized browned bits stuck to the bottom of a pan after searing meat; a major source of flavor.
-* **Mirepoix:** A flavor base made from diced vegetables (usually onions, carrots, and celery).
-* **Deglaze:** Adding liquid to a hot pan to dissolve the fond.
-
 ## Glossary
 
 * **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that produces browned food with complex flavor.
@@ -75,7 +72,7 @@
 
 ## Keywords
 
-Italian, Chicken, Meatballs, Couscous, Searing, Risotto, Herbs, Stock, Wine, Parmesan, Maillard, Poultry, Soup, Rustic
+italian, chicken, meatballs, couscous, searing, risotto, herbs, stock, wine, parmesan, maillard, poultry, soup, rustic
 
 ## Category
 
