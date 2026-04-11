@@ -23,7 +23,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -35,8 +35,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -48,7 +48,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -60,8 +60,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -73,7 +73,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -85,8 +85,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -98,7 +98,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -110,8 +110,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -123,7 +123,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -135,8 +135,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -148,7 +148,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -160,8 +160,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -173,7 +173,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -185,8 +185,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -198,7 +198,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -210,8 +210,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -223,7 +223,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -235,8 +235,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -248,7 +248,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -260,8 +260,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -273,7 +273,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -285,8 +285,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -298,7 +298,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -310,8 +310,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -323,7 +323,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -335,8 +335,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -348,7 +348,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -360,8 +360,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -373,7 +373,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -385,8 +385,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -398,7 +398,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -410,8 +410,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -423,7 +423,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -435,8 +435,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -448,7 +448,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -460,8 +460,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -473,7 +473,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -485,8 +485,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -498,7 +498,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -510,8 +510,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -523,7 +523,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -535,8 +535,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -548,7 +548,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -560,8 +560,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -573,7 +573,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -585,8 +585,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -598,7 +598,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -610,8 +610,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -623,7 +623,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -635,8 +635,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
@@ -648,7 +648,7 @@
       "type": "technique",
       "added": "2026-04-04",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
         "heroImage": true,
@@ -660,8 +660,8 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-04-10",
+        "status": "clean",
         "issues": []
       }
     },
