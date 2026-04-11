@@ -69,7 +69,7 @@ REQUIRED_SECTIONS = [
 ]
 
 # Sections that apply only to full recipes (not technique folios)
-RECIPE_ONLY_SECTIONS = {"Ingredients"}
+RECIPE_ONLY_SECTIONS = {"Headnote", "Mise en Place", "Ingredients", "Method"}
 
 # Sections Claude can generate via Ollama
 AUTO_FIXABLE = {"missing_glossary", "missing_keywords", "missing_category"}
@@ -188,6 +188,19 @@ def check_keywords_count(text: str) -> int | None:
         return None
     terms = [t.strip() for t in m.group(1).split(',') if t.strip()]
     return len(terms)
+
+
+def check_keywords_casing(text: str) -> bool:
+    """True if any keyword in ## Keywords starts with an uppercase letter (Title Case violation).
+
+    Folios require all-lowercase keywords per the format standard.
+    Proper nouns are an exception but are rare enough to flag for manual review.
+    """
+    m = re.search(r'^## Keywords\s*\n+(.+)$', text, re.MULTILINE)
+    if not m:
+        return False
+    terms = [t.strip() for t in m.group(1).split(',') if t.strip()]
+    return any(t and t[0].isupper() for t in terms)
 
 
 def check_bold_phase_headers(text: str) -> list[str]:
@@ -310,6 +323,15 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
             audit.issues.append(Issue(
                 code="keywords_count",
                 description=f"Keywords has {kw_count} terms (expected {KEYWORDS_MIN}–{KEYWORDS_MAX})",
+                auto_fix=False,
+            ))
+
+    # Folio-specific: keyword casing (must be lowercase)
+    if recipe_type == "technique" and "Keywords" in sections:
+        if check_keywords_casing(text):
+            audit.issues.append(Issue(
+                code="keywords_title_case",
+                description="Keywords contain Title Case — folio keywords must be all lowercase",
                 auto_fix=False,
             ))
 
