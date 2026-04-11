@@ -1,5 +1,4 @@
-## **Technique Folio - The Science of Mantecatura (Emulsification)**
-
+# **Technique Folio - The Science of Mantecatura (Emulsification)**
 **Concept Definition** *Mantecatura* (from the Spanish/Italian *manteca*, meaning butter or lard) is the final, critical step in making risotto. It is the vigorous beating of cold fat (butter) and cheese into the hot rice mixture off the heat. It transforms a pot of wet rice into a cohesive, flowing, creamy dish.
 
 **The Science** Technically, a finished risotto is a **Three-Phase System**:
@@ -41,8 +40,8 @@ The goal of Mantecatura is to create a stable **Oil-in-Water Emulsion**.
 
 ## Keywords
 
-Emulsification, Risotto, Mantecatura, Butter, Cheese, Starch, Heat, Fat, Rice, Cold Fat
+emulsification, risotto, mantecatura, butter, cheese, starch, heat, fat, rice, cold fat
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+style: Technique Folio

@@ -265,8 +265,8 @@ Folios do **NOT** have: Mise En Place, Ingredients, Yield/Timing metadata, or Me
 
 Every folio must follow this strict vertical order:
 
-1. **Title Line** — `## **Technique Folio - [Title]**`
-2. **Body Sections** — using **bold inline headers** (not H2 headings):
+1. **Title Line** — `# **Technique Folio - [Title]**` (H1 — the document's top-level heading)
+2. **Body Sections** — using **bold inline headers** (not H2/H3 headings):
    - `**Concept Definition**` — What it is and why it matters
    - `**The Science** / **The Physics** / **The Chemistry**` — Key principles (heading name varies by topic)
    - `**Practical Application**` — How to use this in the kitchen
@@ -274,7 +274,7 @@ Every folio must follow this strict vertical order:
    - `**Practice Exercise**` *(optional)* — Hands-on exercise to internalize the concept
 3. `## Glossary` — Definitions of all technical terms used in the folio body
 4. `## Keywords` — 10–15 **lowercase**, comma-separated terms
-5. `## Category` — Always: `cuisine: Global | style: Technique Folio`
+5. `## Category` — Always: `style: Technique Folio` (no `cuisine:` field)
 
 ### Format Audit Checks for Folios
 
@@ -282,7 +282,7 @@ When running `/format-audit` on a folio, check only:
 
 - `## Glossary` present and covers all technical terms used in the body
 - `## Keywords` present with 10–15 **lowercase** comma-separated terms — Title Case is a violation
-- `## Category` present and set to exactly `cuisine: Global | style: Technique Folio`
+- `## Category` present and set to exactly `style: Technique Folio` (no `cuisine:` field)
 - Temperatures use dual format: `°F/°C` (e.g., `300°F/150°C`)
 - No citation markers (`[source]`, `[1]`, etc.)
 - Body section headers use **bold inline text**, not H2 headings

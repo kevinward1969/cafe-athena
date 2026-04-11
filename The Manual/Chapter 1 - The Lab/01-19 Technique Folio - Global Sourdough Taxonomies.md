@@ -1,5 +1,4 @@
-### **Technique Folio - Global Sourdough Taxonomies**
-
+# **Technique Folio - Global Sourdough Taxonomies**
 **Concept Definition:** Not all starters are created equal. The choice of grain (substrate) and hydration (water content) dictates the bacterial dominance (Lactic vs. Acetic), the lifting power, and the final flavor profile.
 
 **The Index: Starter Varietals**
@@ -31,8 +30,8 @@
 
 ## Keywords
 
-Sourdough, Starter, Fermentation, Gluten, Whole Wheat, Rye Flour, Baking, Bread, Lactic Acid, Microbial, San Francisco Style, Desem, Lievito Madre, Amish Friendship, wild yeast
+sourdough, starter, fermentation, gluten, whole wheat, rye flour, baking, bread, lactic acid, microbial, san francisco style, desem, lievito madre, amish friendship, wild yeast
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

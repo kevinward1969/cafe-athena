@@ -1,5 +1,4 @@
-## **Technique Folio - The Kit (Analog Tools)**
-
+# **Technique Folio - The Kit (Analog Tools)**
 **Concept Definition** In a professional kitchen, tools are not just accessories; they are mechanical extensions of the chef's body. A cheap pan fights you by dropping temperature too quickly; a dull knife forces you to use dangerous pressure. The goal of your "Kit" is not to own the most equipment, but to own the *correct* equipment that offers mechanical advantage and thermal precision.
 
 **The Physics: Mass, Leverage, and Conductivity** To select the right tool, you must understand the physical force it controls:
@@ -90,8 +89,8 @@
 
 ## Keywords
 
-Cast Iron, Thermal Mass, Stainless Steel, Conduction, Forged Blades, Chef's Knife, Serrated Knife, Paring Knife, Heat Transfer, Maillard Reaction
+cast iron, thermal mass, stainless steel, conduction, forged blades, chef's knife, serrated knife, paring knife, heat transfer, maillard reaction
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

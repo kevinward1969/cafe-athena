@@ -1,5 +1,4 @@
-## **Technique Folio - Thermodynamics & Heat Control**
-
+# **Technique Folio - Thermodynamics & Heat Control**
 **Concept Definition** Cooking is simply the management of energy transfer. We apply heat to ingredients to denature proteins (texture) and trigger chemical reactions (flavor). Most home cooks view heat as a single dial: "Hot." A professional views heat as a spectrum of **Transfer Methods**. Understanding *how* energy moves allows you to choose the right tool: a heavy cast iron for conduction or a convection oven for air circulation.
 
 **The Physics: The Three Engines** Heat moves in three specific ways. You must know which one you are using.
@@ -61,8 +60,8 @@
 
 ## Keywords
 
-Conduction, Convection, Radiation, Heat Transfer, Maillard Reaction, Searing, Steak, Cast Iron, Temperature Control, Flavor Chemistry
+conduction, convection, radiation, heat transfer, maillard reaction, searing, steak, cast iron, temperature control, flavor chemistry
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

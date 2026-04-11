@@ -1,4 +1,4 @@
-## **Technique Folio \- Salinity & Equilibrium**
+# **Technique Folio - Salinity & Equilibrium**
 
 **Concept Definition:** Salt (NaCl) is the only rock we eat. In the kitchen, it is not just a seasoning; it is a tool for **Water Management**. It has the power to draw moisture out of a vegetable (cell wall collapse) or trap moisture inside a steak (protein denaturation). Controlling salt means controlling the texture of your food.
 
@@ -58,4 +58,4 @@ salinity, osmosis, diffusion, water management, protein denaturation, brining, s
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

@@ -1,5 +1,4 @@
-## **Technique Folio - The Steward (Care & Maintenance)**
-
+# **Technique Folio - The Steward (Care & Maintenance)**
 **Concept Definition** In a professional kitchen, the "Steward" (or *Plongeur*) is often considered an entry-level role, but the **principles of Stewardship** are the responsibility of the Chef. Tools degrade with every use. A knife edge rolls; a pan loses its seasoning; stainless steel oxidizes. Your goal is not just to clean, but to **restore** your tools to their original mechanical advantage before the next service.
 
 **The Physics: Alignment & Polymerization** To maintain your kit, you must understand what happens to metal at the microscopic level:
@@ -59,8 +58,8 @@
 
 ## Keywords
 
-Knife sharpening, Honing, Cast iron, Thermal shock, Polymerization, Blade management, Seasoning, Metal restoration, Culinary maintenance, Edge alignment
+knife sharpening, honing, cast iron, thermal shock, polymerization, blade management, seasoning, metal restoration, culinary maintenance, edge alignment
 
 ## Category
 
-cuisine: Japanese | style: Technique Folio
+style: Technique Folio

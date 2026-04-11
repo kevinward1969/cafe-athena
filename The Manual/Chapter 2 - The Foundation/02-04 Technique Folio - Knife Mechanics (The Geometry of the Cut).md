@@ -1,5 +1,4 @@
-## **Technique Folio \- Knife Mechanics (The Geometry of the Cut)**
-
+# **Technique Folio - Knife Mechanics (The Geometry of the Cut)**
 **Concept Definition:** Knife skills are not about speed; they are about **Geometry** and **Physics**. A knife is a wedge. Your goal is to drive that wedge through food with the least amount of resistance. Most home cooks "chop" (pushing straight down), which requires force. Professionals "slice" (moving forward or backward while pushing down), which uses mechanical advantage.
 
 **The Physics: Cellular Integrity**
@@ -70,8 +69,8 @@
 
 ## Keywords
 
-Knife Skills, Geometry, Physics, Cell Wall Integrity, Slice, Draw Slice, Grip, Pinch, Claw, Food Preparation
+knife skills, geometry, physics, cell wall integrity, slice, draw slice, grip, pinch, claw, food preparation
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

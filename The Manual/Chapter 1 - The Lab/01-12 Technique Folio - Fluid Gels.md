@@ -1,5 +1,4 @@
-### **Technique Folio - Fluid Gels**
-
+# **Technique Folio - Fluid Gels**
 **Concept Definition** A fluid gel is a substance that behaves like a solid when at rest but flows like a liquid when subjected to mechanical force (shearing). It allows a chef to plate a sauce with the precision of a gel—holding its shape and height—while maintaining the luxurious, melt-in-the-mouth texture of a traditional purée.
 
 ---
@@ -36,8 +35,8 @@
 
 ## Keywords
 
-Shear-Thinning, Agar-Agar, Xanthan Gum, Hydrocolloid, Blending, Gel, Texture, Lemon, Herb, Spherical
+shear-thinning, agar-agar, xanthan gum, hydrocolloid, blending, gel, texture, lemon, herb, spherical
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+style: Technique Folio

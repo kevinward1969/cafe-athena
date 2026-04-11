@@ -1,8 +1,7 @@
-# Technique Folio - Collagen Hydrolysis & Extraction
+# **Technique Folio - Collagen Hydrolysis & Extraction**
+**Concept Definition** Stock making is not merely "boiling bones." It is the process of solvent extraction. We use water (the solvent) and thermal energy to extract soluble proteins, flavor compounds, and gelatin from connective tissue. The quality of a stock is measured by its viscosity (body) and clarity, both of which are determined by how you manage the protein **Collagen**.
 
-**CONCEPT DEFINITION** Stock making is not merely "boiling bones." It is the process of solvent extraction. We use water (the solvent) and thermal energy to extract soluble proteins, flavor compounds, and gelatin from connective tissue. The quality of a stock is measured by its viscosity (body) and clarity, both of which are determined by how you manage the protein **Collagen**.
-
-**THE SCIENCE** Collagen is a structural protein found in animal connective tissue, bone, and skin. It exists as a triple-helix structure—three strands twisted tightly together.
+**The Science** Collagen is a structural protein found in animal connective tissue, bone, and skin. It exists as a triple-helix structure—three strands twisted tightly together.
 
 * **Raw State:** In its native state, collagen is tough and insoluble in water.
 * **Denaturation (140°F / 60°C):** Heat causes the triple helix to unwind and lose its structure.
@@ -10,7 +9,7 @@
 
 Gelatin is hydrocolloidal; when warm, it provides a silky mouthfeel (viscosity). When cool, it forms a semi-solid gel. This "lip-sticking" quality is the difference between a thin broth and a restaurant-quality stock.
 
-**PRACTICAL APPLICATION**
+**Practical Application**
 
 **1. Surface Area:** The solvent can only extract from the surface it touches. A whole chicken carcass extracts slowly. Bones chopped into 2-inch pieces expose more surface area, allowing for faster and more complete gelatin extraction.
 
@@ -37,8 +36,8 @@ Gelatin is hydrocolloidal; when warm, it provides a silky mouthfeel (viscosity).
 
 ## Keywords
 
-Collagen, Hydrolysis, Gelatin, Stock Making, Extraction, Protein, Viscosity, Thermal Energy, Conduction, Simmer, Pressure Cooker
+collagen, hydrolysis, gelatin, stock making, extraction, protein, viscosity, thermal energy, conduction, simmer, pressure cooker
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

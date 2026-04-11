@@ -5,7 +5,7 @@
 
 ---
 
-## **Technique Folio - [Title]**
+# **Technique Folio - [Title]**
 
 **Concept Definition** [1–2 sentences: what this technique is and why it matters to the cook. Lead with the practical impact, not the textbook definition.]
 
@@ -41,4 +41,4 @@
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

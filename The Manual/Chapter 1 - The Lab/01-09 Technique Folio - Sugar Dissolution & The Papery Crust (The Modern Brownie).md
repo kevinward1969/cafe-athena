@@ -1,5 +1,4 @@
-### **Technique Folio - Sugar Dissolution & The "Papery Crust"**
-
+# **Technique Folio - Sugar Dissolution & The "Papery Crust"**
 **Concept Definition** The "holy grail" of modern brownies—that glossy, crackly, tissue-thin top layer—is not a result of the recipe ratios alone, but of the **physical state of the sugar** when it enters the oven. If you dump ingredients together and bake, you get a dull, porous surface. If you manipulate the sugar correctly, you get the "skin."
 
 **The Science** To create the skin, two things must happen simultaneously: **Dissolution** and **Protein Migration**.
@@ -36,8 +35,8 @@
 
 ## Keywords
 
-Sugar Dissolution, Protein Migration, Thermal Energy, Mechanical Energy, Emulsification, Baking, Crusting, Glossy, Crackly, Pastry
+sugar dissolution, protein migration, thermal energy, mechanical energy, emulsification, baking, crusting, glossy, crackly, pastry
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+style: Technique Folio

@@ -1,13 +1,10 @@
 # **Technique Folio - Sodium Citrate (The Melting Salt)**
-
-### **Concept Definition**
-
+**Concept Definition**
 **Sodium Citrate** (Na₃C₆H₅O₇) is a salt derived from citric acid. In the culinary world, it is known as a **melting salt** or **emulsifying salt**.
 
 Its primary function is to allow hard, aged, or stubborn cheeses (like sharp Cheddar, Gruyère, or Pecorino) to melt into a perfectly smooth, glossy liquid without separating into oil and solids. It transforms any cheese into a sauce with the texture of "Velveeta" or commercial cheese dip, but with the complex flavor of the original artisan product.
 
-### **The Science**
-
+**The Science**
 Cheese is essentially an emulsion of dairy fat suspended in a mesh of water and protein (**Casein**). In solid cheese, this protein mesh is held together tightly by **Calcium ions**, which act like "glue" or structural columns.
 
 When you melt natural cheese:
@@ -24,8 +21,7 @@ When you melt natural cheese:
 * Sodium ions are weaker binders; they do not hold the casein proteins together tightly.
 * **Result:** The proteins relax and separate, floating freely in the liquid. They can now act as emulsifiers, holding the fat and water together in a stable, silky suspension.
 
-### **Practical Application**
-
+**Practical Application**
 To use Sodium Citrate effectively, you must dissolve it in your liquid *before* adding the cheese. It cannot work if sprinkled directly onto melting cheese.
 
 **The Golden Ratio:**
@@ -41,8 +37,7 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 
 200g × 0.03 = 6g Sodium Citrate.
 
-### **Practice Exercise: "Liquid Gold" (Modernist Nacho Cheese)**
-
+**Practice Exercise: "Liquid Gold" (Modernist Nacho Cheese)**
 **Goal:** Create a perfectly smooth cheese sauce using Extra Sharp Cheddar (a cheese that usually breaks instantly).
 
 **Components**
@@ -59,8 +54,7 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 4. **Finish:** Once all cheese is added, use an immersion blender for 10 seconds to ensure a perfect glossy texture.
 5. **Test:** Pour over chips or bread. Note that even as it cools, it does not separate; it simply firms up.
 
-## Glossary
-
+**Glossary**
 * **Casein:** A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
 * **Chelation:** The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
 * **Emulsion:** A stable mixture of two or more immiscible liquids, such as fat and water, where one liquid is dispersed as small droplets within the other.
@@ -69,10 +63,8 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 * **Emulsifying Salt:** A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
 * **Dissolve:** The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
 
-## Keywords
+**Keywords**
+melting salt, sodium citrate, cheese, emulsion, casein, calcium, chelation, food science, sauce, dairy
 
-Melting Salt, Sodium Citrate, Cheese, Emulsion, Casein, Calcium, Chelation, Food Science, Sauce, Dairy
-
-## Category
-
-cuisine: Global | style: Technique Folio
+**Category**
+style: Technique Folio

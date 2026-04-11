@@ -1,5 +1,4 @@
-## **Technique Folio - The Kitchen Cockpit (Station Management)**
-
+# **Technique Folio - The Kitchen Cockpit (Station Management)**
 **Concept Definition:** In a professional kitchen, your cutting board is not just a surface; it is your cockpit. "Mise en place" is often mistranslated as simply "ingredients prep," but its literal meaning is "putting in place." It is a philosophy of environmental control. Before you cook, you must build a system that reduces physical movement and cognitive load. If you have to walk across the kitchen to find the salt, your station is broken.
 
 **The Science: Cognitive Load & Thermodynamics**
@@ -67,13 +66,13 @@ At home, you likely do not have six different boards. Therefore, you must replac
 * **Maillard Reaction:** A non-enzymatic browning reaction between reducing sugars and amino acids, contributing significantly to flavor and aroma development during cooking.
 * **Proprioception:** The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
 * **Strict Hierarchy of Prep:** A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
-* **Biofilm:** The adherence of microorganisms to surfaces, forming a protective matrix that resists disruption by standard cleaning agents.
+ The adherence of microorganisms to surfaces, forming a protective matrix that resists disruption by standard cleaning agents.
 * **Tannins:** Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 
 ## Keywords
 
-Mise en place, Cognitive Load, Sanitation, Thermodynamics, Cutting Board, Workflow, Food Safety, Emulsion, Maillard Reaction, Station Management
+mise en place, cognitive load, sanitation, thermodynamics, cutting board, workflow, food safety, emulsion, maillard reaction, station management
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

@@ -1,5 +1,4 @@
-### **Technique Folio - Microbial Substrate Adaptation (Dormant Cultures Sourdough)**
-
+# **Technique Folio - Microbial Substrate Adaptation (Dormant Cultures Sourdough)**
 **Concept Definition:** A sourdough starter is not a single organism; it is a **Stable Symbiotic Culture of Bacteria and Yeast (SCOBY)**. The powder in your packet contains dormant isolates of specific strains—likely *Lactobacillus sanfranciscensis* and a companion yeast like *Candida milleri*—that define the "San Francisco" profile. The flour you choose is not just ingredients; it is the **substrate** (environment) in which these microbes must wake up, colonize, and reproduce.
 
 **The Science: Competitive Exclusion & Enzymatic Activity** To understand why the instructions explicitly specify All-Purpose Flour for the San Francisco variant, we must look at three biological factors:
@@ -38,8 +37,8 @@
 
 ## Keywords
 
-Sourdough, Microbial Culture, Fermentation, Wild Yeast, Lactic Acid, Acetic Acid, Flour, Symbiotic Culture, Enzyme, Starter
+sourdough, microbial culture, fermentation, wild yeast, lactic acid, acetic acid, flour, symbiotic culture, enzyme, starter
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

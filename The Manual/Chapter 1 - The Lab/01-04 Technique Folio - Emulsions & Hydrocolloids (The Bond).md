@@ -1,5 +1,4 @@
-## **Technique Folio - Emulsions & Hydrocolloids (The Bond)**
-
+# **Technique Folio - Emulsions & Hydrocolloids (The Bond)**
 **Concept Definition** In the kitchen, we are constantly trying to mix two things that hate each other: Water and Fat.
 
 * **An Emulsion** is the forced suspension of tiny droplets of one liquid inside another (e.g., oil droplets floating in vinegar).
@@ -59,8 +58,8 @@
 
 ## Keywords
 
-Emulsion, Hydrocolloid, Xanthan Gum, Lecithin, Vinaigrette, Mayonnaise, Hollandaise, Shear-Thinning, Fat-Water, Fermented
+emulsion, hydrocolloid, xanthan gum, lecithin, vinaigrette, mayonnaise, hollandaise, shear-thinning, fat-water, fermented
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

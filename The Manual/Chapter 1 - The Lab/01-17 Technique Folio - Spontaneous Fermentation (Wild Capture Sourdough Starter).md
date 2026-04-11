@@ -1,5 +1,4 @@
-### **Technique Folio - Spontaneous Fermentation (Wild Capture Sourdough Starter)**
-
+# **Technique Folio - Spontaneous Fermentation (Wild Capture Sourdough Starter)**
 **Concept Definition:** Unlike the packet you possess, which contains a monoculture (a single, specific strain of yeast and bacteria selected for stability), a "Wild" starter is a **polyculture**. You are creating a biological trap to capture whatever yeast and bacteria are currently living on the grain husks and in your kitchen air.
 
 **The Science: The "Bran Advantage"** To start a SCOBY from scratch, Whole Wheat and Rye are not just "okay"—they are **mandatory**. Here is why White Flour fails at this stage while Rye succeeds:
@@ -53,8 +52,8 @@
 
 ## Keywords
 
-Sourdough Starter, Fermentation, Wild Yeast, Bran, Rye Flour, Microbial Culture, Polyculture, pH, Amylase, Bacteria
+sourdough starter, fermentation, wild yeast, bran, rye flour, microbial culture, polyculture, ph, amylase, bacteria
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

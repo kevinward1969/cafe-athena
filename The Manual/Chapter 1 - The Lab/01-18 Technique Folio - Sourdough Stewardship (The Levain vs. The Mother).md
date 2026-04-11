@@ -1,5 +1,4 @@
-### **Technique Folio - Sourdough Stewardship (The Levain vs. The Mother)**
-
+# **Technique Folio - Sourdough Stewardship (The Levain vs. The Mother)**
 **Concept Definition:** The biggest mistake home bakers make is treating their sourdough starter as a single, static ingredient. It is not. You must distinguish between **The Mother** (your storage library) and **The Levain** (the active ingredient). Baking directly from a jar that has been sitting in the fridge for a week is the culinary equivalent of putting cold, old oil into a race car engine.
 
 **The Science: Acid Load & Proteolysis** To understand why we build a "Levain" (an off-shoot) before baking, we must look at acidity.
@@ -52,8 +51,8 @@
 
 ## Keywords
 
-Sourdough, Starter, Fermentation, Acidity, Proteolysis, Gluten, Levain, Mother, Dough, Yeast
+sourdough, starter, fermentation, acidity, proteolysis, gluten, levain, mother, dough, yeast
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio

@@ -1,5 +1,4 @@
-# Technique Folio - Sanitation & HACCP (The Defense)
-
+# **Technique Folio - Sanitation & HACCP (The Defense)**
 **Concept Definition:** In a professional kitchen, cooking is only half the job. The other half is Biological Defense. HACCP (Hazard Analysis Critical Control Point) is not just a regulatory checklist; it is a proactive system designed to identify where biological, chemical, or physical hazards are most likely to occur and stop them before they reach the plate.
 
 We do not simply "clean" to make things look shiny; we sanitize to destroy pathogens that are invisible to the naked eye.
@@ -58,8 +57,8 @@ We do not simply "clean" to make things look shiny; we sanitize to destroy patho
 
 ## Keywords
 
-Sanitation, HACCP, Cooling, Bacteria, Food Safety, Refrigeration, Binary Fission, Danger Zone, Temperature Control, Foodborne Illness
+sanitation, haccp, cooling, bacteria, food safety, refrigeration, binary fission, danger zone, temperature control, foodborne illness
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+style: Technique Folio
