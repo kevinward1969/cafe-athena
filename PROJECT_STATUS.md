@@ -41,8 +41,8 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 | Chapter | Type | Status |
 | :--- | :--- | :--- |
-| Chapter 1 - The Lab | Technique Folios (19) | Pending |
-| Chapter 2 - The Foundation | Technique Folios (7) | Pending |
+| Chapter 1 - The Lab | Technique Folios (19) | ✅ Complete (2026-04-10) |
+| Chapter 2 - The Foundation | Technique Folios (7) | ✅ Complete (2026-04-10) |
 | Chapter 3 - Garde Manger | Recipes | Pending |
 | Chapter 4 - The Mill | Recipes | Pending |
 | Chapter 5 - The Fishmonger | Recipes | Pending |
