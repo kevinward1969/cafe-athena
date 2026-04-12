@@ -1,8 +1,8 @@
 # Café Athena - Parisian Gnocchi (Pâte à Choux)
 
-## Light, herb-flecked dumplings that bridge the gap between pasta and pastry, featuring a crisp, butter-basted exterior and a cloud-like interior
+Light, herb-flecked dumplings that bridge the gap between pasta and pastry, featuring a crisp, butter-basted exterior and a cloud-like interior
 
-Yield: 4 servings | Prep: 30 min | Cook: 20 min | Total: ~50 min
+**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 20 min | **Total:** ~50 min
 
 **Headnote** Unlike their dense potato cousins, Parisian Gnocchi are built on *Pâte à Choux*, the same dough used for profiteroles and éclairs. Because the flour is pre-cooked in a liquid fat mixture (the *panade*), the starch granules gelatinize before the dumplings ever hit the boiling water. This results in a dumpling with superior structural integrity that puffs dramatically when seared, creating a texture that is simultaneously crispy and ethereal.
 
@@ -74,12 +74,6 @@ Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and 
 * **Saucing:** Unlike potato gnocchi which rely on sauce for flavor, these are rich in fat and cheese. They pair best with a simple Brown Butter & Sage sauce or a light Mornay.
 * **Texture Troubleshooting:** If your gnocchi dissolve in the water, you likely did not cook the *panade* long enough (Phase 1) or added too many eggs. The dough should hold its shape when piped.
 
-**Glossary**
-
-* **Panade:** A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry.
-* **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the mixture.
-* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
-
 ## Glossary
 
 * **Panade:** A liquid fat mixture, typically water and butter, used to hydrate flour and gelatinize starch in doughs like pâte à choux.
@@ -91,8 +85,8 @@ Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and 
 
 ## Keywords
 
-Pâte à Choux, Gnocchi, Dumplings, Pastry, Choux, Butter-basted, French, Egg, Cheese, Herbal, Seared
+pâte à choux, gnocchi, dumplings, pastry, choux, butter-basted, french, egg, cheese, herbal, seared
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Classical

@@ -2,7 +2,7 @@
 
 A perfectly smooth, aerated forcemeat topped with a ruby port wine gelée, using thermal precision to eliminate the "grainy" texture of traditional methods.
 
-**Yield:** 4–6 Ramekins (500 ml) | **Prep:** 40 min | **Cook:** 60 min | **Inactive:** 4–12 hr
+**Yield:** 4–6 Ramekins (500 ml) | **Prep:** 40 min | **Cook:** 60 min | **Inactive:** 4–12 hr | **Total:** ~6 hr
 
 ## Headnote
 
@@ -89,8 +89,8 @@ In a small saucepan, warm the **Port wine** and **sugar** until the sugar dissol
 
 ## Keywords
 
-Sous Vide, Chicken Liver, Mousse, Emulsion, Gelée, Port Wine, Fat-in-Water, Pâté, Thermal Precision, Forcemeat
+sous vide, chicken liver, mousse, emulsion, gelée, port wine, fat-in-water, pâté, thermal precision, forcemeat
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Modern

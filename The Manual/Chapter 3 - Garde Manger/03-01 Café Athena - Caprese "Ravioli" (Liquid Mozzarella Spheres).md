@@ -85,7 +85,7 @@ Place a thick slice of tomato on the plate. Gently rest one mozzarella sphere on
 
 ## Keywords
 
-Mozzarella, Spheres, Sodium Alginate, Italian, Emulsification, Viscosity, Modern, Antipasto, Liquid, Texture
+mozzarella, spheres, sodium alginate, italian, emulsification, viscosity, modern, antipasto, liquid, texture
 
 ## Category
 

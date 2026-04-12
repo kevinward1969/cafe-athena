@@ -86,4 +86,4 @@ root vegetables, roasting, whipping, butter, spice, turmeric, ginger, starch ret
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Modern

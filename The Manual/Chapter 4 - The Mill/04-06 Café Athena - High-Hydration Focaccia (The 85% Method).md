@@ -1,12 +1,12 @@
-**Café Athena - High-Hydration Focaccia (The 85% Method)**
+# Café Athena - High-Hydration Focaccia (The 85% Method)
 
 An airy, open-crumb flatbread that relies on hydration and time rather than mechanical kneading.
 
-Yield: 1 Half Sheet Pan (13"x18") | Prep: 30 min | Inactive: 18–24 hr | Cook: 22–25 min | Total: ~20–26 hr
+**Yield:** 1 Half Sheet Pan (13"x18") | **Prep:** 30 min | **Inactive:** 18–24 hr | **Cook:** 22–25 min | **Total:** ~20–26 hr
 
-**Headnote**
+## Headnote
 
-The hallmark of this bread is its 85% hydration level (85g water for every 100g flour). At this saturation point, standard kneading is impossible. Instead, we use time and gravity to organize the gluten network. By handling the dough gently, we preserve the gas bubbles created by fermentation, resulting in the signature "open crumb" structure. **Teaching Idea:** *The Coil Fold.* In high-hydration doughs, we do not "punch down." We lift and fold the dough over itself to align gluten strands without degassing the structure.
+The hallmark of this bread is its 85% hydration level (85g water for every 100g flour). At this saturation point, standard kneading is impossible. Instead, we use time and gravity to organize the gluten network. By handling the dough gently, we preserve the gas bubbles created by fermentation, resulting in the signature "open crumb" structure. **Teaching Idea: The Coil Fold.** In high-hydration doughs, we do not "punch down." We lift and fold the dough over itself to align gluten strands without degassing the structure.
 
 **Mise en Place (Action Checklist)**
 
@@ -66,13 +66,6 @@ Sprinkle with **Flaky Sea Salt** and toppings (if using). Bake for **22–25 min
 * **The Brine Trick:** For an even saltier, crispier crust, dissolve 5g salt in 20g water and pour this brine over the dough right before dimpling (Salamoia).
 * **Storage:** Focaccia goes stale quickly due to the high surface area. Eat within 6 hours or freeze immediately.
 
-**Glossary**
-
-* **Autolyse:** A rest period for flour and water only. It jumpstarts gluten development and enzyme activity without the interference of salt or yeast.
-* **Hydration:** The ratio of water to flour by weight. 85% hydration means 850g water for every 1000g flour.
-* **Retard:** Placing dough in a cold environment (fridge) to slow fermentation.
-* **Pincage:** A mixing technique involving squeezing dough through fingers to incorporate ingredients evenly.
-
 ## Glossary
 
 * **Hydration:** The total water content of the dough, typically expressed as a percentage of flour weight, significantly impacts dough structure and extensibility.
@@ -85,8 +78,8 @@ Sprinkle with **Flaky Sea Salt** and toppings (if using). Bake for **22–25 min
 
 ## Keywords
 
-Focaccia, Hydration, Dough, Gluten, Fermentation, Yeast, Olive Oil, Salt, Bread Flour, Time
+focaccia, hydration, dough, gluten, fermentation, yeast, olive oil, salt, bread flour, coil fold, open crumb
 
 ## Category
 
-cuisine: Global | style: Weeknight
+cuisine: Italian | style: Weeknight

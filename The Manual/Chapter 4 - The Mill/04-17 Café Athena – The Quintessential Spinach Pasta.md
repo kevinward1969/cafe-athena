@@ -165,8 +165,8 @@ Add water to your pot — no salt yet. Cover and bring to a full rolling boil. O
 
 ## Keywords
 
-Pasta, Spinach, Egg Pasta, Sauté, Purée, Gluten Development, Chlorophyll, Hydration, Italian, Mineral, Green
+pasta, spinach, egg pasta, sauté, purée, gluten development, chlorophyll, hydration, italian, mineral, green
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

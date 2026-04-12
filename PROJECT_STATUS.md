@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-10
+Last Updated: 2026-04-11
 
 ## 🎯 Active Development
 
@@ -43,8 +43,8 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 | :--- | :--- | :--- |
 | Chapter 1 - The Lab | Technique Folios (19) | ✅ Complete (2026-04-10) |
 | Chapter 2 - The Foundation | Technique Folios (7) | ✅ Complete (2026-04-10) |
-| Chapter 3 - Garde Manger | Recipes | Pending |
-| Chapter 4 - The Mill | Recipes | Pending |
+| Chapter 3 - Garde Manger | Recipes | ✅ Complete (2026-04-11) |
+| Chapter 4 - The Mill | Recipes | ✅ Complete (2026-04-11) |
 | Chapter 5 - The Fishmonger | Recipes | ✅ Complete (2026-04-10) |
 | Chapter 6 - The Poulterer | Recipes | ✅ Complete (2026-04-10) |
 | Chapter 7 - The Butcher | Recipes | ✅ Complete (2026-04-10) |

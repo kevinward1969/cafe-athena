@@ -1,10 +1,12 @@
 # Café Athena - 80/20 Poolish-Sourdough Baguettes
 
-## A hybrid-leavened master recipe combining the nutty sweetness of poolish with the structure of sourdough
+A hybrid-leavened master recipe combining the nutty sweetness of poolish with the structure of sourdough
 
-Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
+**Yield:** 4 baguettes | **Prep:** 45 min | **Inactive:** 24+ hr | **Cook:** 25 min
 
-**Headnote:** This recipe represents the pinnacle of flavor and texture, utilizing a hybrid leavening strategy. The poolish contributes extensibility and a creamy, nutty flavor, while the sourdough adds strength and acidity — keeping quality. This method utilizes a long, cold retard. **Teaching Idea:** Cooling the dough to 38°F/4°C slows yeast activity significantly while enzymes (protease and amylase) continue breaking down proteins and starches. **Why:** This results in a blistered crust and a complex, caramelized flavor profile that cannot be achieved at room temperature.
+## Headnote
+
+This recipe represents the pinnacle of flavor and texture, utilizing a hybrid leavening strategy. The poolish contributes extensibility and a creamy, nutty flavor, while the sourdough adds strength and acidity — keeping quality. This method utilizes a long, cold retard. **Teaching Idea: Cold Retardation.** Cooling the dough to 38°F/4°C slows yeast activity significantly while enzymes (protease and amylase) continue breaking down proteins and starches. **Why:** This results in a blistered crust and a complex, caramelized flavor profile that cannot be achieved at room temperature.
 
 **Mise en Place (Action Checklist)**
 
@@ -17,18 +19,18 @@ Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
 
 **Preferments (Night Before)**
 
-* 150 g (1 ¼ cups) Bread flour (Poolish)
-* 150 ml (⅔ cup) Water, room temperature (Poolish)
-* 0.5 g (1 pinch) Instant yeast (Poolish)
-* 110 g (¼ cup) Mature sourdough starter (100% hydration)
+* 150 g (1 ¼ cups) bread flour (Poolish)
+* 150 ml (⅔ cup) water, room temperature (Poolish)
+* 0.5 g (1 pinch) instant yeast (Poolish)
+* 110 g (¼ cup) mature sourdough starter (100% hydration)
 
 **Main Dough**
 
-* 400 g (3 ¼ cups) Bread flour
-* 240 ml (1 cup) Water, warm (90°F/32°C)
-* 10 g (1 tbsp) Diastatic malt powder
-* 3 g (1 tsp) Instant yeast
-* 11 g (2 tsp) Diamond Crystal Kosher Salt
+* 400 g (3 ¼ cups) bread flour
+* 240 ml (1 cup) water, warm (90°F/32°C)
+* 10 g (1 tbsp) diastatic malt powder
+* 3 g (1 tsp) instant yeast
+* 11 g (2 tsp) Diamond Crystal kosher salt
 
 **Method**
 
@@ -55,14 +57,6 @@ Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
 * **Long Term Storage (Freezing):** Baguettes freeze exceptionally well. Wrap the cooled loaf tightly in plastic wrap, then a layer of foil. Freeze for up to 1 month.
 * **The Revival (Re-Warming):** To refresh a day-old or frozen baguette, run the loaf quickly under tap water (yes, wet the crust) and place directly into a 350°F/175°C oven for 5–7 minutes (10–12 minutes if frozen). The water turns to steam, crisping the crust while the heat refreshes the interior starch structure.
 
-**Glossary**
-
-* **Poolish:** A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
-* **Retard:** Placing dough in a cold environment to slow fermentation, allowing flavor acids to develop without over-proofing.
-* **Couche:** A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
-* **Diastatic Malt:** Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
-* **Lame:** A double-edged razor blade mounted on a handle, used for scoring bread.
-
 ## Glossary
 
 * **Poolish:** A pre-ferment of flour and water, inoculated with yeast, used to develop flavor and texture in bread dough.
@@ -74,8 +68,8 @@ Yield: 4 baguettes | Prep: 45 min | Inactive: 24+ hr | Cook: 25 min
 
 ## Keywords
 
-Sourdough, Poolish, Baguettes, Fermentation, Gluten Development, Dough, Baking Steel, Steam, Starter, Hybrid Leavening, Crust
+sourdough, poolish, baguettes, fermentation, gluten development, dough, baking steel, steam, starter, hybrid leavening, crust
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Modern

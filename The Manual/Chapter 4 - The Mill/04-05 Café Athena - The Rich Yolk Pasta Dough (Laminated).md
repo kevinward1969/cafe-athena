@@ -1,10 +1,12 @@
 # Café Athena - The "Rich Yolk" Pasta Dough (Laminated)
 
-## A luxurious, silk-textured dough utilizing high-fat yolk hydration and structural lamination
+A luxurious, silk-textured dough utilizing high-fat yolk hydration and structural lamination
 
-Yield: ~450 g dough (4 servings) | Prep: 45 min | Inactive: 30 min | Total: ~1 hr 15 min
+**Yield:** ~450 g dough (4 servings) | **Prep:** 45 min | **Inactive:** 30 min | **Total:** ~1 hr 15 min
 
-**Headnote** Standard pasta dough relies on water to build a chewy gluten network. By replacing that water almost entirely with egg yolks, we introduce lipids that coat the flour proteins, inhibiting tight bonding. This results in a dough with high "plasticity"—it is silky and tender rather than rubbery. **Teaching Idea: Lamination.** Just like puff pastry, we "book fold" the pasta sheets during rolling. This aligns the gluten strands longitudinally, giving the noodle structural integrity (a "snap") despite its high fat content.
+## Headnote
+
+Standard pasta dough relies on water to build a chewy gluten network. By replacing that water almost entirely with egg yolks, we introduce lipids that coat the flour proteins, inhibiting tight bonding. This results in a dough with high "plasticity" — it is silky and tender rather than rubbery. **Teaching Idea: Lamination.** Just like puff pastry, we "book fold" the pasta sheets during rolling. This aligns the gluten strands longitudinally, giving the noodle structural integrity (a "snap") despite its high fat content.
 
 **Mise En Place (Action Checklist)**
 
@@ -43,12 +45,6 @@ Yield: ~450 g dough (4 servings) | Prep: 45 min | Inactive: 30 min | Total: ~1 h
 * **Leftover Whites:** You will have roughly 7–8 egg whites leftover. Save them for *Chapter 9: The Pâtissier* (Meringues or Macarons) or for clarifying stocks in *Chapter 10*.
 * **Drying:** Because this dough is egg-rich, it oxidizes (turns gray) quickly. Cook immediately after cutting or freeze in nests dusted with semolina.
 
-**Glossary**
-
-* **"00" Flour:** An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
-* **Plasticity:** The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly.
-* **Lamination:** The process of folding dough to create layers. In pasta, this is micro-layering for texture rather than the macro-layering seen in croissants.
-
 ## Glossary
 
 * **“00” Flour:** An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
@@ -60,8 +56,8 @@ Yield: ~450 g dough (4 servings) | Prep: 45 min | Inactive: 30 min | Total: ~1 h
 
 ## Keywords
 
-Pasta Dough, Lamination, Egg Yolk, Gluten Inhibition, Fat Hydration, Emulsification, Italian, Technique, Pastry, Silk Texture
+pasta dough, lamination, egg yolk, gluten inhibition, fat hydration, emulsification, italian, technique, pastry, silk texture
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

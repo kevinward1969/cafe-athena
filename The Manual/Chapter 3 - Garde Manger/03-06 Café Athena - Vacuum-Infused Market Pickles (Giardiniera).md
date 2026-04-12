@@ -2,7 +2,7 @@
 
 A rapid-infusion pickle that retains the raw "snap" of fresh vegetables while driving acid and flavor deep into the cellular structure using atmospheric pressure.
 
-**Yield:** 1 liter (1 quart) | **Prep:** 25 min | **Processing:** 5 min | **Inactive:** 20 min
+**Yield:** 1 liter (1 quart) | **Prep:** 25 min | **Cook:** 5 min | **Inactive:** 20 min | **Total:** ~50 min
 
 ## Headnote
 
@@ -87,8 +87,8 @@ Let the bag sit sealed for **20 minutes**.
 
 ## Keywords
 
-Pickling, Vacuum Infusion, Vegetables, Brine, Quick Pickle, Serrano Peppers, Jalapeño Peppers, Kosher Salt, Acid, Culinary Technique
+pickling, vacuum infusion, vegetables, brine, quick pickle, serrano peppers, jalapeño peppers, kosher salt, acid, culinary technique
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Modern

@@ -1,15 +1,17 @@
-**Café Athena - Gnocchi 201 (The Master Doughs)**
+# Café Athena - Gnocchi 201 (The Master Doughs)
 
 A comparative study of starch structures: Potato (Tuber), Ricotta (Protein), and Semolina (Durum).
 
-Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | Cook: Varied
+**Yield:** 3 distinct batches (~4 servings each) | **Prep:** 90 min | **Inactive:** 1 hr | **Cook:** Varied
 
-**Headnote:** This module moves beyond the specific recipe to the fundamental mechanics of the dumpling. We explore three distinct binding mechanisms: the retrograded starch of the baked potato, the protein coagulation of ricotta (often called "gnudi"), and the hot-swelling gelatinization of semolina. **Teaching Idea:** **Moisture Management.** The enemy of a light dumpling is excess water, which requires excess flour to bind, resulting in a dense, chewy texture. Every technique here—baking the potatoes, pressing the cheese, cooking the semolina paste—is designed to control water content before the flour touches the board.
+## Headnote
+
+This module moves beyond the specific recipe to the fundamental mechanics of the dumpling. We explore three distinct binding mechanisms: the retrograded starch of the baked potato, the protein coagulation of ricotta (often called "gnudi"), and the hot-swelling gelatinization of semolina. **Teaching Idea:** **Moisture Management.** The enemy of a light dumpling is excess water, which requires excess flour to bind, resulting in a dense, chewy texture. Every technique here—baking the potatoes, pressing the cheese, cooking the semolina paste—is designed to control water content before the flour touches the board.
 
 **Mise En Place (Action Checklist)**
 
 * **Drain the Ricotta:** Place ricotta in a cheesecloth-lined sieve or tofu press. Weight it down and refrigerate for at least **1 hour** to extract whey.
-* **Roast the Potatoes:** Preheat oven to 375°F/190°C. Poke holes in the potatoes. Bake directly on the rack until tender (approx. 1 hour).
+* **Prep the Potatoes:** Poke holes in the potatoes with a fork. (They will be roasted in Phase 1 of the Method.)
 * **Prepare the Tools:** Set up a potato ricer (essential), a bench scraper, and rimmed baking sheets dusted with semolina or flour.
 * **Sanitize:** Clean a large work surface (wood or marble) for kneading and rolling.
 
@@ -44,7 +46,7 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 
 **Phase 1: The Potato Dough (Method: Moisture Evaporation)**
 
-1. **Process the Starch:** While the baked potatoes are still hot, peel them carefully (use a towel to hold). Immediately pass them through a ricer onto your work surface.
+1. **Roast the Potatoes:** Preheat oven to 375°F/190°C. Place the poked potatoes directly on the oven rack and bake until fully tender when pierced with a knife (approx. 1 hour). **Process the Starch:** While the baked potatoes are still hot, peel them carefully (use a towel to hold). Immediately pass them through a ricer onto your work surface.
    * *Why: Ricing hot maximizes steam release. If they cool, the starch becomes gummy and sticky.*
 2. **Cool and Mix:** Spread the riced potato into a thin layer to let steam escape. Once warm to the touch (not hot), drizzle the egg yolk and sprinkle the flour and salt over the top.
 3. **Cut and Fold:** Use a bench scraper to "cut" the flour into the potato. Do not stir. Once a shaggy dough forms, gently fold it over itself by hand.
@@ -110,14 +112,6 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 * **Gnocchi Ripieni (Stuffed):** A larger, flattened pillow folded over a filling (cheese, mushroom, speck). Bulges in the center; sealed edges.
 * **Pici di Patate:** The linear gnocchi. The dough is rolled into thick, worm-like noodles rather than cut into segments. Changes the "chew" completely.
 
-[ref:04-11a | Gnocchi shape guide]
-
-**Glossary**
-
-* **Ricer:** A kitchen tool that extrudes food through small holes (like a giant garlic press), creating a fluffy texture without overworking the starch.
-* **Gelatinization:** The process in which starch granules absorb water and swell when heated, thickening the liquid (seen in Phase 3).
-* **Semolina:** Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
-
 ## Glossary
 
 * **Retrogradation:** The process by which starch molecules re-associate, creating a firmer, more stable structure in baked potatoes, crucial for gnocchi dough cohesion.
@@ -130,8 +124,8 @@ Yield: 3 Distinct Batches (~4 servings each) | Prep: 90 min | Inactive: 1 hr | C
 
 ## Keywords
 
-Gnocchi, Potato, Ricotta, Semolina, Starch, Dough, Pasta, Baking, Moisture Management, Texture
+gnocchi, potato, ricotta, semolina, starch, dough, pasta, baking, moisture management, texture
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

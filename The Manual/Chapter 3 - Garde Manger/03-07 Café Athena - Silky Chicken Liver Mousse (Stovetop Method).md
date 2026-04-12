@@ -2,7 +2,7 @@
 
 A classic bistro spread achieved through careful pan-roasting and emulsification, requiring no specialized machinery.
 
-**Yield:** 4–6 Ramekins (500 ml) | **Prep:** 40 min | **Cook:** 15 min | **Inactive:** 4–12 hr
+**Yield:** 4–6 Ramekins (500 ml) | **Prep:** 40 min | **Cook:** 15 min | **Inactive:** 4–12 hr | **Total:** ~5 hr
 
 ## Headnote
 
@@ -88,8 +88,8 @@ In a small saucepan, warm the **Port wine** and **sugar** until the sugar dissol
 
 ## Keywords
 
-Chicken Liver, Mousse, Emulsification, Pan-roasting, Butter, Cognac, Gelatin, Pâté, Maillard Reaction, Stovetop
+chicken liver, mousse, emulsification, pan-roasting, butter, cognac, gelatin, pâté, maillard reaction, stovetop
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Classical

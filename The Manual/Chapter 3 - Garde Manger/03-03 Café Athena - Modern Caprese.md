@@ -2,7 +2,7 @@
 
 A textural deconstruction featuring tomato caviar and balsamic fluid gel.
 
-**Yield:** 4 servings | **Prep:** 45 min | **Inactive:** 1 hr | **Cook:** 15 min
+**Yield:** 4 servings | **Prep:** 45 min | **Inactive:** 1 hr | **Cook:** 15 min | **Total:** ~2 hr
 
 ## Headnote
 
@@ -96,8 +96,8 @@ Pipe a swoosh or dots of balsamic gel onto the plate. Arrange torn mozzarella an
 
 ## Keywords
 
-Spherification, Tomato, Balsamic, Mozzarella, Sodium Alginate, Calcium Chloride, Gel, Caviar, Italian, Deconstruction
+spherification, tomato, balsamic, mozzarella, sodium alginate, calcium chloride, gel, caviar, italian, deconstruction
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

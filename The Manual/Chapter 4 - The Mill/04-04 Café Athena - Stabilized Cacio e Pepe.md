@@ -1,53 +1,53 @@
-# **Café Athena - Stabilized Cacio e Pepe**
+# Café Athena - Stabilized Cacio e Pepe
 
-**The Roman classic, perfected with modernist chemistry for an unbreakable emulsion.** **Yield:** 2 servings | **Prep:** 10 min | **Cook:** 15 min | **Total:** 25 min
+The Roman classic, perfected with modernist chemistry for an unbreakable emulsion.
 
-### **Overview**
+**Yield:** 2 servings | **Prep:** 10 min | **Cook:** 15 min | **Total:** 25 min
 
-This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Traditional recipes rely on pasta starch and luck to emulsify the cheese. We remove the luck by using Sodium Citrate, a "melting salt" that chelates calcium ions in the cheese, preventing the proteins from tightening and separating. The result is a texture indistinguishable from the classic, but with bulletproof stability. **Teaching Idea:** **Protein Modification via Chelating Salts.** How Sodium Citrate relaxes casein proteins to allow oil and water to mix permanently.
+## Headnote
 
-### **Mise en Place (Action Checklist)**
+This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Traditional recipes rely on pasta starch and luck to emulsify the cheese. We remove the luck by using Sodium Citrate, a "melting salt" that chelates calcium ions in the cheese, preventing the proteins from tightening and separating. The result is a texture indistinguishable from the classic, but with bulletproof stability. **Teaching Idea: Protein Modification via Chelating Salts.** How Sodium Citrate relaxes casein proteins to allow oil and water to mix permanently.
+
+## Mise en Place (Action Checklist)
 
 * **Finely grate** the Pecorino Romano (use a Microplane for best melting).
 * **Crush** whole peppercorns (mortar and pestle is best for jagged, coarse distinct bits).
 * **Weigh** the Sodium Citrate precisely (a micro-scale is recommended).
 * **Bring** a medium pot of salted water to a boil.
 
-### **Ingredients**
+## Ingredients
 
 **The Sauce Base**
 
 * 100 g (3.5 oz) Pecorino Romano, finely grated
-* 5 g (1 tsp) Whole black peppercorns
+* 5 g (1 tsp) whole black peppercorns
 * 4 g (¾ tsp) Sodium Citrate
-* 60 ml (¼ cup) Water (or milk for extra richness)
-* 15 ml (1 tbsp) Neutral oil or butter (optional, for gloss)
+* 60 ml (¼ cup) water (or milk for extra richness)
+* 15 ml (1 tbsp) neutral oil or butter (optional, for gloss)
 
 **The Pasta**
 
-* 250 g (8.8 oz) Spaghetti, Bucatini, or Tonnarelli
-* Salt (for pasta water)
+* 250 g (8.8 oz) spaghetti, bucatini, or tonnarelli
+* salt (for pasta water)
 
-### **Method**
+## Method
 
-**1. Bloom the Pepper.** In a dry skillet or sauté pan over medium heat, toast the crushed peppercorns for 1–2 minutes until highly aromatic. Add a splash of water (about 30ml) to stop the cooking and create a "pepper tea." Set aside. **Why:** Toasting releases the essential oils (piperine), making the pepper flavor complex rather than just spicy.
+**Phase 1: Bloom the Pepper.** In a dry skillet or sauté pan over medium heat, toast the crushed peppercorns for 1–2 minutes until highly aromatic. Add a splash of water (about 30ml) to stop the cooking and create a "pepper tea." Set aside. **Why:** Toasting releases the essential oils (piperine), making the pepper flavor complex rather than just spicy.
 
-**2. Construct the Cheese Base** In a small saucepan, combine the 60ml water (or milk) and the Sodium Citrate. Bring to a simmer to dissolve the salt. Gradually whisk in the grated Pecorino a handful at a time. **Why:** The citrate needs to be dissolved in the liquid *before* it touches the cheese to effectively interact with the proteins.
+**Phase 2: Construct the Cheese Base.** In a small saucepan, combine the 60ml water (or milk) and the Sodium Citrate. Bring to a simmer to dissolve the salt. Gradually whisk in the grated Pecorino a handful at a time. **Why:** The citrate needs to be dissolved in the liquid *before* it touches the cheese to effectively interact with the proteins.
 
-**3. Emulsify** Continue whisking the cheese mixture over very low heat until completely smooth. It should look like a thick fondue or queso. Remove from heat. **Visual Cue:** The sauce will appear glossy and uniform. If it looks too thick, add 1 tsp of water. It will *not* separate thanks to the citrate.
+**Phase 3: Emulsify.** Continue whisking the cheese mixture over very low heat until completely smooth. It should look like a thick fondue or queso. Remove from heat. **Visual Cue:** The sauce will appear glossy and uniform. If it looks too thick, add 1 tsp of water. It will *not* separate thanks to the citrate.
 
-**4. Cook the Pasta** Boil the pasta in salted water. Undercook it by 2 minutes (it should have a raw "bone" in the center). Reserve 1 cup of starchy pasta water.
+**Phase 4: Cook the Pasta.** Boil the pasta in salted water. Undercook it by 2 minutes (it should have a raw "bone" in the center). Reserve 1 cup of starchy pasta water.
 
-**5. The Marriage (Mantecatura)** Transfer the pasta directly into the skillet with the toasted pepper. Pour the cheese base over the pasta. Toss vigorously over medium heat, adding splashes of reserved pasta water as needed to coat the strands. **Why:** Finishing the pasta in the sauce allows it to absorb the flavor and shed surface starch, thickening the sauce further.
+**Phase 5: The Marriage (Mantecatura).** Transfer the pasta directly into the skillet with the toasted pepper. Pour the cheese base over the pasta. Toss vigorously over medium heat, adding splashes of reserved pasta water as needed to coat the strands. **Why:** Finishing the pasta in the sauce allows it to absorb the flavor and shed surface starch, thickening the sauce further.
 
-**6. Plating** Twist the pasta onto warm plates. Top with extra fresh cracked pepper and a dusting of Pecorino. Serve immediately.
+**Phase 6: Plating.** Twist the pasta onto warm plates. Top with extra fresh cracked pepper and a dusting of Pecorino. Serve immediately.
 
-### **Glossary**
+## Chef's Notes / Variations
 
-* **Sodium Citrate:** A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
-* **Chelate:** The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
-* **Bloom:** Heating spices in fat or a dry pan to release volatile aromatic oils.
-* **Mantecatura:** Italian term for the vigorous tossing of pasta with fat and cheese to create a creamy emulsion.
+* **Why not just use starch?** Traditional Cacio e Pepe relies entirely on pasta starch to emulsify the cheese. This works — when it works. The sodium citrate method produces identical results every single time, regardless of humidity, pasta brand, or starch concentration.
+* **Sodium Citrate Source:** Available at specialty food stores or online. It is inexpensive and shelf-stable. A small bag lasts months.
 
 ## Glossary
 
@@ -56,13 +56,12 @@ This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Tr
 * **Bloom:** Heating spices in fat or a dry pan to release volatile aromatic oils.
 * **Mantecatura:** Italian term for the vigorous tossing of pasta with fat and cheese to create a creamy emulsion.
 * **Casein:** A family of phosphoproteins that constitute the major proteins in milk, and are the primary component of cheese.
-* **Fondue:** A rich, slowly melting cheese sauce, often used as a base for sauces or for dipping.
 * **Emulsifier:** A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
 
 ## Keywords
 
-Cacio e Pepe, Emulsification, Cheese, Pasta, Sodium Citrate, Pepper, Italian, Molecular Gastronomy, Technique, Modern Cuisine
+cacio e pepe, emulsification, cheese, pasta, sodium citrate, pepper, italian, molecular gastronomy, technique, modern cuisine
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

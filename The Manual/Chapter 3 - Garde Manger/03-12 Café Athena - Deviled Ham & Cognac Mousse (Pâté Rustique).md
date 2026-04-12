@@ -76,8 +76,8 @@ Remove from the refrigerator 15 minutes before serving to allow the fats to soft
 
 ## Keywords
 
-Deviled Ham, Mousse, Emulsification, Cognac, Pâté, Fat Suspension, Mechanical Emulsification, Cream Cheese, Butter, Pink Peppercorns
+deviled ham, mousse, emulsification, cognac, pâté, fat suspension, mechanical emulsification, cream cheese, butter, pink peppercorns
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Rustic

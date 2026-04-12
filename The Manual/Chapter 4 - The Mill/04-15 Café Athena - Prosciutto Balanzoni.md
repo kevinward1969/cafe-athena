@@ -6,7 +6,7 @@ Vibrant emerald pasta from Bologna, featuring a silky ricotta and Prosciutto di 
 
 ---
 
-### **Headnote**
+## Headnote
 
 Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their oversized shape and deep green hue. By puréeing the spinach directly into the eggs rather than folding in chopped leaves, we achieve a perfectly homogenous, silk-like dough that handles with professional precision.
 
@@ -14,7 +14,7 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ---
 
-### **Mise En Place**
+## Mise En Place
 
 * Finely mince the Prosciutto di Parma into a paste-like consistency.
 * Strain the whole-milk ricotta through a fine-mesh sieve to remove excess whey.
@@ -24,7 +24,7 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ---
 
-### **Ingredients**
+## Ingredients
 
 **The Verde Pasta Dough**
 
@@ -49,7 +49,7 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ---
 
-### **Method**
+## Method
 
 **Phase 1: The Emerald Base**
 
@@ -77,12 +77,6 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ---
 
-### **Glossary**
-
-* **Beurre Noisette:** "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
-* **Farcia:** A professional term for a fine pasta stuffing or emulsified meat filling.
-* **Nappé:** The consistency where a sauce coats the back of a spoon and a clear line remains when a finger is drawn through it.
-
 ## Glossary
 
 * **Beurre Noisette:** Butter subjected to Maillard reaction, resulting in a nutty aroma and browned appearance.
@@ -95,8 +89,8 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ## Keywords
 
-Pasta, Spinach, Prosciutto, Ricotta, Egg, Butter, Parmesan, Italian, Hand-Kneading, Emulsion
+pasta, spinach, prosciutto, ricotta, egg, butter, parmesan, italian, hand-kneading, emulsion, stuffed pasta
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Fine Dining

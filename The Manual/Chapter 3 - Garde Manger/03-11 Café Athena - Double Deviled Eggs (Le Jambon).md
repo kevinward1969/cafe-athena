@@ -78,7 +78,7 @@ Transfer the mousse into a piping bag fitted with a star tip (or a zip-top bag w
 
 ## Keywords
 
-Deviled Eggs, egg, mayonnaise, Dijon mustard, smoked paprika, deviled ham, cornichon, pickling, emulsification, French, weeknight, garde manger
+deviled eggs, egg, mayonnaise, dijon mustard, smoked paprika, deviled ham, cornichon, pickling, emulsification, french, weeknight, garde manger
 
 ## Category
 

@@ -123,8 +123,8 @@ Add your pasta and cook per the chart below. Fresh pasta cooks fast — stay at 
 
 ## Keywords
 
-Egg Pasta, Italian, Gluten Development, Dough, Flour, Pasta, Emulsification, Technique, Rolling, Hand Mixing
+egg pasta, italian, gluten development, dough, flour, pasta, lamination, technique, rolling, hand mixing
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Modern

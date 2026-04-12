@@ -1,10 +1,12 @@
-**Café Athena - Pasta e Patate (Napoli Style)**
+# Café Athena - Pasta e Patate (Napoli Style)
 
 Creamy, one-pot comfort dish featuring smoked cheese and dual-texture potatoes.
 
-Yield: 4 Servings | Prep: 30 min | Cook: 35 min | Total: ~1 hr 5 min
+**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 35 min | **Total:** ~1 hr 5 min
 
-**Headnote** This dish relies on a dual-texture potato technique: finely minced potatoes dissolve to thicken the broth, while larger cubes provide bite. By cooking the pasta directly in this potato-starch-rich liquid ("risotto style"), we retain all the wheat starch, creating a creamy emulsion without using heavy cream. The finish relies on *Mantecatura*—vigorous agitation with cheese and fat—to bind the smoked mozzarella into a glossy sauce.
+## Headnote
+
+This dish relies on a dual-texture potato technique: finely minced potatoes dissolve to thicken the broth, while larger cubes provide bite. By cooking the pasta directly in this potato-starch-rich liquid ("risotto style"), we retain all the wheat starch, creating a creamy emulsion without using heavy cream. The finish relies on *Mantecatura*—vigorous agitation with cheese and fat—to bind the smoked mozzarella into a glossy sauce.
 
 **Mise en Place (Action Checklist)**
 
@@ -40,15 +42,15 @@ Yield: 4 Servings | Prep: 30 min | Cook: 35 min | Total: ~1 hr 5 min
 
 **Phase 1: The Soffritto** Heat the olive oil in a heavy-bottomed Dutch oven over medium heat. Add the onion, carrot, and celery. Season with the salt. Sauté for 8–10 minutes until the vegetables are very soft and translucent, but not browned.
 
-Why: We need to sweat the moisture out of the aromatics to concentrate flavor before introducing the starch.
+**Why:** We need to sweat the moisture out of the aromatics to concentrate flavor before introducing the starch.
 
 **Phase 2: The Potato Fond** Add the **minced** portion of the potatoes and the basil leaves to the pot. Cook for 3–5 minutes, stirring constantly, until the potato mush begins to stick to the bottom. Add the **cubed** potatoes and the parmesan rind (if using). Pour in enough hot vegetable stock to cover the mixture by 1 inch (approx. 700ml). Bring to a boil, then lower to a simmer. Cook for 15 minutes. *Sensory Cue: The minced potatoes should have disintegrated into the broth, turning it opaque and creamy.*
 
 **Phase 3: The Pasta Risottata** Add the pasta directly to the simmering potato soup. If the liquid does not cover the pasta, add the remaining hot stock in ladles (just like risotto). Simmer, stirring frequently to prevent sticking, until the pasta is *al dente* (check package time, usually 8–10 minutes).
 
-Why: Stirring releases starch from the pasta, which binds with the potato starch to create a thick, velvety suspension.
+**Why:** Stirring releases starch from the pasta, which binds with the potato starch to create a thick, velvety suspension.
 
-**Phase 4: The Mantecatura (Emulsification)** Remove the pot from the heat. Let it rest undisturbed for 2 minutes. Why: If you add cheese to boiling liquid, the fats will separate and become oily. Dropping the temperature slightly ensures a smooth emulsion.
+**Phase 4: The Mantecatura (Emulsification)** Remove the pot from the heat. Let it rest undisturbed for 2 minutes. **Why:** If you add cheese to boiling liquid, the fats will separate and become oily. Dropping the temperature slightly ensures a smooth emulsion.
 
 Remove the parmesan rind and basil leaves. Add the cubed smoked mozzarella, grated Parmesan, and plenty of black pepper. Stir vigorously with a wooden spoon until the cheeses melt and the sauce creates a "slapping" sound against the sides of the pot. Serve immediately.
 
@@ -72,7 +74,7 @@ Remove the parmesan rind and basil leaves. Add the cubed smoked mozzarella, grat
 
 ## Keywords
 
-Pasta, Potatoes, Smoked Mozzarella, Italian, Creamy, Emulsification, Risotto, Mantecatura, Comfort Food, One-Pot
+pasta, potatoes, smoked mozzarella, italian, creamy, emulsification, risotto, mantecatura, comfort food, one-pot
 
 ## Category
 

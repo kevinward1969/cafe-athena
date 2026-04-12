@@ -2,7 +2,7 @@
 
 Rich, umami-forward spread stabilized with gelatin and lightened with Chantilly.
 
-**Yield:** 6–8 servings | **Prep:** 45 min | **Inactive:** 4 hr | **Cook:** 20 min
+**Yield:** 6–8 servings | **Prep:** 45 min | **Inactive:** 4 hr | **Cook:** 20 min | **Total:** ~5 hr 5 min
 
 ## Headnote
 

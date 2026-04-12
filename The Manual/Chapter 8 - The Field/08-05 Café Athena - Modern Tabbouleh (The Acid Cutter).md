@@ -2,7 +2,7 @@
 
 A high-acidity grain salad designed to cleanse the palate against rich, fatty meats.
 
-**Yield:** 4 servings | **Prep:** 20 min | **Hydration:** 30 min | **Total:** 50 min
+**Yield:** 4 servings | **Prep:** 20 min | **Inactive:** 30 min | **Total:** 50 min
 
 ---
 
@@ -84,4 +84,4 @@ bulgur, lemon juice, tomato water, cucumber, parsley, mint, acid hydration, grai
 
 ## Category
 
-cuisine: Mediterranean | style: Technique Folio
+cuisine: Mediterranean | style: Modern

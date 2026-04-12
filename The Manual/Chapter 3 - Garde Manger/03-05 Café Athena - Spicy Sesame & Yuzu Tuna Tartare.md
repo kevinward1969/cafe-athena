@@ -2,7 +2,7 @@
 
 Pristine raw tuna dressed in a vibrant chili-emulsion, served with avocado and crispy shallots.
 
-**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 0 min
+**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 0 min | **Total:** 30 min
 
 ## Headnote
 
@@ -92,8 +92,8 @@ Dice the **avocado** and place it at the bottom of a ring mold (or bowl). Top wi
 
 ## Keywords
 
-Tuna, Tartare, Emulsion, Sesame, Yuzu, Spicy, Sushi, Japanese, Avocado, Raw Fish
+tuna, tartare, emulsion, sesame, yuzu, spicy, sushi, japanese, avocado, raw fish
 
 ## Category
 
-cuisine: Japanese | style: Technique Folio
+cuisine: Japanese | style: Modern

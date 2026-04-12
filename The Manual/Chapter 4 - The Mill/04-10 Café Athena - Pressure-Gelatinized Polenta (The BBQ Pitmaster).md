@@ -1,4 +1,4 @@
-**Café Athena - Pressure-Gelatinized Polenta (The BBQ Pitmaster)**
+# Café Athena - Pressure-Gelatinized Polenta (The BBQ Pitmaster)
 
 Rich, no-stir corn grits finished with sharp cheddar and jalapeño.
 
@@ -47,10 +47,6 @@ Yield: 4 servings | Prep: 10 min | Cook: 25 min | Total: ~45 min
 
 **Glossary**
 
-* **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the liquid. In pressure cooking, this happens more efficiently due to higher temperatures.
-* **Mantecatura:** An Italian term for the final phase of risotto or polenta making, where fat (butter/cheese) is vigorously whipped into the starch to create a creamy emulsion.
-* **Brunoise:** A very fine dice (approx. 3mm cubes), ensuring the jalapeño distributes heat evenly in every bite without large crunchy chunks.
-
 ## Glossary
 
 * **Gelatinization:** The process where starch granules absorb water and swell when heated, thickening the liquid.
@@ -61,8 +57,8 @@ Yield: 4 servings | Prep: 10 min | Cook: 25 min | Total: ~45 min
 
 ## Keywords
 
-Polenta, Pressure Cooking, Cornmeal, Cheddar, Jalapeño, Gelatinization, BBQ, Stock, Dairy, Starch
+polenta, pressure cooking, cornmeal, cheddar, jalapeño, gelatinization, bbq, stock, dairy, starch
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: American | style: Weeknight

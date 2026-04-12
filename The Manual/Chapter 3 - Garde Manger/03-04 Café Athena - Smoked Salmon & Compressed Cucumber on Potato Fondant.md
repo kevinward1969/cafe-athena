@@ -83,8 +83,8 @@ Place one warm potato square in the center of a plate. Using a square ring mold,
 
 ## Keywords
 
-Smoked Salmon, Vacuum Compression, Potato Fondant, Cucumber, Brunoise, Dextrinization, Starch, Thermal Contrast, Acid Compression, Chilled, Tartare
+smoked salmon, vacuum compression, potato fondant, cucumber, brunoise, dextrinization, starch, thermal contrast, acid compression, chilled, tartare
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Modern

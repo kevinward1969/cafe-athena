@@ -2,7 +2,7 @@
 
 Razor-thin vegetables and bright citrus suprèmes dressed in a shear-stable vinaigrette.
 
-**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 0 min
+**Yield:** 4 servings | **Prep:** 30 min | **Cook:** 0 min | **Total:** 30 min
 
 ## Headnote
 
@@ -87,8 +87,8 @@ Drain the fennel thoroughly in a salad spinner. Water is the enemy of adhesion. 
 
 ## Keywords
 
-Shaved Fennel, Citrus Salad, Vinaigrette, Xanthan Gum, Emulsification, Mediterranean, Garde Manger, Technique, High-Shear, Raw Vegetables
+shaved fennel, citrus salad, vinaigrette, xanthan gum, emulsification, mediterranean, garde manger, technique, high-shear, raw vegetables
 
 ## Category
 
-cuisine: Mediterranean | style: Technique Folio
+cuisine: Mediterranean | style: Modern
