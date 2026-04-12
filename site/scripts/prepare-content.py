@@ -199,9 +199,10 @@ def process_chapter(chapter_dir):
             if len(parts) >= 3:
                 body = parts[2].lstrip('\n')
 
-        # Strip leading H1 (# Café Athena - Title) — RecipeLayout renders
-        # the title from frontmatter; including it in the body causes a double title.
-        body = re.sub(r'^# (?:\*\*)?(?:Café|Cafe) Athena[^\n]*\n+', '', body)
+        # Strip leading H1 — RecipeLayout renders the title from frontmatter;
+        # including it in the body causes a double title. Covers both
+        # "# Café Athena - ..." (recipes) and "# **Technique Folio - ...**" (folios).
+        body = re.sub(r'^# [^\n]*\n+', '', body)
 
         # Extract keywords and category, stripping those sections from body
         body, keywords, cuisine, style, dietary = extract_metadata(body)
