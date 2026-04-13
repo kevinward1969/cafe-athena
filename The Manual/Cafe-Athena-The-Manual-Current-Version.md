@@ -157,7 +157,6 @@
 * 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
 * 10-22 Café Athena \- Beurre Noisette (The Toasted Butter)
 * 10-23 Café Athena \- The Asian Dipping Sauce Collection
-* 10-24 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 
@@ -167,3 +166,7 @@
 * 11-04 Café Athena \- Burnt Allium Ash Salt  
 * 11-05 Café Athena \- Nashville Fire Paste (Lipophilic Heat)
 * 11-06 Café Athena \- KW Signature Smoked Red Pepper Blend
+
+## CHAPTER 12: LES FONDS
+
+* 12-01 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)

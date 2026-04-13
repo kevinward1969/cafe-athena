@@ -6,7 +6,8 @@ const allRecipes = await getCollection('recipes');
 
 const chapters = [
   { num: 10, name: 'Stocks & Mother Sauces', desc: 'Foundation Sauces & Building Blocks' },
-  { num: 11, name: 'Spice Blends & Oils', desc: 'Seasoning, Finishing & Flavor Compounds' }
+  { num: 11, name: 'Spice Blends & Oils', desc: 'Seasoning, Finishing & Flavor Compounds' },
+  { num: 12, name: 'Les Fonds', desc: 'Structural Bases, Vessels & Platforms' },
 ].map(ch => ({
   ...ch,
   recipes: allRecipes

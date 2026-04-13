@@ -2993,10 +2993,10 @@
       }
     },
     {
-      "id": "10-24",
+      "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
-      "chapter": 10,
-      "chapterName": "Stocks & Mother Sauces",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
       "type": "recipe",
       "added": "2026-04-08",
       "stages": {
@@ -3004,7 +3004,7 @@
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
-        "heroImageOptimized": false,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -3013,7 +3013,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "11-01",

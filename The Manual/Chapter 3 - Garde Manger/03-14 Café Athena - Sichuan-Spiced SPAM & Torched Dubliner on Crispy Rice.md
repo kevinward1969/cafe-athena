@@ -10,7 +10,7 @@ This is a deliberate fusion canapé built on contrast: the numbing, floral heat 
 
 ## Mise en Place (Action Checklist)
 
-- Prepare one full batch of 10-24 Crispy Rice Platform; hold warm on a wire rack
+- Prepare one full batch of 12-01 Crispy Rice Platform; hold warm on a wire rack
 - Combine mayonnaise and Dijon mustard for dijonnaise; hold at room temperature
 - Grind the three-pepper blend in a mortar and pestle to a coarse, uneven texture; set aside
 - Slice SPAM to ¼ inch thickness; trim each slice to match the footprint of the rice platforms
@@ -21,7 +21,7 @@ This is a deliberate fusion canapé built on contrast: the numbing, floral heat 
 ## Ingredients
 
 ### The Platform
-- 14–16 Crispy Rice Squares (see 10-24)
+- 14–16 Crispy Rice Squares (see 12-01)
 
 ### The Dijonnaise
 - 60 ml (4 tbsp) good-quality mayonnaise
@@ -72,7 +72,7 @@ Place torn greens on top of the torched Dubliner. Spray lightly with olive oil o
 - **Greens selection:** Mesclun provides bitterness and texture contrast. Spinach is milder and more neutral. Avoid anything too wet or too delicate — arugula wilts too fast under the residual heat of the cheese.
 - **Oil selection:** Sesame oil leans the dish East and amplifies the Sichuan pepper. Olive oil keeps it more neutral. Both are correct — match to context and audience.
 - **Sichuan pepper specificity:** Dahongpao (大红袍) is the correct cultivar for this dish. It carries more floral, citrusy character and less aggressive numbing than standard Sichuan pepper. Do not substitute without adjusting quantity.
-- **Make-ahead:** Crispy rice platforms (10-24) can be frozen for up to 2 weeks. Fry to order. Everything else assembles in under 5 minutes once the platforms are fried.
+- **Make-ahead:** Crispy rice platforms (12-01) can be frozen for up to 2 weeks. Fry to order. Everything else assembles in under 5 minutes once the platforms are fried.
 - **Service window:** These do not hold. Assemble and serve immediately — the crust softens within 15–20 minutes and the greens will wilt on the warm cheese.
 
 ## Glossary

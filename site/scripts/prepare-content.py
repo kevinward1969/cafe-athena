@@ -34,6 +34,7 @@ CHAPTER_NAMES = {
     9: 'The Pâtissier',
     10: 'Stocks & Mother Sauces',
     11: 'Spice Blends & Oils',
+    12: 'Les Fonds',
 }
 
 

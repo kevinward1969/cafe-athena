@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-11
+Last Updated: 2026-04-13
 
 ## 🎯 Active Development
 
@@ -9,6 +9,29 @@ Last Updated: 2026-04-11
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
 | **04-16** | Definitive Guide to Egg Pasta | Completed | Indexed. |
 
+## 📋 TODO
+
+- **Full Manual Structure — Four-Part Arc**: The Manual has a confirmed four-part structure:
+
+  | Part | Chapters | Theme |
+  | :--- | :--- | :--- |
+  | **Part I: The Academy** | Ch. 1–2 (The Lab, The Foundation) | Technique |
+  | **Part II: The Brigade** | Ch. 3–9 (Garde Manger → The Pâtissier) | Cooking through the stations |
+  | **Part III: The Larder** | Ch. 10–12 (Stocks & Sauces, Spice Blends, Les Fonds) | Building blocks |
+  | **Part IV: The Expo** | Ch. 13–15 (Planning, Plating, Service) | Capstone — how it reaches the guest |
+
+  Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
+
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. Home for recipes that carry, elevate, or frame other preparations — crisp cups, tuile baskets, rice crisps, croustades, etc. Molecular gastronomy component parts (gels, spheres, emulsions) that appear as sub-elements in technique folios could also live here in fuller detail. **12-01 Crispy Rice Platform (The Frozen-Fry Method) is live** — migrated from Ch. 10. Next candidate: *Parmesan Cheese Crisp Cups* (in development).
+
+- **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
+  - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
+  - **Ch. 14 — Plating**: Composition, visual language, the architecture of the plate
+  - **Ch. 15 — Service**: The handoff, hospitality, reading the room, pacing
+  Content is editorial/instructional (not recipe folios). Needs: content plan, chapter scaffolding, site section design, nav integration.
+
+---
+
 ## 🌅 On the Horizon
 
 - **Home Page Copy — 3 Main Area Descriptions**: ✅ Completed 2026-04-08.
@@ -16,7 +39,7 @@ Last Updated: 2026-04-11
 - **Academy Section Randomizer (Home Page)**: ✅ Completed 2026-04-08.
 - **Featured Recipe Randomizer (Home Page)**: ✅ Completed 2026-04-08.
 - **Food Critic / Food Writer Agent**: Create a new Claude Code agent for creative and marketing copy — editorial, journalistic, blog posts, social media. Separate surface from the Chef agent.
-- **Section & Chapter Banner Images**: Full-bleed panoramic banners (~1920×380px WebP) for each section page and each chapter. Generated via Gemini Gem 2. See image briefs below. Implementation: add optional `bannerImage` prop to `SectionLayout.astro`. Naming: `banner-academy.webp`, `banner-brigade.webp`, `banner-larder.webp`, `banner-ch03.webp` … `banner-ch11.webp`. All placed in `site/public/images/`.
+- **Section & Chapter Banner Images**: Full-bleed panoramic banners (~1920×380px WebP) for each section page and each chapter. Generated via Gemini Gem 2. See image briefs below. Implementation: add optional `bannerImage` prop to `SectionLayout.astro`. Naming: `banner-academy.webp`, `banner-brigade.webp`, `banner-larder.webp`, `banner-ch03.webp` … `banner-ch12.webp`. All placed in `site/public/images/`.
 
 - **Glossary Pull**: ✅ Completed 2026-04-09 — all 127/127 recipes indexed.
 - **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary. Now actionable — run `/audit-glossary`.
@@ -52,6 +75,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 | Chapter 9 - The Pâtissier | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 10 - Stocks & Mother Sauces | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 11 - Spice Blends & Oils | Recipes | ✅ Complete (2026-04-09) |
+| Chapter 12 - Les Fonds | Recipes | ⏳ Pending |
 
 ### PNG → WebP Optimization
 
@@ -136,6 +160,7 @@ Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photogra
 | `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble |
 | `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze |
 | `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue |
+| `banner-ch12.webp` | Ch. 12 — Les Fonds | Crisp vessels and platforms arranged on a dark slate — tuile cylinders, rice crisps, croustades, a parmesan crisp cup catching light |
 
 ### Layout
 
