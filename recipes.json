@@ -3018,6 +3018,29 @@
       "heroImageOptimized": true
     },
     {
+      "id": "12-02",
+      "title": "Foundation Tartlet Shells",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
       "id": "11-01",
       "title": "Vibrant Green Herb Oil",
       "chapter": 11,
