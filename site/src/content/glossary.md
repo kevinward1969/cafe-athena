@@ -4,16 +4,18 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## 0-9
 
-- "00" Flour: An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
+- “00” Flour: An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
 
 ## A
 
 - Abort Vessel: A heat-proof bowl used to immediately halt cooking by receiving the finished butter away from the heat source.
 - Acid Coagulation: The partial denaturing of milk proteins caused by the introduction of an acid (lemon juice, vinegar), which tightens and thickens cream-based sauces without starch.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
+- Acidification: The process by which Lactic Acid Bacteria excrete lactic acid, lowering the pH of a brine to a level hostile to pathogens.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.
+- Airlock: A one-way valve fitted to a fermentation vessel that allows CO₂ to escape without admitting oxygen.
 - Al Dente: "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.
 - Aluminum Core: The aluminum core of a stainless steel skillet enhances its responsiveness to temperature changes, vital for searing techniques.
@@ -22,6 +24,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Amylase: An enzyme that catalyzes the breakdown of starch into simpler sugars, providing a readily available food source for microbial growth.
 - Amylopectin: A highly branched polymer of glucose found in plants. In potatoes, it is responsible for the "sticky" and "glassy" qualities of a cooked starch gel.
 - Amylose: A type of starch molecule found in rice, responsible for its thickening properties when heated in liquid.
+- Anaerobic: Occurring in the absence of oxygen. Lacto-fermentation requires anaerobic conditions to suppress mold and favor Lactic Acid Bacteria.
+- Anthocyanins: Water-soluble pigments responsible for red, purple, and blue colors in plants (e.g., purple cabbage). Heat-stable in acidic or neutral environments when shocked immediately after blanching.
 - Aromatics: Fragrant plant materials, such as garlic and herbs, used to enhance the flavor of a dish.
 - Arroser (or Arrosé): The French technique of basting meat, fish, or vegetables with foaming butter and aromatics during cooking to ensure even heat distribution and flavor penetration.
 - Arrosé: A culinary technique involving the continuous basting of food with melted butter and aromatics during the final stages of cooking to enhance flavor and texture.
@@ -56,6 +60,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Bouquet Garni: A bundle of fresh herbs tied with twine and added to braises or stocks. The bundle form allows easy removal before serving.
 - Braising: A slow-cooking method involving searing food and then simmering it in a small amount of liquid, resulting in tender, flavorful results.
 - Bran: The outer layer of grain, rich in microbial populations that form the foundation of a wild sourdough starter.
+- Brine: A salted liquid solution — created by dissolving salt in water or by drawing liquid from vegetables via osmosis — that serves as the fermentation medium.
 - Brine Synthesis: The process of combining ingredients – typically vinegar, water, sugar, and salt – to create a flavorful liquid used for pickling.
 - Brining: A method of preserving or flavoring food by immersing it in a concentrated salt solution, facilitating osmosis.
 - Brunoise: A precise culinary cut where the food is julienned and then diced into uniform cubes of 3mm or less.
@@ -109,6 +114,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
+- Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.
 - Cure: A process utilizing a high-salinity environment to firm the texture of an oily fish while infusing seasoning.
 - Curing Salt #1 (Nitrite): Sodium nitrite added to meat products to inhibit bacterial growth, preserve color, and enhance flavor; used in small quantities for its preservative properties.
 - Curing Salt #1: Sodium nitrite used in small quantities to inhibit bacterial growth and maintain color in cured meats.
@@ -155,6 +161,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
 - Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
 - Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
+- Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
 - Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
 - Ethylene Gas: A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
 - Exothermic: A chemical reaction that releases heat.
@@ -211,6 +218,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Hydrocolloid: A substance that forms a gel in the presence of water (e.g., starch, gelatin, agar, alginate).
 - Hydrolysis: The chemical breakdown of a compound due to reaction with water; here, turning collagen into gelatin.
 - Hydrostatic Infusion: The rapid penetration of liquid into collapsed cellular structures following the release of vacuum pressure, crucial for marination.
+- Hydro-Thermal Stabilization: The combined use of heat (blanching) and mechanical pressure (pressing) to remove moisture and fix pigment in vegetable inclusions before introducing them to a fat-based cooking matrix.
 - Hygroscopic: The property of a substance to absorb moisture from the air or its surroundings.
 
 ## I
@@ -220,10 +228,21 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Inverse Square Law: A principle stating that the intensity of radiation decreases proportionally to the square of the distance from the source.
 - Ionic Gelation: A food-stabilization technique utilizing divalent cations, primarily calcium ions, to cross-link alginate chains, forming a semi-solid gel.
 
+## J
+
+No glossary terms yet.
+
+## K
+
+- Kahm Yeast: A non-pathogenic surface yeast that forms a white, filmy layer on ferments exposed to air. Harmless but undesirable for flavor; remove immediately.
+- Katsuobushi: Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
+- Kombu: A type of edible seaweed, primarily _Porphyra_ species, used in dashi to impart a subtle sweetness and umami.
+
 ## L
 
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
+- Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination (Pasta): The process of folding and re-rolling pasta dough through the thickest setting to build structure and achieve a uniform rectangular sheet.
@@ -247,6 +266,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
+- Matrix: The structural medium (cheese) in a fat-based cooking preparation that binds and holds inclusions in place.
 - Matsutake Shoyu: A specific type of soy sauce (typically with mushroom notes) used in the original Weissman method to enhance umami.
 - Mayonnaise: A stable emulsion of oil and egg yolk, used here as a base for the spicy component.
 - Meaty: A descriptor referring to the intensified flavor profile achieved through the concentration of savory compounds during the curing process.
@@ -293,15 +313,18 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
+- Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 - Pearl Onions: Small, tightly clustered onions, often peeled and blanched before cooking, providing a delicate sweetness and texture.
 - Pearlescent: Describing the appearance of the cooked fish’s interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
+- Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
 - Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to; also the thin, papery skin surrounding a nut.
 - pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
+- Pigment Fixation: The stabilization of natural plant pigments (chlorophyll, anthocyanins) through controlled heat and rapid cooling, preserving visual vibrancy in finished preparations.
 - Pincage (Dough Mixing): A French technique of squeezing dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
 - Pincage: A delicate hand-mixing technique used in high-hydration doughs to gently incorporate ingredients without developing excessive gluten strength.
 - Pincé (or Pincage - Tomato): The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color.
@@ -323,6 +346,10 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
 - Proteolysis: The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
 - Purge: The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
+
+## Q
+
+- Quaternary Ammonium (Quats): A common kitchen sanitizer that effectively reduces microbial populations through chemical disinfection.
 
 ## R
 
@@ -355,6 +382,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Saikyo Miso: A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
 - Saku: A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.
 - Salamoia: An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
+- Salinity: The concentration of dissolved salt in a solution, expressed as a percentage of total weight. The primary control variable in lacto-fermentation.
 - Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
 - Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
 - Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
@@ -419,6 +447,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Thermal Gradient: The difference in temperature between the exterior and interior of the meat.
 - Thermal Maillard Optimization: A technique utilizing controlled heat to maximize the Maillard reaction for enhanced flavor development.
 - Thermal Mass: Heavy cookware, such as cast iron or clad stainless steel, utilizes thermal mass to maintain consistent temperatures during cooking processes.
+- Thermal Plasticity: The temperature window in which a set material (like rendered cheese) remains pliable and shapeable before hardening upon further cooling.
 - Thermal Shock: The distortion of metal cookware caused by rapid temperature changes, specifically the differential contraction of layers within the metal.
 - Threshold: The minimum temperature required for a specific chemical reaction, such as the Maillard reaction, to occur effectively.
 - Thyme: An aromatic herb with needle-like leaves and a strong, earthy flavor, commonly used to season meats and vegetables.
@@ -457,19 +486,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Wet-Dry-Wet Dredge: A multi-stage coating process employing a liquid binder to create a textured, “craggy” batter for enhanced crisping.
 - White Oil: A 50/50 mixture of beeswax and butter used to create a non-stick, high-gloss finish.
 
-## K
-
-- Katsuobushi: Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
-- Kombu: A type of edible seaweed, primarily _Porphyra_ species, used in dashi to impart a subtle sweetness and umami.
-
-## Q
-
-- Quaternary Ammonium (Quats): A common kitchen sanitizer that effectively reduces microbial populations through chemical disinfection.
-
 ## X
 
 - Xanthan Gum: A fermented polysaccharide used as a hydrocolloid to stabilize emulsions and thicken liquids, functioning effectively across a wide temperature range.
 
-## “
+## Y
 
-- “00” Flour: An Italian milling classification indicating the finest grind. It removes almost all bran and germ, resulting in a very white, silky powder ideal for tender pasta.
+No glossary terms yet.
+
+## Z
+
+No glossary terms yet.

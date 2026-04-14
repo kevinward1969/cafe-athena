@@ -5,7 +5,8 @@
       "Bash(grep -h \"heroImage:\" site/src/content/recipes/*.md)",
       "Bash(grep -h \"^heroImage:\" site/src/content/recipes/*.md)",
       "Bash(npx markdownlint-cli2:*)",
-      "Bash(ls \"The Manual/Chapter 2 - The Foundation/\"*.png \"The Manual/Chapter 4 - The Mill/\"*.png)"
+      "Bash(ls \"The Manual/Chapter 2 - The Foundation/\"*.png \"The Manual/Chapter 4 - The Mill/\"*.png)",
+      "Bash(bash site/scripts/deploy.sh)"
     ]
   }
 }

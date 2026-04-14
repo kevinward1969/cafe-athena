@@ -25,6 +25,8 @@
 * 01-17 Technique Folio \- Spontaneous Fermentation (Wild Capture Sourdough Starter)  
 * 01-18 Technique Folio \- Sourdough Stewardship (The Levain vs. The Mother)  
 * 01-19 Technique Folio \- Global Sourdough Taxonomies
+* 01-20 Technique Folio \- Hydro-Thermal Stabilization (Blanch & Press)
+* 01-21 Technique Folio \- Lacto-Fermentation (The Science of Biological Acidification)
 
 ## CHAPTER 2: THE FOUNDATION
 
@@ -175,3 +177,10 @@
 * 12-08 Café Athena \- Gnocchi 201 (The Master Doughs) *(moved from 04-11)*
 * 12-09 Café Athena \- The Definitive Guide to Egg Pasta *(moved from 04-16)*
 * 12-10 Café Athena \- The Quintessential Spinach Pasta *(moved from 04-17)*
+* 12-15 Café Athena \- The Master Laminated Frico (The Structural Matrix)
+
+# REFERENCE
+
+## GLOSSARY
+
+* `The Manual/Glossary/` — Split per-letter glossary files (A–Z), canonical reference for all technical terms

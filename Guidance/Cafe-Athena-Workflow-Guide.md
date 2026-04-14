@@ -70,7 +70,7 @@ Images follow a two-type system. The canonical location for all processed images
 
 **WORKFLOW D: SYSTEM INTEGRITY AND GLOSSARY MAINTENANCE**
 
-* **GLOSSARY PULL.** After formatting any new recipe, run `/glossary-pull [index]` to extract glossary terms and merge them alphabetically into `The Manual/Café Athena - Glossary.md` (duplicates are skipped automatically).
+* **GLOSSARY PULL.** After formatting any new recipe, run `/glossary-pull [index]` to extract glossary terms and merge them alphabetically into the split glossary files at `The Manual/Glossary/Café Athena  - Glossary [LETTER].md` (duplicates are skipped automatically).
 * **GLOSSARY AUDIT.** Run `/audit-glossary` periodically to enforce strict `- Term: Definition` formatting, correct alphabetization, and remove duplicates.
 * **FORMAT AUDIT.** Run `/format-audit [index]` or `/format-audit Chapter N` to validate recipe structure against `Recipe-Format-Standard.md`. Includes an authorization layer — the AI presents proposed changes before writing anything.
 * **KEYWORD PULL.** Run `/keyword-pull [index]` to generate and append `## Keywords` and `## Category` sections to any recipe missing them.

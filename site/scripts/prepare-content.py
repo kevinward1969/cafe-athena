@@ -18,7 +18,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SITE_DIR = os.path.dirname(SCRIPT_DIR)
 MANUAL_DIR = os.path.join(SITE_DIR, '..', 'The Manual')
 CONTENT_DIR = os.path.join(SITE_DIR, 'src', 'content', 'recipes')
-GLOSSARY_SRC = os.path.join(MANUAL_DIR, 'Café Athena  - Glossary.md')
+GLOSSARY_DIR = os.path.join(MANUAL_DIR, 'Glossary')
 GLOSSARY_DEST = os.path.join(SITE_DIR, 'src', 'content', 'glossary.md')
 IMAGES_DIR = os.path.join(SITE_DIR, 'public', 'images')
 
@@ -97,13 +97,29 @@ def extract_metadata(body):
 
 
 def copy_glossary():
-    """Copy the glossary file."""
+    """Concatenate split glossary letter files into a single output."""
     os.makedirs(os.path.dirname(GLOSSARY_DEST), exist_ok=True)
-    if os.path.exists(GLOSSARY_SRC):
-        shutil.copy2(GLOSSARY_SRC, GLOSSARY_DEST)
-        print('   ✅ Glossary copied')
-    else:
-        print(f'   ⚠️  Glossary not found at: {GLOSSARY_SRC}')
+    if not os.path.isdir(GLOSSARY_DIR):
+        print(f'   ⚠️  Glossary directory not found at: {GLOSSARY_DIR}')
+        return
+
+    letter_files = sorted(globmod.glob(os.path.join(GLOSSARY_DIR, 'Café Athena  - Glossary *.md')))
+    if not letter_files:
+        print(f'   ⚠️  No glossary files found in: {GLOSSARY_DIR}')
+        return
+
+    with open(GLOSSARY_DEST, 'w', encoding='utf-8') as out:
+        out.write('# Cafe Athena - Glossary\n\n')
+        out.write('Alphabetized glossary terms extracted from chapter and recipe glossaries.\n')
+        for fpath in letter_files:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            section_start = next((i for i, l in enumerate(lines) if l.startswith('## ')), None)
+            if section_start is not None:
+                out.write('\n')
+                out.writelines(lines[section_start:])
+
+    print(f'   ✅ Glossary assembled from {len(letter_files)} letter files')
 
 
 def extract_index(filename):

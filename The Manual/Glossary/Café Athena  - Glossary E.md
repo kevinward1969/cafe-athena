@@ -1,0 +1,17 @@
+# Cafe Athena - Glossary E
+
+Alphabetized glossary terms extracted from chapter and recipe glossaries.
+
+## E
+
+- Emulsification: The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
+- Emulsifier: A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
+- Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
+- Emulsifying Salt: A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
+- Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
+- Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
+- Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
+- Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
+- Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
+- Ethylene Gas: A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
+- Exothermic: A chemical reaction that releases heat.

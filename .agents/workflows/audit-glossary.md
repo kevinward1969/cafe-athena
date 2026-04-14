@@ -5,7 +5,7 @@ description: Audits the main glossary for formatting, alphabetical ordering, and
 # Audit Glossary Workflow
 
 1. The user will provide a command like `Audit Glossary` or `/audit-glossary`.
-2. Read the complete contents of the main glossary file at `The Manual/Café Athena  - Glossary.md` using the Read tool.
+2. Read the split glossary files from `The Manual/Glossary/` — one file per letter (`Café Athena  - Glossary A.md` through `Café Athena  - Glossary Z.md`). Read each letter file relevant to the audit scope, or all of them for a full audit.
 3. Analyze the glossary for the following issues:
    - **Formatting**: Each term should follow the strict format `- Term: Definition`. Check for missing leading hyphens, missing colons, messy bolding, or broken lines (lines cut off mid-sentence).
    - **Alphabetical Order**: The letter sections (`## A`, `## B`, etc.) must be in A-Z order. The terms _within_ each letter section must be strictly alphabetical.

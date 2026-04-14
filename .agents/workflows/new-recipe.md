@@ -66,11 +66,11 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 ## Phase 4 — Glossary Pull
 
 1. Read the recipe's `### Glossary` section and extract all terms.
-2. Read the main glossary at `The Manual/Café Athena  - Glossary.md` using the Read tool.
+2. Identify the first letter of each new term and read the corresponding split glossary file from `The Manual/Glossary/Café Athena  - Glossary [LETTER].md` (e.g., `Café Athena  - Glossary A.md` for terms starting with A).
 3. For each extracted term, check for duplicates (exact term name match = skip).
 4. Format new terms as `- Term: Definition` (no bold asterisks).
 5. Insert new terms under the correct alphabetical `## [Letter]` heading in alphabetical order within that section.
-6. Apply updates to the main glossary file.
+6. Apply updates to the corresponding split glossary file(s).
 7. Report which terms were added and which were skipped as duplicates.
 
 ---

@@ -27,7 +27,7 @@ cafe-athena/
 │
 ├── The Manual/                     # Cookbook manuscript (local only)
 │   ├── Cafe-Athena-The-Manual-Current-Version.md
-│   ├── Café Athena - Glossary.md
+│   ├── Glossary/                    # Split glossary (one file per letter, A–Z + 0-9)
 │   ├── Chapter 1 - The Lab/
 │   ├── Chapter 2 - The Foundation/
 │   ├── Chapter 3 - Garde Manger/
@@ -441,7 +441,7 @@ python scripts/prepare-content.py
 | `Guidance/Cafe-Athena-Workflow-Guide.md` | Full workflow methodology |
 | `Guidance/Technique_Folio_Template_v1.md` | Template for technique folios |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | Master index of all content |
-| `The Manual/Café Athena - Glossary.md` | Consolidated culinary glossary |
+| `The Manual/Glossary/` | Split culinary glossary — one file per letter (A–Z + 0-9) |
 | `PROJECT_STATUS.md` | Active work, pending items, strategic context |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full multi-agent system map, evaluation, and improvement roadmap |
 

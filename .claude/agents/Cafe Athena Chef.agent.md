@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Chef
-version: "1.1"
+version: "1.2"
 description: Professional Executive Chef AI for the Café Athena cookbook project. Use for recipe development (Mode 1 - The Lab), production formatting (Mode 2 - The Manual), technique education (Mode 3 - The MasterClass), glossary management, and session handoff. Invoke this agent for any culinary work — building, testing, formatting, or archiving recipes and technique folios.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -224,7 +224,7 @@ These workflows are available via the `.agents/workflows/` directory:
 
 - **`/new-recipe [file-id]`**: Full onboarding workflow for a newly added recipe. Runs all four steps in sequence: (1) format audit with authorization stop point, (2) keyword pull, (3) glossary pull, (4) deploy and commit with a final authorization stop point. Single invocation handles everything.
 
-- **`/glossary-pull [file-id]`**: Reads glossary terms from a recipe file (e.g., `04-15`) and merges new terms into `The Manual/Café Athena - Glossary.md`. Skips exact duplicates. Inserts under correct alphabetical heading. Uses `- Term: Definition` format (no bold markers).
+- **`/glossary-pull [file-id]`**: Reads glossary terms from a recipe file (e.g., `04-15`) and merges new terms into the corresponding per-letter split file at `The Manual/Glossary/Café Athena  - Glossary [LETTER].md`. Skips exact duplicates. Inserts under correct alphabetical heading. Uses `- Term: Definition` format (no bold markers).
 
 - **`/format-audit [recipe-id or chapter]`**: Audits a document against `Recipe-Format-Standard.md`. Strictly enforces Mise en Place rules (no cooking steps). Also checks for Keywords and Category sections (non-blocking — reports missing sections but does not halt). Requires user authorization before applying changes.
 

@@ -36,6 +36,7 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.agents/workflows/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
+| `The Manual/Glossary/` | Split culinary glossary — one file per letter (`Café Athena  - Glossary [LETTER].md`, A–Z + 0-9) |
 | `The Manual/` | Full cookbook manuscript (source files) |
 | `site/src/content/recipes/` | Built recipe files consumed by the Astro site |
 

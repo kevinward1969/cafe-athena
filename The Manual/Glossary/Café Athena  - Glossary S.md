@@ -1,0 +1,63 @@
+# Cafe Athena - Glossary S
+
+Alphabetized glossary terms extracted from chapter and recipe glossaries.
+
+## S
+
+- Sacrificial Aromatics: Vegetables used solely for flavor extraction in a stock or sauce base, intended to be discarded rather than eaten.
+- Saikyo Miso: A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
+- Saku: A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.
+- Salamoia: An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
+- Salinity: The concentration of dissolved salt in a solution, expressed as a percentage of total weight. The primary control variable in lacto-fermentation.
+- Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
+- Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
+- Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
+- Sauce Dérivée: A secondary sauce created by adding ingredients to a Mother Sauce.
+- Sauté: A cooking technique involving cooking food quickly in a small amount of fat over relatively high heat.
+- Savory: Characterized by a salty or umami flavor, as opposed to sweet.
+- Scald: Heating a liquid (usually dairy) to just below the boiling point (183°F/84°C) to change its protein structure.
+- Scaling: The process of adjusting recipe quantities, often utilizing baker's percentages for precise and repeatable results.
+- SCOBY: A stable symbiotic culture of bacteria and yeast, the foundational element of a sourdough starter.
+- Scoring: The precise cutting of dough surface with a lame or other sharp instrument to control expansion during baking.
+- Scrape (Bench Scrape): A tool used to cut and fold dough, ensuring even incorporation of flour and preventing tearing.
+- Sear: The rapid browning of food's surface through direct, high-heat contact, creating a desirable Maillard reaction crust.
+- Searing: A high-heat cooking technique using direct contact with a hot surface to develop a browned crust on food.
+- Seasoning: The polymerized layer of oil that develops on cast iron cookware, enhancing its non-stick properties and protecting against rust.
+- Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
+- Sensory Cue: A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
+- Separation: The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
+- Shear Force / Shear Power: The mechanical force applied by blender blades to tear apart solid particles or oil droplets and disperse them into the liquid, creating a tighter emulsion.
+- Shear Force: A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
+- Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
+- Shear-Thinning Rheology: A property of certain fluids where their viscosity decreases under stress, allowing them to flow more easily when agitated or poured.
+- Shear-Thinning: A property exhibited by certain fluids, such as xanthan gum solutions, where viscosity decreases under shear stress (e.g., shaking or blending).
+- Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
+- Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
+- Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
+- Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
+- Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
+- Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
+- Sodium Alginate: A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.
+- Sodium Citrate: A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
+- Sodium Ions: Positively charged ions that, when replacing calcium ions in cheese, weaken the casein protein bonds, facilitating the melting process.
+- Soffritto: The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
+- Soft Peaks: The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
+- Solubility: The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
+- Sourdough Discard: A fermented starter used in bread making, contributing acidity and flavor.
+- Sous Vide: A precise cooking technique involving sealing food in a bag and immersing it in a temperature-controlled water bath for consistent results.
+- Spherification (Direct): A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.
+- Spider Skimmer: A wide, shallow wire-mesh tool used to lift pasta, blanched vegetables, or fried items from liquid without a colander.
+- Stainless Steel Bowls: Lightweight and highly conductive, stainless steel bowls are preferred for temperature-sensitive mixing and preparation tasks.
+- Standardized Storage: Utilizing uniform containers and labeling systems for efficient inventory management.
+- Starch Dextrinization: The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
+- Starch Release: The enzymatic breakdown of bean cell walls during prolonged simmering, resulting in the release of soluble starches that thicken the liquid.
+- Stock: A flavorful liquid made by simmering bones, meat, or vegetables, concentrating their essence and forming the base of many dishes.
+- Strengthen: The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
+- Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
+- Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
+- Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
+- Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.
+- Surfactant: A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
+- Suspension: A heterogeneous mixture containing solid particles large enough for sedimentation. Unlike a solution (where salt dissolves in water), the spices here are suspended in oil and will settle over time.
+- Sweat: To cook vegetables in fat over low heat so they soften and release moisture without browning.
+- Syneresis: The expulsion of liquid from a gel, often seen as "weeping" or water pooling around a purée.

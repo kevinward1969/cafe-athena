@@ -491,6 +491,52 @@
       }
     },
     {
+      "id": "01-20",
+      "title": "Hydro-Thermal Stabilization (Blanch & Press)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-13",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "01-21",
+      "title": "Lacto-Fermentation (The Science of Biological Acidification)",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-13",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
       "id": "02-01",
       "title": "The Kitchen Cockpit (Station Management)",
       "chapter": 2,
@@ -3356,6 +3402,29 @@
       "movedFrom": "04-17",
       "stages": {
         "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-15",
+      "title": "The Master Laminated Frico (The Structural Matrix)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "stages": {
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": false,

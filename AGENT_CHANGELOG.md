@@ -35,13 +35,14 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Claude Code Sub-Agent — Café Athena Chef
 
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
-**Current Version:** 1.1  
+**Current Version:** 1.2  
 **Status:** Canonical master — update this first.
 
 | Version | Date | Changes |
 |---------|------|---------|
 | v1.0 | — | Initial release. Full three-mode system prompt adapted for Claude Code sub-agent with Read/Write/Edit/Grep/Glob/Bash tools. |
 | v1.1 | 2026-04 | Added `version:` field to YAML frontmatter. Fixed `.claude/settings.local.json` paths to be project-root-relative. Fixed workflow files (`.agents/workflows/`) to use Claude Code tool names instead of Desktop Commander MCP names. Added canonical master designation and cross-references to secondary surfaces. |
+| v1.2 | 2026-04-14 | Updated `/glossary-pull` description to reference the new split glossary structure (`The Manual/Glossary/Café Athena  - Glossary [LETTER].md`) instead of the deprecated monolithic `Café Athena  - Glossary.md`. |
 
 ---
 

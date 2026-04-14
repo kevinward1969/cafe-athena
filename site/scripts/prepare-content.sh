@@ -13,7 +13,7 @@ set -euo pipefail
 
 MANUAL_DIR="../The Manual"
 CONTENT_DIR="src/content/recipes"
-GLOSSARY_SRC="../The Manual/Café Athena  - Glossary.md"
+GLOSSARY_DIR="../The Manual/Glossary"
 GLOSSARY_DEST="src/content/glossary.md"
 IMAGES_DIR="public/images"
 
@@ -37,12 +37,19 @@ rm -rf "$IMAGES_DIR"
 mkdir -p "$CONTENT_DIR"
 mkdir -p "$IMAGES_DIR"
 
-echo "📖 Copying glossary..."
-if [ -f "$GLOSSARY_SRC" ]; then
-  cp "$GLOSSARY_SRC" "$GLOSSARY_DEST"
-  echo "   ✅ Glossary copied"
+echo "📖 Assembling glossary from split files..."
+if [ -d "$GLOSSARY_DIR" ]; then
+  {
+    printf '# Cafe Athena - Glossary\n\nAlphabetized glossary terms extracted from chapter and recipe glossaries.\n'
+    for letter_file in "$GLOSSARY_DIR"/Café\ Athena\ \ -\ Glossary\ *.md; do
+      [ -f "$letter_file" ] || continue
+      printf '\n'
+      awk '/^## /{found=1} found{print}' "$letter_file"
+    done
+  } > "$GLOSSARY_DEST"
+  echo "   ✅ Glossary assembled"
 else
-  echo "   ⚠️  Glossary not found at: $GLOSSARY_SRC"
+  echo "   ⚠️  Glossary directory not found at: $GLOSSARY_DIR"
 fi
 
 echo "📋 Processing chapters..."
