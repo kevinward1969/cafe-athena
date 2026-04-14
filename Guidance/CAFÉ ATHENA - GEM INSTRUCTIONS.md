@@ -1,6 +1,6 @@
 # **CAFÉ ATHENA \- GEM INSTRUCTIONS**
 
-Version 3.4
+Version 3.5
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 
@@ -246,9 +246,9 @@ These commands run in the Claude Code CLI (Antigravity). Workflow definitions li
 | --- | --- | --- |
 | `/new-recipe` | `/new-recipe` | Scaffold and develop a new recipe through Mode 1 |
 | `/format-audit` | `/format-audit 04-15` or `/format-audit Chapter 4` | Audit a recipe or full chapter against format standards; enforces Mise En Place rules; requires authorization before writing changes |
-| `/glossary-pull` | `/glossary-pull 04-15` | Extract glossary terms from a recipe and merge alphabetically into the main glossary (duplicates skipped) |
+| `/glossary-pull` | `/glossary-pull 04-15` | Extract glossary terms from a recipe and merge alphabetically into the corresponding per-letter split glossary file at `The Manual/Glossary/` (duplicates skipped) |
 | `/keyword-pull` | `/keyword-pull 04-15` | Generate and append `## Keywords` and `## Category` sections to any recipe missing them |
-| `/audit-glossary` | `/audit-glossary` | Enforce strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication across the main glossary |
+| `/audit-glossary` | `/audit-glossary` | Enforce strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication across the split glossary files in `The Manual/Glossary/` |
 | `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build a Gemini image prompt from recipe frontmatter + headnote (Create mode); also supports `optimize` and `insert` sub-modes |
 | `/session-handoff` | `/session-handoff` | Update `PROJECT_STATUS.md`, commit all session changes, and output a 3-bullet handoff summary |
 

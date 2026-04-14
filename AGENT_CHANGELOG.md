@@ -7,7 +7,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Gemini Gem 1 — The Chef
 
 **File:** `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
-**Current Version:** 3.4
+**Current Version:** 3.5
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -16,19 +16,21 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v3.2 | — | Updated SYSTEM ASSETS (removed 00-01 structure file). Added INDEX UPDATE PROTOCOL with mandatory INDEX DATA block format. Added chapter prefix validation to Stop Points. |
 | v3.3 | — | Added Table of Contents, standardized STOP language, streamlined INDEX UPDATE PROTOCOL, clarified Mode 1 completion checklist, consolidated quality guidance, tightened cross-references. |
 | v3.4 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to file header. |
+| v3.5 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 
 ---
 
 ## Claude Desktop Agent
 
 **File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.2
+**Current Version:** 1.3
 
 | Version | Date | Changes |
 |---------|------|---------|
 | v1.0 | — | Initial release. Three-mode system prompt for Claude Desktop / Claude.ai Projects. |
 | v1.1 | 2026-03-12 | Full audit pass (see `Claude-Desktop/CD-Audit.md` for details). Key changes: replaced keyword-based mode detection with intent classification; added Mode 2 INDEX VERIFICATION block; added multi-intent request handler; added folio index protocol to Mode 3; added persona tone directives per mode; added version header; fixed line-count discrepancy in COPY_PASTE_TEMPLATE.md. |
 | v1.2 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to header. Added Mode 2 step 8: CLAUDE CODE HANDOFF block (`/register-recipe [XX-YY]`) output after user confirms recipe is written to The Manual. Added update reminder note to header. |
+| v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 
 ---
 

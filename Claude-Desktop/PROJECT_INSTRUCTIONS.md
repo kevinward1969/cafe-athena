@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.2 (2026-04-04)
+# Version: 1.3 (2026-04-14)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 >
@@ -208,9 +208,9 @@ Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. T
 
 - `/new-recipe`: Scaffold and develop a new recipe through Mode 1 from scratch.
 - `/format-audit [index|Chapter N]`: Audits a recipe or full chapter against `Recipe-Format-Standard.md`. Enforces Mise En Place rules (no cooking steps), checks for Keywords and Category sections. Presents proposed changes for authorization before writing.
-- `/glossary-pull [index]`: Extracts glossary terms from a recipe and merges them alphabetically into the main project glossary (duplicates skipped).
+- `/glossary-pull [index]`: Extracts glossary terms from a recipe and merges them alphabetically into the corresponding per-letter split glossary file at `The Manual/Glossary/` (duplicates skipped).
 - `/keyword-pull [index]`: Generates and appends `## Keywords` and `## Category` sections to any recipe missing them.
-- `/audit-glossary`: Audits the main project glossary for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
+- `/audit-glossary`: Audits the split glossary files in `The Manual/Glossary/` for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
 - `/recipe-hero-image [index]`: Builds a Gemini image prompt from recipe frontmatter and headnote (Create mode). Also supports `optimize [index|chapter-N|all]` and `insert [index] "[position]" "[caption]"` sub-modes.
 - `/session-handoff`: Updates `PROJECT_STATUS.md`, commits all session changes to git, and outputs a 3-bullet handoff summary.
 

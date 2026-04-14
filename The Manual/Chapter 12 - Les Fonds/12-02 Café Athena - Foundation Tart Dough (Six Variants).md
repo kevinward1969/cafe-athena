@@ -225,7 +225,7 @@ Recipe 09-07 (Pâte Sucrée) and Recipe 09-09 (Pâte Sablée) are single-formula
 
 ## Keywords
 
-tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, French pastry, production reference
+tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, french pastry, production reference
 
 ## Category
 

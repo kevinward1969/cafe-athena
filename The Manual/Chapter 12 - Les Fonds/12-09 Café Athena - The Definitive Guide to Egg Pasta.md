@@ -29,8 +29,8 @@ This is not a recipe — it is a skill. Egg pasta dough is one of the few prepar
 ### The Dough
 
 - 300 g (2 ½ cups) 00 flour or King Arthur Bread Flour
-- 2 large eggs
-- 3 large egg yolks
+- 2 large eggs (approximately 100 g)
+- 3 large egg yolks (approximately 54 g)
 - water — weigh your eggs, subtract from 285 g, add that amount of water
 - 1 pinch Diamond Crystal kosher salt
 

@@ -35,8 +35,8 @@ This is the egg pasta formula transposed into a new key. The hydration math does
 ### Part 2: The Dough
 
 - 300 g (2 ½ cups) 00 flour or King Arthur Bread Flour
-- 2 large eggs
-- 3 large egg yolks
+- 2 large eggs (approximately 100 g)
+- 3 large egg yolks (approximately 54 g)
 - water — weigh eggs + spinach purée combined, subtract from 285 g, top up with that amount of cold water
 - 1 g (¼ tsp) freshly grated nutmeg
 - 1 pinch Diamond Crystal kosher salt

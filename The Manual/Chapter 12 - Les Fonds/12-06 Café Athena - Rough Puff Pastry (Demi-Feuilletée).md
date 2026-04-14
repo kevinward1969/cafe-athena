@@ -79,7 +79,7 @@ While Classic Pâte Feuilletée relies on a precision butter-block lock-in, Roug
 
 ## Keywords
 
-rough puff pastry, demi-feuilletée, blitz method, lamination, frozen butter, flaky pastry, galette, sausage roll, les fonds, foundation dough, French pastry
+rough puff pastry, demi-feuilletée, blitz method, lamination, frozen butter, flaky pastry, galette, sausage roll, les fonds, foundation dough, french pastry
 
 ## Category
 
