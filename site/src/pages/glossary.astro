@@ -144,7 +144,7 @@ const totalEntries = glossarySections.reduce((sum, section) => sum + section.ent
     </nav>
 
     <div class="glossary-shell grid lg:grid-cols-[18rem_minmax(0,1fr)] gap-10 lg:gap-12">
-      <aside class="glossary-controls min-w-0 lg:sticky lg:top-[5.5rem] self-start rounded-2xl border border-[#e0d8cc] bg-white/70 backdrop-blur p-5 md:p-6 opacity-0">
+      <aside class="glossary-controls w-full min-w-0 overflow-hidden lg:sticky lg:top-[5.5rem] self-start rounded-2xl border border-[#e0d8cc] bg-white/70 backdrop-blur p-5 md:p-6 opacity-0">
         <div class="mb-6">
           <p class="font-mono text-[10px] tracking-[0.24em] uppercase text-[#6b6b7b]/70 mb-2">Inventory</p>
           <div class="grid grid-cols-2 gap-3">
@@ -159,14 +159,14 @@ const totalEntries = glossarySections.reduce((sum, section) => sum + section.ent
           </div>
         </div>
 
-        <div class="relative mb-5 w-full max-w-full min-w-0">
+        <div class="relative mb-5 w-full min-w-0">
           <svg class="absolute left-4 top-1/2 -translate-y-1/2 text-[#6b6b7b]" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <circle cx="11" cy="11" r="8"></circle>
             <path d="m21 21-4.35-4.35"></path>
           </svg>
           <input
             type="text"
-            class="block w-full max-w-full min-w-0 pl-11 pr-4 py-2.5 bg-white border border-[#e0d8cc] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#c9a96e] transition-all text-[#1a1a2e] placeholder:text-[#6b6b7b]/60"
+            class="block w-full min-w-0 box-border pl-11 pr-4 py-2.5 bg-white border border-[#e0d8cc] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#c9a96e] transition-all text-[#1a1a2e] placeholder:text-[#6b6b7b]/60"
             id="glossary-search"
             placeholder="Search term or definition"
             autocomplete="off"
