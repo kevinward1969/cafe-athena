@@ -7,6 +7,7 @@ interface Chapter {
   name: string;
   desc: string;
   recipes: CollectionEntry<'recipes'>[];
+  bannerImage?: string;
 }
 
 interface Props {
@@ -78,6 +79,20 @@ const { title, subtitle, part, currentPage, chapters, bannerImage } = Astro.prop
               Chapter {ch.num}: {ch.name}
             </h2>
           </header>
+
+          {ch.bannerImage && (
+            <div class="w-full mb-8 overflow-hidden rounded-lg" style="max-height: 320px;">
+              <img
+                src={ch.bannerImage}
+                alt=""
+                aria-hidden="true"
+                class="w-full h-full object-cover"
+                style="max-height: 320px;"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+          )}
 
           <div class="flex flex-col gap-2">
             {ch.recipes.map(recipe => (

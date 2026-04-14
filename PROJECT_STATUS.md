@@ -22,7 +22,7 @@ Last Updated: 2026-04-14
 
   Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
 
-- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. All foundational doughs migrated from Chapters 9 and 4 — now 10 entries live: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta. Chapter 9 retains 09-07 and 09-09 as single-formula educational references pointing to 12-02. Next candidate: *Parmesan Cheese Crisp Cups* (in development).
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 15 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 The Master Laminated Frico. Chapter 9 retains 09-07 and 09-09 as single-formula educational references pointing to 12-02. Next candidate: 12-16 Non-Fish Caviar (Seeds & Spheres) — in development.
 
 - **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
