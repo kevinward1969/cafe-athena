@@ -1,5 +1,7 @@
 # Café Athena – The Quintessential Spinach Pasta
 
+> **This recipe has moved.** The canonical version is now **Recipe 12-10** in Chapter 12 — Les Fonds. This file is retained as a reference stub.
+
 Silky, jade-green pasta with a mineral depth and subtle garlic warmth — built on the same hydration logic as the master egg dough, with spinach puréed directly into the eggs.
 
 **Yield:** ~4 portions | **Prep:** 35 min | **Inactive:** 45 min | **Total:** ~1 hr 20 min (plus rolling)

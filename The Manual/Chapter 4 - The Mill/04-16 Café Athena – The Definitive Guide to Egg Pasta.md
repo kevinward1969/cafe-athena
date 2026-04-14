@@ -1,5 +1,7 @@
 # Café Athena - The Definitive Guide to Egg Pasta
 
+> **This recipe has moved.** The canonical version is now **Recipe 12-09** in Chapter 12 — Les Fonds. This file is retained as a reference stub.
+
 A master foundation dough yielding silky, golden pasta with a tender bite and clean egg flavor — the cornerstone of the Italian kitchen.
 
 **Yield:** ~4 portions | **Prep:** 20 min | **Inactive:** 30 min | **Total:** ~50 min (plus rolling)

@@ -1,5 +1,7 @@
 # Café Athena - The "Rich Yolk" Pasta Dough (Laminated)
 
+> **This recipe has moved.** The canonical version is now **Recipe 12-07** in Chapter 12 — Les Fonds. This file is retained as a reference stub.
+
 A luxurious, silk-textured dough utilizing high-fat yolk hydration and structural lamination
 
 **Yield:** ~450 g dough (4 servings) | **Prep:** 45 min | **Inactive:** 30 min | **Total:** ~1 hr 15 min

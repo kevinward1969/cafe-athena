@@ -61,19 +61,19 @@
 * 04-02 Café Athena \- Risotto alla Milanese (The MPW Method)  
 * 04-03 Café Athena \- Risotto of White Mushrooms  
 * 04-04 Café Athena \- Stabilized Cacio e Pepe  
-* 04-05 Café Athena \- The "Rich Yolk" Pasta Dough (Laminated)  
+* 04-05 Café Athena \- The "Rich Yolk" Pasta Dough (Laminated) *(moved to 12-07)*  
 * 04-06 Café Athena \- High-Hydration Focaccia (The 85% Method)  
 * 04-07 Café Athena \- Pressure-Gelatinized Polenta  
 * 04-08 Café Athena \- Parisian Gnocchi (Pâte à Choux)  
 * 04-09 Café Athena \- Calabrian Chili & Red Pepper Cavatappi  
 * 04-10 Café Athena \- Pressure-Gelatinized Polenta (The BBQ Pitmaster)  
-* 04-11 Café Athena \- Gnocchi 201 (The Master Doughs)  
+* 04-11 Café Athena \- Gnocchi 201 (The Master Doughs) *(moved to 12-08)*  
 * 04-12 Café Athena \- Pasta e Patate (Napoli Style)  
 * 04-13 Café Athena \- Same-Day Sourdough Discard Focaccia  
 * 04-14 Café Athena \- "The Companion" Louisiana-Style Black Beans & Rice  
 * 04-15 Café Athena \- Prosciutto Balanzoni  
-* 04-16 Café Athena \- The Definitive Guide to Egg Pasta
-* 04-17 Café Athena – The Quintessential Spinach Pasta
+* 04-16 Café Athena \- The Definitive Guide to Egg Pasta *(moved to 12-09)*
+* 04-17 Café Athena – The Quintessential Spinach Pasta *(moved to 12-10)*
 * 04-18 Café Athena – Sourdough Hybrid "Spoon" Buns
 
 ## CHAPTER 5: THE FISHMONGER
@@ -171,3 +171,7 @@
 * 12-04 Café Athena \- Pâte à Choux (The Steam Dough) *(moved from 09-04)*  
 * 12-05 Café Athena \- Pâte Feuilletée (Classic Puff Pastry) *(moved from 09-05)*  
 * 12-06 Café Athena \- Rough Puff Pastry (Demi-Feuilletée) *(moved from 09-08)*
+* 12-07 Café Athena \- The "Rich Yolk" Pasta Dough (Laminated) *(moved from 04-05)*
+* 12-08 Café Athena \- Gnocchi 201 (The Master Doughs) *(moved from 04-11)*
+* 12-09 Café Athena \- The Definitive Guide to Egg Pasta *(moved from 04-16)*
+* 12-10 Café Athena \- The Quintessential Spinach Pasta *(moved from 04-17)*

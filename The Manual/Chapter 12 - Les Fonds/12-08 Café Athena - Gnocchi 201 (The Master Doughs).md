@@ -1,0 +1,143 @@
+# Café Athena - Gnocchi 201 (The Master Doughs)
+
+A comparative study of starch structures: Potato (Tuber), Ricotta (Protein), and Semolina (Durum).
+
+**Yield:** 3 distinct batches (~4 servings each) | **Prep:** 90 min | **Inactive:** 1 hr | **Cook:** Varied
+
+---
+
+## Headnote
+
+This module moves beyond the specific recipe to the fundamental mechanics of the dumpling. We explore three distinct binding mechanisms: the retrograded starch of the baked potato, the protein coagulation of ricotta (often called "gnudi"), and the hot-swelling gelatinization of semolina.
+
+**Teaching Idea: Moisture Management.** The enemy of a light dumpling is excess water, which requires excess flour to bind, resulting in a dense, chewy texture. Every technique here — baking the potatoes, pressing the cheese, cooking the semolina paste — is designed to control water content before flour touches the board.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Drain the ricotta:** Place ricotta in a cheesecloth-lined sieve or tofu press. Weight it down and refrigerate for at least **1 hour** to extract whey.
+- **Prep the potatoes:** Poke holes in the potatoes with a fork. They will be roasted in Phase 1 of the Method.
+- **Prepare the tools:** Set up a potato ricer (essential), a bench scraper, and rimmed baking sheets dusted with semolina or flour.
+- **Sanitize:** Clean a large work surface (wood or marble) for kneading and rolling.
+
+---
+
+## Ingredients
+
+### The Potato Base (Classic)
+
+- 500 g (4 large) russet potatoes (weight taken after baking and peeling)
+- 100 g (¾ cup) all-purpose flour, plus more for dusting
+- 20 g (1 yolk) egg yolk
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+### The Ricotta Base (The "Cloud")
+
+- 450 g (1 lb) whole-milk ricotta (weighed before draining)
+- 150 g (1 ¼ cups) all-purpose flour, plus more for dusting
+- 50 g (½ cup) Parmigiano-Reggiano, finely grated
+- 50 g (1 large) whole egg
+- 1 g (¼ tsp) nutmeg, freshly grated
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+### The Semolina Base (Romana)
+
+- 500 g (2 cups) whole milk
+- 125 g (¾ cup) semolina flour
+- 50 g (3 ½ tbsp) unsalted butter
+- 50 g (½ cup) Parmigiano-Reggiano, finely grated
+- 20 g (1 yolk) egg yolk
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+---
+
+## Method
+
+**Phase 1: The Potato Dough (Moisture Evaporation)**
+
+Preheat oven to 375°F/190°C. Place the poked potatoes directly on the oven rack and bake until fully tender when pierced with a knife, approximately 1 hour.
+
+While the baked potatoes are still hot, peel them carefully and immediately pass through a ricer onto your work surface.
+
+> **Why:** Ricing hot maximizes steam release. If the potatoes cool before ricing, the starch becomes gummy and sticky.
+
+Spread the riced potato into a thin layer to let steam escape. Once warm to the touch (not hot), drizzle the egg yolk and sprinkle the flour and salt over the top. Use a bench scraper to "cut" the flour into the potato — do not stir. Once a shaggy dough forms, gently fold by hand, then knead until the dough is uniform and no flour streaks remain.
+
+> **Sensory Cue:** The dough should feel soft and slightly tacky, but not sticky. Do not overwork — excess gluten development makes the gnocchi rubbery.
+
+**Phase 2: The Ricotta Dough (Cold Binding)**
+
+In a large bowl, mix the drained ricotta, whole egg, grated Parmigiano-Reggiano, nutmeg, and salt until smooth. Sift the flour directly over the cheese mixture. Fold gently with a spatula or by hand. Add slightly more flour if the mixture is sticking aggressively, but stop adding as soon as you have a cohesive mass.
+
+> **Why:** Ricotta gnocchi are extremely delicate. The less you handle them, the more cloud-like the result.
+
+**Phase 3: The Semolina Dough (Hot Gelatinization)**
+
+In a medium saucepan, bring the milk, butter, and salt to a gentle simmer. Reduce heat to low. Rain the semolina into the milk while whisking constantly to prevent lumps. Switch to a wooden spoon. Cook, stirring vigorously, for 3–5 minutes until the mixture thickens into a stiff mass that pulls away from the sides of the pan.
+
+> **Sensory Cue:** The consistency should resemble stiff polenta — it holds its shape when pressed but is still pliable.
+
+Remove from heat. Immediately stir in the egg yolk and Parmigiano-Reggiano until fully incorporated. Pour the hot mixture onto an oiled baking sheet or parchment paper. Spread into an even slab approximately 1 cm (½ inch) thick. Cool completely — refrigerate for 30 minutes to speed the process.
+
+**Phase 4: Shaping and Cooking**
+
+*Potato & Ricotta (Dumplings):*
+Cut the dough into 4 even sections. Roll each into a rope approximately 2.5 cm (1 inch) thick. Cut the rope into 2.5 cm (1 inch) segments. Optional: roll each piece over a gnocchi board or fork tines to create ridges. Drop into boiling salted water — done 30–60 seconds after they float to the surface.
+
+*Semolina (Discs):*
+Once the slab is cold and firm, cut into discs or squares with a round cutter or knife. Layer in a buttered baking dish, top with more butter and Parmigiano-Reggiano, and bake at 400°F/200°C until golden and bubbly, approximately 15–20 minutes.
+
+---
+
+## Chef's Notes / Variations
+
+- **The Freezer Trick:** For potato and ricotta gnocchi, freeze on a sheet tray for 20 minutes before bagging. This prevents sticking and helps them hold shape when hitting boiling water.
+- **Saucing:** Potato gnocchi love tomato and pesto; ricotta gnocchi pair best with brown butter and sage; Romana loves Mornay or simple butter and Parmigiano-Reggiano.
+- **Troubleshooting Potato:** If the potato dough is sticky, the potatoes were not dry enough. Do not simply add more flour — it dilutes flavor. Bake longer next time, or bake on a bed of salt to draw out moisture.
+
+---
+
+**Special Insert: Gnocchi Shapes**
+
+**Group 1: The Classics (Hand-Cut & Rolled)**
+
+- **Pillow (Nudi):** The baseline shape. A simple segment cut from the rope with no further manipulation. Best for delicate doughs (ricotta) that cannot handle pressure.
+- **Cut Log (Rustico):** A sharp, cylindrical cut with no rounding of the edges. Very rustic; maximizes the "fluff" factor by avoiding compression.
+- **Fork-Rolled:** Rolled over the back of fork tines to create gentle, slightly irregular ridges and a concave back.
+- **Gnocchi Board (Rigagnocchi):** The professional standard. Rolled down a grooved wooden paddle for deep, precise, uniform ridges with maximum surface area for sauce capture.
+
+**Group 2: The Dragged Shapes (Friction-Based)**
+
+- **Cavatelli:** "Little hollows." Formed by dragging a small piece of dough with two fingers against a wooden board. Creates a smooth, rolled shell shape with a hollow center.
+- **Malloreddus (Gnocchetti Sardi):** A semolina-based shape rolled on a fine board to create a tight, ribbed shell. Denser and chewier than potato gnocchi.
+- **The Thumbprint:** A thumb pressed deep into the center of the pillow, creating a cup reservoir designed to hold heavy ragùs.
+
+**Group 3: The Texture Hacks (Modern & Alternative)**
+
+- **Grater Rolled:** Rolling the dough down the fine side of a box grater. Creates an aggressive, shaggy texture that grabs cheese sauces exceptionally well.
+- **Chicche ("Gems"):** Miniature hazelnut-sized gnocchi, left smooth. Designed for soups or broths where a large dumpling would overwhelm.
+
+**Group 4: The Structural Outliers**
+
+- **Gnocchi alla Romana:** The semolina disc. Cut from a cooled slab rather than rolled. Flat surface area designed to crisp under a broiler.
+- **Gnocchi Ripieni (Stuffed):** A larger, flattened pillow folded over a filling. Sealed edges, bulges at center.
+- **Pici di Patate:** The linear gnocchi — dough rolled into thick, worm-like noodles rather than cut into segments.
+
+---
+
+## Glossary
+
+- **Retrogradation:** The process by which starch molecules re-associate after cooking, creating a firmer, more stable structure; crucial for baked-potato gnocchi dough cohesion.
+- **Coagulation:** The clumping together of protein molecules under heat; the binding mechanism in ricotta-based gnocchi.
+- **Gelatinization:** The process of starch granules absorbing water and swelling when heated, creating a thickened paste; the structural principle of semolina-based gnocchi.
+- **Moisture Management:** The practice of controlling water content during dough formation — the central technique in all three gnocchi styles.
+- **Ricer:** A kitchen tool that forces cooked starch through small holes, producing a light, lump-free texture while maximizing steam release.
+
+## Keywords
+
+gnocchi, potato gnocchi, ricotta gnocchi, semolina, starch, retrogradation, moisture management, les fonds, foundation dough, italian, dumpling
+
+## Category
+
+cuisine: Italian | style: Modern

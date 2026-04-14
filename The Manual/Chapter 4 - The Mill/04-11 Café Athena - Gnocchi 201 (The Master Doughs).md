@@ -1,5 +1,7 @@
 # Café Athena - Gnocchi 201 (The Master Doughs)
 
+> **This recipe has moved.** The canonical version is now **Recipe 12-08** in Chapter 12 — Les Fonds. This file is retained as a reference stub.
+
 A comparative study of starch structures: Potato (Tuber), Ricotta (Protein), and Semolina (Durum).
 
 **Yield:** 3 distinct batches (~4 servings each) | **Prep:** 90 min | **Inactive:** 1 hr | **Cook:** Varied

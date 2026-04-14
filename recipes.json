@@ -3273,6 +3273,102 @@
         "status": "clean",
         "issues": []
       }
+    },
+    {
+      "id": "12-07",
+      "title": "The \"Rich Yolk\" Pasta Dough (Laminated)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "04-05",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-08",
+      "title": "Gnocchi 201 (The Master Doughs)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "04-11",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-09",
+      "title": "The Definitive Guide to Egg Pasta",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "04-16",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-10",
+      "title": "The Quintessential Spinach Pasta",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "04-17",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
     }
   ]
 }

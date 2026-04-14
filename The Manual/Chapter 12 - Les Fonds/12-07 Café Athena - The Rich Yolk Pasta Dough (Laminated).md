@@ -1,0 +1,89 @@
+# Café Athena - The "Rich Yolk" Pasta Dough (Laminated)
+
+A luxurious, silk-textured dough utilizing high-fat yolk hydration and structural lamination.
+
+**Yield:** ~450 g dough (4 servings) | **Prep:** 45 min | **Inactive:** 30 min | **Total:** ~1 hr 15 min
+
+---
+
+## Headnote
+
+Standard pasta dough relies on water to build a chewy gluten network. By replacing that water almost entirely with egg yolks, we introduce lipids that coat the flour proteins, inhibiting tight bonding. This results in a dough with high plasticity — it is silky and tender rather than rubbery.
+
+**Teaching Idea: Lamination.** Just like puff pastry, we "book fold" the pasta sheets during rolling. This aligns the gluten strands longitudinally, giving the noodle structural integrity (a "snap") despite its high fat content.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Weigh the liquids:** Crack and separate eggs until you reach the exact gram weight for yolks. Do not rely on a count — egg sizes vary.
+- **Prepare the station:** Clean a wide section of countertop (wood or stone preferred).
+- **Prepare storage:** Have plastic wrap ready for the hydration rest.
+
+---
+
+## Ingredients
+
+### The Dry Base
+
+- 250 g (1 ½ cups + 1 tbsp) "00" pasta flour (Molino Caputo type)
+- 2 g (½ tsp) Diamond Crystal kosher salt
+
+### The Liquid Gold
+
+- 50 g (1 large) whole egg
+- 135 g (approx. 7–8) egg yolks
+- 5 ml (1 tsp) olive oil (optional, for sheen)
+
+---
+
+## Method
+
+**Phase 1: The Well & Emulsion** Dump the flour onto your work surface in a high pile. Use the bottom of a bowl to create a wide, deep crater in the center (the "volcano"). Pour the whole egg, egg yolks, salt, and oil into the crater. Using a fork, vigorously whisk the eggs inside the well until uniform and the salt is dissolved.
+
+> **Why:** Dissolving salt in the liquid ensures it is distributed evenly throughout the dough, preventing grainy spots.
+
+**Phase 2: Incorporation** Clear the fork around the inner rim of the flour wall, gradually pulling small amounts of flour into the egg pool. Whisk continuously to create a thick, smooth batter.
+
+> **Sensory Cue:** Continue until the mixture is the consistency of thick custard and the walls of the volcano are thin and ready to collapse.
+
+Use a bench scraper to fold the remaining flour walls over the custard. Cut and fold the mass until a shaggy dough forms.
+
+**Phase 3: Development (The Knead)** Knead the dough with the heel of your hand — push the dough forward and down, rotate 90 degrees and fold it back. Continue for **8–10 minutes**. The dough will initially feel sticky, then tough, and finally smooth.
+
+> **Sensory Cue:** The dough is ready when it is uniform in color (no dry flour streaks), feels like smooth skin, and springs back slowly when poked.
+
+**Phase 4: Hydration Rest** Form the dough into a smooth ball. Wrap strictly in plastic wrap (no air contact) and let rest at room temperature for **30 minutes**.
+
+> **Why:** This rest allows the water in the yolks to fully penetrate the starch granules and lets the gluten network relax, making the dough easier to roll.
+
+**Phase 5: Lamination (The Book Fold)** Cut off a quarter of the dough (keep the rest wrapped). Flatten slightly and run through the pasta machine on the widest setting. Lay the resulting oval on the bench. Fold the right third over the center, then the left third over that (like a letter). Rotate the dough 90 degrees. Flatten with a rolling pin to help it feed, then run through the widest setting again. Repeat this fold/roll process 2–3 times before thinning the sheet to the desired setting (usually setting 6 for tagliatelle).
+
+> **Why:** This process aligns the protein strands into longitudinal layers, building structural integrity without making the dough tough.
+
+---
+
+## Chef's Notes / Variations
+
+- **Flour Type:** If "00" flour is unavailable, all-purpose can be substituted — the texture will be slightly chewier and less silky. For a more rustic result, substitute 50% of the flour with semolina rimacinata.
+- **Leftover Whites:** You will have roughly 7–8 egg whites leftover. Use them for meringues, macarons (Chapter 9), or for clarifying stocks (Recipe 10-01).
+- **Drying:** Because this dough is egg-rich, it oxidizes (turns gray) quickly. Cook immediately after cutting, or freeze in nests dusted with semolina.
+- **Foundation Reference:** For the complete egg pasta production guide covering mixing methods, rolling settings, and cook times, see Recipe 12-09.
+
+---
+
+## Glossary
+
+- **"00" Flour:** An Italian milling classification indicating the finest grind, resulting in a very white, silky powder ideal for tender pasta.
+- **Plasticity:** The property of a material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape without springing back immediately.
+- **Lamination (Pasta):** The process of folding and re-rolling pasta dough to align gluten strands and build structure.
+- **Volcano Method:** A technique for incorporating liquid into flour by creating a well, preventing gluten development and resulting in a tender dough.
+- **Hydration:** The absorption of egg yolk liquid into starch granules during the rest period.
+
+## Keywords
+
+rich yolk pasta, laminated pasta dough, egg yolk, gluten inhibition, fat hydration, italian, les fonds, foundation dough, pasta, silk texture
+
+## Category
+
+cuisine: Italian | style: Modern
