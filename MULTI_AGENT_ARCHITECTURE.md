@@ -1,7 +1,7 @@
 # Café Athena — Multi-Agent Architecture
 
-**Version:** 1.1  
-**Last Updated:** 2026-04-06  
+**Version:** 1.2  
+**Last Updated:** 2026-04-14  
 **Status:** Active  
 
 This document describes the full multi-agent ecosystem for the Café Athena cookbook project, including each agent's role, the relationships between them, identified improvement opportunities, and recommended next steps.
@@ -35,8 +35,11 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
 | **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
 | **Copilot Agent — Markdownlint QA** | `.github/agents/markdownlint-qa.agent.md` | VS Code Copilot Chat | read, edit, search, execute | Same pipeline, accessible from VS Code standard chat |
+| **Copilot Skill — Site Development** | `.github/skills/cafe-athena-site-dev/SKILL.md` | VS Code Copilot Chat | All Copilot tools | Site changes, feature planning, LocalHost testing, and deploy coordination for cookbook.kevinward.com |
 
 > **Claude Code-only note:** Both Claude Code sub-agents and all `.agents/workflows/` slash commands run exclusively inside Claude Code (CLI or VS Code extension). They are not compatible with VS Code's standard chat panel or GitHub Copilot chat — those surfaces do not have access to the Claude Code slash command system or sub-agent framework.
+>
+> **VS Code Copilot primitives (`.github/agents/`, `.github/skills/`)** are a separate, compatible surface. Copilot agents and skills *do* work in VS Code's standard chat panel and are listed in the Agent Inventory above. They cannot invoke Claude Code workflows directly.
 
 Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Code sub-agent executes:
 
@@ -235,6 +238,7 @@ Listed in priority order:
 | ✅ Done | Fix settings portability (absolute paths) | Fixed in a prior session |
 | ✅ Done | Fix workflow tool names (Desktop Commander → Claude Code) | Fixed in a prior session |
 | ✅ Done | Add Markdownlint QA sub-agent | Two-stage lint pipeline (deterministic + Ollama) with 4 modes and authorization gates |
+| ✅ Done | Add Copilot Skill — Site Development | VS Code Copilot Chat skill for implementing and planning site changes on cookbook.kevinward.com |
 | ⏸ Deferred | Create `TROUBLESHOOTING.md` for Claude Code error recovery | Defer until there are recurring errors worth documenting |
 | ⏸ Skipped | Enhance `/format-audit` for single-authorization batch output | Current per-recipe authorization is intentional quality control — do not change |
 | ⏸ Skipped | Retire Claude Desktop `Claude-Desktop/` folder | Claude Desktop is still in active use for Modes 1–3; folder stays |
@@ -271,7 +275,7 @@ Claude Code supports a "co-work" pattern where multiple sub-agents run in parall
 
 1. **Authorization model** — The current `/format-audit` and `/glossary-pull` workflows have per-recipe stop points requiring human confirmation. Bulk operation via co-work would need a "batch authorization" mode where the user approves the full chapter output at once rather than recipe by recipe. Is that acceptable for glossary and keyword work? (Format audits are higher stakes and may still need per-recipe review.)
 
-2. **Conflict risk** — If multiple agents write to the same file (e.g., the main glossary) simultaneously, there is a merge conflict risk. Glossary pulls in particular all write to `Café Athena - Glossary.md`. Co-work agents would need to either run sequentially for that file, or each produce a diff that gets merged in a final step.
+2. **Conflict risk** — If multiple agents write to the same file (e.g., the main glossary) simultaneously, there is a merge conflict risk. Glossary pulls each write to a per-letter file in `The Manual/Glossary/`. Co-work agents writing to the same letter file would need to run sequentially, or each produce a diff that gets merged in a final step.
 
 3. **Context cost** — Each co-work agent starts with full context overhead. For 69 glossary pulls, spawning 69 agents is expensive. A better model may be one agent per chapter (7 agents for glossary work) rather than one per recipe.
 

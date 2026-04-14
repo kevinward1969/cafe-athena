@@ -68,6 +68,20 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 ---
 
+---
+
+## VS Code Copilot Skill — Site Development
+
+**File:** `.github/skills/cafe-athena-site-dev/SKILL.md`
+**Current Version:** 1.0
+**Status:** VS Code Copilot Chat only — no secondary surfaces. Not compatible with Claude Code sub-agents or `.agents/workflows/` slash commands.
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-04-14 | Initial release. Full Astro/Tailwind site development skill for cookbook.kevinward.com. Covers stack reference (Astro 6, Tailwind v4, Pagefind, GSAP), project layout, critical constraints (heroImage filename-only format, no tailwind.config.js), four-stage workflow (assess → plan → implement → test → commit → deploy), FastComet rsync deploy via SSH alias, content schema, pending site work (Part IV/Expo, banner images, SectionLayout bannerImage prop), and pre-completion checklist. |
+
+---
+
 ## Notes
 
 - Dates marked `—` are not recorded in the original files. Use `git log` to approximate if needed.
