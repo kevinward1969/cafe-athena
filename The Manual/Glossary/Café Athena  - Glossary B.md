@@ -5,9 +5,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## B
 
 - Bain-Marie: A technique utilizing a water bath to gently heat a vessel or its contents, promoting even temperature distribution.
-- Baker's Percentages: A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
-- Baker’s Percentage: A system of measuring ingredients based on the weight of the flour in a recipe, allowing for precise scaling and consistent results.
-- Baker’s Percentages: The use of mass measurements (grams) rather than volume measurements (cups) ensures consistent results, particularly in baking.
+- Baker’s Percentages: A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
 - Ball-Roll-Turn: A hand-kneading method where the dough is pushed forward with the heel of the hand, rolled back into a ball, and rotated 90° before the next push — building even gluten development in all directions.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
@@ -20,8 +18,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Blind Bake: Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.
 - Blitz Method: A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - Blond: A roux cooked until the Maillard reaction just begins, providing a nutty flavor and golden color.
-- Bloom (Gelatin): The process of hydrating gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve.
-- Bloom: To hydrate gelatin in cold water before heating, ensuring it dissolves evenly without clumping.
+- Bloom: To hydrate gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve evenly without clumping.
 - Blooming: The process of heating dried herbs or spices in fat to dissolve their fat-soluble flavor compounds and activate volatile oils.
 - Blue Tape: A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
 - Bordelaise: A classic French sauce traditionally made with red wine, bone marrow, shallots, and Madeira wine, offering a rich, intensely savory flavor.

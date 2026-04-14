@@ -10,19 +10,16 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 - Pearl Onions: Small, tightly clustered onions, often peeled and blanched before cooking, providing a delicate sweetness and texture.
-- Pearlescent: Describing the appearance of the cooked fish’s interior, indicating a degree of doneness.
+- Pearlescent: Describing the appearance of the cooked fish's interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
 - Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
 - Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to; also the thin, papery skin surrounding a nut.
-- pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
+- pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
 - Pigment Fixation: The stabilization of natural plant pigments (chlorophyll, anthocyanins) through controlled heat and rapid cooling, preserving visual vibrancy in finished preparations.
-- Pincage (Dough Mixing): A French technique of squeezing dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
-- Pincage: A delicate hand-mixing technique used in high-hydration doughs to gently incorporate ingredients without developing excessive gluten strength.
-- Pincé (or Pincage - Tomato): The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color.
-- Pincé: A French culinary term referring to the color change of a sauce or ingredient during cooking, specifically the transformation of tomato paste from red to a darker, brick-colored hue.
-- Pinçage: A French culinary term referring to the careful stirring and reduction of a sauce, particularly tomato-based sauces, to concentrate flavors and deepen color.
+- Pincage: A French dough technique of squeezing the dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
+- Pincé: The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color. Also refers to the color change during this process.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
 - Polenta: A traditional Italian dish made from coarsely ground cornmeal, cooked in water or broth to create a creamy porridge.
 - Polycarbonate: A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.

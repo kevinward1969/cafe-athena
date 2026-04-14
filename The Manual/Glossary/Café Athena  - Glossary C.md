@@ -7,7 +7,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
-- Calcium Lactate Gluconate: A calcium salt used as a setting agent in reverse spherification, offering a flavorless reaction compared to calcium chloride.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
@@ -24,13 +23,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+- CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Coagulation: The process of protein molecules clumping together, as seen in ricotta, contributing to the binding properties of the gnocchi dough.
 - Cognitive Load: The deliberate organization of a workstation minimizes the mental effort required for task execution by reducing the need for constant searching and retrieval.
 - Coil Fold: A folding technique in bread making where the dough is lifted and folded under itself in a spiral motion to build strength and develop gluten.
 - Cold Retardation: Slowing fermentation by placing dough in a refrigerator, which firms its structure and develops flavor complexity.
 - Cold Smoking: Exposing food to smoke at temperatures below 90°F/32°C. Adds flavor without cooking the product.
-- Collagen Hydrolysis: The process by which collagen breaks down into gelatin due to heat, resulting in tender meat.
 - Collagen: A structural protein in connective tissue that converts to gelatin when cooked slowly with moisture.
+- Collagen Hydrolysis: The process by which collagen breaks down into gelatin due to heat, resulting in tender meat.
 - Colloidal Suspension: A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 - Competitive Exclusion: A biological phenomenon where one microorganism inhibits the growth of another by occupying a resource.
 - Compound Butter (Beurre Composé): Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
@@ -43,11 +43,9 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Convection: A heat transfer method involving the movement of fluids (air or liquid) to distribute heat.
 - Couche: A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
 - Court-Bouillon: A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
-- CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
 - Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.
 - Cure: A process utilizing a high-salinity environment to firm the texture of an oily fish while infusing seasoning.
 - Curing Salt #1 (Nitrite): Sodium nitrite added to meat products to inhibit bacterial growth, preserve color, and enhance flavor; used in small quantities for its preservative properties.
-- Curing Salt #1: Sodium nitrite used in small quantities to inhibit bacterial growth and maintain color in cured meats.

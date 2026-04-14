@@ -21,16 +21,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Scoring: The precise cutting of dough surface with a lame or other sharp instrument to control expansion during baking.
 - Scrape (Bench Scrape): A tool used to cut and fold dough, ensuring even incorporation of flour and preventing tearing.
 - Sear: The rapid browning of food's surface through direct, high-heat contact, creating a desirable Maillard reaction crust.
-- Searing: A high-heat cooking technique using direct contact with a hot surface to develop a browned crust on food.
 - Seasoning: The polymerized layer of oil that develops on cast iron cookware, enhancing its non-stick properties and protecting against rust.
 - Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
 - Sensory Cue: A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
 - Separation: The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
-- Shear Force / Shear Power: The mechanical force applied by blender blades to tear apart solid particles or oil droplets and disperse them into the liquid, creating a tighter emulsion.
 - Shear Force: A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
-- Shear-Thinning Rheology: A property of certain fluids where their viscosity decreases under stress, allowing them to flow more easily when agitated or poured.
-- Shear-Thinning: A property exhibited by certain fluids, such as xanthan gum solutions, where viscosity decreases under shear stress (e.g., shaking or blending).
+- Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.

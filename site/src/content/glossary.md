@@ -28,7 +28,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Anthocyanins: Water-soluble pigments responsible for red, purple, and blue colors in plants (e.g., purple cabbage). Heat-stable in acidic or neutral environments when shocked immediately after blanching.
 - Aromatics: Fragrant plant materials, such as garlic and herbs, used to enhance the flavor of a dish.
 - Arroser (or Arrosé): The French technique of basting meat, fish, or vegetables with foaming butter and aromatics during cooking to ensure even heat distribution and flavor penetration.
-- Arrosé: A culinary technique involving the continuous basting of food with melted butter and aromatics during the final stages of cooking to enhance flavor and texture.
 - Atmospheric Pressure: The force exerted by the weight of air above a given point, utilized in vacuum compression to remove internal gases from food.
 - Au Sec: "Nearly dry." Reducing a liquid until only a teaspoon or so remains.
 - Auger: The spiral drill bit inside a meat grinder that pushes food toward the cutting blade.
@@ -37,9 +36,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## B
 
 - Bain-Marie: A technique utilizing a water bath to gently heat a vessel or its contents, promoting even temperature distribution.
-- Baker's Percentages: A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
-- Baker’s Percentage: A system of measuring ingredients based on the weight of the flour in a recipe, allowing for precise scaling and consistent results.
-- Baker’s Percentages: The use of mass measurements (grams) rather than volume measurements (cups) ensures consistent results, particularly in baking.
+- Baker’s Percentages: A method of expressing ingredient quantities as percentages of the total flour weight, ensuring consistent results when scaling recipes.
 - Ball-Roll-Turn: A hand-kneading method where the dough is pushed forward with the heel of the hand, rolled back into a ball, and rotated 90° before the next push — building even gluten development in all directions.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
@@ -52,8 +49,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Blind Bake: Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.
 - Blitz Method: A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - Blond: A roux cooked until the Maillard reaction just begins, providing a nutty flavor and golden color.
-- Bloom (Gelatin): The process of hydrating gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve.
-- Bloom: To hydrate gelatin in cold water before heating, ensuring it dissolves evenly without clumping.
+- Bloom: To hydrate gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve evenly without clumping.
 - Blooming: The process of heating dried herbs or spices in fat to dissolve their fat-soluble flavor compounds and activate volatile oils.
 - Blue Tape: A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
 - Bordelaise: A classic French sauce traditionally made with red wine, bone marrow, shallots, and Madeira wine, offering a rich, intensely savory flavor.
@@ -74,7 +70,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
-- Calcium Lactate Gluconate: A calcium salt used as a setting agent in reverse spherification, offering a flavorless reaction compared to calcium chloride.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
@@ -91,13 +86,14 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+- CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Coagulation: The process of protein molecules clumping together, as seen in ricotta, contributing to the binding properties of the gnocchi dough.
 - Cognitive Load: The deliberate organization of a workstation minimizes the mental effort required for task execution by reducing the need for constant searching and retrieval.
 - Coil Fold: A folding technique in bread making where the dough is lifted and folded under itself in a spiral motion to build strength and develop gluten.
 - Cold Retardation: Slowing fermentation by placing dough in a refrigerator, which firms its structure and develops flavor complexity.
 - Cold Smoking: Exposing food to smoke at temperatures below 90°F/32°C. Adds flavor without cooking the product.
-- Collagen Hydrolysis: The process by which collagen breaks down into gelatin due to heat, resulting in tender meat.
 - Collagen: A structural protein in connective tissue that converts to gelatin when cooked slowly with moisture.
+- Collagen Hydrolysis: The process by which collagen breaks down into gelatin due to heat, resulting in tender meat.
 - Colloidal Suspension: A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 - Competitive Exclusion: A biological phenomenon where one microorganism inhibits the growth of another by occupying a resource.
 - Compound Butter (Beurre Composé): Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
@@ -110,31 +106,30 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Convection: A heat transfer method involving the movement of fluids (air or liquid) to distribute heat.
 - Couche: A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
 - Court-Bouillon: A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
-- CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
 - Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.
 - Cure: A process utilizing a high-salinity environment to firm the texture of an oily fish while infusing seasoning.
 - Curing Salt #1 (Nitrite): Sodium nitrite added to meat products to inhibit bacterial growth, preserve color, and enhance flavor; used in small quantities for its preservative properties.
-- Curing Salt #1: Sodium nitrite used in small quantities to inhibit bacterial growth and maintain color in cured meats.
 
 ## D
 
 - Danger Zone: The temperature range (41°F to 135°F) where bacterial growth is most rapid and poses the greatest risk of foodborne illness.
 - Dashi: A foundational Japanese broth traditionally made from kombu (kelp) and katsuobushi (dried bonito flakes), prized for its intense umami flavor.
-- DDT (Desired Dough Temperature): The specific target temperature for dough after mixing to ensure predictable fermentation timing.
 - De-gas: The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
 - Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
 - Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
+- Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Desiccation: The removal of moisture. Essential for efficient browning.
-- Desired Dough Temperature (DDT): A calculated target temperature for dough fermentation, typically maintained through precise control of water temperature and environmental factors.
+- Desired Dough Temperature (DDT): A calculated target temperature for dough after mixing to ensure predictable fermentation. Maintained through precise control of water temperature and environmental factors.
+- Détrempe: The base ball of dough that encases the butter in laminated pastries.
 - Dextrinization: The process of breaking down starch into pyrodextrins through dry heat, enhancing flavor and creating a non-sticky, crisp surface.
 - Diamond Crystal Kosher: A specific type of kosher salt characterized by its hollow, pyramid-shaped crystals and low density.
-- Diastatic Malt Powder: An enzymatic malt extract that aids in starch conversion during fermentation, contributing to dough extensibility and flavor.
 - Diastatic Malt: Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
+- Diastatic Malt Powder: An enzymatic malt extract that aids in starch conversion during fermentation, contributing to dough extensibility and flavor.
 - Diffusion: The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the food).
 - Dimple: A technique used during shaping to create structural support and prevent excessive oven spring in high-hydration doughs.
 - Dimpled: Characterized by indentations or depressions in the surface.
@@ -149,8 +144,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
-- Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
-- Détrempe: The base ball of dough that encases the butter in laminated pastries.
 
 ## E
 
@@ -195,8 +188,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
-- Glutamate: An amino acid responsible for the umami taste sensation. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
-- Glutamates (Umami): A class of amino acids responsible for the savory, meaty flavor profile, particularly when present in concentrated form.
+- Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 - Glutenin: A key protein found in wheat flour that contributes to dough elasticity and extensibility.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
@@ -245,8 +237,7 @@ No glossary terms yet.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
-- Lamination (Pasta): The process of folding and re-rolling pasta dough through the thickest setting to build structure and achieve a uniform rectangular sheet.
-- Lamination: The process of layering dough sheets, achieved by the pasta roller, resulting in a desirable "snap" in the final product.
+- Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.
 - Lardons: Small cubes or strips of fatty bacon that have been rendered until the fat cooks out and the meat crisps. The term comes from the French lard (cured pork fat).
 - Lecithin: A fatty substance found in egg yolks that bonds with both water and oil, stabilizing the mixture.
 - Leidenfrost Effect: A phenomenon where a liquid droplet suspended above a hot surface vaporizes due to the intense heat, creating a cushion that prevents direct contact.
@@ -317,19 +308,16 @@ No glossary terms yet.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 - Pearl Onions: Small, tightly clustered onions, often peeled and blanched before cooking, providing a delicate sweetness and texture.
-- Pearlescent: Describing the appearance of the cooked fish’s interior, indicating a degree of doneness.
+- Pearlescent: Describing the appearance of the cooked fish's interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
 - Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
 - Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to; also the thin, papery skin surrounding a nut.
-- pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
+- pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
 - Pigment Fixation: The stabilization of natural plant pigments (chlorophyll, anthocyanins) through controlled heat and rapid cooling, preserving visual vibrancy in finished preparations.
-- Pincage (Dough Mixing): A French technique of squeezing dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
-- Pincage: A delicate hand-mixing technique used in high-hydration doughs to gently incorporate ingredients without developing excessive gluten strength.
-- Pincé (or Pincage - Tomato): The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color.
-- Pincé: A French culinary term referring to the color change of a sauce or ingredient during cooking, specifically the transformation of tomato paste from red to a darker, brick-colored hue.
-- Pinçage: A French culinary term referring to the careful stirring and reduction of a sauce, particularly tomato-based sauces, to concentrate flavors and deepen color.
+- Pincage: A French dough technique of squeezing the dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
+- Pincé: The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color. Also refers to the color change during this process.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
 - Polenta: A traditional Italian dish made from coarsely ground cornmeal, cooked in water or broth to create a creamy porridge.
 - Polycarbonate: A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.
@@ -395,16 +383,13 @@ No glossary terms yet.
 - Scoring: The precise cutting of dough surface with a lame or other sharp instrument to control expansion during baking.
 - Scrape (Bench Scrape): A tool used to cut and fold dough, ensuring even incorporation of flour and preventing tearing.
 - Sear: The rapid browning of food's surface through direct, high-heat contact, creating a desirable Maillard reaction crust.
-- Searing: A high-heat cooking technique using direct contact with a hot surface to develop a browned crust on food.
 - Seasoning: The polymerized layer of oil that develops on cast iron cookware, enhancing its non-stick properties and protecting against rust.
 - Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
 - Sensory Cue: A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
 - Separation: The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
-- Shear Force / Shear Power: The mechanical force applied by blender blades to tear apart solid particles or oil droplets and disperse them into the liquid, creating a tighter emulsion.
 - Shear Force: A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
-- Shear-Thinning Rheology: A property of certain fluids where their viscosity decreases under stress, allowing them to flow more easily when agitated or poured.
-- Shear-Thinning: A property exhibited by certain fluids, such as xanthan gum solutions, where viscosity decreases under shear stress (e.g., shaking or blending).
+- Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
@@ -475,8 +460,7 @@ No glossary terms yet.
 - Vesicles: Small, fluid-filled sacs within citrus fruit that contain the juice, contributing to the fruit's flavor and texture.
 - Viscosity: The measure of a fluid's resistance to flow (thickness).
 - Visual Cue: A descriptor referring to the desired appearance of a prepared dish, guiding the cook in assessing its quality.
-- Volcano Method: A technique for incorporating liquid into flour, creating a well to prevent gluten development and resulting in a tender dough.
-- Volcano: A technique used when hydrating flour, referring to the method of creating a mound of flour to receive the liquid ingredient.
+- Volcano Method: A technique for incorporating liquid into flour by creating a well in a mound of dry ingredients, allowing gradual hydration and preventing gluten overdevelopment.
 - Volume: A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
 
 ## W

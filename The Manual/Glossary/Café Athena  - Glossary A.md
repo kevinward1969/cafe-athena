@@ -24,7 +24,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Anthocyanins: Water-soluble pigments responsible for red, purple, and blue colors in plants (e.g., purple cabbage). Heat-stable in acidic or neutral environments when shocked immediately after blanching.
 - Aromatics: Fragrant plant materials, such as garlic and herbs, used to enhance the flavor of a dish.
 - Arroser (or Arrosé): The French technique of basting meat, fish, or vegetables with foaming butter and aromatics during cooking to ensure even heat distribution and flavor penetration.
-- Arrosé: A culinary technique involving the continuous basting of food with melted butter and aromatics during the final stages of cooking to enhance flavor and texture.
 - Atmospheric Pressure: The force exerted by the weight of air above a given point, utilized in vacuum compression to remove internal gases from food.
 - Au Sec: "Nearly dry." Reducing a liquid until only a teaspoon or so remains.
 - Auger: The spiral drill bit inside a meat grinder that pushes food toward the cutting blade.

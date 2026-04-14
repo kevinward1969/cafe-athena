@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-13 (session 3)
+Last Updated: 2026-04-14
 
 ## 🎯 Active Development
 
@@ -42,7 +42,7 @@ Last Updated: 2026-04-13 (session 3)
 - **Section & Chapter Banner Images**: Full-bleed panoramic banners (~1920×380px WebP) for each section page and each chapter. Generated via Gemini Gem 2. See image briefs below. Implementation: add optional `bannerImage` prop to `SectionLayout.astro`. Naming: `banner-academy.webp`, `banner-brigade.webp`, `banner-larder.webp`, `banner-ch03.webp` … `banner-ch12.webp`. All placed in `site/public/images/`.
 
 - **Glossary Pull**: ✅ Completed 2026-04-09 — all 127/127 recipes indexed.
-- **Glossary Audit**: Fixing structural issues, malformed headers, and alphabetization errors in the main glossary. Now actionable — run `/audit-glossary`.
+- **Glossary Audit**: ✅ Completed 2026-04-14 — removed 13 duplicate entries, fixed alphabetization in C, D, P, and merged near-identical variants. Old monolithic `Café Athena - Glossary.md` deleted; split-file format is now canonical.
 
 ---
 
@@ -75,7 +75,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 | Chapter 9 - The Pâtissier | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 10 - Stocks & Mother Sauces | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 11 - Spice Blends & Oils | Recipes | ✅ Complete (2026-04-09) |
-| Chapter 12 - Les Fonds | Recipes | ⏳ Pending (10 recipes live, format audit needed) |
+| Chapter 12 - Les Fonds | Recipes | ✅ Complete (2026-04-14) |
 
 ### PNG → WebP Optimization
 

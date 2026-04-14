@@ -9,8 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
-- Lamination (Pasta): The process of folding and re-rolling pasta dough through the thickest setting to build structure and achieve a uniform rectangular sheet.
-- Lamination: The process of layering dough sheets, achieved by the pasta roller, resulting in a desirable "snap" in the final product.
+- Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.
 - Lardons: Small cubes or strips of fatty bacon that have been rendered until the fat cooks out and the meat crisps. The term comes from the French lard (cured pork fat).
 - Lecithin: A fatty substance found in egg yolks that bonds with both water and oil, stabilizing the mixture.
 - Leidenfrost Effect: A phenomenon where a liquid droplet suspended above a hot surface vaporizes due to the intense heat, creating a cushion that prevents direct contact.

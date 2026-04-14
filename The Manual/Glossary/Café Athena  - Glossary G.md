@@ -10,8 +10,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
-- Glutamate: An amino acid responsible for the umami taste sensation. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
-- Glutamates (Umami): A class of amino acids responsible for the savory, meaty flavor profile, particularly when present in concentrated form.
+- Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 - Glutenin: A key protein found in wheat flour that contributes to dough elasticity and extensibility.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
