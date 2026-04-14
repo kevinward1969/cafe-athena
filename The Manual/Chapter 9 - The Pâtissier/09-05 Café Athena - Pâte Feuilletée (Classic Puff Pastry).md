@@ -1,3 +1,5 @@
+> **Note:** This recipe has moved to Chapter 12 — Les Fonds. See **12-05 Pâte Feuilletée (Classic Puff Pastry)** for the current version.
+
 # Café Athena - Pâte Feuilletée (Classic Puff Pastry)
 
 The architecture of lamination, creating thousands of crisp, shattered layers through mechanical leverage.

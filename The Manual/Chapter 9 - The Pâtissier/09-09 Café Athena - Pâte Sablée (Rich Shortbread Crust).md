@@ -60,6 +60,7 @@ True to its name (*sable* means "sand" in French), this dough prioritizes tender
 - **Handling Difficulty:** This is rated "Advanced" for handling. It cracks easily. If it breaks while transferring to the tart pan, do not panic. Press the pieces together like a puzzle; it fuses perfectly in the oven.
 - **Baking Temperature:** Because of the high sugar and egg yolk content, this dough burns quickly. Bake at a slightly lower temperature (325°F/160°C) compared to standard pie crusts.
 - **Chocolate Sablée:** Replace 30g of the All-Purpose Flour with 30g of high-quality Cocoa Powder in the Dry Mix.
+- **Production Reference:** For the full six-variant production master covering Pâte Sablée, Pâte Sucrée, Pâte Foncée, and more, see Recipe 12-02 — Foundation Tart Dough (Six Variants).
 
 ---
 

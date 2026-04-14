@@ -1,0 +1,86 @@
+# Café Athena - Rough Puff Pastry (Demi-Feuilletée)
+
+The "Cheat's Puff." A rapid lamination technique that creates a flaky, shattered texture perfect for sausage rolls, galettes, or quick mille-feuille.
+
+**Yield:** ~1 kg (2.2 lbs) | **Prep:** 20 min | **Inactive:** 1 hr | **Cook:** N/A
+
+---
+
+## Headnote
+
+While Classic Pâte Feuilletée relies on a precision butter-block lock-in, Rough Puff relies on the Blitz Method. We deliberately under-mix the butter, leaving large, visible marble-sized chunks in the dough. The labor saving is real: four turns instead of six, no butter block shaping, no plasticity matching.
+
+**Teaching Idea: The Butter Mosaic.** When you roll out this chunky dough, the butter pieces flatten into long, thin ribbons. These ribbons separate the dough layers, creating the steam pockets necessary for lift — mimicking the structure of true lamination without the precision labor. The result is roughly 80% of the height of classic puff with 20% of the effort.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill everything:** Place the mixing bowl and flour in the freezer for 15 minutes before starting.
+- **Cube the butter:** Cut the butter into large 2 cm (¾ inch) cubes. Keep them frozen until the last second.
+- **Prepare ice water:** Dissolve the salt in the water and keep it on ice.
+
+---
+
+## Ingredients
+
+### The Dry Mix
+
+- 500 g (4 cups) all-purpose flour
+- 10 g (2 tsp) Diamond Crystal kosher salt
+- 50 g (¼ cup) granulated sugar (optional — include only for sweet applications)
+
+### The Fat & Liquid
+
+- 450 g (1 lb / 4 sticks) unsalted butter, frozen cubes
+- 200–225 g (¾–1 cup) ice water
+- 5 ml (1 tsp) lemon juice or white vinegar
+
+---
+
+## Method
+
+**Phase 1: The Blitz Mix** Place the flour and salt in the chilled bowl. Add the frozen butter cubes. Toss the butter in the flour to coat, then press each cube flat between your thumb and finger once. Do not rub.
+
+> **Why:** You want large, flat shards of butter — not a meal. If the butter becomes too small, it will incorporate into the dough (like a biscuit) rather than forming distinct layers.
+
+**Phase 2: Hydration** Make a well in the center of the flour and butter mixture. Add the lemon juice to the ice water, then pour 200 g (¾ cup) of the liquid into the well. Mix gently with a dough scraper or stiff spatula, folding the flour over the liquid. Add the remaining water only if dry flour pockets remain. The dough should be shaggy and barely holding together — do not force it into a smooth mass.
+
+**Phase 3: The Rough Turns (Lamination)** Dump the shaggy pile onto a lightly floured surface. Pat into a rough rectangle.
+
+**Turn 1:** Roll the dough into a long rectangle, approximately 15 × 38 cm (6 × 15 inches). The edges will be ragged — this is normal. Fold the top third down and the bottom third up (Letter Fold).
+
+**Turn 2:** Rotate the dough 90 degrees. Roll out again and fold immediately.
+
+> **Why:** Because the butter started frozen, you can usually perform the first two turns without resting. If the butter feels soft or greasy at any point, stop and refrigerate for 20 minutes before continuing.
+
+**Phase 4: Rest and Final Turns** Wrap the dough in plastic and refrigerate for **30 minutes**.
+
+**Turns 3 & 4:** Remove from the fridge. Perform two more Roll and Folds. Wrap and refrigerate for at least **1 hour** before using.
+
+> **Sensory Cue:** By the final turn, the dough should look smooth with visible yellow streaks of butter running through the white dough. This marbling is the visual confirmation that the butter is in distinct layers, not absorbed into the dough.
+
+---
+
+## Chef's Notes / Variations
+
+- **Temperature is everything:** The success of this dough depends entirely on the butter remaining solid throughout. If the butter melts into the dough at any point, the layers fuse and the lift disappears. In a warm kitchen, chill between every turn.
+- **Best use cases:** Savory pies, sausage rolls, Tarte Tatin, galettes, rough palmiers. This is not recommended for applications requiring extreme uniform vertical lift — use Classic Pâte Feuilletée (Recipe 12-05) for Vol-au-Vents and mille-feuille.
+- **Storage:** 3 days refrigerated, or 3 months frozen. Thaw overnight in the refrigerator.
+
+---
+
+## Glossary
+
+- **Demi-Feuilletée:** Literally "half-leaf" in French; a collective term for simplified puff pastry methods that achieve partial lamination with less labor.
+- **Blitz Method:** A mixing technique in which frozen butter is tossed into flour and left in large pieces before liquid is added, bypassing the traditional butter block step.
+- **Letter Fold (Single Turn):** A folding technique in which the dough is folded in thirds, like a business letter, creating three layers per turn.
+- **Lamination:** The creation of alternating layers of fat and dough through repeated rolling and folding; steam generated from the fat during baking forces the layers apart.
+
+## Keywords
+
+rough puff pastry, demi-feuilletée, blitz method, lamination, frozen butter, flaky pastry, galette, sausage roll, les fonds, foundation dough, French pastry
+
+## Category
+
+cuisine: French | style: Classical

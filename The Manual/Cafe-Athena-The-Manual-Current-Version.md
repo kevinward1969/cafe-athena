@@ -121,12 +121,8 @@
 * 09-01 Café Athena \- Brown Butter & Miso-Caramel Truffle Brownies  
 * 09-02 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies  
 * 09-03 Café Athena \- Sesame Tuile Cylinders (Noir & Orange)  
-* 09-04 Café Athena \- Pâte à Choux (The Steam Dough)  
-* 09-05 Café Athena \- Pâte Feuilletée (Classic Puff Pastry)  
-* 09-06 Café Athena \- Pâte Brisée (Classic Shortcrust)  
-* 09-07 Café Athena \- Pâte Sucrée (Sweet Tart Dough)  
-* 09-08 Café Athena \- Rough Puff Pastry (Demi-Feuilletée)  
-* 09-09 Café Athena \- Pâte Sablée (Rich Shortbread Crust)  
+* 09-07 Café Athena \- Pâte Sucrée (Sweet Tart Dough) *(see 12-02 for production master)*  
+* 09-09 Café Athena \- Pâte Sablée (Rich Shortbread Crust) *(see 12-02 for production master)*  
 * 09-10 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies  
 * 09-11 Café Athena \- Brandy-Infused Canelés de Bordeaux
 
@@ -169,4 +165,9 @@
 
 ## CHAPTER 12: LES FONDS
 
-* 12-01 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)
+* 12-01 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)  
+* 12-02 Café Athena \- Foundation Tart Dough (Six Variants)  
+* 12-03 Café Athena \- Pâte Brisée (Classic Shortcrust) *(moved from 09-06)*  
+* 12-04 Café Athena \- Pâte à Choux (The Steam Dough) *(moved from 09-04)*  
+* 12-05 Café Athena \- Pâte Feuilletée (Classic Puff Pastry) *(moved from 09-05)*  
+* 12-06 Café Athena \- Rough Puff Pastry (Demi-Feuilletée) *(moved from 09-08)*

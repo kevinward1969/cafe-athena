@@ -3019,7 +3019,7 @@
     },
     {
       "id": "12-02",
-      "title": "Foundation Tartlet Shells",
+      "title": "Foundation Tart Dough (Six Variants)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3028,6 +3028,102 @@
         "formatAudit": false,
         "keywordPull": true,
         "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-03",
+      "title": "Pâte Brisée (Classic Shortcrust)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "09-06",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-04",
+      "title": "Pâte à Choux (The Steam Dough)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "09-04",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-05",
+      "title": "Pâte Feuilletée (Classic Puff Pastry)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "09-05",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-06",
+      "title": "Rough Puff Pastry (Demi-Feuilletée)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-13",
+      "movedFrom": "09-08",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
         "heroImage": false,
         "heroImageOptimized": false,
         "referenceImages": false,

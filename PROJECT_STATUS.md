@@ -22,7 +22,7 @@ Last Updated: 2026-04-13 (session 2)
 
   Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
 
-- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. Home for recipes that carry, elevate, or frame other preparations — crisp cups, tuile baskets, rice crisps, croustades, etc. Molecular gastronomy component parts (gels, spheres, emulsions) that appear as sub-elements in technique folios could also live here in fuller detail. **12-01 Crispy Rice Platform** and **12-02 Foundation Tartlet Shells** are live. Next candidate: *Parmesan Cheese Crisp Cups* (in development).
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. All foundational doughs migrated from Chapter 9 — now 6 entries live: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry. Chapter 9 retains 09-07 and 09-09 as single-formula educational references pointing to 12-02. Next candidate: *Parmesan Cheese Crisp Cups* (in development).
 
 - **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
@@ -75,7 +75,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 | Chapter 9 - The Pâtissier | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 10 - Stocks & Mother Sauces | Recipes | ✅ Complete (2026-04-09) |
 | Chapter 11 - Spice Blends & Oils | Recipes | ✅ Complete (2026-04-09) |
-| Chapter 12 - Les Fonds | Recipes | ⏳ Pending (2 recipes live, format audit needed) |
+| Chapter 12 - Les Fonds | Recipes | ⏳ Pending (6 recipes live, format audit needed) |
 
 ### PNG → WebP Optimization
 
@@ -130,7 +130,11 @@ Use `/recipe-hero-image [index]` for each. Ch. 9 (zero coverage) is highest prio
 | 11-03 | Sodium Acetate (Salt & Vinegar Crystals) | Ch. 11 |
 | 11-04 | Burnt Allium Ash Salt | Ch. 11 |
 | 11-05 | Nashville Fire Paste (Lipophilic Heat) | Ch. 11 |
-| 12-02 | Foundation Tartlet Shells | Ch. 12 |
+| 12-02 | Foundation Tart Dough (Six Variants) | Ch. 12 |
+| 12-03 | Pâte Brisée (Classic Shortcrust) | Ch. 12 |
+| 12-04 | Pâte à Choux (The Steam Dough) | Ch. 12 |
+| 12-05 | Pâte Feuilletée (Classic Puff Pastry) | Ch. 12 |
+| 12-06 | Rough Puff Pastry (Demi-Feuilletée) | Ch. 12 |
 
 ---
 

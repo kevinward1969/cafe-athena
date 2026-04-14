@@ -1,3 +1,5 @@
+> **Note:** This recipe has moved to Chapter 12 — Les Fonds. See **12-06 Rough Puff Pastry (Demi-Feuilletée)** for the current version.
+
 # Café Athena - Rough Puff Pastry (Demi-Feuilletée)
 
 The "Cheat's Puff." A rapid lamination technique that creates a flaky, shattered texture perfect for sausage rolls, galettes, or quick mille-feuille.

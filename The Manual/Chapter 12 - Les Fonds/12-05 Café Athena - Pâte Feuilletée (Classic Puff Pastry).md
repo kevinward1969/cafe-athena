@@ -1,0 +1,92 @@
+# Café Athena - Pâte Feuilletée (Classic Puff Pastry)
+
+The architecture of lamination — creating hundreds of crisp, shattered layers through mechanical leverage alone.
+
+**Yield:** ~1.2 kg (2.5 lbs) | **Prep:** 1 hr | **Inactive:** 4 hr | **Cook:** N/A
+
+---
+
+## Headnote
+
+True puff pastry is a marvel of physics, not chemistry. There is no yeast or baking powder; the lift comes entirely from water in the butter flashing into steam, pushing apart the 729+ layers of dough created by six turns of lamination.
+
+**Teaching Idea: Plasticity Matching.** The most critical factor in lamination is ensuring the détrempe (dough) and the beurrage (butter block) have the exact same consistency. If the butter is too hard, it shatters through the dough layers rather than staying in plane. If too soft, it squirts out the sides and the layers fuse together.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill the workstation:** If your kitchen is above 72°F/22°C, chill your countertop with ice bags before starting.
+- **Temper the butter:** Remove butter from the fridge 20 minutes before starting the beurrage. It should be pliable but cool — press a finger into it; it should leave a clean indent without smearing.
+- **Prepare the water:** Dissolve the salt and vinegar in the cold water and keep it in the fridge until the moment of use.
+- **Measure the guides:** Have a ruler ready. Precision in rectangle size determines the evenness of your layers.
+
+---
+
+## Ingredients
+
+### The Détrempe (Dough Encasing)
+
+- 500 g (4 cups) all-purpose flour
+- 50 g (3 ½ tbsp) unsalted butter, melted and cooled
+- 10 g (2 tsp) Diamond Crystal kosher salt
+- 5 g (1 tsp) white vinegar or lemon juice
+- 225 g (1 cup minus 1 tbsp) ice water
+
+### The Beurrage (Butter Block)
+
+- 450 g (1 lb) European-style butter (82%+ fat), cool room temperature
+- 40 g (⅓ cup) all-purpose flour
+
+---
+
+## Method
+
+**Phase 1: The Détrempe (The Envelope)** In a large bowl, combine the flour and the melted butter. Rub in with your fingertips until the mixture resembles coarse meal. Make a well in the center. Pour in the cold water, salt, and vinegar mixture. Mix gently with a fork or dough scraper until a shaggy mass forms. Knead briefly — 5–6 folds — just enough to bring it together. Do not overwork. Pat into a 15 cm (6-inch) square, wrap in plastic, and refrigerate for **1 hour**.
+
+> **Why:** Resting relaxes the gluten developed during initial mixing, preventing the dough from fighting back during the rolling process.
+
+**Phase 2: The Beurrage (The Engine)** While the dough rests, place the cool butter and flour on parchment paper. Pound with a rolling pin to soften without melting. Work into a perfect 13 cm (5-inch) square block of even thickness. Wrap and refrigerate for 15 minutes.
+
+> **Sensory Cue:** Press the chilled dough block and the butter block with a finger. They should dent with the exact same amount of resistance. This is plasticity matching — the most important moment in the entire recipe.
+
+**Phase 3: The Lock-In** Roll the chilled détrempe into a 25 cm (10-inch) square — twice the size of the butter block. Place the butter block in the center, rotated 45 degrees (like a diamond inside a square). Fold the four corners of the dough over the butter to meet in the center, pinching the seams tightly. You now have a sealed square package.
+
+**Phase 4: The Turns (Lamination)** Roll the package into a long rectangle, approximately 20 × 50 cm (8 × 20 inches). Dust the surface with the minimum amount of flour. Fold the top third down and the bottom third up — a Letter Fold, also called a Single Turn.
+
+Rotate the block 90 degrees so the open "book spine" is on your right. Roll out again and fold a second time.
+
+> **Why:** Each turn multiplies the number of butter layers. Two turns create 9 layers; six turns total create 729.
+
+Mark the dough with two fingerprints to track your turn count. Wrap and refrigerate for **1 hour**.
+
+**Phase 5: Completion** Repeat the rolling and folding process in two more sets of two turns, resting 1 hour between each set, for a total of **6 Single Turns**. After the final turn, wrap tightly and refrigerate for at least 4 hours — preferably overnight — before using.
+
+> **Sensory Cue:** After the final rest, the cross-section of the dough should show clean, parallel striations of pale dough and yellow butter when you cut through it. Any visible merging of layers indicates the butter was too warm during a turn.
+
+---
+
+## Chef's Notes / Variations
+
+- **The Acid Variable:** Vinegar in the détrempe relaxes gluten proteins and prevents the dough from oxidizing and turning gray during the long resting periods.
+- **Rough Puff (Demi-Feuilletée):** For a faster version, see Recipe 12-06. It yields approximately 80% of the height with 20% of the effort.
+- **Freezing:** This dough freezes exceptionally well. Cut the finished block into four portions, wrap each in double plastic, and freeze for up to 3 months. Thaw overnight in the refrigerator before using.
+- **Baking temperature:** Always bake puff pastry at high heat — 400°F/200°C or above. The rapid steam generation is what drives the lift; a moderate oven produces a flat, greasy result.
+
+---
+
+## Glossary
+
+- **Détrempe:** The base ball of dough that encases the butter in a laminated pastry.
+- **Beurrage:** The prepared block of butter (mixed with a small amount of flour) used for lamination; the flour tightens the butter slightly to improve workability.
+- **Lamination:** The process of folding layers of butter into dough through repeated rolling and folding, creating a multi-layered structure.
+- **Plasticity:** The property of a solid fat to be shaped or molded without breaking or melting; the target state for the beurrage.
+- **Letter Fold (Single Turn):** A folding technique in which the dough is folded in thirds, like a business letter.
+
+## Keywords
+
+pâte feuilletée, puff pastry, lamination, détrempe, beurrage, butter block, french pastry, layers, les fonds, foundation dough, classical technique
+
+## Category
+
+cuisine: French | style: Classical

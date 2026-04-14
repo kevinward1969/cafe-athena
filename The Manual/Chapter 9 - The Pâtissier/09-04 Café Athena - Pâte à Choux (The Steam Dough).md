@@ -1,3 +1,5 @@
+> **Note:** This recipe has moved to Chapter 12 — Les Fonds. See **12-04 Pâte à Choux (The Steam Dough)** for the current version.
+
 # Café Athena - Pâte à Choux (The Steam Dough)
 
 A high-utility, twice-cooked dough that relies on internal steam for massive expansion and a hollow center.

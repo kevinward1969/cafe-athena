@@ -1,16 +1,4 @@
----
-title: "Foundation Tart Dough (Six Variants)"
-index: "12-02"
-chapter: 12
-chapterName: "Les Fonds"
-type: "recipe"
-heroImage: ""
-referenceImages: []
-keywords: ["tart dough", "pâte sucrée", "pâte sablée", "pâte foncée", "sablage", "creaming method", "fraisage", "blind baking", "frozen empty", "fat encapsulation", "gluten control", "tartlet shells", "les fonds", "French pastry", "production reference"]
-cuisine: "French"
-style: "Pastry"
-dietary: ""
----
+# Café Athena - Foundation Tart Dough (Six Variants)
 
 The production master for all sweet pastry shells — six variant formulas, three mixing methods, and three shaping techniques built from a single base.
 
@@ -234,3 +222,11 @@ Recipe 09-07 (Pâte Sucrée) and Recipe 09-09 (Pâte Sablée) are single-formula
 - **Pâte Foncée:** Literally "lined pastry"; a firmer, less sweet tart dough formulated with a small amount of cream alongside the egg to increase gluten elasticity for lining tall, deep-sided molds.
 - **Pâte Sablée:** Literally "sandy pastry"; a tart dough with a high fat-to-flour ratio and yolks as the sole hydration source, producing an extremely tender, crumbly texture that dissolves on the palate.
 - **Pâte Sucrée:** Literally "sweet pastry"; a tart dough formulated with a moderate sugar ratio, almond flour, and the Creaming Method to produce a fine-crumbed shell with a clean snap.
+
+## Keywords
+
+tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, French pastry, production reference
+
+## Category
+
+cuisine: French | style: Pastry
