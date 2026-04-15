@@ -22,7 +22,7 @@ Last Updated: 2026-04-15 (Ch. 4 reorganized)
 
   Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
 
-- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 15 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 The Master Laminated Frico. Chapter 9 retains 09-07 and 09-09 as single-formula educational references pointing to 12-02. Next candidate: 12-16 Non-Fish Caviar (Seeds & Spheres) — in development.
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 16 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 The Master Laminated Frico, 12-16 Sesame Tuile Cylinders (moved from Ch. 9). Next candidate: 12-17 Non-Fish Caviar (Seeds & Spheres) — in development.
 
 - **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
@@ -52,7 +52,7 @@ Last Updated: 2026-04-15 (Ch. 4 reorganized)
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-15):** 80/123 complete. Pending: 07-13, 08-04–08-06, 09-01–09-11 (all), 10-01–10-23, 11-01–11-05, 12-02–12-10.
+**Hero image status (2026-04-15):** 80/117 complete. Pending: 07-13, 08-04–08-06, 09-01–09-04, 10-01–10-23, 11-01–11-05, 12-02–12-10, 12-16.
 
 ---
 
@@ -83,7 +83,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 ### Hero Image Generation — Missing Entries (43 total)
 
-Use `/recipe-hero-image [index]` for each. Ch. 9 (zero coverage) is highest priority.
+Use `/recipe-hero-image [index]` for each. Ch. 9 now has 4 entries (01–04) — all still need images.
 
 | Index | Title | Chapter |
 | :--- | :--- | :--- |
@@ -93,15 +93,8 @@ Use `/recipe-hero-image [index]` for each. Ch. 9 (zero coverage) is highest prio
 | 08-06 | Onion Potato Crisps | Ch. 8 |
 | 09-01 | Brown Butter & Miso-Caramel Truffle Brownies | Ch. 9 |
 | 09-02 | Spicy Brown Butter & Lemon Cheesecake Cookies | Ch. 9 |
-| 09-03 | Sesame Tuile Cylinders | Ch. 9 |
-| 09-04 | Pâte à Choux (The Steam Dough) | Ch. 9 |
-| 09-05 | Pâte Feuilletée (Classic Puff Pastry) | Ch. 9 |
-| 09-06 | Pâte Brisée (Classic Shortcrust) | Ch. 9 |
-| 09-07 | Pâte Sucrée (Sweet Tart Dough) | Ch. 9 |
-| 09-08 | Rough Puff Pastry (Demi-Feuilletée) | Ch. 9 |
-| 09-09 | Pâte Sablée (Rich Shortbread Crust) | Ch. 9 |
-| 09-10 | Spicy Brown Butter & Lemon Cheesecake Cookies (v2) | Ch. 9 |
-| 09-11 | Brandy-Infused Canelés de Bordeaux | Ch. 9 |
+| 09-03 | Spicy Brown Butter & Lemon Cheesecake Cookies (v2) | Ch. 9 |
+| 09-04 | Brandy-Infused Canelés de Bordeaux | Ch. 9 |
 | 10-01 | High-Pressure White Chicken Stock | Ch. 10 |
 | 10-02 | Vibrant Basil Pesto (Genovese) | Ch. 10 |
 | 10-03 | Sauce Béchamel (Mother Sauce No. 1) | Ch. 10 |
@@ -139,6 +132,7 @@ Use `/recipe-hero-image [index]` for each. Ch. 9 (zero coverage) is highest prio
 | 12-08 | Gnocchi 201 (The Master Doughs) | Ch. 12 |
 | 12-09 | The Definitive Guide to Egg Pasta | Ch. 12 |
 | 12-10 | The Quintessential Spinach Pasta | Ch. 12 |
+| 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 |
 
 ---
 

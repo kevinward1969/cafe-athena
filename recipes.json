@@ -2190,10 +2190,10 @@
       }
     },
     {
-      "id": "09-03",
+      "id": "12-16",
       "title": "Sesame Tuile Cylinders (Noir & Orange)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2213,145 +2213,7 @@
       }
     },
     {
-      "id": "09-04",
-      "title": "Pâte à Choux (The Steam Dough)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-05",
-      "title": "Pâte Feuilletée (Classic Puff Pastry)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-06",
-      "title": "Pâte Brisée (Classic Shortcrust)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-07",
-      "title": "Pâte Sucrée (Sweet Tart Dough)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-08",
-      "title": "Rough Puff Pastry (Demi-Feuilletée)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-09",
-      "title": "Pâte Sablée (Rich Shortbread Crust)",
-      "chapter": 9,
-      "chapterName": "The Pâtissier",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-09",
-        "status": "clean",
-        "issues": []
-      }
-    },
-    {
-      "id": "09-10",
+      "id": "09-03",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
       "chapter": 9,
       "chapterName": "The Pâtissier",
@@ -2374,7 +2236,7 @@
       }
     },
     {
-      "id": "09-11",
+      "id": "09-04",
       "title": "Brandy-Infused Canelés de Bordeaux",
       "chapter": 9,
       "chapterName": "The Pâtissier",
