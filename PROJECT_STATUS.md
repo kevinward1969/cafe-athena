@@ -162,8 +162,8 @@ Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photogra
 | `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision | ✅ Live |
 | `banner-ch03.webp` | Ch. 3 — Garde Manger | Sweeping diagonal cold platter — pâté, mousse, tartare, smoked salmon, giardiniera on dark wood | ✅ Live |
 | `banner-ch04.webp` | Ch. 4 — The Mill | Flour-dusted bench, fresh pasta draped over a rack, bread scoring | ✅ Live |
-| `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface | ⬜ Pending |
-| `banner-ch06.webp` | Ch. 6 — The Poulterer | A whole duck or chicken, skin-on, with aromatics — raw and ready | ⬜ Pending |
+| `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface | ✅ Live |
+| `banner-ch06.webp` | Ch. 6 — The Poulterer | A whole duck or chicken, skin-on, with aromatics — raw and ready | ✅ Live |
 | `banner-ch07.webp` | Ch. 7 — The Butcher | Prime beef cross-section showing marbling, or butchery tools on a block | ⬜ Pending |
 | `banner-ch08.webp` | Ch. 8 — The Field | Root vegetables, fresh herbs, earthy tones — unpretentious and whole | ⬜ Pending |
 | `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble | ⬜ Pending |
