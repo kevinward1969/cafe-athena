@@ -159,7 +159,7 @@ Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photogra
 | File | Chapter | Subject | Status |
 | :--- | :--- | :--- | :--- |
 | `banner-ch01.webp` | Ch. 1 — The Lab | Flames under copper, bubbling reduction, a fluid gel setting — pure technique | ✅ Live |
-| `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision | ⬜ Pending |
+| `banner-ch02.webp` | Ch. 2 — The Foundation | Knives laid flat, mise en place grid, kitchen equipment arranged with precision | ✅ Live |
 | `banner-ch03.webp` | Ch. 3 — Garde Manger | A terrine sliced to reveal layers, or a cold platter of terrines and mousse | ⬜ Pending |
 | `banner-ch04.webp` | Ch. 4 — The Mill | Flour-dusted bench, fresh pasta draped over a rack, bread scoring | ⬜ Pending |
 | `banner-ch05.webp` | Ch. 5 — The Fishmonger | Whole fish on ice, or shellfish on a dark slate surface | ⬜ Pending |

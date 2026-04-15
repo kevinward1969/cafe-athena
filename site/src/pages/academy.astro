@@ -6,7 +6,7 @@ const allRecipes = await getCollection('recipes');
 
 const chapters = [
   { num: 1, name: 'The Lab', desc: 'Technique Folios — Science & Theory', bannerImage: '/images/banner-ch01.webp' },
-  { num: 2, name: 'The Foundation', desc: 'Station Management, Tools & Sanitation' }
+  { num: 2, name: 'The Foundation', desc: 'Station Management, Tools & Sanitation', bannerImage: '/images/banner-ch02.webp' }
 ].map(ch => ({
   ...ch,
   recipes: allRecipes
