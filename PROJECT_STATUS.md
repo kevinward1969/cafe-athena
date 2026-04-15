@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-15
+Last Updated: 2026-04-15 (Ch. 4 reorganized)
 
 ## 🎯 Active Development
 
@@ -52,7 +52,7 @@ Last Updated: 2026-04-15
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-09):** 84/127 complete. Pending: 07-13, 08-04–08-06, 09-01–09-11 (all), 10-01–10-23, 11-01–11-05.
+**Hero image status (2026-04-15):** 80/123 complete. Pending: 07-13, 08-04–08-06, 09-01–09-11 (all), 10-01–10-23, 11-01–11-05, 12-02–12-10.
 
 ---
 
