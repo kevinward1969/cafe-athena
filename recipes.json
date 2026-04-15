@@ -3083,8 +3083,8 @@
         "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -3107,8 +3107,8 @@
         "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -3131,8 +3131,8 @@
         "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -3155,8 +3155,8 @@
         "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true

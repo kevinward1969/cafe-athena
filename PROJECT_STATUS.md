@@ -52,7 +52,7 @@ Last Updated: 2026-04-15 (Ch. 4 reorganized; Ch. 10–12 banners live)
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-15):** 80/117 complete. Pending: 07-13, 08-04–08-06, 09-01–09-04, 10-01–10-23, 11-01–11-05, 12-02–12-10, 12-16.
+**Hero image status (2026-04-15):** 84/117 complete. Pending: 07-13, 08-04–08-06, 09-01–09-04, 10-01–10-23, 11-01–11-05, 12-02–12-06, 12-11–12-16.
 
 ---
 
