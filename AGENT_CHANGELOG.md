@@ -51,10 +51,11 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Gemini Gem 2 — The Visual Director
 
 **File:** `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`  
-**Current Version:** 1.0
+**Current Version:** 1.1
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.1 | 2026-04-15 | Added Ch. 12 (Les Fonds) to chapter style table — architectural/elemental style for structural bases (doughs, pastry creams, tuile, pasta). Updated marble surface exception to include Ch. 12 alongside Ch. 9. |
 | v1.0 | — | Initial release. Purpose-limited to hero image generation. Defines core aesthetic (warm editorial food photography), output constraints (one image, 16:9, ¾ overhead angle), and quality benchmarks. |
 
 ---

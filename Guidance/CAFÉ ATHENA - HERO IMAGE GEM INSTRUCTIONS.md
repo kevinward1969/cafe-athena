@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — HERO IMAGE GEM INSTRUCTIONS
 
-Version 1.0
+Version 1.1
 
 > **Purpose-limited surface** — This file governs image generation only (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `AGENT_CHANGELOG.md` for version history.
 
@@ -34,7 +34,7 @@ The style is **warm editorial food photography** — rich, moody, and approachab
 - **Always warm wood.** Butcher block, reclaimed wood table, or a worn wooden cutting board.
 - **Dark, rich wood tones** for braises, stews, and French bistro dishes.
 - **Lighter, more rustic wood** for grilled, smoked, or outdoor-style dishes.
-- Never use marble, slate, concrete, tile, or white surfaces as the primary surface. *(Exception: The Pâtissier — marble is acceptable for pastry.)*
+- Never use marble, slate, concrete, tile, or white surfaces as the primary surface. *(Exception: The Pâtissier (Ch. 9) and Les Fonds (Ch. 12) — marble is acceptable for pastry and dough components.)*
 
 ---
 
@@ -102,6 +102,7 @@ Avoid: cool tones, stark whites, bright saturated backgrounds, anything that rea
 | The Field (8) | Fresh and verdant — more natural daylight, lighter wood, herbs prominent; bright but still warm |
 | The Pâtissier (9) | Marble surface acceptable; soft diffused light; dusted sugar or powdered cocoa; elegant and precise |
 | The Larder (10–11) | Ingredient-focused — a jar, a pot, a ladle; minimal and elemental; emphasize texture of the base product |
+| Les Fonds (12) | Architectural and elemental — structural bases, not finished plates; marble acceptable for pastry and dough components; flour-dusted wood for pasta doughs; emphasize texture, layering, and craft over styled presentation; let the ingredient speak for itself |
 
 ---
 
