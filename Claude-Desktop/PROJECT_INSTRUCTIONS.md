@@ -166,7 +166,7 @@ Never assign a folio number from the attached `Current Version` document. Always
 Inline reference images are inserted as standalone paragraphs using this syntax:
 
 ```
-[ref:04-16a | The laminated pasta dough at final thickness]
+[ref:12-07a | The laminated pasta dough at final thickness]
 ```
 
 Letters are sequential per recipe index (a, b, c…). Use `/recipe-hero-image insert` to place them correctly. Source images live in the chapter folder in `The Manual/`; the pipeline copies them to `site/public/images/` on build. Never write directly to `site/public/images/`.

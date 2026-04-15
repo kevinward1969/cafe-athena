@@ -54,7 +54,7 @@ Images follow a two-type system. The canonical location for all processed images
 * **SHORTCODE SYNTAX** (in recipe body):
 
   ```
-  [ref:04-16a | The laminated pasta dough at final thickness]
+  [ref:12-07a | The laminated pasta dough at final thickness]
   ```
 
   The Astro build transforms this into a captioned `<figure>` element. The image must exist at `site/public/images/{index}{letter}.webp`, which the pipeline places there from the chapter folder.

@@ -6,9 +6,9 @@ description: Two-mode workflow for hero images — Create mode builds a Gemini p
 
 Invoked with:
 
-- `/recipe-hero-image [index]` — Create mode, e.g. `/recipe-hero-image 04-17`
-- `/recipe-hero-image optimize [index|chapter-N|all]` — Optimize mode, e.g. `/recipe-hero-image optimize 04-17` or `/recipe-hero-image optimize 04-17a` or `/recipe-hero-image optimize chapter-4` or `/recipe-hero-image optimize all`
-- `/recipe-hero-image insert [index] "[position hint]" "[caption]"` — Insert mode, e.g. `/recipe-hero-image insert 04-11 "after the gnocchi shapes list" "Gnocchi shape guide"`
+- `/recipe-hero-image [index]` — Create mode, e.g. `/recipe-hero-image 07-13`
+- `/recipe-hero-image optimize [index|chapter-N|all]` — Optimize mode, e.g. `/recipe-hero-image optimize 07-13` or `/recipe-hero-image optimize 07-13a` or `/recipe-hero-image optimize chapter-7` or `/recipe-hero-image optimize all`
+- `/recipe-hero-image insert [index] "[position hint]" "[caption]"` — Insert mode, e.g. `/recipe-hero-image insert 12-08 "after the gnocchi shapes list" "Gnocchi shape guide"`
 
 ---
 
@@ -82,10 +82,10 @@ Present the following instructions to the user:
 
 ### Phase 1 — Locate Folio and Determine Next Letter
 
-1. Identify the source chapter folder from the index (e.g., `04-11` → `The Manual/Chapter 4 - The Mill/`).
+1. Identify the source chapter folder from the index (e.g., `12-08` → `The Manual/Chapter 12 - Les Fonds/`).
 2. Read the source `.md` file (filename matches `{index}*`).
 3. Scan the file for existing `[ref:{index}*]` shortcodes to determine which letters are already used.
-4. The next available letter is the one immediately after the highest used (e.g., if `04-11a` and `04-11b` exist, next is `04-11c`). If none exist, start with `a`.
+4. The next available letter is the one immediately after the highest used (e.g., if `12-08a` and `12-08b` exist, next is `12-08c`). If none exist, start with `a`.
 
 ---
 
@@ -94,7 +94,7 @@ Present the following instructions to the user:
 1. Parse the position hint to identify the target section (e.g., `"after the gnocchi shapes list"` → look for the relevant heading or last list item in that section).
 2. Show the user the exact line where the shortcode will be inserted and the shortcode that will be written:
 
-   > *"I'll insert `[ref:04-11c | Caption]` after the line: `* **Pici di Patate:** …`"*
+   > *"I'll insert `[ref:12-08c | Caption]` after the line: `* **Pici di Patate:** …`"*
 
 **WAIT** for the user to confirm.
 
@@ -108,7 +108,7 @@ Present the following instructions to the user:
    [ref:{index}{letter} | {caption}]
    ```
 
-2. Confirm insertion: *"`[ref:04-11c | Caption]` inserted. Rename your source image to `04-11c.png` and run `/recipe-hero-image optimize 04-11c` before deploying."*
+2. Confirm insertion: *"`[ref:12-08c | Caption]` inserted. Rename your source image to `12-08c.png` and run `/recipe-hero-image optimize 12-08c` before deploying."*
 
 ---
 
@@ -119,7 +119,7 @@ Present the following instructions to the user:
 Determine which chapter-folder PNG/WebP files to process:
 
 - **`optimize {index}`** — single file: find `{index}.png` in the chapter folder for that recipe
-- **`optimize {index}{letter}`** — single reference image: find `{index}{letter}.png` (e.g., `04-11a.png`) in the chapter folder
+- **`optimize {index}{letter}`** — single reference image: find `{index}{letter}.png` (e.g., `12-08a.png`) in the chapter folder
 - **`optimize chapter-N`** — all `*.png` files in `The Manual/Chapter N - */`
 - **`optimize all`** — all `*.png` files across all chapter folders in `The Manual/`
 
@@ -137,7 +137,7 @@ Present a summary table of files to process:
 
 | Index | File | Size | Dimensions |
 |-------|------|------|------------|
-| 04-17 | Chapter 4 - The Mill/04-17.png | 6.2 MB | 3200 × 1746 |
+| 07-13 | Chapter 7 - The Butcher/07-13.png | 6.2 MB | 3200 × 1746 |
 
 Settings that will be applied:
 

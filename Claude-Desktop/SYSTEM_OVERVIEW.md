@@ -295,9 +295,9 @@ Run in the Claude Code CLI (Antigravity). Full definitions in `.agents/workflows
 | `/glossary-pull` | `/glossary-pull 04-15` | Merge recipe glossary terms into main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Add missing Keywords + Category sections |
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
-| `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build Gemini image prompt (Create mode) |
+| `/recipe-hero-image` | `/recipe-hero-image 07-13` | Build Gemini image prompt (Create mode) |
 | `/recipe-hero-image optimize` | `/recipe-hero-image optimize all` | Convert PNG → WebP, delete originals |
-| `/recipe-hero-image insert` | `/recipe-hero-image insert 04-11 "after shapes list" "Caption"` | Insert `[ref:]` shortcode at position |
+| `/recipe-hero-image insert` | `/recipe-hero-image insert 12-08 "after shapes list" "Caption"` | Insert `[ref:]` shortcode at position |
 | `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output handoff summary |
 
 ---

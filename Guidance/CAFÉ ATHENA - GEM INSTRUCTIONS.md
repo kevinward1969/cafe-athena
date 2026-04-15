@@ -249,7 +249,7 @@ These commands run in the Claude Code CLI (Antigravity). Workflow definitions li
 | `/glossary-pull` | `/glossary-pull 04-15` | Extract glossary terms from a recipe and merge alphabetically into the corresponding per-letter split glossary file at `The Manual/Glossary/` (duplicates skipped) |
 | `/keyword-pull` | `/keyword-pull 04-15` | Generate and append `## Keywords` and `## Category` sections to any recipe missing them |
 | `/audit-glossary` | `/audit-glossary` | Enforce strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication across the split glossary files in `The Manual/Glossary/` |
-| `/recipe-hero-image` | `/recipe-hero-image 04-17` | Build a Gemini image prompt from recipe frontmatter + headnote (Create mode); also supports `optimize` and `insert` sub-modes |
+| `/recipe-hero-image` | `/recipe-hero-image 07-13` | Build a Gemini image prompt from recipe frontmatter + headnote (Create mode); also supports `optimize` and `insert` sub-modes |
 | `/session-handoff` | `/session-handoff` | Update `PROJECT_STATUS.md`, commit all session changes, and output a 3-bullet handoff summary |
 
 **`/recipe-hero-image` sub-modes:**
@@ -267,14 +267,14 @@ Inline reference images are embedded in recipe body text using a shortcode proce
 **Syntax** (standalone paragraph — blank line above and below):
 
 ```
-[ref:04-16a | The laminated pasta dough at final thickness]
+[ref:12-07a | The laminated pasta dough at final thickness]
 ```
 
 **Rules:**
 
-* The image ID follows the recipe index with a sequential letter suffix: `04-16a`, `04-16b`, `04-16c`, etc.
+* The image ID follows the recipe index with a sequential letter suffix: `12-07a`, `12-07b`, `12-07c`, etc.
 * Letters are assigned in order — scan existing `[ref:]` shortcodes in the file to determine the next available letter.
 * Use `/recipe-hero-image insert` to place shortcodes correctly rather than inserting manually.
-* Source images live in the chapter folder in `The Manual/` (e.g., `The Manual/Chapter 4 - The Mill/04-16a.webp`).
+* Source images live in the chapter folder in `The Manual/` (e.g., `The Manual/Chapter 12 - Les Fonds/12-07a.webp`).
 * **Never reference or write to `site/public/images/` directly.** The pipeline (`prepare-content.py`) copies all images there automatically on every build.
 * After inserting a shortcode, the corresponding image file must be saved as `{index}{letter}.png` in the chapter folder, then optimized with `/recipe-hero-image optimize {index}{letter}` before deploying.

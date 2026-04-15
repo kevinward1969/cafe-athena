@@ -42,7 +42,7 @@ The Wellington is one of the most technically demanding compositions in the home
 - 8 slices prosciutto di Parma (2 per Wellington)
 - 1 package (5.2 oz / 150g) Boursin Garlic & Fine Herbs, quartered
 - 1 batch puff pastry, rolled to ¼-inch thick, cut into four 6-inch squares
-  *(See 09-05 Pâte Feuilletée or 09-08 Rough Puff Pastry — 09-08 recommended)*
+  *(See 12-05 Pâte Feuilletée or 12-06 Rough Puff Pastry — 12-06 recommended)*
 - 1 large egg, beaten with 1 tsp water (egg wash)
 
 ### The Madeira Sauce
@@ -141,7 +141,7 @@ The sauce as written is a solid velouté. To push it into fine-dining territory,
 **On Well-Done:** Not recommended. At well-done temperatures, the fillet has expelled enough moisture into the filling to compromise the pastry structure. This recipe is engineered for medium-rare.
 
 **Pastry Cross-Reference**
-See **09-05 Pâte Feuilletée (Classic Puff Pastry)** for the full classical method. For this application, **09-08 Rough Puff Pastry (Demi-Feuilletée)** is the recommended choice — it is faster to produce, easier to work with under kitchen conditions, and holds its lamination reliably at 400°F/205°C.
+See **12-05 Pâte Feuilletée (Classic Puff Pastry)** for the full classical method. For this application, **12-06 Rough Puff Pastry (Demi-Feuilletée)** is the recommended choice — it is faster to produce, easier to work with under kitchen conditions, and holds its lamination reliably at 400°F/205°C.
 
 ## Glossary
 

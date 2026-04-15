@@ -7,7 +7,7 @@ Last Updated: 2026-04-15 (Ch. 4 reorganized)
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
-| **04-16** | Definitive Guide to Egg Pasta | Completed | Indexed. |
+| **12-09** | Definitive Guide to Egg Pasta | Completed | Indexed. Moved from 04-16. |
 
 ## 📋 TODO
 
