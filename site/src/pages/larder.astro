@@ -5,9 +5,9 @@ import { getCollection } from 'astro:content';
 const allRecipes = await getCollection('recipes');
 
 const chapters = [
-  { num: 10, name: 'Stocks & Mother Sauces', desc: 'Foundation Sauces & Building Blocks' },
-  { num: 11, name: 'Spice Blends & Oils', desc: 'Seasoning, Finishing & Flavor Compounds' },
-  { num: 12, name: 'Les Fonds', desc: 'Structural Bases, Vessels & Platforms' },
+  { num: 10, name: 'Stocks & Mother Sauces', desc: 'Foundation Sauces & Building Blocks', bannerImage: '/images/banner-ch10.webp' },
+  { num: 11, name: 'Spice Blends & Oils', desc: 'Seasoning, Finishing & Flavor Compounds', bannerImage: '/images/banner-ch11.webp' },
+  { num: 12, name: 'Les Fonds', desc: 'Structural Bases, Vessels & Platforms', bannerImage: '/images/banner-ch12.webp' },
 ].map(ch => ({
   ...ch,
   recipes: allRecipes

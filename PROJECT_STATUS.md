@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-15 (Ch. 4 reorganized)
+Last Updated: 2026-04-15 (Ch. 4 reorganized; Ch. 10–12 banners live)
 
 ## 🎯 Active Development
 
@@ -161,9 +161,9 @@ Full-bleed panoramic banners (~1920×380px WebP). Style: editorial food photogra
 | `banner-ch07.webp` | Ch. 7 — The Butcher | Prime beef cross-section showing marbling, or butchery tools on a block | ✅ Live |
 | `banner-ch08.webp` | Ch. 8 — The Field | Root vegetables, fresh herbs, earthy tones — unpretentious and whole | ✅ Live |
 | `banner-ch09.webp` | Ch. 9 — The Pâtissier | Laminated dough layers, precision pastry work, clean white marble | ✅ Live |
-| `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze | ⬜ Pending |
-| `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue | ⬜ Pending |
-| `banner-ch12.webp` | Ch. 12 — Les Fonds | Crisp vessels and platforms arranged on a dark slate — tuile cylinders, rice crisps, croustades, a parmesan crisp cup catching light | ⬜ Pending |
+| `banner-ch10.webp` | Ch. 10 — Stocks & Mother Sauces | Five sauce vessels in a row, or a stock reducing to a dark glaze | ✅ Live |
+| `banner-ch11.webp` | Ch. 11 — Spice Blends & Oils | Spice blends in small bowls, oils catching light, dry ingredients arranged by hue | ✅ Live |
+| `banner-ch12.webp` | Ch. 12 — Les Fonds | Crisp vessels and platforms arranged on a dark slate — tuile cylinders, rice crisps, croustades, a parmesan crisp cup catching light | ✅ Live |
 
 ### Layout
 
