@@ -9,6 +9,16 @@ Last Updated: 2026-04-16 (Ch. 8 hero images complete; STATUS synced to registry)
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
 | **12-09** | Definitive Guide to Egg Pasta | Completed | Indexed. Moved from 04-16. |
 
+## 🔖 Pending Items
+
+Items deferred from prior sessions. Session handoff writes here. Resolve or carry forward each session.
+
+| Item | Context | Blocking Condition | Since |
+| :--- | :--- | :--- | :--- |
+| *(none)* | — | — | — |
+
+---
+
 ## 📋 TODO
 
 - **Full Manual Structure — Four-Part Arc**: The Manual has a confirmed four-part structure:

@@ -20,7 +20,7 @@ Invoked when the user says "Handoff," "Close out," "Goodbye," or `/session-hando
 Update the following sections in place:
 
 1. **Active Development table**: Change the status of any folio worked on this session (e.g., `In Progress` → `Completed`, or add `Pending:` notes for deferred items).
-2. **Pending Items**: Document open questions or deferred decisions that need to be picked up next session.
+2. **Pending Items**: Document open questions or deferred decisions in the structured table under `## 🔖 Pending Items`. Each row: Item (what is deferred), Context (why / what session), Blocking Condition (what must happen to resolve it), Since (today's date). Remove rows that are resolved.
 3. **On the Horizon**: Append any new concepts, upcoming recipes, or improvement ideas that surfaced during the session.
 4. **Strategic Context & Learnings**: Add any new technical learnings, discovered constraints, or scaling notes uncovered this session.
 

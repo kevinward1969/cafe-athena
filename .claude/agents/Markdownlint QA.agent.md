@@ -1,6 +1,6 @@
 ---
 name: Markdownlint QA
-version: "1.0"
+version: "1.1"
 description: Oversees the two-stage markdown lint detection and repair pipeline for Café Athena. Orchestrates markdownlint_safe_fix.py (deterministic) and fix_markdown_with_ollama.py (Ollama LLM) across four modes — Scan, Safe Fix, Deep Fix, and Full Pipeline — with authorization checkpoints before any file writes. Invoke for any markdown quality or linting task.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -43,6 +43,18 @@ Resolve the scope from the user's message before doing anything else. Valid scop
 | `Chapter 3`, `chapter 3` | All files under that chapter dir | `--glob "The Manual/Chapter 3*/**/*.md"` |
 | `site` | Site content files only | `--glob "site/src/content/recipes/*.md"` |
 | `all`, `everything`, no scope | Full repo scan | (no `--glob`, uses default `**/*.md`) |
+
+**Excluded scopes (never lint-repair these directories — they contain curated instruction files):**
+
+| Excluded path | Reason |
+|---------------|--------|
+| `Guidance/` | Agent instruction files — content changes must be human-authorized |
+| `.claude/` | Agent definitions — lint repair could corrupt frontmatter or behavior directives |
+| `.agents/` | Workflow definitions — same as above |
+| `Claude-Desktop/` | Secondary surface instructions — managed manually |
+| `node_modules/` | Dependency files — not project content |
+
+If the user explicitly requests linting one of these paths, refuse and explain: "That directory contains curated instruction files. Lint-repair could corrupt agent behavior. Edit manually if needed."
 
 If the user's scope is ambiguous (e.g., "the risotto file"), use Glob to locate matching files before proceeding, and confirm what you found.
 
