@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-15 (Ch. 4 reorganized; Ch. 10–12 banners live)
+Last Updated: 2026-04-16 (Ch. 8 hero images complete; STATUS synced to registry)
 
 ## 🎯 Active Development
 
@@ -52,7 +52,7 @@ Last Updated: 2026-04-15 (Ch. 4 reorganized; Ch. 10–12 banners live)
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-15):** 84/117 complete. Pending: 07-13, 08-04–08-06, 09-01–09-04, 10-01–10-23, 11-01–11-05, 12-02–12-06, 12-11–12-16.
+**Hero image status (2026-04-16):** 85/133 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-01–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
 
 ---
 
@@ -81,58 +81,60 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 ✅ Complete (2026-04-09) — 0 PNGs remaining in The Manual.
 
-### Hero Image Generation — Missing Entries (43 total)
+### Hero Image Generation — Missing Entries (48 total)
 
-Use `/recipe-hero-image [index]` for each. Ch. 9 now has 4 entries (01–04) — all still need images.
+Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have an image but `heroImageOptimized` is still false.
 
-| Index | Title | Chapter |
-| :--- | :--- | :--- |
-| 07-13 | Individual Beef Wellington | Ch. 7 |
-| 08-04 | St. Louis Style Kisir (Red Hot Bulgur) | Ch. 8 |
-| 08-05 | Modern Tabbouleh (The Acid Cutter) | Ch. 8 |
-| 08-06 | Onion Potato Crisps | Ch. 8 |
-| 09-01 | Brown Butter & Miso-Caramel Truffle Brownies | Ch. 9 |
-| 09-02 | Spicy Brown Butter & Lemon Cheesecake Cookies | Ch. 9 |
-| 09-03 | Spicy Brown Butter & Lemon Cheesecake Cookies (v2) | Ch. 9 |
-| 09-04 | Brandy-Infused Canelés de Bordeaux | Ch. 9 |
-| 10-01 | High-Pressure White Chicken Stock | Ch. 10 |
-| 10-02 | Vibrant Basil Pesto (Genovese) | Ch. 10 |
-| 10-03 | Sauce Béchamel (Mother Sauce No. 1) | Ch. 10 |
-| 10-04 | Sauce Mornay (Enriched Cheese Sauce) | Ch. 10 |
-| 10-05 | Classic Beurre Rouge | Ch. 10 |
-| 10-06 | Classic Beurre Blanc | Ch. 10 |
-| 10-07 | Master Compound Butter (Beurre Composé) | Ch. 10 |
-| 10-08 | Sauce Hollandaise (Mother Sauce No. 5) | Ch. 10 |
-| 10-09 | Master Mayonnaise (The Cold Mother) | Ch. 10 |
-| 10-10 | Classic Remoulade | Ch. 10 |
-| 10-11 | Classic Tartar Sauce | Ch. 10 |
-| 10-12 | Cultured Crème Fraîche | Ch. 10 |
-| 10-13 | Classic Ragù alla Bolognese | Ch. 10 |
-| 10-14 | Capuliato Siciliano (Sun-Dried Tomato Pesto) | Ch. 10 |
-| 10-15 | Sauce Tomate (Mother Sauce No. 4) | Ch. 10 |
-| 10-16 | Sauce Velouté (Mother Sauce No. 2) | Ch. 10 |
-| 10-17 | Pressure-Roasted Brown Stock (Fond Brun) | Ch. 10 |
-| 10-18 | Sauce Espagnole (Mother Sauce No. 3) | Ch. 10 |
-| 10-19 | Classic Demi-Glace | Ch. 10 |
-| 10-20 | Ligurian Salsa di Noci (Toasted Walnut Pesto) | Ch. 10 |
-| 10-21 | Lemon Cream & Parmigiano Sauce | Ch. 10 |
-| 10-22 | Beurre Noisette (The Toasted Butter) | Ch. 10 |
-| 10-23 | The Asian Dipping Sauce Collection | Ch. 10 |
-| 11-01 | Vibrant Green Herb Oil | Ch. 11 |
-| 11-02 | Quick-Process Smoked Salt | Ch. 11 |
-| 11-03 | Sodium Acetate (Salt & Vinegar Crystals) | Ch. 11 |
-| 11-04 | Burnt Allium Ash Salt | Ch. 11 |
-| 11-05 | Nashville Fire Paste (Lipophilic Heat) | Ch. 11 |
-| 12-02 | Foundation Tart Dough (Six Variants) | Ch. 12 |
-| 12-03 | Pâte Brisée (Classic Shortcrust) | Ch. 12 |
-| 12-04 | Pâte à Choux (The Steam Dough) | Ch. 12 |
-| 12-05 | Pâte Feuilletée (Classic Puff Pastry) | Ch. 12 |
-| 12-06 | Rough Puff Pastry (Demi-Feuilletée) | Ch. 12 |
-| 12-07 | The "Rich Yolk" Pasta Dough (Laminated) | Ch. 12 |
-| 12-08 | Gnocchi 201 (The Master Doughs) | Ch. 12 |
-| 12-09 | The Definitive Guide to Egg Pasta | Ch. 12 |
-| 12-10 | The Quintessential Spinach Pasta | Ch. 12 |
-| 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 |
+| Index | Title | Chapter | Notes |
+| :--- | :--- | :--- | :--- |
+| 01-20 | Hydro-Thermal Stabilization (Blanch & Press) | Ch. 1 | |
+| 01-21 | Lacto-Fermentation (The Science of Biological Acidification) | Ch. 1 | |
+| 03-14 | Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice | Ch. 3 | *(optimize only)* |
+| 07-13 | Individual Beef Wellington | Ch. 7 | |
+| 09-01 | Brown Butter & Miso-Caramel Truffle Brownies | Ch. 9 | |
+| 09-02 | Spicy Brown Butter & Lemon Cheesecake Cookies | Ch. 9 | |
+| 09-03 | Spicy Brown Butter & Lemon Cheesecake Cookies (v2) | Ch. 9 | |
+| 09-04 | Brandy-Infused Canelés de Bordeaux | Ch. 9 | |
+| 10-01 | High-Pressure White Chicken Stock | Ch. 10 | |
+| 10-02 | Vibrant Basil Pesto (Genovese) | Ch. 10 | |
+| 10-03 | Sauce Béchamel (Mother Sauce No. 1) | Ch. 10 | |
+| 10-04 | Sauce Mornay (Enriched Cheese Sauce) | Ch. 10 | |
+| 10-05 | Classic Beurre Rouge | Ch. 10 | |
+| 10-06 | Classic Beurre Blanc | Ch. 10 | |
+| 10-07 | Master Compound Butter (Beurre Composé) | Ch. 10 | |
+| 10-08 | Sauce Hollandaise (Mother Sauce No. 5) | Ch. 10 | |
+| 10-09 | Master Mayonnaise (The Cold Mother) | Ch. 10 | |
+| 10-10 | Classic Remoulade | Ch. 10 | |
+| 10-11 | Classic Tartar Sauce | Ch. 10 | |
+| 10-12 | Cultured Crème Fraîche | Ch. 10 | |
+| 10-13 | Classic Ragù alla Bolognese | Ch. 10 | |
+| 10-14 | Capuliato Siciliano (Sun-Dried Tomato Pesto) | Ch. 10 | |
+| 10-15 | Sauce Tomate (Mother Sauce No. 4) | Ch. 10 | |
+| 10-16 | Sauce Velouté (Mother Sauce No. 2) | Ch. 10 | |
+| 10-17 | Pressure-Roasted Brown Stock (Fond Brun) | Ch. 10 | |
+| 10-18 | Sauce Espagnole (Mother Sauce No. 3) | Ch. 10 | |
+| 10-19 | Classic Demi-Glace | Ch. 10 | |
+| 10-20 | Ligurian Salsa di Noci (Toasted Walnut Pesto) | Ch. 10 | |
+| 10-21 | Lemon Cream & Parmigiano Sauce | Ch. 10 | |
+| 10-22 | Beurre Noisette (The Toasted Butter) | Ch. 10 | |
+| 10-23 | The Asian Dipping Sauce Collection | Ch. 10 | |
+| 11-01 | Vibrant Green Herb Oil | Ch. 11 | |
+| 11-02 | Quick-Process Smoked Salt | Ch. 11 | |
+| 11-03 | Sodium Acetate (Salt & Vinegar Crystals) | Ch. 11 | |
+| 11-04 | Burnt Allium Ash Salt | Ch. 11 | |
+| 11-05 | Nashville Fire Paste (Lipophilic Heat) | Ch. 11 | |
+| 11-06 | KW Signature Smoked Red Pepper Blend | Ch. 11 | *(optimize only)* |
+| 12-02 | Foundation Tart Dough (Six Variants) | Ch. 12 | |
+| 12-03 | Pâte Brisée (Classic Shortcrust) | Ch. 12 | |
+| 12-04 | Pâte à Choux (The Steam Dough) | Ch. 12 | |
+| 12-05 | Pâte Feuilletée (Classic Puff Pastry) | Ch. 12 | |
+| 12-06 | Rough Puff Pastry (Demi-Feuilletée) | Ch. 12 | |
+| 12-11 | Crème Pâtissière | Ch. 12 | |
+| 12-12 | The Meringue Trinity | Ch. 12 | |
+| 12-13 | Crème Chantilly | Ch. 12 | |
+| 12-14 | The Composite Creams | Ch. 12 | |
+| 12-15 | The Master Laminated Frico | Ch. 12 | |
+| 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 | |
 
 ---
 
