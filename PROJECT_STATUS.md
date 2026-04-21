@@ -32,7 +32,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
   Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
 
-- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 16 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 The Master Laminated Frico, 12-16 Sesame Tuile Cylinders (moved from Ch. 9). Next candidate: 12-17 Non-Fish Caviar (Seeds & Spheres) — in development.
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 16 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 Frico Laminé (Baked Cheese Tiles & Vessels), 12-16 Sesame Tuile Cylinders (moved from Ch. 9). Next candidate: 12-17 Non-Fish Caviar (Seeds & Spheres) — in development.
 
 - **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
@@ -143,7 +143,7 @@ Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have
 | 12-12 | The Meringue Trinity | Ch. 12 | |
 | 12-13 | Crème Chantilly | Ch. 12 | |
 | 12-14 | The Composite Creams | Ch. 12 | |
-| 12-15 | The Master Laminated Frico | Ch. 12 | |
+| 12-15 | Frico Laminé (Baked Cheese Tiles & Vessels) | Ch. 12 | |
 | 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 | |
 
 ---

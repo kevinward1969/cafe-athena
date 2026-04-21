@@ -32,6 +32,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
+- Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
 - Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
 - Sodium Alginate: A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.

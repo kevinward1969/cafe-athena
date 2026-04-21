@@ -174,7 +174,7 @@
 * 12-12 Café Athena \- The Meringue Trinity
 * 12-13 Café Athena \- Crème Chantilly (Whipped Cream)
 * 12-14 Café Athena \- The Composite Creams
-* 12-15 Café Athena \- The Master Laminated Frico (The Structural Matrix)
+* 12-15 Café Athena \- Frico Laminé (Baked Cheese Tiles & Vessels)
 * 12-16 Café Athena \- Sesame Tuile Cylinders (Noir & Orange)
 
 # REFERENCE
