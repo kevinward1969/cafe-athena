@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-16 (Ch. 8 hero images complete; STATUS synced to registry)
+Last Updated: 2026-04-21 (12-15 rewritten as Frico Laminé — stovetop → baked method; Silpat added to glossary)
 
 ## 🎯 Active Development
 
@@ -207,3 +207,4 @@ Color grading: warm sepia/copper tone. Apply a subtle dark vignette on top and b
 - **Scaling Nuance**: Ingredients scale linearly; reduction times do NOT (surface area constraints).
 - **Formula Trust**: Use established adaptive hydration rates for pasta.
 - **Tool Awareness**: Antigravity is used for local project orchestration. If unsure of its capabilities, ask.
+- **Frico Method Correction (2026-04-21)**: Baked frico is structurally superior to stovetop-pan frico — even browning across a full sheet, longer plastic-shaping window (~30–45 sec on counter vs. 5–10 sec off the pan), and hands-free batching. Silpat beats parchment for structural/molded fricos because clean release protects fragile lace and the mat retains counter heat long enough to shape the plastic phase. Parchment only wins on pure flat tiles where bottom crispness matters more than shape-hold.
