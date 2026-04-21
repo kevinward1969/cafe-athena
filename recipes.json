@@ -3214,20 +3214,20 @@
     },
     {
       "id": "12-15",
-      "title": "The Master Laminated Frico (The Structural Matrix)",
+      "title": "Frico Laminé (Baked Cheese Tiles & Vessels)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
       "added": "2026-04-13",
       "stages": {
-        "formatAudit": true,
-        "keywordPull": true,
-        "glossaryPull": true,
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
         "heroImage": false,
         "heroImageOptimized": false,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": true
+        "deployed": false
       },
       "audit": {
         "lastRun": null,

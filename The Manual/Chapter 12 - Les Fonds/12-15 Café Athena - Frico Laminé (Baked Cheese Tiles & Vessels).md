@@ -1,16 +1,4 @@
----
-title: "Café Athena - Frico Laminé (Baked Cheese Tiles & Vessels)"
-index: "12-15"
-chapter: 12
-chapterName: "Les Fonds"
-type: "recipe"
-heroImage: ""
-referenceImages: []
-keywords: ["frico", "frico laminé", "baked cheese crisp", "parmesan crisp", "structural matrix", "lamination", "Dubliner", "Mimolette", "edible vessel", "food science", "garnishing", "vegetable stabilization", "les fonds"]
-cuisine: "Global"
-style: "Modern"
-dietary: ""
----
+# Café Athena - Frico Laminé (Baked Cheese Tiles & Vessels)
 
 A structural, multi-variant foundation for baked, edible "stained glass" tiles and molded vessels built from high-protein cheese matrices and moisture-controlled inclusions.
 
@@ -113,3 +101,11 @@ Work one disc at a time. Keep the remaining discs on the sheet pan — the hot S
 * **Lamination:** Layering material (cheese–inclusion–cheese) to create a reinforced composite structure.
 * **Matrix:** The structural medium (cheese) that holds the laminates.
 * **Webbing:** The initial melt stage at which the cheese forms a lace-like, partially-set network — the correct window in which to introduce the laminate.
+
+## Keywords
+
+frico, frico laminé, baked cheese crisp, parmesan crisp, structural matrix, lamination, Dubliner, Mimolette, edible vessel, food science, garnishing, vegetable stabilization, les fonds
+
+## Category
+
+cuisine: Global | style: Modern
