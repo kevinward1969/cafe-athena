@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
 - Emulsifying Salt: A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
 - Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
+- Emulsion Bond: The use of a liquid fat (such as warm butter) to create a tacky surface that allows dry powders to adhere evenly to a non-porous surface such as a fried kernel skin.
 - Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
 - Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.

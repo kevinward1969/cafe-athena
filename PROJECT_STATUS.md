@@ -1,11 +1,13 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-21 (12-15 rewritten as Frico Laminé — stovetop → baked method; Silpat added to glossary)
+Last Updated: 2026-04-22 (08-07 Riplet Corn Ribs + 09-05 Lemon Posset added; Chapter 12 breadcrumb nav fixed)
 
 ## 🎯 Active Development
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
+| **08-07** | St. Louis "Riplet" Corn Ribs | Completed | Indexed. Hero + glossary merged. |
+| **09-05** | Lemon Posset in Lemon Shells | Completed | Indexed. Hero + glossary merged. |
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
 | **12-09** | Definitive Guide to Egg Pasta | Completed | Indexed. Moved from 04-16. |
 
@@ -62,7 +64,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-16):** 85/133 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-01–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
+**Hero image status (2026-04-22):** 87/135 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-01–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
 
 ---
 

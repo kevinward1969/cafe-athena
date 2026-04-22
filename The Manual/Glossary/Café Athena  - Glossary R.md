@@ -22,6 +22,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Rice Vinegar: A seasoned vinegar, typically containing rice vinegar, sugar, and salt, used to flavor and adjust the acidity of sushi rice.
 - Risottata: A cooking technique, particularly applied to pasta, involving the gradual addition of liquid to create a creamy, thickened sauce through starch release.
 - Risotto Method: A cooking technique involving toasting grains in fat before adding liquid, mimicking the process used for risotto rice.
+- Rolling Boil: A vigorous, sustained boil in which the liquid churns continuously and cannot be stirred down. Distinct from a simmer or a gentle boil; critical for the reduction step that gives a posset its firm set.
 - Rolling Cut: A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
 - Roulade: A preparation rolled into a tight cylinder — typically using plastic wrap or a flat food layer — then chilled to hold its compressed shape before slicing or further cooking.
 - Roux: A cooked mixture of equal parts fat (typically butter) and flour, used as a thickening agent for sauces and other culinary preparations.

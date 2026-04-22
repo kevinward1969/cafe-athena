@@ -10,7 +10,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
 - Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
-- Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
+- Denaturation: The unfolding or structural disruption of a protein molecule caused by salt, heat, acidity, or mechanical action. In curing, denaturation allows meat to retain moisture; in an acid-set gel such as a posset, lemon juice lowers the pH of warm cream, causing whey proteins to partially unfold and bond into a stable network.
 - Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Desiccation: The removal of moisture. Essential for efficient browning.
 - Desired Dough Temperature (DDT): A calculated target temperature for dough after mixing to ensure predictable fermentation. Maintained through precise control of water temperature and environmental factors.
@@ -19,6 +19,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Diamond Crystal Kosher: A specific type of kosher salt characterized by its hollow, pyramid-shaped crystals and low density.
 - Diastatic Malt: Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
 - Diastatic Malt Powder: An enzymatic malt extract that aids in starch conversion during fermentation, contributing to dough extensibility and flavor.
+- Differential Contraction: The process where two parts of a single ingredient shrink at different rates when heated, causing the food to change shape. In corn ribs, the fibrous cob contracts faster than the starch-rich kernels, forcing the segment to curl dramatically.
 - Diffusion: The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the food).
 - Dimple: A technique used during shaping to create structural support and prevent excessive oven spring in high-hydration doughs.
 - Dimpled: Characterized by indentations or depressions in the surface.

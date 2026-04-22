@@ -120,6 +120,7 @@
 * 09-02 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies
 * 09-03 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies (v2)
 * 09-04 Café Athena \- Brandy-Infused Canelés de Bordeaux
+* 09-05 Café Athena \- Lemon Posset in Lemon Shells
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 

@@ -1,0 +1,99 @@
+# Café Athena - Lemon Posset in Lemon Shells
+
+A silky, just-firm cream dessert set entirely by lemon acidity — served directly in the juiced shell for a clean, self-contained presentation.
+
+**Yield:** 4 servings | **Prep:** 15 min | **Inactive:** 3 hr (minimum) | **Cook:** 10 min | **Total:** ~3 hr 25 min
+
+---
+
+## Headnote
+
+A posset is one of the kitchen's most elegant demonstrations of acid cookery: no gelatin, no starch, no eggs — just heavy cream, sugar, and enough lemon juice to denature the milk proteins into a stable, spoonable set. Infusing the zest directly into the hot cream extracts the fat-soluble aromatic oils before straining, giving the posset a layered citrus depth that fresh juice alone cannot achieve. Serving in the shell completes the concept — the vessel is sourced from the same fruit.
+
+**Teaching Idea: Acid-Set Gels.** When sufficient acid is introduced to warm cream, the low pH causes partial denaturation of the whey proteins, which then aggregate and form a loose, stable network. The result is a set dessert without any hydrocolloid additive — pure protein chemistry.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Pull the channel knife spirals first:** Before cutting or juicing, run the channel knife along the length of the extra (third) lemon to produce 4 clean spirals. Reserve in a small bowl of cold water in the refrigerator until service.
+- **Prepare the shells:** Halve 2 lemons across the equator. Using a citrus reamer or spoon, juice and remove all pulp cleanly. Slice a thin flat off the bottom of each half so it sits without rocking. Place shells on a small tray and freeze for 15–20 minutes.
+- **Zest the juiced lemons:** Microplane the zest from the 2 juiced lemons directly into the saucepan before measuring cream — it keeps the oils from transferring to the cutting board.
+- **Measure the juice:** Measure 60 ml (4 tbsp) fresh juice from the 2 juiced lemons. Have the third lemon on standby — juice yield varies and you need the full 4 tbsp.
+- **Stage the dairy:** Weigh cream and sugar before heat is applied.
+
+---
+
+## Ingredients
+
+### The Cream Base
+
+- **360 ml (1½ cups)** heavy cream (35% butterfat minimum)
+- **100 g (½ cup)** granulated sugar
+- Zest of **2 lemons** (microplaned directly into the pan)
+
+### The Set Agent
+
+- **60 ml (4 tbsp)** fresh lemon juice (from the 2 shell lemons; third lemon on standby)
+
+### The Garnish
+
+- **4** channel knife lemon spirals (from the third lemon)
+- Powdered sugar for dusting (optional), or fresh mint leaves or small edible flowers
+
+---
+
+## Method
+
+**Phase 1: Infuse the Cream** Combine the heavy cream, sugar, and lemon zest in a medium saucepan over medium heat. Stir to dissolve the sugar as the cream warms. Bring to a full, rolling boil — not just a simmer.
+
+**Sensory Cue:** The cream will foam and rise in the pan. Keep a close eye; reduce heat slightly if it threatens to boil over.
+
+**Phase 2: Hold the Boil** Maintain the rolling boil for exactly **3 minutes**, stirring occasionally. This brief reduction concentrates the fat and ensures a firmer set.
+
+**Why:** The extended boil reduces water content slightly, increasing fat density. This structural step is not optional — pulling it early will result in a softer, less stable set.
+
+**Phase 3: Add the Acid** Remove from heat. Pour in the lemon juice and stir to combine.
+
+**Sensory Cue:** The mixture may thicken very slightly on contact with the acid — this is the denaturation beginning. It should still be fully pourable.
+
+**Phase 4: Rest and Strain** Let the cream rest off heat for 10 minutes to allow surface bubbles to settle. Strain through a fine-mesh sieve into a pourable vessel (a measuring cup with a spout works well). Discard the spent zest.
+
+**Phase 5: Fill the Shells** Remove the chilled shells from the freezer. Pour the strained cream evenly into each shell, filling to just below the rim. Pour in a slow, controlled stream to avoid introducing new bubbles.
+
+**Phase 6: Chill** Transfer the filled shells carefully to the refrigerator. Chill uncovered for the first 30 minutes to allow the surface to set without condensation, then cover loosely with plastic wrap. Refrigerate for a minimum of **3 hours**; overnight is ideal.
+
+**Sensory Cue:** The posset is ready when the surface is fully matte and does not ripple when the tray is gently nudged.
+
+**Phase 7: Garnish and Serve** At service, remove spirals from cold water and pat dry. Lay one spiral on each posset. If using powdered sugar, dust lightly just before serving — not ahead, as it will dissolve.
+
+---
+
+## Chef's Notes / Variations
+
+- **The Third Lemon Rule:** Your serving shells are your juice source, which means yield is fixed. Most lemons give 2–3 tbsp each — enough for 4 tbsp total, but occasionally one is dry. Always have a third lemon on the counter before you start. The spirals come from this lemon too, so it earns its place.
+- **Fat Content is Non-Negotiable:** This recipe requires heavy cream at 35% butterfat minimum. Half-and-half, light cream, or any reduced-fat substitute will not set reliably. The fat is structural, not optional.
+- **Shell Stability:** The flat-bottom trim and the pre-freeze step are both practical and presentational. A rocking shell will spill during the pour; a warm shell will slow the initial set and cause uneven texture at the bottom.
+- **The 3-Minute Boil:** Do not reduce this to a simmer or pull it early. The full rolling boil for 3 minutes is what drives off enough water to produce a firmer set. A soft 2-minute simmer will give you a looser, spoonable texture — acceptable if that's your preference, but not the intended result here.
+- **Make-Ahead:** These are ideal prepared the evening before service. Fill the shells, chill overnight, and add garnish at the last moment. The posset holds well for up to 48 hours covered in the refrigerator; beyond that the shell may begin to soften from moisture absorption.
+- **Garnish Timing:** Powdered sugar dissolves quickly on a cold, moist surface — dust at the pass, not ahead. Channel knife spirals can be prepped up to 4 hours ahead and held in cold water; pat dry before placing.
+- **Scaling to 2 Servings:** Halve every quantity exactly — 180 ml cream, 50 g sugar, zest of 1 lemon, 30 ml lemon juice. Use 1 lemon for shells and juice, and the second lemon for spirals. Method and timing are identical.
+- **Flavor Variation:** A single sprig of fresh thyme added to the cream during the boil (removed before straining) introduces an herbal note that pairs cleanly with the lemon without competing. A small measure of limoncello (15 ml, replacing an equal volume of juice) adds fragrance but softens the set slightly — test first.
+
+---
+
+## Glossary
+
+- **Acid-Set Gel:** A gel formed not by a hydrocolloid additive (such as gelatin or agar) but by the partial denaturation of milk proteins caused by the introduction of sufficient acid. The aggregated proteins form a loose, stable network that holds the cream in a semi-solid state.
+- **Denaturation:** The unfolding or structural disruption of a protein molecule caused by heat, acidity, or mechanical action. In a posset, lemon juice lowers the pH of the warm cream, causing whey proteins to partially unfold and bond together.
+- **Channel Knife:** A small bar tool with a V-shaped or U-shaped blade used to cut thin, decorative strips of citrus zest. The resulting strips curl naturally and are used as garnish.
+- **Microplane:** A fine rasp-style grater used to remove only the outermost, oil-rich layer of citrus peel without reaching the bitter white pith beneath.
+- **Rolling Boil:** A vigorous, sustained boil in which the liquid churns continuously and cannot be stirred down. Distinct from a simmer or a gentle boil.
+
+## Keywords
+
+lemon posset, acid-set, cream dessert, no gelatin, lemon shells, denaturation, French technique, make-ahead, plated dessert, citrus, channel knife, individual portions, fine dining, pastry
+
+## Category
+
+cuisine: French | style: Fine Dining

@@ -2144,6 +2144,29 @@
       }
     },
     {
+      "id": "08-07",
+      "title": "St. Louis \"Riplet\" Corn Ribs",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-04-22",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
@@ -2235,6 +2258,29 @@
         "issues": [
           "missing_headnote"
         ]
+      }
+    },
+    {
+      "id": "09-05",
+      "title": "Lemon Posset in Lemon Shells",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-04-22",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {

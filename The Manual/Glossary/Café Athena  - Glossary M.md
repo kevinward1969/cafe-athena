@@ -17,6 +17,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
 - Microbial Load: The total quantity of microorganisms present in a culture or environment, crucial for initiating and sustaining fermentation.
 - Microbial: Relating to or consisting of microorganisms, specifically referring to the bacteria and yeasts involved in sourdough fermentation.
+- Microplane: A fine rasp-style grater used to remove only the outermost, oil-rich layer of citrus peel without reaching the bitter white pith beneath. The brand name has become a generic term for this tool.
 - Microplaned: Grated on a rasp-style grater (Microplane brand) to produce an ultra-fine, almost paste-like result. Used for ginger and garlic to maximize surface area and flavor release without visible texture.
 - Mirepoix: A flavor base made from cooked diced vegetables, usually onion, carrot, and celery in a 2:1:1 ratio.
 - Mirin: Japanese sweet rice wine used for cooking. Lower alcohol than sake, with a distinct sweetness and glossy body. Not interchangeable with sake.

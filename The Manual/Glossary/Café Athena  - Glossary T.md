@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## T
 
+- Tajín: A Mexican seasoning blend consisting primarily of mild chili peppers, dehydrated lime, and sea salt. Used for bright acidity and gentle heat, most famously on fresh fruit, corn, and vegetables.
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.

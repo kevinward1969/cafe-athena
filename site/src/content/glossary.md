@@ -11,6 +11,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Abort Vessel: A heat-proof bowl used to immediately halt cooking by transferring the food or preparation away from the heat source.
 - Acid Coagulation: The partial denaturing of milk proteins caused by the introduction of an acid (lemon juice, vinegar), which tightens and thickens cream-based sauces without starch.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
+- Acid-Set Gel: A gel formed not by a hydrocolloid additive (such as gelatin or agar) but by the partial denaturation of milk proteins caused by the introduction of sufficient acid. The aggregated proteins form a loose, stable network that holds the cream in a semi-solid state, as in a lemon posset.
 - Acidification: The process by which Lactic Acid Bacteria excrete lactic acid, lowering the pH of a brine to a level hostile to pathogens.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
@@ -80,6 +81,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Cellular Architecture: The complex arrangement of cells and their structural components within a food matrix, significantly altered by vacuum compression.
 - Cellular Collapse: The structural deformation of food cells during vacuum compression, resulting in a denser, more uniform texture.
 - Chamber Vacuum: A specific vacuum sealing technique utilizing a chamber to create a controlled pressure differential for rapid infusion.
+- Channel Knife: A small bar tool with a V-shaped or U-shaped blade used to cut thin, decorative strips of citrus zest. The resulting strips curl naturally and are used as garnish.
 - Char: The controlled burning of food to develop flavor compounds, often achieved through high-heat cooking.
 - Chelate: The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
 - Chelation: The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
@@ -121,7 +123,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
 - Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
 - Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
-- Denaturation: The alteration of a protein's shape (uncoiling) caused by salt, heat, or acid. In curing, this allows the meat to retain moisture.
+- Denaturation: The unfolding or structural disruption of a protein molecule caused by salt, heat, acidity, or mechanical action. In curing, denaturation allows meat to retain moisture; in an acid-set gel such as a posset, lemon juice lowers the pH of warm cream, causing whey proteins to partially unfold and bond into a stable network.
 - Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
 - Desiccation: The removal of moisture. Essential for efficient browning.
 - Desired Dough Temperature (DDT): A calculated target temperature for dough after mixing to ensure predictable fermentation. Maintained through precise control of water temperature and environmental factors.
@@ -130,6 +132,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Diamond Crystal Kosher: A specific type of kosher salt characterized by its hollow, pyramid-shaped crystals and low density.
 - Diastatic Malt: Sprouted grain powder containing active enzymes that break down starch into sugars, aiding crust color and fermentation.
 - Diastatic Malt Powder: An enzymatic malt extract that aids in starch conversion during fermentation, contributing to dough extensibility and flavor.
+- Differential Contraction: The process where two parts of a single ingredient shrink at different rates when heated, causing the food to change shape. In corn ribs, the fibrous cob contracts faster than the starch-rich kernels, forcing the segment to curl dramatically.
 - Diffusion: The movement of particles (flavor/salt) from an area of high concentration (the marinade) to an area of low concentration (the interior of the food).
 - Dimple: A technique used during shaping to create structural support and prevent excessive oven spring in high-hydration doughs.
 - Dimpled: Characterized by indentations or depressions in the surface.
@@ -152,6 +155,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
 - Emulsifying Salt: A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
 - Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
+- Emulsion Bond: The use of a liquid fat (such as warm butter) to create a tacky surface that allows dry powders to adhere evenly to a non-porous surface such as a fried kernel skin.
 - Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
 - Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
@@ -267,6 +271,7 @@ No glossary terms yet.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
 - Microbial Load: The total quantity of microorganisms present in a culture or environment, crucial for initiating and sustaining fermentation.
 - Microbial: Relating to or consisting of microorganisms, specifically referring to the bacteria and yeasts involved in sourdough fermentation.
+- Microplane: A fine rasp-style grater used to remove only the outermost, oil-rich layer of citrus peel without reaching the bitter white pith beneath. The brand name has become a generic term for this tool.
 - Microplaned: Grated on a rasp-style grater (Microplane brand) to produce an ultra-fine, almost paste-like result. Used for ginger and garlic to maximize surface area and flavor release without visible texture.
 - Mirepoix: A flavor base made from cooked diced vegetables, usually onion, carrot, and celery in a 2:1:1 ratio.
 - Mirin: Japanese sweet rice wine used for cooking. Lower alcohol than sake, with a distinct sweetness and glossy body. Not interchangeable with sake.
@@ -359,6 +364,7 @@ No glossary terms yet.
 - Rice Vinegar: A seasoned vinegar, typically containing rice vinegar, sugar, and salt, used to flavor and adjust the acidity of sushi rice.
 - Risottata: A cooking technique, particularly applied to pasta, involving the gradual addition of liquid to create a creamy, thickened sauce through starch release.
 - Risotto Method: A cooking technique involving toasting grains in fat before adding liquid, mimicking the process used for risotto rice.
+- Rolling Boil: A vigorous, sustained boil in which the liquid churns continuously and cannot be stirred down. Distinct from a simmer or a gentle boil; critical for the reduction step that gives a posset its firm set.
 - Rolling Cut: A cutting motion utilizing the curve of the blade to create consistent slices by rotating the knife in a circular path.
 - Roulade: A preparation rolled into a tight cylinder — typically using plastic wrap or a flat food layer — then chilled to hold its compressed shape before slicing or further cooking.
 - Roux: A cooked mixture of equal parts fat (typically butter) and flour, used as a thickening agent for sauces and other culinary preparations.
@@ -424,6 +430,7 @@ No glossary terms yet.
 
 ## T
 
+- Tajín: A Mexican seasoning blend consisting primarily of mild chili peppers, dehydrated lime, and sea salt. Used for bright acidity and gentle heat, most famously on fresh fruit, corn, and vegetables.
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.

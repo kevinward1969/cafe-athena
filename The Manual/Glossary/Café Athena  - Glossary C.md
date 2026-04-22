@@ -17,6 +17,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Cellular Architecture: The complex arrangement of cells and their structural components within a food matrix, significantly altered by vacuum compression.
 - Cellular Collapse: The structural deformation of food cells during vacuum compression, resulting in a denser, more uniform texture.
 - Chamber Vacuum: A specific vacuum sealing technique utilizing a chamber to create a controlled pressure differential for rapid infusion.
+- Channel Knife: A small bar tool with a V-shaped or U-shaped blade used to cut thin, decorative strips of citrus zest. The resulting strips curl naturally and are used as garnish.
 - Char: The controlled burning of food to develop flavor compounds, often achieved through high-heat cooking.
 - Chelate: The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
 - Chelation: The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
