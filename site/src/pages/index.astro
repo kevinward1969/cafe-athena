@@ -149,8 +149,8 @@ const glossaryTerms = [
             </h2>
             <p class="font-mono text-[10px] uppercase tracking-widest text-[#c9a96e] mb-6">{pillar.subtitle}</p>
 
-            <!-- Description — hidden until hover -->
-            <p class="text-[#f5f0e8] text-base leading-relaxed max-w-xs mb-8 opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 delay-75">
+            <!-- Description — hidden until hover. min-h reserves uniform space so titles align across cards regardless of desc length. -->
+            <p class="text-[#f5f0e8] text-base leading-relaxed max-w-xs mb-8 min-h-[14rem] opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 delay-75">
               {pillar.desc}
             </p>
 
