@@ -13,6 +13,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
 - Acid-Set Gel: A gel formed not by a hydrocolloid additive (such as gelatin or agar) but by the partial denaturation of milk proteins caused by the introduction of sufficient acid. The aggregated proteins form a loose, stable network that holds the cream in a semi-solid state, as in a lemon posset.
 - Acidification: The process by which Lactic Acid Bacteria excrete lactic acid, lowering the pH of a brine to a level hostile to pathogens.
+- Adsorption: The adhesion of atoms, ions, or molecules from a gas, liquid, or dissolved solid to a surface — the mechanism by which silicates capture polar compounds from degraded oil.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.
@@ -174,6 +175,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - FIFO: First In, First Out – a stock rotation method prioritizing the oldest items.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
+- Flocculation: The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
 - Fond Brun: French for "Brown Stock."
@@ -328,6 +330,7 @@ No glossary terms yet.
 - Pincage: A French dough technique of squeezing the dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
 - Pincé: The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color. Also refers to the color change during this process.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
+- Polar Compounds: Oxidized molecules (free fatty acids, polymers, aldehydes) that accumulate in frying oil over time and degrade its flavor, color, and smoke point.
 - Polenta: A traditional Italian dish made from coarsely ground cornmeal, cooked in water or broth to create a creamy porridge.
 - Polycarbonate: A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.
 - Polyculture: A biological system comprised of multiple, distinct microbial strains, unlike a monoculture which contains a single strain.
@@ -406,6 +409,7 @@ No glossary terms yet.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
 - Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
+- Smoke Point: The temperature at which an oil begins to break down and produce continuous bluish smoke; lowers progressively as the oil accumulates polar compounds.
 - Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
 - Sodium Alginate: A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.
 - Sodium Citrate: A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
@@ -454,6 +458,7 @@ No glossary terms yet.
 - Tomato Water: The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
 - Torchon: "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter log.
 - Torque: A rotational force applied to an object, crucial for understanding the power output of machines like stand mixers.
+- Total Polar Materials (TPM): A measurement used to gauge the degree of oil degradation and oxidation in frying fats; the professional benchmark for when oil must be discarded.
 - Tourné: A specific knife cut producing a characteristic 7-sided football shape, demonstrating advanced knife control and precision.
 - Translucency: The quality of allowing light to pass through a material, achieved in vacuum-compressed fruits and vegetables due to the removal of internal air.
 - Tuile: French for "tile." A thin, crisp wafer, often curved, named after the curved roof tiles of French country homes.
