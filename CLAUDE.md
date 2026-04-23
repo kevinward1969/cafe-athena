@@ -11,6 +11,17 @@
 
 A culinary cookbook project with a published Astro site at `cookbook.kevinward.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.
 
+### Manuscript Architecture — Four-Part Arc
+
+| Part | Chapters | Theme |
+| :--- | :--- | :--- |
+| **Part I: The Academy** | Ch. 1–2 (The Lab, The Foundation) | Technique |
+| **Part II: The Brigade** | Ch. 3–9 (Garde Manger → The Pâtissier) | Cooking through the stations |
+| **Part III: The Larder** | Ch. 10–12 (Stocks & Sauces, Spice Blends, Les Fonds) | Building blocks |
+| **Part IV: The Expo** | Ch. 13–15 (Planning, Plating, Service) | Capstone — how it reaches the guest |
+
+You enter through technique, cook through the brigade, build from the larder, and culminate in service. Part IV is not yet started — see `IDEAS.md`.
+
 ---
 
 ## How the AI Surfaces Are Divided
@@ -28,8 +39,9 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 
 | File | Role |
 |------|------|
-| `PROJECT_STATUS.md` | Session state — active recipes, pending tasks. Check this at the start of each session. |
-| `recipes.json` | Pipeline registry — tracks stage completion per recipe. Each entry has `stages` (formatAudit, glossaryPull, heroImage, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. |
+| `PROJECT_STATUS.md` | Session state — active recipes, strategic context, pending tasks. Check this at the start of each session. **Does not duplicate registry state** — hero image + format audit status live in `recipes.json`. |
+| `recipes.json` | Pipeline registry — single source of truth for per-recipe state. Each entry has `stages` (formatAudit, glossaryPull, heroImage, heroImageOptimized, deployed, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. Run `python3 scripts/audit.py --status` for a rollup. |
+| `IDEAS.md` | Future recipe, folio, technique, and editorial ideas — low-priority backlog. Not active work; drop new ideas here. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
 | `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
@@ -123,8 +135,18 @@ See `README.md` for full documentation and the Ollama approval workflow.
 - Built recipe files: `site/src/content/recipes/XX-YY.md`
 - Hero images (source): `The Manual/Chapter N - Name/XX-YY.png` (or `.webp`)
 - Hero images (site): `site/public/images/XX-YY.webp`
-- Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content
-- Deploy: `site/scripts/deploy.sh` (from project root) — but **do not run prepare-content.py** during deploy if images have been placed directly in `site/public/images/`, as it can wipe them.
+- Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content. Safe to run during deploy — preserves already-optimized WebP images in `site/public/images/` matching `\d{2}-\d{2}[a-z]?\.webp` (fixed 2026-04-05, commit c84bc51).
+
+### Deploy Workflow
+
+The live site is hosted on FastComet. **Pushing to GitHub alone does NOT deploy the site** — only the rsync in `deploy.sh` updates the live site. Never report the site as deployed until rsync completes successfully.
+
+1. Place optimized WebP files in `site/public/images/`
+2. Update `recipes.json` (heroImage, heroImageOptimized, deployed flags)
+3. Commit and push to GitHub
+4. Run `bash site/scripts/deploy.sh` from the repo root — handles content prep, build, and rsync
+
+If images go missing after a deploy, check git history — they were likely committed and can be restored with `git checkout HEAD -- site/public/images/XX-YY.webp`.
 
 ### ⚠️ heroImage Frontmatter Format (CRITICAL)
 
@@ -155,3 +177,15 @@ This applies equally to hero images (`XX-YY.webp`) and reference images (`XX-YYa
 **Canonical location for all processed images:** `site/public/images/`
 
 The `.png` originals in The Manual may be kept until optimized, then deleted once `heroImageOptimized: true`. Reference the `recipes.json` registry as the source of truth for what has been processed.
+
+---
+
+## Operational Heuristics
+
+Session-relevant learnings that shape how work should be done in this project.
+
+- **Filesystem Authority**: Always scan live directories for folio numbers — never infer from stale docs.
+- **Scaling Nuance**: Ingredients scale linearly; reduction times do NOT (surface area constraints).
+- **Formula Trust**: Use established adaptive hydration rates for pasta.
+- **Tool Awareness**: Antigravity is used for local project orchestration. If unsure of its capabilities, ask.
+- **Frico Method (2026-04-21)**: Baked frico is structurally superior to stovetop-pan frico — even browning, longer plastic-shaping window (~30–45 sec on counter vs. 5–10 sec off the pan), hands-free batching. Silpat beats parchment for structural/molded fricos (clean release protects lace; mat retains counter heat long enough to shape). Parchment only wins on pure flat tiles where bottom crispness matters more than shape-hold.
