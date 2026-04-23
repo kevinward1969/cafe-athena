@@ -1,0 +1,65 @@
+# 01-22 Technique Folio - Oil Clarification & Life Extension
+
+**Type:** Fundamental  
+**Chapter:** The Lab  
+**Level:** Intermediate
+
+**Concept Definition**
+
+Oil clarification is the strategic removal of suspended food particles, moisture, and dissolved polar compounds to restore an oil's smoke point and neutral flavor profile. By employing hydrocolloids or mechanical filtration, a cook can extend the functional life of frying fats before chemical degradation becomes irreversible.
+
+**The Science**
+
+Understanding how impurities interact with clarification agents allows for targeted maintenance based on the type of debris present. Three distinct mechanisms govern the removal of contaminants from used frying oil:
+
+1. **Flocculation (The Cornstarch Method):** When a starch slurry is added to warm oil, the starch granules gelatinize and become sticky. These granules act as a magnet for microscopic carbonized particles, binding them into larger clusters (flocs) that settle to the bottom. *The Result:* Microscopic "fines" that pass through standard mesh are successfully trapped. *The Rule:* The oil must be between 180°F/82°C and 200°F/93°C to ensure starch gelatinization without flashing off water too violently.
+2. **Molecular Entrapment (The Gelatin Method):** Gelatin creates a three-dimensional protein network (a gel) as it cools. By whisking bloomed gelatin into room-temperature oil and refrigerating it, the resulting gel "traps" all solids and residual water within its matrix. *The Result:* This method provides the highest degree of clarity, stripping nearly all color and odor. *The Rule:* The most effective method, but requires an overnight cold-set and completely cooled oil.
+3. **Adsorption (The Professional Standard):** Industrial silicates (like magnesium silicate) do not just trap dirt; they chemically attract dissolved polar compounds and free fatty acids. *The Rule:* This is the only method that addresses chemical breakdown rather than just physical debris.
+
+**Practical Application — The "Fast-Clear" (Cornstarch)**
+
+1. **Prepare the Slurry:** Whisk 15 g (1 tbsp) cornstarch with 30 ml (2 tbsp) water per cup of oil to be cleaned.
+2. **Heat the Oil:** Bring the dirty oil to approximately 190°F/88°C.
+3. **Incorporate:** Whisk the slurry into the oil. It will sizzle and bubble; continue whisking until the mixture becomes quiet and the starch begins to clump.
+4. **Settle and Strain:** Let the oil sit until the starch clumps settle at the bottom, then strain the oil through a fine-mesh chinois or coffee filter.
+
+**Chef's Note — The TPM Limit**
+
+Clarification removes "dirt," but it does not reverse oxidation. If oil is dark brown, smells fishy, or foams excessively when heated, it has reached its Total Polar Materials (TPM) limit and must be discarded. Clarification at this stage is a safety risk and a waste of resources.
+
+**Practice Exercise — The Clarity Test**
+
+*Goal:* Observe the difference between mechanical straining and starch clarification.
+
+1. **Setup:** Take 500 ml of used frying oil containing visible carbonized "fines." Divide into two jars.
+2. **Action:** Strain Jar A through a standard coffee filter. Clarify Jar B using the cornstarch slurry method described above.
+3. **Observation:** Jar A will likely remain dark or slightly hazy. Jar B should appear significantly lighter and more transparent as the microscopic fines are removed.
+
+**Safety & Constraints**
+
+* **TPM Threshold:** Professional operations test for Total Polar Materials with a digital tester; home cooks rely on sensory cues (color, odor, foam). Oil beyond ~25% TPM must be discarded regardless of clarity.
+* **Water Management:** Residual water in filtered oil causes dangerous spatter on reheating. Always rest clarified oil uncovered at warm temperature briefly before returning to service, or confirm the oil is fully cold before storage.
+* **Storage:** Clarified oil is stored in a cool, dark, airtight container. Oxygen and light accelerate oxidation regardless of clarity.
+
+**Applications & Links**
+
+* **High-Volume Fry Stations:** Daily cornstarch clarification extends neutral oil life by 2–3× in pass-through frying programs.
+* **Finishing Oils:** The gelatin method produces optically clean infused oils (herb, chili, garlic) suitable for plating.
+* **Related Folios:** 01-01 Thermodynamics & Heat Control; 01-04 Emulsions & Hydrocolloids (The Bond).
+
+## Glossary
+
+* **Adsorption:** The adhesion of atoms, ions, or molecules from a gas, liquid, or dissolved solid to a surface — the mechanism by which silicates capture polar compounds from degraded oil.
+* **Flocculation:** The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
+* **Gelatinization:** The process where starch granules absorb water and swell when heated, eventually losing their crystalline structure to form a gel.
+* **Polar Compounds:** Oxidized molecules (free fatty acids, polymers, aldehydes) that accumulate in frying oil over time and degrade its flavor, color, and smoke point.
+* **Smoke Point:** The temperature at which an oil begins to break down and produce continuous bluish smoke; lowers progressively as the oil accumulates polar compounds.
+* **Total Polar Materials (TPM):** A measurement used to gauge the degree of oil degradation and oxidation in frying fats; the professional benchmark for when oil must be discarded.
+
+## Keywords
+
+oil clarification, cornstarch slurry, gelatin method, deep frying, oil maintenance, flocculation, adsorption, frying science, kitchen efficiency, food waste reduction
+
+## Category
+
+style: Technique Folio

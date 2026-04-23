@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Caf\u00e9 Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
     "generatedOn": "2026-04-04",
     "stages": {
       "formatAudit": "Format audit run via /format-audit",
@@ -35,7 +35,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -60,7 +60,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -85,7 +85,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -110,7 +110,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -135,7 +135,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -160,9 +160,11 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "old_format"
+        ]
       }
     },
     {
@@ -185,9 +187,11 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "old_format"
+        ]
       }
     },
     {
@@ -210,7 +214,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -235,7 +239,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -260,9 +264,11 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "old_format"
+        ]
       }
     },
     {
@@ -285,9 +291,11 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "old_format"
+        ]
       }
     },
     {
@@ -310,7 +318,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -335,7 +343,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -360,7 +368,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -385,7 +393,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -410,7 +418,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -435,7 +443,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -460,7 +468,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -485,7 +493,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -537,6 +545,29 @@
       }
     },
     {
+      "id": "01-22",
+      "title": "Oil Clarification & Life Extension",
+      "chapter": 1,
+      "chapterName": "The Lab",
+      "type": "technique",
+      "added": "2026-04-23",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": "2026-04-23",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "02-01",
       "title": "The Kitchen Cockpit (Station Management)",
       "chapter": 2,
@@ -556,7 +587,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -581,7 +612,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -606,7 +637,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -631,7 +662,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -656,7 +687,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -681,7 +712,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -706,7 +737,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -729,7 +760,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -754,7 +785,7 @@
       "heroImage": "03-02.webp",
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -777,7 +808,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -800,7 +831,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -823,7 +854,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -846,7 +877,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -869,7 +900,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -892,7 +923,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -915,14 +946,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
     },
     {
       "id": "03-10",
-      "title": "Velvet Mushroom Mousse (Vegetarian P\u00e2t\u00e9)",
+      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -938,7 +969,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -961,14 +992,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
     },
     {
       "id": "03-12",
-      "title": "Deviled Ham & Cognac Mousse (P\u00e2t\u00e9 Rustique)",
+      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -984,7 +1015,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1007,7 +1038,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1030,7 +1061,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1053,7 +1084,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1076,7 +1107,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1099,7 +1130,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1122,7 +1153,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1145,7 +1176,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1168,14 +1199,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
     },
     {
       "id": "04-07",
-      "title": "Parisian Gnocchi (P\u00e2te \u00e0 Choux)",
+      "title": "Parisian Gnocchi (Pâte à Choux)",
       "chapter": 4,
       "chapterName": "The Mill",
       "type": "recipe",
@@ -1191,7 +1222,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1214,7 +1245,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1237,7 +1268,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1263,7 +1294,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1289,7 +1320,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1315,7 +1346,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1341,7 +1372,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1367,7 +1398,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1390,9 +1421,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_headnote",
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1413,9 +1449,13 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1438,9 +1478,13 @@
       "heroImage": false,
       "heroImageOptimized": false,
       "audit": {
-        "lastRun": "2026-04-22",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1461,9 +1505,13 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1484,7 +1532,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1509,9 +1557,13 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1532,9 +1584,13 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     },
     {
@@ -1555,7 +1611,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1564,7 +1620,7 @@
     },
     {
       "id": "06-06",
-      "title": "Modern Chicken Pot Pie (Velout\u00e9 Method)",
+      "title": "Modern Chicken Pot Pie (Velouté Method)",
       "chapter": 6,
       "chapterName": "The Poulterer",
       "type": "recipe",
@@ -1580,7 +1636,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-10",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1605,7 +1661,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1628,7 +1684,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1651,7 +1707,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1674,7 +1730,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1697,7 +1753,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1720,7 +1776,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1743,7 +1799,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1766,7 +1822,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1789,7 +1845,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -1812,7 +1868,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1862,7 +1918,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1887,7 +1943,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1912,7 +1968,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1937,7 +1993,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1962,7 +2018,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -1987,7 +2043,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       },
@@ -2012,7 +2068,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2035,7 +2091,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2058,7 +2114,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2081,7 +2137,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2090,7 +2146,7 @@
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2104,7 +2160,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2113,7 +2169,7 @@
       "id": "09-02",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2127,7 +2183,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2136,7 +2192,7 @@
       "id": "09-03",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2150,16 +2206,16 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
     },
     {
       "id": "09-04",
-      "title": "Brandy-Infused Canel\u00e9s de Bordeaux",
+      "title": "Brandy-Infused Canelés de Bordeaux",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2173,7 +2229,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2182,7 +2238,7 @@
       "id": "09-05",
       "title": "Lemon Posset in Lemon Shells",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-22",
       "stages": {
@@ -2196,7 +2252,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-22",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2219,8 +2275,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2244,8 +2300,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2253,7 +2309,7 @@
     },
     {
       "id": "10-03",
-      "title": "Sauce B\u00e9chamel (Mother Sauce No. 1)",
+      "title": "Sauce Béchamel (Mother Sauce No. 1)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2269,8 +2325,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2294,8 +2350,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2319,8 +2375,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2344,8 +2400,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2353,7 +2409,7 @@
     },
     {
       "id": "10-07",
-      "title": "Master Compound Butter (Beurre Compos\u00e9)",
+      "title": "Master Compound Butter (Beurre Composé)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2369,8 +2425,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2394,8 +2450,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2419,8 +2475,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2428,7 +2484,7 @@
     },
     {
       "id": "10-10",
-      "title": "Classic Remoulade (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Remoulade (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2444,8 +2500,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2453,7 +2509,7 @@
     },
     {
       "id": "10-11",
-      "title": "Classic Tartar Sauce (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Tartar Sauce (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2469,14 +2525,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
     {
       "id": "10-12",
-      "title": "Cultured Cr\u00e8me Fra\u00eeche",
+      "title": "Cultured Crème Fraîche",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2492,14 +2548,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
     {
       "id": "10-13",
-      "title": "Classic Rag\u00f9 alla Bolognese",
+      "title": "Classic Ragù alla Bolognese",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2515,8 +2571,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2538,8 +2594,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2561,14 +2617,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
     {
       "id": "10-16",
-      "title": "Sauce Velout\u00e9 (Mother Sauce No. 2)",
+      "title": "Sauce Velouté (Mother Sauce No. 2)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2584,8 +2640,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2607,8 +2663,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2630,8 +2686,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2653,8 +2709,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2676,8 +2732,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2699,8 +2755,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2722,8 +2778,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2745,8 +2801,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       }
     },
@@ -2768,7 +2824,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2791,7 +2847,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2814,7 +2870,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2837,7 +2893,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2860,7 +2916,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2883,7 +2939,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -2906,8 +2962,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "approved",
+        "lastRun": "2026-04-23",
+        "status": "clean",
         "issues": []
       },
       "heroImage": true,
@@ -2938,7 +2994,7 @@
     },
     {
       "id": "12-03",
-      "title": "P\u00e2te Bris\u00e9e (Classic Shortcrust)",
+      "title": "Pâte Brisée (Classic Shortcrust)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -2962,7 +3018,7 @@
     },
     {
       "id": "12-04",
-      "title": "P\u00e2te \u00e0 Choux (The Steam Dough)",
+      "title": "Pâte à Choux (The Steam Dough)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -2986,7 +3042,7 @@
     },
     {
       "id": "12-05",
-      "title": "P\u00e2te Feuillet\u00e9e (Classic Puff Pastry)",
+      "title": "Pâte Feuilletée (Classic Puff Pastry)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3010,7 +3066,7 @@
     },
     {
       "id": "12-06",
-      "title": "Rough Puff Pastry (Demi-Feuillet\u00e9e)",
+      "title": "Rough Puff Pastry (Demi-Feuilletée)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3130,7 +3186,7 @@
     },
     {
       "id": "12-11",
-      "title": "Cr\u00e8me P\u00e2tissi\u00e8re",
+      "title": "Crème Pâtissière",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3174,7 +3230,7 @@
     },
     {
       "id": "12-13",
-      "title": "Cr\u00e8me Chantilly (Whipped Cream)",
+      "title": "Crème Chantilly (Whipped Cream)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3218,7 +3274,7 @@
     },
     {
       "id": "12-15",
-      "title": "Frico Lamin\u00e9 (Baked Cheese Tiles & Vessels)",
+      "title": "Frico Laminé (Baked Cheese Tiles & Vessels)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3259,7 +3315,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
+        "lastRun": "2026-04-23",
         "status": "clean",
         "issues": []
       }
@@ -3284,9 +3340,13 @@
       "heroImage": false,
       "heroImageOptimized": false,
       "audit": {
-        "lastRun": "2026-04-22",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-04-23",
+        "status": "issues_found",
+        "issues": [
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
       }
     }
   ]
