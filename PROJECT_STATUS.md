@@ -1,11 +1,12 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed)
+Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed; 05-03 Unilateral Seared Bass added)
 
 ## 🎯 Active Development
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
+| **05-03** | Unilateral Seared Bass with Miso-Noisette | Completed | Indexed. Glossary merged. Hero pending. |
 | **08-07** | St. Louis "Riplet" Corn Ribs | Completed | Indexed. Hero + glossary merged. |
 | **09-05** | Lemon Posset in Lemon Shells | Completed | Indexed. Hero + glossary merged. |
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
@@ -64,7 +65,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-22):** 97/135 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-11–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
+**Hero image status (2026-04-22):** 98/136 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 05-03, 07-13, 09-01–09-04, 10-11–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-14, 12-16.
 
 ---
 
@@ -102,6 +103,7 @@ Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have
 | 01-20 | Hydro-Thermal Stabilization (Blanch & Press) | Ch. 1 | |
 | 01-21 | Lacto-Fermentation (The Science of Biological Acidification) | Ch. 1 | |
 | 03-14 | Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice | Ch. 3 | *(optimize only)* |
+| 05-03 | Unilateral Seared Bass with Miso-Noisette | Ch. 5 | |
 | 07-13 | Individual Beef Wellington | Ch. 7 | |
 | 09-01 | Brown Butter & Miso-Caramel Truffle Brownies | Ch. 9 | |
 | 09-02 | Spicy Brown Butter & Lemon Cheesecake Cookies | Ch. 9 | |
@@ -135,7 +137,6 @@ Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have
 | 12-12 | The Meringue Trinity | Ch. 12 | |
 | 12-13 | Crème Chantilly | Ch. 12 | |
 | 12-14 | The Composite Creams | Ch. 12 | |
-| 12-15 | Frico Laminé (Baked Cheese Tiles & Vessels) | Ch. 12 | |
 | 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 | |
 
 ---

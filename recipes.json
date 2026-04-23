@@ -1484,6 +1484,31 @@
       }
     },
     {
+      "id": "05-03",
+      "title": "Unilateral Seared Bass with Miso-Noisette",
+      "chapter": 5,
+      "chapterName": "The Fishmonger",
+      "type": "recipe",
+      "added": "2026-04-22",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "heroImage": false,
+      "heroImageOptimized": false,
+      "audit": {
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "06-01",
       "title": "Italian Wedding Soup (Pollo Rustica)",
       "chapter": 6,
@@ -1895,6 +1920,36 @@
       "heroImageOptimized": true
     },
     {
+      "id": "07-10_2",
+      "title": "The Competition Red Texas-Style Chili",
+      "chapter": 7,
+      "chapterName": "The Butcher",
+      "type": "recipe",
+      "added": "2026-04-04",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-07",
+        "status": "issues_found",
+        "issues": [
+          "missing_headnote",
+          "missing_mise_en_place",
+          "missing_ingredients",
+          "missing_method"
+        ]
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
+    },
+    {
       "id": "07-11",
       "title": "Pressure-Braised Chuck Roast (The Competition Pot Roast)",
       "chapter": 7,
@@ -1968,36 +2023,6 @@
       },
       "heroImage": false,
       "heroImageOptimized": false
-    },
-    {
-      "id": "07-10_2",
-      "title": "The Competition Red Texas-Style Chili",
-      "chapter": 7,
-      "chapterName": "The Butcher",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": false,
-        "glossaryPull": true,
-        "heroImage": true,
-        "heroImageOptimized": true,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true
-      },
-      "audit": {
-        "lastRun": "2026-04-07",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
-      },
-      "heroImage": true,
-      "heroImageOptimized": true
     },
     {
       "id": "08-01",
@@ -3289,8 +3314,8 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -3299,7 +3324,9 @@
         "lastRun": null,
         "status": "pending",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "12-16",

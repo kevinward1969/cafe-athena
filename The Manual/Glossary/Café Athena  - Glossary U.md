@@ -7,3 +7,4 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Ultra-Pasteurized: A process of heating milk to 138°C (280°F) for 2 seconds. It extends shelf life but damages the proteins required for cheese and curd making.
 - Umami-Dense: Characterized by a high concentration of umami compounds, contributing to a savory and rich flavor profile.
 - Umami: The fifth basic taste, often described as savory or meaty, resulting from the presence of glutamates.
+- Unilateral Searing: A technique where an item is cooked almost entirely on one side to create an extreme texture contrast between the seared surface and the barely-set interior.
