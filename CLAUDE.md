@@ -7,6 +7,19 @@
 
 ---
 
+## Status Query Protocol
+
+When the user asks for a status update, what's next, where we are, what's pending, or anything semantically equivalent, read these four sources **before answering** — never respond from memory alone:
+
+1. `PROJECT_STATUS.md` — active work, bugs, pending items
+2. `IDEAS.md` — future/deferred backlog
+3. `recipes.json` — live per-recipe state (run `python3 scripts/audit.py --status` for the rollup)
+4. `CLAUDE.md` — this file, for architectural context
+
+Produce a rollup in this order: **active work first, then open issues, then backlog highlights.** Do not dump the full `IDEAS.md` — surface only what's relevant to the current session's direction.
+
+---
+
 ## What This Project Is
 
 A culinary cookbook project with a published Astro site at `cookbook.kevinward.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.
