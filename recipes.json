@@ -559,7 +559,7 @@
         "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
       },
       "audit": {
         "lastRun": "2026-04-23",

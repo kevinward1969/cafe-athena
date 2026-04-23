@@ -12,7 +12,7 @@ In-progress folios. Completed items are tracked via `recipes.json` and `git log`
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
-| 01-22 | Oil Clarification & Life Extension | Formatted + audit clean; awaiting hero image | Technique Folio; prompt generated 2026-04-23 |
+| *(none)* | — | — | — |
 
 ---
 
