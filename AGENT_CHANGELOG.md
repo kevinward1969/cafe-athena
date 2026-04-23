@@ -8,6 +8,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
 |--------------|-----------------|-----------------|----------------|-----------------|
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 |
 | 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 |
 | 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 |
 | 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 |
@@ -19,7 +20,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Gemini Gem 1 — The Chef
 
 **File:** `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
-**Current Version:** 3.5
+**Current Version:** 3.7
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -37,7 +38,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Claude Desktop Agent
 
 **File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.3
+**Current Version:** 1.6
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -47,13 +48,14 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v1.4 | 2026-04-16 | Master audit pass. Added No Sycophancy and Uncertainty Acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to CRITICAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.5 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.6 | 2026-04-23 | Lowered Keywords minimum from 10 to 8 (Mode 2 step 4 and RECIPE STRUCTURE item 8). Clarified Category format split: recipe folios use `cuisine: X \| style: Y`; technique folios use `style: Technique Folio` only (no cuisine). Aligns with `Guidance/Recipe-Format-Standard.md` update and `scripts/audit.py` rule changes in same release. |
 
 ---
 
 ## Claude Code Sub-Agent — Café Athena Chef
 
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
-**Current Version:** 1.2  
+**Current Version:** 1.5  
 **Status:** Canonical master — update this first.
 
 | Version | Date | Changes |
@@ -63,6 +65,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v1.2 | 2026-04-14 | Updated `/glossary-pull` description to reference the new split glossary structure (`The Manual/Glossary/Café Athena  - Glossary [LETTER].md`) instead of the deprecated monolithic `Café Athena  - Glossary.md`. |
 | v1.3 | 2026-04-16 | Master audit pass. Added anti-sycophancy and uncertainty acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to UNIVERSAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added REFERENCE IMAGE SHORTCODE spec to CORE CONSTRAINTS (was CD-only). Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.4 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.5 | 2026-04-23 | Lowered Keywords minimum from 10 to 8 (Mode 2 step 1 and RECIPE STRUCTURE item 8). Clarified Category format split: recipe folios use `cuisine: X \| style: Y`; technique folios use `style: Technique Folio` only (no cuisine). Aligns with `Guidance/Recipe-Format-Standard.md` update and `scripts/audit.py` rule changes in same release. |
 
 ---
 
