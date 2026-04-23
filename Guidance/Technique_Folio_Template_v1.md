@@ -37,7 +37,7 @@
 
 ## Keywords
 
-[10–15 lowercase, comma-separated terms covering: the core concept, related techniques, ingredients involved, equipment if relevant, and difficulty/context]
+[8–15 lowercase, comma-separated terms covering: the core concept, related techniques, ingredients involved, equipment if relevant, and difficulty/context. Technique folios typically land in the 8–12 range — quality over padding.]
 
 ## Category
 
