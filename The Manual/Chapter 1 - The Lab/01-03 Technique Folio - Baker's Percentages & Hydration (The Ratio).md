@@ -1,4 +1,5 @@
 # **Technique Folio - Baker's Percentages & Hydration (The Ratio)**
+
 **Concept Definition** Baker's Percentages are a notation method where every ingredient is expressed as a percentage of the total flour weight. Unlike standard recipes where everything adds up to 100%, in baking, the **flour is always 100%**. All other ingredients (water, salt, yeast) are calculated relative to the flour.
 
 **The Science: Hydration Structure** Baking is chemistry. The ratio of water to flour (**Hydration**) dictates the structure of the crumb (the inside of the bread).

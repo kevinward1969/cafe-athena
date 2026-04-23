@@ -1,4 +1,5 @@
 # **Technique Folio - The Machine Shop (Electrics)**
+
 **Concept Definition:** Electric tools are not shortcuts; they are engines of **Force**. They provide speed and consistency that the human hand cannot match. However, they introduce a new variable: **Friction Heat**. While a knife cuts without heating the ingredient, a high-speed blade generates significant thermal energy. If you blend a delicate herb oil too long, you cook the herbs and turn the oil brown.
 
 **The Physics: Torque vs. Shear:** To use the Machine Shop safely, you must understand the type of force being applied:

@@ -35,8 +35,8 @@ Meringue is a structural foam created by the mechanical denaturation of egg whit
 **Phase 2: The Swiss Method (Warmed).**
 *Best for: Stable toppings, buttercream bases, or "cooked" marshmallow textures.*
 
-1. **Bain-Marie:** Combine whites and sugar in the mixer bowl. Place over a pot of simmering water (do not let the bowl touch the water). 
-2. **Dissolve:** Whisk constantly by hand until the sugar is fully dissolved and the mixture reaches **160°F/71°C**. 
+1. **Bain-Marie:** Combine whites and sugar in the mixer bowl. Place over a pot of simmering water (do not let the bowl touch the water).
+2. **Dissolve:** Whisk constantly by hand until the sugar is fully dissolved and the mixture reaches **160°F/71°C**.
 3. **Whip:** Transfer to the stand mixer and whisk on high speed until the bowl feels cool to the touch and the meringue is thick and brilliant white.
 
 **Phase 3: The Italian Method (Hot Syrup).**
@@ -44,8 +44,8 @@ Meringue is a structural foam created by the mechanical denaturation of egg whit
 
 1. **Syrup Stage:** Combine sugar with 60 ml (¼ cup) water in a small saucepan. Cook over medium-high heat until it reaches **240°F/115°C** (soft-ball stage).
 2. **Parallel Whip:** When the syrup hits 230°F/110°C, begin whisking the whites on medium speed until soft peaks form.
-3. **The Stream:** With the mixer running on medium-low, slowly stream the hot syrup down the side of the bowl (avoiding the whisk). 
-4. **Cool Down:** Increase speed to medium-high and whisk until the bowl is cool to the touch. 
+3. **The Stream:** With the mixer running on medium-low, slowly stream the hot syrup down the side of the bowl (avoiding the whisk).
+4. **Cool Down:** Increase speed to medium-high and whisk until the bowl is cool to the touch.
 
 ## Chef's Notes / Variations
 
@@ -59,7 +59,9 @@ Meringue is a structural foam created by the mechanical denaturation of egg whit
 * **Stiff Peaks:** When the whisk is lifted, the peak stands straight up without collapsing.
 
 ## Keywords
+
 meringue, egg whites, French meringue, Swiss meringue, Italian meringue, aeration, pastry base, protein denaturation, sugar syrup
 
 ## Category
+
 cuisine: French | style: Classical

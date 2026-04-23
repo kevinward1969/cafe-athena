@@ -21,25 +21,31 @@ This is a deliberate fusion canapé built on contrast: the numbing, floral heat 
 ## Ingredients
 
 ### The Platform
+
 - 14–16 Crispy Rice Squares (see 12-01)
 
 ### The Dijonnaise
+
 - 60 ml (4 tbsp) good-quality mayonnaise
 - 30 ml (2 tbsp) Dijon mustard
 
 ### The Protein
+
 - 1 can Korean hot pot-style SPAM, sliced ¼ inch thick and portioned to platform size
 
 ### The Sichuan Pepper Crust
+
 - 1.5 g (½ tsp) Dahongpao Sichuan peppercorns
 - 3 g (1 tsp) KW Signature Smoked Red Pepper Blend (see Chapter 11)
 - 3 g (1 tsp) whole black peppercorns
 - Diamond Crystal kosher salt, to finish
 
 ### The Melt
+
 - Irish Dubliner, sliced slightly larger than platform footprint (~3 mm thick)
 
 ### The Finish
+
 - Baby spinach, mesclun, or mixed bitter greens, torn to platform size
 - Extra virgin olive oil or toasted sesame oil, for spraying
 - White sesame seeds, to garnish
@@ -83,7 +89,9 @@ Place torn greens on top of the torched Dubliner. Spray lightly with olive oil o
 - **Torching:** The technique of applying direct flame from a butane torch to melt, blister, or char the surface of a food — commonly used for cheese, meringue, and caramelized finishes.
 
 ## Keywords
+
 crispy rice, SPAM, Sichuan pepper, Dubliner, canapé, fusion, torched cheese, dijonnaise, sesame, bitter greens, Korean, garde manger, canape platform, finger food, competition
 
 ## Category
+
 cuisine: Asian-Fusion | style: Modern

@@ -161,10 +161,8 @@
       "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "old_format"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -188,10 +186,8 @@
       "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "old_format"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -265,10 +261,8 @@
       "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "old_format"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -292,10 +286,8 @@
       "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "old_format"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {

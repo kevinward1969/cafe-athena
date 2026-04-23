@@ -1,4 +1,5 @@
 # **Technique Folio - Sodium Citrate (The Melting Salt)**
+
 **Concept Definition**
 **Sodium Citrate** (Na₃C₆H₅O₇) is a salt derived from citric acid. In the culinary world, it is known as a **melting salt** or **emulsifying salt**.
 
@@ -54,7 +55,8 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 4. **Finish:** Once all cheese is added, use an immersion blender for 10 seconds to ensure a perfect glossy texture.
 5. **Test:** Pour over chips or bread. Note that even as it cools, it does not separate; it simply firms up.
 
-**Glossary**
+## Glossary
+
 * **Casein:** A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
 * **Chelation:** The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
 * **Emulsion:** A stable mixture of two or more immiscible liquids, such as fat and water, where one liquid is dispersed as small droplets within the other.
@@ -63,8 +65,10 @@ To use Sodium Citrate effectively, you must dissolve it in your liquid *before* 
 * **Emulsifying Salt:** A salt, like sodium citrate, that stabilizes emulsions by preventing the separation of fat and water phases.
 * **Dissolve:** The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
 
-**Keywords**
+## Keywords
+
 melting salt, sodium citrate, cheese, emulsion, casein, calcium, chelation, food science, sauce, dairy
 
-**Category**
+## Category
+
 style: Technique Folio

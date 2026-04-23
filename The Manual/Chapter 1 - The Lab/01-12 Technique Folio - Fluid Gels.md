@@ -1,4 +1,5 @@
 # **Technique Folio - Fluid Gels**
+
 **Concept Definition** A fluid gel is a substance that behaves like a solid when at rest but flows like a liquid when subjected to mechanical force (shearing). It allows a chef to plate a sauce with the precision of a gel—holding its shape and height—while maintaining the luxurious, melt-in-the-mouth texture of a traditional purée.
 
 ---

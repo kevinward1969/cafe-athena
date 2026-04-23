@@ -35,7 +35,7 @@ Crème Pâtissière (pastry cream) is defined by its use of starch—typically c
 
 1. **Build the Emulsion Base:** While the milk warms, whisk the eggs and cornstarch in a small bowl until perfectly smooth and no white streaks remain.
 
-1. **Temper the Eggs:** Slowly pour roughly 125 ml (½ cup) of the hot milk mixture into the egg mixture while whisking constantly. 
+1. **Temper the Eggs:** Slowly pour roughly 125 ml (½ cup) of the hot milk mixture into the egg mixture while whisking constantly.
 
    **Why:** This gradually raises the temperature of the eggs, preventing them from scrambling when introduced to the main pot.
 
@@ -64,7 +64,9 @@ Crème Pâtissière (pastry cream) is defined by its use of starch—typically c
 * **Tempering:** The process of combining two liquids of different temperatures slowly to prevent protein coagulation (scrambling).
 
 ## Keywords
+
 pastry cream, creme patissiere, custard, vanilla bean, cornstarch, tempering, French pastry, dessert base, pipeable, emulsion
 
 ## Category
+
 cuisine: French | style: Classical

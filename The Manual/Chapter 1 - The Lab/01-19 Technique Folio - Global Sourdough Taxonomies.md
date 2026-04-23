@@ -1,4 +1,5 @@
 # **Technique Folio - Global Sourdough Taxonomies**
+
 **Concept Definition:** Not all starters are created equal. The choice of grain (substrate) and hydration (water content) dictates the bacterial dominance (Lactic vs. Acetic), the lifting power, and the final flavor profile.
 
 **The Index: Starter Varietals**

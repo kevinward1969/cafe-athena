@@ -1,4 +1,5 @@
 # **Technique Folio - Emulsions & Hydrocolloids (The Bond)**
+
 **Concept Definition** In the kitchen, we are constantly trying to mix two things that hate each other: Water and Fat.
 
 * **An Emulsion** is the forced suspension of tiny droplets of one liquid inside another (e.g., oil droplets floating in vinegar).

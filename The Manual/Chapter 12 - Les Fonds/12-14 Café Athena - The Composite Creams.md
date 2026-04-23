@@ -38,7 +38,7 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 **Phase 1: Assembling Crème Diplomat.**
 
 1. **The Sacrifice:** Whisk a third of the Chantilly into the smoothed pastry cream to loosen the density.
-2. **The Fold:** Gently fold in the remaining Chantilly and crème fraîche with a spatula until no white streaks remain. 
+2. **The Fold:** Gently fold in the remaining Chantilly and crème fraîche with a spatula until no white streaks remain.
 
    **Sensory Cue:** The resulting cream should be light, glossy, and hold a soft, pipeable shape.
 
@@ -67,7 +67,9 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 * **Homogenous:** A mixture that is uniform in texture and appearance throughout.
 
 ## Keywords
+
 crème diplomat, crème mousseline, crème chiboust, composite cream, pastry filling, folding technique, aeration, emulsification, French pastry
 
 ## Category
+
 cuisine: French | style: Classical

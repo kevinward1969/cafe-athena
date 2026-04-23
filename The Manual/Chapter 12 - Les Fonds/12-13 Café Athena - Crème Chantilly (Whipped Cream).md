@@ -31,15 +31,15 @@ Crème Chantilly is heavy cream that has been aerated and sweetened. Its success
 
 ## Method
 
-1. **The Cold Start:** Pour the cold heavy cream, sugar, and vanilla into the chilled mixing bowl. 
+1. **The Cold Start:** Pour the cold heavy cream, sugar, and vanilla into the chilled mixing bowl.
 
-1. **Slow Aeration:** Start the mixer on medium-low speed. 
+1. **Slow Aeration:** Start the mixer on medium-low speed.
 
    **Why:** A slower start builds a smaller, more uniform bubble structure. This "fine crumb" makes the final whipped cream significantly more stable than cream whipped quickly on high speed.
 
 1. **Incorporate Stabilizers:** If using the Gelatin or Xanthan variations, add them once the cream begins to show "soft trails" (faint lines from the whisk that quickly disappear).
 
-1. **Whisk to Peak:** Increase the speed to medium-high. 
+1. **Whisk to Peak:** Increase the speed to medium-high.
 
    **Sensory Cue:** The cream will shift from a liquid to a matte, pillowy solid. The whisk will leave sharp, distinct tracks.
 
@@ -57,7 +57,9 @@ Crème Chantilly is heavy cream that has been aerated and sweetened. Its success
 * **Overrun:** The volume of air incorporated into the cream; professional Chantilly usually has an overrun of nearly 100% (doubling in volume).
 
 ## Keywords
+
 crème chantilly, whipped cream, stabilized cream, heavy cream, aeration, xanthan gum, gelatin, dessert topping, French pastry
 
 ## Category
+
 cuisine: French | style: Classical

@@ -1,4 +1,5 @@
 # **Technique Folio - The Larder (Inventory & Storage)**
+
 **Concept Definition** A professional walk-in cooler is a library, not a junk drawer. Every item has a specific address, a standardized container, and a visible expiration date. Home cooks lose money and flavor because they store food in opaque bags, forget what they have, and let it rot. The Larder system is about **Visual Control** and **Rotation**.
 
 **The Logic: FIFO (First In, First Out)** This is the Golden Rule of inventory.

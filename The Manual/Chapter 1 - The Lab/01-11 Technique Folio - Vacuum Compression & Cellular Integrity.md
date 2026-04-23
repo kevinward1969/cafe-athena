@@ -1,4 +1,5 @@
 # **Technique Folio - Vacuum Compression & Cellular Integrity**
+
 **Concept Definition:** Vacuum compression is a technique used to modify the physical structure and flavor profile of porous foods by subjecting them to a high-vacuum environment. This process removes internal gases and collapses cellular structures, allowing for instantaneous marination and a unique, dense, and translucent texture.
 
 ---
@@ -34,15 +35,18 @@ In the professional kitchen, this technique is utilized to create garnishes that
    * **Texture:** The compressed cubes should feel dense and "snappy," while the control remains airy and soft.
    * **Flavor:** The vinegar should be present throughout the entire cube, not just on the surface.
 
-**Glossary**
+## Glossary
+
 * **Atmospheric Pressure:** The force exerted by the weight of air above a given point, utilized in vacuum compression to remove internal gases from food.
 * **Cellular Architecture:** The complex arrangement of cells and their structural components within a food matrix, significantly altered by vacuum compression.
 * **Hydrostatic Infusion:** The rapid penetration of liquid into collapsed cellular structures following the release of vacuum pressure, crucial for marination.
 * **Translucency:** The quality of allowing light to pass through a material, achieved in vacuum-compressed fruits and vegetables due to the removal of internal air.
 * **Cellular Collapse:** The structural deformation of food cells during vacuum compression, resulting in a denser, more uniform texture.
 
-**Keywords**
+## Keywords
+
 vacuum compression, cellular architecture, marination, hydrostatic infusion, texture modification, pickling, fruits, vegetables, translucency, culinary technique
 
-**Category**
+## Category
+
 style: Technique Folio

@@ -1,4 +1,5 @@
 # **Technique Folio - The Steward (Care & Maintenance)**
+
 **Concept Definition** In a professional kitchen, the "Steward" (or *Plongeur*) is often considered an entry-level role, but the **principles of Stewardship** are the responsibility of the Chef. Tools degrade with every use. A knife edge rolls; a pan loses its seasoning; stainless steel oxidizes. Your goal is not just to clean, but to **restore** your tools to their original mechanical advantage before the next service.
 
 **The Physics: Alignment & Polymerization** To maintain your kit, you must understand what happens to metal at the microscopic level:

@@ -1,4 +1,5 @@
 # **Technique Folio - Thermal Gradient Control (The Reverse Sear)**
+
 **Concept Definition:** The Reverse Sear is a two-stage cooking method where the meat is brought to its target internal temperature gently in a low-temperature environment (oven) before being finished with a high-heat sear. This creates a uniform "edge-to-edge" doneness, eliminating the "bullseye" gradient (gray band) found in traditionally cooked steaks.
 
 **The Science** Traditional cooking relies on high heat to drive energy into the center of the meat. To get the center to medium-rare (129°F / 54°C), the exterior layers must inevitably be overcooked to gray well-done. This is a high thermal gradient.

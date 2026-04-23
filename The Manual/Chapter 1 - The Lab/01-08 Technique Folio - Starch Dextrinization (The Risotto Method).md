@@ -1,4 +1,5 @@
 # **Technique Folio - Starch Dextrinization (The "Risotto" Method)**
+
 **Concept Definition** Most home cooks boil pasta in abundant water and drain it. This folio explores the alternative: **The Absorption Method** combined with **Toasting**. By treating small pasta shapes (Israeli couscous, orzo, fideo) like risotto rice—toasting them in fat before adding liquid—we alter their texture and flavor profile fundamentally.
 
 **The Science** The key chemical process here is **Pyrodextrins (Dextrinization)**.

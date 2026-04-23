@@ -1,4 +1,5 @@
 # **Technique Folio - Spherification (Ionic Gelation)**
+
 **Concept Definition**
 **Spherification** is the process of encapsulating a liquid within a thin, gelled membrane, mimicking the texture of caviar or an egg yolk. This is achieved using **hydrocolloids**—gums that thicken or gel when dispersed in water.
 
@@ -19,6 +20,7 @@ When these chains encounter **Calcium ions (Ca²⁺)**, a cross-linking reaction
 To execute this in a home kitchen, you must control the chemical variables.
 
 **1. The Core Variables**
+
 * **Hydration (Shearing):** Sodium Alginate is hydrophilic but difficult to hydrate; it tends to clump. You must use an immersion blender to create a high-shear vortex to disperse it fully.
 * **De-aeration:** Blending creates air bubbles which will ruin the aesthetic of your sphere. The alginate base must rest (2–12 hours) or be vacuum-sealed to remove air before use.
 * **pH Sensitivity:** Alginate degrades in high acid (pH < 3.6). For acidic ingredients (citrus, balsamic), use **Sodium Citrate** as a buffer, or switch to Reverse Spherification, which is pH-resistant.
@@ -32,6 +34,7 @@ Use these starting percentages to formulate your own recipes.
 | **Reverse** | Dairy, alcohol, large yolks. | Liquid + **2.0%** Calcium Lactate Gluconate | Water + **0.5%** Sodium Alginate |
 
 **3. Advanced Troubleshooting**
+
 * **The "Splat" Factor (Viscosity):** If your flavor base is thin (like water or a cocktail), it will flatten into a disk when dropped.
   * *The Fix:* Whisk **0.2% Xanthan Gum** into the flavor base. This adds just enough viscosity to hold a round shape due to surface tension.
 * **Calcium Selection:**
@@ -59,7 +62,8 @@ Use these starting percentages to formulate your own recipes.
 4. **Cook:** Let the spheres float in the bath for 2 minutes. Do not let them touch the bottom or each other.
 5. **Rinse & Serve:** Using a slotted spoon, transfer the spheres to a bowl of clean water to rinse off excess alginate. Serve immediately.
 
-**Glossary**
+## Glossary
+
 * **Sodium Alginate:** A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.
 * **Ionic Gelation:** A food-stabilization technique utilizing divalent cations, primarily calcium ions, to cross-link alginate chains, forming a semi-solid gel.
 * **Calcium Lactate Gluconate:** A calcium salt used as a setting agent in reverse spherification, offering a flavorless reaction compared to calcium chloride.
@@ -68,8 +72,10 @@ Use these starting percentages to formulate your own recipes.
 * **Sodium Citrate:** A buffering agent used to mitigate the degradation of alginate in acidic environments, maintaining gel stability.
 * **Shearing:** A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
 
-**Keywords**
+## Keywords
+
 spherification, ionic gelation, sodium alginate, calcium, hydrocolloids, alginate, gelation, molecular gastronomy, emulsification, technique folio
 
-**Category**
+## Category
+
 style: Technique Folio
