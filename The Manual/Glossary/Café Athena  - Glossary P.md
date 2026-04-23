@@ -21,6 +21,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Pincage: A French dough technique of squeezing the dough through fingers to incorporate ingredients (like salt or levain) evenly without shear force.
 - Pincé: The technique of cooking tomato paste in fat until it darkens and caramelizes, removing the raw metallic flavor and deepening the color. Also refers to the color change during this process.
 - Plasticity: The property of a solid material to undergo permanent deformation under load. In dough, high plasticity means it holds its shape well without shrinking back instantly. For butter, the "workable" range between solid and melted.
+- Polar Compounds: Oxidized molecules (free fatty acids, polymers, aldehydes) that accumulate in frying oil over time and degrade its flavor, color, and smoke point.
 - Polenta: A traditional Italian dish made from coarsely ground cornmeal, cooked in water or broth to create a creamy porridge.
 - Polycarbonate: A transparent thermoplastic polymer used in Cambro squares for volume marking and visibility.
 - Polyculture: A biological system comprised of multiple, distinct microbial strains, unlike a monoculture which contains a single strain.

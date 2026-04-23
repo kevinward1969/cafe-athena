@@ -24,6 +24,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Tomato Water: The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
 - Torchon: "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter log.
 - Torque: A rotational force applied to an object, crucial for understanding the power output of machines like stand mixers.
+- Total Polar Materials (TPM): A measurement used to gauge the degree of oil degradation and oxidation in frying fats; the professional benchmark for when oil must be discarded.
 - Tourné: A specific knife cut producing a characteristic 7-sided football shape, demonstrating advanced knife control and precision.
 - Translucency: The quality of allowing light to pass through a material, achieved in vacuum-compressed fruits and vegetables due to the removal of internal air.
 - Tuile: French for "tile." A thin, crisp wafer, often curved, named after the curved roof tiles of French country homes.

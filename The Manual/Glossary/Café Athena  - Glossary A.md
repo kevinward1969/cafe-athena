@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
 - Acid-Set Gel: A gel formed not by a hydrocolloid additive (such as gelatin or agar) but by the partial denaturation of milk proteins caused by the introduction of sufficient acid. The aggregated proteins form a loose, stable network that holds the cream in a semi-solid state, as in a lemon posset.
 - Acidification: The process by which Lactic Acid Bacteria excrete lactic acid, lowering the pH of a brine to a level hostile to pathogens.
+- Adsorption: The adhesion of atoms, ions, or molecules from a gas, liquid, or dissolved solid to a surface — the mechanism by which silicates capture polar compounds from degraded oil.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.

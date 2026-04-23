@@ -11,6 +11,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - FIFO: First In, First Out – a stock rotation method prioritizing the oldest items.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
+- Flocculation: The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
 - Fond Brun: French for "Brown Stock."

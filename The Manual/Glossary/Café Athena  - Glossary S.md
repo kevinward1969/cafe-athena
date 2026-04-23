@@ -34,6 +34,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
 - Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
+- Smoke Point: The temperature at which an oil begins to break down and produce continuous bluish smoke; lowers progressively as the oil accumulates polar compounds.
 - Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
 - Sodium Alginate: A polysaccharide extracted from brown algae used as a hydrocolloid to induce ionic gelation.
 - Sodium Citrate: A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.

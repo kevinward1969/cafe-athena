@@ -554,7 +554,7 @@
       "stages": {
         "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
