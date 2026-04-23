@@ -15,5 +15,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
 - Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
 - Equilibrium Brine: A low-salinity brine (typically 1–3%) that seasons protein without over-saturating it, relying on diffusion rather than osmotic pressure.
+- Equilibrium Rest: A refrigerated hold during which a hydrating seed core and its surrounding medium balance water activity, producing a stable, distinct texture rather than a slurry.
 - Ethylene Gas: A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
 - Exothermic: A chemical reaction that releases heat.

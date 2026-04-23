@@ -3350,6 +3350,31 @@
         "status": "clean",
         "issues": []
       }
+    },
+    {
+      "id": "12-17",
+      "title": "Non-Fish Caviar (Seeds & Spheres)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-22",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "heroImage": false,
+      "heroImageOptimized": false,
+      "audit": {
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
+      }
     }
   ]
 }

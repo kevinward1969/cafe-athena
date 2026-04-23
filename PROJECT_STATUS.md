@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed; 05-03 Unilateral Seared Bass added)
+Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed; 05-03 Unilateral Seared Bass + 12-17 Non-Fish Caviar added)
 
 ## 🎯 Active Development
 
@@ -11,6 +11,7 @@ Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed; 05-03 Unilat
 | **09-05** | Lemon Posset in Lemon Shells | Completed | Indexed. Hero + glossary merged. |
 | **10-21** | Lemon Cream & Parmigiano Sauce | Completed | Indexed. |
 | **12-09** | Definitive Guide to Egg Pasta | Completed | Indexed. Moved from 04-16. |
+| **12-17** | Non-Fish Caviar (Seeds & Spheres) | Completed | Indexed. Glossary merged. Hero pending. |
 
 ## 🔖 Pending Items
 
@@ -35,7 +36,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
   Part IV is the narrative capstone: you enter through technique, cook through the brigade, build from the larder, and the whole thing culminates in service. Reads like a real culinary school curriculum.
 
-- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 16 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 Frico Laminé (Baked Cheese Tiles & Vessels), 12-16 Sesame Tuile Cylinders (moved from Ch. 9). Next candidate: 12-17 Non-Fish Caviar (Seeds & Spheres) — in development.
+- **Chapter 12 — Les Fonds** *(Structural Bases, Vessels & Platforms)*: Completes Part III. 17 entries complete: 12-01 Crispy Rice Platform, 12-02 Foundation Tart Dough (Six Variants), 12-03 Pâte Brisée, 12-04 Pâte à Choux, 12-05 Pâte Feuilletée, 12-06 Rough Puff Pastry, 12-07 Rich Yolk Pasta Dough, 12-08 Gnocchi 201, 12-09 Definitive Guide to Egg Pasta, 12-10 Quintessential Spinach Pasta, 12-11 Crème Pâtissière, 12-12 The Meringue Trinity, 12-13 Crème Chantilly, 12-14 The Composite Creams, 12-15 Frico Laminé (Baked Cheese Tiles & Vessels), 12-16 Sesame Tuile Cylinders (moved from Ch. 9), 12-17 Non-Fish Caviar (Seeds & Spheres).
 
 - **Part IV: The Expo** *(Ch. 13–15)*: Narrative capstone of The Manual and a dedicated site section.
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
@@ -65,7 +66,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-22):** 98/136 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 05-03, 07-13, 09-01–09-04, 10-11–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-14, 12-16.
+**Hero image status (2026-04-22):** 98/137 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 05-03, 07-13, 09-01–09-04, 10-11–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-14, 12-16, 12-17.
 
 ---
 
@@ -94,7 +95,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 ✅ Complete (2026-04-09) — 0 PNGs remaining in The Manual.
 
-### Hero Image Generation — Missing Entries (38 total)
+### Hero Image Generation — Missing Entries (39 total)
 
 Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have an image but `heroImageOptimized` is still false.
 
@@ -138,6 +139,7 @@ Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have
 | 12-13 | Crème Chantilly | Ch. 12 | |
 | 12-14 | The Composite Creams | Ch. 12 | |
 | 12-16 | Sesame Tuile Cylinders (Noir & Orange) | Ch. 12 | |
+| 12-17 | Non-Fish Caviar (Seeds & Spheres) | Ch. 12 | |
 
 ---
 

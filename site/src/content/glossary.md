@@ -161,6 +161,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
 - Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
 - Equilibrium Brine: A low-salinity brine (typically 1–3%) that seasons protein without over-saturating it, relying on diffusion rather than osmotic pressure.
+- Equilibrium Rest: A refrigerated hold during which a hydrating seed core and its surrounding medium balance water activity, producing a stable, distinct texture rather than a slurry.
 - Ethylene Gas: A naturally occurring plant hormone that accelerates ripening and spoilage; managed through humidity control in fruit storage.
 - Exothermic: A chemical reaction that releases heat.
 
@@ -305,6 +306,8 @@ No glossary terms yet.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
 - Oven Spring: The rapid final rise of dough during the first minutes of baking, driven by heat expanding the trapped CO₂ and steam.
 - Oxidation: The process by which a substance reacts with oxygen, often leading to discoloration and degradation of flavor and aroma, addressed by direct plastic wrap contact.
+- Oyster Liquor: The natural, saline fluid found inside a live oyster; used as a pure oceanic hydration medium.
+- Oyster Sauce: A cooked, concentrated condiment made from oyster extracts, used for viscosity and a sturgeon-like gloss in non-fish caviar preparations.
 
 ## P
 
@@ -436,6 +439,7 @@ No glossary terms yet.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
 - Tempering: The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
+- Textural Layering: The deliberate composition of multiple contrasting textures — pop, crunch, gel, softness — across a single garnish or dish component.
 - Textural Refinement: The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
 - Thermal Energy: The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
 - Thermal Gradient: The difference in temperature between the exterior and interior of the meat.

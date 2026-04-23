@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
 - Tempering: The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
+- Textural Layering: The deliberate composition of multiple contrasting textures — pop, crunch, gel, softness — across a single garnish or dish component.
 - Textural Refinement: The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
 - Thermal Energy: The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
 - Thermal Gradient: The difference in temperature between the exterior and interior of the meat.

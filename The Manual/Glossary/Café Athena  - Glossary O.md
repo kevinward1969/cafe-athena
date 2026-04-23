@@ -13,3 +13,5 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
 - Oven Spring: The rapid final rise of dough during the first minutes of baking, driven by heat expanding the trapped CO₂ and steam.
 - Oxidation: The process by which a substance reacts with oxygen, often leading to discoloration and degradation of flavor and aroma, addressed by direct plastic wrap contact.
+- Oyster Liquor: The natural, saline fluid found inside a live oyster; used as a pure oceanic hydration medium.
+- Oyster Sauce: A cooked, concentrated condiment made from oyster extracts, used for viscosity and a sturgeon-like gloss in non-fish caviar preparations.
