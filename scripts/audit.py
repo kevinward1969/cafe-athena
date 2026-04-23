@@ -54,7 +54,7 @@ DEFAULT_GEN_MODEL = "llama3.2:latest"    # generation: glossary, keywords, categ
 DEFAULT_DETECT_MODEL = "qwen2.5:7b"      # detection: mise violation analysis
 
 # Keywords count bounds per format standard
-KEYWORDS_MIN = 10
+KEYWORDS_MIN = 8
 KEYWORDS_MAX = 15
 
 # Standard section order per format standard
@@ -146,19 +146,30 @@ def find_sections(text: str) -> dict[str, int]:
     return sections
 
 
-def check_category_format(text: str) -> bool:
-    """True if ## Category section has valid cuisine: X | style: Y format."""
+def check_category_format(text: str, recipe_type: str = "recipe") -> bool:
+    """Validate ## Category section.
+
+    Recipe folios require `cuisine: X | style: Y` with both values in the valid set.
+    Technique folios carry no cuisine (techniques are universal) and validate
+    against `style: Technique Folio` alone.
+    """
     m = re.search(r"^## Category\s*\n(.+)$", text, re.MULTILINE)
     if not m:
         return False
     line = m.group(1).strip()
-    cuisine_m = re.search(r"cuisine:\s*(\w[\w\- ]+)", line)
     style_m = re.search(r"style:\s*([\w\- ]+)", line)
-    if not cuisine_m or not style_m:
+    if not style_m:
+        return False
+    style = style_m.group(1).strip()
+    if style not in CATEGORY_VALID_STYLES:
+        return False
+    if recipe_type == "technique":
+        return style == "Technique Folio"
+    cuisine_m = re.search(r"cuisine:\s*(\w[\w\- ]+)", line)
+    if not cuisine_m:
         return False
     cuisine = cuisine_m.group(1).strip()
-    style = style_m.group(1).strip()
-    return cuisine in CATEGORY_VALID_CUISINES and style in CATEGORY_VALID_STYLES
+    return cuisine in CATEGORY_VALID_CUISINES
 
 
 def check_dual_temperatures(text: str) -> list[str]:
@@ -297,10 +308,14 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
         ))
 
     # Check Category format if section exists
-    if "Category" in sections and not check_category_format(text):
+    if "Category" in sections and not check_category_format(text, recipe_type):
+        expected = (
+            "style: Technique Folio" if recipe_type == "technique"
+            else "cuisine: X | style: Y"
+        )
         audit.issues.append(Issue(
             code="bad_category_format",
-            description="## Category exists but format is invalid (expected: cuisine: X | style: Y)",
+            description=f"## Category exists but format is invalid (expected: {expected})",
             auto_fix=True,
         ))
 
@@ -402,6 +417,16 @@ cuisine: X | style: Y | dietary: Z
 Return ONLY that single line. No explanation.
 """
 
+CATEGORY_SYSTEM_TECHNIQUE = """\
+You are a culinary metadata editor for a professional cookbook called Café Athena.
+This is a TECHNIQUE FOLIO, not a recipe. Technique folios have no cuisine.
+
+Format EXACTLY as:
+style: Technique Folio
+
+Return ONLY that single line. No explanation.
+"""
+
 
 def call_ollama(model: str, system: str, content: str, timeout: int = 120) -> str:
     payload = json.dumps({
@@ -471,6 +496,12 @@ def generate_fix(issue: Issue, audit: RecipeAudit, model: str) -> str:
         return ""
 
     elif issue.code in {"missing_category", "bad_category_format"}:
+        if audit.recipe_type == "technique":
+            raw = call_ollama(model, CATEGORY_SYSTEM_TECHNIQUE, text)
+            raw = raw.strip()
+            if re.match(r"style:\s*Technique Folio", raw):
+                return "## Category\n\n" + raw
+            return "## Category\n\nstyle: Technique Folio"
         raw = call_ollama(model, CATEGORY_SYSTEM, text)
         raw = raw.strip()
         if re.match(r"cuisine:\s*\w", raw):

@@ -57,7 +57,7 @@ Modify only the values shown. Where a cell is blank, use the Base Formula quanti
 
 ## Method
 
-### Phase 1: Method Selection
+**Phase 1: Method Selection.**
 
 Three methods arrive at the same product — a hydrated, rested dough ready to roll. Choose one based on the variant and your equipment. After Phase 1, the recipe is unified for all variants.
 
@@ -90,7 +90,7 @@ Sift the dry ingredients together onto a cold, clean work surface — marble is 
 
 ---
 
-### Phase 2: The First Rest
+**Phase 2: The First Rest.**
 
 Bring the dough together into a flat disk approximately 3 cm thick. For Sanding and Hand Sablage, this may require 4–5 brief folds on the bench — no more. For the Creaming method, turn the soft dough onto plastic wrap and use the wrap to press it into shape; it will be too soft to handle directly. Wrap tightly and refrigerate for a minimum of 1 hour. Overnight (8–12 hours) is preferred for Variants 2 and 4, which have higher fat loads and benefit from a longer hydration rest.
 
@@ -98,7 +98,7 @@ During the rest, two things happen simultaneously: gluten strands relax (elimina
 
 ---
 
-### Phase 3: Rolling and Shaping
+**Phase 3: Rolling and Shaping.**
 
 Remove the dough from the refrigerator. If it resists the rolling pin immediately, let it rest at room temperature for 5 minutes — pliable but still cold. Roll between two sheets of baking parchment to a uniform 3 mm (approx. ⅛-inch) thickness. Use rolling guides or two 3 mm dowels on either side if precision is critical; consistent thickness is non-negotiable for uniform baking times across a production batch.
 
@@ -117,7 +117,7 @@ Line a tart ring using Shaping Option 1. With leftover scraps, roll thin snakes 
 
 ---
 
-### Phase 4: The Frozen Empty Hold
+**Phase 4: The Frozen Empty Hold.**
 
 Freeze all shaped shells — on the pan, uncovered — for a minimum of 20 minutes before baking. Do not skip this step. Freezing sets the fat into a solid state, dramatically reducing shrinkage when the shells enter the oven. A frozen shell bakes into shape rather than melting into it.
 
@@ -125,7 +125,7 @@ Freeze all shaped shells — on the pan, uncovered — for a minimum of 20 minut
 
 ---
 
-### Phase 5: The Blind Bake
+**Phase 5: The Blind Bake.**
 
 **Standard blind bake** *(rings or traditional pans — all variants)*
 Remove shells from the freezer and immediately line each one with baking parchment that has been crumpled and re-opened (crumpling makes the paper pliable enough to conform to the shell walls without cracking them). Fill with baking weights, dried beans, or raw rice, pressing the weight into the corners. Bake at 325°F/160°C for 15 minutes, until the exposed rim is dry and just beginning to color. Remove the weights and parchment. Return to the oven for a further 10–15 minutes until the base is golden and sounds hollow when tapped.
@@ -139,7 +139,7 @@ Allow all shells to cool completely on the pan before removing. Warm shells are 
 
 ---
 
-### Phase 6: Waterproofing
+**Phase 6: Waterproofing.**
 
 For moist fillings — pastry cream, citrus curd, fruit compote — brush the interior of each warm (not hot) shell immediately after baking with melted cocoa butter or tempered white chocolate. Apply a thin, even coat with a pastry brush and allow to set at room temperature for 2–3 minutes. This creates a hydrophobic barrier that prevents the filling from softening the crust during service or hold.
 

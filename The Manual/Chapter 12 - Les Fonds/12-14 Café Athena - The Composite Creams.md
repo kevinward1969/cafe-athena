@@ -14,7 +14,7 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 * **Prepare the Aerator:** Ensure your Crème Chantilly (12-13) or Meringue (12-12) is whipped to the correct peak stage specified below.
 * **Check the Glue:** If the recipe requires gelatin (Chiboust), ensure it is melted and ready to be tempered into the warm custard.
 
-## Ingredients & Ratios
+## Ingredients
 
 ### 1. Crème Diplomat (The Airy All-Rounder)
 
@@ -35,21 +35,21 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 
 ## Method
 
-### Phase 1: Assembling Crème Diplomat
+**Phase 1: Assembling Crème Diplomat.**
 
 1. **The Sacrifice:** Whisk a third of the Chantilly into the smoothed pastry cream to loosen the density.
 2. **The Fold:** Gently fold in the remaining Chantilly and crème fraîche with a spatula until no white streaks remain. 
 
    **Sensory Cue:** The resulting cream should be light, glossy, and hold a soft, pipeable shape.
 
-### Phase 2: Assembling Crème Mousseline
+**Phase 2: Assembling Crème Mousseline.**
 
 1. **Cream the Butter:** Beat the softened butter until pale and aerated.
 2. **The Emulsion:** Gradually add the room-temperature pastry cream to the butter while whisking on medium speed.
 
    **Why:** If the temperatures are mismatched (cold cream + warm butter), the mixture will "break" and look curdled. Continue whisking until it emulsifies into a silky, stable frosting.
 
-### Phase 3: Assembling Crème Chiboust
+**Phase 3: Assembling Crème Chiboust.**
 
 1. **Stabilize:** Whisk the melted gelatin into the **warm** pastry cream.
 2. **The Aeration:** While the pastry cream is still warm (approx. 110°F/43°C), fold in the hot Italian Meringue in two stages.

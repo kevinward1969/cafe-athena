@@ -198,7 +198,9 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 **Purpose:** Powers site search and recipe discovery
 
-**Format:** `## Keywords` heading followed by a single comma-separated line of 10–15 terms
+**Format:** `## Keywords` heading followed by a single comma-separated line of 8–15 terms
+
+**Note:** The minimum is 8 to accommodate foundation and technique folios, which have less surface area than full recipes. Full recipe folios typically land in the 10–15 range; simpler foundation variants and technique folios may use 8–12. Quality over padding — do not pad with weak terms to hit a higher count.
 
 **Categories to cover:**
 
@@ -273,7 +275,7 @@ Every folio must follow this strict vertical order:
    - `**Chef's Note**` *(optional)* — Practical tips or comparisons
    - `**Practice Exercise**` *(optional)* — Hands-on exercise to internalize the concept
 3. `## Glossary` — Definitions of all technical terms used in the folio body
-4. `## Keywords` — 10–15 **lowercase**, comma-separated terms
+4. `## Keywords` — 8–15 **lowercase**, comma-separated terms
 5. `## Category` — Always: `style: Technique Folio` (no `cuisine:` field)
 
 ### Format Audit Checks for Folios
@@ -281,7 +283,7 @@ Every folio must follow this strict vertical order:
 When running `/format-audit` on a folio, check only:
 
 - `## Glossary` present and covers all technical terms used in the body
-- `## Keywords` present with 10–15 **lowercase** comma-separated terms — Title Case is a violation
+- `## Keywords` present with 8–15 **lowercase** comma-separated terms — Title Case is a violation
 - `## Category` present and set to exactly `style: Technique Folio` (no `cuisine:` field)
 - Temperatures use dual format: `°F/°C` (e.g., `300°F/150°C`)
 - No citation markers (`[source]`, `[1]`, etc.)
