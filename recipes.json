@@ -1055,7 +1055,7 @@
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
-        "heroImageOptimized": false,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2908,7 +2908,7 @@
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
-        "heroImageOptimized": false,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
