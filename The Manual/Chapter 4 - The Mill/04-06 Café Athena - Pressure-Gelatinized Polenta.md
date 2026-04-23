@@ -8,14 +8,14 @@ Ultra-creamy, no-stir cornmeal finished with the mantecatura technique
 
 Traditional polenta requires 45 minutes of constant agitation to prevent scorching and ensure even hydration. By utilizing a pressure vessel, we raise the boiling point of water, forcing liquid into the dense corn endosperm rapidly. This results in a fully gelatinized, creamy suspension without the labor, finished with a classic high-fat emulsion to halt retrogradation. **Teaching Idea: Pressure Gelatinization.** At standard atmospheric pressure, water boils at 212°F/100°C. A sealed pressure cooker raises that to roughly 250°F/121°C — hot enough to fully explode starch granules in the corn endosperm in 15 minutes rather than 45, with zero stirring required.
 
-**Mise en Place (Action Checklist)**
+## Mise en Place
 
 * **Check the seal:** Ensure the pressure cooker gasket is clean and the valve is free of debris.
 * **Grate the cheese:** Microplane the Parmesan into a fluffy pile (do not use pre-grated).
 * **Cube the butter:** Cut cold butter into small cubes and return to the fridge until the final step.
 * **Boil the water:** If using an electric kettle, pre-boil the water to speed up the pressurization phase.
 
-**Ingredients**
+## Ingredients
 
 **The Grain Base**
 
@@ -31,7 +31,7 @@ Traditional polenta requires 45 minutes of constant agitation to prevent scorchi
 * 60 g (¼ cup) Mascarpone Cheese (optional, for ultra-rich texture)
 * Freshly cracked Black Pepper, to taste
 
-**Method**
+## Method
 
 **Phase 1: The Suspension** Set your pressure cooker (electric or stovetop) to "Sauté" or medium-high heat. Add the **Water**, **Baking Soda**, and **Salt**. Bring to a rolling boil.
 

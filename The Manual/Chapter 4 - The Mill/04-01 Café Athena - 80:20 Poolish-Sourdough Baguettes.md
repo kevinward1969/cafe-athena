@@ -8,14 +8,14 @@ A hybrid-leavened master recipe combining the nutty sweetness of poolish with th
 
 This recipe represents the pinnacle of flavor and texture, utilizing a hybrid leavening strategy. The poolish contributes extensibility and a creamy, nutty flavor, while the sourdough adds strength and acidity — keeping quality. This method utilizes a long, cold retard. **Teaching Idea: Cold Retardation.** Cooling the dough to 38°F/4°C slows yeast activity significantly while enzymes (protease and amylase) continue breaking down proteins and starches. **Why:** This results in a blistered crust and a complex, caramelized flavor profile that cannot be achieved at room temperature.
 
-**Mise en Place (Action Checklist)**
+## Mise en Place
 
 * **Feed the sourdough starter** so it peaks simultaneously with the poolish.
 * **Mix the poolish** 12–16 hours prior to the main dough mix.
 * **Clear a shelf** in the refrigerator to accommodate a tray/couche for the overnight retard.
 * **Preheat oven** to 465°F/240°C with a baking steel (middle rack) and steam pan (lower rack) 45 minutes before baking.
 
-**Ingredients**
+## Ingredients
 
 **Preferments (Night Before)**
 
@@ -32,7 +32,7 @@ This recipe represents the pinnacle of flavor and texture, utilizing a hybrid le
 * 3 g (1 tsp) instant yeast
 * 11 g (2 tsp) Diamond Crystal kosher salt
 
-**Method**
+## Method
 
 **Phase 1: Build The Preferments.** The night before, mix the poolish ingredients until smooth. Cover and ferment at room temperature (70°F/21°C) for 12–16 hours until bubbly and slightly domed. Ensure your sourdough starter is fed to be ripe at the same time.
 

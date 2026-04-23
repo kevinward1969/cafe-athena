@@ -8,14 +8,16 @@ Creamy, one-pot comfort dish featuring smoked cheese and dual-texture potatoes.
 
 This dish relies on a dual-texture potato technique: finely minced potatoes dissolve to thicken the broth, while larger cubes provide bite. By cooking the pasta directly in this potato-starch-rich liquid ("risotto style"), we retain all the wheat starch, creating a creamy emulsion without using heavy cream. The finish relies on *Mantecatura*—vigorous agitation with cheese and fat—to bind the smoked mozzarella into a glossy sauce.
 
-**Mise en Place (Action Checklist)**
+## Mise en Place
 
 * **The Texture Prep:** Peel potatoes. Cut 50% into neat 1cm cubes. Finely mince or grate the remaining 50% (this will become the "cream").
 * **The Soffritto:** Finely dice the onion, carrot, and celery (brunoise).
 * **The Cheese:** Cube the smoked mozzarella into small (0.5cm) pieces and bring to room temperature. Grate the Parmesan.
 * **The Broth:** Ensure vegetable stock is hot before starting.
 
-**Ingredients** **The Base (Soffritto & Starch)**
+## Ingredients
+
+**The Base (Soffritto & Starch)**
 
 * 45 g (3 tbsp) Extra Virgin Olive Oil
 * 115 g (1 cup) Yellow Onion, finely diced
@@ -38,7 +40,7 @@ This dish relies on a dual-texture potato technique: finely minced potatoes diss
 * Freshly Cracked Black Pepper, to taste
 * Extra Virgin Olive Oil, for finishing
 
-**Method**
+## Method
 
 **Phase 1: The Soffritto** Heat the olive oil in a heavy-bottomed Dutch oven over medium heat. Add the onion, carrot, and celery. Season with the salt. Sauté for 8–10 minutes until the vegetables are very soft and translucent, but not browned.
 
@@ -58,11 +60,6 @@ Remove the parmesan rind and basil leaves. Add the cubed smoked mozzarella, grat
 
 * **The Cheese Variable:** It is critical to use *Smoked* Mozzarella (Scamorza affumicata). Standard fresh mozzarella contains too much water and will water down the sauce. If you cannot find Scamorza, use a low-moisture block mozzarella and add a drop of liquid smoke or smoked paprika.
 * **Pasta Selection:** "Pasta Mista" is traditional—a mix of broken spaghetti, small tubes, and mafalda. It offers varying textures in one bite.
-
-**Glossary**
-
-* **Mantecatura:** The Italian technique of vigorously stirring fat and cheese into a starch-based dish (like risotto or pasta) off the heat to create a creamy emulsion.
-* **Soffritto:** The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
 
 ## Glossary
 

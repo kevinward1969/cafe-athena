@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "description": "Caf\u00e9 Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
     "generatedOn": "2026-04-04",
     "stages": {
       "formatAudit": "Format audit run via /format-audit",
@@ -922,7 +922,7 @@
     },
     {
       "id": "03-10",
-      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
+      "title": "Velvet Mushroom Mousse (Vegetarian P\u00e2t\u00e9)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -968,7 +968,7 @@
     },
     {
       "id": "03-12",
-      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
+      "title": "Deviled Ham & Cognac Mousse (P\u00e2t\u00e9 Rustique)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -1053,14 +1053,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1081,14 +1076,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1109,14 +1099,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1137,14 +1122,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1165,14 +1145,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1193,19 +1168,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
       "id": "04-07",
-      "title": "Parisian Gnocchi (Pâte à Choux)",
+      "title": "Parisian Gnocchi (P\u00e2te \u00e0 Choux)",
       "chapter": 4,
       "chapterName": "The Mill",
       "type": "recipe",
@@ -1221,14 +1191,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1249,14 +1214,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1277,14 +1237,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1308,14 +1263,9 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1339,14 +1289,9 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1370,14 +1315,9 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1401,14 +1341,9 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1629,7 +1564,7 @@
     },
     {
       "id": "06-06",
-      "title": "Modern Chicken Pot Pie (Velouté Method)",
+      "title": "Modern Chicken Pot Pie (Velout\u00e9 Method)",
       "chapter": 6,
       "chapterName": "The Poulterer",
       "type": "recipe",
@@ -1670,14 +1605,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1698,14 +1628,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1726,14 +1651,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1754,14 +1674,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1782,14 +1697,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1810,14 +1720,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1907,14 +1812,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       },
       "heroImage": true,
       "heroImageOptimized": true
@@ -1937,14 +1837,9 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-07",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       },
       "heroImage": true,
       "heroImageOptimized": true
@@ -2195,7 +2090,7 @@
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2218,7 +2113,7 @@
       "id": "09-02",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2241,7 +2136,7 @@
       "id": "09-03",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies (v2)",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2262,9 +2157,9 @@
     },
     {
       "id": "09-04",
-      "title": "Brandy-Infused Canelés de Bordeaux",
+      "title": "Brandy-Infused Canel\u00e9s de Bordeaux",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -2278,18 +2173,16 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-04-09",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote"
-        ]
+        "lastRun": "2026-04-22",
+        "status": "clean",
+        "issues": []
       }
     },
     {
       "id": "09-05",
       "title": "Lemon Posset in Lemon Shells",
       "chapter": 9,
-      "chapterName": "The Pâtissier",
+      "chapterName": "The P\u00e2tissier",
       "type": "recipe",
       "added": "2026-04-22",
       "stages": {
@@ -2360,7 +2253,7 @@
     },
     {
       "id": "10-03",
-      "title": "Sauce Béchamel (Mother Sauce No. 1)",
+      "title": "Sauce B\u00e9chamel (Mother Sauce No. 1)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2460,7 +2353,7 @@
     },
     {
       "id": "10-07",
-      "title": "Master Compound Butter (Beurre Composé)",
+      "title": "Master Compound Butter (Beurre Compos\u00e9)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2535,7 +2428,7 @@
     },
     {
       "id": "10-10",
-      "title": "Classic Remoulade (Sauce Dérivée)",
+      "title": "Classic Remoulade (Sauce D\u00e9riv\u00e9e)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2560,7 +2453,7 @@
     },
     {
       "id": "10-11",
-      "title": "Classic Tartar Sauce (Sauce Dérivée)",
+      "title": "Classic Tartar Sauce (Sauce D\u00e9riv\u00e9e)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2583,7 +2476,7 @@
     },
     {
       "id": "10-12",
-      "title": "Cultured Crème Fraîche",
+      "title": "Cultured Cr\u00e8me Fra\u00eeche",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2606,7 +2499,7 @@
     },
     {
       "id": "10-13",
-      "title": "Classic Ragù alla Bolognese",
+      "title": "Classic Rag\u00f9 alla Bolognese",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -2675,7 +2568,7 @@
     },
     {
       "id": "10-16",
-      "title": "Sauce Velouté (Mother Sauce No. 2)",
+      "title": "Sauce Velout\u00e9 (Mother Sauce No. 2)",
       "chapter": 10,
       "chapterName": "Stocks & Mother Sauces",
       "type": "recipe",
@@ -3045,7 +2938,7 @@
     },
     {
       "id": "12-03",
-      "title": "Pâte Brisée (Classic Shortcrust)",
+      "title": "P\u00e2te Bris\u00e9e (Classic Shortcrust)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3069,7 +2962,7 @@
     },
     {
       "id": "12-04",
-      "title": "Pâte à Choux (The Steam Dough)",
+      "title": "P\u00e2te \u00e0 Choux (The Steam Dough)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3093,7 +2986,7 @@
     },
     {
       "id": "12-05",
-      "title": "Pâte Feuilletée (Classic Puff Pastry)",
+      "title": "P\u00e2te Feuillet\u00e9e (Classic Puff Pastry)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3117,7 +3010,7 @@
     },
     {
       "id": "12-06",
-      "title": "Rough Puff Pastry (Demi-Feuilletée)",
+      "title": "Rough Puff Pastry (Demi-Feuillet\u00e9e)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3237,7 +3130,7 @@
     },
     {
       "id": "12-11",
-      "title": "Crème Pâtissière",
+      "title": "Cr\u00e8me P\u00e2tissi\u00e8re",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3271,7 +3164,7 @@
     },
     {
       "id": "12-13",
-      "title": "Crème Chantilly (Whipped Cream)",
+      "title": "Cr\u00e8me Chantilly (Whipped Cream)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -3305,7 +3198,7 @@
     },
     {
       "id": "12-15",
-      "title": "Frico Laminé (Baked Cheese Tiles & Vessels)",
+      "title": "Frico Lamin\u00e9 (Baked Cheese Tiles & Vessels)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",

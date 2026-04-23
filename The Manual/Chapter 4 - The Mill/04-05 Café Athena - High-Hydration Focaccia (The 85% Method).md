@@ -8,14 +8,14 @@ An airy, open-crumb flatbread that relies on hydration and time rather than mech
 
 The hallmark of this bread is its 85% hydration level (85g water for every 100g flour). At this saturation point, standard kneading is impossible. Instead, we use time and gravity to organize the gluten network. By handling the dough gently, we preserve the gas bubbles created by fermentation, resulting in the signature "open crumb" structure. **Teaching Idea: The Coil Fold.** In high-hydration doughs, we do not "punch down." We lift and fold the dough over itself to align gluten strands without degassing the structure.
 
-**Mise en Place (Action Checklist)**
+## Mise en Place
 
 * **Calibrate Water:** Ensure your water is between 80°F–85°F (26°C–29°C) to encourage yeast activity.
 * **Prepare the Vessel:** Generously oil a square, high-walled container (Cambro or Pyrex) for the bulk fermentation.
 * **Clear the Bench:** You will need a clean surface for the folding process, though most work happens in the bowl.
 * **Time Management:** This recipe requires an overnight cold ferment. Plan to start the dough the day *before* you intend to bake.
 
-**Ingredients**
+## Ingredients
 
 **The Dough**
 
@@ -31,7 +31,7 @@ The hallmark of this bread is its 85% hydration level (85g water for every 100g 
 * 5 g (1 tsp) Flaky Sea Salt (Maldon)
 * Optional: Fresh Rosemary or Cherry Tomatoes
 
-**Method**
+## Method
 
 **Phase 1: The Autolyse (Hydration)** In a large mixing bowl, combine the **Bread Flour** and **Water**. Mix by hand or with a Danish dough whisk until no dry flour remains. It will look shaggy and wet. Cover and rest for **30 minutes**.
 
