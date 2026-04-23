@@ -10,14 +10,14 @@ The term *confit* implies preservation, but for the modern cook, it is a study i
 
 **Teaching Idea:** **Water Activity & Preservation.** The initial salt cure is not just for flavor; it draws out water (osmosis) that would otherwise encourage bacterial growth. This lowers the "water activity" of the meat, firming the texture and intensifying the "meaty" flavor profile before cooking even begins.
 
-### **Mise En Place (Action Checklist)**
+## Mise en Place (Action Checklist)
 
 * **Fabricate the Duck:** Trim excess skin and loose fat from the thighs (save fat for rendering).
 * **Prepare the Cure:** Grind spices and mix thoroughly with the salt.
 * **Perforate:** Use a needle or paring knife to prick the skin all over (do not pierce the meat) to help fat render.
 * **Preheat (Day 2):** Set oven to **200°F/95°C**.
 
-### **Ingredients**
+## Ingredients
 
 **The Cure (Green Salt)**
 
@@ -36,7 +36,7 @@ The term *confit* implies preservation, but for the modern cook, it is a study i
 * 1000 g (1 liter) Rendered Duck Fat (approximate, must cover legs)
 * 1 Head of Garlic, halved horizontally
 
-### **Method**
+## Method
 
 **Phase 1: The Cure (Denaturation)**
 
@@ -63,7 +63,7 @@ The term *confit* implies preservation, but for the modern cook, it is a study i
 2. **Store:** Place the pot in the fridge (or transfer legs and fat to a clean container). Ensure the legs are completely covered by solidified fat.
    * **Why:** Aging the confit for at least 3 days (and up to 3 weeks) allows flavors to harmonize and the texture to ripen.
 
-### **Chef's Notes / Variations**
+## Chef's Notes / Variations
 
 * **Roasting for Service:** To serve, scrape off the cold fat. Roast skin-side up in a **400°F/205°C** oven until the skin is shattering-crisp and the meat is warmed through (approx. 15 mins).
 * **Sous Vide Variation:** For even firmer texture, cure as described, then seal in vacuum bags with 2 tbsp fat per leg. Cook at **167°F/75°C** for 10 hours.

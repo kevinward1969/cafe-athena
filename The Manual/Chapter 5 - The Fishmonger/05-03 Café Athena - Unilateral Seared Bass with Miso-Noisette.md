@@ -10,14 +10,14 @@ This preparation relies on conductive heat traveling through the skin to cook th
 
 **Teaching Idea:** **Unilateral Searing.** Using the skin as a thermal regulator allows the cook to protect the protein's cellular integrity while aggressively dehydrating the surface for maximum crunch. The skin acts as an insulating barrier; by the time conductive heat reaches the top of the fillet, the flesh is just cooked through without ever touching the pan.
 
-### **Mise en Place (Action Checklist)**
+## Mise en Place (Action Checklist)
 
 * **Prepare the Brine:** Dissolve the salt fully in the water in a non-reactive container.
 * **Portion the Fish:** Ensure fillets are of equal thickness for even cooking.
 * **Temper the Fats:** Allow the butter and miso to reach room temperature (70°F/21°C) so they emulsify quickly in the pan.
 * **Dehydrate the Surface:** Pat the fish skin extremely dry with paper towels. An air-dry rest in the refrigerator is strongly recommended (see Method).
 
-### **Ingredients**
+## Ingredients
 
 **The Brine**
 
@@ -35,7 +35,7 @@ This preparation relies on conductive heat traveling through the skin to cook th
 * 15 g (1 tbsp) red miso
 * 1 lemon, juice only
 
-### **Method**
+## Method
 
 **Phase 1: Equilibrium Brine** Submerge the bass fillets in the brine for **20 minutes**. **Why:** This process facilitates Myosin Denaturation, allowing the protein to hold more water during the high-heat sear. A 1.5% salinity brine seasons without over-firming the flesh.
 
@@ -49,7 +49,7 @@ This preparation relies on conductive heat traveling through the skin to cook th
 
 **Phase 6: Finish** Squeeze lemon juice into the foaming butter to stop the cooking and cut the richness. Serve immediately, skin-side up, with the miso-noisette pan sauce spooned around — never over — the crisp skin.
 
-### **Chef's Notes / Variations**
+## Chef's Notes / Variations
 
 * **Thermal Mass:** If using thicker "Jumbo" Bass, reduce the initial heat to medium to allow the heat to travel through the skin without burning it before the center is set.
 * **The Pan Variable:** Do not attempt this in a non-stick pan; you will not achieve the required thermal transfer for a true unilateral crunch. Carbon steel and cast iron are the only acceptable surfaces.

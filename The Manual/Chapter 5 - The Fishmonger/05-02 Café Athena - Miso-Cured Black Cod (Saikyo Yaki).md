@@ -10,14 +10,14 @@ The secret to this dish is understanding that the marinade is actually a *cure*.
 
 **Teaching Idea:** **Hygroscopic Action.** Both salt and sugar are hygroscopic, meaning they attract and hold water molecules. In this cure, they draw moisture out of the fish's cells (concentrating flavor) while simultaneously dissolving into the remaining surface moisture to travel inward via diffusion.
 
-### **Mise en Place (Action Checklist)**
+## Mise en Place (Action Checklist)
 
 * **Portion the Fish:** Ensure fillets are uniform in size (approx. 6 oz each) for even cooking.
 * **Prepare the Cure:** Whisk the miso, sake, mirin, and sugar until the sugar granules are fully dissolved.
 * **Reserve the Glaze:** Set aside a small portion of the *fresh* cure mixture before touching raw fish.
 * **Pat Dry (Post-Cure):** Before cooking, use paper towels to wipe the fillets completely dry.
 
-### **Ingredients**
+## Ingredients
 
 **The Cure**
 
@@ -36,7 +36,7 @@ The secret to this dish is understanding that the marinade is actually a *cure*.
 * 10 g (1 tbsp) sesame seeds, toasted
 * 2 scallions, shaved thin on a bias
 
-### **Method**
+## Method
 
 **Phase 1: The Cure** In a medium mixing bowl, whisk the White Miso, Sake, Mirin, and Granulated Sugar until smooth and glossy. **Critical Step:** Immediately measure out **50 g (approx. 3 tbsp)** of this mixture into a small container and refrigerate. This will be your finishing glaze.
 
@@ -54,7 +54,7 @@ Place under the broiler for **60–90 seconds**. Watch constantly. **Sensory Cue
 
 **Rest:** Let the fish rest on the pan for 2 minutes before transferring to plates. Garnish with toasted sesame seeds and shaved scallions.
 
-### **Chef's Notes / Variations**
+## Chef's Notes / Variations
 
 **Fish Selection:** If Black Cod is unavailable, Chilean Sea Bass is the closest structural equivalent. Salmon acts as a suitable alternative but requires only 12–24 hours of curing due to its lower fat content. **Skin Handling:** If roasting skin-on, the skin will likely soften during the cure. It is best to remove the skin after roasting or sear the skin-side in a pan before transferring to the oven if a crisp texture is desired.
 

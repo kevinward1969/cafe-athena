@@ -1422,13 +1422,8 @@
       },
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_headnote",
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1450,12 +1445,8 @@
       },
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1479,12 +1470,8 @@
       "heroImageOptimized": false,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1506,12 +1493,8 @@
       },
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1558,12 +1541,8 @@
       },
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -1585,12 +1564,8 @@
       },
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -3341,12 +3316,8 @@
       "heroImageOptimized": false,
       "audit": {
         "lastRun": "2026-04-23",
-        "status": "issues_found",
-        "issues": [
-          "missing_mise_en_place",
-          "missing_ingredients",
-          "missing_method"
-        ]
+        "status": "clean",
+        "issues": []
       }
     }
   ]
