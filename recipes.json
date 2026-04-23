@@ -2294,8 +2294,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2304,7 +2304,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-02",
@@ -2317,8 +2319,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2327,7 +2329,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-03",
@@ -2340,8 +2344,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2350,7 +2354,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-04",
@@ -2363,8 +2369,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2373,7 +2379,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-05",
@@ -2386,8 +2394,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2396,7 +2404,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-06",
@@ -2409,8 +2419,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2419,7 +2429,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-07",
@@ -2432,8 +2444,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2442,7 +2454,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-08",
@@ -2455,8 +2469,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2465,7 +2479,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-09",
@@ -2478,8 +2494,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2488,7 +2504,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-10",
@@ -2501,8 +2519,8 @@
         "formatAudit": true,
         "keywordPull": false,
         "glossaryPull": true,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true
@@ -2511,7 +2529,9 @@
         "lastRun": "2026-04-09",
         "status": "approved",
         "issues": []
-      }
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     },
     {
       "id": "10-11",

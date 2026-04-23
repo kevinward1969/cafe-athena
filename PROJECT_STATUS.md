@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-04-22 (08-07 Riplet Corn Ribs + 09-05 Lemon Posset added; Chapter 12 breadcrumb nav fixed)
+Last Updated: 2026-04-22 (10-01 through 10-10 hero images deployed)
 
 ## 🎯 Active Development
 
@@ -64,7 +64,7 @@ Items deferred from prior sessions. Session handoff writes here. Resolve or carr
 
 Hero image status is tracked per-recipe in `recipes.json` via `heroImage` and `heroImageOptimized` stages. Use `/sync-registry` to refresh.
 
-**Hero image status (2026-04-22):** 87/135 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-01–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
+**Hero image status (2026-04-22):** 97/135 complete. Pending: 01-20, 01-21, 03-14 (optimize only), 07-13, 09-01–09-04, 10-11–10-23, 11-01–11-05, 11-06 (optimize only), 12-02–12-06, 12-11–12-16.
 
 ---
 
@@ -93,7 +93,7 @@ Run `/format-audit Chapter N` across all chapters to validate every recipe and f
 
 ✅ Complete (2026-04-09) — 0 PNGs remaining in The Manual.
 
-### Hero Image Generation — Missing Entries (48 total)
+### Hero Image Generation — Missing Entries (38 total)
 
 Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have an image but `heroImageOptimized` is still false.
 
@@ -107,16 +107,6 @@ Use `/recipe-hero-image [index]` for each. Entries marked *(optimize only)* have
 | 09-02 | Spicy Brown Butter & Lemon Cheesecake Cookies | Ch. 9 | |
 | 09-03 | Spicy Brown Butter & Lemon Cheesecake Cookies (v2) | Ch. 9 | |
 | 09-04 | Brandy-Infused Canelés de Bordeaux | Ch. 9 | |
-| 10-01 | High-Pressure White Chicken Stock | Ch. 10 | |
-| 10-02 | Vibrant Basil Pesto (Genovese) | Ch. 10 | |
-| 10-03 | Sauce Béchamel (Mother Sauce No. 1) | Ch. 10 | |
-| 10-04 | Sauce Mornay (Enriched Cheese Sauce) | Ch. 10 | |
-| 10-05 | Classic Beurre Rouge | Ch. 10 | |
-| 10-06 | Classic Beurre Blanc | Ch. 10 | |
-| 10-07 | Master Compound Butter (Beurre Composé) | Ch. 10 | |
-| 10-08 | Sauce Hollandaise (Mother Sauce No. 5) | Ch. 10 | |
-| 10-09 | Master Mayonnaise (The Cold Mother) | Ch. 10 | |
-| 10-10 | Classic Remoulade | Ch. 10 | |
 | 10-11 | Classic Tartar Sauce | Ch. 10 | |
 | 10-12 | Cultured Crème Fraîche | Ch. 10 | |
 | 10-13 | Classic Ragù alla Bolognese | Ch. 10 | |
