@@ -18,7 +18,7 @@ Future recipes across any chapter. Note intended chapter if known.
 
 Future technique folios (Ch. 1 — The Lab, Ch. 2 — The Foundation, or folio-style entries elsewhere).
 
-- **Ch. 12 — The Frying Coating Spectrum** *(multi-variant Les Fonds folio)* — catalog of 6–10 fry coating/batter variants with ratios: flour dredge, standard breading, panko, tempura, beer batter, fish & chips, katsu, rice-flour (GF), cornmeal dredge, dusting-only. Follows the multi-variant Les Fonds pattern (12-02 Foundation Tart Dough, 12-14 Composite Creams). Becomes the reference target for Ch. 5/6/7 fried-protein recipes — a fried fish folio picks "Variant 3 (Tempura)" rather than reprinting the coating method. *(2026-04-22)*
+- ~~**Ch. 12 — The Frying Coating Spectrum**~~ — **Promoted 2026-04-23**: split into two folios (12-18 The Dredge Spectrum, 12-19 Breadings & Batters) — see `PROJECT_STATUS.md`.
 
 ---
 

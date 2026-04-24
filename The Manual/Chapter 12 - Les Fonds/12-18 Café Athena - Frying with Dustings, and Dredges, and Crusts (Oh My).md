@@ -1,0 +1,280 @@
+# Café Athena - Frying with Dustings, and Dredges, and Crusts (Oh My)
+
+The production reference for single-layer dry coatings — five dredges, one dusting, and the adhesion-and-temperature framework that governs every fried protein and vegetable in the book.
+
+**Yield:** Reference folio — each variant formula coats approximately 750 g of product | **Prep:** 10–20 min (excluding primer rest) | **Inactive:** 15 min – 8 hr (adhesion primer, variant-dependent) | **Cook:** 3–10 min per batch | **Total:** Varies by application
+
+---
+
+## Headnote
+
+This is the foundation folio for frying in the book — the single-layer, single-stage end of the coating spectrum. When a dish in Chapter 5, 6, or 7 calls for "Variant 3 (Rice Flour Dredge) at 375°F/190°C," it is pointing here. Its companion, 12-19 Breadings & Batters, takes the same thermodynamics into multi-stage panés (flour-egg-crumb, panko, katsu) and wet batters (tempura, beer batter). Master the principles in this headnote and you will never again treat frying as a single technique; you will treat it as a family of thermal-transfer problems with shared physics and different surface chemistries.
+
+Note the architecture of this folio. Variants 1–5 are true dredges: a dry coat applied to a primed (wet-tacky) surface, fried in sufficient oil to submerge or nearly submerge the product. Variant 6 is dusting, which is not a dredge at all — it is a sauté technique with a barely-visible veil of starch over the product's own surface moisture. Not everything here is a dredge, and the folio's title reflects that.
+
+**Teaching Idea: The Coat Is the Crust.** A dredge is not decoration. It is a starch-and-protein shell that performs three jobs simultaneously: it builds a sacrificial moisture barrier that lets the product inside steam gently while the surface dehydrates into a crackling glass; it provides the Maillard substrate — the free amino acids and reducing sugars — that give fried food its brown color and roasted aroma; and it sets the texture the eater will experience in the first half-second of the bite. Everything else downstream (oil choice, temperature, rest time) is in service of those three jobs. Get the coat right and the crust takes care of itself.
+
+**Frying thermodynamics.** Hot oil is the most efficient cooking medium in the kitchen. It transfers heat to the product through two mechanisms at once: conduction, where oil molecules in direct contact with the surface deposit their energy, and convection, where heated oil circulates and constantly replenishes that contact layer. Compared to a 400°F/205°C oven — which cooks primarily by radiant and convective air, a poor conductor — a 375°F/190°C oil bath is an order of magnitude faster at surface dehydration and Maillard development. This is why fried food browns in minutes where baked food takes much longer.
+
+The crust forms because oil is hydrophobic. When the product enters the oil, the water at its surface — bound up in the dredge and the muscle fibers just below — flashes to steam. That steam rushes outward against the oil. You can see it: the violent, localized boil around a piece of chicken when it hits the fryer is the surface water leaving at roughly 212°F/100°C while the oil around it is 160°F/70°C hotter. As long as steam is escaping, oil cannot penetrate — the vapor pressure holds it off. The crust dehydrates from the outside in, and once the surface moisture is gone, that region of the coat starts Maillard browning and, with enough sugar present, caramelization. The interior of the product, meanwhile, is cooking gently in its own trapped steam at roughly 212°F/100°C — a far lower temperature than the oil. The trick of great frying is the timing: you want the crust to finish exactly when the interior does. Too thick a coat and the crust shields the interior, stalling it; too thin and the crust finishes before the product is cooked through.
+
+**Oil selection and smoke points.** The rule is simple: the smoke point must be at least 25°F/15°C above your target frying temperature, ideally 50°F/30°C above. At the smoke point, triglycerides begin breaking down into acrolein and free fatty acids — you smell it as acrid, throat-catching, sharply bitter. That oil is no longer food; it is a degradation product, and it will carry bitterness into everything you cook in it.
+
+| Oil / Fat | Smoke Point | Frying Window | Notes |
+| :--- | :--- | :--- | :--- |
+| Refined peanut | 450°F/230°C | All frying including high-heat finish | Neutral, clean, excellent shelf life; classic Southern and Chinese default |
+| Refined canola | 400°F/205°C | Blanch stage only; marginal for finish at 375°F/190°C+ | Economical; flavor neutral but fragile on reuse |
+| Refined vegetable (soybean/corn blend) | 440°F/225°C | All frying | Workhorse; most commercial fryer oil is this or a rice-bran blend |
+| Rice bran | 490°F/255°C | All frying | Stable, clean, high reuse potential; common in Japanese professional kitchens |
+| Lard (rendered, refined) | 375°F/190°C | Blanch + moderate finish only | Adds pork flavor; classic for pommes frites, tamale dough; too low for katsu-temperature finish |
+| Beef tallow | 400°F/205°C | Blanch + standard finish | McDonald's fries until 1990; deep savory character; solidifies at room temp |
+| Clarified butter (ghee) | 450°F/230°C | Shallow fry only in practice | Flavor-forward; too expensive for deep frying at volume |
+| Extra virgin olive oil | 350–375°F/175–190°C | Unsuitable for deep frying | High free fatty acid content; flavor compounds degrade; reserve for sauté and confit |
+| Coconut (refined) | 400°F/205°C | All frying | Neutral when refined; adds aroma when unrefined; saturated fat gives crisp texture |
+
+For the recipes in this book, unless a dish explicitly calls for tallow or lard for flavor reasons, assume refined peanut or a high-oleic vegetable blend.
+
+**Thermal mass and recovery.** An oil bath is a heat reservoir, and the reservoir empties the moment product hits it. The temperature drop — the "crash" — is proportional to the mass of product relative to the mass of oil, and inversely proportional to the heat capacity of your vessel. In a home Dutch oven with 2 L of oil, dropping 400 g of cold chicken will crash the oil 40–60°F/22–33°C in seconds. A commercial fryer recovers in 30–45 seconds; a home setup can take 2–3 minutes. During that recovery window, the product is frying at the wrong temperature — too low for crust formation, which means the coat absorbs oil instead of repelling steam. This is the single most common cause of greasy fried food at home.
+
+Two rules govern batch sizing. First: never drop more than 25% of your oil's weight in product at one time. Two liters of oil weighs roughly 1,800 g; your maximum batch is ~450 g. Second: let the oil fully recover to target temperature between batches — verify with a probe, not a guess. A recovery window that feels impatient is almost always the correct wait. The oil is your engine; let it rebuild pressure.
+
+**The double-fry method.** Some products cannot cook through at the temperature that produces the best crust. Pommes frites, Korean fried chicken, chicken wings, tempura eggplant — all benefit from a split protocol. The first fry is a blanch: 250–325°F/120–165°C for long enough to cook the interior, gelatinize any surface starches, and begin driving out internal moisture. The product comes out pale and looks undercooked — that is correct. Rest it on a rack for at least 5 minutes (longer is better; some kitchens hold blanched fries refrigerated or frozen for hours).
+
+The second fry is the finish: 375–400°F/190–205°C for 1–3 minutes. The surface is already partly dehydrated from the blanch, so the finish fry does almost no cooking — it dehydrates the crust to its glass state and drives the Maillard and caramelization reactions that produce color and flavor. The result is a product with a fully cooked interior and a crust that shatters rather than softens. The two-stage protocol is a technique for separating "cooked through" from "crisp on the outside" — two goals that compete at a single temperature.
+
+**Thermometry.** Buy a clip-on probe thermometer for the side of the pot. Calibrate it against boiling water (should read 212°F/100°C at sea level, lower at altitude). An infrared thermometer reads only the oil surface — useful for a spot check but prone to error from oil shimmer and ambient reflection. An instant-read probe tells you the internal temperature of the product, which matters for protein safety checkpoints — 165°F/74°C for poultry, 145°F/63°C for fish — but it is not a substitute for the oil reading. Great frying is a two-thermometer operation: one in the oil, one in the product on critical applications.
+
+**Starch gelatinization and crust formation.** Different starches build different crusts because they behave differently at frying temperatures. Wheat flour is roughly 75% starch and 10% protein (gluten-forming); the protein browns aggressively via Maillard, giving a soft-crisp, bread-like crust that stays crisp for maybe 10 minutes before sogging. Cornstarch and rice flour are nearly pure starch — 99% and 85% respectively — with little to no gluten protein. These starches gelatinize (swell and rupture) at 140–180°F/60–82°C, then continue to dehydrate through the oil bath into brittle, glassy networks. The result is a crust that crackles audibly on the bite and holds crisp for 20–40 minutes, even under sauce. Cornmeal's larger, gritty particles produce a broken, three-dimensional crust; semolina, being hard-wheat endosperm ground coarse, produces a crust somewhere between flour and cornmeal in texture — crisp with a slight tooth.
+
+Protein in the coat (gluten in wheat, trace albumin in rice flour, none in cornstarch) affects how the crust adheres to itself. High-protein coats set into a continuous shell; pure-starch coats set into a lacy, fractured network. Neither is better — they are different tools for different textures.
+
+---
+
+## Mise en Place (Action Checklist)
+
+Shared prep across all variants. Variant-specific primer rest times are listed in the Method.
+
+- **Heat the oil:** Fill a heavy-bottomed pot or Dutch oven no more than halfway with your chosen frying oil. Clip a probe thermometer to the side, submerged but not touching the bottom. Bring to the target temperature specified by your variant.
+- **Set a landing zone:** Place a wire rack over a sheet pan beside the stove. Do not use paper towels as the primary landing surface — they trap steam and soften the crust. Paper is a blotting tool for a final 10-second dab only.
+- **Coating stations:** For each variant, set a wide shallow bowl or hotel pan for the dry coat. If the variant uses a wet primer, set a second vessel for the primer. Keep the two stations six inches apart to prevent cross-contamination (wet fingers into dry coat = clumps).
+- **Weigh the dry coat:** Scale the dredge or dusting ingredients rather than volume-measuring. Even 5 g of salt variance is detectable on a fried crust.
+- **Season the product, not the coat:** For proteins, salt the product 30–60 minutes before coating — this draws out surface moisture, draws it back in, and seasons from within. Seasoning primarily the coat produces a salty crust over an underseasoned interior.
+- **Pat dry:** Immediately before coating, blot the product surface with a clean towel. A wet surface saturates the coat and causes clumping; a perfectly dry surface lets the coat adhere evenly.
+- **Recovery timer:** Set a visible timer for oil recovery between batches — do not rely on feel.
+
+---
+
+## Ingredients
+
+Each variant below is a standalone formula. Ratios are given to coat approximately 750 g of product; scale linearly for larger batches.
+
+### Variant 1 — Flour Dredge (The Universal Default)
+
+- 200 g (1 ⅔ cups) all-purpose flour
+- 6 g (2 tsp) Diamond Crystal kosher salt
+- 3 g (1 ½ tsp) freshly ground black pepper
+- 2 g (1 tsp) garlic powder *(optional)*
+- 2 g (1 tsp) sweet paprika *(optional)*
+
+**Adhesion primer:** Buttermilk soak (500 g / 2 cups) for 30 minutes to 8 hours, refrigerated. For lean proteins and vegetables, a 60-second pass through seasoned water or a thin egg wash is sufficient.
+
+### Variant 2 — Cornstarch Dredge (The Crackle Crust)
+
+- 200 g (1 ⅔ cups) cornstarch
+- 6 g (2 tsp) Diamond Crystal kosher salt
+- 2 g (1 tsp) white pepper
+
+**Adhesion primer:** Velveting slurry — 1 large egg white (approximately 35 g), 15 g cornstarch, 15 g Shaoxing wine or dry sherry, 3 g salt. Coat protein in slurry, rest 20–30 minutes refrigerated, then dredge. For a drier finish (for Korean-style whole wings), skip the slurry and dredge the salted-and-patted-dry protein directly.
+
+### Variant 3 — Rice Flour Dredge (The Asian Fried Chicken)
+
+- 150 g (1 cup + 2 tbsp) rice flour
+- 50 g (⅓ cup + 1 tbsp) cornstarch
+- 6 g (2 tsp) Diamond Crystal kosher salt
+- 3 g (1 tsp) baking powder
+- 2 g (1 tsp) white pepper
+
+**Adhesion primer:** Thin buttermilk-and-vodka wash — 200 g (¾ cup) buttermilk whisked with 50 g (¼ cup) vodka or soju. Dip, let excess drip, dredge, and rest 5 minutes on a rack before frying. The vodka evaporates rapidly in the oil, creating steam pockets that open the crust into a lace. Fully gluten-free.
+
+### Variant 4 — Cornmeal Dredge (Southern Catfish / Hushpuppy Texture)
+
+- 150 g (1 cup) fine yellow cornmeal
+- 50 g (⅓ cup + 2 tbsp) all-purpose flour
+- 6 g (2 tsp) Diamond Crystal kosher salt
+- 3 g (1 tsp) cayenne
+- 2 g (1 tsp) garlic powder
+- 2 g (1 tsp) sweet paprika
+
+**Adhesion primer:** Buttermilk with hot sauce — 500 g (2 cups) buttermilk whisked with 30 g (2 tbsp) Louisiana-style hot sauce. Soak 30 minutes to 4 hours. Shake excess primer vigorously before dredging; cornmeal adheres to surface moisture, not a wet coat.
+
+**Grit-scale note:** The three cornmeal grades give three different crusts. Fine yellow cornmeal (the specification above) gives an even, sandy crust. Medium grind gives a more dimensional, crunchy crust with visible grain — use for catfish if you want tooth. Stone-ground, coarse grind produces an uneven, broken crust that is striking visually but can shed; best for hushpuppies where the cornmeal is bound in a batter rather than a dredge.
+
+### Variant 5 — Semolina Dredge (Mediterranean Fish and Vegetables)
+
+- 150 g (1 cup) semolina flour (fine)
+- 50 g (⅓ cup + 2 tbsp) all-purpose flour
+- 6 g (2 tsp) Diamond Crystal kosher salt
+- 2 g (1 tsp) freshly ground black pepper
+- 5 g (1 tsp) lemon zest *(optional, for fish)*
+
+**Adhesion primer:** A thin milk dip (250 g / 1 cup whole milk) for 5 minutes, or seasoned water for calamari and zucchini. Do not over-soak — semolina gives its best crust on a barely-damp surface.
+
+### Variant 6 — Dusting Only (The Lightest Touch)
+
+- 50 g (scant ½ cup) rice flour *or* all-purpose flour *or* Wondra instant flour
+- 2 g (¾ tsp) Diamond Crystal kosher salt
+
+**This is not a fry — it is a sauté technique.** The dusting is a thin veil, enough to pull surface moisture and produce a golden crust in hot butter or oil. Used for pan-seared fish fillets (sole, flounder, trout), scallops, thin veal scallopini, and delicate summer vegetables. Dust the product, shake off vigorously — the final coat should be barely visible.
+
+**Adhesion primer:** None. The product's own surface moisture is the adhesion.
+
+**Critical distinction:** Dusting is not "a very light dredge." It is a separate application with a separate heat regime — shallow fat, moderate temperature (325–350°F/165–175°C), and active pan contact. Dropping a dusted product into a deep fryer will strip the coating within seconds.
+
+---
+
+## Temperature Reference Table (All Variants)
+
+| Variant | Blanch Fry | Finish / Single-Stage Fry | Typical Duration (Finish) | Applications |
+| :--- | :--- | :--- | :--- | :--- |
+| 1. Flour | 325°F/165°C (optional) | 350°F/175°C | 4–8 min | Fried chicken, schnitzel-style cutlets, general-purpose |
+| 2. Cornstarch | 300°F/150°C | 375°F/190°C | 2–4 min | Velveted stir-fry proteins, Korean-style wings, crackle-crust vegetables |
+| 3. Rice Flour | 325°F/165°C | 375°F/190°C | 6–9 min (chicken); 2–3 min (veg) | Korean and Taiwanese fried chicken, GF applications, tempura-adjacent work |
+| 4. Cornmeal | — | 350–360°F/175–180°C | 4–6 min | Catfish, trout, okra, green tomatoes, hushpuppy cousins |
+| 5. Semolina | — | 350°F/175°C | 2–4 min | Calamari, whitefish, zucchini, eggplant coins |
+| 6. Dusting | — | 325–350°F/165–175°C (shallow) | 2–3 min per side | Sole, flounder, scallops, scaloppine |
+
+Blanch-fry entries marked "optional" are not required but improve crust quality on thicker product. Cornmeal, semolina, and dusting are single-stage — do not double-fry.
+
+---
+
+## Method
+
+**Phase 1: Salt and Prime the Product.**
+
+Salt the product at the weight specified by the downstream recipe — typically 1% of the protein weight for chicken, 0.8% for fish, 0.6% for vegetables. Rest refrigerated, uncovered on a rack, for the duration specified by your primer:
+
+- Variant 1 (flour): 30 min – 8 hr in buttermilk
+- Variant 2 (cornstarch): 20–30 min in velveting slurry
+- Variant 3 (rice flour): 30 min – 4 hr salted dry, then 1 min dip in buttermilk-vodka immediately before dredging
+- Variant 4 (cornmeal): 30 min – 4 hr in buttermilk-hot sauce
+- Variant 5 (semolina): 5 min in milk dip immediately before dredging
+- Variant 6 (dusting): no primer
+
+> **Sensory Cue:** A properly primed protein has a uniform, slightly tacky surface — wet enough for the coat to adhere, dry enough that the coat does not slurry into paste on contact.
+
+**Phase 2: Coat, Shake, Rest.**
+
+Whisk the coating ingredients thoroughly in a wide shallow vessel — clumps of salt or leavener produce hot spots in the final crust. Lift the product from its primer, let excess drip for 3–5 seconds, then lay it directly into the coat. Press gently — do not pack. Lift, shake firmly over the vessel to release all loose coat, and transfer to a wire rack.
+
+> **Sensory Cue:** A correctly coated piece looks pale, evenly dusted, and matte. Visible wet patches or bare spots indicate uneven priming — fix the primer, not the coat.
+
+**Rest-before-fry protocol:**
+
+- Variants 1, 2, 4, 5: rest 5 minutes on the rack before frying. This lets the coat hydrate from primer moisture and adhere.
+- Variant 3: rest exactly 5 minutes — longer and the rice flour slurry begins to set into a shell; shorter and the lace effect collapses.
+- Variant 6: fry immediately. Dusting holds only briefly; any rest releases the coat.
+
+**Phase 3: Fry.**
+
+Verify oil temperature at the target from the Temperature Reference Table. Lower the product into the oil gently, away from your body — use tongs or a spider, never drop from a height. The oil will crash; do not attempt to compensate by raising the burner. A hotter burner will not recover the oil faster than the oil's own thermal inertia allows, and you will scorch the crust once the bath stabilizes.
+
+Fry for the duration specified, turning once at the halfway mark for full-submersion frying or every 45–60 seconds for shallow frying. Verify doneness by both color and internal temperature:
+
+> **Sensory Cue at Doneness:** The crust should be a deep, even golden amber — one shade darker than you think is right, because it will pale slightly during the rest. Listen to the oil: a product at doneness makes a quieter, drier sizzle than at the start, because most of the surface moisture has left. A probe reads 165°F/74°C for poultry, 145°F/63°C for fish at the thickest point.
+
+Lift to the wire rack. Do not stack. Salt immediately while the surface is still hot and receptive — finishing salt adheres to a fresh crust far better than to a cooled one.
+
+**Phase 4: Rest and Recover the Oil.**
+
+Rest fried product on the rack for 90 seconds to 3 minutes before service. This lets the crust complete its glass transition and residual heat finish the interior. Meanwhile, bring the oil back to target temperature — verify with the probe — before the next batch. Skim any loose coat debris from the oil surface between batches; suspended particles burn and carbonize, imparting bitterness within three or four batches if unmanaged.
+
+---
+
+## Chef's Notes / Variations
+
+**Choosing a coat by texture goal**
+
+| Goal | Coat |
+| :--- | :--- |
+| Soft-crisp, bread-like crust (classic diner fried chicken) | Variant 1 (Flour) |
+| Crackling glass crust that holds under sauce | Variant 2 (Cornstarch) |
+| Lacy, shatteringly crisp, GF-compatible | Variant 3 (Rice Flour) |
+| Dimensional, rustic, tooth-forward Southern crust | Variant 4 (Cornmeal) |
+| Mediterranean golden coat with slight tooth | Variant 5 (Semolina) |
+| Golden veil over delicate fish or scallop | Variant 6 (Dusting) |
+
+---
+
+**Double-fry candidates**
+
+Apply the double-fry protocol to:
+
+- Thick bone-in chicken pieces (Variants 1, 3) — blanch 300–325°F/150–165°C for 8–10 min, rest 5 min minimum, finish at 375°F/190°C for 3–4 min
+- Wings (Variants 2, 3) — blanch 300°F/150°C for 8 min, rest 20 min or overnight refrigerated, finish at 400°F/205°C for 2 min
+- Pommes frites — this is not a coating application but the protocol is identical
+
+Do not double-fry thin fish fillets, calamari, or vegetables. Single-stage frying is correct for those applications; attempting a double-fry overcooks the interior.
+
+---
+
+**Peanut oil and allergen protocol**
+
+Refined peanut oil is recommended as the default frying fat for its neutral flavor, high smoke point, and reuse stability. Under the major food-allergen frameworks, highly refined peanut oil has been removed of the protein fractions that trigger peanut-allergic reactions, and is generally considered safe for most peanut-allergic individuals. That said, service convention still requires disclosure: if a guest with a peanut allergy is eating at the table, either use an alternative frying oil (rice bran, refined vegetable blend) or advise the front of house to disclose peanut-oil frying at the point of ordering. Unrefined (cold-pressed, "gourmet," or aromatic) peanut oil retains allergenic proteins and must never be substituted silently.
+
+---
+
+**Failure modes and what they mean**
+
+- **Greasy crust, pale color:** Oil was too cold at drop-in or never recovered. Raise target temperature by 15°F/8°C and reduce batch size by a third.
+- **Crust detaches in sheets:** Primer was too wet (coat slurried into paste) or the product was not rested after coating. Increase rest to 5–7 minutes before frying.
+- **Gummy, under-set crust (Variant 3 especially):** Coat was not whisked thoroughly; salt or leavener clumped. Sift the dry mix next time.
+- **Bitter finish across a whole batch:** Oil has degraded. Replace oil or filter through a coffee filter and allow the product to rest on clean paper for 15 seconds after the rack. Consider whether the oil has exceeded its smoke point during recovery cycles.
+- **Scorched crust, raw center:** Oil too hot, or product too cold at drop-in. Temper the product to at least 50°F/10°C before frying; drop oil target by 25°F/15°C.
+- **Sticky, limp crust 5 minutes after service:** Ambient humidity is reclaiming moisture from a crust that did not fully dehydrate. Return to a 300°F/150°C oven for 90 seconds to re-crisp. For service-critical applications, fry to order.
+
+---
+
+**Scaling note**
+
+Coating formulas scale linearly — doubling the formula coats twice the product with identical results. Oil volume, however, does not scale linearly with product volume — doubling product mass in a vessel of fixed oil quantity crashes the oil twice as hard and recovers 2–3× slower. When scaling production, scale the oil vessel first, then the coating.
+
+---
+
+**Cross-references**
+
+- 12-19 Breadings & Batters — multi-step panés (flour-egg-crumb), panko, katsu, tempura, and wet batter applications; builds on the frying thermodynamics in this folio.
+- 01-20 Hydro-Thermal Stabilization — for frying vegetable inclusions that require pre-blanching and pressing.
+- 01-22 Oil Clarification & Life Extension — filtration protocols, reuse thresholds, polymerization and degradation chemistry; the deep-dive on managing the oil bath across multiple fry cycles.
+- Chapter 5–7 recipes reference specific variants from this folio by number.
+
+---
+
+## Glossary
+
+- Maillard reaction: A non-enzymatic browning reaction between amino acids and reducing sugars at temperatures above roughly 285°F/140°C; responsible for the color and roasted flavor of fried crusts.
+- Caramelization: The thermal decomposition of sugars (distinct from Maillard) at temperatures above roughly 320°F/160°C; contributes sweetness and amber color to crusts with sufficient sugar content.
+- Conductive heat transfer: Heat transfer by direct molecular contact between a hot medium (oil) and a cooler surface (product).
+- Convective heat transfer: Heat transfer by the circulation of a heated fluid (oil currents around frying product) that continuously replenishes contact heat at the surface.
+- Smoke point: The temperature at which an oil begins to break down, producing acrolein, free fatty acids, and acrid smoke; must be at least 25°F/15°C above target frying temperature.
+- Thermal mass: The capacity of a system (the oil bath plus its vessel) to store and release heat; large thermal mass crashes less and recovers faster when cold product enters.
+- Recovery: The return of an oil bath to target temperature after it has been crashed by the introduction of cold product.
+- Blanch fry: The first stage of a double-fry, performed at a lower temperature to cook the product interior and partially dehydrate the surface, without producing color.
+- Finish fry: The second stage of a double-fry, performed at a higher temperature to dehydrate and color the crust.
+- Starch gelatinization: The swelling and rupture of starch granules when heated in the presence of water, producing a thickened gel that then dehydrates during frying into a brittle crust structure.
+- Dredge: A single-layer dry coating — flour, starch, meal, or a blend — applied to a primed product surface before frying.
+- Adhesion primer: The wet or tacky layer (buttermilk, egg wash, velveting slurry, milk dip) that creates the surface moisture needed for a dredge to adhere evenly.
+- Velveting: A Chinese technique in which protein is coated in a cornstarch-and-egg-white slurry before cooking; produces a silky, protected surface that holds moisture and takes a crackling crust when fried.
+- Double-fry: A two-stage frying protocol — blanch at low temperature, rest, finish at high temperature — used to separate interior cooking from crust formation.
+- Plastic phase (crust): The brief window, immediately after frying, during which a crust is still pliable; relevant mostly to shaped applications like fricos, but analogous to the moment a fresh fried crust is still receptive to finishing salt.
+- Glass phase (crust): The final, shattering-crisp state of a fully dehydrated fried crust.
+- Dusting: A very light application of flour or starch to a product surface, used in shallow sauté rather than deep frying; distinct from a dredge in both coat thickness and heat regime.
+- Wondra: A pre-gelatinized, agglomerated instant flour that dissolves without lumping; often used for dusting applications where an ultra-fine, evenly dispersed coat is the goal.
+- Refined peanut oil: Peanut oil that has been processed to remove the protein fractions responsible for peanut allergenicity; generally considered safe for most peanut-allergic individuals, though service-level disclosure is still standard practice. Distinct from unrefined (cold-pressed, aromatic) peanut oil, which retains allergenic proteins.
+
+## Keywords
+
+frying, dredge, dusting, cornstarch, rice flour, cornmeal, semolina, double-fry, velveting, smoke point, maillard, starch gelatinization, oil recovery, peanut oil allergen, les fonds
+
+## Category
+
+cuisine: Global | style: Classical
