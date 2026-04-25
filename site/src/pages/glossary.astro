@@ -272,7 +272,6 @@ const totalEntries = glossarySections.reduce((sum, section) => sum + section.ent
 
       const applyFilters = () => {
         const query = searchInput.value.toLowerCase().trim();
-        let visibleCount = 0;
 
         terms.forEach(termNode => {
           const termEl = termNode as HTMLElement;
@@ -280,19 +279,30 @@ const totalEntries = glossarySections.reduce((sum, section) => sum + section.ent
           const defText = termEl.dataset.definition || '';
           const matchesSearch = !query || termText.includes(query) || defText.includes(query);
           termEl.classList.toggle('hidden', !matchesSearch);
-          if (matchesSearch) visibleCount++;
         });
+
+        let visibleCount = 0;
+        let anySectionShown = false;
 
         sections.forEach(sectionNode => {
           const sectionEl = sectionNode as HTMLElement;
           const sectionLetter = sectionEl.dataset.letter || '';
-          const hasVisibleTerms = sectionEl.querySelectorAll('.glossary-term:not(.hidden)').length > 0;
           const matchesLetter = activeFilter === 'ALL' || sectionLetter === activeFilter;
-          const shouldShow = hasVisibleTerms && matchesLetter;
+          const visibleTermsInSection = sectionEl.querySelectorAll('.glossary-term:not(.hidden)').length;
+          // Without a search query, show every section that matches the letter filter
+          // (even empty ones, so the user sees "0 terms" instead of a blank pane).
+          // With a query, require at least one matching term in the section.
+          const shouldShow = matchesLetter && (query ? visibleTermsInSection > 0 : true);
+
           sectionEl.classList.toggle('hidden', !shouldShow);
+
+          if (shouldShow) {
+            anySectionShown = true;
+            visibleCount += visibleTermsInSection;
+          }
         });
 
-        noResults.classList.toggle('hidden', visibleCount > 0);
+        noResults.classList.toggle('hidden', anySectionShown);
 
         if (query) {
           summary.textContent = `Search: ${visibleCount} ${visibleCount === 1 ? 'result' : 'results'}`;
