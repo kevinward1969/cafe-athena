@@ -13,6 +13,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
 - Binary Fission: The process by which bacteria reproduce through cell division, resulting in exponential population growth.
 - Biofilm: A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
+- Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
 - Blanching: A cooking process wherein a food is scalded in boiling water, removed after a brief, timed interval, and plunged into iced water to halt the cooking process.
 - Blending: The process of mechanically agitating a substance, particularly a liquid, using a high-speed blender to disrupt structures and create a homogenous mixture.
 - Blind Bake: Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.

@@ -4,11 +4,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## C
 
+- Cake flour: Wheat flour milled to 8–9% protein content; the lower protein content reduces gluten formation potential, making it the preferred flour for tempura batter and delicate applications.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
+- Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
 - Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.

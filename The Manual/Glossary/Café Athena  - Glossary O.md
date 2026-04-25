@@ -8,6 +8,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Oil-in-Water Emulsion: A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
+- Oroshi: Japanese term for grating or grated; in culinary context, refers to the fine grating of daikon, ginger, or garlic.
+- Oroshi daikon: Finely grated daikon radish; accompaniment to tempura and fried applications. Functions as a palate cleanser and textural contrast. Not a garnish — it changes the eating experience.
 - Osmosis: The movement of water across a cell wall from low salt concentration to high salt concentration.
 - Osmotic Diffusion: The process by which dissolved compounds in a brine migrate through a semi-permeable membrane (the meat's cell walls) from an area of high concentration to low, seasoning the interior.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.

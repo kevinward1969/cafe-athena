@@ -13,6 +13,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Acid Finish: The final addition of acidic ingredients, like apple cider vinegar and lime juice, to balance the flavors and brighten the dish.
 - Acid-Set Gel: A gel formed not by a hydrocolloid additive (such as gelatin or agar) but by the partial denaturation of milk proteins caused by the introduction of sufficient acid. The aggregated proteins form a loose, stable network that holds the cream in a semi-solid state, as in a lemon posset.
 - Acidification: The process by which Lactic Acid Bacteria excrete lactic acid, lowering the pH of a brine to a level hostile to pathogens.
+- Adhesion cascade: The dependent sequence of stages in a pané — each stage creates the surface condition necessary for the next stage to adhere — in which skipping any stage causes the entire coating to fail under fry stress.
 - Adsorption: The adhesion of atoms, ions, or molecules from a gas, liquid, or dissolved solid to a surface — the mechanism by which silicates capture polar compounds from degraded oil.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
@@ -46,6 +47,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
 - Binary Fission: The process by which bacteria reproduce through cell division, resulting in exponential population growth.
 - Biofilm: A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
+- Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
 - Blanching: A cooking process wherein a food is scalded in boiling water, removed after a brief, timed interval, and plunged into iced water to halt the cooking process.
 - Blending: The process of mechanically agitating a substance, particularly a liquid, using a high-speed blender to disrupt structures and create a homogenous mixture.
 - Blind Bake: Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.
@@ -69,11 +71,13 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## C
 
+- Cake flour: Wheat flour milled to 8–9% protein content; the lower protein content reduces gluten formation potential, making it the preferred flour for tempura batter and delicate applications.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
+- Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
 - Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
@@ -151,6 +155,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## E
 
+- Egg wash: A mixture of beaten eggs and a small amount of liquid (milk, water, or cream) used as the adhesion layer in a pané, binding the crumb to the flour-coated product surface.
 - Emulsification: The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
 - Emulsifier: A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
 - Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.
@@ -209,6 +214,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Headspace: The empty space left between the top of the food product and the lid of the jar to allow for expansion or oil coverage.
 - Heterofermentative: A fermentation process resulting in the production of multiple organic acids, including acetic acid.
 - Homofermentative: A fermentation process characterized by the primary production of lactic acid.
+- Hondashi: Commercial instant dashi powder (Ajinomoto brand); a convenient shortcut for dashi production. Functional for casual applications; lacks the layered depth and clarity of scratch dashi.
 - Honeycomb: The aerated, custardy internal structure of a perfectly baked canelé.
 - Honing: The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
 - Hooch: A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.
@@ -235,11 +241,14 @@ No glossary terms yet.
 ## K
 
 - Kahm Yeast: A non-pathogenic surface yeast that forms a white, filmy layer on ferments exposed to air. Harmless but undesirable for flavor; remove immediately.
+- Katsu: Japanese preparation (from the German Schnitzel via cultural transmission) in which a protein — most commonly pork loin (tonkatsu) or chicken (chicken katsu) — is pounded thin, coated in a heavy panko pané, and deep-fried; typically served with tonkatsu sauce.
 - Katsuobushi: Dried, fermented, and smoked skipjack tuna, commonly used to create dashi and adds a smoky, fishy flavor.
-- Kombu: A type of edible seaweed, primarily _Porphyra_ species, used in dashi to impart a subtle sweetness and umami.
+- Kewpie mayonnaise: Japanese-style mayonnaise produced with rice vinegar and egg yolks only (no whole egg whites); richer, tangier, and more unctuous than American mayonnaise. Not a substitute for American mayo — a categorically different product.
+- Kombu: Dried kelp (primarily _Laminaria_ and _Saccharina japonica_ species) used to produce the first stage of dashi; contains glutamic acid, the primary source of savory umami flavor in Japanese cooking. Must be removed before the water reaches a full simmer or it releases viscous, off-flavored compounds.
 
 ## L
 
+- Lace (tempura context): The open, gossamer, lattice-like crust structure produced by correct tempura technique — the result of intact starch granules frying as individual particles rather than fusing into a continuous film.
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
@@ -263,6 +272,7 @@ No glossary terms yet.
 ## M
 
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+- Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
 - Matrix: The structural medium (cheese) in a fat-based cooking preparation that binds and holds inclusions in place.
@@ -303,6 +313,8 @@ No glossary terms yet.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Oil-in-Water Emulsion: A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
+- Oroshi: Japanese term for grating or grated; in culinary context, refers to the fine grating of daikon, ginger, or garlic.
+- Oroshi daikon: Finely grated daikon radish; accompaniment to tempura and fried applications. Functions as a palate cleanser and textural contrast. Not a garnish — it changes the eating experience.
 - Osmosis: The movement of water across a cell wall from low salt concentration to high salt concentration.
 - Osmotic Diffusion: The process by which dissolved compounds in a brine migrate through a semi-permeable membrane (the meat's cell walls) from an area of high concentration to low, seasoning the interior.
 - Osmotic Pressure: The force that drives the movement of water across semipermeable cell membranes to equalize salt concentration.
@@ -314,7 +326,9 @@ No glossary terms yet.
 ## P
 
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
+- Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French paner, "to bread." Also used as an adjective: "a panéed cutlet."
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
+- Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
 - Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
@@ -355,6 +369,7 @@ No glossary terms yet.
 
 - Radiation: A heat transfer method involving electromagnetic waves, such as infrared radiation.
 - Rainbow Stain: The discoloration of stainless steel cookware caused by heat oxidation and mineral deposits, often appearing as blue or multicolored streaks.
+- Rayu: Japanese chili oil made with sesame oil and dried chili; typically milder and more aromatic than Chinese chili oil, with a pronounced sesame base note.
 - Recrystallization: The process by which a liquid transforms into a solid state, altering the texture of the butter to achieve a spreadable pâté.
 - Red Wine Reduction: A technique involving simmering red wine to concentrate its flavors and reduce its volume, intensifying its complexity.
 - Red Wine: A wine characterized by its color ranging from ruby to garnet, typically fermented without oxygen to retain color and tannins.
@@ -387,6 +402,7 @@ No glossary terms yet.
 - Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
 - Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
 - Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
+- Sansho pepper: Japanese spice from the prickly ash tree; produces a citrus-forward, mildly numbing sensation similar in mechanism to Sichuan peppercorn but lighter and more aromatic.
 - Sauce Dérivée: A secondary sauce created by adding ingredients to a Mother Sauce.
 - Sauté: A cooking technique involving cooking food quickly in a small amount of fat over relatively high heat.
 - Savory: Characterized by a salty or umami flavor, as opposed to sweet.
@@ -404,6 +420,7 @@ No glossary terms yet.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
+- Shichimi togarashi: Japanese seven-spice blend typically containing red chili, sansho pepper, citrus peel, sesame seeds, hemp seeds, ginger, and nori. Degrades quickly after opening; refrigerate.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
@@ -443,6 +460,8 @@ No glossary terms yet.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
 - Tempering: The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
+- Tempura: A Japanese deep-frying technique using a cold, minimally mixed, low-protein batter; the controlled gluten suppression and open batter structure produce a gossamer, lacy crust. Introduced to Japan by Portuguese missionaries in the 16th century; developed into its current form in Edo-period Tokyo.
+- Tentsuyu: The canonical Japanese dipping sauce for tempura; built on dashi, soy, and mirin; characterized by deliberate restraint — its mildness is a service decision, not a deficiency.
 - Textural Layering: The deliberate composition of multiple contrasting textures — pop, crunch, gel, softness — across a single garnish or dish component.
 - Textural Refinement: The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
 - Thermal Energy: The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
@@ -456,6 +475,7 @@ No glossary terms yet.
 - Toasting: The initial heating of pasta in fat, crucial for initiating dextrinization and developing toasted flavors.
 - Tofu: A coagulated soybean product, available in various textures (silken, firm, etc.), frequently used in Japanese cuisine for its neutral flavor and ability to absorb sauces.
 - Tomato Water: The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
+- Tonkatsu: Japanese preparation in which a pork loin cutlet is coated in a heavy panko pané and deep-fried; typically served sliced with tonkatsu sauce applied across the top.
 - Torchon: "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter log.
 - Torque: A rotational force applied to an object, crucial for understanding the power output of machines like stand mixers.
 - Total Polar Materials (TPM): A measurement used to gauge the degree of oil degradation and oxidation in frying fats; the professional benchmark for when oil must be discarded.

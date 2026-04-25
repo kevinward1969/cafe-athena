@@ -6,6 +6,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 - Radiation: A heat transfer method involving electromagnetic waves, such as infrared radiation.
 - Rainbow Stain: The discoloration of stainless steel cookware caused by heat oxidation and mineral deposits, often appearing as blue or multicolored streaks.
+- Rayu: Japanese chili oil made with sesame oil and dried chili; typically milder and more aromatic than Chinese chili oil, with a pronounced sesame base note.
 - Recrystallization: The process by which a liquid transforms into a solid state, altering the texture of the butter to achieve a spreadable pâté.
 - Red Wine Reduction: A technique involving simmering red wine to concentrate its flavors and reduce its volume, intensifying its complexity.
 - Red Wine: A wine characterized by its color ranging from ruby to garnet, typically fermented without oxygen to retain color and tannins.

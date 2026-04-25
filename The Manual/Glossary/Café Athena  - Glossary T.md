@@ -9,6 +9,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
 - Tempering: The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
+- Tempura: A Japanese deep-frying technique using a cold, minimally mixed, low-protein batter; the controlled gluten suppression and open batter structure produce a gossamer, lacy crust. Introduced to Japan by Portuguese missionaries in the 16th century; developed into its current form in Edo-period Tokyo.
+- Tentsuyu: The canonical Japanese dipping sauce for tempura; built on dashi, soy, and mirin; characterized by deliberate restraint — its mildness is a service decision, not a deficiency.
 - Textural Layering: The deliberate composition of multiple contrasting textures — pop, crunch, gel, softness — across a single garnish or dish component.
 - Textural Refinement: The process of altering the physical structure of a food, such as mashing yolks to achieve a specific consistency.
 - Thermal Energy: The energy associated with heat, which can be applied to increase the rate of chemical reactions and facilitate dissolution.
@@ -22,6 +24,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Toasting: The initial heating of pasta in fat, crucial for initiating dextrinization and developing toasted flavors.
 - Tofu: A coagulated soybean product, available in various textures (silken, firm, etc.), frequently used in Japanese cuisine for its neutral flavor and ability to absorb sauces.
 - Tomato Water: The clear liquid extracted from tomatoes, containing the essence of the flavor and high levels of glutamates (umami) without the solids.
+- Tonkatsu: Japanese preparation in which a pork loin cutlet is coated in a heavy panko pané and deep-fried; typically served sliced with tonkatsu sauce applied across the top.
 - Torchon: "Dish towel." In culinary terms, a cylindrical shape (like a rolled towel) used for foie gras or butter log.
 - Torque: A rotational force applied to an object, crucial for understanding the power output of machines like stand mixers.
 - Total Polar Materials (TPM): A measurement used to gauge the degree of oil degradation and oxidation in frying fats; the professional benchmark for when oil must be discarded.

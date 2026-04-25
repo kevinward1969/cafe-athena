@@ -1,0 +1,223 @@
+# Café Athena - Japanese Dipping Sauces
+
+Four foundational Japanese sauces for the katsu, tempura, gyoza, and fried-rice applications — built on dashi, soy, mirin, and the principle that Japanese sauce logic serves the food, not the other way around.
+
+**Yield:** ~½ cup per sauce | **Prep:** 10–15 min per sauce | **Cook:** 5–8 min (Tentsuyu only) | **Total:** ~30–45 min for full collection
+
+## Headnote
+
+Where 10-23 covers the pan-Asian dipping sauce landscape — five sauces across five countries, unified by the five-element balance framework — this folio narrows the geography and deepens the specificity. These four sauces are Japanese, and Japanese sauce logic operates differently than the Southeast Asian model: the goal is not five-element balance as an organizing principle, but contrast and complement as a service decision. Tentsuyu, the tempura dipping sauce, is deliberately restrained — light, clean, barely sweet — because tempura's whole argument is the lace, and a heavy sauce would bury it. Tonkatsu sauce is deliberately assertive — rich, sticky, unapologetically forward — because a thick panko crust is impervious to subtlety and the pork underneath needs a flavor counterweight. The strength of the sauce is calibrated to the strength of what it serves. Underlying all four sauces is dashi — the Japanese foundational stock built from kombu and katsuobushi — which appears as the structural base of Tentsuyu and as an optional enrichment in the others. Dashi in Japanese cooking is not a background note; it is the delivery mechanism for umami, and understanding it explains why these sauces taste the way they do. These four sauces are the direct service layer for 12-19 Panés, Batters, and the Architecture of a Shatter: Tonkatsu Sauce serves Variant 3 (Katsu); Tentsuyu serves Variant 4 (Tempura); Gyoza Dipping Sauce and Spicy Mayo serve across all fried applications and dumplings.
+
+**Teaching Idea: Umami as Structure, Not Accent.** In Western sauce logic, umami is often treated as a finishing note — a splash of Worcestershire, a knob of parmesan. In Japanese sauce logic, umami is the architecture. Dashi, soy, and mirin are all umami-delivery systems, and they are layered deliberately to create depth that reads as round and complete rather than salty or sharp. When a Japanese dipping sauce tastes flat, the fix is rarely more acid or more sweetness — it is more umami. Add a small amount of additional soy or a few drops of mirin before adjusting any other element.
+
+## Mise en Place
+
+- Measure and pre-portion all liquid ingredients into small bowls before starting any sauce
+- If making scratch dashi for Tentsuyu: cold-steep kombu in 300 ml cold water for 30–60 minutes before starting; have katsuobushi measured and ready
+- If using hondashi for Tentsuyu: measure hondashi powder and set aside; no steeping required
+- Grate daikon for Tentsuyu on a fine grater or Microplane — approximately 40 g before grating
+- Set out a small saucepan for Tentsuyu; all other sauces are cold-assembly
+- Set out a small whisk and mixing bowl for Spicy Mayo
+- Have warm water ready for Spicy Mayo consistency adjustment
+- Measure sriracha and togarashi separately — you will use one or the other depending on version
+
+## Ingredients
+
+### Sauce 1 — Tonkatsu Sauce
+
+- 45 ml (3 tbsp) Worcestershire sauce
+- 30 ml (2 tbsp) ketchup
+- 15 ml (1 tbsp) soy sauce
+- 15 ml (1 tbsp) oyster sauce
+- 10 g (2 tsp) granulated sugar
+- 5 ml (1 tsp) mirin
+- 1 g (¼ tsp) dry mustard powder *(optional; adds a faint background heat)*
+
+### Sauce 2 — Tentsuyu (Tempura Dipping Sauce)
+
+**The Dashi Base** *(choose one — see Chef's Notes)*
+
+- 240 ml (1 cup) scratch kombu-katsuobushi dashi *(preferred)*
+  — OR —
+- 240 ml (1 cup) water + 4 g (1 tsp) hondashi powder *(acceptable shortcut)*
+
+**The Sauce**
+
+- 45 ml (3 tbsp) soy sauce
+- 30 ml (2 tbsp) mirin
+- 5 g (1 tsp) granulated sugar *(omit if dashi is already sweet from kombu)*
+
+**The Service Component**
+
+- 40 g (3 tbsp) daikon, finely grated *(oroshi daikon)*
+- 5 g (1 tsp) fresh ginger, microplaned *(optional but traditional)*
+
+### Sauce 3 — Gyoza Dipping Sauce
+
+- 60 ml (¼ cup) soy sauce
+- 30 ml (2 tbsp) rice vinegar
+- 5 ml (1 tsp) rayu (Japanese chili oil)
+- 3 ml (½ tsp) toasted sesame oil
+- 3 g (½ tsp) granulated sugar *(optional; rounds the edge)*
+
+**To Serve**
+
+- 2 g (½ tsp) thinly sliced scallion greens *(optional garnish)*
+
+### Sauce 4 — Spicy Mayo (Two Versions)
+
+**Base (both versions)**
+
+- 120 g (½ cup) Kewpie mayonnaise
+
+**Version A — Sriracha Dip (thick, tableside)**
+
+- 20 ml (4 tsp) sriracha
+- 5 ml (1 tsp) rice vinegar
+- 2 ml (⅓ tsp) toasted sesame oil
+
+**Version B — Togarashi Drizzle (thinner, finishing)**
+
+- 10 ml (2 tsp) sriracha
+- 5 g (1½ tsp) shichimi togarashi
+- 10–20 ml (2–4 tsp) warm water *(to drizzle consistency)*
+- 2 ml (⅓ tsp) toasted sesame oil
+
+## Method
+
+### Sauce 1 — Tonkatsu Sauce
+
+1. **Combine:** Add all ingredients — Worcestershire, ketchup, soy sauce, oyster sauce, sugar, mirin, and dry mustard (if using) — to a small bowl. Whisk until sugar is fully dissolved and the sauce is uniform.
+
+   **Sensory Cue:** Deep mahogany-brown, thick enough to coat a spoon heavily, sweet-fermented aroma. Taste: sweet and savory first, umami through the mid-palate, faint acid at the finish. If flat, add ½ tsp more Worcestershire. If too sharp, add ½ tsp more mirin.
+
+2. **Rest** for 10 minutes before serving. The flavors integrate quickly and the sauce rounds noticeably. Serve at room temperature alongside Katsu (12-19, Variant 3). Apply sauce striped across the top of the sliced cutlet — not underneath it; panko absorbs liquid immediately and the shatter collapses.
+
+### Sauce 2 — Tentsuyu (Tempura Dipping Sauce)
+
+**If using scratch dashi (preferred):**
+
+1. **Cold Steep the Kombu:** Place one 10 g piece of kombu in 300 ml cold water. Steep for 30–60 minutes at room temperature.
+
+2. **Bring to the Edge:** Place the kombu and steeping water in a small saucepan. Heat over medium-low until the water reaches 140–160°F/60–70°C — small bubbles forming at the bottom, no active convection. Hold for 10 minutes. Remove and discard the kombu before it simmers.
+
+   **Sensory Cue:** The kombu must come out before the water simmers. If it steeps in simmering water, it releases compounds that make the dashi viscous and off-flavored. At correct temperature, the dashi is clean, golden, and faintly oceanic.
+
+3. **Add Katsuobushi:** Bring the strained dashi to a full simmer over medium heat. Add approximately 10 g katsuobushi. Turn off the heat immediately. Steep undisturbed for 3–4 minutes.
+
+4. **Strain:** Pour through a fine-mesh strainer lined with a paper towel. Do not press or squeeze the katsuobushi — pressing releases bitter compounds. Yield: approximately 240 ml.
+
+   **Sensory Cue:** Pale gold, completely clear, clean savory aroma — marine, slightly smoky. Tastes round and umami-forward with no bitterness and no fishiness. Bitterness means either the kombu simmered or the katsuobushi was pressed.
+
+**If using hondashi:**
+
+1. **Dissolve:** Stir hondashi powder into 240 ml of warm (not boiling) water until fully dissolved.
+
+**Build the Sauce (both methods):**
+
+5. **Combine:** In the saucepan, combine the dashi, soy sauce, mirin, and sugar (if using). Heat over medium-low until just below a simmer. Stir once to integrate.
+
+6. **Taste and Balance:** The sauce should taste lightly savory, mirin-sweet, and clean. It is deliberately mild.
+
+   **Sensory Cue:** Tentsuyu should taste restrained. If aggressively salty, add dashi 1 tsp at a time. If flat, add mirin ½ tsp at a time — not soy. It should read dashi-forward, never soy-forward.
+
+7. **Cool slightly.** Serve warm (not hot) in individual cups. Place a small mound of grated daikon and microplaned ginger on the side of each cup — the diner stirs these in to taste.
+
+### Sauce 3 — Gyoza Dipping Sauce
+
+1. **Combine:** Whisk together soy sauce, rice vinegar, rayu, sesame oil, and sugar (if using) in a small bowl.
+
+   **Sensory Cue:** Toasted sesame aroma with a soy-and-vinegar base. Taste: soy-forward and sharp, with the chili oil building as a back-of-mouth heat. Rice vinegar should be present but not dominant.
+
+2. **Adjust:** If soy dominates to harshness, add rice vinegar ½ tsp at a time. If heat is too sharp, add a small amount of sugar or a few drops more sesame oil.
+
+3. **Serve immediately** or hold at room temperature up to 2 hours. Garnish with scallion greens if desired. Do not heat — the volatile aromatics in the rayu and sesame oil define the sauce and will drive off with heat.
+
+### Sauce 4 — Spicy Mayo
+
+**For both versions:**
+
+1. **Base:** Whisk the Kewpie mayonnaise until smooth.
+
+**Version A — Sriracha Dip:**
+
+2. **Add:** Whisk in sriracha, rice vinegar, and sesame oil. The sauce should remain thick.
+
+   **Sensory Cue:** Pale coral-orange, glossy, thick enough to mound lightly on a spoon. Rich, creamy, tangy from Kewpie's rice vinegar base plus added vinegar, heat from sriracha building through mid-palate. If too thick for dipping, add warm water ½ tsp at a time.
+
+**Version B — Togarashi Drizzle:**
+
+2. **Add:** Whisk in sriracha, shichimi togarashi, and sesame oil. The togarashi will add visible texture.
+
+3. **Loosen:** Stream in warm water 1 tsp at a time, whisking between additions, until the sauce flows off a spoon in a slow ribbon.
+
+   **Sensory Cue:** Slightly speckled from the togarashi, pale coral with visible flecks. Heat is more complex than Version A — togarashi layers chili, sansho pepper, sesame, and citrus peel. If the togarashi flavor reads as muddy rather than bright, the blend is stale. Keep shichimi togarashi refrigerated after opening.
+
+4. **Deploy:** Version A as a tableside dip. Version B from a squeeze bottle for sushi rolls, okonomiyaki, and plated fried applications where a pool of sauce would collapse the presentation.
+
+## Chef's Notes / Variations
+
+**Tonkatsu Sauce — Build notes and alternatives**
+
+The Worcestershire + ketchup + soy + oyster sauce formula is the established Western-accessible framework. Commercial Bulldog brand tonkatsu sauce (widely available at Japanese grocery stores) is a legitimate alternative — it adds tamarind and dates that are difficult to replicate at home without additional ingredients. For greater complexity, add 5 ml (1 tsp) tamarind paste and reduce ketchup by half. Keeps refrigerated up to 2 weeks; flavor deepens after 24 hours.
+
+**Tonkatsu Sauce — Application rule**
+
+Apply sauce to sliced katsu at service, not plating. If ladled under the katsu, the panko absorbs the sauce immediately and the shatter is gone within 60 seconds. Stripe across the top of the sliced cutlet — coverage without submersion.
+
+**Tentsuyu — Scratch vs. hondashi**
+
+Scratch kombu-katsuobushi dashi is the professional standard and produces a noticeably deeper, cleaner result. For a home cook building tentsuyu as part of a weeknight tempura service, hondashi is a reasonable shortcut — the sauce reads as functional rather than elevated, but it works. The distinction is most apparent in direct side-by-side comparison; in isolation, most diners cannot name the difference. Competition or plated service: scratch. Weeknight or family-style: hondashi is acceptable.
+
+**Tentsuyu — The daikon is not optional**
+
+Oroshi daikon is a palate cleanser and texture element, not a garnish. At a formal tempura service, it is an essential component. For casual service, the sauce works without it — but the eating experience across a multi-piece serving is measurably different.
+
+**Tentsuyu — Ponzu variation**
+
+For a citrus-forward variation, substitute the soy portion with ponzu from 10-23 Sauce 3. The result is brighter and more acidic — particularly good with vegetable tempura and lighter fry applications. Not traditional tentsuyu, but worth knowing.
+
+**Gyoza Sauce — Rayu vs. chili oil**
+
+Rayu is Japanese chili oil — typically sesame oil with dried chili, sometimes with garlic and green onion additions. It is less intense than Chinese chili oil and has a different aromatic profile. In the absence of rayu, substitute chili crisp (Lao Gan Ma) at ½ the quantity plus a few drops of plain toasted sesame oil. Do not substitute sriracha — the texture and flavor profile diverge too far.
+
+**Gyoza Sauce — Application range**
+
+Works beyond gyoza: use as a dipping sauce for any fried dumpling, as a finishing drizzle on steamed bao, or as a dressing base for shredded chicken or cucumber salad (add a few drops of honey and a small amount of grated garlic).
+
+**Spicy Mayo — Kewpie sourcing**
+
+Kewpie is widely available at Asian grocery stores and increasingly at mainstream supermarkets (refrigerated section). Do not substitute American mayo — the rice vinegar content, egg yolk ratio, and emulsion structure are all different. The result with American mayo is a thinner, less tangy sauce that lacks the unctuous quality that makes spicy mayo work on fried applications.
+
+**Spicy Mayo — Togarashi freshness**
+
+Shichimi togarashi is a seven-spice blend; the citrus peel, sansho pepper, and nori components degrade quickly once opened. Refrigerate after opening and use within 3 months. Stale togarashi makes Version B read as flat and undifferentiated — the complexity that distinguishes it from Version A lives entirely in the fresh blend.
+
+**Scaling**
+
+All four sauces scale linearly. Tentsuyu's dashi simmer time does not change with volume; the time required to bring the dashi to temperature does.
+
+## Glossary
+
+- **Dashi:** The foundational Japanese stock produced by steeping kombu (dried kelp) and katsuobushi (dried, fermented, smoked skipjack tuna) in water; the primary umami delivery vehicle in Japanese cooking.
+- **Kombu:** Dried kelp used to produce the first stage of dashi; contains glutamic acid, the amino acid responsible for savory umami flavor. Must be removed before water simmers or it releases viscous, off-flavored compounds.
+- **Katsuobushi:** Dried, fermented, and smoked skipjack tuna shaved into thin flakes; used to produce the second stage of dashi. Contributes inosinic acid, which synergizes with kombu's glutamic acid to produce umami intensity greater than either ingredient alone.
+- **Hondashi:** Commercial instant dashi powder (Ajinomoto brand); a convenient shortcut for dashi production. Functional for casual applications; lacks the layered depth and clarity of scratch dashi.
+- **Tentsuyu:** The canonical Japanese dipping sauce for tempura; built on dashi, soy, and mirin; characterized by deliberate restraint — its mildness is a service decision, not a deficiency.
+- **Tonkatsu:** Japanese preparation in which a pork loin cutlet is coated in a heavy panko pané and deep-fried; typically served sliced with tonkatsu sauce applied across the top.
+- **Rayu:** Japanese chili oil made with sesame oil and dried chili; typically milder and more aromatic than Chinese chili oil, with a pronounced sesame base note.
+- **Oroshi daikon:** Finely grated daikon radish; accompaniment to tempura and fried applications. Functions as a palate cleanser and textural contrast. Not a garnish — it changes the eating experience.
+- **Shichimi togarashi:** Japanese seven-spice blend typically containing red chili, sansho pepper, citrus peel, sesame seeds, hemp seeds, ginger, and nori. Degrades quickly after opening; refrigerate.
+- **Sansho pepper:** Japanese spice from the prickly ash tree; produces a citrus-forward, mildly numbing sensation similar in mechanism to Sichuan peppercorn but lighter and more aromatic.
+- **Kewpie mayonnaise:** Japanese-style mayonnaise produced with rice vinegar and egg yolks only (no whole egg whites); richer, tangier, and more unctuous than American mayonnaise. Not a substitute for American mayo — a categorically different product.
+- **Mirin:** Japanese sweet rice wine used in cooking; contributes sweetness, shine, and gentle umami depth.
+- **Umami:** The fifth basic taste, associated with glutamate and certain nucleotides; in Japanese cooking, umami is a structural element rather than a finishing note.
+- **Oroshi:** Japanese term for grating or grated; in culinary context, refers to the fine grating of daikon, ginger, or garlic.
+
+## Keywords
+
+Japanese, dipping sauce, tonkatsu, tentsuyu, tempura, gyoza, spicy mayo, dashi, Kewpie, umami, mirin, rayu, togarashi, katsu, les fonds
+
+## Category
+
+cuisine: Japanese | style: Technique Folio

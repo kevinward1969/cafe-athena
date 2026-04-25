@@ -7,6 +7,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Headspace: The empty space left between the top of the food product and the lid of the jar to allow for expansion or oil coverage.
 - Heterofermentative: A fermentation process resulting in the production of multiple organic acids, including acetic acid.
 - Homofermentative: A fermentation process characterized by the primary production of lactic acid.
+- Hondashi: Commercial instant dashi powder (Ajinomoto brand); a convenient shortcut for dashi production. Functional for casual applications; lacks the layered depth and clarity of scratch dashi.
 - Honeycomb: The aerated, custardy internal structure of a perfectly baked canelé.
 - Honing: The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
 - Hooch: A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.

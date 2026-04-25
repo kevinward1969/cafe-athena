@@ -1,0 +1,307 @@
+# Café Athena - Panés, Batters, and the Architecture of a Shatter
+
+The production reference for multi-stage panés and wet batters — six coating systems from the classic flour-egg-crumb to fish and chips pub batter, each with distinct adhesion logic, texture outcome, and fry protocol.
+
+**Yield:** Reference folio — each variant formula coats approximately 750 g of product | **Prep:** 15–30 min | **Inactive:** 15–30 min (pané rest; batter batches are made to order) | **Cook:** 2–8 min per batch | **Total:** Varies by application
+
+---
+
+## Headnote
+
+Where 12-18 covers the single-layer, single-stage end of the coating spectrum — dredges, dustings, and the frying thermodynamics that govern all of them — this folio takes the same product into multi-stage territory. A pané is not a thick dredge; it is a three-layer construction where each stage does a different job. A batter is not a dredge mixed with water; it is an engineered suspension where viscosity, gas content, and gluten development are all controlled variables. The frying thermodynamics in 12-18's headnote apply here without modification — read that folio first if you have not. What follows is the science specific to this end of the spectrum: adhesion architecture, crumb structural differences, cold-batter mechanics, and the steam-trap behavior of a thick insulating coat.
+
+**Three-stage pané adhesion logic.** A pané works because each layer solves the adhesion problem of the layer above it. Dry protein and vegetable surfaces do not bind crumb directly — the surface has nothing for the crumb to grab. The flour coat solves this: it absorbs surface moisture and creates a lightly gummy, hydrated shell. That hydrated shell binds egg wash — without flour, egg wash beads and slides off a smooth protein surface, much the way water beads on a waxed surface. The egg wash, once coated, provides the tacky, protein-rich matrix that crumb needs to adhere and stay put during the fry. Each stage is necessary because it creates the surface condition for the stage above it. Skip any one stage and the system fails at the first point of stress: in the oil, or on the cutting board.
+
+The single most common pané failure is a wet flour stage. If the product is not patted fully dry before flouring, or if the flour absorbs so much primer moisture that it slurries into paste, the foundation layer cannot adhere uniformly. Press gently but firmly into the crumb — you are setting the layer, not packing it. Shake off all loose crumb before resting; loose crumb does not bind and falls into the oil, where it burns and contaminates the bath.
+
+**Panko vs. standard breadcrumb.** The structural difference here is not subtle. Standard breadcrumb (fresh or dried) is a dense, relatively uniform particle — it compacts under pressure and during frying, producing a cohesive, moderately crisp crust that softens within 5–8 minutes of leaving the oil. Panko is an open-lattice crumb, flash-baked by passing electrical current through the dough rather than conventional oven heat, which drives moisture out rapidly and produces an elongated, porous, low-density flake. In the fryer, panko does not compact — the oil permeates the lattice, the moisture inside the flake flashes to steam, and each flake shatters outward rather than consolidating. The result is a crust with dramatically more surface area, more crunch, and substantially better moisture resilience — panko-crusted katsu holds its shatter for 15–20 minutes versus 5–8 for standard breadcrumb. Moisture behavior: the open lattice absorbs more oil by volume than dense crumb, but because the structural geometry is maintained, the oil is distributed as a thin film over far more surface, rather than saturating a dense mat. The crust feels lighter because structurally it is.
+
+**Cold-batter mechanics (tempura).** Tempura is a deliberate exercise in gluten suppression. Standard wheat flour at room temperature, combined with water, will develop gluten within 30 seconds of mixing — gliadin and glutenin proteins hydrate and cross-link into an elastic network that makes the batter strong, coherent, and chewy in the fryer. That is the opposite of what tempura requires. The objective is a batter with minimal gluten development: the starch granules intact, the protein cross-links absent, the whole system barely mixed — nearly the consistency of heavy cream with lumps. Cold water (ideally below 40°F/4°C, maintained with ice) slows gliadin and glutenin hydration dramatically, buying the cook time to mix and apply the batter before the network can form. Low-protein flour — cake flour (8–9% protein) or commercial tempura flour — reduces the total gluten-forming protein available. Under-mixing is not optional; it is the technique. Those visible lumps of dry flour in a tempura batter are structural elements. When the batter hits oil, the lumps fry separately as lace points, opening into the characteristic gossamer lattice. A smooth, fully incorporated tempura batter produces a thick, doughy coating that is not tempura — it is battered, and badly.
+
+Ice must remain in the mixing vessel throughout batter preparation and application. Remove the batter from the ice bath only to ladle, and return it immediately. A batter that warms above 55°F/13°C during service will begin building gluten visibly — it thickens, becomes cohesive, loses its lace behavior. Make tempura batter in small batches to order rather than ahead of service.
+
+**Batter viscosity and surface tension.** Batter thickness determines how much coating mass surrounds the product and therefore how much insulating layer the crust builds. Thin batter (tempura) coats at 1–2 mm; thick pub batter (fish and chips) coats at 4–6 mm. At 1–2 mm, the crust is nearly transparent at doneness — its job is texture, not bulk. At 4–6 mm, the crust is an insulating jacket — it holds the interior steam much longer, lets a thick fish fillet cook through gently while the surface colors, and provides the structural wall needed to hold condiments poured directly onto the plated item. Carbonation in beer batter functions primarily as a mechanical leavener rather than a flavor agent. CO₂ bubbles distributed through the batter expand violently when the batter hits oil, creating pockets that rupture and produce the open, aerated crumb structure characteristic of pub batter. The CO₂ is gone within seconds of mixing beer into the batter; what remains is the pock-marked crumb geometry that results from where the bubbles were. Yeast-derived CO₂ in live beer contributes slightly more gas than commercial soda water, but the difference is minor — the important variable is how cold the beer is when added (cold preserves more gas) and how minimally the batter is mixed after addition (mixing drives gas out). Baking powder is sometimes added as a secondary leavener for insurance, but is not the primary mechanism.
+
+**The pané coat as steam trap.** A three-stage pané differs from a single dredge in moisture management in proportion to its thickness. The flour-egg-crumb assembly is 6–10× thicker than a standard dredge and the crumb layer, being porous, holds substantially more oil during the fry than bare starch. That oil serves as a heat conductor at the surface while simultaneously acting as a seal. Steam escaping from the product interior must travel through the crumb layer before it exits; the longer that path, the slower the steam escapes, and the more heat stays in the product. This is why a pané-coated chicken breast at equivalent oil temperature cooks to doneness faster than a dredge-coated breast of the same thickness — the insulating layer concentrates heat inside more effectively. It also means the margin between "cooked through" and "dry interior" is narrower; a pané application is less forgiving of temperature error than a dredge application. Monitor internal temperature for pané applications — do not rely on color alone. The crust can color fully while the interior is still 10–15°F/6–8°C below target.
+
+**Teaching Idea: Why the flour stage is a foundation, not a formality.** Many home cooks skip flouring and go straight to egg wash, reasoning that it seems redundant. Dip a wet-patted piece of chicken in egg wash without flour and watch what happens: the egg wash slides, beads at the edges, and leaves thin bare patches. Dip the same piece after a proper flour coat and shake-off, and the egg wash clings in an even sheet. The flour has roughened the surface, absorbed the surface water, and created a matrix the egg wash can bond to. Every stage in a pané is load-bearing.
+
+---
+
+## Mise en Place (Action Checklist)
+
+Shared prep across all six variants. Variant-specific staging is called out below.
+
+- **Heat the oil:** Follow the same protocol as 12-18 — heavy-bottomed pot or Dutch oven no more than halfway full, probe thermometer clipped to the side. Target temperatures are in the Reference Table below.
+- **Set a landing zone:** Wire rack over a sheet pan. Not paper towels — see 12-18 for rationale.
+- **Set up the pané station (Variants 1–3):** Three wide shallow vessels in sequence: Vessel 1 — seasoned flour. Vessel 2 — egg wash. Vessel 3 — crumb. Keep them in order; contaminating the flour station with egg wash or the crumb station with egg collapses the adhesion sequence.
+- **Pat the product bone dry:** More critical for panés than dredges — any surface moisture saturates the flour stage and starts the failure cascade.
+- **Season the product, not the coat:** Salt the product 30–60 minutes ahead on a rack, uncovered, refrigerated. Salt the flour lightly — not heavily — as a backup. See 12-18 for the seasoning rationale.
+- **Make tempura batter to order (Variant 4):** Prepare only as much as you will use in the next 10–15 minutes. Nest the mixing bowl in a larger bowl filled with ice. Do not pre-batch.
+- **Chill beer and mixing bowl (Variants 5 & 6):** Refrigerate the beer at least 1 hour before service. Chill the mixing bowl in the freezer for 20 minutes before batching. Every degree of warmth costs CO₂.
+- **Crumb setup for Variant 3 (Katsu):** Spread panko in a wide, deep-sided tray — the product will be pressed in, not laid on top. Have a second tray reserved for post-crumb resting so loose crumb does not transfer back.
+- **Recovery timer:** Set a visible timer. Batter coatings are thin and will color quickly on recovery — do not walk away from the fryer.
+
+---
+
+## Ingredients
+
+Each variant below is a standalone formula. Ratios are calibrated to coat approximately 750 g of product. Scale coating ingredients linearly; scale oil and vessel size independently — see Chef's Notes.
+
+### Variant 1 — Standard Pané (The Foundation Three-Stage)
+
+**Stage 1 — Seasoned Flour**
+- 120 g (1 cup) all-purpose flour
+- 4 g (1 ½ tsp) Diamond Crystal kosher salt
+- 2 g (1 tsp) freshly ground black pepper
+
+**Stage 2 — Egg Wash**
+- 3 large eggs (approximately 150 g)
+- 30 g (2 tbsp) whole milk or water
+- 2 g (¾ tsp) Diamond Crystal kosher salt
+
+**Stage 3 — Standard Breadcrumb**
+- 200 g (2 ½ cups) fine dry breadcrumbs (store-bought or homemade from day-old white bread)
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+**Adhesion primer:** Patting dry is the primer. No liquid soak required — the egg wash provides all necessary adhesion moisture.
+
+### Variant 2 — Panko Pané (The Shatter Crust)
+
+**Stage 1 — Seasoned Flour**
+- 120 g (1 cup) all-purpose flour
+- 4 g (1 ½ tsp) Diamond Crystal kosher salt
+- 2 g (1 tsp) white pepper *(white pepper preferred — avoids dark flecks in the pale crust)*
+
+**Stage 2 — Egg Wash**
+- 3 large eggs (approximately 150 g)
+- 30 g (2 tbsp) whole milk
+- 2 g (¾ tsp) Diamond Crystal kosher salt
+
+**Stage 3 — Panko**
+- 200 g (approximately 3 ½ cups, loosely packed) Japanese panko breadcrumbs
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+**Adhesion primer:** Same as Variant 1 — dry surface, no liquid soak.
+
+**Panko note:** Use Japanese-style panko specifically — not "Italian-style panko" or "seasoned breadcrumbs." The flash-baked, open-lattice structure is what produces the shatter. Domestic panko substitutes vary widely; if the crumb does not look airy and elongated, it will not perform like panko.
+
+### Variant 3 — Katsu Pané (The Thick-Set Shatter)
+
+**Stage 1 — Seasoned Flour**
+- 120 g (1 cup) all-purpose flour
+- 4 g (1 ½ tsp) Diamond Crystal kosher salt
+- 2 g (1 tsp) white pepper
+
+**Stage 2 — Egg Wash (heavier than standard)**
+- 4 large eggs (approximately 200 g)
+- 15 g (1 tbsp) whole milk
+- 2 g (¾ tsp) Diamond Crystal kosher salt
+
+**Stage 3 — Panko (heavier application)**
+- 250 g (approximately 4 ½ cups, loosely packed) Japanese panko breadcrumbs
+- 3 g (1 tsp) Diamond Crystal kosher salt
+
+**Technique distinction:** Katsu calls for a thicker crumb application — after pressing into the panko, flip the cutlet and press a second time to ensure full coverage and pack density. The thicker crumb layer is what produces the firm, structural slab that holds sauce without softening. Standard Panko Pané (Variant 2) gets one press; Katsu gets two.
+
+**Adhesion primer:** Dry surface. Allow a 5-minute rest after the second crumb press before frying — this additional rest lets the egg wash begin to set the crumb adhesion before oil contact.
+
+### Variant 4 — Tempura Batter (The Ice-Water Lace)
+
+**The Dry Components** *(pre-measured, kept cold)*
+- 120 g (1 cup) cake flour *(or commercial tempura flour; all-purpose produces a heavier, less lacy result)*
+- 30 g (¼ cup) cornstarch
+- 3 g (1 tsp) Diamond Crystal kosher salt
+- 2 g (½ tsp) baking powder *(optional; extends the lace window slightly)*
+
+**The Liquid** *(added at service)*
+- 180 g (¾ cup) ice-cold water *(maintained with 3–4 ice cubes in the measuring cup; remove ice before measuring final volume)*
+- 1 large egg yolk (approximately 18 g), cold
+
+**Yield note:** This formula coats approximately 750 g at standard tempura thinness. At the correct application thickness, the actual use-rate may reach 900–1,000 g — batch to the session, not to the formula count.
+
+**Dipping vegetables:** Pat bone dry, then dust lightly with plain cornstarch before dipping in batter. The cornstarch layer gives the batter a surface to grip on smooth vegetables (eggplant, sweet potato, zucchini) that would otherwise repel the thin batter.
+
+### Variant 5 — Beer Batter (The Carbonated Aeration)
+
+- 180 g (1 ½ cups) all-purpose flour
+- 30 g (¼ cup) cornstarch
+- 8 g (2 ½ tsp) Diamond Crystal kosher salt
+- 4 g (1 tsp) baking powder
+- 2 g (½ tsp) freshly ground black pepper
+- 2 g (½ tsp) sweet paprika
+- 240 g (1 cup) cold lager beer or pale ale *(see note)*
+- 1 large egg (approximately 50 g), cold
+
+**Beer note:** A light lager produces the cleanest batter — high gas, neutral flavor, low bitterness. A pale ale adds slight hop bitterness that is pleasant on fish. An IPA can be actively bitter and should be used only if that character is intentional. Whatever you use, it must be cold.
+
+### Variant 6 — Fish & Chips Batter (The Pub Standard)
+
+- 200 g (1 ⅔ cups) all-purpose flour, plus additional for initial dusting
+- 40 g (⅓ cup) rice flour
+- 10 g (1 tbsp) Diamond Crystal kosher salt
+- 6 g (1 ½ tsp) baking powder
+- 3 g (¾ tsp) white pepper
+- 2 g (½ tsp) turmeric *(optional, for color)*
+- 280 g (1 cup + 3 tbsp) cold lager beer
+- 30 g (2 tbsp) malt vinegar
+
+**Initial dusting:** Before dipping fish in batter, dredge lightly in plain flour and shake off. Without it, a thick batter on a smooth fish surface will slide off in the oil.
+
+**Texture distinction from Variant 5:** This batter is intentionally thicker — designed to carry the full weight of traditional accoutrements (mushy peas, gravy, malt vinegar) without collapsing. The malt vinegar tightens gluten slightly, giving the crust more rigidity than beer batter alone.
+
+---
+
+## Temperature Reference Table (All Variants)
+
+| Variant | Blanch Fry | Finish / Single-Stage Fry | Typical Duration (Finish) | Applications |
+| :--- | :--- | :--- | :--- | :--- |
+| 1. Standard Pané | 325°F/165°C (optional) | 350°F/175°C | 3–5 min | Schnitzel, chicken Kiev, croquettes |
+| 2. Panko Pané | 325°F/165°C (optional) | 350–360°F/175–180°C | 3–4 min | Tonkatsu, chicken cutlets, shrimp fry |
+| 3. Katsu | 325°F/165°C | 340–350°F/170–175°C | 5–7 min | Tonkatsu, chicken katsu, menchi katsu |
+| 4. Tempura | — | 340–355°F/170–180°C | 1.5–3 min (veg); 3–4 min (shrimp/fish) | Shrimp, root vegetables, delicate greens |
+| 5. Beer Batter | — | 350–360°F/175–180°C | 4–6 min (fish fillet) | Fish, onion rings, zucchini |
+| 6. Fish & Chips | — | 350–360°F/175–180°C | 5–7 min (thick cod fillet) | Cod, haddock, pollock |
+
+Katsu blanch stage is more important than for Variants 1–2 because the thick crumb insulates so effectively that the interior can stall below safe temperature. Blanch protocol: 325°F/165°C for 3–4 min, rest 5 min on rack, finish at 350°F/175°C for 2–3 min. Tempura is single-stage only — double-frying destroys the lace structure. Batter variants (4–6) do not benefit from a blanch stage.
+
+---
+
+## Method
+
+**Phase 1: Prime the Product.**
+
+Salt the product 30–60 minutes ahead on an uncovered rack in the refrigerator. Immediately before coating, pat the product bone dry. There must be no visible surface moisture.
+
+For batter variants (Variants 4–6): cut fish or vegetable to uniform thickness before seasoning. A 200 g cod fillet should be no more than 25 mm at its thickest point. Taper cuts on thick fillets — tapered ends fry faster and balance the cook across the piece.
+
+> **Sensory Cue:** A properly dried and salted protein surface looks matte, slightly taut, with no sheen of moisture.
+
+**Phase 2: Build the Pané (Variants 1–3).**
+
+Set three vessels in sequence: flour, egg wash, crumb. Work left to right, and never reach back — once your hand has touched egg wash, it does not go into the flour vessel.
+
+1. **Flour stage:** Lower the product into the seasoned flour. Turn once. Lift and shake firmly — a thin, even veil of flour with no bare spots and no clumps.
+2. **Egg wash stage:** Lower the floured product into the egg wash. Lift immediately — do not soak. Let the excess fall back for 3–5 seconds. The coat should be thin and uniform, not pooled.
+3. **Crumb stage:** Lower into crumb. For Variants 1–2: press gently once on each side. For Variant 3 (Katsu): press firmly twice on each side, turn, repeat. Shake off loose crumb.
+4. **Rest on a rack for 5–10 minutes before frying.**
+
+> **Sensory Cue:** A correctly built pané looks uniform, matte, and slightly textured. Panko pané should show visible crumb spikes standing proud of the surface. Any visible wet patches or bare spots: return to the flour stage and restart.
+
+**Phase 3: Mix the Batter (Variants 4–6).**
+
+**For Tempura (Variant 4):** Combine the cold dry ingredients in a chilled mixing bowl nested in an ice bath. Add the cold water and egg yolk all at once. Stir with chopsticks or a fork — not a whisk — for 6–8 strokes. Stop. The batter should be lumpy, barely combined, with dry streaks visible. This is correct.
+
+> **Sensory Cue:** Correct tempura batter is thin, cold to the touch, lumpy, and slightly grayish from the unhydrated flour. Warm, smooth, or thick batter: discard and re-batch cold.
+
+**For Beer Batter and Fish & Chips Batter (Variants 5–6):** Whisk the dry ingredients together in a chilled bowl. Add the cold beer all at once. Whisk just until incorporated — 10–15 strokes. Small lumps are acceptable. Do not add the beer in stages or whisk repeatedly — each pass drives CO₂ out and builds gluten. Use within 15–20 minutes.
+
+> **Sensory Cue:** Beer batter should coat a spoon and drip slowly. Fish & Chips batter (Variant 6) should be slightly thicker — it should coat a spoon heavily and fall in a slow ribbon. Both should feel cool against the inside of your wrist.
+
+**Phase 4: Coat and Fry.**
+
+**For panés (Variants 1–3):** Verify oil temperature from the Reference Table. Lower product into oil gently, away from your body. Maintain the 25% batch-weight rule from 12-18. Turn once at the halfway mark.
+
+**For batter variants (Variants 4–6):** Dredge the product lightly in plain flour first and shake off (approximately 30 g / ¼ cup for the batch). Dip in batter, let excess fall for 3–4 seconds, and lower into oil immediately. Do not allow battered product to rest before frying.
+
+> **Sensory Cue at Doneness (Panés):** Golden amber crust — the color of a dry Ritz cracker on panko, slightly darker on standard breadcrumb. The sizzle quiets as moisture leaves. Internal temperature: 165°F/74°C for poultry, 145°F/63°C for fish.
+
+> **Sensory Cue at Doneness (Batters):** Deep golden, batter visibly set and slightly puffed. For tempura specifically: pale gold with a lace appearance — do not push to deep brown or the lace structure burns before the batter is fully set.
+
+Lift to wire rack. Salt immediately with finishing salt.
+
+**Phase 5: Rest and Recover.**
+
+Rest panés 2–3 minutes. Rest battered products 60–90 seconds — the batter coat holds heat aggressively and the risk of overcooking the interior on rest is higher than for panés.
+
+Recover the oil between batches. Crumb from panés sheds heavily — skim the oil surface between every batch without exception. See 01-22 for oil degradation and filtration protocols.
+
+---
+
+## Chef's Notes / Variations
+
+**Choosing a coating by texture and application**
+
+| Goal | Variant |
+| :--- | :--- |
+| Classic European breaded cutlet (schnitzel, Milanese) | 1 — Standard Pané |
+| Shatteringly crisp, sauce-resistant panko crust | 2 — Panko Pané |
+| Thick structural katsu for plated applications with sauce | 3 — Katsu |
+| Gossamer lace, delicate, Japanese-style tempura | 4 — Tempura |
+| Light, carbonated, open-crumb fish or vegetable batter | 5 — Beer Batter |
+| Thick pub batter, malt-vinegar forward, sauce-compatible | 6 — Fish & Chips |
+
+---
+
+**The double-egg-wash method**
+
+For production environments where 50+ cutlets will be coated in a single prep session: after the first flour-egg-crumb sequence, rest the coated piece for 5 minutes, then dip it again in egg wash and press again into crumb. The double coat produces a significantly thicker, more adhesion-resistant crust. Use on banquet applications and service where visual uniformity and crust integrity are priorities. Not recommended for à la carte where crumb thickness is part of the aesthetic.
+
+---
+
+**Gluten-free pané adaptation**
+
+Replace the flour stage (Stage 1) with rice flour or tapioca starch. Rice flour produces a slightly grainier foundation but works well. Tapioca starch produces a stickier, more cohesive foundation — better adhesion for smooth-surface proteins like shrimp. Use gluten-free panko for Variants 2 and 3. Performance is comparable to standard panko.
+
+---
+
+**Dry-fry detection for tempura**
+
+A quality check before committing to a full batch: drop a small amount of tempura batter from a chopstick into the oil. Correct batter at the right temperature: the drop sinks slightly, then rises immediately and begins puffing into a light, lacy shape within 3–5 seconds. Over-mixed batter: rises but stays compact and dense. Cold oil (below 330°F/165°C): the drop sinks and stays down.
+
+---
+
+**Failure modes**
+
+- **Crumb shedding in the oil:** Crumb was not rested after coating, loose crumb was not shaken off, or egg wash stage was too thin. Fix: rest 10 minutes after crumbing; reduce milk in egg wash by half.
+- **Flat, dense panko with no shatter:** Wrong crumb — domestic or seasoned panko substitute. Use Japanese-style panko only.
+- **Gummy, thick tempura (no lace):** Batter was over-mixed, too warm, or all-purpose flour was used. Re-batch cold.
+- **Batter slides off fish:** No flour dusting applied before battering, or fish surface was wet.
+- **Pale, oil-saturated batter:** Oil temperature dropped below 330°F/165°C. Reduce batch size; verify recovery between batches.
+- **Batter cracked and separated from fish after service:** Fish contracted as it cooled and broke the batter seal. Cut fish to uniform thickness; serve within 3 minutes of frying.
+- **Katsu crust done, interior raw:** Thick crumb stalled the interior. Use the blanch-finish protocol for any product over 20 mm thick.
+
+---
+
+**Scaling note**
+
+Pané and batter formulas scale linearly for coating ingredients. Oil and vessel scaling follow the same non-linear rules as 12-18: do not add product in excess of 25% oil weight per batch, and do not scale the vessel downward.
+
+---
+
+**Cross-references**
+
+- 12-18 Frying with Dustings, and Dredges, and Crusts (Oh My) — partner folio; all shared frying thermodynamics, oil selection, thermal mass, recovery protocol, and double-fry mechanics. Read before this folio.
+- 10-24 Japanese Dipping Sauces — tonkatsu sauce, tentsuyu (tempura dipping sauce), gyoza sauce, and spicy mayo; the natural accompaniment collection for all six variants in this folio.
+- 01-20 Hydro-Thermal Stabilization — pre-blanching for vegetable inclusions in batter; especially relevant for tempura applications with dense root vegetables.
+- 01-22 Oil Clarification & Life Extension — oil degradation and reuse thresholds; pané applications accelerate degradation through crumb shedding; increase filtration frequency during pané service.
+- Chapter 5–7 recipes — specific pané and batter variants from this folio are referenced by variant number.
+
+---
+
+## Glossary
+
+- Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French *paner*, "to bread." Also used as an adjective: "a panéed cutlet."
+- Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
+- Katsu: Japanese preparation (from the German Schnitzel via cultural transmission) in which a protein — most commonly pork loin (tonkatsu) or chicken (chicken katsu) — is pounded thin, coated in a heavy panko pané, and deep-fried; typically served with tonkatsu sauce.
+- Tempura: A Japanese deep-frying technique using a cold, minimally mixed, low-protein batter; the controlled gluten suppression and open batter structure produce a gossamer, lacy crust. Introduced to Japan by Portuguese missionaries in the 16th century; developed into its current form in Edo-period Tokyo.
+- Gluten: The protein network formed when gliadin and glutenin proteins in wheat flour hydrate and cross-link; provides elasticity and strength in dough and batter. In tempura, gluten development is deliberately suppressed.
+- Gliadin: One of the two primary gluten-forming proteins in wheat flour; responsible for extensibility (stretch) in gluten networks.
+- Glutenin: The second primary gluten-forming protein in wheat flour; responsible for elasticity (snapback) in gluten networks.
+- Lace (tempura context): The open, gossamer, lattice-like crust structure produced by correct tempura technique — the result of intact starch granules frying as individual particles rather than fusing into a continuous film.
+- Cake flour: Wheat flour milled to 8–9% protein content; the lower protein content reduces gluten formation potential, making it the preferred flour for tempura batter and delicate applications.
+- Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
+- Egg wash: A mixture of beaten eggs and a small amount of liquid (milk, water, or cream) used as the adhesion layer in a pané, binding the crumb to the flour-coated product surface.
+- Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
+- Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
+- Adhesion cascade: The dependent sequence of stages in a pané — each stage creates the surface condition necessary for the next stage to adhere — in which skipping any stage causes the entire coating to fail under fry stress.
+
+---
+
+## Keywords
+
+pané, panko, katsu, tempura, beer batter, fish and chips, breadcrumb, egg wash, gluten suppression, carbonation, batter viscosity, adhesion cascade, les fonds, deep frying, coating technique
+
+## Category
+
+cuisine: Global | style: Classical

@@ -12,6 +12,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
 - Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
 - Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
+- Sansho pepper: Japanese spice from the prickly ash tree; produces a citrus-forward, mildly numbing sensation similar in mechanism to Sichuan peppercorn but lighter and more aromatic.
 - Sauce Dérivée: A secondary sauce created by adding ingredients to a Mother Sauce.
 - Sauté: A cooking technique involving cooking food quickly in a small amount of fat over relatively high heat.
 - Savory: Characterized by a salty or umami flavor, as opposed to sweet.
@@ -29,6 +30,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
+- Shichimi togarashi: Japanese seven-spice blend typically containing red chili, sansho pepper, citrus peel, sesame seeds, hemp seeds, ginger, and nori. Degrades quickly after opening; refrigerate.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.

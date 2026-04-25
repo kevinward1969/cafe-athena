@@ -5,7 +5,9 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## P
 
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
+- Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French paner, "to bread." Also used as an adjective: "a panéed cutlet."
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
+- Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
 - Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.

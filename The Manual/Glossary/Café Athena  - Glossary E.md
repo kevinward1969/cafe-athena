@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## E
 
+- Egg wash: A mixture of beaten eggs and a small amount of liquid (milk, water, or cream) used as the adhesion layer in a pané, binding the crumb to the flour-coated product surface.
 - Emulsification: The process of combining two immiscible liquids, such as oil and water, into a stable mixture, often aided by an emulsifier.
 - Emulsifier: A substance that stabilizes an emulsion by reducing the surface tension between two immiscible liquids, such as oil and water.
 - Emulsify: To mix two liquids that don't normally combine (like oil and lemon juice) into a stable mixture.

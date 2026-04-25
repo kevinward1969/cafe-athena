@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## L
 
+- Lace (tempura context): The open, gossamer, lattice-like crust structure produced by correct tempura technique — the result of intact starch granules frying as individual particles rather than fusing into a continuous film.
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.

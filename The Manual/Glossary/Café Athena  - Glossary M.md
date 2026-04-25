@@ -5,6 +5,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## M
 
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+- Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
 - Matrix: The structural medium (cheese) in a fat-based cooking preparation that binds and holds inclusions in place.
