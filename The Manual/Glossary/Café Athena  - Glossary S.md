@@ -44,6 +44,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Soffritto: The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
 - Soft Peaks: The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 - Solubility: The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
+- Solvent: The substance (e.g., oil or water) that dissolves a solute to form a solution; in lipid-based extraction, fats act as a non-polar solvent for aromatic compounds.
 - Sourdough Discard: A fermented starter used in bread making, contributing acidity and flavor.
 - Sous Vide: A precise cooking technique involving sealing food in a bag and immersing it in a temperature-controlled water bath for consistent results.
 - Spherification (Direct): A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.

@@ -163,6 +163,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
 - Emulsion Bond: The use of a liquid fat (such as warm butter) to create a tacky surface that allows dry powders to adhere evenly to a non-porous surface such as a fried kernel skin.
 - Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
+- Enzymatic Browning: A chemical process involving polyphenol oxidase that discolors plant tissues on exposure to oxygen; halted by blanching or acidification.
 - Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
 - Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
@@ -436,6 +437,7 @@ No glossary terms yet.
 - Soffritto: The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
 - Soft Peaks: The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 - Solubility: The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
+- Solvent: The substance (e.g., oil or water) that dissolves a solute to form a solution; in lipid-based extraction, fats act as a non-polar solvent for aromatic compounds.
 - Sourdough Discard: A fermented starter used in bread making, contributing acidity and flavor.
 - Sous Vide: A precise cooking technique involving sealing food in a bag and immersing it in a temperature-controlled water bath for consistent results.
 - Spherification (Direct): A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.

@@ -12,6 +12,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Emulsion: A mixture of two liquids that would not normally mix (like oil and water/vinegar). In pesto, the cheese proteins and basil fibers help hold the oil in suspension.
 - Emulsion Bond: The use of a liquid fat (such as warm butter) to create a tacky surface that allows dry powders to adhere evenly to a non-porous surface such as a fried kernel skin.
 - Energy (Mechanical Kneading): The force applied during kneading to align gluten proteins, crucial for developing strength and structure in doughs with low hydration.
+- Enzymatic Browning: A chemical process involving polyphenol oxidase that discolors plant tissues on exposure to oxygen; halted by blanching or acidification.
 - Enzymatic Velocity: The rate at which enzymatic reactions occur, influencing the speed and efficiency of fermentation.
 - Enzyme Deactivation: The halting of enzymatic activity (e.g., polyphenol oxidase) through heat, preventing oxidative browning.
 - Equilibrium: The point where the salt/acid concentration inside the vegetable matches the liquid outside.
