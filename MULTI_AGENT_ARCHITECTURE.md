@@ -1,7 +1,7 @@
 # Café Athena — Multi-Agent Architecture
 
-**Version:** 1.2  
-**Last Updated:** 2026-04-14  
+**Version:** 1.3  
+**Last Updated:** 2026-04-26  
 **Status:** Active  
 
 This document describes the full multi-agent ecosystem for the Café Athena cookbook project, including each agent's role, the relationships between them, identified improvement opportunities, and recommended next steps.
@@ -66,7 +66,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
   │   GEMINI GEM 1           │       │   GEMINI GEM 2                       │
   │   The Chef               │       │   The Visual Director                │
   │   (All 3 Modes)          │       │   (Image generation only)            │
-  │   v3.3                   │       │   v1.0                               │
+  │   v3.7                   │       │   v1.1                               │
   └──────────┬───────────────┘       └──────────────────────┬───────────────┘
              │ Generates recipe brief                        │ Consumes brief
              │ + image prompt                                │ → outputs hero image
@@ -74,7 +74,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
 
   ┌──────────────────────────────────────────────────────────────────────────┐
   │   CLAUDE DESKTOP AGENT (Claude.ai Projects / Desktop)                    │
-  │   PROJECT_INSTRUCTIONS.md v1.1                                           │
+  │   PROJECT_INSTRUCTIONS.md v1.6                                           │
   │   All 3 modes | GitHub connector (read) | MCP filesystem (read+write)    │
   └──────────────────────────────────────────────────────────────────────────┘
 
@@ -154,9 +154,9 @@ The current architecture is well-designed in several important ways:
 
 **Issue:** The same three-mode system prompt is maintained in three separate files:
 
-- `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.3)
-- `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.1)
-- `.claude/agents/Cafe Athena Chef.agent.md` (v1.1)
+- `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.7)
+- `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.6)
+- `.claude/agents/Cafe Athena Chef.agent.md` (v1.5)
 
 Each surface has diverged slightly. Changes to one do not automatically propagate to the others. Over time, the agents will give inconsistent advice.
 
@@ -178,7 +178,7 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 ### 5.3 No Agent for Bulk Operations
 
-**Issue:** Workflows operate on one recipe at a time. `PROJECT_STATUS.md` lists 85+ recipes with no hero images and all 11 chapters needing format audits. There is no mechanism to run these operations in batch.
+**Issue:** Workflows operate on one recipe at a time. `PROJECT_STATUS.md` lists 85+ recipes with no hero images and all 12 chapters needing format audits. There is no mechanism to run these operations in batch.
 
 **Recommendation:** Add a `/batch-audit [Chapter N]` workflow variant to `format-audit.md` that runs format checks across an entire chapter and produces a consolidated report (rather than stopping after each file). This already exists in the workflow invocation syntax (`/format-audit Chapter 4`) but the current workflow description implies file-by-file authorization stops — clarify whether authorization is per-recipe or per-batch-result.
 
@@ -248,7 +248,7 @@ Listed in priority order:
 
 ## 8. Recommended Next Steps
 
-1. **Run format audit on all chapters** — Use Claude Code with `/format-audit Chapter N` starting with Chapter 1. All 11 chapters are pending. This clears formatting debt before adding new content.
+1. **Run format audit on all chapters** — Use Claude Code with `/format-audit Chapter N` starting with Chapter 1. All 12 chapters are pending. This clears formatting debt before adding new content.
 
 2. **Bulk image optimization** — Run `/recipe-hero-image optimize all` to convert any remaining PNG hero images to WebP before the next deploy.
 

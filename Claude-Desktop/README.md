@@ -15,7 +15,6 @@ This folder contains everything you need to run the Café Athena AI Agent in Cla
 | **PROJECT_INSTRUCTIONS.md** | Core instructions for Claude (paste into Project instructions field) |
 | **SETUP_GUIDE.md** | Step-by-step setup for Claude Desktop |
 | **MODE_CHECKLISTS.md** | Pre-conversation checklists for each mode (user guide) |
-| **skill-guide.md** | Reference for using Antigravity Awesome Skills |
 | **README.md** | This file |
 
 ---

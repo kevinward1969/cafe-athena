@@ -23,7 +23,14 @@ All content follows rigorous standards for food science, formatting precision, a
 ```
 cafe-athena/
 ├── README.md
+├── CLAUDE.md                       # Project instructions for Claude Code
 ├── PROJECT_STATUS.md               # Active development tracker
+├── IDEAS.md                        # Backlog of deferred ideas
+├── AGENT_CHANGELOG.md              # Version history for all four agent surfaces
+├── MULTI_AGENT_ARCHITECTURE.md     # Multi-agent system map and roadmap
+├── GITHUB_SETUP.md                 # GitHub configuration notes
+├── recipes.json                    # Pipeline registry — single source of truth for per-recipe state
+├── .markdownlint.json              # Shared markdownlint config
 │
 ├── The Manual/                     # Cookbook manuscript (local only)
 │   ├── Cafe-Athena-The-Manual-Current-Version.md
@@ -38,11 +45,12 @@ cafe-athena/
 │   ├── Chapter 8 - The Field/
 │   ├── Chapter 9 - The Pâtissier/
 │   ├── Chapter 10 - Stocks & Mother Sauces/
-│   └── Chapter 11 - Spice Blends & Oils/
+│   ├── Chapter 11 - Spice Blends & Oils/
+│   └── Chapter 12 - Les Fonds/
 │
 ├── site/                           # Astro website (public cookbook)
 │   ├── src/
-│   │   ├── content/recipes/        # Compiled recipe content (123 entries)
+│   │   ├── content/recipes/        # Compiled recipe content (142 entries)
 │   │   ├── layouts/                # BaseLayout, RecipeLayout, SectionLayout
 │   │   ├── pages/                  # index, academy, brigade, glossary, larder, search
 │   │   ├── plugins/                # remark-ref-images.mjs
@@ -75,12 +83,19 @@ cafe-athena/
 │       ├── keyword-pull.md
 │       ├── audit-glossary.md
 │       ├── recipe-hero-image.md
+│       ├── register-recipe.md
+│       ├── sync-registry.md
 │       └── session-handoff.md
+│
+├── .github/                        # VS Code Copilot primitives (separate surface)
+│   ├── agents/                     # markdownlint-qa.agent.md
+│   └── skills/                     # cafe-athena-site-dev/SKILL.md
 │
 ├── scripts/                        # Local Python utility scripts (Ollama-powered)
 │   ├── audit.py                    # ⭐ Recipe audit & repair tool
 │   ├── markdownlint_safe_fix.py    # Deterministic markdownlint fixer (stage 1)
 │   ├── fix_markdown_with_ollama.py # Ollama-powered markdownlint fixer (stage 2)
+│   ├── photo-style.py              # Hero image style helper
 │   ├── add-glossary-sections.py    # (superseded by audit.py)
 │   └── extract-keywords.py         # (superseded by audit.py)
 │
@@ -360,6 +375,8 @@ Slash commands for common tasks — type directly in the Antigravity chat (Claud
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in the main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Extract keywords for site metadata |
 | `/recipe-hero-image` | `/recipe-hero-image 04-15` | Generate a hero image brief for a recipe |
+| `/register-recipe` | `/register-recipe 12-20` | Register a new entry in `recipes.json` after Claude Desktop Mode 2 |
+| `/sync-registry` | `/sync-registry` | Sync `recipes.json` against the live Manual directory |
 | `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md and commit all session changes |
 
 Workflow definitions live in `.agents/workflows/`.
@@ -442,11 +459,15 @@ python scripts/prepare-content.py
 | `Guidance/Technique_Folio_Template_v1.md` | Template for technique folios |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | Master index of all content |
 | `The Manual/Glossary/` | Split culinary glossary — one file per letter (A–Z + 0-9) |
+| `CLAUDE.md` | Project instructions and operational heuristics for Claude Code |
 | `PROJECT_STATUS.md` | Active work, pending items, strategic context |
+| `IDEAS.md` | Deferred backlog of recipe, folio, and editorial ideas |
+| `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full multi-agent system map, evaluation, and improvement roadmap |
+| `recipes.json` | Pipeline registry — single source of truth for per-recipe state |
 
 ---
 
-**Version:** 2.0  
-**Status:** Active — 123 entries across 11 chapters  
+**Version:** 2.1  
+**Status:** Active — 142 entries across 12 chapters  
 **Last Updated:** April 2026
