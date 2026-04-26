@@ -43,6 +43,19 @@ Resolve the scope from the user's message before doing anything else. Valid scop
 | `site` | Site content files only | `--glob "site/src/content/recipes/*.md"` |
 | `all`, `everything`, no scope | Full repo scan | (no `--glob`, uses default `**/*.md`) |
 
+**Excluded scopes (never lint-repair these directories — they contain curated instruction files):**
+
+| Excluded path | Reason |
+|---------------|--------|
+| `Guidance/` | Agent instruction files — content changes must be human-authorized |
+| `.claude/` | Agent definitions — lint repair could corrupt frontmatter or behavior directives |
+| `.agents/` | Workflow definitions — same as above |
+| `.github/` | Copilot agents and skills — same as above |
+| `Claude-Desktop/` | Secondary surface instructions — managed manually |
+| `node_modules/` | Dependency files — not project content |
+
+If the user explicitly requests linting one of these paths, refuse and explain: "That directory contains curated instruction files. Lint-repair could corrupt agent behavior. Edit manually if needed."
+
 If the user's scope is ambiguous (e.g., "the risotto file"), use search to locate matching files before proceeding, and confirm what you found.
 
 ---

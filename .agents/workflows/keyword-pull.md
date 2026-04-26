@@ -11,7 +11,7 @@ description: Generates and appends ## Keywords and ## Category sections to a rec
    - If BOTH sections exist: report "Keywords and Category already present — no changes made." and stop.
    - If either is missing: proceed to generate the missing section(s).
 5. Read `Guidance/Recipe-Format-Standard.md` Sections 8 and 9 to confirm the current format standard and controlled vocabulary before generating.
-6. Generate **Keywords** (10–15 comma-separated terms) covering:
+6. Generate **Keywords** (8–15 comma-separated terms — full recipe folios typically land 10–15; foundation/technique folios 8–12) covering:
    - Cooking techniques used
    - Primary ingredients
    - Cuisine origin

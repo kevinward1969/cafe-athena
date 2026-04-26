@@ -105,8 +105,10 @@ cd site && npm run build && npm run preview
 
 ### 5. Commit to GitHub
 
+Stage modified files **by name** — do NOT use `git add -A` (per `CLAUDE.md`, it can capture unintended files like local `.DS_Store` or images placed during a separate workflow):
+
 ```bash
-git add -A
+git add site/src/pages/index.astro site/src/styles/global.css   # example — adjust per change
 git commit -m "feat: <description of change>"
 git push
 ```
@@ -179,7 +181,7 @@ Full-bleed panoramic banners (~1920×380px WebP) for each section page and chapt
 - Generated via Gemini Gem 2 — placement in this skill's scope only, not generation
 
 ### Chapter 12 Format Audit
-10 recipes live in Ch. 12. Format audit pending — run `/format-audit Chapter 12` in Claude Code (not this skill's domain, but affects site content).
+20 entries live in Ch. 12 (Les Fonds). Format audit pending — run `/format-audit Chapter 12` in Claude Code (not this skill's domain, but affects site content).
 
 ---
 

@@ -8,6 +8,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
 |--------------|-----------------|-----------------|----------------|-----------------|
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 |
 | 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 |
 | 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 |
 | 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 |
@@ -55,7 +56,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Claude Code Sub-Agent — Café Athena Chef
 
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
-**Current Version:** 1.5  
+**Current Version:** 1.6  
 **Status:** Canonical master — update this first.
 
 | Version | Date | Changes |
@@ -66,6 +67,17 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v1.3 | 2026-04-16 | Master audit pass. Added anti-sycophancy and uncertainty acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to UNIVERSAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added REFERENCE IMAGE SHORTCODE spec to CORE CONSTRAINTS (was CD-only). Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.4 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
 | v1.5 | 2026-04-23 | Lowered Keywords minimum from 10 to 8 (Mode 2 step 1 and RECIPE STRUCTURE item 8). Clarified Category format split: recipe folios use `cuisine: X \| style: Y`; technique folios use `style: Technique Folio` only (no cuisine). Aligns with `Guidance/Recipe-Format-Standard.md` update and `scripts/audit.py` rule changes in same release. |
+| v1.6 | 2026-04-26 | BUILT-IN WORKFLOWS section now lists `/register-recipe` and `/sync-registry` (previously omitted). Closes drift between canonical master and the `.agents/workflows/` directory. Workflow definitions themselves were already present — this fix surfaces them in the agent's documented capability set. |
+
+### Companion workflow updates (`.agents/workflows/`)
+
+These workflow files do not carry independent version numbers, but were updated alongside the v1.6 master:
+
+- `glossary-pull.md` — corrected stale glossary heading reference (`### **Glossary**` → `## Glossary`); recipes use H2.
+- `new-recipe.md` — corrected glossary heading; added `recipes.json` registration check in Phase 1; added stage-flag updates (`formatAudit`, `keywordPull`, `glossaryPull`, `deployed`) at each phase boundary; replaced `git add -A` guidance with by-name staging; corrected keyword count to 8–15 with foundation-folio note.
+- `keyword-pull.md` — corrected keyword count to 8–15 (was 10–15) with foundation-folio note, aligning with canonical master.
+- `format-audit.md` — same keyword-count correction for both Recipe and Technique Folio rule sets.
+- `recipe-hero-image.md` — fixed deploy-script path (`bash scripts/deploy.sh` → `bash site/scripts/deploy.sh`); replaced `git add -A` in Phase 5 cleanup with by-name staging and a no-`-A` invariant note.
 
 ---
 
@@ -105,6 +117,20 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | Version | Date | Changes |
 |---------|------|---------|
 | v1.0 | 2026-04-14 | Initial release. Full Astro/Tailwind site development skill for cookbook.kevinward.com. Covers stack reference (Astro 6, Tailwind v4, Pagefind, GSAP), project layout, critical constraints (heroImage filename-only format, no tailwind.config.js), four-stage workflow (assess → plan → implement → test → commit → deploy), FastComet rsync deploy via SSH alias, content schema, pending site work (Part IV/Expo, banner images, SectionLayout bannerImage prop), and pre-completion checklist. |
+| v1.1 | 2026-04-26 | Replaced `git add -A` in commit step with by-name staging, aligned with `CLAUDE.md` git-hygiene policy. Updated stale Ch. 12 entry count (10 → 20) in Pending Site Work. |
+
+---
+
+## VS Code Copilot Agent — Markdownlint QA
+
+**File:** `.github/agents/markdownlint-qa.agent.md`
+**Current Version:** 1.1
+**Status:** VS Code Copilot Chat only. Mirrors the Claude Code Markdownlint QA sub-agent.
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-04-14 | Initial release. Four-mode lint pipeline (Scan, Safe Fix, Deep Fix, Full Pipeline) for Copilot Chat surface. Mirrors the Claude Code sub-agent's pipeline behavior and authorization gates. |
+| v1.1 | 2026-04-26 | Added missing **Excluded scopes** safety table (`Guidance/`, `.claude/`, `.agents/`, `.github/`, `Claude-Desktop/`, `node_modules/`) — closes parity gap with the Claude Code sub-agent. Without this table, the Copilot agent could lint-repair curated instruction files and corrupt agent behavior. |
 
 ---
 

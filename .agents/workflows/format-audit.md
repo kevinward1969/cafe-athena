@@ -18,12 +18,12 @@ description: Audits recipes and technique folios for formatting and structural a
    - **Mise En Place vs. Method Violations:** No cooking steps (applying heat) in Mise. Relocate any found to Method.
    - **Typographical Checks:** Title Block format, proper fractions (⅔ not 2/3), dual temperatures (°F/°C), descriptive component headers, bolding.
    - **Content Completeness:** Sensory cues in Method steps, Yield/Timing data in Title Block.
-   - **Keywords (non-blocking):** `## Keywords` exists with 10–15 lowercase comma-separated terms.
+   - **Keywords (non-blocking):** `## Keywords` exists with 8–15 lowercase comma-separated terms (full recipe folios typically land 10–15; foundation folios 8–12).
    - **Category (non-blocking):** `## Category` exists with valid `cuisine:` and `style:` fields.
 
    **For Technique Folios** (Chapters 1 & 2 are entirely folios; individual folios may appear in other chapters), check ONLY:
    - **Glossary:** `## Glossary` present and covers all technical terms used in the body.
-   - **Keywords:** `## Keywords` present with 10–15 **lowercase** comma-separated terms. Title Case keywords are a violation.
+   - **Keywords:** `## Keywords` present with 8–15 **lowercase** comma-separated terms (technique folios typically 8–12). Title Case keywords are a violation.
    - **Category:** `## Category` present and set to exactly `cuisine: Global | style: Technique Folio`.
    - **Temperatures:** Dual format `°F/°C` used throughout.
    - **No citation markers:** No `[source]`, `[1]`, or similar.

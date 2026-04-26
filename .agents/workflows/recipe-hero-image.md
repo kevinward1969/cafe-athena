@@ -198,7 +198,7 @@ Run it passing all target PNG paths as arguments.
 
 Display the optimization results table and total savings reported by the script.
 
-Note to user: *"WebP files are now in the chapter folders. The deploy script will pick them up automatically on the next run of `bash scripts/deploy.sh`."*
+Note to user: *"WebP files are now in the chapter folders. The deploy script will pick them up automatically on the next run of `bash site/scripts/deploy.sh`."*
 
 ---
 
@@ -217,10 +217,13 @@ Confirm: *"Chapter folder cleanup complete. WebP source files removed from `The 
 Commit the deletions:
 
 ```bash
-git add -A
+# Stage only the deleted WebP files in the chapter folder (not -A — avoids capturing unintended files)
+git add "The Manual/Chapter {N} - {chapterName}/{index}.webp"
 git commit -m "chore: remove processed WebP images from Chapter {N} manual folder"
 git push
 ```
+
+For multiple deletions in the same chapter, repeat `git add` per file or use a narrowly-scoped pattern (e.g., `git add "The Manual/Chapter {N} - {chapterName}/*.webp"`). Never `git add -A` in this workflow.
 
 ---
 
