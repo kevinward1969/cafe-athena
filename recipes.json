@@ -3384,6 +3384,31 @@
       },
       "heroImage": true,
       "heroImageOptimized": true
+    },
+    {
+      "id": "12-20",
+      "title": "Confit Tomatoes & Herb-Infused Oil",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-04-26",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-04-26",
+        "status": "clean",
+        "issues": []
+      },
+      "heroImage": true,
+      "heroImageOptimized": true
     }
   ]
 }

@@ -10,6 +10,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Hondashi: Commercial instant dashi powder (Ajinomoto brand); a convenient shortcut for dashi production. Functional for casual applications; lacks the layered depth and clarity of scratch dashi.
 - Honeycomb: The aerated, custardy internal structure of a perfectly baked canelé.
 - Honing: The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
+- High-Peak Infusion: A short-duration, high-temperature extraction method that drives volatile aromatics out of woody herbs in seconds rather than minutes, then uses carry-over heat during cool-down to finish the extraction.
 - Hooch: A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.
 - Hybrid Leavening: The concurrent use of wild yeast (sourdough) and commercial yeast to balance deep fermentation flavor with rise reliability.
 - Hydration: The ratio of water to flour by weight. 85% hydration means 850g water for every 1000g flour.

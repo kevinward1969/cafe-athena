@@ -37,7 +37,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Colloidal Suspension: A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 - Competitive Exclusion: A biological phenomenon where one microorganism inhibits the growth of another by occupying a resource.
 - Compound Butter (Beurre Composé): Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
-- Concasse: A technique for preparing tomatoes: peeling, seeding, and dicing them.
+- Concassé: A French preparation for tomatoes — peeling (typically via brief blanch and ice-bath shock), seeding, and dicing.
 - Condiments: Food products with a high acidity or salt content, suitable for storage in the refrigerator's warmest zone.
 - Conduction: The transfer of thermal energy through direct contact, a key mechanism in the heating process for stock extraction.
 - Conductivity: Materials like stainless steel and glass are valued for their ability to rapidly transfer heat, crucial for precise temperature control in applications like custard cooling.

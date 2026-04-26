@@ -104,7 +104,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Colloidal Suspension: A mixture with microscopic particles dispersed through another substance; in chili, this refers to the emulsion of fat, water, and solids.
 - Competitive Exclusion: A biological phenomenon where one microorganism inhibits the growth of another by occupying a resource.
 - Compound Butter (Beurre Composé): Softened or melted butter blended with flavorings, then re-solidified for use as a finishing element.
-- Concasse: A technique for preparing tomatoes: peeling, seeding, and dicing them.
+- Concassé: A French preparation for tomatoes — peeling (typically via brief blanch and ice-bath shock), seeding, and dicing.
 - Condiments: Food products with a high acidity or salt content, suitable for storage in the refrigerator's warmest zone.
 - Conduction: The transfer of thermal energy through direct contact, a key mechanism in the heating process for stock extraction.
 - Conductivity: Materials like stainless steel and glass are valued for their ability to rapidly transfer heat, crucial for precise temperature control in applications like custard cooling.
@@ -217,6 +217,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Hondashi: Commercial instant dashi powder (Ajinomoto brand); a convenient shortcut for dashi production. Functional for casual applications; lacks the layered depth and clarity of scratch dashi.
 - Honeycomb: The aerated, custardy internal structure of a perfectly baked canelé.
 - Honing: The realignment of a knife’s edge through repeated, angled swipes against a honing rod.
+- High-Peak Infusion: A short-duration, high-temperature extraction method that drives volatile aromatics out of woody herbs in seconds rather than minutes, then uses carry-over heat during cool-down to finish the extraction.
 - Hooch: A viscous, alcohol-rich liquid byproduct of fermentation, indicating a depleted starter colony.
 - Hybrid Leavening: The concurrent use of wild yeast (sourdough) and commercial yeast to balance deep fermentation flavor with rise reliability.
 - Hydration: The ratio of water to flour by weight. 85% hydration means 850g water for every 1000g flour.
@@ -230,6 +231,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## I
 
 - Infuse: To steep a flavor ingredient, such as saffron threads, in a liquid (stock) to extract its essence and impart its color and aroma.
+- Infusion: The extraction of flavor, color, or chemical compounds from plant material into a solvent such as oil or water.
 - Inoculation: The introduction of bacteria (the starter) into a medium (the cream) to begin fermentation.
 - Inverse Square Law: A principle stating that the intensity of radiation decreases proportionally to the square of the distance from the source.
 - Ionic Gelation: A food-stabilization technique utilizing divalent cations, primarily calcium ions, to cross-link alginate chains, forming a semi-solid gel.
