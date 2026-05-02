@@ -1,0 +1,176 @@
+# **Café Athena — Emulsion Sauces of the Mediterranean**
+
+Four sauces unified by the science of emulsification — from the egg-lemon tempering of the Greek table to the garlic-driven alchemy of Lebanese toum.
+
+**Yield:** ~250–500ml per sauce | **Prep:** 15–30 min per sauce | **Cook:** 15 min (Avgolemono only) | **Total:** ~30–45 min
+
+## Headnote
+
+Emulsification is the art of convincing fat and water to coexist. Across the Mediterranean, cooks have solved this problem four different ways — with egg yolk, with potato starch, with garlic protein, and with a tempered egg-lemon bond built over heat. These sauces share a regional DNA: olive oil, lemon, garlic, salt. What separates them is the emulsifier and the technique. **Teaching Idea: The Emulsifier's Role.** Every stable emulsion requires a molecule simultaneously attracted to both fat and water — a surfactant. Egg yolk lecithin is the most familiar, but starch granules, garlic proteins, and even casein in dairy can perform the same function. Understanding what is doing the binding tells you exactly how far you can push the sauce before it breaks.
+
+## Mise en Place
+
+- Bring egg yolks to room temperature before starting Aioli or Avgolemono
+- Boil and rice the potato for Skordalia while prepping other components — it must be used warm
+- Peel and roughly chop garlic for all four sauces; measure per recipe
+- Have Fond Blanc (10-01) hot but not boiling before beginning Avgolemono
+- Chill the food processor bowl and blade before making Toum — cold equipment slows fat separation
+
+## The Sauces
+
+---
+
+### Avgolemono
+*Greece — tempered egg-lemon emulsion*
+
+A silky hot sauce built on clean chicken stock. Served warm spooned over stuffed dolma (08-08) or allowed to cool to room temperature as a finishing drizzle over grain dishes and roasted vegetables. See Fond Blanc (10-01) for the recommended stock base.
+
+**Yield:** ~500ml
+
+**Ingredients**
+
+**The Emulsion Base**
+- 2 large egg yolks, room temperature
+- 1 large whole egg, room temperature
+- 30ml (2 tbsp) fresh lemon juice
+
+**The Stock**
+- 500ml (2 cups) Fond Blanc (10-01), hot
+- 2g (½ tsp) Diamond Crystal kosher salt
+
+**To Finish**
+- Fresh lemon juice, to taste
+- White pepper, to taste
+
+**Method**
+
+1. **Build the Base:** Whisk egg yolks, whole egg, and lemon juice in a heatproof bowl until pale and slightly frothy, about 90 seconds. The mixture should ribbon lightly off the whisk.
+
+2. **Temper:** Hold Fond Blanc just below a simmer (~170°F/77°C). Ladle one spoonful into the egg mixture while whisking constantly. Add two more ladles, one at a time. **Sensory Cue:** The bowl should feel warm, not hot. Aggressive steam means your stock is too hot — pull it off heat before continuing.
+
+3. **Combine:** Pour the tempered mixture back into the pot in a slow, steady stream, whisking constantly. Hold over low heat, stirring, until the sauce lightly coats the back of a spoon — 3–5 minutes. Do not boil.
+
+4. **Finish:** Season with salt and white pepper. Add additional lemon juice in 5ml increments for a brighter profile.
+
+**Chef's Note:** If small curds appear, strain immediately through a fine-mesh sieve. Flavor remains intact; texture is lost. Keep finished sauce below 180°F/82°C at all times.
+
+---
+
+### Aioli
+*Provence / Spain — egg yolk mechanical emulsion*
+
+The cold counterpart to hollandaise (10-08) — same lecithin chemistry, no heat required. Pure, assertive garlic flavor with a rich, glossy body. See Master Mayonnaise (10-09) for the foundational technique this sauce shares.
+
+**Yield:** ~250ml
+
+**Ingredients**
+
+**The Emulsion Base**
+- 2 large egg yolks, room temperature
+- 3–4 cloves garlic, minced to a paste with a pinch of salt
+- 15ml (1 tbsp) fresh lemon juice
+- 5ml (1 tsp) Dijon mustard
+
+**The Oil**
+- 200ml (¾ cup + 1 tbsp) extra virgin olive oil
+
+**To Finish**
+- 2g (½ tsp) Diamond Crystal kosher salt
+- Cold water, as needed to adjust consistency
+
+**Method**
+
+1. **Build the Base:** Whisk egg yolks, garlic paste, lemon juice, and mustard together until fully combined and slightly thickened.
+
+2. **Emulsify:** Begin adding olive oil drop by drop while whisking constantly. Once the mixture visibly thickens and whitens — after roughly 30ml of oil — increase to a thin, steady stream. **Sensory Cue:** The sauce should look glossy and hold its shape when the whisk is lifted. If it looks greasy or oily, fat was added too fast — see Chef's Note.
+
+3. **Adjust:** Season with salt. Add cold water 5ml at a time to loosen to a spoonable consistency if needed.
+
+**Chef's Note:** If the aioli breaks, start fresh with one egg yolk in a clean bowl and whisk the broken sauce into it drop by drop — it will re-emulsify. The Dijon mustard is a stabilizer; omit only if absolute classical purity is the goal, accepting reduced stability.
+
+---
+
+### Skordalia
+*Greece — potato starch emulsion*
+
+A thick, aggressively garlicky sauce where boiled potato replaces egg yolk as the emulsifier. Dense and deeply satisfying alongside fried fish, roasted beets, or grilled flatbread.
+
+**Yield:** ~400ml
+
+**Ingredients**
+
+**The Starch Base**
+- 300g (~2 medium) starchy potatoes (Russet or Yukon Gold), peeled and boiled
+- 4–5 cloves garlic, minced to a paste with a pinch of salt
+- 30ml (2 tbsp) fresh lemon juice
+
+**The Oil**
+- 120ml (½ cup) extra virgin olive oil
+
+**To Finish**
+- 60ml (¼ cup) warm water, as needed
+- 4g (1 tsp) Diamond Crystal kosher salt
+- White pepper, to taste
+
+**Method**
+
+1. **Rice the Potato:** Pass the hot boiled potato through a ricer or food mill into a bowl. Do not use a food processor — overworking releases excess starch, producing a gluey texture. **Sensory Cue:** The riced potato should look dry and fluffy, not wet or compacted.
+
+2. **Build the Emulsion:** Add garlic paste and lemon juice to the warm potato. Stir to combine. Add olive oil in a slow, steady stream while stirring vigorously with a wooden spoon — the starch granules will absorb the fat progressively.
+
+3. **Adjust:** Add warm water as needed to reach a thick, spoonable consistency. Season with salt and white pepper.
+
+**Chef's Note:** The potato must be warm when you begin — cold starch granules will not absorb oil effectively and the sauce will feel greasy rather than emulsified. Work quickly after ricing.
+
+---
+
+### Toum
+*Lebanon — garlic protein emulsion*
+
+The only egg-free sauce in this collection. Toum achieves a stable, cloud-white emulsion through garlic's own proteins and fiber — no lecithin required. Intensely garlicky, light as whipped cream, and structurally unlike anything else in this chapter.
+
+**Yield:** ~400ml
+
+**Ingredients**
+
+**The Garlic Base**
+- 100g (about 1 full head) garlic cloves, peeled
+- 5g (1¼ tsp) Diamond Crystal kosher salt
+- 30ml (2 tbsp) fresh lemon juice, divided
+
+**The Emulsion**
+- 240ml (1 cup) neutral oil (grapeseed or sunflower — not olive oil)
+- 30ml (2 tbsp) ice water, divided
+
+**Method**
+
+1. **Process the Garlic:** Place garlic and salt in a food processor. Process until finely minced, scraping down sides frequently. The paste should be uniform with no large chunks remaining.
+
+2. **Begin Emulsifying:** With the processor running, add 15ml lemon juice. Begin adding oil in a very thin stream — almost drops at first. Alternate: a thin stream of oil, then a splash of ice water, then oil again. **Sensory Cue:** The mixture should turn white and begin to thicken visibly within the first 60ml of oil. If it stays translucent and oily, fat is being added too fast.
+
+3. **Build the Volume:** Continue alternating oil and ice water until all oil is incorporated and the toum is thick, white, and holds a peak like soft whipped cream.
+
+4. **Finish:** Add remaining lemon juice, taste for salt, and adjust.
+
+**Chef's Note:** Olive oil will cause Toum to turn bitter — polyphenols in extra virgin olive oil react with garlic's sulfur compounds under mechanical shear. Use neutral oil exclusively. Cold equipment and ice water are not optional — heat accelerates fat coalescence and breaks the emulsion.
+
+---
+
+## Glossary
+
+- Emulsification: The process of combining two immiscible liquids — typically fat and water — into a stable, homogenous mixture using a surfactant or emulsifier.
+- Lecithin: A phospholipid found in egg yolk that acts as a natural surfactant, stabilizing fat-in-water emulsions.
+- Tempering: The gradual introduction of a hot liquid into eggs to raise their temperature slowly, building viscosity without triggering coagulation.
+- Nappé: The consistency at which a sauce coats the back of a spoon and a clean line holds when drawn through it.
+- Surfactant: A molecule with both hydrophilic and lipophilic ends, enabling it to stabilize an emulsion.
+- Fond Blanc: A clean, neutral white chicken stock — the recommended base for Avgolemono. See 10-01.
+- Ricing: Passing cooked potato through a fine-die press to produce dry, fluffy granules without activating excess starch.
+- Coalescence: The merging of dispersed fat droplets in an emulsion — the mechanism by which an emulsion breaks.
+
+## Keywords
+
+emulsification, Mediterranean, aioli, skordalia, toum, avgolemono, egg yolk, garlic, olive oil, lemon, potato starch, tempering, lecithin, Greek, Lebanese, Provençal, cold sauce, hot sauce
+
+## Category
+
+cuisine: Mediterranean | style: Classical

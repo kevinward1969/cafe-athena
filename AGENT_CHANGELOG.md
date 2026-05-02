@@ -78,6 +78,9 @@ These workflow files do not carry independent version numbers, but were updated 
 - `keyword-pull.md` — corrected keyword count to 8–15 (was 10–15) with foundation-folio note, aligning with canonical master.
 - `format-audit.md` — same keyword-count correction for both Recipe and Technique Folio rule sets.
 - `recipe-hero-image.md` — fixed deploy-script path (`bash scripts/deploy.sh` → `bash site/scripts/deploy.sh`); replaced `git add -A` in Phase 5 cleanup with by-name staging and a no-`-A` invariant note.
+- `register-recipe.md` (2026-05-01) — Phase 5 now appends the new entry to `The Manual/Cafe-Athena-The-Manual-Current-Version.md` (the human-facing TOC) immediately after writing to `recipes.json`. Closes a process gap where 8 folios (01-22, 01-23, 05-03, 10-24, 12-17 through 12-20) had drifted out of the TOC over ~3 weeks.
+- `sync-registry.md` (2026-05-01) — Phase 1 now also reads the Current-Version doc into a doc set; Phase 3 adds **Doc drift** detection (registered indices not present in the TOC); Phase 5 appends drifted/missing entries to the TOC, preserving each chapter's existing list-style convention. `_` and `.` are normalized as equivalent variant separators (registry uses `07-10_2`; doc uses `07-10.2`).
+- `format-audit.md` and `keyword-pull.md` (2026-05-02) — Keyword count rule extended to allow **8–20 terms for collection folios** (multi-recipe bundles like 10-23 Asian Dipping Sauces, 10-25 Emulsion Sauces of the Mediterranean, 12-08 Gnocchi 201). Single-recipe folios stay at 8–15. Surfaced when 10-25 (4 sauces, 3 cuisines) legitimately required 18 terms — every term load-bearing for distinct sub-recipe / sub-cuisine / sub-mechanism. `Guidance/Recipe-Format-Standard.md` Section 8 carries the canonical rule.
 
 ---
 

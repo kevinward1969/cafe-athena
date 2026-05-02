@@ -198,9 +198,9 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 **Purpose:** Powers site search and recipe discovery
 
-**Format:** `## Keywords` heading followed by a single comma-separated line of 8–15 terms
+**Format:** `## Keywords` heading followed by a single comma-separated line of 8–15 terms (8–20 for collection folios — see note below)
 
-**Note:** The minimum is 8 to accommodate foundation and technique folios, which have less surface area than full recipes. Full recipe folios typically land in the 10–15 range; simpler foundation variants and technique folios may use 8–12. Quality over padding — do not pad with weak terms to hit a higher count.
+**Note:** The minimum is 8 to accommodate foundation and technique folios, which have less surface area than full recipes. Full recipe folios typically land in the 10–15 range; simpler foundation variants and technique folios may use 8–12. **Collection folios** that bundle multiple distinct sub-recipes under one umbrella (e.g., 10-23 Asian Dipping Sauce Collection, 10-25 Emulsion Sauces of the Mediterranean, 12-08 Gnocchi 201) may extend to **8–20 terms** to capture each sub-recipe's name, distinct cuisine, and distinct mechanism without losing search recall. Quality over padding — do not pad with weak terms to hit a higher count.
 
 **Categories to cover:**
 

@@ -71,8 +71,14 @@ Ask: *"Register this entry?"*
 2. Append the new entry to the `recipes` array.
 3. Re-sort the array by `id` ascending to maintain order.
 4. Write the updated file using the Write tool.
-5. Confirm: *"`{index} — {title}` registered in recipes.json."*
-6. Output the next suggested actions:
+5. **Append to `The Manual/Cafe-Athena-The-Manual-Current-Version.md`** (the human-facing TOC):
+   - Locate the `## CHAPTER {chapter}: ...` heading for this entry's chapter.
+   - Find the last folio line in that chapter (lines beginning with `* ` or `- ` and a `XX-YY` index).
+   - Insert a new line **immediately after** the last folio line, **matching that chapter's existing list style** (preserve `*` vs `-` and the `\-` vs `-` separator used in adjacent lines).
+   - Format the entry as: `{bullet} {index} {prefix} {title}` — where `{prefix}` is `Technique Folio \-` for technique entries and `Café Athena \-` for recipes (or unescaped `-` if the chapter's existing entries use unescaped dashes).
+   - Do not reformat or normalize other lines in the doc — append-only.
+6. Confirm: *"`{index} — {title}` registered in recipes.json and appended to Current-Version doc."*
+7. Output the next suggested actions:
    > **Next steps for `{index}`:**
    > - Run `/format-audit {index}` to validate structure
    > - Run `/keyword-pull {index}` if Keywords/Category sections are missing

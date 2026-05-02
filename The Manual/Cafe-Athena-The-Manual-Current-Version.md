@@ -39,6 +39,8 @@
 * 01-19 Technique Folio \- Global Sourdough Taxonomies
 * 01-20 Technique Folio \- Hydro-Thermal Stabilization (Blanch & Press)
 * 01-21 Technique Folio \- Lacto-Fermentation (The Science of Biological Acidification)
+* 01-22 Technique Folio \- Oil Clarification & Life Extension
+* 01-23 Technique Folio \- Lipid-Based Extraction & Oil Infusion
 
 ## CHAPTER 2: THE FOUNDATION
 
@@ -90,6 +92,7 @@
 
 * 05-01 Café Athena \- Pan-Seared Scallops with Pea Fluid Gel  
 * 05-02 Café Athena \- Miso-Cured Black Cod (Saikyo Yaki)
+* 05-03 Café Athena \- Unilateral Seared Bass with Miso-Noisette
 
 ## CHAPTER 6: THE POULTERER
 
@@ -182,6 +185,8 @@
 * 10-21 Café Athena \- Lemon Cream & Parmigiano Sauce
 * 10-22 Café Athena \- Beurre Noisette (The Toasted Butter)
 * 10-23 Café Athena \- The Asian Dipping Sauce Collection
+* 10-24 Café Athena \- Japanese Dipping Sauces
+* 10-25 Café Athena \- Emulsion Sauces of the Mediterranean
 
 ## CHAPTER 11: SPICE BLENDS & OILS
 
@@ -210,6 +215,10 @@
 * 12-14 Café Athena \- The Composite Creams
 * 12-15 Café Athena \- Frico Laminé (Baked Cheese Tiles & Vessels)
 * 12-16 Café Athena \- Sesame Tuile Cylinders (Noir & Orange)
+* 12-17 Café Athena \- Non-Fish Caviar (Seeds & Spheres)
+* 12-18 Café Athena \- Frying with Dustings, and Dredges, and Crusts (Oh My)
+* 12-19 Café Athena \- Panés, Batters, and the Architecture of a Shatter
+* 12-20 Café Athena \- Confit Tomatoes & Herb-Infused Oil
 
 # REFERENCE
 
