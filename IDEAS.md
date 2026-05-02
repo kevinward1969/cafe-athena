@@ -10,7 +10,7 @@ Low-priority tracking for future work. Not active development — drop ideas her
 
 Future recipes across any chapter. Note intended chapter if known.
 
-- *(none yet)*
+- **Ch. 10 — Sauce Avgolemono** — Greek egg-lemon sauce; natural companion/finishing sauce for the Quintessential Dolma Guide (08-XX). Emulsification-forward, bright acidity. Would pair with the Greek variant. *(2026-05-01)*
 
 ---
 
@@ -18,7 +18,7 @@ Future recipes across any chapter. Note intended chapter if known.
 
 Future technique folios (Ch. 1 — The Lab, Ch. 2 — The Foundation, or folio-style entries elsewhere).
 
-- ~~**Ch. 12 — The Frying Coating Spectrum**~~ — **Promoted 2026-04-23**: split into two folios (12-18 The Dredge Spectrum, 12-19 Breadings & Batters) — see `PROJECT_STATUS.md`.
+- **~~Ch. 12 — The Frying Coating Spectrum~~** — **Promoted 2026-04-23**: split into two folios (12-18 The Dredge Spectrum, 12-19 Breadings & Batters) — see `PROJECT_STATUS.md`.
 
 ---
 
@@ -35,6 +35,7 @@ Techniques, science questions, equipment tests, or method comparisons worth expl
 Ideas for Part IV (Planning, Plating, Service) or other editorial content — essays, sidebars, cross-references, introductions, manifestos.
 
 - **Part IV: The Expo (Ch. 13–15)** — narrative capstone of The Manual and a dedicated site section. Content is editorial/instructional, not recipe folios. Scope:
+
   - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
   - **Ch. 14 — Plating**: Composition, visual language, the architecture of the plate
   - **Ch. 15 — Service**: The handoff, hospitality, reading the room, pacing
@@ -48,11 +49,3 @@ Ideas for Part IV (Planning, Plating, Service) or other editorial content — es
 Improvements to the site, agents, scripts, or workflows that aren't urgent.
 
 - **Food Critic / Food Writer Agent** — new Claude Code agent for creative and marketing copy: editorial, journalistic, blog posts, social media. Separate surface from the Chef agent. *(2026-04-22)*
-
----
-
-## 🗒 User Notes
-
-Kevin's notes, observations, or reference material that don't fit elsewhere.
-
-- *(none yet)*

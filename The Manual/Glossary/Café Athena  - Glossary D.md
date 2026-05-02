@@ -27,6 +27,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dissolution: The complete dispersal of a solid substance (such as sugar) into a liquid, forming a homogeneous mixture.
 - Dissolve: The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
 - Doenjang: Korean fermented soybean paste. Pungent, deeply savory, and more aggressive than Japanese miso. Used as an accent ingredient — a small amount adds significant depth.
+- Dolmades: The Greek term for stuffed grape leaves. From the Turkish *dolma*, meaning "stuffed thing."
 - Doneness: The state of cooked food, specifically referring to the internal temperature and texture of the meat.
 - DOP: _Denominazione di Origine Protetta._ Certification guaranteeing the tomatoes are true San Marzanos.
 - Dough: A mixture of flour, water, and other ingredients that has been mixed and kneaded, forming a pliable mass ready for baking.

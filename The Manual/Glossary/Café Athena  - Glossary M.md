@@ -16,6 +16,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Mechanical Energy: Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
 - Mechanical Leverage: A forged knife blade provides greater force and reduces strain on the chef’s wrist compared to a stamped blade.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
+- Meze: A selection of small dishes served as appetizers or a light meal across Mediterranean and Middle Eastern cuisines. The traditional context for dolmas.
 - Microbial Load: The total quantity of microorganisms present in a culture or environment, crucial for initiating and sustaining fermentation.
 - Microbial: Relating to or consisting of microorganisms, specifically referring to the bacteria and yeasts involved in sourdough fermentation.
 - Microplane: A fine rasp-style grater used to remove only the outermost, oil-rich layer of citrus peel without reaching the bitter white pith beneath. The brand name has become a generic term for this tool.

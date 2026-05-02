@@ -1,25 +1,37 @@
 # CAFÉ ATHENA THE MANUAL
-
 ## (CURRENT VERSION)
 
 # PART I: THE ACADEMY (TECHNIQUE & THEORY)
 
 ## CHAPTER 1: THE LAB (TECHNIQUE FOLIOS)
 
-* 01-01 Technique Folio \- Thermodynamics & Heat Control  
-* 01-02 Technique Folio \- Salinity & Equilibrium  
-* 01-03 Technique Folio \- Baker’s Percentages & Hydration (The Ratio)  
-* 01-04 Technique Folio \- Emulsions & Hydrocolloids (The Bond)  
-* 01-05 Technique Folio \- The Science of Mantecatura (Emulsification)  
-* 01-06 Technique Folio \- Sodium Citrate (The Melting Salt)  
-* 01-07 Technique Folio \- Spherification (Ionic Gelation)  
-* 01-08 Technique Folio \- Starch Dextrinization (The "Risotto" Method)  
-* 01-09 Technique Folio \- Sugar Dissolution & The "Papery Crust" (the modern brownie)  
-* 01-10 Technique Folio \- The Architecture of Bread  
-* 01-11 Technique Folio \- Vacuum Compression & Cellular Integrity  
-* 01-12 Technique Folio \- Fluid Gels  
-* 01-13 Technique Folio \- Thermal Gradient Control (The Reverse Sear)  
-* 01-14 Technique Folio \- Collagen Hydrolysis & Extraction  
+- 01-01 Technique Folio - Thermodynamics & Heat Control
+
+- 01-02 Technique Folio - Salinity & Equilibrium
+
+- 01-03 Technique Folio - Baker’s Percentages & Hydration (The Ratio)
+
+- 01-04 Technique Folio - Emulsions & Hydrocolloids (The Bond)
+
+- 01-05 Technique Folio - The Science of Mantecatura (Emulsification)
+
+- 01-06 Technique Folio - Sodium Citrate (The Melting Salt)
+
+- 01-07 Technique Folio - Spherification (Ionic Gelation)
+
+- 01-08 Technique Folio - Starch Dextrinization (The "Risotto" Method)
+
+- 01-09 Technique Folio - Sugar Dissolution & The "Papery Crust" (the modern brownie)
+
+- 01-10 Technique Folio - The Architecture of Bread
+
+- 01-11 Technique Folio - Vacuum Compression & Cellular Integrity
+
+- 01-12 Technique Folio - Fluid Gels
+
+- 01-13 Technique Folio - Thermal Gradient Control (The Reverse Sear)
+
+- 01-14 Technique Folio - Collagen Hydrolysis & Extraction
 * 01-15 Technique Folio \- Microbial Fermentation (Kefir)  
 * 01-16 Technique Folio \- Microbial Substrate Adaptation (Dormant Cultures Sourdough)  
 * 01-17 Technique Folio \- Spontaneous Fermentation (Wild Capture Sourdough Starter)  
@@ -92,35 +104,56 @@
 
 * 07-01 Café Athena \- Ribeye with Bone Marrow & Herb Baste  
 * 07-02 Café Athena \- Braised "Boursin & Bacon" Meatball Subs  
-* 07-03 Café Athena \- K.W. Signature Smoked Pork Steaks  
-* 07-04 Café Athena \- Beef Bourguignon (The Elevated Short Rib Braise)  
-* 07-05 Café Athena \- Oxtail Bourguignon  
-* 07-06 Café Athena \- Steak au Poivre (Bistro Style)  
-* 07-07 Café Athena \- Skirt Steak Bordelaise  
-* 07-08 Café Athena \- Braised Beef Stroganoff  
-* 07-09 Café Athena \- MasterClass Beef Bourguignon  
-* 07-10 Café Athena \- "The Competition Red" Texas-Style Chili  
-* 07-10.2 Café Athena – "The Competition Red" Texas-Style Chili
-* 07-11 Café Athena \- Pressure-Braised Chuck Roast (The Competition Pot Roast)
-* 07-12 Café Athena \- Dehydrator Bacon (Four Ways)
-* 07-13 Café Athena \- Individual Beef Wellington
+- 07-03 Café Athena - K.W. Signature Smoked Pork Steaks
+
+- 07-04 Café Athena - Beef Bourguignon (The Elevated Short Rib Braise)
+
+- 07-05 Café Athena - Oxtail Bourguignon
+
+- 07-06 Café Athena - Steak au Poivre (Bistro Style)
+
+- 07-07 Café Athena - Skirt Steak Bordelaise
+
+- 07-08 Café Athena - Braised Beef Stroganoff
+
+- 07-09 Café Athena - MasterClass Beef Bourguignon
+
+- 07-10 Café Athena - "The Competition Red" Texas-Style Chili
+
+- 07-10.2 Café Athena – "The Competition Red" Texas-Style Chili
+
+- 07-11 Café Athena - Pressure-Braised Chuck Roast (The Competition Pot Roast)
+
+- 07-12 Café Athena - Dehydrator Bacon (Four Ways)
+
+- 07-13 Café Athena - Individual Beef Wellington
 
 ## CHAPTER 8: THE FIELD
+- 08-01 Café Athena - King Trumpet "Scallops" & Celeriac Mousseline
+- 08-02 Café Athena - Roasted Spaghetti Squash "Pomodoro Rustico"
 
-* 08-01 Café Athena \- King Trumpet "Scallops" & Celeriac Mousseline  
-* 08-02 Café Athena \- Roasted Spaghetti Squash "Pomodoro Rustico"  
-* 08-03 Café Athena \- Velvet Root Vegetable Mash  
-* 08-04 Café Athena \- St. Louis Style Kisir (Red Hot Bulgur)  
-* 08-05 Café Athena \- Modern Tabbouleh (The Acid Cutter)  
-* 08-06 Café Athena \- Onion Potato Crisps
+- 08-03 Café Athena - Velvet Root Vegetable Mash
+
+- 08-04 Café Athena - St. Louis Style Kisir (Red Hot Bulgur)
+
+- 08-05 Café Athena - Modern Tabbouleh (The Acid Cutter)
+
+- 08-06 Café Athena - Onion Potato Crisps
+- 08-07 Café Athena - St. Louis "Riplet" Corn Ribs
+
+- 08-08 Café Athena - The Quintessential Dolma Guide
 
 ## CHAPTER 9: THE PÂTISSIER
 
-* 09-01 Café Athena \- Brown Butter & Miso-Caramel Truffle Brownies
-* 09-02 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies
-* 09-03 Café Athena \- Spicy Brown Butter & Lemon Cheesecake Cookies (v2)
-* 09-04 Café Athena \- Brandy-Infused Canelés de Bordeaux
-* 09-05 Café Athena \- Lemon Posset in Lemon Shells
+- 09-01 Café Athena - Brown Butter & Miso-Caramel Truffle Brownies
+
+- 09-02 Café Athena - Spicy Brown Butter & Lemon Cheesecake Cookies
+
+- 09-03 Café Athena - Spicy Brown Butter & Lemon Cheesecake Cookies (v2)
+
+- 09-04 Café Athena - Brandy-Infused Canelés de Bordeaux
+
+- 09-05 Café Athena - Lemon Posset in Lemon Shells
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 

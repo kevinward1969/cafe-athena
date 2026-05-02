@@ -145,6 +145,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dissolution: The complete dispersal of a solid substance (such as sugar) into a liquid, forming a homogeneous mixture.
 - Dissolve: The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
 - Doenjang: Korean fermented soybean paste. Pungent, deeply savory, and more aggressive than Japanese miso. Used as an accent ingredient — a small amount adds significant depth.
+- Dolmades: The Greek term for stuffed grape leaves. From the Turkish *dolma*, meaning "stuffed thing."
 - Doneness: The state of cooked food, specifically referring to the internal temperature and texture of the meat.
 - DOP: _Denominazione di Origine Protetta._ Certification guaranteeing the tomatoes are true San Marzanos.
 - Dough: A mixture of flour, water, and other ingredients that has been mixed and kneaded, forming a pliable mass ready for baking.
@@ -286,6 +287,7 @@ No glossary terms yet.
 - Mechanical Energy: Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
 - Mechanical Leverage: A forged knife blade provides greater force and reduces strain on the chef’s wrist compared to a stamped blade.
 - Mesophilic: Bacteria that thrive at moderate temperatures (20°C–45°C). These are the primary workers in cheese and buttermilk production.
+- Meze: A selection of small dishes served as appetizers or a light meal across Mediterranean and Middle Eastern cuisines. The traditional context for dolmas.
 - Microbial Load: The total quantity of microorganisms present in a culture or environment, crucial for initiating and sustaining fermentation.
 - Microbial: Relating to or consisting of microorganisms, specifically referring to the bacteria and yeasts involved in sourdough fermentation.
 - Microplane: A fine rasp-style grater used to remove only the outermost, oil-rich layer of citrus peel without reaching the bitter white pith beneath. The brand name has become a generic term for this tool.
@@ -523,4 +525,4 @@ No glossary terms yet.
 
 ## Z
 
-No glossary terms yet.
+- Zeytinyağlı: Turkish term for dishes cooked in and served with olive oil, typically at room temperature. Literally "with olive oil."
