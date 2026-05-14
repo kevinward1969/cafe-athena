@@ -1,0 +1,70 @@
+# Café Athena - Butter-Steamed Asparagus
+
+A vibrant, crisp-tender side dish utilizing a hybrid sauté-steam technique to preserve color and nutrient density.
+
+**Yield:** 4 servings | **Prep:** 10 min | **Cook:** 8 min | **Total:** 18 min
+
+## Headnote
+
+This preparation focuses on mechanical simplicity to highlight the natural sweetness of young asparagus. By starting the spears in a hot pan before covering them, we achieve a light char for flavor and a rapid steam for texture. The lemon finish is a chef's embellishment — bright acid cut against rich butter — that elevates the dish beyond a pure side and into something worth plating deliberately.
+
+**Teaching Idea: Hybrid Cooking.** Combining dry heat (sautéing) and moist heat (steaming) allows for the Maillard reaction to begin on the surface while ensuring the dense core of the spear is cooked through simultaneously.
+
+## Mise en Place (Action Checklist)
+
+* **Trim the Spears:** Snap or cut off the woody bottom ends of the asparagus.
+* **Size Consistency:** If spears vary significantly in thickness, peel the lower half of the thicker spears with a vegetable peeler so they cook at the same rate as the thin ones.
+* **Prepare the Lemon:** Zest the lemon directly over a small bowl, then cut in half for juicing.
+* **Preheat Pan:** Set a wide sauté pan over medium-high heat.
+
+## Ingredients
+
+**The Base**
+
+* 200 g (approx. 1 bunch) asparagus spears, trimmed
+* 15 ml (1 tbsp) extra virgin olive oil
+* 4 g (1 tsp) Diamond Crystal kosher salt
+* 1 g (¼ tsp) freshly cracked black pepper
+
+**The Finish**
+
+* 28 g (2 tbsp) unsalted butter
+* 1 lemon, juice and zest
+
+## Method
+
+**Phase 1: The Sauté**
+
+Add the olive oil to the preheated pan. Once shimmering, add the asparagus in a single layer. Season with salt and pepper. Sauté for **2 minutes**, tossing occasionally. **Sensory Cue:** Look for very light charring or blistering on the skin of the spears and a transition to a deep, vibrant green.
+
+**Phase 2: The Steam**
+
+Add 1 tablespoon of water to the pan and immediately cover with a tight-fitting lid. Reduce heat to medium and steam for **3–5 minutes**. **Sensory Cue:** Pull the lid when the spears are al dente — a paring knife should pierce the thickest part of the stem with only slight resistance. **Why:** The trapped steam transfers heat more efficiently than air, cooking the fibrous interior without burning the exterior.
+
+**Phase 3: The Glaze**
+
+Remove the lid and increase heat to medium-high to evaporate any remaining water. Add the butter. Swirl the pan constantly as the butter melts to coat the spears. **Why:** The residual moisture from the steam and the melting butter create a temporary emulsion that clings to the spears rather than pooling at the bottom.
+
+Remove from heat. Add the lemon zest and a squeeze of fresh lemon juice. Toss one final time and serve immediately.
+
+## Chef's Notes / Variations
+
+* **The Lemon:** The lemon juice and zest are a chef's addition beyond the base technique — not required, but highly recommended. The acid cuts the richness of the butter and brightens the dish considerably. If serving alongside a very rich sauce (as in 05-04 Brown Butter Confit Cod), consider omitting the lemon here since the broken cream sauce provides its own acidity.
+* **Thermal Carryover:** Asparagus is highly susceptible to carryover cooking. Always remove it from the pan when it is slightly firmer than your desired final result.
+* **Thickness Variable:** If using pencil-thin asparagus, skip the steaming phase entirely. A 3-minute high-heat sauté is sufficient to cook them through.
+* **Ice Bath (Prep Ahead):** If serving later, shock the steamed spears in ice water immediately after Phase 2, then perform Phase 3 just before service.
+
+## Glossary
+
+* **Al Dente:** "To the tooth"; describing food that is cooked to be firm to the bite.
+* **Carryover Cooking:** The phenomenon where food continues to cook after being removed from a heat source due to residual internal energy.
+* **Maillard Reaction:** A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor and color.
+* **Woody Ends:** The fibrous, lignified bottom portion of an asparagus spear that remains tough regardless of cooking time.
+
+## Keywords
+
+asparagus, side dish, vegetable, steaming, sauté, lemon, butter, spring, quick, al dente, hybrid cooking
+
+## Category
+
+cuisine: Global | style: Rustic | dietary: Vegetarian

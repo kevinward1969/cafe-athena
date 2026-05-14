@@ -93,6 +93,7 @@
 * 05-01 Café Athena \- Pan-Seared Scallops with Pea Fluid Gel  
 * 05-02 Café Athena \- Miso-Cured Black Cod (Saikyo Yaki)
 * 05-03 Café Athena \- Unilateral Seared Bass with Miso-Noisette
+* 05-04 Café Athena \- Brown Butter Confit Cod with Potato Seaweed Crumb
 
 ## CHAPTER 6: THE POULTERER
 
@@ -145,6 +146,7 @@
 - 08-07 Café Athena - St. Louis "Riplet" Corn Ribs
 
 - 08-08 Café Athena - The Quintessential Dolma Guide
+- 08-09 Café Athena - Butter-Steamed Asparagus
 
 ## CHAPTER 9: THE PÂTISSIER
 
@@ -219,6 +221,8 @@
 * 12-18 Café Athena \- Frying with Dustings, and Dredges, and Crusts (Oh My)
 * 12-19 Café Athena \- Panés, Batters, and the Architecture of a Shatter
 * 12-20 Café Athena \- Confit Tomatoes & Herb-Infused Oil
+* 12-21 Café Athena \- Basic B (Starch-Based Batter)
+* 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 
 # REFERENCE
 

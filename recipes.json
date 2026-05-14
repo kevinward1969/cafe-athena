@@ -1490,6 +1490,29 @@
       }
     },
     {
+      "id": "05-04",
+      "title": "Brown Butter Confit Cod with Potato Seaweed Crumb",
+      "chapter": 5,
+      "chapterName": "The Fishmonger",
+      "type": "recipe",
+      "added": "2026-05-14",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
       "id": "06-01",
       "title": "Italian Wedding Soup (Pollo Rustica)",
       "chapter": 6,
@@ -2155,6 +2178,29 @@
         "issues": [
           "keywords_count"
         ]
+      }
+    },
+    {
+      "id": "08-09",
+      "title": "Butter-Steamed Asparagus",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-05-14",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": false,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
       }
     },
     {

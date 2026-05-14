@@ -7,4 +7,5 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Nappe: A smooth, even coating of a sauce or dressing, often described as having a velvety texture.
 - Nappé: The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
 - Natural Release: A pressure cooking technique where the pressure is allowed to decrease slowly over time, minimizing starch foam formation.
+- Nori: Dried edible seaweed of Japanese origin. Used in sheet form for wrapping or, when blitzed to a fine powder, as an umami-rich seasoning or coating ingredient.
 - Nuoc Cham: Vietnamese dipping sauce built on fish sauce, acid, sugar, garlic, and chili. A table condiment as ubiquitous in Vietnam as soy sauce in Japan.
