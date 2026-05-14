@@ -3496,11 +3496,34 @@
         "formatAudit": false,
         "keywordPull": false,
         "glossaryPull": false,
-        "heroImage": false,
-        "heroImageOptimized": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
+      "id": "12-22",
+      "title": "Garlic Crisps (Fried Garnish)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "added": "2026-05-14",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": false,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
       },
       "audit": {
         "lastRun": null,
