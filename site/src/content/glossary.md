@@ -18,6 +18,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.
+- Agria: A variety of potato characterized by its high starch content and yellow flesh, ideal for frying and chips.
 - Airlock: A one-way valve fitted to a fermentation vessel that allows CO₂ to escape without admitting oxygen.
 - Al Dente: "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.
@@ -93,6 +94,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+- Clarified Butter: Butterfat that has been separated from the milk solids and water, allowing for higher-temperature cooking without burning.
 - CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Coagulation: The process of protein molecules clumping together, as seen in ricotta, contributing to the binding properties of the gnocchi dough.
 - Cognitive Load: The deliberate organization of a workstation minimizes the mental effort required for task execution by reducing the need for constant searching and retrieval.
@@ -283,6 +285,7 @@ No glossary terms yet.
 - Matsutake Shoyu: A specific type of soy sauce (typically with mushroom notes) used in the original Weissman method to enhance umami.
 - Mayonnaise: A stable emulsion of oil and egg yolk, used here as a base for the spicy component.
 - Meaty: A descriptor referring to the intensified flavor profile achieved through the concentration of savory compounds during the curing process.
+- Mechanical Dehydration: The physical process of removing water from a substance using pressure or centrifugal force rather than heat.
 - Mechanical Emulsification: High-speed shearing forces fat globules to disperse evenly into the protein structure, creating a creamy texture.
 - Mechanical Energy: Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
 - Mechanical Leverage: A forged knife blade provides greater force and reduces strain on the chef’s wrist compared to a stamped blade.
@@ -310,6 +313,7 @@ No glossary terms yet.
 - Nappe: A smooth, even coating of a sauce or dressing, often described as having a velvety texture.
 - Nappé: The consistency of a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it.
 - Natural Release: A pressure cooking technique where the pressure is allowed to decrease slowly over time, minimizing starch foam formation.
+- Nori: Dried edible seaweed of Japanese origin. Used in sheet form for wrapping or, when blitzed to a fine powder, as an umami-rich seasoning or coating ingredient.
 - Nuoc Cham: Vietnamese dipping sauce built on fish sauce, acid, sugar, garlic, and chili. A table condiment as ubiquitous in Vietnam as soy sauce in Japan.
 
 ## O
@@ -336,12 +340,13 @@ No glossary terms yet.
 - Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
 - Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
+- Pavé: From the French for "paved"; in culinary use, a technique of pressing a mixture into a mold, chilling until firm, then cutting into clean geometric shapes.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 - Pearl Onions: Small, tightly clustered onions, often peeled and blanched before cooking, providing a delicate sweetness and texture.
 - Pearlescent: Describing the appearance of the cooked fish's interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
 - Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
-- Pellicle: A tacky surface layer formed on meat by air-drying. It acts as a "sticky surface" for smoke particles to adhere to; also the thin, papery skin surrounding a nut.
+- Pellicle: A tacky surface layer formed on protein through air-drying or brining. In smoking, it acts as a sticky surface for smoke particles to adhere to; in confit, the pellicle formed during a cold rest after brining aids in even heat transfer and fat adhesion during poaching.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
 - pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
@@ -464,6 +469,7 @@ No glossary terms yet.
 - Tajín: A Mexican seasoning blend consisting primarily of mild chili peppers, dehydrated lime, and sea salt. Used for bright acidity and gentle heat, most famously on fresh fruit, corn, and vegetables.
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
+- Tapioca Starch: A gluten-free starch extracted from the cassava root, used as a binding agent and to create a clear, snapping set in fried preparations.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
 - Tempering: The technique of gradually raising the temperature of a cold ingredient (like eggs) by mixing in hot liquid before adding it to a hot dish.
 - Tempura: A Japanese deep-frying technique using a cold, minimally mixed, low-protein batter; the controlled gluten suppression and open batter structure produce a gossamer, lacy crust. Introduced to Japan by Portuguese missionaries in the 16th century; developed into its current form in Edo-period Tokyo.
@@ -514,6 +520,7 @@ No glossary terms yet.
 - Well Method: A hand-mixing technique where flour is mounded and hollowed at the center to contain wet ingredients, which are gradually incorporated from the inside out.
 - Wet-Dry-Wet Dredge: A multi-stage coating process employing a liquid binder to create a textured, “craggy” batter for enhanced crisping.
 - White Oil: A 50/50 mixture of beeswax and butter used to create a non-stick, high-gloss finish.
+- Woody Ends: The fibrous, lignified bottom portion of an asparagus spear that remains tough regardless of cooking time; removed before cooking by snapping or cutting.
 
 ## X
 

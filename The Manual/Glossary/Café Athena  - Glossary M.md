@@ -12,6 +12,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Matsutake Shoyu: A specific type of soy sauce (typically with mushroom notes) used in the original Weissman method to enhance umami.
 - Mayonnaise: A stable emulsion of oil and egg yolk, used here as a base for the spicy component.
 - Meaty: A descriptor referring to the intensified flavor profile achieved through the concentration of savory compounds during the curing process.
+- Mechanical Dehydration: The physical process of removing water from a substance using pressure or centrifugal force rather than heat.
 - Mechanical Emulsification: High-speed shearing forces fat globules to disperse evenly into the protein structure, creating a creamy texture.
 - Mechanical Energy: Energy applied through physical agitation, such as whisking, to break down solid particles and promote mixing.
 - Mechanical Leverage: A forged knife blade provides greater force and reduces strain on the chef’s wrist compared to a stamped blade.

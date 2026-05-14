@@ -2204,6 +2204,29 @@
       }
     },
     {
+      "id": "08-10",
+      "title": "Crispy Potato & Onion Pavé Triangles",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "added": "2026-05-14",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      }
+    },
+    {
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,

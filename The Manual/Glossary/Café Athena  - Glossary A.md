@@ -14,6 +14,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Aeration: The process of incorporating air into a liquid mixture, creating a lighter, foamier texture, often achieved through whipping or beating.
 - Agar-Agar: A gelatinous substance derived from seaweed, commonly used as a hydrocolloid to create gels and stabilize food products.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.
+- Agria: A variety of potato characterized by its high starch content and yellow flesh, ideal for frying and chips.
 - Airlock: A one-way valve fitted to a fermentation vessel that allows CO₂ to escape without admitting oxygen.
 - Al Dente: "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.

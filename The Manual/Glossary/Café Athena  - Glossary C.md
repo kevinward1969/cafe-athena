@@ -26,6 +26,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
+- Clarified Butter: Butterfat that has been separated from the milk solids and water, allowing for higher-temperature cooking without burning.
 - CO₂: Carbon dioxide, a gaseous byproduct of yeast fermentation, contributing to the effervescence of kefir.
 - Coagulation: The process of protein molecules clumping together, as seen in ricotta, contributing to the binding properties of the gnocchi dough.
 - Cognitive Load: The deliberate organization of a workstation minimizes the mental effort required for task execution by reducing the need for constant searching and retrieval.

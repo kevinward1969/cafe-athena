@@ -147,6 +147,7 @@
 
 - 08-08 Café Athena - The Quintessential Dolma Guide
 - 08-09 Café Athena - Butter-Steamed Asparagus
+- 08-10 Café Athena - Crispy Potato & Onion Pavé Triangles
 
 ## CHAPTER 9: THE PÂTISSIER
 
