@@ -1,6 +1,6 @@
 # RECIPE FORMAT STANDARD (MASTER)
 
-**Version 3.0** - Used by both Cafe Athena and VersiChef
+**Version 3.1** - Used by both Cafe Athena and VersiChef
 
 This document defines the universal recipe format for all recipe outputs. Both agents reference this single source of truth.
 
@@ -15,8 +15,11 @@ Every recipe must follow this strict vertical order:
 3. **Mise En Place** (Mandatory Action Checklist)
 4. **Ingredients** (Grouped by component)
 5. **Method** (Phased instructions)
-6. **Chef's Notes / Variations** (Optional)
-7. **Glossary** (Definitions of technical terms)
+6. **Variations** (Optional)
+7. **Chef's Notes** (Optional)
+8. **Glossary**
+9. **Keywords**
+10. **Category**
 
 ---
 
@@ -157,9 +160,25 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ---
 
-## SECTION 6: CHEF'S NOTES / VARIATIONS
+## SECTION 6: VARIATIONS
 
-**Purpose:** Anticipate user questions and provide practical guidance
+**Optional.** Include only when the recipe has genuine alternate builds — a different flavor profile, a materially different technique, or a sub-recipe that diverges from the primary.
+
+**What belongs here:**
+
+- Ingredient swaps that change the character of the dish ("For a smoky version, replace X with Y")
+- Technique alternates ("Sous Vide Variation: cure as described, then seal in vacuum bags…")
+- Named derivative sauces or doughs ("Sweet Variation (Pâte Sucrée): add 50 g sugar…")
+
+**What does NOT belong here:** Practical tips, make-ahead guidance, storage notes, or workarounds ("if you don't have X, use Y") — those go in Chef's Notes.
+
+**Format:** One titled entry per variation, either as a bold bullet or an `###` subheading for longer variations.
+
+---
+
+## SECTION 7: CHEF'S NOTES
+
+**Optional.** Include when practical guidance adds real value beyond the method.
 
 **Common Topics:**
 
@@ -169,11 +188,11 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 - "Why is [specific technique] critical?"
 - "What's the difference between [ingredient A] and [ingredient B]?"
 
-**Format:** Bulleted list or short paragraphs with clear headers
+**Format:** Bulleted list or short paragraphs with clear headers.
 
 ---
 
-## SECTION 7: GLOSSARY
+## SECTION 8: GLOSSARY
 
 **Location:** End of recipe
 
@@ -192,7 +211,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ---
 
-## SECTION 8: KEYWORDS
+## SECTION 9: KEYWORDS
 
 **Location:** End of recipe, after Glossary
 
@@ -220,7 +239,7 @@ duck, confit, French technique, fat poaching, pressure cooker, collagen, umami, 
 
 ---
 
-## SECTION 9: CATEGORY
+## SECTION 10: CATEGORY
 
 **Location:** End of recipe, after Keywords
 

@@ -8,6 +8,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
 |--------------|-----------------|-----------------|----------------|-----------------|
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 |
 | 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 |
 | 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 |
 | 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 |
@@ -39,7 +40,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 ## Claude Desktop Agent
 
 **File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.6
+**Current Version:** 1.7
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -49,6 +50,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 | v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v1.4 | 2026-04-16 | Master audit pass. Added No Sycophancy and Uncertainty Acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to CRITICAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.5 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.7 | 2026-05-15 | Split recipe structure item 6 (Chef's Notes / Variations) into two separate optional sections: item 6 = Variations, item 7 = Chef's Notes. Items 8–10 renumbered (Glossary, Keywords, Category). Updated Mode 2 steps 4–5 section references (Section 8→9 for Keywords, Section 9→10 for Category). Aligns with `Guidance/Recipe-Format-Standard.md` v3.1. |
 | v1.6 | 2026-04-23 | Lowered Keywords minimum from 10 to 8 (Mode 2 step 4 and RECIPE STRUCTURE item 8). Clarified Category format split: recipe folios use `cuisine: X \| style: Y`; technique folios use `style: Technique Folio` only (no cuisine). Aligns with `Guidance/Recipe-Format-Standard.md` update and `scripts/audit.py` rule changes in same release. |
 
 ---

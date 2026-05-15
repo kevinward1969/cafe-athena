@@ -70,7 +70,7 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The Third Lemon Rule:** Your serving shells are your juice source, which means yield is fixed. Most lemons give 2–3 tbsp each — enough for 4 tbsp total, but occasionally one is dry. Always have a third lemon on the counter before you start. The spirals come from this lemon too, so it earns its place.
 - **Fat Content is Non-Negotiable:** This recipe requires heavy cream at 35% butterfat minimum. Half-and-half, light cream, or any reduced-fat substitute will not set reliably. The fat is structural, not optional.

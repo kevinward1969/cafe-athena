@@ -47,10 +47,13 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ---
 
+## Variations
+
+- **Sour Cream & Onion:** Whisk in 5 g of buttermilk powder during step 4 for a sour cream and onion profile.
+
 ## Chef's Notes
 
 - **Storage:** These are highly hygroscopic (they absorb moisture from the air). Store immediately in an airtight container with a silica desiccant pack to maintain crunch.
-- **Variation:** For a "sour cream and onion" profile, whisk in 5 g of buttermilk powder during step 4.
 
 ---
 

@@ -47,9 +47,13 @@ Set to **High Pressure** for **15 minutes**. *Note:* If using an electric pressu
 
 Add the **cold Butter**, **Parmigiano-Reggiano**, and **Mascarpone**. Whisk until the fats are fully emulsified and the polenta is glossy. Taste for seasoning. **Sensory Cue:** The texture should be "nappe"—coating the back of a spoon without running off immediately, but not stiff enough to stand up on its own.
 
-**Chef's Notes / Variations**
+## Variations
 
-**The "Set" Point:** Polenta firms up rapidly as it cools (retrogradation). Serve immediately. If it stiffens in the pot, whisk in 2 tbsp of hot water or milk to relax the starch network. **Flavor Infusion:** For a garlic variation, throw 2 whole crushed garlic cloves into the water in Phase 1. They will dissolve into the mash under pressure.
+* **Garlic Infusion:** Add 2 whole crushed garlic cloves to the water in Phase 1. They will dissolve into the mash under pressure.
+
+## Chef's Notes
+
+* **The "Set" Point:** Polenta firms up rapidly as it cools (retrogradation). Serve immediately. If it stiffens in the pot, whisk in 2 tbsp of hot water or milk to relax the starch network.
 
 ## Glossary
 

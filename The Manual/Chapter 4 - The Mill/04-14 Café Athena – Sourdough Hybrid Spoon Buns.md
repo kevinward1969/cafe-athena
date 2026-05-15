@@ -64,14 +64,17 @@ Preheat the oven to 450°F/232°C. Place a cast iron pan or stainless steel tray
 
 **Sensory Cue:** The crust should sound hollow when tapped on the bottom. If it sounds dense, return to the oven for 3–5 additional minutes.
 
-## Chef's Notes / Variations
+## Variations
+
+- **Bianco:** Omit all dried herbs. Top each scooped bun with flaky sea salt and a thumbprint of fresh rosemary oil just before loading into the oven.
+
+## Chef's Notes
 
 - **Peak Starter Indicators:** A starter at peak will be domed (not collapsed), will have doubled from its fed volume, will pass the float test (a small spoonful dropped in water will float), and will smell pleasantly tangy with a yeasty undertone. A flat, deflated, or sharply sour starter is past peak — re-feed and wait.
 - **Cold Retard Window:** The 4–12 hour cold window is flexible. Mix the evening before and bake the next morning with no compromise in quality. Beyond 12 hours, fermentation continues slowly and the dough may become over-proofed and slack.
 - **Crumb Diagnosis:** An open, irregular alveoli structure is the target. If the final crumb is tight and dense, the most likely cause is an under-ripe starter. If the crumb is gummy, the buns were under-baked — trust the internal temperature (205°F/96°C), not the clock.
 - **Steam Control:** If you do not have a steam pan, spray the oven walls with water three times during the first 5 minutes of baking to encourage maximum oven spring and crust development.
 - **Freezing:** Baked buns freeze exceptionally well. Cool completely, then freeze individually on a tray before transferring to a bag. Reheat directly from frozen at 375°F/190°C for 8–10 minutes. Do not thaw first — the direct heat restores crust integrity.
-- **Bianco Variation:** Omit all dried herbs. Top each scooped bun with flaky sea salt and a thumbprint of fresh rosemary oil just before loading into the oven.
 
 ## Glossary
 
