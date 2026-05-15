@@ -31,6 +31,7 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 - **360 ml (1½ cups)** heavy cream (35% butterfat minimum)
 - **100 g (½ cup)** granulated sugar
 - Zest of **2 lemons** (microplaned directly into the pan)
+- **1 tsp** vanilla extract
 
 ### The Set Agent
 
@@ -45,7 +46,7 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 ## Method
 
-**Phase 1: Infuse the Cream** Combine the heavy cream, sugar, and lemon zest in a medium saucepan over medium heat. Stir to dissolve the sugar as the cream warms. Bring to a full, rolling boil — not just a simmer.
+**Phase 1: Infuse the Cream** Combine the heavy cream, sugar, lemon zest, and vanilla extract in a medium saucepan over medium heat. Stir to dissolve the sugar as the cream warms. Bring to a full, rolling boil — not just a simmer.
 
 **Sensory Cue:** The cream will foam and rise in the pan. Keep a close eye; reduce heat slightly if it threatens to boil over.
 
@@ -78,7 +79,22 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 - **Make-Ahead:** These are ideal prepared the evening before service. Fill the shells, chill overnight, and add garnish at the last moment. The posset holds well for up to 48 hours covered in the refrigerator; beyond that the shell may begin to soften from moisture absorption.
 - **Garnish Timing:** Powdered sugar dissolves quickly on a cold, moist surface — dust at the pass, not ahead. Channel knife spirals can be prepped up to 4 hours ahead and held in cold water; pat dry before placing.
 - **Scaling to 2 Servings:** Halve every quantity exactly — 180 ml cream, 50 g sugar, zest of 1 lemon, 30 ml lemon juice. Use 1 lemon for shells and juice, and the second lemon for spirals. Method and timing are identical.
-- **Flavor Variation:** A single sprig of fresh thyme added to the cream during the boil (removed before straining) introduces an herbal note that pairs cleanly with the lemon without competing. A small measure of limoncello (15 ml, replacing an equal volume of juice) adds fragrance but softens the set slightly — test first.
+
+---
+
+## Variations
+
+**Thyme Infusion:** Add 1 fresh thyme sprig to the cream in Phase 1 along with the zest. Remove before straining in Phase 4. The herbal note pairs cleanly with lemon without competing — a simple way to introduce savory depth without changing the structure of the posset.
+
+**Limoncello Finish:** Replace 15 ml of the lemon juice with 15 ml limoncello. Add in Phase 3 after removing from heat. The liqueur adds fragrance and a subtle warmth but softens the set noticeably — test before committing to service. Not recommended if a firm set is required.
+
+**Blueberry + Mint Garnish:** Replace the channel knife spiral with a small cluster of fresh blueberries and a single mint sprig. The anthocyanin color contrast against the cream surface is visually striking; blueberry acidity echoes and counterpoints the lemon. Dust lightly with powdered sugar just before service.
+
+**Elderflower Spherification:** Use reverse spherification to produce elderflower spheres — mix elderflower cordial with calcium lactate (0.5% by weight), then drop into a sodium alginate bath (0.5% by weight). Place 2–3 spheres on each posset at service. The floral sweetness amplifies the lemon without competing and introduces a modern fine-dining element.
+
+**Passionfruit Caviar:** Same reverse spherification technique as above using strained passionfruit pulp thinned with a small amount of simple syrup and combined with calcium lactate. The vivid orange-against-white contrast is visually dramatic; the acidic tropical profile plays directly off the lemon.
+
+**Companion — Lemon Curd in Shells:** For a richer and more accessible version of the same presentation, replace the posset with a starch-thickened lemon curd. Combine 180 ml water, 120 ml fresh lemon juice, 150 g sugar, 30 g cornstarch, 100 g condensed milk, 3 egg yolks, and the peel of 1 lemon in a saucepan over low heat, stirring constantly until thickened. Remove from heat, whisk in 50 g soft butter, cool to room temperature, then divide into shells and refrigerate for 2 hours minimum. The curd offers a different teaching moment — starch gelatinization and egg emulsification rather than acid-set protein chemistry — with a denser texture, opaque yellow color, and a sweeter, warmer flavor profile. Same shell presentation.
 
 ---
 
