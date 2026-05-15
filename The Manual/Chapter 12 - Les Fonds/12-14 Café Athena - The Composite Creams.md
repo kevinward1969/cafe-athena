@@ -8,12 +8,6 @@ The "Family Tree" guide to assembling foundational custards, sugars, and fats in
 
 Composite creams are the secondary building blocks of pastry, created by marrying Crème Pâtissière with other foundations. By adjusting the aeration or fat content, we change the mouthfeel from dense and rich to light and ethereal. **Teaching Idea: Composite Density.** The goal of a composite cream is to achieve a homogenous texture where the weight of the custard does not collapse the air of the meringue or cream. This is achieved through "lightening"—sacrificing a small portion of the airy component to loosen the dense base before folding in the rest.
 
-## Mise en Place (Action Checklist)
-
-* **Temper the Base:** Remove the Crème Pâtissière (12-11) from the fridge and whisk it vigorously until it returns to a smooth, creamy "nappé" state.
-* **Prepare the Aerator:** Ensure your Crème Chantilly (12-13) or Meringue (12-12) is whipped to the correct peak stage specified below.
-* **Check the Glue:** If the recipe requires gelatin (Chiboust), ensure it is melted and ready to be tempered into the warm custard.
-
 ## Ingredients
 
 ### 1. Crème Diplomat (The Airy All-Rounder)
@@ -32,6 +26,12 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 * 500 g (2 cups) **Crème Pâtissière (Standard)**, warm
 * 250 g (1 cup) **Italian Meringue**, freshly whipped
 * 4 g (2 sheets) **Gelatin**, bloomed and melted
+
+## Mise en Place (Action Checklist)
+
+* **Temper the Base:** Remove the Crème Pâtissière (12-11) from the fridge and whisk it vigorously until it returns to a smooth, creamy "nappé" state.
+* **Prepare the Aerator:** Ensure your Crème Chantilly (12-13) or Meringue (12-12) is whipped to the correct peak stage specified below.
+* **Check the Glue:** If the recipe requires gelatin (Chiboust), ensure it is melted and ready to be tempered into the warm custard.
 
 ## Method
 

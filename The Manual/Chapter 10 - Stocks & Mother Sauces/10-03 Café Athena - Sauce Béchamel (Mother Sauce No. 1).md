@@ -14,15 +14,6 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Prepare the Oignon Piqué:** Peel the onion half. Pin the bay leaf to the onion using the whole clove (press the clove through the leaf into the layers).
-- **Measure the Roux:** Weigh the butter and flour separately.
-- **Grate the Nutmeg:** Prepare the nutmeg and white pepper; do not pre-grate if possible, as volatile oils dissipate quickly.
-- **Set the Station:** Have a fine-mesh strainer (chinois) and a clean storage container ready.
-
----
-
 ## Ingredients
 
 ### The Liquid Base
@@ -42,6 +33,15 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 - 4 g (1 tsp) Diamond Crystal Kosher Salt
 - 1 g (¼ tsp) White Pepper, ground
 - 0.5 g (⅛ tsp) Freshly Grated Nutmeg
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the Oignon Piqué:** Peel the onion half. Pin the bay leaf to the onion using the whole clove (press the clove through the leaf into the layers).
+- **Measure the Roux:** Weigh the butter and flour separately.
+- **Grate the Nutmeg:** Prepare the nutmeg and white pepper; do not pre-grate if possible, as volatile oils dissipate quickly.
+- **Set the Station:** Have a fine-mesh strainer (chinois) and a clean storage container ready.
 
 ---
 

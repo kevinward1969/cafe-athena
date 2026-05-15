@@ -10,14 +10,6 @@ This preparation transforms humble cherry tomatoes into a luxurious garnish whil
 
 **Teaching Idea: High-Peak Infusion.** By heating the oil to 250°F/120°C and immediately removing it from the heat, we trigger a rapid release of fat-soluble volatiles from the woody herbs and vines before the oil has time to oxidize or the aromatics have time to scorch. The carry-over heat then finishes the extraction during the slow cool-down, producing a deeper, cleaner aroma than a sustained low simmer.
 
-## Mise en Place (Action Checklist)
-
-* **Score the tomatoes:** Use a sharp paring knife to cut a shallow star or "X" on the blossom end of each tomato.
-* **Prepare the baths:** Set one pot of water to a rolling boil and prepare a large bowl with ice and water.
-* **Strip the vines:** Remove the tomatoes from the vines but reserve the vines. Wash and pat them completely dry to prevent oil splatter.
-* **Cut the cartouche:** Prepare a parchment paper circle to fit the diameter of your infusion pan.
-* **Sterilize the storage jar:** Wash a glass jar (with lid) in hot soapy water, rinse, and dry in a low oven (200°F/95°C) for 10 minutes. Cool before filling.
-
 ## Ingredients
 
 ### The Aromatics
@@ -31,6 +23,14 @@ This preparation transforms humble cherry tomatoes into a luxurious garnish whil
 ### The Fruit
 
 * 500 g (approx. 2 pints) cherry or datterini tomatoes, on the vine
+
+## Mise en Place (Action Checklist)
+
+* **Score the tomatoes:** Use a sharp paring knife to cut a shallow star or "X" on the blossom end of each tomato.
+* **Prepare the baths:** Set one pot of water to a rolling boil and prepare a large bowl with ice and water.
+* **Strip the vines:** Remove the tomatoes from the vines but reserve the vines. Wash and pat them completely dry to prevent oil splatter.
+* **Cut the cartouche:** Prepare a parchment paper circle to fit the diameter of your infusion pan.
+* **Sterilize the storage jar:** Wash a glass jar (with lid) in hot soapy water, rinse, and dry in a low oven (200°F/95°C) for 10 minutes. Cool before filling.
 
 ## Method
 

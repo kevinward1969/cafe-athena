@@ -8,13 +8,6 @@ A classic bistro spread achieved through careful pan-roasting and emulsification
 
 The difference between a gritty pâté and a silky mousse is the coagulation of protein. In this stovetop method, we sauté the livers quickly to develop flavor (Maillard reaction) but remove them before the proteins fully tighten. We then create a stable fat-in-water emulsion by blending the warm protein with butter. **Teaching Idea: Carryover Cooking.** Meat continues to cook after it leaves the pan as heat equalizes from the surface to the center. To achieve a smooth texture, you must remove the livers when they are still quite pink inside (approx. 140°F/60°C); the residual heat will finish the job safely as they rest.
 
-## Mise en Place (Action Checklist)
-
-* **Clean the Livers:** Inspect livers individually. Use kitchen shears to trim away any white connective tissue (sinew) or green bile stains (which are incredibly bitter).
-* **Temper the Butter:** Cut butter into cubes and leave at room temperature. It needs to be soft, not melted.
-* **Bloom the Gelatin:** Sprinkle gelatin over cold water (for the gelée) and let it hydrate for 5 minutes.
-* **Prepare the Blender:** Have your blender set up and ready; the emulsion must happen while the livers are warm.
-
 ## Ingredients
 
 ### The Aromatics
@@ -39,6 +32,13 @@ The difference between a gritty pâté and a silky mousse is the coagulation of 
 * 120 ml (½ cup) Ruby Port Wine
 * 30 g (2 tbsp) Sugar
 * 3 g (1 tsp) Powdered Gelatin (bloomed in 1 tbsp water)
+
+## Mise en Place (Action Checklist)
+
+* **Clean the Livers:** Inspect livers individually. Use kitchen shears to trim away any white connective tissue (sinew) or green bile stains (which are incredibly bitter).
+* **Temper the Butter:** Cut butter into cubes and leave at room temperature. It needs to be soft, not melted.
+* **Bloom the Gelatin:** Sprinkle gelatin over cold water (for the gelée) and let it hydrate for 5 minutes.
+* **Prepare the Blender:** Have your blender set up and ready; the emulsion must happen while the livers are warm.
 
 ## Method
 

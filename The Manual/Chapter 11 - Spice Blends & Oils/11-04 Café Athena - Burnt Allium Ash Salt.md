@@ -12,15 +12,6 @@ This recipe is a study in controlled carbonization. By pushing fibrous alliums p
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Preheat Oven:** Set to 425°F/220°C with the convection fan on (if available).
-- **Ventilation:** Turn your hood fan to **HIGH**. This process creates significant smoke.
-- **Prepare Trays:** Line two baking sheets with parchment paper (essential for cleanup).
-- **Wash and Dry:** Ensure the leek tops are washed thoroughly and dried completely.
-
----
-
 ## Ingredients
 
 ### The Biomass
@@ -31,6 +22,15 @@ This recipe is a study in controlled carbonization. By pushing fibrous alliums p
 ### The Base
 
 - 100 g (1 cup) Diamond Crystal Kosher Salt
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat Oven:** Set to 425°F/220°C with the convection fan on (if available).
+- **Ventilation:** Turn your hood fan to **HIGH**. This process creates significant smoke.
+- **Prepare Trays:** Line two baking sheets with parchment paper (essential for cleanup).
+- **Wash and Dry:** Ensure the leek tops are washed thoroughly and dried completely.
 
 ---
 

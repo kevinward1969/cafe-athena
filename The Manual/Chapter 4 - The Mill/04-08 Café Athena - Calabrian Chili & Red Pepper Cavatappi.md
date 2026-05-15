@@ -10,13 +10,6 @@ This dish bridges the gap between a bright *arrabbiata* and a rich vodka sauce. 
 
 **Teaching Idea:** **Cellulose Management.** Pepper skins are tough and do not break down fully in a blender. Removing them is not just about flavor (avoiding char); it is about ensuring the sauce coats the ridges of the pasta without texture interruption.
 
-## Mise en Place
-
-* **Prep the oven:** Set the rack to the top position and switch to Broil (High). Have a heat-proof bowl and plastic wrap ready for steaming the peppers after they come out.
-* **Boil water:** Bring a large pot of water to a boil and season heavily with salt.
-* **Prep the aromatics:** Slice onions and garlic; seed the chilis.
-* **Chill the fat:** Ensure the finishing butter is cubed and kept cold in the fridge until the very last moment.
-
 ## Ingredients
 
 **The Vegetable Base**
@@ -40,6 +33,13 @@ This dish bridges the gap between a bright *arrabbiata* and a rich vodka sauce. 
 * 14 g (1 Tbsp) Unsalted Butter, cold and cubed
 * 60 g (½ cup) Pecorino Romano, finely grated
 * Diamond Crystal Kosher Salt, to taste
+
+## Mise en Place
+
+* **Prep the oven:** Set the rack to the top position and switch to Broil (High). Have a heat-proof bowl and plastic wrap ready for steaming the peppers after they come out.
+* **Boil water:** Bring a large pot of water to a boil and season heavily with salt.
+* **Prep the aromatics:** Slice onions and garlic; seed the chilis.
+* **Chill the fat:** Ensure the finishing butter is cubed and kept cold in the fridge until the very last moment.
 
 ## Method
 

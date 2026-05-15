@@ -8,13 +8,6 @@ Yield: 1 half-sheet pan | Prep: 30 min | Inactive: 4–6 hr | Cook: 25 min
 
 This recipe leverages the enzymatic activity of a healthy sourdough discard to create a complex, tangy flavor that commercial yeast cannot replicate on its own. By using a high-hydration dough (approx. 80%), we create the ideal environment for large alveoli (air pockets) to form. **Teaching Idea: The Steam Effect.** We use a water-and-salt brine (*salamoia*) poured into the dimples to create localized steam in the oven, which keeps the interior "marshmallow" soft while the bottom fries in olive oil.
 
-## Mise En Place (Action Checklist)
-
-* **Temper Water:** Heat your water to 90°F/32°C.
-* **Prepare Pan:** Coat a 13x18 inch (half-sheet) pan with 30 g (2 tbsp) of olive oil. Ensure the sides are well-greased.
-* **Check Culture:** Ensure your discard is at room temperature and showing visible surface bubbles.
-* **Preheat:** Ensure the oven is set to 425°F/218°C at least 30 minutes before baking.
-
 ## Ingredients
 
 **The Dough Base**
@@ -32,6 +25,13 @@ This recipe leverages the enzymatic activity of a healthy sourdough discard to c
 * 50 g (¼ cup) water
 * 5 g (1 tsp) Diamond Crystal Kosher Salt
 * 3 g (1 tsp) flaky sea salt (for finishing)
+
+## Mise En Place (Action Checklist)
+
+* **Temper Water:** Heat your water to 90°F/32°C.
+* **Prepare Pan:** Coat a 13x18 inch (half-sheet) pan with 30 g (2 tbsp) of olive oil. Ensure the sides are well-greased.
+* **Check Culture:** Ensure your discard is at room temperature and showing visible surface bubbles.
+* **Preheat:** Ensure the oven is set to 425°F/218°C at least 30 minutes before baking.
 
 ## Method
 

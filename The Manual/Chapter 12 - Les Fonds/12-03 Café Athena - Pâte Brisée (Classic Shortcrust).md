@@ -14,15 +14,6 @@ This dough relies on the Sablage (sanding) method. By coating the flour particle
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Chill the blade:** If using a food processor, place the metal blade in the freezer for 10 minutes.
-- **Dice the butter:** Cut butter into 1 cm (½ inch) cubes and return to the refrigerator until the moment of use.
-- **Prepare the ice water:** Fill a cup with water and ice cubes; measure the water from this freezing mixture.
-- **Clear the bench:** Ensure you have a cool, clean surface (marble or stainless steel is ideal) for the fraisage.
-
----
-
 ## Ingredients
 
 ### The Dry Mix
@@ -35,6 +26,15 @@ This dough relies on the Sablage (sanding) method. By coating the flour particle
 
 - 225 g (1 cup / 2 sticks) unsalted butter, cold and cubed
 - 80–120 g (⅓–½ cup) ice water
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill the blade:** If using a food processor, place the metal blade in the freezer for 10 minutes.
+- **Dice the butter:** Cut butter into 1 cm (½ inch) cubes and return to the refrigerator until the moment of use.
+- **Prepare the ice water:** Fill a cup with water and ice cubes; measure the water from this freezing mixture.
+- **Clear the bench:** Ensure you have a cool, clean surface (marble or stainless steel is ideal) for the fraisage.
 
 ---
 

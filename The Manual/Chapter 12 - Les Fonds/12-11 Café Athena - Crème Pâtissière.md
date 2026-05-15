@@ -8,13 +8,6 @@ The foundational "Mother Custard" of the pastry kitchen, featuring a rich, velve
 
 Crème Pâtissière (pastry cream) is defined by its use of starch—typically cornstarch—to create a thick, pipeable consistency that is stable at room temperature. A successful pâtissière must be cooked long enough to neutralize specific enzymes while remaining fluid enough to avoid a "rubbery" texture. **Teaching Idea: Starch Gelatinization.** Egg yolks contain an enzyme called alpha-amylase that can break down starch over time, turning a thick cream into a liquid in the refrigerator. Boiling the mixture for a full minute ensures the cornstarch is fully hydrated and the enzymes are thermally destroyed.
 
-## Mise en Place (Action Checklist)
-
-* **Split and Scrape:** Split the vanilla bean lengthwise and scrape the seeds into the milk/cream mixture.
-* **Create the Slurry:** Whisk the cornstarch and a portion of the cold liquid in a small bowl until completely smooth to prevent clumping.
-* **Temper the Yolks:** Ensure the egg yolks are at room temperature (70°F/21°C) before beginning the tempering process.
-* **Prep the Cooling Station:** Line a small baking sheet with plastic wrap or parchment paper to allow for rapid cooling.
-
 ## Ingredients
 
 ### The Enriched Base (Optimized for Composites)
@@ -28,6 +21,13 @@ Crème Pâtissière (pastry cream) is defined by its use of starch—typically c
 * 1 g (¼ tsp) Diamond Crystal kosher salt
 * 15 ml (1 tbsp) Grand Marnier or liquor of choice
 * 42 g (3 tbsp) unsalted butter, chilled and cubed
+
+## Mise en Place (Action Checklist)
+
+* **Split and Scrape:** Split the vanilla bean lengthwise and scrape the seeds into the milk/cream mixture.
+* **Create the Slurry:** Whisk the cornstarch and a portion of the cold liquid in a small bowl until completely smooth to prevent clumping.
+* **Temper the Yolks:** Ensure the egg yolks are at room temperature (70°F/21°C) before beginning the tempering process.
+* **Prep the Cooling Station:** Line a small baking sheet with plastic wrap or parchment paper to allow for rapid cooling.
 
 ## Method
 

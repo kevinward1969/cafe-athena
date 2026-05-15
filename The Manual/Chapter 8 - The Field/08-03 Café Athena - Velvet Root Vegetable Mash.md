@@ -14,15 +14,6 @@ By roasting the sweet potatoes in their skins rather than boiling them, we allow
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Preheat oven:** Set to 400°F/205°C.
-- **Prepare the aromatics:** Minced garlic and measured spices should be in a small ramekin, ready to add to the hot butter.
-- **Set up the steamer:** Have a pot with a steamer basket ready for the carrots.
-- **Warm the bowl:** Rinse your mixing bowl with hot water so the mash doesn't cool down upon contact.
-
----
-
 ## Ingredients
 
 ### The Root Base
@@ -39,6 +30,15 @@ By roasting the sweet potatoes in their skins rather than boiling them, we allow
 - 1 g (½ tsp) Ground Turmeric
 - 0.5 g (¼ tsp) Ground Ginger
 - Pinch of Black Pepper
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat oven:** Set to 400°F/205°C.
+- **Prepare the aromatics:** Minced garlic and measured spices should be in a small ramekin, ready to add to the hot butter.
+- **Set up the steamer:** Have a pot with a steamer basket ready for the carrots.
+- **Warm the bowl:** Rinse your mixing bowl with hot water so the mash doesn't cool down upon contact.
 
 ---
 

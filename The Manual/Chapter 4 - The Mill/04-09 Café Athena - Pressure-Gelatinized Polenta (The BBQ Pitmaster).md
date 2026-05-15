@@ -10,13 +10,6 @@ By utilizing a pressure cooker, we bypass the labor-intensive "constant stirring
 
 **Teaching Idea: Alkaline Softening.** Adding a tiny pinch of baking soda raises the pH of the cooking water. This helps break down the tough pectin in the corn's outer hull, resulting in a smoother, creamier mouthfeel without adding more fat.
 
-## Mise en Place
-
-* **The Hardware:** Set up your electric pressure cooker (Instant Pot) or stovetop pressure unit.
-* **The Cheese:** Grate the sharp cheddar by hand (pre-grated cheese contains anti-caking agents that prevent melting).
-* **The Veg:** Finely dice the jalapeño. Remove ribs/seeds for mild heat, or keep them for full "St. Louis" spice.
-* **The Liquid:** Measure your stock and water; ensure they are ready to pour.
-
 ## Ingredients
 
 **The Base**
@@ -32,6 +25,13 @@ By utilizing a pressure cooker, we bypass the labor-intensive "constant stirring
 * 115 g (1 cup) Sharp White Cheddar, grated
 * 1 Jalapeño, finely diced (brunoise)
 * Fresh Cracked Black Pepper, to taste
+
+## Mise en Place
+
+* **The Hardware:** Set up your electric pressure cooker (Instant Pot) or stovetop pressure unit.
+* **The Cheese:** Grate the sharp cheddar by hand (pre-grated cheese contains anti-caking agents that prevent melting).
+* **The Veg:** Finely dice the jalapeño. Remove ribs/seeds for mild heat, or keep them for full "St. Louis" spice.
+* **The Liquid:** Measure your stock and water; ensure they are ready to pour.
 
 ## Method
 

@@ -14,15 +14,6 @@ These cylinders are technically a hybrid of a *Tuile* and a *Florentine*. The hi
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Prep the Forms:** Set up your cannoli metal forms and a wire rack.
-- **Prep the Infusion Base:** Combine the heavy cream and dried orange peel granules in a small saucepan.
-- **Chop the Chocolate:** If using block chocolate, chop into small, uniform shards to ensure even melting.
-- **Preheat:** Set oven to 325°F/163°C. Line two baking sheets with silicone mats (Silpat) or parchment paper.
-
----
-
 ## Ingredients
 
 ### The Shell Base
@@ -41,6 +32,15 @@ These cylinders are technically a hybrid of a *Tuile* and a *Florentine*. The hi
 - 15 g (1 tbsp) Red Miso (Aka Miso)
 - 5 g (1 tsp) Dried Orange Peel Granules
 - 20 g (1.5 tbsp) Unsalted Butter, room temperature
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prep the Forms:** Set up your cannoli metal forms and a wire rack.
+- **Prep the Infusion Base:** Combine the heavy cream and dried orange peel granules in a small saucepan.
+- **Chop the Chocolate:** If using block chocolate, chop into small, uniform shards to ensure even melting.
+- **Preheat:** Set oven to 325°F/163°C. Line two baking sheets with silicone mats (Silpat) or parchment paper.
 
 ---
 

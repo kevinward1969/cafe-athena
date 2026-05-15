@@ -10,12 +10,6 @@ We bridge the gap between a Japanese spicy tuna roll and a Mediterranean tartare
 
 **Teaching Idea: The "Sushi Grade" Reality.** "Sushi Grade" is a marketing term, not a regulation. To ensure safety from parasites, you must source fish that has been commercially super-frozen to -4°F (-20°C) for 7 days. Never freeze "fresh" supermarket fish yourself for raw consumption; home freezers are not cold enough or fast enough to guarantee safety.
 
-## Mise en Place (Action Checklist)
-
-* **Chill the Gear:** Place a metal mixing bowl inside a larger bowl filled with ice (an ice bath).
-* **Sharpen Your Knife:** A dull knife will mash the tuna structure rather than slicing it.
-* **Prepare the Board:** Sanitize your cutting board. Ensure no cross-contamination from other ingredients.
-
 ## Ingredients
 
 **The Protein**
@@ -37,6 +31,12 @@ We bridge the gap between a Japanese spicy tuna roll and a Mediterranean tartare
 * 2 Scallions, green parts only
 * 5 g (1 tsp) Sesame Seeds, toasted
 * 2 g (½ tsp) Diamond Crystal Kosher Salt
+
+## Mise en Place (Action Checklist)
+
+* **Chill the Gear:** Place a metal mixing bowl inside a larger bowl filled with ice (an ice bath).
+* **Sharpen Your Knife:** A dull knife will mash the tuna structure rather than slicing it.
+* **Prepare the Board:** Sanitize your cutting board. Ensure no cross-contamination from other ingredients.
 
 ## Method
 

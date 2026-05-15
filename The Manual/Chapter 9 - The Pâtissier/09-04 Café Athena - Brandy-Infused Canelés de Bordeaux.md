@@ -12,14 +12,6 @@ A study in textural contrast: a dark, resinous caramelized shell protecting a te
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- Scrape the seeds from the vanilla bean; reserve seeds and pod.
-- Sift the bread flour and salt into a medium heat-proof bowl.
-- Whisk the eggs and egg yolks in a separate small bowl until just combined; do not aerate.
-
----
-
 ## Ingredients
 
 ### The Batter
@@ -38,6 +30,14 @@ A study in textural contrast: a dark, resinous caramelized shell protecting a te
 
 - 50 g (1¾ oz) food-grade beeswax
 - 50 g (3½ tbsp) unsalted butter
+
+---
+
+## Mise en Place (Action Checklist)
+
+- Scrape the seeds from the vanilla bean; reserve seeds and pod.
+- Sift the bread flour and salt into a medium heat-proof bowl.
+- Whisk the eggs and egg yolks in a separate small bowl until just combined; do not aerate.
 
 ---
 

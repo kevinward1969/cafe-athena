@@ -10,15 +10,6 @@
 
 These are not standard Italian meatballs; they are engineered specifically for sandwiches. By folding crisp bacon and Boursin cheese directly into the meat mixture, we create pockets of savory fat and garlic-herb flavor that baste the meat from the inside out. We use a dual-cooking method—roasting to set the structure, then braising in a thick, clingy tomato sauce—to ensure the meatball is durable enough to hold up in a sub roll without disintegrating. **Teaching Idea: The Panade.** A panade is a paste made of starch (breadcrumbs) and liquid (eggs/dairy) that coats the protein strands, preventing them from tightening up into a hard knot during cooking. Here, the Boursin acts as the primary fat in the panade.
 
-## Mise en Place (Action Checklist)
-
-* **Chop the bacon:** Cut bacon into small bits and set aside (it will be rendered in Phase 1 of the Method).
-* **Preheat oven:** Set to 425°F / 220°C.
-* **Prepare the Roasting Station:** Line a sheet pan with foil and fit a wire rack on top; spray rack with non-stick spray.
-* **Vegetable Prep:** Finely mince or grate the onion (divide usage for meatball vs. sauce). Mince the garlic.
-* **Cheese Prep:** Grate the Parmigiano/Pecorino. Slice the Provolone/Mozzarella.
-* **The Bread:** Bake or procure **04-01 Café Athena - 80/20 Poolish-Sourdough Baguettes** (shaped as demi-baguettes).
-
 ## Ingredients
 
 **The Meat Base**
@@ -59,6 +50,15 @@ These are not standard Italian meatballs; they are engineered specifically for s
 * 6–8 Demi-Baguettes (See **04-01 Café Athena - 80/20 Poolish-Sourdough Baguettes**) or Hoagie Rolls
 * 12 Slices Provolone or Low-Moisture Mozzarella
 * 60 g (½ cup) Parmigiano Reggiano, grated (for dusting)
+
+## Mise en Place (Action Checklist)
+
+* **Chop the bacon:** Cut bacon into small bits and set aside (it will be rendered in Phase 1 of the Method).
+* **Preheat oven:** Set to 425°F / 220°C.
+* **Prepare the Roasting Station:** Line a sheet pan with foil and fit a wire rack on top; spray rack with non-stick spray.
+* **Vegetable Prep:** Finely mince or grate the onion (divide usage for meatball vs. sauce). Mince the garlic.
+* **Cheese Prep:** Grate the Parmigiano/Pecorino. Slice the Provolone/Mozzarella.
+* **The Bread:** Bake or procure **04-01 Café Athena - 80/20 Poolish-Sourdough Baguettes** (shaped as demi-baguettes).
 
 ## Method
 

@@ -14,16 +14,6 @@ This is not a recipe — it is a skill. Egg pasta dough is one of the few prepar
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Weigh the flour** and set aside in a mound or bowl.
-- **Crack 2 whole eggs and 3 yolks** into a bowl or measuring cup and weigh them. Note that weight. Subtract it from 285 g — that is how much water to add. Combine eggs and water; whisk briefly to marry, not to aerate.
-- **If mixing by hand:** clear a large work surface and have a bench scraper ready.
-- **If using a food processor or stand mixer:** have the machine ready before you begin.
-- Set out plastic wrap for resting.
-
----
-
 ## Ingredients
 
 ### The Dough
@@ -38,6 +28,16 @@ This is not a recipe — it is a skill. Egg pasta dough is one of the few prepar
 
 - 6 quarts (5.7 L) water
 - 65 g (3 ½ tbsp) Diamond Crystal kosher salt
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Weigh the flour** and set aside in a mound or bowl.
+- **Crack 2 whole eggs and 3 yolks** into a bowl or measuring cup and weigh them. Note that weight. Subtract it from 285 g — that is how much water to add. Combine eggs and water; whisk briefly to marry, not to aerate.
+- **If mixing by hand:** clear a large work surface and have a bench scraper ready.
+- **If using a food processor or stand mixer:** have the machine ready before you begin.
+- Set out plastic wrap for resting.
 
 ---
 

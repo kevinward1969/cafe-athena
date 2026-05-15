@@ -8,14 +8,6 @@ Pan-seared bavette with a red wine reduction and butter-mounted demi-glace.
 
 This is the quintessential bistro "minute sauce." Unlike a traditional Bordelaise that requires bone marrow and days of reduction, this version relies on the Maillard reaction in the pan and a rapid reduction of wine and stock. The technique hinges on mounting cold butter at the very end, which emulsifies the liquids into a glossy, *nappé* consistency without flour or starch thickeners. **Teaching Idea: The Salt Timer.** As covered in our *Salinity & Equilibrium* folio (01-02), salt timing is the difference between a juicy steak and a steamed one. We salt 45 minutes before cooking so that the surface brine pulled out by osmosis has time to diffuse back into the muscle, seasoning the meat from within and leaving the exterior dry enough to sear properly.
 
-## Mise en Place (Action Checklist)
-
-- **Trim and portion:** Cut the skirt steak into manageable 6-inch lengths.
-- **Season early:** Salt the steaks 45 minutes before cooking and place on a wire rack.
-- **Prep aromatics:** Brunoise the shallots finely; chop the parsley.
-- **Chill the butter:** Cube the butter and return it to the fridge — it must be cold for the emulsion.
-- **Stage the liquids:** Measure wine and stock into vessels near the stove.
-
 ## Ingredients
 
 ### The Protein
@@ -32,6 +24,14 @@ This is the quintessential bistro "minute sauce." Unlike a traditional Bordelais
 - 240 g (1 cup) beef stock (high quality or fortified — see Chef's Notes)
 - 85 g (6 tbsp) unsalted butter, cold and cubed
 - 5 g (1 tbsp) flat-leaf parsley, finely chopped
+
+## Mise en Place (Action Checklist)
+
+- **Trim and portion:** Cut the skirt steak into manageable 6-inch lengths.
+- **Season early:** Salt the steaks 45 minutes before cooking and place on a wire rack.
+- **Prep aromatics:** Brunoise the shallots finely; chop the parsley.
+- **Chill the butter:** Cube the butter and return it to the fridge — it must be cold for the emulsion.
+- **Stage the liquids:** Measure wine and stock into vessels near the stove.
 
 ## Method
 

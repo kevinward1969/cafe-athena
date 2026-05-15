@@ -12,15 +12,6 @@ Traditional Ligurian walnut sauce often suffers from two flaws: the bitter astri
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Measure all ingredients:** Ensure walnuts, breadcrumbs, and liquids are weighed for precision.
-- **Grate the cheese:** Finely grate the Parmigiano Reggiano using a microplane.
-- **Prep the garlic:** Peel the clove and remove the germ (core) to prevent harsh bitterness.
-- **Prepare the station:** Set out a clean, dry kitchen towel for peeling the walnuts.
-
----
-
 ## Ingredients
 
 ### The Nut Base
@@ -40,6 +31,15 @@ Traditional Ligurian walnut sauce often suffers from two flaws: the bitter astri
 
 - 60 ml (¼ cup) Whole milk (for blending)
 - 3 g (1 tsp) Diamond Crystal Kosher Salt, or to taste
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Measure all ingredients:** Ensure walnuts, breadcrumbs, and liquids are weighed for precision.
+- **Grate the cheese:** Finely grate the Parmigiano Reggiano using a microplane.
+- **Prep the garlic:** Peel the clove and remove the germ (core) to prevent harsh bitterness.
+- **Prepare the station:** Set out a clean, dry kitchen towel for peeling the walnuts.
 
 ---
 

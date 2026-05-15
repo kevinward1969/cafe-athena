@@ -14,17 +14,6 @@ This is the egg pasta formula transposed into a new key. The hydration math does
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Weigh the flour** and set aside in a mound or bowl.
-- **Crack 2 whole eggs and 3 yolks** into a bowl or measuring cup — do not weigh yet; the spinach purée goes in first.
-- **Have a blender or immersion blender ready** for the spinach.
-- **If mixing by hand:** clear a large work surface and have a bench scraper ready.
-- **If using a food processor or stand mixer:** have the machine ready before you begin.
-- Set out plastic wrap for resting.
-
----
-
 ## Ingredients
 
 ### Part 1: The Purée
@@ -45,6 +34,17 @@ This is the egg pasta formula transposed into a new key. The hydration math does
 
 - 6 quarts (5.7 L) water
 - 65 g (3 ½ tbsp) Diamond Crystal kosher salt
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Weigh the flour** and set aside in a mound or bowl.
+- **Crack 2 whole eggs and 3 yolks** into a bowl or measuring cup — do not weigh yet; the spinach purée goes in first.
+- **Have a blender or immersion blender ready** for the spinach.
+- **If mixing by hand:** clear a large work surface and have a bench scraper ready.
+- **If using a food processor or stand mixer:** have the machine ready before you begin.
+- Set out plastic wrap for resting.
 
 ---
 

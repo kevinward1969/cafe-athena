@@ -14,15 +14,6 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Boil the Water:** Bring a kettle of water to a boil.
-- **Chop the Herbs:** Finely slice the scallions and chop the parsley; keep them separate.
-- **Measure the Spice:** Have the Red Hot Ripplets seasoning ready by the stove.
-- **Prepare the Bowl:** Place the dry bulgur in a large heat-proof mixing bowl.
-
----
-
 ## Ingredients
 
 ### The Grain Base
@@ -42,6 +33,15 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 - 1 Lemon, juice only
 - 4 Scallions (Green Onions), thinly sliced
 - 15 g (¼ cup) Fresh Parsley, finely chopped
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Boil the Water:** Bring a kettle of water to a boil.
+- **Chop the Herbs:** Finely slice the scallions and chop the parsley; keep them separate.
+- **Measure the Spice:** Have the Red Hot Ripplets seasoning ready by the stove.
+- **Prepare the Bowl:** Place the dry bulgur in a large heat-proof mixing bowl.
 
 ---
 

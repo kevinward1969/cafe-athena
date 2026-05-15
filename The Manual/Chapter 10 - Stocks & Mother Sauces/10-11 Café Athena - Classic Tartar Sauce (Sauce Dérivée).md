@@ -12,14 +12,6 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Mince and Wring:** Finely brunoise (mince) the cornichons and capers. Place them in a clean towel and squeeze tightly to remove excess brine.
-- **Macerate:** Finely mince the shallot and toss with the lemon juice in a small bowl. Let sit for 5 minutes.
-- **Chiffonade:** Slice herbs as finely as possible to maximize aromatic release.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -42,6 +34,14 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 - 15 ml (1 tbsp) Lemon Juice, fresh
 - 2 g (½ tsp) Sugar, granulated (optional, to taste)
 - 2 dashes Tabasco Sauce
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Mince and Wring:** Finely brunoise (mince) the cornichons and capers. Place them in a clean towel and squeeze tightly to remove excess brine.
+- **Macerate:** Finely mince the shallot and toss with the lemon juice in a small bowl. Let sit for 5 minutes.
+- **Chiffonade:** Slice herbs as finely as possible to maximize aromatic release.
 
 ---
 

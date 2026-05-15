@@ -12,13 +12,6 @@ Remoulade is the "Tartare Sauce" of the classical French kitchen, though signifi
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Drain and Dry:** Squeeze the capers and cornichons in a paper towel to remove excess brine. Excess liquid will thin the mayonnaise too much.
-- **Fine Mince:** Ensure all solid ingredients are chopped to a uniform size (approx. 2mm) so they can pass through a piping bag if necessary.
-
----
-
 ## Ingredients
 
 ### The Mother Sauce
@@ -39,6 +32,13 @@ Remoulade is the "Tartare Sauce" of the classical French kitchen, though signifi
 - 2 ml (½ tsp) Worcestershire Sauce
 - 1 ml (¼ tsp) Tabasco Sauce (optional for heat)
 - Black Pepper, freshly cracked (to taste)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Drain and Dry:** Squeeze the capers and cornichons in a paper towel to remove excess brine. Excess liquid will thin the mayonnaise too much.
+- **Fine Mince:** Ensure all solid ingredients are chopped to a uniform size (approx. 2mm) so they can pass through a piping bag if necessary.
 
 ---
 

@@ -8,14 +8,6 @@ Spicy, smoke-kissed poultry over pasta in a stabilized Cajun cream reduction.
 
 This dish is an exercise in fond management. The flavor foundation is built by searing spice-crusted chicken until a deep crust forms on the pan, then aggressively lifting that flavor with wine and aromatics. Penne carries the heavy sauce well, but the recipe is fully modular and scales to fresh gnocchi beautifully. **Teaching Idea: The Stabilized Reduction.** Traditional cream sauces split when acidic ingredients like wine or tomatoes are added. Here, cream cheese acts not just as a thickener but as an emulsifying agent — its casein proteins and gums hold the wine, cream, and rendered fat in a glossy, velvet suspension that clings to the pasta without breaking.
 
-## Mise en Place (Action Checklist)
-
-- **Pound the chicken:** Place breasts between plastic wrap and pound to an even ½-inch thickness.
-- **Mince and dice:** Brunoise the onions and bell peppers so they melt into the sauce. Mince the garlic.
-- **Blend the rub:** Whisk all rub spices together in a small bowl.
-- **Temper the dairy:** Bring heavy cream and cream cheese to room temperature (70°F/21°C) to prevent seizing.
-- **Grate the cheese:** Microplane the Parmesan finely.
-
 ## Ingredients
 
 ### The Blackening Rub
@@ -52,6 +44,14 @@ This dish is an exercise in fond management. The flavor foundation is built by s
 ### The Pasta
 
 - 454 g (16 oz / 1 box) penne rigate, OR a batch of *12-08 Gnocchi 201 (The Master Doughs)*
+
+## Mise en Place (Action Checklist)
+
+- **Pound the chicken:** Place breasts between plastic wrap and pound to an even ½-inch thickness.
+- **Mince and dice:** Brunoise the onions and bell peppers so they melt into the sauce. Mince the garlic.
+- **Blend the rub:** Whisk all rub spices together in a small bowl.
+- **Temper the dairy:** Bring heavy cream and cream cheese to room temperature (70°F/21°C) to prevent seizing.
+- **Grate the cheese:** Microplane the Parmesan finely.
 
 ## Method
 

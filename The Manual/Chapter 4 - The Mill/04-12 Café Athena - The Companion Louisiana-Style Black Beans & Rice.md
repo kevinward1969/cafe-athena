@@ -10,14 +10,6 @@ This dish exists to solve a diplomatic problem: your Competition Red is a purist
 
 **Teaching Idea: Flavor Bridging.** By echoing key ingredients from the main dish in the companion (cumin, ACV), we create cohesion across the bowl. The diner perceives a unified experience rather than two unrelated items. Meanwhile, the pork and smoke in the beans provide contrast — complementary, not competing.
 
-## Mise en Place
-
-* **Prep Proteins:** Slice andouille into half-moons. Rinse ham hock.
-* **Prep Beans:** Soak 450 g (1 lb) dried black beans overnight in cold water. Drain and rinse before starting.
-* **Prep Aromatics:** Finely dice onion, celery, and bell pepper (the Louisiana holy trinity); mince garlic.
-* **Prep Rice:** Rinse sushi rice until water runs clear. Prepare seasoning vinegar mixture.
-* **Station Setup:** Measure cumin, ACV, chicken stock, and lime.
-
 ## Ingredients
 
 **The Rice**
@@ -48,6 +40,14 @@ This dish exists to solve a diplomatic problem: your Competition Red is a purist
 * Zest of 1 lime
 * Diamond Crystal kosher salt, to taste
 * Fresh cracked black pepper, to taste
+
+## Mise en Place
+
+* **Prep Proteins:** Slice andouille into half-moons. Rinse ham hock.
+* **Prep Beans:** Soak 450 g (1 lb) dried black beans overnight in cold water. Drain and rinse before starting.
+* **Prep Aromatics:** Finely dice onion, celery, and bell pepper (the Louisiana holy trinity); mince garlic.
+* **Prep Rice:** Rinse sushi rice until water runs clear. Prepare seasoning vinegar mixture.
+* **Station Setup:** Measure cumin, ACV, chicken stock, and lime.
 
 ## Method
 

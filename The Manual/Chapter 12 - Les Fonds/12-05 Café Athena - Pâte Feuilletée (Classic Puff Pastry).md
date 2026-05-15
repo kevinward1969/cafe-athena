@@ -14,15 +14,6 @@ True puff pastry is a marvel of physics, not chemistry. There is no yeast or bak
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Chill the workstation:** If your kitchen is above 72°F/22°C, chill your countertop with ice bags before starting.
-- **Temper the butter:** Remove butter from the fridge 20 minutes before starting the beurrage. It should be pliable but cool — press a finger into it; it should leave a clean indent without smearing.
-- **Prepare the water:** Dissolve the salt and vinegar in the cold water and keep it in the fridge until the moment of use.
-- **Measure the guides:** Have a ruler ready. Precision in rectangle size determines the evenness of your layers.
-
----
-
 ## Ingredients
 
 ### The Détrempe (Dough Encasing)
@@ -37,6 +28,15 @@ True puff pastry is a marvel of physics, not chemistry. There is no yeast or bak
 
 - 450 g (1 lb) European-style butter (82%+ fat), cool room temperature
 - 40 g (⅓ cup) all-purpose flour
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill the workstation:** If your kitchen is above 72°F/22°C, chill your countertop with ice bags before starting.
+- **Temper the butter:** Remove butter from the fridge 20 minutes before starting the beurrage. It should be pliable but cool — press a finger into it; it should leave a clean indent without smearing.
+- **Prepare the water:** Dissolve the salt and vinegar in the cold water and keep it in the fridge until the moment of use.
+- **Measure the guides:** Have a ruler ready. Precision in rectangle size determines the evenness of your layers.
 
 ---
 

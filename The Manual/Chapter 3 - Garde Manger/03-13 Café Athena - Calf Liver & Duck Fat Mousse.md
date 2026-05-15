@@ -8,13 +8,6 @@ A silky, Michelin-caliber mousse leveraging the deep savory notes of duck fat, t
 
 This preparation elevates the often-maligned calf liver into a state of pure luxury. By substituting a portion of the traditional butter for duck fat and employing a "cold emulsion" technique—where chilled butter is emulsified into the warm liver base—we achieve a texture that is exceptionally stable and airy. **Teaching Idea: Prague Powder #1.** The addition of Prague Powder #1 (sodium nitrite) is essential not just for safety in larger batches, but to preserve the vibrant, rose-pink hue that distinguishes a professional mousse from a rustic pâté.
 
-## Mise en Place
-
-* Clean calf liver of all silver skin and connective tissue.
-* Weigh all fats (butter and duck fat) precisely; temperature is critical.
-* Prepare a fine-mesh bag (nut milk bag) inside a large sieve over a chilled bowl.
-* Cube the 120 g of unsalted butter into ½-inch pieces. Refrigerate until ice-cold (needed for final emulsion).
-
 ## Ingredients
 
 ### The Cure & Soak
@@ -39,6 +32,13 @@ This preparation elevates the often-maligned calf liver into a state of pure lux
 
 * 120 g Unsalted butter, high-fat (82%+), ice-cold and cubed
 * 50 g Beurre noisette (prepared and kept liquid but not hot)
+
+## Mise en Place
+
+* Clean calf liver of all silver skin and connective tissue.
+* Weigh all fats (butter and duck fat) precisely; temperature is critical.
+* Prepare a fine-mesh bag (nut milk bag) inside a large sieve over a chilled bowl.
+* Cube the 120 g of unsalted butter into ½-inch pieces. Refrigerate until ice-cold (needed for final emulsion).
 
 ## Method
 

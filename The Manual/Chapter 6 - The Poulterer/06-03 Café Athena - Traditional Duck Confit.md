@@ -10,13 +10,6 @@ The term *confit* implies preservation, but for the modern cook, it is a study i
 
 **Teaching Idea:** **Water Activity & Preservation.** The initial salt cure is not just for flavor; it draws out water (osmosis) that would otherwise encourage bacterial growth. This lowers the "water activity" of the meat, firming the texture and intensifying the "meaty" flavor profile before cooking even begins.
 
-## Mise en Place (Action Checklist)
-
-* **Fabricate the Duck:** Trim excess skin and loose fat from the thighs (save fat for rendering).
-* **Prepare the Cure:** Grind spices and mix thoroughly with the salt.
-* **Perforate:** Use a needle or paring knife to prick the skin all over (do not pierce the meat) to help fat render.
-* **Preheat (Day 2):** Set oven to **200°F/95°C**.
-
 ## Ingredients
 
 **The Cure (Green Salt)**
@@ -35,6 +28,13 @@ The term *confit* implies preservation, but for the modern cook, it is a study i
 
 * 1000 g (1 liter) Rendered Duck Fat (approximate, must cover legs)
 * 1 Head of Garlic, halved horizontally
+
+## Mise en Place (Action Checklist)
+
+* **Fabricate the Duck:** Trim excess skin and loose fat from the thighs (save fat for rendering).
+* **Prepare the Cure:** Grind spices and mix thoroughly with the salt.
+* **Perforate:** Use a needle or paring knife to prick the skin all over (do not pierce the meat) to help fat render.
+* **Preheat (Day 2):** Set oven to **200°F/95°C**.
 
 ## Method
 

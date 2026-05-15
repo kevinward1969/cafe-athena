@@ -12,14 +12,6 @@ Compound butter is not merely mixed butter; it is an emulsion of fat and flavor.
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Temper the butter:** Leave at room temperature for 1–2 hours until it yields easily to thumb pressure.
-- **Prepare the mix-ins:** Finely mince herbs, roast garlic, or zest citrus depending on the selected variation.
-- **Setup rolling station:** Cut a 12-inch square of parchment paper or plastic wrap.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -47,6 +39,14 @@ Compound butter is not merely mixed butter; it is an emulsion of fat and flavor.
 - 5 ml (1 tsp) Lime Juice, fresh
 - 1 Lime, zest only
 - 5 g (1 tbsp) Panko Breadcrumbs, toasted (add last)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Temper the butter:** Leave at room temperature for 1–2 hours until it yields easily to thumb pressure.
+- **Prepare the mix-ins:** Finely mince herbs, roast garlic, or zest citrus depending on the selected variation.
+- **Setup rolling station:** Cut a 12-inch square of parchment paper or plastic wrap.
 
 ---
 

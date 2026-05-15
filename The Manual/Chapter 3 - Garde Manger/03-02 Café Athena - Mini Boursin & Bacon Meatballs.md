@@ -8,13 +8,6 @@ Rich, tender bites enriched with herbed cream cheese and smoky lardons.
 
 These meatballs stay remarkably moist without a sauce by combining two moisture-retention strategies: a panade that locks water into the matrix, and Boursin cheese that adds fat and herbed flavor simultaneously. The bacon is rendered separately and folded in, delivering textural contrast — crisp lardon pockets inside a tender, yielding meatball. Originally developed for subs, this mini variant scales down to a size that works equally well as a standalone appetizer or as a soup garnish (see Pollo Rustica). **Teaching Idea: The Panade.** A panade — starch hydrated in liquid — acts as a physical barrier between protein strands. During roasting, the starch gel absorbs and holds water that would otherwise be squeezed out as myosin contracts. The result is a meatball that stays tender even at a high-heat roast temperature of 425°F/220°C.
 
-## Mise en Place (Action Checklist)
-
-* **Preheat oven** to 425°F/220°C. Line a rimmed baking sheet with parchment paper.
-* **Dice the bacon** into small cubes (lardons) — do not cook yet; rendering happens in Method.
-* **Temper the Boursin:** Remove from refrigerator and allow to reach room temperature (approximately 30 minutes) so it incorporates evenly without breaking the mix.
-* **Measure and weigh** all ingredients. Set up a scale near the workstation for portioning.
-
 ## Ingredients
 
 ### The Panade
@@ -32,6 +25,13 @@ These meatballs stay remarkably moist without a sauce by combining two moisture-
 * 150 g (5 oz) Boursin cheese, Garlic & Fine Herbs variety (room temperature)
 * 3 g (1 tsp) Diamond Crystal kosher salt
 * 1 g (½ tsp) freshly ground black pepper
+
+## Mise en Place (Action Checklist)
+
+* **Preheat oven** to 425°F/220°C. Line a rimmed baking sheet with parchment paper.
+* **Dice the bacon** into small cubes (lardons) — do not cook yet; rendering happens in Method.
+* **Temper the Boursin:** Remove from refrigerator and allow to reach room temperature (approximately 30 minutes) so it incorporates evenly without breaking the mix.
+* **Measure and weigh** all ingredients. Set up a scale near the workstation for portioning.
 
 ## Method
 

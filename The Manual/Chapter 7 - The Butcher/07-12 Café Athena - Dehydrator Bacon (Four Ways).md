@@ -8,17 +8,6 @@ Hickory-kissed commercial bacon transformed into snackable, garnish-ready strips
 
 Commercial hickory-smoked bacon carries a head start — it's already cured, already kissed with smoke, and sliced to a consistent thickness. Our job is to hijack that foundation and drive new flavor deep into the fat and muscle before the dehydrator does its work. A 24-hour flavor brine opens the meat's protein structure and seasons from within; the dry rub then builds a concentrated surface crust as moisture evacuates during dehydration. **Teaching Idea: The Two-Stage Flavor Stack.** Wet brining deposits water-soluble flavor compounds (salts, sugars, aromatics) into the interior of the meat through osmotic diffusion. The subsequent dry rub targets the surface, where heat and moisture loss will concentrate those flavors into a caramelized, aromatic crust — a result neither method achieves alone.
 
-## Mise en Place (Action Checklist)
-
-- Pull bacon from packaging and separate all strips; pat dry with paper towels
-- Prepare brine ingredients and whisk to combine in a non-reactive container (glass or food-safe plastic)
-- Submerge all strips fully in brine; weigh down with a plate or press-sealed bag if needed
-- Cover and refrigerate for 24 hours
-- After brining, remove strips and rinse briefly under cold water; pat completely dry
-- Prepare your chosen dry rub blend in a shallow bowl
-- Set dehydrator to 160°F/71°C and allow to preheat
-- Line dehydrator trays — do not overlap strips
-
 ## Ingredients
 
 ### The Base Brine (Shared by All Four Profiles)
@@ -64,6 +53,17 @@ Commercial hickory-smoked bacon carries a head start — it's already cured, alr
 - 2 g (½ tsp) ground white pepper
 - 2 g (½ tsp) ground ginger
 - 4 g (1 tsp) toasted sesame seeds
+
+## Mise en Place (Action Checklist)
+
+- Pull bacon from packaging and separate all strips; pat dry with paper towels
+- Prepare brine ingredients and whisk to combine in a non-reactive container (glass or food-safe plastic)
+- Submerge all strips fully in brine; weigh down with a plate or press-sealed bag if needed
+- Cover and refrigerate for 24 hours
+- After brining, remove strips and rinse briefly under cold water; pat completely dry
+- Prepare your chosen dry rub blend in a shallow bowl
+- Set dehydrator to 160°F/71°C and allow to preheat
+- Line dehydrator trays — do not overlap strips
 
 ## Method
 

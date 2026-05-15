@@ -14,14 +14,6 @@ Velouté (literally "velvety") is the most versatile of the Mother Sauces. While
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Prepare the aromatics:** Have a tasting spoon and skimming ladle ready.
-- **Fabricate a cartouche:** Cut a round of parchment paper the size of your saucepan with a small vent hole in the center.
-- **Temper ingredients:** Cut butter into uniform cubes for even melting.
-
----
-
 ## Ingredients
 
 ### The Roux
@@ -40,6 +32,14 @@ Velouté (literally "velvety") is the most versatile of the Mother Sauces. While
 - 3 g (¾ tsp) Diamond Crystal Kosher Salt
 - 1 g (¼ tsp) White Pepper, finely ground
 - 5 ml (1 tsp) Lemon Juice (optional, for lift)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the aromatics:** Have a tasting spoon and skimming ladle ready.
+- **Fabricate a cartouche:** Cut a round of parchment paper the size of your saucepan with a small vent hole in the center.
+- **Temper ingredients:** Cut butter into uniform cubes for even melting.
 
 ---
 

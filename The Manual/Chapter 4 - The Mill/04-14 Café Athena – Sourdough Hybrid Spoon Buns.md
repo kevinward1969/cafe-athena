@@ -8,17 +8,6 @@ A high-hydration, no-knead bun utilizing a dual-leavening system for maximum aro
 
 These buns represent the intersection of high-hydration rheology and controlled fermentation. At approximately 83% total hydration (accounting for the water and flour contributed by the starter), this dough is too fluid to shape conventionally — and that is precisely the point. By utilizing a "past-peak" sourdough starter alongside a small amount of commercial yeast, we achieve a dough that is both deeply flavorful and sufficiently gassed to withstand the "spooning" method. The absence of traditional shaping preserves the delicate internal gas structure. **Teaching Idea: Flour Skin & Encapsulation.** In ultra-high hydration doughs (80%+), handling is minimized. By pouring the dough onto a heavily floured surface and dusting the top, we create a temporary "flour skin." This dry barrier encapsulates the wet, tacky interior, allowing the spoon to portion the dough without sticking or tearing the gluten network.
 
-## Mise en Place
-
-> **Timing Note:** Your sourdough starter must be active and at peak activity before beginning this recipe. A starter at peak will be domed, slightly jiggly, have doubled in volume, and smell yeasty-tangy. Plan your feeding schedule so the starter peaks at the moment you are ready to mix. Do not begin until this condition is met.
-
-- Confirm starter is at peak activity (see note above).
-- Finely mince the fresh rosemary.
-- Measure all dry ingredients into a small bowl and whisk to combine.
-- Measure water and olive oil.
-- Line two large baking sheets with parchment paper or silicone mats.
-- Set a dough warmer plate (if using) to 76°F/24°C.
-
 ## Ingredients
 
 ### The Dough
@@ -37,6 +26,17 @@ These buns represent the intersection of high-hydration rheology and controlled 
 - 3 g (1 tsp) garlic powder
 - 1 g (1 tsp) fresh rosemary, finely minced
 - Additional bread flour, for bench work
+
+## Mise en Place
+
+> **Timing Note:** Your sourdough starter must be active and at peak activity before beginning this recipe. A starter at peak will be domed, slightly jiggly, have doubled in volume, and smell yeasty-tangy. Plan your feeding schedule so the starter peaks at the moment you are ready to mix. Do not begin until this condition is met.
+
+- Confirm starter is at peak activity (see note above).
+- Finely mince the fresh rosemary.
+- Measure all dry ingredients into a small bowl and whisk to combine.
+- Measure water and olive oil.
+- Line two large baking sheets with parchment paper or silicone mats.
+- Set a dough warmer plate (if using) to 76°F/24°C.
 
 ## Method
 

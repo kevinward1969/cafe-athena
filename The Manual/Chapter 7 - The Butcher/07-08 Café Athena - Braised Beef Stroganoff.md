@@ -8,14 +8,6 @@ Deeply savory chunks of chuck braised in a mushroom fumet, finished with culture
 
 While traditional Stroganoff is a quick sauté of tenderloin, we opt for the deeper flavor of working muscle. Braising collagen-rich chuck slowly transforms connective tissue into gelatin, creating a natural viscosity that no roux can match. We finish the dish with our house-made crème fraîche (10-12), which provides a nutty, buttery richness and — unlike sour cream — will not break or curdle when stirred into a hot sauce. The dish's roots are Franco-Russian: credited to a French chef in the employ of the Stroganov family in 19th-century St. Petersburg, it is a study in French braising technique applied to Russian pantry staples. **Teaching Idea: The Pinçage.** Browning tomato paste in fat before adding liquid changes its chemistry, converting raw tinny acidity into deep caramelized umami (free glutamates) that anchors the entire sauce.
 
-## Mise en Place (Action Checklist)
-
-- **Preheat** the oven to 325°F/163°C.
-- **Butcher** the beef chuck into uniform 1½-inch cubes. Pat completely dry.
-- **Mince** the fresh thyme leaves.
-- **Dice** the onions (medium dice) and slice the mushrooms thickly.
-- **Temper** the crème fraîche and Dijon by allowing them to sit at room temperature.
-
 ## Ingredients
 
 ### The Protein
@@ -42,6 +34,14 @@ While traditional Stroganoff is a quick sauté of tenderloin, we opt for the dee
 - 240 g (1 cup) cultured crème fraîche (see *10-12*)
 - 30 g (2 tbsp) Dijon mustard
 - 10 g (¼ cup) chives, finely minced
+
+## Mise en Place (Action Checklist)
+
+- **Preheat** the oven to 325°F/163°C.
+- **Butcher** the beef chuck into uniform 1½-inch cubes. Pat completely dry.
+- **Mince** the fresh thyme leaves.
+- **Dice** the onions (medium dice) and slice the mushrooms thickly.
+- **Temper** the crème fraîche and Dijon by allowing them to sit at room temperature.
 
 ## Method
 

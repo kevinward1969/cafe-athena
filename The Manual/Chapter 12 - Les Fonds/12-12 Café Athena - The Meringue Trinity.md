@@ -8,13 +8,6 @@ A master guide to the three classical methods of egg white aeration, ranging fro
 
 Meringue is a structural foam created by the mechanical denaturation of egg white proteins (ovomucin and ovalbumin). By introducing sugar, we stabilize these protein networks, preventing them from collapsing or weeping. **Teaching Idea: Protein Denaturation.** When you whisk egg whites, the physical agitation "unfolds" the tightly coiled protein strands. These strands then bond together to trap air. Adding sugar at the correct stage coats these strands, creating a protective film that prevents the air bubbles from popping.
 
-## Mise en Place (Action Checklist)
-
-* **Degrease Equipment:** Wipe the mixing bowl and whisk attachment with a paper towel dampened with lemon juice or white vinegar to remove any trace of fat.
-* **Separate the Eggs:** Ensure no yolk (fat) enters the whites; even a single drop will prevent the proteins from bonding.
-* **Warm the Whites:** Bring egg whites to room temperature (70°F/21°C) for maximum volume.
-* **Calibrate the Thermometer:** For the Italian method, ensure your digital thermometer is ready for high-heat syrup tracking.
-
 ## Ingredients
 
 ### The Core Base
@@ -22,6 +15,13 @@ Meringue is a structural foam created by the mechanical denaturation of egg whit
 * 150 g (5 large) egg whites, room temperature
 * 300 g (1 ½ cups) granulated sugar
 * 2 g (½ tsp) Diamond Crystal kosher salt (optional stabilizer)
+
+## Mise en Place (Action Checklist)
+
+* **Degrease Equipment:** Wipe the mixing bowl and whisk attachment with a paper towel dampened with lemon juice or white vinegar to remove any trace of fat.
+* **Separate the Eggs:** Ensure no yolk (fat) enters the whites; even a single drop will prevent the proteins from bonding.
+* **Warm the Whites:** Bring egg whites to room temperature (70°F/21°C) for maximum volume.
+* **Calibrate the Thermometer:** For the Italian method, ensure your digital thermometer is ready for high-heat syrup tracking.
 
 ## Method
 

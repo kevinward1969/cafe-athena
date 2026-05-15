@@ -10,12 +10,6 @@ Traditional pickling relies on passive diffusion over days. Here, we use vacuum 
 
 **Teaching Idea: Temperature & Pressure.** You cannot vacuum-seal hot liquids. Under a strong vacuum, water's boiling point drops significantly (potentially boiling at room temperature), which creates a mess and damages the vegetable texture. Always chill your brine completely before compression.
 
-## Mise en Place (Action Checklist)
-
-* **Chill the Brine:** The brine must be below 40°F/4°C before it touches the vegetables or the vacuum machine.
-* **Sanitize Jars:** Even for quick pickles, ensure your storage vessels are clean.
-* **Select the Machine:** Ensure your vacuum sealer is ready. If using a suction-style sealer (FoodSaver), prepare a method to prevent liquid aspiration (see Chef's Notes).
-
 ## Ingredients
 
 ### The Vegetables (The Market Mix)
@@ -40,6 +34,12 @@ Traditional pickling relies on passive diffusion over days. Here, we use vacuum 
 ### The Finish
 
 * 30 g (2 tbsp) Extra Virgin Olive Oil (optional, for serving)
+
+## Mise en Place (Action Checklist)
+
+* **Chill the Brine:** The brine must be below 40°F/4°C before it touches the vegetables or the vacuum machine.
+* **Sanitize Jars:** Even for quick pickles, ensure your storage vessels are clean.
+* **Select the Machine:** Ensure your vacuum sealer is ready. If using a suction-style sealer (FoodSaver), prepare a method to prevent liquid aspiration (see Chef's Notes).
 
 ## Method
 

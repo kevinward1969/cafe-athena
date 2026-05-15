@@ -8,15 +8,6 @@ A classic comfort dish elevated through a precise blonde roux velouté and a hyd
 
 The soul of a pot pie lies in its binder. By utilizing a **velouté** — one of the five French mother sauces, made from a light stock and a roux — we achieve a silky mouthfeel without the heaviness of heavy cream. The leavened topping is a quick, cake-like batter that bakes into a tender biscuit cap, but the recipe also accepts a traditional shortcrust without modification. **Teaching Idea: Starch Gelatinization.** We cook the roux for five minutes to remove the raw flour taste while ensuring the starch granules are intact and primed to swell once the broth is added — this is the moment that determines whether the binder is silky or pasty.
 
-## Mise en Place (Action Checklist)
-
-- **Dice** the cooked chicken and cooked potato into uniform 1 cm (½-inch) cubes.
-- **Thaw** the frozen vegetables and pat them dry to avoid diluting the velouté.
-- **Whisk** the egg and milk together until fully emulsified.
-- **Preheat** the oven to 400°F/205°C.
-- **Temper the fillings:** Allow the chicken and vegetables to come to room temperature so the velouté heats evenly.
-- **Pastry note:** If using commercial pie crust instead of the leavened topping, keep it refrigerated until the moment of assembly.
-
 ## Ingredients
 
 ### The Velouté Base
@@ -40,6 +31,15 @@ The soul of a pot pie lies in its binder. By utilizing a **velouté** — one of
 - 2 g (½ tsp) Diamond Crystal kosher salt
 - 120 g (½ cup) whole milk
 - 50 g (1 large) egg
+
+## Mise en Place (Action Checklist)
+
+- **Dice** the cooked chicken and cooked potato into uniform 1 cm (½-inch) cubes.
+- **Thaw** the frozen vegetables and pat them dry to avoid diluting the velouté.
+- **Whisk** the egg and milk together until fully emulsified.
+- **Preheat** the oven to 400°F/205°C.
+- **Temper the fillings:** Allow the chicken and vegetables to come to room temperature so the velouté heats evenly.
+- **Pastry note:** If using commercial pie crust instead of the leavened topping, keep it refrigerated until the moment of assembly.
 
 ## Method
 

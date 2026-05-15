@@ -12,14 +12,6 @@ This is the ultimate test of temperature control. Unlike a flour-thickened gravy
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Cube the Butter:** Cut the butter into ½-inch cubes. Keep them **refrigerated** until the exact second they are needed.
-- **Mince the Shallots:** Cut into a standard *brunoise* (very fine dice) so they release flavor quickly and don't disrupt the texture.
-- **Prepare the Station:** Have a fine-mesh strainer and a clean sauce pot ready for the finishing stage.
-
----
-
 ## Ingredients
 
 ### The Reduction Base
@@ -37,6 +29,14 @@ This is the ultimate test of temperature control. Unlike a flour-thickened gravy
 - 1 Lemon, zest only (microplaned)
 - 5 g (2 tbsp) Fresh Dill, minced (optional)
 - White Pepper to taste
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Cube the Butter:** Cut the butter into ½-inch cubes. Keep them **refrigerated** until the exact second they are needed.
+- **Mince the Shallots:** Cut into a standard *brunoise* (very fine dice) so they release flavor quickly and don't disrupt the texture.
+- **Prepare the Station:** Have a fine-mesh strainer and a clean sauce pot ready for the finishing stage.
 
 ---
 

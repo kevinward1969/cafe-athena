@@ -12,14 +12,6 @@ This technique relies on controlled re-crystallization. By wetting the salt just
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Preheat the oven:** Set to 175°F/80°C or its lowest possible setting (Keep Warm).
-- **Prepare the tray:** Line a quarter-sheet pan with parchment paper.
-- **Misfire check:** Ensure your liquid smoke is brand new or well-shaken; sediment settles at the bottom.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -27,6 +19,14 @@ This technique relies on controlled re-crystallization. By wetting the salt just
 - 100 g (1 cup) Diamond Crystal Kosher Salt
 - 15 g (1 tbsp) liquid smoke (See Variations for wood profiles)
 - 1 g (1 pinch) sugar (Optional, for "Bark" formation)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat the oven:** Set to 175°F/80°C or its lowest possible setting (Keep Warm).
+- **Prepare the tray:** Line a quarter-sheet pan with parchment paper.
+- **Misfire check:** Ensure your liquid smoke is brand new or well-shaken; sediment settles at the bottom.
 
 ---
 

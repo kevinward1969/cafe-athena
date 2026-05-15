@@ -12,15 +12,6 @@ Unlike the flour-thickened sauces of the mother sauce family (like Béchamel), B
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Chill the Fat:** Cut the butter into small 1 cm cubes and return them to the refrigerator immediately. They must be ice-cold when they hit the pan.
-- **Prep the Aromatics:** Thinly mince the shallots and mushrooms to maximize surface area for extraction.
-- **Bruise the Spices:** Gently crush the juniper berries and garlic clove with the side of a knife to release oils.
-- **Clarify the Workspace:** Set up a fine-mesh sieve (chinois) over a clean saucepan before you begin reducing.
-
----
-
 ## Ingredients
 
 ### The Reduction Base
@@ -47,6 +38,15 @@ Unlike the flour-thickened sauces of the mother sauce family (like Béchamel), B
 - 150 g (10.5 tbsp) Unsalted Butter, cubed and ice-cold
 - Diamond Crystal Kosher Salt, to taste
 - Black Pepper, freshly ground, to taste
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill the Fat:** Cut the butter into small 1 cm cubes and return them to the refrigerator immediately. They must be ice-cold when they hit the pan.
+- **Prep the Aromatics:** Thinly mince the shallots and mushrooms to maximize surface area for extraction.
+- **Bruise the Spices:** Gently crush the juniper berries and garlic clove with the side of a knife to release oils.
+- **Clarify the Workspace:** Set up a fine-mesh sieve (chinois) over a clean saucepan before you begin reducing.
 
 ---
 

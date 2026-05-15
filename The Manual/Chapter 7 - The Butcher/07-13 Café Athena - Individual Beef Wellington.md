@@ -8,16 +8,6 @@ Tender beef tenderloin encased in savory duxelles, prosciutto, and Boursin chees
 
 The Wellington is one of the most technically demanding compositions in the home cook's repertoire — not because any single step is difficult, but because every element must be executed in sequence and at the correct temperature before the next begins. The duxelles must be bone-dry and fully cold. The fillet must be seared, rested, and fully cold. The pastry must be chilled until the moment it wraps. Warmth at any stage is the enemy of a shatteringly crisp crust. **Teaching Idea: The Moisture Stack.** Every layer in this Wellington — prosciutto, duxelles, Boursin — serves a structural function beyond flavor. The prosciutto acts as a fat barrier, preventing mushroom moisture from contacting the pastry directly. The Boursin provides a fatty adhesive layer that bonds the fillet to the filling and seasons from the inside out. Together, they protect the pastry from sogging while the fillet reaches temperature.
 
-## Mise en Place (Action Checklist)
-
-- **Pre-salt the fillets:** Season generously with Diamond Crystal kosher salt 45 minutes before cooking. Leave uncovered at room temperature. Pat bone dry with paper towels immediately before searing.
-- **Chop the mushrooms:** Hand-chop to ¼-inch pieces. Do not use a food processor — the blade releases too much water and produces a paste rather than a textured duxelles.
-- **Prep the aromatics:** Slice shallots thinly; mince garlic (kept separate from shallots — it goes in last).
-- **Roll and chill the pastry:** Roll puff pastry to ¼-inch thickness. Cut 4 squares, approximately 6 inches per side. Place on a parchment-lined tray and refrigerate for 1 hour before use.
-- **Divide the Boursin:** Quarter one package into 4 equal portions. Keep refrigerated until assembly.
-- **Prepare the egg wash:** Whisk 1 large egg with 1 tsp water. Set aside.
-- **Preheat the oven:** 400°F/205°C, with a rack in the upper-middle position.
-
 ## Ingredients
 
 ### The Fillets
@@ -54,6 +44,16 @@ The Wellington is one of the most technically demanding compositions in the home
 - 120 ml (½ cup) Madeira wine *(see Wine Selection table in Chef's Notes)*
 - 480 ml (2 cups) beef broth — *or substitute 120 ml (½ cup) with demi-glace from 10-19 for a deeper, more refined sauce; see also 10-17 Fond Brun as the broth base*
 - Diamond Crystal kosher salt and black pepper, to taste
+
+## Mise en Place (Action Checklist)
+
+- **Pre-salt the fillets:** Season generously with Diamond Crystal kosher salt 45 minutes before cooking. Leave uncovered at room temperature. Pat bone dry with paper towels immediately before searing.
+- **Chop the mushrooms:** Hand-chop to ¼-inch pieces. Do not use a food processor — the blade releases too much water and produces a paste rather than a textured duxelles.
+- **Prep the aromatics:** Slice shallots thinly; mince garlic (kept separate from shallots — it goes in last).
+- **Roll and chill the pastry:** Roll puff pastry to ¼-inch thickness. Cut 4 squares, approximately 6 inches per side. Place on a parchment-lined tray and refrigerate for 1 hour before use.
+- **Divide the Boursin:** Quarter one package into 4 equal portions. Keep refrigerated until assembly.
+- **Prepare the egg wash:** Whisk 1 large egg with 1 tsp water. Set aside.
+- **Preheat the oven:** 400°F/205°C, with a rack in the upper-middle position.
 
 ## Method
 

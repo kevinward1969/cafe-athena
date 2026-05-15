@@ -8,13 +8,6 @@ The Roman classic, perfected with modernist chemistry for an unbreakable emulsio
 
 This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Traditional recipes rely on pasta starch and luck to emulsify the cheese. We remove the luck by using Sodium Citrate, a "melting salt" that chelates calcium ions in the cheese, preventing the proteins from tightening and separating. The result is a texture indistinguishable from the classic, but with bulletproof stability. **Teaching Idea: Protein Modification via Chelating Salts.** How Sodium Citrate relaxes casein proteins to allow oil and water to mix permanently.
 
-## Mise en Place (Action Checklist)
-
-* **Finely grate** the Pecorino Romano (use a Microplane for best melting).
-* **Crush** whole peppercorns (mortar and pestle is best for jagged, coarse distinct bits).
-* **Weigh** the Sodium Citrate precisely (a micro-scale is recommended).
-* **Bring** a medium pot of salted water to a boil.
-
 ## Ingredients
 
 **The Sauce Base**
@@ -29,6 +22,13 @@ This recipe solves the biggest problem with Cacio e Pepe: the sauce breaking. Tr
 
 * 250 g (8.8 oz) spaghetti, bucatini, or tonnarelli
 * salt (for pasta water)
+
+## Mise en Place (Action Checklist)
+
+* **Finely grate** the Pecorino Romano (use a Microplane for best melting).
+* **Crush** whole peppercorns (mortar and pestle is best for jagged, coarse distinct bits).
+* **Weigh** the Sodium Citrate precisely (a micro-scale is recommended).
+* **Bring** a medium pot of salted water to a boil.
 
 ## Method
 

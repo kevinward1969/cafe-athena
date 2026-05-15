@@ -10,15 +10,6 @@ This recipe elevates the humble potato into a geometric exercise in texture. By 
 
 **Teaching Idea: Mechanical Dehydration.** By aggressively wringing moisture from the potatoes and onions using a cloth, we remove the water that would otherwise turn to steam and compromise the structural integrity of the starch "glue."
 
-## Mise en Place (Action Checklist)
-
-* **Grate the Potatoes:** Process the Agria potatoes designated for the shredded component through a box grater.
-* **Dice the Potatoes:** Cut the remaining Agria potatoes into 2 cm chunks.
-* **Chop the Onions:** Roughly chop the onions in preparation for blending.
-* **Prepare a Cold Water Bath:** Fill a large bowl with cold water for washing the shreds.
-* **Line the Tray:** Line a small, high-sided tray or loaf tin with non-stick baking paper.
-* **Set Out Cloth:** Prepare a clean, lint-free kitchen towel or cheesecloth for wringing.
-
 ## Ingredients
 
 **The Potato Components**
@@ -37,6 +28,15 @@ This recipe elevates the humble potato into a geometric exercise in texture. By 
 
 * 400 g (1 ¾ cups) clarified butter
 * Neutral oil, for deep frying
+
+## Mise en Place (Action Checklist)
+
+* **Grate the Potatoes:** Process the Agria potatoes designated for the shredded component through a box grater.
+* **Dice the Potatoes:** Cut the remaining Agria potatoes into 2 cm chunks.
+* **Chop the Onions:** Roughly chop the onions in preparation for blending.
+* **Prepare a Cold Water Bath:** Fill a large bowl with cold water for washing the shreds.
+* **Line the Tray:** Line a small, high-sided tray or loaf tin with non-stick baking paper.
+* **Set Out Cloth:** Prepare a clean, lint-free kitchen towel or cheesecloth for wringing.
 
 ## Method
 

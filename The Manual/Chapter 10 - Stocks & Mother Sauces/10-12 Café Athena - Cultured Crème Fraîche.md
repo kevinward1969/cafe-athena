@@ -14,14 +14,6 @@ While sour cream relies on acid to thicken, true Crème Fraîche relies on high 
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Sterilize the Vessel:** Wash a 1-pint (half-quart) Mason jar and its ring with boiling water. Dry completely.
-- **Temper the Dairy:** Ensure the heavy cream is between 22°C–25°C (72°F–77°F).
-- **Prepare the Cover:** Cut a square of cheesecloth or a coffee filter to fit the jar mouth.
-
----
-
 ## Ingredients
 
 ### The Matrix
@@ -31,6 +23,14 @@ While sour cream relies on acid to thicken, true Crème Fraîche relies on high 
 ### The Inoculant
 
 - 30 g (2 tbsp) Cultured Buttermilk (Must contain live active cultures)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Sterilize the Vessel:** Wash a 1-pint (half-quart) Mason jar and its ring with boiling water. Dry completely.
+- **Temper the Dairy:** Ensure the heavy cream is between 22°C–25°C (72°F–77°F).
+- **Prepare the Cover:** Cut a square of cheesecloth or a coffee filter to fit the jar mouth.
 
 ---
 

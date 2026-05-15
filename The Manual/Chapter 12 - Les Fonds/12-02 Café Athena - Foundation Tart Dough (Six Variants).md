@@ -14,18 +14,6 @@ This document is the production reference for every shell we serve — from a ga
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Scale and group:** Weigh all ingredients and group them by component before mixing begins.
-- **For the Sanding Method:** Cut butter into 1 cm cubes and return to the refrigerator. Butter must remain cold enough that it does not smear when pressed — firm, not waxy.
-- **For the Creaming Method:** Remove butter from the refrigerator 30–45 minutes before mixing. It should yield to thumb pressure without being greasy or shiny.
-- **Sift the dry goods:** Pass the icing sugar (and almond flour, if using) through a fine-mesh sieve to eliminate lumps.
-- **Temper the eggs:** Bring whole eggs or yolks to room temperature.
-- **Prepare the pans:** Line two half-sheet pans with perforated silicone mats or parchment paper. If using tart rings, arrange them on the lined pans. If using an inverted muffin pan, have it lightly greased and ready on the bench.
-- **Preheat oven:** 325°F/160°C for the Slow Bake or 350°F/175°C for the Rapid Bake — see Baking Specifications in Chef's Notes.
-
----
-
 ## Ingredients
 
 ### The Base Formula (2.5× Production Scale — Variant 1: The Workhorse)
@@ -52,6 +40,18 @@ Modify only the values shown. Where a cell is blank, use the Base Formula quanti
 | **6. Egg-Only Shift** | — | — | — | — | 100 g yolks + 15 g cream | Optional | Apply as modifier to any variant; cream compensates for yolk's lower free water |
 
 **Reading the table:** Start with the Base Formula. Swap out only the ingredients that have an entry in the selected variant's row. Variant 6 is a modifier, not a standalone formula — apply it to any other variant by substituting yolks for whole eggs at approximately 80% by weight and adding 15 g cream to restore workability. For sweet applications of Variant 6, add ½ tsp vanilla paste.
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Scale and group:** Weigh all ingredients and group them by component before mixing begins.
+- **For the Sanding Method:** Cut butter into 1 cm cubes and return to the refrigerator. Butter must remain cold enough that it does not smear when pressed — firm, not waxy.
+- **For the Creaming Method:** Remove butter from the refrigerator 30–45 minutes before mixing. It should yield to thumb pressure without being greasy or shiny.
+- **Sift the dry goods:** Pass the icing sugar (and almond flour, if using) through a fine-mesh sieve to eliminate lumps.
+- **Temper the eggs:** Bring whole eggs or yolks to room temperature.
+- **Prepare the pans:** Line two half-sheet pans with perforated silicone mats or parchment paper. If using tart rings, arrange them on the lined pans. If using an inverted muffin pan, have it lightly greased and ready on the bench.
+- **Preheat oven:** 325°F/160°C for the Slow Bake or 350°F/175°C for the Rapid Bake — see Baking Specifications in Chef's Notes.
 
 ---
 

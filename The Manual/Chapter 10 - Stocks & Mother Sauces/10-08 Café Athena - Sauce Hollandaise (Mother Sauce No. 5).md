@@ -12,18 +12,6 @@ Traditional Hollandaise (Mother Sauce No. 3) is notoriously unstable, relying on
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Select the vessel:** Find a jar or beaker that is barely wider than the head of your immersion blender.
-
-> Why: If the vessel is too wide, the yolks will spread too thin, and the blades will not catch them, preventing emulsification.
-
-- **Separate the eggs:** Place yolks directly into the blending vessel.
-- **Cube the butter:** Cut butter into tablespoon-sized pieces for even melting.
-- **Prepare a landing zone:** Place a damp towel under the blending vessel to prevent it from spinning during operation.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -37,6 +25,18 @@ Traditional Hollandaise (Mother Sauce No. 3) is notoriously unstable, relying on
 ### The Heat
 
 - 225 g (1 cup / 2 sticks) Unsalted Butter
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Select the vessel:** Find a jar or beaker that is barely wider than the head of your immersion blender.
+
+> Why: If the vessel is too wide, the yolks will spread too thin, and the blades will not catch them, preventing emulsification.
+
+- **Separate the eggs:** Place yolks directly into the blending vessel.
+- **Cube the butter:** Cut butter into tablespoon-sized pieces for even melting.
+- **Prepare a landing zone:** Place a damp towel under the blending vessel to prevent it from spinning during operation.
 
 ---
 

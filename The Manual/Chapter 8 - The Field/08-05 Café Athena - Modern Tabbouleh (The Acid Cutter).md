@@ -14,15 +14,6 @@ This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Inst
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Extract Tomato Water:** Blitz tomatoes with salt and strain to collect the clear liquid.
-- **Juice the Lemons:** Squeeze fresh lemons to yield the required volume.
-- **Knife Work:** Finely dice the cucumber and slice the scallions.
-- **Herb Prep:** Pick parsley and mint leaves; wash and dry thoroughly before chopping.
-
----
-
 ## Ingredients
 
 ### The Grain Base
@@ -42,6 +33,15 @@ This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Inst
 - 4 Scallions (Green Onions), thinly sliced
 - 60 g (2 cups, packed) Fresh Parsley, finely chopped
 - 15 g (½ cup, packed) Fresh Mint, finely chopped
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Extract Tomato Water:** Blitz tomatoes with salt and strain to collect the clear liquid.
+- **Juice the Lemons:** Squeeze fresh lemons to yield the required volume.
+- **Knife Work:** Finely dice the cucumber and slice the scallions.
+- **Herb Prep:** Pick parsley and mint leaves; wash and dry thoroughly before chopping.
 
 ---
 

@@ -12,14 +12,6 @@ True Bolognese is not a tomato sauce with meat; it is a meat sauce supported by 
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Prepare the Soffritto:** Finely dice the onion, carrot, and celery into a precise 2mm brunoise.
-- **Temper the Proteins:** Remove ground meats from the fridge 20 minutes before cooking.
-- **Oven Setup:** (Optional) Preheat oven to 300°F/150°C if choosing the oven-braise method.
-
----
-
 ## Ingredients
 
 ### The Base (Soffritto & Fats)
@@ -50,6 +42,14 @@ True Bolognese is not a tomato sauce with meat; it is a meat sauce supported by 
 - Diamond Crystal Kosher Salt (to taste)
 - Freshly cracked Black Pepper
 - Nutmeg (freshly grated), small pinch
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the Soffritto:** Finely dice the onion, carrot, and celery into a precise 2mm brunoise.
+- **Temper the Proteins:** Remove ground meats from the fridge 20 minutes before cooking.
+- **Oven Setup:** (Optional) Preheat oven to 300°F/150°C if choosing the oven-braise method.
 
 ---
 

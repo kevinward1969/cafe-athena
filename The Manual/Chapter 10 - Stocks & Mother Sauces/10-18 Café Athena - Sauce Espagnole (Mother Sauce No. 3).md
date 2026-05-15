@@ -12,15 +12,6 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Mirepoix:** Small dice (brunoise) the carrots, onions, and celery to maximize surface area for browning.
-- **Stock:** Ensure the *Fond Brun* (Brown Stock) is hot or at least room temperature before adding to the roux to prevent seizing.
-- **Sachet:** Prepare the aromatic sachet (herbs tied in cheesecloth).
-- **Clarified Butter:** Have fat ready for the roux.
-
----
-
 ## Ingredients
 
 ### The Roux & Aromatics
@@ -36,6 +27,15 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 - 30 g (2 tbsp) Tomato paste
 - 1.2 kg (5 cups) *Café Athena - Pressure-Roasted Brown Stock (Fond Brun)*
 - 1 sachet d'épices (1 bay leaf, 3 sprigs thyme, 5 peppercorns, 2 parsley stems)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Mirepoix:** Small dice (brunoise) the carrots, onions, and celery to maximize surface area for browning.
+- **Stock:** Ensure the *Fond Brun* (Brown Stock) is hot or at least room temperature before adding to the roux to prevent seizing.
+- **Sachet:** Prepare the aromatic sachet (herbs tied in cheesecloth).
+- **Clarified Butter:** Have fat ready for the roux.
 
 ---
 

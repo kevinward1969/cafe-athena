@@ -10,14 +10,6 @@ This recipe establishes a technical framework for seed-based caviar, moving beyo
 
 **Teaching Idea:** **Seed-Based Viscosity.** Many seeds contain high levels of soluble fiber (mucilage) in their outer hull. When exposed to liquid, they create a controlled gel-halo that stabilizes the flavor medium around a distinct core, providing a sensory experience nearly identical to hydrated protein spheres.
 
-## Mise en Place (Action Checklist)
-
-* **Sift the seeds:** Pass seeds through a fine-mesh sieve to remove dust or broken hulls.
-* **Process the nori:** Blend nori sheets in a spice grinder or high-speed blender into a fine, aromatic powder.
-* **Prepare the aromatics:** Finely mince the capers into a smooth paste to ensure they integrate into the gel without disrupting the spherical aesthetic.
-* **Chill the liquids:** Ensure the water, dashi, or oyster liquor is chilled to 40°F/4°C to prevent premature seed "blowout."
-* **Execute pre-treatments:** Par-boil Amaranth or Sago (see Folio 01-20) or begin lacto-fermentation for mustard seeds (see Folio 01-21) if using variants.
-
 ## Ingredients
 
 **The Foundation (Ground Truth)**
@@ -37,6 +29,14 @@ This recipe establishes a technical framework for seed-based caviar, moving beyo
 * **The Umami Binder:** 15 ml (1 tbsp) oyster sauce (replaces 15 ml soy sauce).
 * **The Midnight Pigment:** 5 g (1 tsp) squid ink (replaces or augments nori).
 * **The Professional Gloss:** 15 ml (1 tbsp) kombu-infused grapeseed oil (replaces olive oil).
+
+## Mise en Place (Action Checklist)
+
+* **Sift the seeds:** Pass seeds through a fine-mesh sieve to remove dust or broken hulls.
+* **Process the nori:** Blend nori sheets in a spice grinder or high-speed blender into a fine, aromatic powder.
+* **Prepare the aromatics:** Finely mince the capers into a smooth paste to ensure they integrate into the gel without disrupting the spherical aesthetic.
+* **Chill the liquids:** Ensure the water, dashi, or oyster liquor is chilled to 40°F/4°C to prevent premature seed "blowout."
+* **Execute pre-treatments:** Par-boil Amaranth or Sago (see Folio 01-20) or begin lacto-fermentation for mustard seeds (see Folio 01-21) if using variants.
 
 ## Method
 

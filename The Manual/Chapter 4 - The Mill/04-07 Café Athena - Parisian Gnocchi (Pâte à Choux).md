@@ -10,15 +10,6 @@ Unlike their dense potato cousins, Parisian Gnocchi are built on *Pâte à Choux
 
 **Teaching Idea:** The Panade (Starch Gelatinization). Cooking the flour and butter together before adding eggs is not just about mixing; it is about moisture control. By "drying out" the dough in the pot, you evaporate excess water, allowing the dough to absorb more egg (fat and emulsifiers) later. This creates the steam necessary for the gnocchi to puff during the final sear.
 
-## Mise en Place
-
-* **Weigh all ingredients:** Precision is critical for the choux ratio.
-* **Prepare the poaching liquid:** Bring a large pot of water to a rolling boil and salt heavily (like the sea).
-* **Set up the ice bath:** Prepare a bowl with ice and water to shock the gnocchi.
-* **Prepare the piping bag:** Fit a large piping bag with a ½-inch (1.25 cm) round tip (or simply cut the tip).
-* **Mise the herbs:** Finely chop the chives and parsley.
-* **Grate the cheese:** Microplane the Gruyère and Parmesan.
-
 ## Ingredients
 
 **The Panade (The Base)**
@@ -43,6 +34,15 @@ Unlike their dense potato cousins, Parisian Gnocchi are built on *Pâte à Choux
 
 * 30 g (2 tbsp) Unsalted Butter
 * 15 ml (1 tbsp) Neutral Oil (Grapeseed or Canola)
+
+## Mise en Place
+
+* **Weigh all ingredients:** Precision is critical for the choux ratio.
+* **Prepare the poaching liquid:** Bring a large pot of water to a rolling boil and salt heavily (like the sea).
+* **Set up the ice bath:** Prepare a bowl with ice and water to shock the gnocchi.
+* **Prepare the piping bag:** Fit a large piping bag with a ½-inch (1.25 cm) round tip (or simply cut the tip).
+* **Mise the herbs:** Finely chop the chives and parsley.
+* **Grate the cheese:** Microplane the Gruyère and Parmesan.
 
 ## Method
 

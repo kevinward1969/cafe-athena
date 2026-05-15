@@ -8,14 +8,6 @@ A Japanese-inspired riff on Italian wedding soup featuring ginger, miso, sake, a
 
 This "Wafu" (Japanese-style) variant reimagines the Italian classic. We trade the mirepoix for a ginger-scallion base and swap the parmesan finish for the deep umami of white miso. The creamy Boursin meatballs and smoky bacon act as the bridge between the Western and Eastern profiles, creating a soup that is rich yet remarkably clean. **Teaching Idea: Miso Integrity.** Miso is a living ferment — its volatile aromatics and probiotic character are destroyed by direct heat. By killing the burner before tempering the miso into the broth, we preserve both the nuanced flavor and the gut-friendly cultures that define real white miso.
 
-## Mise en Place (Action Checklist)
-
-- **Have ready:** 1 batch of roasted **Mini Boursin & Bacon Meatballs** (Chapter 3), warm or at room temperature.
-- **Cube the chicken:** Cut chicken breasts into 1-inch (2.5 cm) cubes. Pat dry with paper towels.
-- **Prep aromatics:** Peel and mince the ginger and garlic. Thinly slice the scallions, separating the **whites** (for cooking) from the **greens** (for garnish).
-- **Measure the miso:** Place miso paste into a small bowl near the stove for the final temper.
-- **Measure the couscous:** Have the Israeli couscous portioned and ready.
-
 ## Ingredients
 
 ### The Proteins
@@ -40,6 +32,14 @@ This "Wafu" (Japanese-style) variant reimagines the Italian classic. We trade th
 - 45 g (3 tbsp) white (shiro) miso paste
 - 150 g (5 oz) fresh spinach
 - Shichimi togarashi, for dusting
+
+## Mise en Place (Action Checklist)
+
+- **Have ready:** 1 batch of roasted **Mini Boursin & Bacon Meatballs** (Chapter 3), warm or at room temperature.
+- **Cube the chicken:** Cut chicken breasts into 1-inch (2.5 cm) cubes. Pat dry with paper towels.
+- **Prep aromatics:** Peel and mince the ginger and garlic. Thinly slice the scallions, separating the **whites** (for cooking) from the **greens** (for garnish).
+- **Measure the miso:** Place miso paste into a small bowl near the stove for the final temper.
+- **Measure the couscous:** Have the Israeli couscous portioned and ready.
 
 ## Method
 

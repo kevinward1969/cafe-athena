@@ -10,13 +10,6 @@ This preparation relies on conductive heat traveling through the skin to cook th
 
 **Teaching Idea:** **Unilateral Searing.** Using the skin as a thermal regulator allows the cook to protect the protein's cellular integrity while aggressively dehydrating the surface for maximum crunch. The skin acts as an insulating barrier; by the time conductive heat reaches the top of the fillet, the flesh is just cooked through without ever touching the pan.
 
-## Mise en Place (Action Checklist)
-
-* **Prepare the Brine:** Dissolve the salt fully in the water in a non-reactive container.
-* **Portion the Fish:** Ensure fillets are of equal thickness for even cooking.
-* **Temper the Fats:** Allow the butter and miso to reach room temperature (70°F/21°C) so they emulsify quickly in the pan.
-* **Dehydrate the Surface:** Pat the fish skin extremely dry with paper towels. An air-dry rest in the refrigerator is strongly recommended (see Method).
-
 ## Ingredients
 
 **The Brine**
@@ -34,6 +27,13 @@ This preparation relies on conductive heat traveling through the skin to cook th
 * 45 g (3 tbsp) unsalted butter
 * 15 g (1 tbsp) red miso
 * 1 lemon, juice only
+
+## Mise en Place (Action Checklist)
+
+* **Prepare the Brine:** Dissolve the salt fully in the water in a non-reactive container.
+* **Portion the Fish:** Ensure fillets are of equal thickness for even cooking.
+* **Temper the Fats:** Allow the butter and miso to reach room temperature (70°F/21°C) so they emulsify quickly in the pan.
+* **Dehydrate the Surface:** Pat the fish skin extremely dry with paper towels. An air-dry rest in the refrigerator is strongly recommended (see Method).
 
 ## Method
 

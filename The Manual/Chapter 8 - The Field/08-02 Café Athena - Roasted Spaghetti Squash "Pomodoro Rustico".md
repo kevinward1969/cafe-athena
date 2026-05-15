@@ -14,16 +14,6 @@ We replace the traditional heavy pasta sauce with a "Rustico" preparation—rapi
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Preheat** oven to 400°F/205°C.
-- **Split and Scoop** the squash lengthwise; remove seeds.
-- **Salt and Sweat** the squash flesh (wait 15 minutes, then pat dry).
-- **Hand-Crush** the tomatoes into large, irregular chunks (if using canned) or rough dice (if fresh).
-- **Slice** the garlic thinly (do not mince; we want visible slivers).
-
----
-
 ## Ingredients
 
 ### The Squash
@@ -46,6 +36,16 @@ We replace the traditional heavy pasta sauce with a "Rustico" preparation—rapi
 
 - 15 g (½ cup) Fresh Basil Leaves, torn
 - 30 g (¼ cup) Parmigiano-Reggiano, grated
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Preheat** oven to 400°F/205°C.
+- **Split and Scoop** the squash lengthwise; remove seeds.
+- **Salt and Sweat** the squash flesh (wait 15 minutes, then pat dry).
+- **Hand-Crush** the tomatoes into large, irregular chunks (if using canned) or rough dice (if fresh).
+- **Slice** the garlic thinly (do not mince; we want visible slivers).
 
 ---
 

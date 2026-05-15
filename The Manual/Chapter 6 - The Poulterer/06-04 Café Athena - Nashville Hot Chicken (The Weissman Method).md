@@ -8,14 +8,6 @@ Deep-fried poultry featuring a "craggy" buttermilk crust and a lipophilic bloomi
 
 This technique relies on the "Wet-Dry-Wet" dredging system to maximize surface area. By drizzling a small amount of the liquid binder into the dry flour before dredging, we create artificial "craggy bits"—clusters of crunchy batter that adhere to the chicken. The heat comes not from the breading, but from a post-fry suspension of spices bloomed in the hot cooking oil. **Teaching Idea:** **The Dry Brine.** Unlike wet brining, which dilutes flavor with water, salting the meat directly (dry brining) uses osmotic pressure to draw moisture out, dissolve the salt, and reabsorb the concentrated brine into the muscle. This denatures the proteins for juiciness without waterlogging the meat.
 
-## Mise en Place (Action Checklist)
-
-* **Fabricate:** Separate the leg quarters into drums and thighs.
-* **Dry Brine:** Salt the chicken at least 4 hours (ideally 24 hours) in advance.
-* **Preheat Oil:** Bring frying oil to 350°F/175°C in a Dutch oven or heavy pot.
-* **Station Setup:** Organize the Wet Bowl and Dry Bowl side-by-side.
-* **Glaze Prep:** Have the heat-proof metal bowl with the spice mix ready near the fryer.
-
 ## Ingredients
 
 **The Poultry & Cure**
@@ -45,6 +37,14 @@ This technique relies on the "Wet-Dry-Wet" dredging system to maximize surface a
 * 12 g (2 tbsp) Smoked Paprika
 * 8 g (1 tbsp) Garlic Powder
 * 4 g (1 tsp) Diamond Crystal Kosher Salt
+
+## Mise en Place (Action Checklist)
+
+* **Fabricate:** Separate the leg quarters into drums and thighs.
+* **Dry Brine:** Salt the chicken at least 4 hours (ideally 24 hours) in advance.
+* **Preheat Oil:** Bring frying oil to 350°F/175°C in a Dutch oven or heavy pot.
+* **Station Setup:** Organize the Wet Bowl and Dry Bowl side-by-side.
+* **Glaze Prep:** Have the heat-proof metal bowl with the spice mix ready near the fryer.
 
 ## Method
 

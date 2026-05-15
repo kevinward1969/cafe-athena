@@ -14,14 +14,6 @@ While Classic Pâte Feuilletée relies on a precision butter-block lock-in, Roug
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Chill everything:** Place the mixing bowl and flour in the freezer for 15 minutes before starting.
-- **Cube the butter:** Cut the butter into large 2 cm (¾ inch) cubes. Keep them frozen until the last second.
-- **Prepare ice water:** Dissolve the salt in the water and keep it on ice.
-
----
-
 ## Ingredients
 
 ### The Dry Mix
@@ -35,6 +27,14 @@ While Classic Pâte Feuilletée relies on a precision butter-block lock-in, Roug
 - 450 g (1 lb / 4 sticks) unsalted butter, frozen cubes
 - 200–225 g (¾–1 cup) ice water
 - 5 ml (1 tsp) lemon juice or white vinegar
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Chill everything:** Place the mixing bowl and flour in the freezer for 15 minutes before starting.
+- **Cube the butter:** Cut the butter into large 2 cm (¾ inch) cubes. Keep them frozen until the last second.
+- **Prepare ice water:** Dissolve the salt in the water and keep it on ice.
 
 ---
 

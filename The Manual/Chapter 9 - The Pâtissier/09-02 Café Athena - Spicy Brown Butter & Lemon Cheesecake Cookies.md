@@ -14,15 +14,6 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- Retrieve the spicy brown butter from the refrigerator and allow to temper to room temperature (70°F/21°C).
-- **Zest the lemon:** Microplane the zest directly over the weighed sugar to catch the oils.
-- **Temper the ingredients:** Ensure the solidified brown butter, cream cheese, and egg are all at room temperature (70°F/21°C).
-- **Prepare the coating:** Place the coarse raw sugar in a shallow bowl.
-
----
-
 ## Ingredients
 
 ### The Dry Mix
@@ -45,6 +36,15 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 ### The Coating
 
 - 100 g (½ cup) Turbinado or Raw Sugar (Demerara)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- Retrieve the spicy brown butter from the refrigerator and allow to temper to room temperature (70°F/21°C).
+- **Zest the lemon:** Microplane the zest directly over the weighed sugar to catch the oils.
+- **Temper the ingredients:** Ensure the solidified brown butter, cream cheese, and egg are all at room temperature (70°F/21°C).
+- **Prepare the coating:** Place the coarse raw sugar in a shallow bowl.
 
 ---
 

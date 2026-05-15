@@ -10,14 +10,6 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 **Teaching Idea: Thermal Maillard Optimization.** By searing the hand-cut cubes in small batches, we prevent the pot's temperature from dropping, ensuring a high-quality crust rather than steaming the meat in its own juices.
 
-## Mise en Place (Action Checklist)
-
-* [ ] **Prep Proteins:** Hand-dice 7 lbs (3175 g) of beef chuck into 1 cm cubes; process 3 lbs (1360 g) of beef through a 10 mm grinder plate.
-* [ ] **Construct Chili Paste:** Stem, seed, and toast dried pods; rehydrate and blend until smooth.
-* [ ] **Fortify Liquids:** Whisk miso, fish sauce, and cocoa into the beef demi-glace and stock.
-* [ ] **Aromatic Prep:** Finely dice onions and poblano peppers; mince garlic.
-* [ ] **Station Setup:** Measure apple cider vinegar, Sazón, and dry spices.
-
 ## Ingredients
 
 #### The Beef Foundation
@@ -49,6 +41,14 @@ Designed for the high-stakes environment of a professional cook-off, this "Texas
 
 * 60 ml (¼ cup) apple cider vinegar
 * Diamond Crystal kosher salt, to taste
+
+## Mise en Place (Action Checklist)
+
+* [ ] **Prep Proteins:** Hand-dice 7 lbs (3175 g) of beef chuck into 1 cm cubes; process 3 lbs (1360 g) of beef through a 10 mm grinder plate.
+* [ ] **Construct Chili Paste:** Stem, seed, and toast dried pods; rehydrate and blend until smooth.
+* [ ] **Fortify Liquids:** Whisk miso, fish sauce, and cocoa into the beef demi-glace and stock.
+* [ ] **Aromatic Prep:** Finely dice onions and poblano peppers; mince garlic.
+* [ ] **Station Setup:** Measure apple cider vinegar, Sazón, and dry spices.
 
 ## Method
 

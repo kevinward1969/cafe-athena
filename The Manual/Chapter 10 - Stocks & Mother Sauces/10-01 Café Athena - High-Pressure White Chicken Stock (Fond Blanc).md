@@ -12,14 +12,6 @@ By using a pressure cooker, we raise the boiling point of water to roughly 250°
 
 ---
 
-## Mise en Place
-
-- Chop the chicken wings or carcasses into 2-3 inch pieces (using a cleaver or heavy shears) to maximize surface area.
-- Wash and peel vegetables.
-- Prepare an ice bath for rapid cooling.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -36,6 +28,14 @@ By using a pressure cooker, we raise the boiling point of water to roughly 250°
 - 2 sprigs fresh thyme
 - 1 bay leaf
 - 1 tsp black peppercorns
+
+---
+
+## Mise en Place
+
+- Chop the chicken wings or carcasses into 2-3 inch pieces (using a cleaver or heavy shears) to maximize surface area.
+- Wash and peel vegetables.
+- Prepare an ice bath for rapid cooling.
 
 ---
 

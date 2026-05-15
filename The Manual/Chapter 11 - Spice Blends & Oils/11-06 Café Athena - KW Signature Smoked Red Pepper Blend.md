@@ -12,17 +12,6 @@ This is a two-stage process — and the separation of those stages is the point.
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- Prepare the offset smoker with a base fire; plan this process to follow another cook, using the declining post-peak coals
-- Halve all peppers lengthwise and remove seeds and membranes completely — any seed material left behind will taste bitter after dehydration
-- Lightly spray cut surfaces with grapeseed oil — a thin sheen, not a drench; this keeps the skin permeable so smoke compounds can enter rather than bead off the surface
-- Have apple and hickory wood chunks (4–6 inch squares) ready to stoke the coals
-- Set dehydrator to 145°F/63°C
-- Note which trays will hold bell peppers and poblanos — they will need more time and should be staged
-
----
-
 ## Ingredients
 
 ### The Pepper Blend (One Batch)
@@ -32,6 +21,17 @@ This is a two-stage process — and the separation of those stages is the point.
 - 6 jalapeño peppers, halved and seeded
 - 4 serrano peppers, halved and seeded
 - Grapeseed oil, for light coating (spray preferred)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- Prepare the offset smoker with a base fire; plan this process to follow another cook, using the declining post-peak coals
+- Halve all peppers lengthwise and remove seeds and membranes completely — any seed material left behind will taste bitter after dehydration
+- Lightly spray cut surfaces with grapeseed oil — a thin sheen, not a drench; this keeps the skin permeable so smoke compounds can enter rather than bead off the surface
+- Have apple and hickory wood chunks (4–6 inch squares) ready to stoke the coals
+- Set dehydrator to 145°F/63°C
+- Note which trays will hold bell peppers and poblanos — they will need more time and should be staged
 
 ---
 

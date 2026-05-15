@@ -12,17 +12,6 @@ This recipe decouples internal cooking from crust formation using the "Reverse S
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Dry-brine** the steaks (minimum 1 hour, ideally overnight).
-- **Preheat** oven to **225°F / 105°C**.
-- **Extract** the marrow from the bone pipes (push out raw).
-- **Dice** the raw marrow into 1 cm cubes.
-- **Crush** the garlic cloves (leave skins on).
-- **Bundle** the thyme and rosemary.
-
----
-
 ## Ingredients
 
 **The Butcher**
@@ -38,6 +27,17 @@ This recipe decouples internal cooking from crust formation using the "Reverse S
 - 2 sprigs fresh rosemary
 - 15 ml (1 tbsp) neutral oil (grapeseed or avocado)
 - Flaky sea salt (Maldon), for finishing
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Dry-brine** the steaks (minimum 1 hour, ideally overnight).
+- **Preheat** oven to **225°F / 105°C**.
+- **Extract** the marrow from the bone pipes (push out raw).
+- **Dice** the raw marrow into 1 cm cubes.
+- **Crush** the garlic cloves (leave skins on).
+- **Bundle** the thyme and rosemary.
 
 ---
 

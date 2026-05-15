@@ -12,13 +12,6 @@ This signature method transforms the humble pork shoulder steak into a premium e
 
 ---
 
-## Mise en Place (Action Checklist)
-
-* **Desiccate the Surface:** Pat steaks dry and place on a wire rack in the fridge for 1 hour before seasoning.
-* **Prepare the "Ward Solution":** Combine the liquid ingredients in a spray bottle (equal thirds) and shake vigorously.
-* **Stage the Station:** Set out the spice blends in the order of application (Garlic Salt → Lemon Pepper → Black Pepper → Parsley).
-* **Ignite the Fuel:** 30 minutes before cooking, start the charcoal in a chimney starter until red hot.
-
 ## Ingredients
 
 **The Meat**
@@ -43,6 +36,13 @@ This signature method transforms the humble pork shoulder steak into a premium e
 * Chunk Hardwood Charcoal
 * 5 Hickory Wood Chunks (rough cut, ~4-6 inches)
 * 5 Apple Wood Chunks (rough cut, ~4-6 inches)
+
+## Mise en Place (Action Checklist)
+
+* **Desiccate the Surface:** Pat steaks dry and place on a wire rack in the fridge for 1 hour before seasoning.
+* **Prepare the "Ward Solution":** Combine the liquid ingredients in a spray bottle (equal thirds) and shake vigorously.
+* **Stage the Station:** Set out the spice blends in the order of application (Garlic Salt → Lemon Pepper → Black Pepper → Parsley).
+* **Ignite the Fuel:** 30 minutes before cooking, start the charcoal in a chimney starter until red hot.
 
 ## Method
 

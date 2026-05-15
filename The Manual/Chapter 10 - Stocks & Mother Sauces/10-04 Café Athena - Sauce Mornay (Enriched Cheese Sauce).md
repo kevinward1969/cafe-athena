@@ -12,15 +12,6 @@ If Béchamel is the canvas, Mornay is the painting. By introducing aged cheeses 
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Grate the Cheeses:** Finely grate the Gruyère and Parmesan. Do not use pre-grated bagged cheese (the anti-caking agents prevent melting).
-- **Prepare the Liaison:** Whisk the egg yolks and heavy cream together in a small metal bowl.
-- **Mise the Béchamel:** Have all Béchamel components (roux, infused milk) ready or prepared.
-- **Set the Station:** You will need a ladle for tempering and a clean whisk.
-
----
-
 ## Ingredients
 
 ### The Base (Béchamel)
@@ -41,6 +32,15 @@ If Béchamel is the canvas, Mornay is the painting. By introducing aged cheeses 
 
 - 100 g (1 cup) Gruyère Cheese, aged (Cave-aged preferred)
 - 30 g (1/3 cup) Parmigiano Reggiano
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Grate the Cheeses:** Finely grate the Gruyère and Parmesan. Do not use pre-grated bagged cheese (the anti-caking agents prevent melting).
+- **Prepare the Liaison:** Whisk the egg yolks and heavy cream together in a small metal bowl.
+- **Mise the Béchamel:** Have all Béchamel components (roux, infused milk) ready or prepared.
+- **Set the Station:** You will need a ladle for tempering and a clean whisk.
 
 ---
 

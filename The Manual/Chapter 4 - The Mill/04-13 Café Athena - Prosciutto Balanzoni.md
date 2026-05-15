@@ -14,16 +14,6 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 ---
 
-## Mise En Place
-
-* Finely mince the Prosciutto di Parma into a paste-like consistency.
-* Strain the whole-milk ricotta through a fine-mesh sieve to remove excess whey.
-* Grate the Parmigiano-Reggiano using a microplane.
-* Measure the 00 flour and salt into a bowl.
-* Prepare a clean, wide work surface for hand-kneading.
-
----
-
 ## Ingredients
 
 **The Verde Pasta Dough**
@@ -46,6 +36,16 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 * 60 g (4 tbsp) unsalted butter
 * 30 g (¼ cup) Parmigiano-Reggiano (for finishing)
+
+---
+
+## Mise En Place
+
+* Finely mince the Prosciutto di Parma into a paste-like consistency.
+* Strain the whole-milk ricotta through a fine-mesh sieve to remove excess whey.
+* Grate the Parmigiano-Reggiano using a microplane.
+* Measure the 00 flour and salt into a bowl.
+* Prepare a clean, wide work surface for hand-kneading.
 
 ---
 

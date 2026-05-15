@@ -14,16 +14,6 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Pull the channel knife spirals first:** Before cutting or juicing, run the channel knife along the length of the extra (third) lemon to produce 4 clean spirals. Reserve in a small bowl of cold water in the refrigerator until service.
-- **Prepare the shells:** Halve 2 lemons across the equator. Using a citrus reamer or spoon, juice and remove all pulp cleanly. Slice a thin flat off the bottom of each half so it sits without rocking. Place shells on a small tray and freeze for 15–20 minutes.
-- **Zest the juiced lemons:** Microplane the zest from the 2 juiced lemons directly into the saucepan before measuring cream — it keeps the oils from transferring to the cutting board.
-- **Measure the juice:** Measure 60 ml (4 tbsp) fresh juice from the 2 juiced lemons. Have the third lemon on standby — juice yield varies and you need the full 4 tbsp.
-- **Stage the dairy:** Weigh cream and sugar before heat is applied.
-
----
-
 ## Ingredients
 
 ### The Cream Base
@@ -41,6 +31,16 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 - **4** channel knife lemon spirals (from the third lemon)
 - Powdered sugar for dusting (optional), or fresh mint leaves or small edible flowers
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Pull the channel knife spirals first:** Before cutting or juicing, run the channel knife along the length of the extra (third) lemon to produce 4 clean spirals. Reserve in a small bowl of cold water in the refrigerator until service.
+- **Prepare the shells:** Halve 2 lemons across the equator. Using a citrus reamer or spoon, juice and remove all pulp cleanly. Slice a thin flat off the bottom of each half so it sits without rocking. Place shells on a small tray and freeze for 15–20 minutes.
+- **Zest the juiced lemons:** Microplane the zest from the 2 juiced lemons directly into the saucepan before measuring cream — it keeps the oils from transferring to the cutting board.
+- **Measure the juice:** Measure 60 ml (4 tbsp) fresh juice from the 2 juiced lemons. Have the third lemon on standby — juice yield varies and you need the full 4 tbsp.
+- **Stage the dairy:** Weigh cream and sugar before heat is applied.
 
 ---
 

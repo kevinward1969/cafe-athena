@@ -12,21 +12,21 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Prepare the station:** Clear a heavy-bottomed saucepan and a clean landing zone for the finished sauce.
-- **Gather the liquids:** Ensure your Espagnole and Brown Stock are defatted and ready.
-- **Prepare skimming tools:** Have a ladle and a container of cold water ready for *dépouillage* (skimming).
-- **Prepare filtration:** Set up a fine-mesh strainer (chinois) over a clean storage container.
-
----
-
 ## Ingredients
 
 ### The Base
 
 - 1000 g (4 cups) **Sauce Espagnole** (Refer to 10-18)
 - 1000 g (4 cups) **Brown Stock / Fond Brun** (Refer to 10-17)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Prepare the station:** Clear a heavy-bottomed saucepan and a clean landing zone for the finished sauce.
+- **Gather the liquids:** Ensure your Espagnole and Brown Stock are defatted and ready.
+- **Prepare skimming tools:** Have a ladle and a container of cold water ready for *dépouillage* (skimming).
+- **Prepare filtration:** Set up a fine-mesh strainer (chinois) over a clean storage container.
 
 ---
 

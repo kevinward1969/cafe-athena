@@ -12,14 +12,6 @@ This is the "Mother of the Cold Kitchen." By suspending microscopic droplets of 
 
 ---
 
-## Mise en Place (Action Checklist)
-
-- **Tempering:** Remove the egg from the fridge 30 minutes prior. Room temperature ingredients emulsify faster than cold ones.
-- **Stabilize:** Place a damp towel under your mixing bowl to prevent it from spinning while whisking.
-- **Measure:** Pour the oils into a vessel with a spout for easy pouring.
-
----
-
 ## Ingredients
 
 ### The Base
@@ -37,6 +29,14 @@ This is the "Mother of the Cold Kitchen." By suspending microscopic droplets of 
 ### The Adjuster
 
 - 5–10 ml (1–2 tsp) Warm Water (if needed)
+
+---
+
+## Mise en Place (Action Checklist)
+
+- **Tempering:** Remove the egg from the fridge 30 minutes prior. Room temperature ingredients emulsify faster than cold ones.
+- **Stabilize:** Place a damp towel under your mixing bowl to prevent it from spinning while whisking.
+- **Measure:** Pour the oils into a vessel with a spout for easy pouring.
 
 ---
 

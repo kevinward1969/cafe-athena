@@ -10,13 +10,6 @@ The secret to this dish is understanding that the marinade is actually a *cure*.
 
 **Teaching Idea:** **Hygroscopic Action.** Both salt and sugar are hygroscopic, meaning they attract and hold water molecules. In this cure, they draw moisture out of the fish's cells (concentrating flavor) while simultaneously dissolving into the remaining surface moisture to travel inward via diffusion.
 
-## Mise en Place (Action Checklist)
-
-* **Portion the Fish:** Ensure fillets are uniform in size (approx. 6 oz each) for even cooking.
-* **Prepare the Cure:** Whisk the miso, sake, mirin, and sugar until the sugar granules are fully dissolved.
-* **Reserve the Glaze:** Set aside a small portion of the *fresh* cure mixture before touching raw fish.
-* **Pat Dry (Post-Cure):** Before cooking, use paper towels to wipe the fillets completely dry.
-
 ## Ingredients
 
 **The Cure**
@@ -35,6 +28,13 @@ The secret to this dish is understanding that the marinade is actually a *cure*.
 
 * 10 g (1 tbsp) sesame seeds, toasted
 * 2 scallions, shaved thin on a bias
+
+## Mise en Place (Action Checklist)
+
+* **Portion the Fish:** Ensure fillets are uniform in size (approx. 6 oz each) for even cooking.
+* **Prepare the Cure:** Whisk the miso, sake, mirin, and sugar until the sugar granules are fully dissolved.
+* **Reserve the Glaze:** Set aside a small portion of the *fresh* cure mixture before touching raw fish.
+* **Pat Dry (Post-Cure):** Before cooking, use paper towels to wipe the fillets completely dry.
 
 ## Method
 

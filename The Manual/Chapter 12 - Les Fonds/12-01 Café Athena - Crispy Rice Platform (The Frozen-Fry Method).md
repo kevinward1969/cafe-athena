@@ -8,13 +8,6 @@ A shatteringly crisp, golden shell with a warm, creamy sushi rice center.
 
 The frozen-fry method is the key technique here. By pressing, chilling, and freezing the sushi rice solid before it ever touches hot fat, you create a thermal buffer: the surface dries and sets into a crust while the interior remains protected and creamy. This is the same principle behind frying a frozen arancini — the ice acts as a heat brake. **Teaching Idea: Thermal Gradient Control.** When a frozen mass hits hot fat, the extreme temperature differential causes rapid surface moisture evaporation and starch gelatinization at the crust before heat can penetrate to the center. The result is two distinct textures in a single piece — a shatteringly crisp shell surrounding a soft, yielding core.
 
-## Mise en Place (Action Checklist)
-
-- Rinse sushi rice thoroughly under cold water until water runs clear, then submerge in fresh cold water and soak overnight (8–12 hr)
-- Line molds or an 8×8 inch sheet pan with plastic wrap, leaving overhang on all sides for easy removal
-- Prepare a pressing weight: a second pan filled with canned goods works well
-- Have a wire rack ready for draining after frying
-
 ## Ingredients
 
 ### The Rice
@@ -29,6 +22,13 @@ The frozen-fry method is the key technique here. By pressing, chilling, and free
 - 60 ml (¼ cup) clarified butter
 - 20 ml (1½ tbsp) duck fat
 - (Approximate ratio: 75% clarified butter / 25% duck fat — scale to pan size; target ¼ inch depth)
+
+## Mise en Place (Action Checklist)
+
+- Rinse sushi rice thoroughly under cold water until water runs clear, then submerge in fresh cold water and soak overnight (8–12 hr)
+- Line molds or an 8×8 inch sheet pan with plastic wrap, leaving overhang on all sides for easy removal
+- Prepare a pressing weight: a second pan filled with canned goods works well
+- Have a wire rack ready for draining after frying
 
 ## Method
 
