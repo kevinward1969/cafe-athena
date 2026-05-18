@@ -61,6 +61,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.agents/workflows/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
+| `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |
 | `The Manual/Glossary/` | Split culinary glossary — one file per letter (`Café Athena  - Glossary [LETTER].md`, A–Z + 0-9) |
 | `The Manual/` | Full cookbook manuscript (source files) |
 | `site/src/content/recipes/` | Built recipe files consumed by the Astro site |
@@ -95,6 +96,19 @@ After propagating changes, bump the version number in the modified file and add 
 
 ---
 
+## ⚠️ New Recipe Mandatory Updates
+
+Every time a new recipe or technique folio is added, **all four of these must be updated before committing**:
+
+1. **The folio file** — `The Manual/Chapter N - Name/XX-YY Café Athena - [Recipe Title].md`
+2. **`recipes.json`** — register the entry with correct stage flags
+3. **`The Manual/Cafe-Athena-The-Manual-Current-Version.md`** — append the entry under the correct chapter heading
+4. **`PROJECT_STATUS.md`** — update the Last Updated date
+
+`/register-recipe` handles items 2 and 3 automatically. Items 1 and 4 are always manual.
+
+---
+
 ## Slash Commands
 
 Run these in Claude Code. Full definitions in `.agents/workflows/`.
@@ -109,7 +123,7 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 | `/recipe-hero-image optimize [id\|chapter-N\|all]` | Convert PNG hero images to WebP |
 | `/recipe-hero-image insert [id] "[position]" "[caption]"` | Insert image shortcode into a folio |
 | `/new-recipe` | Scaffold a new recipe through the full pipeline |
-| `/register-recipe [id]` | Register a new entry in `recipes.json` after Claude Desktop Mode 2 |
+| `/register-recipe [id]` | Register a new entry in `recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
 | `/sync-registry` | Sync `recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |
 
