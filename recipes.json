@@ -2349,6 +2349,29 @@
                   "hasVariations": true
             },
             {
+                  "id": "09-06",
+                  "title": "Sweet Potato Brownies",
+                  "chapter": 9,
+                  "chapterName": "The Pâtissier",
+                  "type": "recipe",
+                  "added": "2026-05-18",
+                  "stages": {
+                        "formatAudit": false,
+                        "keywordPull": true,
+                        "glossaryPull": true,
+                        "heroImage": true,
+                        "heroImageOptimized": true,
+                        "referenceImages": false,
+                        "referenceImagesProcessed": null,
+                        "deployed": true
+                  },
+                  "audit": {
+                        "lastRun": null,
+                        "status": "pending",
+                        "issues": []
+                  }
+            },
+            {
                   "id": "10-01",
                   "title": "High-Pressure White Chicken Stock (Fond Blanc)",
                   "chapter": 10,

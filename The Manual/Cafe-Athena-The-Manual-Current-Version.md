@@ -160,6 +160,7 @@
 - 09-04 Café Athena - Brandy-Infused Canelés de Bordeaux
 
 - 09-05 Café Athena - Lemon Posset in Lemon Shells
+- 09-06 Café Athena - Sweet Potato Brownies
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 
