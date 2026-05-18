@@ -3628,8 +3628,8 @@
                         "formatAudit": true,
                         "keywordPull": false,
                         "glossaryPull": false,
-                        "heroImage": false,
-                        "heroImageOptimized": false,
+                        "heroImage": true,
+                        "heroImageOptimized": true,
                         "referenceImages": false,
                         "referenceImagesProcessed": null,
                         "deployed": false
