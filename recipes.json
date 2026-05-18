@@ -2356,7 +2356,7 @@
       "type": "recipe",
       "added": "2026-05-18",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -2366,8 +2366,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-05-18",
+        "status": "clean",
         "issues": []
       }
     },
