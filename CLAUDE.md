@@ -229,10 +229,9 @@ The template (`[...slug].astro:30`) automatically prepends `/images/` when rende
 
 When manually adding heroImage frontmatter (not via prepare-content.py), always use: `heroImage: "XX-YY.webp"`
 
-### Two Image Workflows
+### Image Placement
 
-1. **Via The Manual:** Place `.png` in `The Manual/Chapter N/` → `prepare-content.py` copies it to `site/public/images/` and sets the frontmatter automatically.
-2. **Direct placement:** Place optimized `.webp` directly in `site/public/images/` → manually set `heroImage: "XX-YY.webp"` in `site/src/content/recipes/XX-YY.md` (filename only, no path prefix).
+All hero and reference images live in `site/public/images/` — this is the only location. Images are processed externally (Photoshop: remove Gemini watermark, export WebP at 80% quality, 1920×1080) before being placed here. The pipeline validates presence and spec at deploy time via `sips`. Never place images in `The Manual/` chapter folders.
 
 ---
 

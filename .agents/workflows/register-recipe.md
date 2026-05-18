@@ -16,7 +16,7 @@ Example: `/register-recipe 10-24`
 2. If no file is found, **STOP** and report:
    > "No file found for `{index}` in The Manual. Confirm the recipe has been written to the manuscript before registering."
 3. Extract from the filename:
-   - **title** — strip the index prefix and any `Café Athena - ` or `Technique Folio - ` prefix from the display name
+   - **title** — strip the index prefix and any `Café Athena -` or `Technique Folio -` prefix from the display name
    - **type** — `"technique"` if the filename contains "Technique Folio", otherwise `"recipe"`
    - **chapter** — the numeric chapter from the folder name (e.g., `Chapter 10 - ...` → `10`)
    - **chapterName** — the chapter name after the number (e.g., `Stocks & Mother Sauces`)
@@ -34,14 +34,15 @@ Example: `/register-recipe 10-24`
 
 ## Phase 3 — Detect Initial Stage State
 
-Check the source file and chapter folder to pre-populate known stages:
+Check the source file and `site/public/images/` to pre-populate known stages:
 
 - **glossaryPull** — `true` if the source `.md` file contains a `## Glossary` section, otherwise `false`
-- **heroImage** — `true` if `{index}.webp` or `{index}.png` exists in the chapter folder
-- **heroImageOptimized** — `true` if `{index}.webp` exists, `false` if only `.png` exists, `false` if no image
-- **referenceImages** — `true` if any `{index}[a-z].webp` or `{index}[a-z].png` files exist in the chapter folder
-- **referenceImagesProcessed** — `true` if reference images exist and all are `.webp`; `false` if any `.png` remain; `null` if no reference images
-- All other stages (`formatAudit`, `keywordPull`, `deployed`) default to `false`
+- **keywordPull** — `true` if the source `.md` file contains both `## Keywords` and `## Category` sections, otherwise `false`
+- **heroImage** — `true` if `site/public/images/{index}.webp` exists, otherwise `false`
+- **heroImageOptimized** — same value as `heroImage` (images in `site/public/images/` are considered pre-optimized)
+- **referenceImages** — `true` if any `site/public/images/{index}[a-z].webp` files exist, otherwise `false`
+- **referenceImagesProcessed** — same value as `referenceImages`; `null` if no reference images
+- All other stages (`formatAudit`, `deployed`) default to `false`
 
 ---
 
@@ -73,7 +74,7 @@ Ask: *"Register this entry?"*
 4. Write the updated file using the Write tool.
 5. **Append to `The Manual/Cafe-Athena-The-Manual-Current-Version.md`** (the human-facing TOC):
    - Locate the `## CHAPTER {chapter}: ...` heading for this entry's chapter.
-   - Find the last folio line in that chapter (lines beginning with `* ` or `- ` and a `XX-YY` index).
+   - Find the last folio line in that chapter (lines beginning with `*` or `-` and a `XX-YY` index).
    - Insert a new line **immediately after** the last folio line, **matching that chapter's existing list style** (preserve `*` vs `-` and the `\-` vs `-` separator used in adjacent lines).
    - Format the entry as: `{bullet} {index} {prefix} {title}` — where `{prefix}` is `Technique Folio \-` for technique entries and `Café Athena \-` for recipes (or unescaped `-` if the chapter's existing entries use unescaped dashes).
    - Do not reformat or normalize other lines in the doc — append-only.
