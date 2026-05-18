@@ -63,7 +63,7 @@ For swirl/ribbon use: cool to 75–80°F/24–27°C before introducing to browni
 | 245–250°F / 118–121°C | Firm Ball | Chewy, holds shape | Pocket/filling, thick layer |
 | 255–265°F / 124–129°C | Hard Ball | Firm chew, slight snap | Candy inset, pre-bake slab |
 
-Note: Pull the pan 2–3°F before target — carryover will finish the cook.
+Note: Pull the pan 2–3°F/1–2°C before target — carryover will finish the cook.
 
 ## Variations
 

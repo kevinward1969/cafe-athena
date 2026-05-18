@@ -10,7 +10,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
 - Beurre Noir: "Black butter." Butter cooked beyond noisette to a very dark brown; used in specific classical preparations (skate meunière) but easily becomes acrid and unusable.
-- Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
+- Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
 - Binary Fission: The process by which bacteria reproduce through cell division, resulting in exponential population growth.
 - Biofilm: A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
 - Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.

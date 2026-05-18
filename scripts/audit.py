@@ -22,7 +22,8 @@ Audit status values in recipes.json:
     approved      — fixes applied
 
 Checks performed:
-    Structural (always):  missing sections, section order, category format
+    Structural (always):  missing sections, section order (incl. optional Variations/Chef's Notes),
+                          old combined Variations & Chef's Notes heading, category format
     Regex (always):       dual temperatures, keywords count, bold phase headers
     LLM detection (--deep): mise en place heat-step violations via qwen2.5:7b
     LLM generation:       glossary, keywords, category content via llama3.2
@@ -57,12 +58,27 @@ DEFAULT_DETECT_MODEL = "qwen2.5:7b"      # detection: mise violation analysis
 KEYWORDS_MIN = 8
 KEYWORDS_MAX = 15
 
-# Standard section order per format standard
+# Required sections — used for "missing section" checks
+# (recipe-only sections are skipped for technique folios)
 REQUIRED_SECTIONS = [
     "Headnote",
     "Mise en Place",
     "Ingredients",
     "Method",
+    "Glossary",
+    "Keywords",
+    "Category",
+]
+
+# Full section order per format standard v3.1, including optional sections.
+# Used for order checking — any present section must follow this sequence.
+FULL_SECTION_ORDER = [
+    "Headnote",
+    "Mise en Place",
+    "Ingredients",
+    "Method",
+    "Variations",
+    "Chef's Notes",
     "Glossary",
     "Keywords",
     "Category",
@@ -297,8 +313,16 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
                 auto_fix=can_fix,
             ))
 
-    # Check section order (only for sections that exist)
-    present = [s for s in REQUIRED_SECTIONS if s in sections]
+    # Detect old combined Variations & Chef's Notes heading (pre-v3.1 template)
+    if "Variations & Chef's Notes" in sections:
+        audit.issues.append(Issue(
+            code="old_combined_variations",
+            description="## Variations & Chef's Notes must be split into ## Variations and ## Chef's Notes (v3.1)",
+            auto_fix=False,
+        ))
+
+    # Check section order against the full known sequence (required + optional)
+    present = [s for s in FULL_SECTION_ORDER if s in sections]
     positions = [sections[s] for s in present]
     if positions != sorted(positions):
         audit.issues.append(Issue(

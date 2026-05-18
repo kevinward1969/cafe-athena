@@ -1,9 +1,30 @@
-# Café Athena — Claude Code Instructions
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Working Style
 
 - Default to action. Explain only when the task is complex or you need clarification.
 - Use the minimum tokens necessary to complete the task.
+
+---
+
+## Commands
+
+All `npm` commands run from `site/` — there is no root-level `package.json`.
+
+```bash
+# Site development
+cd site && npm run dev           # local dev server (Astro, hot reload)
+cd site && npm run build         # production build + Pagefind search index
+cd site && npm run preview       # preview the production build locally
+
+# Content pipeline (run from repo root)
+python3 site/scripts/prepare-content.py   # Manual → site/src/content/recipes/ (no build)
+bash site/scripts/deploy.sh               # full pipeline: prep + build + rsync to FastComet
+```
+
+`npm run build` runs `astro build` followed by `npx pagefind` — both must succeed for site search to work. Do not run `astro build` directly when building for deployment.
 
 ---
 
@@ -163,6 +184,31 @@ See `README.md` for full documentation and the Ollama approval workflow.
 - Hero images (source): `The Manual/Chapter N - Name/XX-YY.png` (or `.webp`)
 - Hero images (site): `site/public/images/XX-YY.webp`
 - Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content. Safe to run during deploy — preserves already-optimized WebP images in `site/public/images/` matching `\d{2}-\d{2}[a-z]?\.webp` (fixed 2026-04-05, commit c84bc51).
+
+### Content Pipeline Transform
+
+`prepare-content.py` is the bridge between `The Manual/` and the Astro site. Understanding what it does is critical when editing either side:
+
+1. **Strips the leading H1** — every folio file starts with `# Café Athena - Title` or `# **Technique Folio - Title**`. The script removes this line because `RecipeLayout.astro` renders the title from frontmatter; leaving it in the body causes a double title.
+2. **Extracts `## Keywords` and `## Category` from the body** — these sections exist in the folio source but do not appear on the page. The script pulls them out and maps them into YAML frontmatter fields (`keywords[]`, `cuisine`, `style`, `dietary`), then strips the sections from the rendered body.
+3. **Injects frontmatter** — every built file gets: `title`, `index`, `chapter`, `chapterName`, `type` (`recipe` or `technique`), `heroImage`, `referenceImages[]`, `keywords[]`, `cuisine`, `style`, `dietary`. The schema is defined in `site/src/content.config.ts`.
+4. **Copies images** — hero images (`XX-YY.webp/.png`) and reference images (`XX-YYa.webp`, etc.) are copied from chapter folders to `site/public/images/`. Already-optimized WebP files already present in `site/public/images/` are preserved (not overwritten).
+
+The Astro content collection at `site/src/content/recipes/` is **ephemeral** — it is fully regenerated each time `prepare-content.py` runs. Never hand-edit those files; edit the source in `The Manual/` instead, then re-run the pipeline.
+
+### Site Page Routing
+
+All recipe pages are served by a single dynamic route: `site/src/pages/[...slug].astro`. Each recipe's URL is its index (`/12-23`, `/01-01`, etc.).
+
+The three section landing pages are static Astro files that act as chapter-group entry points:
+
+| Page | URL | Covers |
+|------|-----|--------|
+| `academy.astro` | `/academy` | Ch. 1–2 (technique folios) |
+| `brigade.astro` | `/brigade` | Ch. 3–9 (station recipes) |
+| `larder.astro` | `/larder` | Ch. 10–12 (building blocks) |
+
+A custom remark plugin (`site/src/plugins/remark-ref-images.mjs`) handles reference image embedding in recipe body content.
 
 ### Deploy Workflow
 

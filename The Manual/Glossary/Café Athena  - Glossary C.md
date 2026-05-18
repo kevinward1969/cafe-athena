@@ -9,7 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
-- Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
+- Caramelization: The browning of sugar through a series of chemical reactions beginning around 320°F/160°C, producing hundreds of flavor compounds including diacetyl (buttery) and furans (nutty).
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.

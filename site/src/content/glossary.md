@@ -45,7 +45,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
 - Beurre Noir: "Black butter." Butter cooked beyond noisette to a very dark brown; used in specific classical preparations (skate meunière) but easily becomes acrid and unusable.
-- Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast, creating a nutty aroma.
+- Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
 - Binary Fission: The process by which bacteria reproduce through cell division, resulting in exponential population growth.
 - Biofilm: A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
 - Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
@@ -77,7 +77,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
-- Caramelization: The browning of sugars in food through heat, resulting in a complex, sweet, and nutty flavor profile.
+- Caramelization: The browning of sugar through a series of chemical reactions beginning around 320°F/160°C, producing hundreds of flavor compounds including diacetyl (buttery) and furans (nutty).
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
@@ -182,6 +182,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Fat Suspension: The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
 - Fermented: A process that utilizes microorganisms to transform food, resulting in enhanced flavor, aroma, and nutritional value, as seen in miso.
 - FIFO: First In, First Out – a stock rotation method prioritizing the oldest items.
+- Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
 - Flocculation: The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
@@ -302,6 +303,7 @@ No glossary terms yet.
 - Moisture Management: A technique focused on controlling water content during dough formation, essential for achieving a light and tender gnocchi texture, avoiding a dense, chewy result.
 - Monter au Beurre: "Mount with butter." The technique of finishing a sauce by whisking in cold butter at the end of cooking to add shine, thickness, and flavor.
 - Mother: A long-term, refrigerated sourdough starter maintained in a 1:1:1 ratio to preserve microbial activity.
+- Mounting: The technique of whisking cold fat into a hot liquid in stages to create a stable, glossy emulsion.
 - Mousse: A light, airy mixture achieved through aeration and stabilization, often incorporating fats and liquids to create a smooth, velvety texture.
 - Mousseline: A fine purée enriched with fat (usually cream or butter) to create a light, silky texture.
 - Mucilage: A viscous, gummy substance, such as that found in Dijon mustard, used to temporarily stabilize emulsions by increasing viscosity.
@@ -369,7 +371,8 @@ No glossary terms yet.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
 - Proteolysis: The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
-- Purge: The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
+- Purge:
+- Pyrolysis: The thermal decomposition of sugar compounds at high heat, producing bitter, complex flavor molecules — distinct from caramelization, which produces sweet, nutty notes at lower temperatures. The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
 
 ## Q
 
@@ -431,6 +434,7 @@ No glossary terms yet.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
 - Shichimi togarashi: Japanese seven-spice blend typically containing red chili, sansho pepper, citrus peel, sesame seeds, hemp seeds, ginger, and nori. Degrades quickly after opening; refrigerate.
+- Shiro Miso: White miso paste — the mildest, sweetest variety, fermented for a shorter time than darker misos, producing a delicate umami with subtle sweetness.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
@@ -442,6 +446,7 @@ No glossary terms yet.
 - Sodium Citrate: A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
 - Sodium Ions: Positively charged ions that, when replacing calcium ions in cheese, weaken the casein protein bonds, facilitating the melting process.
 - Soffritto: The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
+- Soft Ball Stage: A sugar cook temperature of 235–240°F/113–115°C, named for the behavior of a drop of syrup in cold water — it forms a soft, pliable ball.
 - Soft Peaks: The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 - Solubility: The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
 - Solvent: The substance (e.g., oil or water) that dissolves a solute to form a solution; in lipid-based extraction, fats act as a non-polar solvent for aromatic compounds.

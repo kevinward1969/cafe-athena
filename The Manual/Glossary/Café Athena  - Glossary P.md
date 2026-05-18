@@ -39,4 +39,5 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
 - Proteolysis: The enzymatic breakdown of gluten proteins due to excessive acidity, resulting in dough weakness and poor structure.
-- Purge: The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.
+- Purge:
+- Pyrolysis: The thermal decomposition of sugar compounds at high heat, producing bitter, complex flavor molecules — distinct from caramelization, which produces sweet, nutty notes at lower temperatures. The rinsing step following the curing process, removing surface salt and spices to prevent them from impacting the final flavor and texture.

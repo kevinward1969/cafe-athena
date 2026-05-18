@@ -31,6 +31,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
 - Shearing: A technique involving the application of force to break down food particles, crucial for fully dispersing sodium alginate in a liquid.
 - Shichimi togarashi: Japanese seven-spice blend typically containing red chili, sansho pepper, citrus peel, sesame seeds, hemp seeds, ginger, and nori. Degrades quickly after opening; refrigerate.
+- Shiro Miso: White miso paste — the mildest, sweetest variety, fermented for a shorter time than darker misos, producing a delicate umami with subtle sweetness.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
@@ -42,6 +43,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Sodium Citrate: A sour salt derived from citrus that acts as an emulsifier. It prevents cheese from separating into oil and solids when melted.
 - Sodium Ions: Positively charged ions that, when replacing calcium ions in cheese, weaken the casein protein bonds, facilitating the melting process.
 - Soffritto: The Italian "Holy Trinity" of aromatics (onion, carrot, celery) gently fried in oil; the foundation of most sauces.
+- Soft Ball Stage: A sugar cook temperature of 235–240°F/113–115°C, named for the behavior of a drop of syrup in cold water — it forms a soft, pliable ball.
 - Soft Peaks: The stage of whipping cream where the foam holds shape but the tip curls downward when the whisk is lifted.
 - Solubility: The ability of a substance (like sugar) to dissolve in a solvent (like water or egg) to form a homogeneous solution.
 - Solvent: The substance (e.g., oil or water) that dissolves a solute to form a solution; in lipid-based extraction, fats act as a non-polar solvent for aromatic compounds.
