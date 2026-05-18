@@ -224,6 +224,7 @@
 * 12-20 Café Athena \- Confit Tomatoes & Herb-Infused Oil
 * 12-21 Café Athena \- Basic B (Starch-Based Batter)
 * 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
+* 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
 
 # REFERENCE
 
