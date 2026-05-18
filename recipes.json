@@ -3616,6 +3616,29 @@
                         "status": "pending",
                         "issues": []
                   }
+            },
+            {
+                  "id": "12-23",
+                  "title": "Foundation Caramel (The Swirl Dry Method)",
+                  "chapter": 12,
+                  "chapterName": "Les Fonds",
+                  "type": "recipe",
+                  "added": "2026-05-18",
+                  "stages": {
+                        "formatAudit": true,
+                        "keywordPull": false,
+                        "glossaryPull": false,
+                        "heroImage": false,
+                        "heroImageOptimized": false,
+                        "referenceImages": false,
+                        "referenceImagesProcessed": null,
+                        "deployed": false
+                  },
+                  "audit": {
+                        "lastRun": null,
+                        "status": "pending",
+                        "issues": []
+                  }
             }
       ]
 }

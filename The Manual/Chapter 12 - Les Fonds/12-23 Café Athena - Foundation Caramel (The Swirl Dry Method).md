@@ -1,0 +1,112 @@
+**Café Athena - Foundation Caramel (The Swirl Dry Method)**
+
+A clean, classic caramel built on dry-method sugar cookery — the foundational component for swirl, ribbon, pocket, and sauce applications across the brownie program.
+
+**Yield:** ~300 g (enough for one 9×13 pan of brownies) | **Prep:** 5 min | **Cook:** 12–15 min | **Total:** ~20 min
+
+## Headnote
+
+This is the caramel you need to know before you touch any other version. Dry-method caramelization — sugar cooked alone before cream and butter enter — gives you precise control over color development and pyrolysis depth. The temperature you pull it at is the only variable between a soft, flowing ribbon and a firm, chewy pocket.
+
+**Teaching Idea: The Sugar Spectrum.** Sucrose doesn't just "melt" — it undergoes a cascade of chemical changes from ~320°F/160°C onward: first caramelization (flavor compounds, color), then increasing pyrolysis (bitterness, complexity) as you approach 380°F/193°C. Every degree past 340°F/171°C is a flavor decision, not just a texture one.
+
+## Mise en Place
+
+- Measure cream into a small saucepan and warm to just below a simmer — cold cream hitting hot sugar causes violent splatter and seizes the caramel
+- Cut butter into 1 tbsp pieces; hold at room temperature
+- Have a heat-proof spatula, digital thermometer, and heat-proof bowl ready before sugar goes on heat
+- Clear a trivet or folded towel next to the stove — you will need to move the pan fast
+
+## Ingredients
+
+**The Caramel Base**
+
+- 200 g (1 cup) granulated sugar
+- 60 ml (¼ cup) water (optional — see Chef's Notes)
+- 120 ml (½ cup) heavy cream, warmed
+- 56 g (4 tbsp) unsalted butter, room temperature, cut into pieces
+- 3 g (½ tsp) Diamond Crystal kosher salt
+- 5 ml (1 tsp) pure vanilla extract
+
+## Method
+
+**Stage 1 — Cook the Sugar**
+
+Place sugar (and water if using the wet method) in a heavy-bottomed saucepan over medium-high heat. Do not stir once dissolved — swirl the pan only. Watch for color development at the edges first; the center will follow.
+
+Sensory cue: The sugar will go from clear → pale gold → amber → deep mahogany. Pull at the color and temperature that matches your target application (see Temperature Spectrum below).
+
+**Stage 2 — Add the Cream**
+
+Remove pan from heat. Add the warmed cream in a slow, steady stream while whisking constantly. The mixture will bubble violently — this is water in the cream flashing to steam. Do not pull back.
+
+Sensory cue: Bubbling subsides within 20–30 seconds. The mixture should be uniformly smooth with no seized lumps. If lumps appear, return to low heat and stir until dissolved.
+
+**Stage 3 — Mount with Butter**
+
+Add butter piece by piece, whisking each addition until fully emulsified before adding the next. Add salt and vanilla off-heat.
+
+Sensory cue: Finished caramel is glossy, cohesive, and coats the spatula in a smooth, unbroken sheet.
+
+**Stage 4 — Cool to Application Temperature**
+
+For swirl/ribbon use: cool to 75–80°F/24–27°C before introducing to brownie batter. Too hot and it sinks; too cold and it won't ribbon.
+
+---
+
+**Temperature Spectrum (The Only Variable That Matters)**
+
+| Pull Temp | Stage | Texture After Cooling | Best Application |
+|---|---|---|---|
+| 225–230°F / 107–110°C | Thread | Pourable, thin sauce | Drizzle, post-bake finish |
+| 235–240°F / 113–115°C | Soft Ball | Soft, flowing, fudgy | Swirl/ribbon (primary) |
+| 245–250°F / 118–121°C | Firm Ball | Chewy, holds shape | Pocket/filling, thick layer |
+| 255–265°F / 124–129°C | Hard Ball | Firm chew, slight snap | Candy inset, pre-bake slab |
+
+Note: Pull the pan 2–3°F before target — carryover will finish the cook.
+
+## Variations
+
+### Brown Butter Caramel
+
+Replace standard butter with an equal weight of beurre noisette (see 10-22). Add at Stage 3 as normal. The toasted milk solids deepen the pyrolysis notes already present in the caramel — this version can handle a harder cook (firm ball range) without tipping bitter. Best pairing: basic brownies, sweet potato brownies. Avoid pushing past firm ball with this variation — stacked pyrolysis compounds become acrid fast.
+
+### Miso Caramel
+
+Whisk 30 g (2 tbsp) white shiro miso into the finished caramel off-heat after butter is mounted. Do not add miso while the pan is still on the burner — heat degrades the fermented compounds and introduces bitterness. This variation is temperature-sensitive: pull at soft ball only (235–240°F/113–115°C). Pushing into firm ball territory with miso produces a harsh, metallic finish. Best pairing: 09-01 Miso-Caramel Brownies. The umami bridge between caramel and miso brownie base is the point.
+
+### Salted Dark Caramel
+
+Cook sugar 8–10°F deeper than your target — into the upper amber range (~355–360°F/179–182°C) — before adding cream. Finish with 2 g (¼ tsp) fleur de sel added with the vanilla. The deeper cook introduces controlled bitterness that reads as complexity against a sweet brownie base. This variation works across the full spectrum from soft ball to firm ball. Best pairing: basic brownies, sweet potato brownies. Do not use with miso — competing bitter compounds flatten each other.
+
+## Chef's Notes
+
+**Dry vs. Wet Method**
+
+The recipe gives you the option of water. Wet method (sugar + water cooked together) is more forgiving — the water slows the cook and reduces hot spots. Dry method (sugar alone) is faster and produces slightly deeper flavor but requires full attention. For teaching purposes, start wet. For production, go dry once you've read the color progression twice.
+
+**Crystallization**
+
+Stirring sugar while it cooks invites crystallization — one rogue crystal seeds the whole pan. If you see the sugar go grainy and white, it's crystallized. Discard and start over; there is no recovery. A pastry brush dipped in water can be used to wash down sugar crystals from the pan sides before they fall in.
+
+**Make-Ahead**
+
+Caramel holds refrigerated for 2 weeks in an airtight container. Reheat gently over a double boiler or in 15-second microwave bursts, stirring between each. Do not boil to reheat — you will advance the sugar stage.
+
+## Glossary
+
+- Pyrolysis: The thermal decomposition of sugar compounds at high heat, producing bitter, complex flavor molecules — distinct from caramelization, which produces sweet, nutty notes at lower temperatures.
+- Caramelization: The browning of sugar through a series of chemical reactions beginning around 320°F/160°C, producing hundreds of flavor compounds including diacetyl (buttery) and furans (nutty).
+- Soft Ball Stage: A sugar cook temperature of 235–240°F/113–115°C, named for the behavior of a drop of syrup in cold water — it forms a soft, pliable ball.
+- Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
+- Beurre Noisette: Butter cooked until water evaporates and milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
+- Shiro Miso: White miso paste — the mildest, sweetest variety, produced from a short fermentation. Used here for umami depth without overpowering the caramel base.
+- Mounting: The technique of whisking cold fat into a hot liquid in stages to create a stable, glossy emulsion.
+
+## Keywords
+
+caramel, dry method, sugar spectrum, swirl, ribbon, brownie component, les fonds, miso caramel, brown butter, salted dark caramel, soft ball, firm ball, foundational, confectionery, pyrolysis
+
+## Category
+
+cuisine: French | style: Pastry

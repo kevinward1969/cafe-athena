@@ -144,7 +144,7 @@ See `README.md` for full documentation and the Ollama approval workflow.
 
 ## Site & Build Notes
 
-- Recipe source files: `The Manual/Chapter N - Name/XX-YY.md`
+- Recipe source files: `The Manual/Chapter N - Name/XX-YY Café Athena - [Recipe Title].md`
 - Built recipe files: `site/src/content/recipes/XX-YY.md`
 - Hero images (source): `The Manual/Chapter N - Name/XX-YY.png` (or `.webp`)
 - Hero images (site): `site/public/images/XX-YY.webp`
