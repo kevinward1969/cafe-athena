@@ -198,14 +198,27 @@ const featuredEntries = [
         </button>
       </div>
 
-      <!-- Filter chips panel -->
-      <div id="search-filter-panel" class="w-full mb-10">
-        <div class="flex items-baseline justify-between mb-4">
-          <span class="font-mono text-[9px] tracking-[0.3em] uppercase text-[#c9a96e]/50">Browse by</span>
-          <button id="clear-filters" class="hidden font-mono text-[9px] tracking-[0.2em] uppercase text-[#c9a96e]/60 hover:text-[#c9a96e] transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm px-1">Clear filters</button>
+      <!-- Filter chips panel (collapsible) -->
+      <div class="w-full mb-10">
+
+        <!-- Toggle row -->
+        <div class="flex items-center justify-between mb-0">
+          <button
+            id="filter-toggle"
+            aria-expanded="false"
+            aria-controls="search-filter-panel"
+            class="flex items-center gap-2 font-mono text-[9px] tracking-[0.3em] uppercase text-[#c9a96e]/50 hover:text-[#c9a96e]/80 transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm py-1"
+          >
+            <svg id="filter-chevron" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="transition-transform duration-200" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
+            Browse by family &amp; course
+            <span id="filter-active-count" class="hidden bg-[#c9a96e] text-[#1a1a2e] text-[8px] font-bold leading-none px-1.5 py-0.5 rounded-full"></span>
+          </button>
+          <button id="clear-filters" class="hidden font-mono text-[9px] tracking-[0.2em] uppercase text-[#c9a96e]/60 hover:text-[#c9a96e] transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm px-1">Clear</button>
         </div>
 
-        <div class="space-y-3.5">
+        <!-- Collapsible body -->
+        <div id="search-filter-panel" class="overflow-hidden max-h-0 transition-[max-height] duration-300 ease-out">
+          <div class="pt-5 space-y-3.5">
 
           <div class="filter-group">
             <span class="filter-group-label">Proteins &amp; Seafood</span>
@@ -278,8 +291,9 @@ const featuredEntries = [
             </div>
           </div>
 
-        </div>
-      </div>
+          </div>
+        </div><!-- /collapsible body -->
+      </div><!-- /filter wrapper -->
 
       <!-- Discovery panel (shown when no query and no filters) -->
       <div id="search-discovery" class="w-full grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-16">
@@ -374,8 +388,12 @@ const featuredEntries = [
         family: new Set(),
         course: new Set(),
       };
-      const filterChips = document.querySelectorAll<HTMLElement>('.filter-chip');
-      const clearBtn    = document.getElementById('clear-filters')!;
+      const filterChips      = document.querySelectorAll<HTMLElement>('.filter-chip');
+      const clearBtn         = document.getElementById('clear-filters')!;
+      const filterToggle     = document.getElementById('filter-toggle')!;
+      const filterPanel      = document.getElementById('search-filter-panel')!;
+      const filterChevron    = document.getElementById('filter-chevron')!;
+      const filterCountBadge = document.getElementById('filter-active-count')!;
 
       // ── Open / close ──────────────────────────────────────────────────────────
       function openModal() {
@@ -386,11 +404,40 @@ const featuredEntries = [
         requestAnimationFrame(() => input.focus());
       }
 
+      // ── Filter panel toggle ───────────────────────────────────────────────────
+      function openFilterPanel() {
+        filterPanel.style.maxHeight = filterPanel.scrollHeight + 'px';
+        filterToggle.setAttribute('aria-expanded', 'true');
+        filterChevron.style.transform = 'rotate(90deg)';
+      }
+
+      function closeFilterPanel() {
+        filterPanel.style.maxHeight = '0';
+        filterToggle.setAttribute('aria-expanded', 'false');
+        filterChevron.style.transform = '';
+      }
+
+      filterToggle.addEventListener('click', () => {
+        filterToggle.getAttribute('aria-expanded') === 'true' ? closeFilterPanel() : openFilterPanel();
+      });
+
+      function updateFilterUI() {
+        const total = activeFilters.family.size + activeFilters.course.size;
+        clearBtn.classList.toggle('hidden', total === 0);
+        if (total > 0) {
+          filterCountBadge.textContent = String(total);
+          filterCountBadge.classList.remove('hidden');
+        } else {
+          filterCountBadge.classList.add('hidden');
+        }
+      }
+
       function resetFilters() {
         activeFilters.family.clear();
         activeFilters.course.clear();
         filterChips.forEach(c => c.classList.remove('is-active'));
-        clearBtn.classList.add('hidden');
+        closeFilterPanel();
+        updateFilterUI();
       }
 
       function closeModal() {
@@ -499,7 +546,7 @@ const featuredEntries = [
             activeFilters[type].add(value);
             chip.classList.add('is-active');
           }
-          clearBtn.classList.toggle('hidden', activeFilters.family.size === 0 && activeFilters.course.size === 0);
+          updateFilterUI();
           clearTimeout(debounce);
           doSearch(input.value);
         });
