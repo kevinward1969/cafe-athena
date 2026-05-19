@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-05-18 (session 18)
+Last Updated: 2026-05-19 (session 19)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -32,10 +32,12 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
-| Resolve 09-03 (replace with Lemon Blackberry Tart) | 09-03 is a duplicate of 09-02 cookie recipe. Replacement planned: Lemon Blackberry Tart referencing 12-02 (shell) and pending 12-24 Foundation Curd. Deferred until Site IA Phase 2 complete. | Site IA Phase 2 | 2026-05-15 |
-| Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2 (Ingredients before Mise, split Variations/Chef's Notes, broadened combined-heading detection). 12-21, 12-23, 09-06 fixed. Full re-audit of all 152 recipes still pending to catch any remaining order violations. | Run `python3 scripts/audit.py --scan-only` | 2026-05-15 |
-| Fix-It remediation plan | For recipes flagged non-conformant, plan to bring to v3.2 format | Re-audit complete | 2026-05-15 |
-| `/pipeline [id]` slash command | Built and validated on 09-06 (audit-only) and 12-21 (full run incl. glossary + deploy). Ready for first new recipe test. | Awaiting new recipe | 2026-05-18 |
+| Resolve 09-03 (replace with Lemon Blackberry Tart) | 09-03 is a duplicate of 09-02 cookie recipe. Replacement planned: Lemon Blackberry Tart referencing 12-02 (shell) and pending 12-24 Foundation Curd. | Awaiting 12-24 Foundation Curd folio | 2026-05-15 |
+| Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2. Full re-audit of all 152 recipes pending to catch any remaining order violations. | Run `python3 scripts/audit.py --scan-only` | 2026-05-15 |
+| Fix-It remediation plan | For recipes flagged non-conformant, bring to v3.2 format | Re-audit complete | 2026-05-15 |
+| `/pipeline [id]` slash command | Built and validated. Ready for first new recipe test. | Awaiting new recipe | 2026-05-18 |
 | Finish pipeline on 12-02, 12-15, 12-22 | 3 recipes with genuine outstanding stages (audit and/or glossary). | `/pipeline` or manual | 2026-05-18 |
-| Re-attach Recipe-Format-Standard.md v3.2 in Claude Desktop | Ingredients before Mise en Place; Variations = significant departures only; Chef's Notes = minor options. Must re-attach as file attachment in Claude Desktop project. | Manual action required | 2026-05-18 |
-| Site IA & Taxonomy Upgrade — Phase 5 | Phases 1–4 complete. Next: filter UI (5a), recipe index pages (5b), cross-links (5c). Independent — can be prioritized separately. Full spec in `PROJECT_BRIEF_SITE_IA.md`. | — | 2026-05-19 |
+| Re-attach Recipe-Format-Standard.md v3.2 in Claude Desktop | Must re-attach as file attachment in Claude Desktop project. | Manual action required | 2026-05-18 |
+| Verify Chef agent uses new family/course fields | On first new folio after Phase 2 backfill, confirm agent writes `family:` and `course:` correctly in Category section. | Awaiting new folio | 2026-05-19 |
+| Site IA Phase 5 — remaining features | 5a (filter chips ✅), 5b (category pages ✅) complete and live. Remaining: 5c Cross-Links ("See Also"), 5d Collection Pages. Low priority. | — | 2026-05-19 |
+| Taxonomy content gaps (future recipes) | RecipeTinEats comparison identified: Lamb, Eggs, Soups-as-dish, Noodles, Breakfast as missing browsable categories. Taxonomy structure is correct; these are content gaps only. | Future recipe development | 2026-05-19 |

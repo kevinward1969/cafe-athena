@@ -364,55 +364,50 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [x] Landing pages (`larder`, `brigade`, `academy`) need no changes — they don't use Category fields
 - [x] `CLAUDE.md` pipeline documentation updated (lines 193–194)
 
-### Phase 5 — Site Features
+### Phase 5 — Site Features ✅ PARTIALLY COMPLETE (2026-05-19)
 
-These are independent and can be prioritized separately after Phase 4.
+#### 5a — Filter UI ✅ COMPLETE
 
-#### 5a — Filter UI
+- [x] Pagefind filter index extended: `family` and `course` added to `data-pagefind-filter` in `RecipeLayout.astro` (4 filters total: cuisine, style, family, course)
+- [x] ⌘K search modal: collapsible "Browse by family & course" filter chip panel — 38 chips across 6 groups (Proteins & Seafood, Starches, Sauces & Building Blocks, Pastry & Sweets, Technique, Course)
+- [x] Filter-only browsing works (no text query required); OR within group, AND between groups; active count badge; Clear button; resets on modal close
 
-- Add filter controls (family, cuisine, course, dietary) to section landing pages
-- Keep crawlable — server-rendered options, progressive enhancement for interactivity
-- Pagefind already indexes content; combine with metadata filters for hybrid search
+#### 5b — Recipe Index Pages ✅ COMPLETE
 
-#### 5b — Recipe Index Pages
+- [x] `/categories` — visual index of all 40 families organized in 7 groups; dark 16:9 cards with hero images, 3-column grid, group headers in Cormorant serif
+- [x] `/categories/[family]` — 40 static pages generated at build time; card grid (with images) or list fallback; hero banner with family name and recipe count; back navigation
+- [x] `site/src/utils/taxonomy.ts` — `familyToSlug()`, `CATEGORY_GROUPS`, `NAV_CATEGORY_GROUPS`
+- [x] Nav: hover tooltips on Academy/Brigade/Larder; "Categories" nav item with dark mega-menu dropdown (6 groups, "Browse all →" link); added to mobile nav and footer
+- [x] Home page: "Browse by Category" section added to reference area (4 groups, pill-style links with counts)
+- [x] Deployed to cookbook.kevinward.com (2026-05-19)
 
-- Visual index: category cards linking to filtered views (one per chapter section)
-- Text index: alphabetical list of all recipes, optionally grouped by family
-
-#### 5c — Cross-Links ("See Also")
+#### 5c — Cross-Links ("See Also") — Not yet built
 
 - Add optional `## See Also` section to recipe format standard
 - Format: `[XX-YY Title]` list (3–5 entries max)
 - `prepare-content.py` resolves IDs to titles and URLs at build time
-- `recipes.json` enables agent-assisted suggestions: "find all Cream & Filling
-  recipes in Ch. 12 for cross-linking from this tart folio"
+- `recipes.json` enables agent-assisted suggestions
 
-#### 5d — Collection Pages
+#### 5d — Collection Pages — Not yet built
 
-- Curated thematic groupings (e.g., "Core Café Athena Menu," "Full Brunch Service,"
-  "Foundational Sauces")
-- Implemented as static Astro pages referencing recipe IDs
-- Low priority until 5a–5c are complete
+- Curated thematic groupings (e.g., "Core Café Athena Menu," "Full Brunch Service")
+- Low priority until cross-links are complete
 
 ---
 
 ## Open Questions
 
-1. **`course:` for technique folios** — omit or use a standard value like `Technique`?
-   Affects Ch. 1 and Ch. 2 where the concept doesn't map cleanly.
+1. ~~**`course:` for technique folios**~~ — **RESOLVED 2026-05-19**: omitted for Ch. 1–2. Concept doesn't map cleanly to technique folios; no `course:` field written.
 
-2. **`family:` for Ch. 1** — the science families above are proposed; Kevin should
-   validate whether these match how he thinks about the Lab chapter.
+2. ~~**`family:` for Ch. 1**~~ — **RESOLVED 2026-05-19**: science families validated and backfilled across all 23 Lab folios.
 
-3. **PB tart crust** — new 12-25 folio or Variant 7 in 12-02?
-   Depends on whether it's a pressed/cookie crust (separate) or enriched pastry dough
-   (variant). Decision deferred with tart work.
+3. **PB tart crust** — new 12-25 folio or Variant 7 in 12-02? Decision deferred with tart work.
 
-4. **`See Also` authoring** — manual (Chef agent adds during Mode 2 formatting) or
-   semi-automated (audit.py suggests based on shared family/keywords)?
+4. **`See Also` authoring** — manual (Chef agent adds during Mode 2 formatting) or semi-automated (`audit.py` suggests based on shared family/keywords)? Deferred until 5c is prioritized.
 
-5. **Filter UI approach** — pure Pagefind metadata filters, or custom Astro islands?
-   Pagefind supports metadata filtering natively; may be sufficient without custom JS.
+5. ~~**Filter UI approach**~~ — **RESOLVED 2026-05-19**: Pagefind native metadata filters used for ⌘K search modal. No custom JS islands needed.
+
+6. **Taxonomy content gaps** — RecipeTinEats comparison identified browsable categories we don't yet have recipes for: Lamb, Eggs, Soups-as-dish, Asian Noodles, Breakfast. Taxonomy structure is correct; these are content gaps to fill with future folios.
 
 ---
 
