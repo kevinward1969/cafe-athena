@@ -152,7 +152,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 | `Tartare & Raw` | Raw preparations: tartare, crudo, ceviche |
 | `Salad` | Dressed salads served as a standalone course |
 | `Preserved & Pickled` | Fermented, pickled, compressed vegetable preparations |
-| `Charcuterie` | House-made terrines, sausages, rillettes, cured boards — finished Garde Manger work |
+| `Charcuterie` | Production recipes: terrines, pâtés en croûte, galantines, aspics, rillettes — the cold station's craft. Sausage-making lives in Ch. 7 (Pork). Boards and curated presentations live in the Expo (Ch. 13–15). |
 
 ---
 
