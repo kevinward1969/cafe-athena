@@ -55,6 +55,7 @@ The register, occasion, or culinary approach. Answers: *how is this positioned?*
 | `Brunch` | Positioned for brunch service |
 | `Weeknight` | Accessible, time-efficient, everyday cooking |
 | `Pastry` | Pastry and confectionery context |
+| `Modernist` | Molecular gastronomy and modernist techniques: spherification, fluid gels, hydrocolloids, precision chemistry |
 | `Technique Folio` | Technique or science folio (Ch. 1–2); not a recipe |
 
 > **Not in style:** Service formats (Tapas, Mezze, Dim Sum, Family-Style, Tasting Menu)
@@ -319,6 +320,22 @@ Technique folios (style: `Technique Folio`) may omit `course`.
 ### Optional fields
 
 `dietary` — only if the recipe genuinely qualifies without modification.
+
+### Multiple values
+
+One value per field — this is the forcing function that makes the taxonomy useful.
+If a recipe feels like it belongs in two clusters, the vocabulary needs a better term,
+or the nuance belongs in `keywords:`.
+
+**Exception — `dietary:`** supports comma-separated values because dietary attributes
+are orthogonal flags, not mutually exclusive categories:
+
+```
+dietary: Vegetarian, Gluten-Free
+```
+
+**`keywords:`** is the designed catch-all for cross-cutting attributes — technique
+names, specific dish names, occasions, ingredient details, etc.
 
 ### Adding new values
 
