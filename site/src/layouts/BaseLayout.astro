@@ -1,5 +1,5 @@
 ---
-import { NAV_CATEGORY_GROUPS, familyToSlug } from '../utils/taxonomy';
+import { NAV_CATEGORY_GROUPS, CUISINE_LIST, familyToSlug, cuisineToSlug } from '../utils/taxonomy';
 
 interface Props {
   title: string;
@@ -137,7 +137,20 @@ const featuredEntries = [
                 </div>
               ))}
             </div>
-            <div class="mt-6 pt-5 border-t border-white/[0.08] flex justify-end">
+            <div class="mt-6 pt-5 border-t border-white/[0.08]">
+              <h3 class="font-mono text-[8px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-3">By Cuisine</h3>
+              <div class="flex flex-wrap gap-x-4 gap-y-1.5 mb-5">
+                {CUISINE_LIST.map(cuisine => (
+                  <a
+                    href={`/categories/cuisine/${cuisineToSlug(cuisine)}`}
+                    class="text-sm text-white/60 hover:text-[#c9a96e] transition-colors duration-150 font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm"
+                  >
+                    {cuisine}
+                  </a>
+                ))}
+              </div>
+            </div>
+            <div class="pt-4 border-t border-white/[0.08] flex justify-end">
               <a
                 href="/categories"
                 class="font-mono text-[9px] uppercase tracking-[0.25em] text-[#c9a96e]/60 hover:text-[#c9a96e] transition-colors flex items-center gap-2 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm"

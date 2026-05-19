@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { CATEGORY_GROUPS, familyToSlug } from '../../utils/taxonomy';
+import { CATEGORY_GROUPS, CUISINE_LIST, familyToSlug, cuisineToSlug } from '../../utils/taxonomy';
 
 const allRecipes = await getCollection('recipes');
 
@@ -27,6 +27,12 @@ const groups = CATEGORY_GROUPS.map(group => ({
     })),
 })).filter(g => g.items.length > 0);
 
+const cuisineData = CUISINE_LIST.map(cuisine => ({
+  cuisine,
+  slug: cuisineToSlug(cuisine),
+  count: allRecipes.filter(r => r.data.cuisine === cuisine).length,
+})).filter(c => c.count > 0);
+
 const totalRecipes = allRecipes.length;
 const totalFamilies = groups.reduce((n, g) => n + g.items.length, 0);
 ---
@@ -40,6 +46,24 @@ const totalFamilies = groups.reduce((n, g) => n + g.items.length, 0);
     <p class="text-base text-[#6b6b7b]">
       {totalRecipes} recipes &nbsp;·&nbsp; {totalFamilies} categories
     </p>
+  </section>
+
+  <!-- Browse by Cuisine -->
+  <section class="border-b border-[#e0d8cc]/60 py-12 px-6">
+    <div class="max-w-7xl mx-auto">
+      <h2 class="font-mono text-[9px] uppercase tracking-[0.3em] text-[#6b6b7b]/60 mb-5">By Cuisine</h2>
+      <div class="flex flex-wrap gap-3">
+        {cuisineData.map(c => (
+          <a
+            href={`/categories/cuisine/${c.slug}`}
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-[#e0d8cc] bg-white/60 text-sm font-medium text-[#1a1a2e] hover:border-[#c9a96e] hover:text-[#a8873f] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+          >
+            {c.cuisine}
+            <span class="font-mono text-[10px] text-[#6b6b7b]/60">{c.count}</span>
+          </a>
+        ))}
+      </div>
+    </div>
   </section>
 
   <!-- Groups -->

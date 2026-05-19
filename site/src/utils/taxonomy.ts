@@ -72,6 +72,10 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
   },
 ];
 
+export const CUISINE_LIST = [
+  'American', 'Asian-Fusion', 'French', 'Global', 'Italian', 'Japanese', 'Mediterranean',
+];
+
 // Subset shown in the nav dropdown (curated for discovery, not exhaustive)
 export const NAV_CATEGORY_GROUPS: CategoryGroup[] = [
   {
