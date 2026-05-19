@@ -4,6 +4,7 @@
 **Last Updated:** 2026-05-18
 
 This is the single source of truth for all indexing field values used across:
+
 - Folio `## Category` sections (manuscript)
 - `recipes.json` entries (registry)
 - Astro built files (site pipeline)
@@ -54,6 +55,7 @@ The register, occasion, or culinary approach. Answers: *how is this positioned?*
 | `Brunch` | Positioned for brunch service |
 | `Weeknight` | Accessible, time-efficient, everyday cooking |
 | `Pastry` | Pastry and confectionery context |
+| `Tapas` | Spanish small-plate/sharing format; pintxos, bar snacks |
 | `Technique Folio` | Technique or science folio (Ch. 1–2); not a recipe |
 
 ---
@@ -141,12 +143,13 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 | Cluster | Notes |
 |---|---|
 | `Mousse & Pâté` | Cold-set mousses, liver pâtés, vegetarian pâtés |
-| `Amuse-Bouche` | Single-bite openers; pre-starter |
-| `Cold Plate` | Composed cold plates and salads served as a course |
+| `Amuse-Bouche` | Kitchen-sent, table-presented, single bite — chef's statement, not ordered |
+| `Canapé` | Passed or displayed at reception/cocktail service; finger food on a base |
+| `Cold Plate` | Composed cold plates served as a plated first course |
 | `Tartare & Raw` | Raw preparations: tartare, crudo, ceviche |
 | `Salad` | Dressed salads served as a standalone course |
 | `Preserved & Pickled` | Fermented, pickled, compressed vegetable preparations |
-| `Charcuterie` | Cured meats, sausages, rillettes (future) |
+| `Charcuterie` | House-made terrines, sausages, rillettes, cured boards — finished Garde Manger work |
 
 ---
 
@@ -194,13 +197,16 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 | Cluster | Notes |
 |---|---|
 | `Beef` | All beef cuts: ribeye, chuck, short rib, oxtail, skirt, ground |
-| `Pork` | Pork steaks, belly, shoulder, ribs, tenderloin, bacon |
+| `Pork` | Pork steaks, belly, shoulder, ribs, tenderloin, bacon, cured pork |
 | `Lamb` | Rack, shoulder, leg, ground (future) |
 | `Goat` | Braise, stew, roast (future) |
 | `Veal` | Osso buco, scaloppine, roast (future) |
 | `Wild Game` | Venison, rabbit, bison, boar (future) |
 | `Offal` | Liver, kidney, sweetbreads, tongue, tripe (future) |
-| `Charcuterie` | Sausage, terrines, rillettes, cured meats — house-made (future) |
+
+> `Charcuterie` is NOT a Ch. 7 cluster. The Butcher processes and cooks meat;
+> charcuterie craft (terrines, sausages, boards) belongs to Ch. 3 Garde Manger.
+> Cured/smoked items like bacon (07-12) file under their protein (`Pork`).
 
 ---
 
@@ -286,17 +292,21 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 ## Usage Notes
 
 ### Mandatory fields
+
 Every finished recipe folio must have: `cuisine`, `style`, `cluster`, `course`
 Technique folios (style: `Technique Folio`) may omit `course`.
 
 ### Optional fields
+
 `dietary` — only if the recipe genuinely qualifies without modification.
 
 ### Adding new values
+
 1. Add the term to this file with a description
 2. Update `Guidance/Recipe-Format-Standard.md` if the field vocabulary is listed there
 3. Commit with message: `chore(taxonomy): add [field] value "[term]"`
 4. Do not use the new term in a folio until it is committed here
 
 ### Validation
+
 `audit.py --sync-metadata` will flag any Category field values not found in this file.

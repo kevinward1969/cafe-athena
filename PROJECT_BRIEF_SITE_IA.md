@@ -1,4 +1,5 @@
 # Project Brief: Site IA & Taxonomy Upgrade
+
 **Status:** Active Planning
 **Initiated:** 2026-05-18
 **Priority:** High — foundational to all future site growth
@@ -108,6 +109,7 @@ and the site's filter UI.
 ## Cluster Vocabulary (Proposed — validate before writing to folios)
 
 ### Chapter 1 — The Lab (Technique Folios)
+
 | Cluster | Folios |
 |---|---|
 | `Heat & Thermodynamics` | 01-01, 01-13 |
@@ -119,6 +121,7 @@ and the site's filter UI.
 | `Preservation & Transformation` | 01-11, 01-20, 01-22, 01-23 |
 
 ### Chapter 2 — The Foundation (Technique Folios)
+
 | Cluster | Folios |
 |---|---|
 | `Kitchen Management` | 02-01, 02-02, 02-03, 02-05, 02-06, 02-07 |
@@ -127,16 +130,20 @@ and the site's filter UI.
 > `Skills` (not `Knife Skills`) — future-proofs for other skill folios beyond knife work.
 
 ### Chapter 3 — Garde Manger
-| Cluster | Folios |
-|---|---|
-| `Mousse & Pâté` | 03-07, 03-08, 03-10, 03-12, 03-13 |
-| `Amuse-Bouche` | 03-01, 03-02, 03-14 |
-| `Cold Plate` | 03-03, 03-04, 03-11 |
-| `Tartare & Raw` | 03-05 |
-| `Salad` | 03-09 |
-| `Preserved & Pickled` | 03-06 |
+
+| Cluster | Current Folios | Notes |
+|---|---|---|
+| `Mousse & Pâté` | 03-07, 03-08, 03-10, 03-12, 03-13 | |
+| `Amuse-Bouche` | 03-01 | Kitchen-sent, table-presented |
+| `Canapé` | 03-02, 03-14 | Passed/reception; finger food on a base |
+| `Cold Plate` | 03-03, 03-04, 03-11 | Plated first course |
+| `Tartare & Raw` | 03-05 | |
+| `Salad` | 03-09 | |
+| `Preserved & Pickled` | 03-06 | |
+| `Charcuterie` | — | Future |
 
 ### Chapter 4 — The Mill
+
 | Cluster | Folios |
 |---|---|
 | `Bread` | 04-01, 04-05, 04-11, 04-14 |
@@ -150,6 +157,7 @@ and the site's filter UI.
 > Future additions: `Pizza`, `Flatbread`.
 
 ### Chapter 5 — The Fishmonger
+
 *Protein-based clusters. Technique lives in Keywords.*
 
 | Cluster | Current Folios | Future |
@@ -161,6 +169,7 @@ and the site's filter UI.
 | `Cured & Smoked` | — | gravlax, smoked fish |
 
 ### Chapter 6 — The Poulterer
+
 *Protein-based clusters. Technique lives in Keywords.*
 
 | Cluster | Current Folios | Future |
@@ -172,6 +181,7 @@ and the site's filter UI.
 | `Egg` | — | standalone egg preparations |
 
 ### Chapter 7 — The Butcher
+
 *Protein-based clusters. Technique lives in Keywords.*
 
 | Cluster | Current Folios | Future |
@@ -183,9 +193,12 @@ and the site's filter UI.
 | `Veal` | — | osso buco, scaloppine |
 | `Wild Game` | — | venison, rabbit, bison |
 | `Offal` | — | liver, kidney, sweetbreads |
-| `Charcuterie` | — | sausage, terrines, cured meats |
+
+> `Charcuterie` removed from Ch. 7. In classical brigade, charcuterie belongs to
+> Garde Manger (Ch. 3). Cured items like 07-12 (Dehydrator Bacon) file under `Pork`.
 
 ### Chapter 8 — The Field
+
 *Primary vegetable/ingredient clusters. Technique lives in Keywords.*
 
 | Cluster | Current Folios | Future |
@@ -204,6 +217,7 @@ and the site's filter UI.
 | `Brassica` | — | cauliflower, broccoli, Brussels sprouts |
 
 ### Chapter 9 — The Pâtissier
+
 | Cluster | Folios |
 |---|---|
 | `Brownie` | 09-01, 09-06 |
@@ -215,6 +229,7 @@ and the site's filter UI.
 > Pending replacement with Lemon Blackberry Tart — see **On-Hold Work** section.
 
 ### Chapter 10 — Stocks & Mother Sauces
+
 | Cluster | Folios |
 |---|---|
 | `Stock` | 10-01, 10-17 |
@@ -228,6 +243,7 @@ and the site's filter UI.
 | `Cream Sauce` | 10-12, 10-21 |
 
 ### Chapter 11 — Spice Blends & Oils
+
 | Cluster | Folios |
 |---|---|
 | `Herb Oil` | 11-01 |
@@ -235,6 +251,7 @@ and the site's filter UI.
 | `Paste & Blend` | 11-05, 11-06 |
 
 ### Chapter 12 — Les Fonds
+
 | Cluster | Folios |
 |---|---|
 | `Platform & Vessel` | 12-01, 12-15, 12-16 |
@@ -287,6 +304,7 @@ Folio ## Category section   ←── source of truth (human-edited)
 ## Phased Implementation Plan
 
 ### Phase 1 — Taxonomy Definition *(current phase)*
+
 - [x] Identify gaps in current Category fields
 - [x] Design `cluster:` and `course:` fields
 - [x] Draft cluster vocabulary for all chapters
@@ -297,12 +315,14 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [ ] Remove vocabulary from `Recipe-Format-Standard.md` (now lives in Taxonomy.md only)
 
 ### Phase 2 — Manuscript Backfill
+
 - [ ] Add `cluster:` and `course:` to all existing folio `## Category` sections
 - [ ] Priority order: Ch. 12 first, then Ch. 10–11, then Ch. 3–9, then Ch. 1–2
 - [ ] Use `audit.py` batch detection + human approval (no LLM needed — regex extraction)
 - [ ] Verify Chef agent uses new fields correctly on first new folio after update
 
 ### Phase 3 — Registry Update
+
 - [ ] Add `cuisine`, `style`, `cluster`, `course`, `keywords[]`, `dietary` fields to
       `recipes.json` schema (update `_meta.stages` description block)
 - [ ] Update `/register-recipe` workflow to capture and write all new fields
@@ -311,6 +331,7 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [ ] Run `--sync-metadata` across all existing entries after manuscript backfill
 
 ### Phase 4 — Pipeline Update
+
 - [ ] Update `prepare-content.py` to extract `cluster:` and `course:` alongside
       existing `cuisine`, `style`, `dietary`
 - [ ] Update `site/src/content.config.ts` schema to add `cluster` and `course` fields
@@ -319,18 +340,22 @@ Folio ## Category section   ←── source of truth (human-edited)
       to pass new fields through — no UI changes yet, just data plumbing
 
 ### Phase 5 — Site Features
+
 These are independent and can be prioritized separately after Phase 4.
 
 #### 5a — Filter UI
+
 - Add filter controls (cluster, cuisine, course, dietary) to section landing pages
 - Keep crawlable — server-rendered options, progressive enhancement for interactivity
 - Pagefind already indexes content; combine with metadata filters for hybrid search
 
 #### 5b — Recipe Index Pages
+
 - Visual index: category cards linking to filtered views (one per chapter section)
 - Text index: alphabetical list of all recipes, optionally grouped by cluster
 
 #### 5c — Cross-Links ("See Also")
+
 - Add optional `## See Also` section to recipe format standard
 - Format: `[XX-YY Title]` list (3–5 entries max)
 - `prepare-content.py` resolves IDs to titles and URLs at build time
@@ -338,6 +363,7 @@ These are independent and can be prioritized separately after Phase 4.
   recipes in Ch. 12 for cross-linking from this tart folio"
 
 #### 5d — Collection Pages
+
 - Curated thematic groupings (e.g., "Core Café Athena Menu," "Full Brunch Service,"
   "Foundational Sauces")
 - Implemented as static Astro pages referencing recipe IDs
