@@ -401,27 +401,11 @@ Folio ## Category section   ←── source of truth (human-edited)
 
 2. ~~**`family:` for Ch. 1**~~ — **RESOLVED 2026-05-19**: science families validated and backfilled across all 23 Lab folios.
 
-3. **PB tart crust** — new 12-25 folio or Variant 7 in 12-02? Decision deferred with tart work.
+3. **`See Also` authoring** — manual (Chef agent adds during Mode 2 formatting) or semi-automated (`audit.py` suggests based on shared family/keywords)? Deferred until 5c is prioritized.
 
-4. **`See Also` authoring** — manual (Chef agent adds during Mode 2 formatting) or semi-automated (`audit.py` suggests based on shared family/keywords)? Deferred until 5c is prioritized.
+4. ~~**Filter UI approach**~~ — **RESOLVED 2026-05-19**: Pagefind native metadata filters used for ⌘K search modal. No custom JS islands needed.
 
-5. ~~**Filter UI approach**~~ — **RESOLVED 2026-05-19**: Pagefind native metadata filters used for ⌘K search modal. No custom JS islands needed.
-
-6. **Taxonomy content gaps** — RecipeTinEats comparison identified browsable categories we don't yet have recipes for: Lamb, Eggs, Soups-as-dish, Asian Noodles, Breakfast. Taxonomy structure is correct; these are content gaps to fill with future folios.
-
----
-
-## On-Hold Work (Tart Recipe Arc)
-
-Deferred until Phase 2–3 are complete so new folios are registered correctly.
-
-| Item | Status | Notes |
-|---|---|---|
-| 12-24 Foundation Curd | On hold | Lemon base; citrus variants. Earns Ch.12 as multi-use building block. |
-| 12-11 update | On hold | Add lemon-flavored crème pâtissière variant |
-| 09-03 Lemon Blackberry Tart | On hold | Replaces cookie v2 duplicate; references 12-02 (shell) and 12-24 (curd) |
-| PB tart crust | On hold | 12-02 variant vs. new 12-25 folio — decision pending |
-| 09-03 duplicate resolution | On hold | Current 09-02 (v1) and 09-03 (v2) are identical cookie recipe |
+5. **Taxonomy content gaps** — RecipeTinEats comparison identified browsable categories we don't yet have recipes for: Lamb, Eggs, Soups-as-dish, Asian Noodles, Breakfast. Taxonomy structure is correct; these are content gaps to fill with future folios.
 
 ---
 

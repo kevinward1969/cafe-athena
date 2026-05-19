@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { familyToSlug, cuisineToSlug } from '../utils/taxonomy';
 
 interface Props {
   title: string;
@@ -85,13 +86,16 @@ if (chapter === 1 || chapter === 2) {
         <div class="w-16 h-0.5 bg-[#e0d8cc] mx-auto mb-8"></div>
 
         <!-- Metadata tags -->
-        {(recipeType === 'technique' || cuisine || recipeStyle || keywords.length > 0) && (
+        {(recipeType === 'technique' || cuisine || recipeStyle || family || keywords.length > 0) && (
           <div class="flex flex-wrap gap-2 justify-center mb-12">
             {recipeType === 'technique' && (
               <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-widest uppercase bg-[#1a1a2e] text-[#f5f0e8]">Technique</span>
             )}
             {cuisine && (
-              <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#c9a96e]/10 text-[#a8873f] border border-[#c9a96e]/20">{cuisine}</span>
+              <a href={`/categories/cuisine/${cuisineToSlug(cuisine)}`} class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#c9a96e]/10 text-[#a8873f] border border-[#c9a96e]/20 hover:bg-[#c9a96e]/20 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]">{cuisine}</a>
+            )}
+            {family && (
+              <a href={`/categories/${familyToSlug(family)}`} class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#1a1a2e]/5 text-[#1a1a2e]/60 border border-[#1a1a2e]/10 hover:bg-[#1a1a2e]/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]">{family}</a>
             )}
             {recipeStyle && (
               <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-[#1a1a2e]/5 text-[#1a1a2e]/50 border border-[#1a1a2e]/10">{recipeStyle}</span>

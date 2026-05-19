@@ -1,3 +1,11 @@
+export function cuisineToSlug(cuisine: string): string {
+  return cuisine
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-');
+}
+
 export function familyToSlug(family: string): string {
   return family
     .toLowerCase()
