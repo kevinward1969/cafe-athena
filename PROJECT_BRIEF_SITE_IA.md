@@ -220,37 +220,48 @@ and the site's filter UI.
 
 ### Chapter 9 — The Pâtissier
 
-| Cluster | Folios |
-|---|---|
-| `Brownie` | 09-01, 09-06 |
-| `Cookie` | 09-02, 09-03 |
-| `Canelé` | 09-04 |
-| `Posset` | 09-05 |
-
-> **Note:** 09-03 is currently a duplicate of 09-02 (v1/v2 of the same cookie recipe).
-> Pending replacement with Lemon Blackberry Tart — see **On-Hold Work** section.
+| Cluster | Folios | Notes |
+|---|---|---|
+| `Brownie & Bar` | 09-01, 09-06 | |
+| `Cookie` | 09-02, 09-03 | 09-03 pending replacement with Lemon Blackberry Tart |
+| `Small Cake & Pastry` | 09-04 | Canelé; future: financier, madeleine, kouglof |
+| `Posset & Panna Cotta` | 09-05 | Future: panna cotta, bavarian |
+| `Tart` | — | Future: 09-03 Lemon Blackberry Tart |
+| `Choux` | — | Future |
+| `Frozen Dessert` | — | Future |
+| `Confection` | — | Future |
 
 ### Chapter 10 — Stocks & Mother Sauces
 
-| Cluster | Folios |
-|---|---|
-| `Stock` | 10-01, 10-17 |
-| `Mother Sauce` | 10-03, 10-08, 10-15, 10-16, 10-18 |
-| `Derivative Sauce` | 10-04, 10-05, 10-06, 10-10, 10-11, 10-19 |
-| `Pesto` | 10-02, 10-14, 10-20 |
-| `Compound Butter` | 10-07, 10-22 |
-| `Emulsion` | 10-09, 10-25 |
-| `Ragù` | 10-13 |
-| `Dipping Sauce` | 10-23, 10-24 |
-| `Cream Sauce` | 10-12, 10-21 |
+| Cluster | Folios | Notes |
+|---|---|---|
+| `Stock` | 10-01, 10-17 | |
+| `Mother Sauce` | 10-03, 10-08, 10-15, 10-16, 10-18 | |
+| `Derivative Sauce` | 10-04, 10-05, 10-06, 10-10, 10-11, 10-19 | |
+| `Cold Blended Sauce` | 10-02, 10-14, 10-20 | Pesto, salsa di noci — replaces `Pesto` cluster |
+| `Compound Butter` | 10-07, 10-22 | |
+| `Emulsion` | 10-09, 10-25 | Stable emulsions only |
+| `Ragù & Meat Sauce` | 10-13 | Bolognese is a ragù |
+| `Dipping Sauce` | 10-23, 10-24 | |
+| `Cream Sauce` | 10-12, 10-21 | |
+| `Pan Sauce` | — | Future |
+| `Jus & Reduction` | — | Future |
+| `Salsa & Fresh Sauce` | — | Future |
+| `Vinaigrette` | — | Future |
 
 ### Chapter 11 — Spice Blends & Oils
 
-| Cluster | Folios |
-|---|---|
-| `Herb Oil` | 11-01 |
-| `Specialty Salt` | 11-02, 11-03, 11-04 |
-| `Paste & Blend` | 11-05, 11-06 |
+| Cluster | Folios | Notes |
+|---|---|---|
+| `Herb Oil` | 11-01 | Chlorophyll-stabilized fresh herb oils |
+| `Specialty Salt` | 11-02, 11-03, 11-04 | Smoked, flavored, crystallized, ash |
+| `Wet Paste` | 11-05 | Nashville fire paste, harissa |
+| `Dry Spice Blend` | 11-06 | Spice-forward dry blends |
+| `Infused Oil` | — | Garlic, chili, aromatic oils (future) |
+| `Dry Herb Blend` | — | Za'atar, herbes de Provence, fines herbes (future) |
+| `Fresh Herb Blend` | — | Gremolata, persillade, chermoula (future) |
+| `Spice Rub` | — | Dry rubs for smoking/grilling (future) |
+| `Vinegar & Acid` | — | Flavored vinegars, shrubs (future) |
 
 ### Chapter 12 — Les Fonds
 

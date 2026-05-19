@@ -245,9 +245,9 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 | `Brownie & Bar` | Brownies, blondies, bar cookies |
 | `Cookie` | All dropped, rolled, or piped cookies |
 | `Cake` | Layer cakes, sheet cakes, bundt (future) |
+| `Small Cake & Pastry` | Canelé, financier, madeleine, kouglof, friand — individually portioned baked items |
 | `Tart` | Tarts and tartlets; shell sourced from Ch. 12 |
 | `Choux` | Éclairs, profiteroles, Paris-Brest, choux au craquelin (future) |
-| `Canelé` | Canelés de Bordeaux |
 | `Posset & Panna Cotta` | Set creams: posset, panna cotta, bavarian (future) |
 | `Frozen Dessert` | Ice cream, sorbet, semifreddo (future) |
 | `Bread Pudding` | Custard-soaked bread desserts (future) |
@@ -263,12 +263,15 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 | `Mother Sauce` | The five classic French mother sauces |
 | `Derivative Sauce` | Sauces derived from mother sauces |
 | `Pan Sauce` | Deglazing-based sauces (future) |
-| `Pesto` | Nut-and-herb pounded or blended sauces |
+| `Jus & Reduction` | Reduced stocks, wine reductions, natural meat juices (future) |
+| `Cold Blended Sauce` | Pesto, chimichurri, salsa verde, romesco — oil-based, blended, served cold |
 | `Compound Butter` | Flavored butters: beurre composé, noisette |
-| `Emulsion` | Cold emulsions: mayo, aioli, vinaigrette; warm: beurre blanc |
-| `Ragù` | Slow-cooked meat sauces |
+| `Emulsion` | Stable emulsions — cold: mayo, aioli, vinaigrette; warm: hollandaise, beurre blanc |
+| `Ragù & Meat Sauce` | Slow-cooked meat sauces: bolognese, Sunday gravy, all ragù variants |
 | `Dipping Sauce` | Table sauces and dipping preparations |
 | `Cream Sauce` | Dairy-based finishing sauces |
+| `Salsa & Fresh Sauce` | Raw or minimally cooked fresh sauces: pico, salsa cruda (future) |
+| `Vinaigrette` | Dressed, oil-and-acid preparations served cold (future) |
 
 ---
 
@@ -276,11 +279,15 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 | Cluster | Notes |
 |---|---|
-| `Herb Oil` | Chlorophyll-stabilized herb oils |
-| `Finishing Oil` | Infused oils for plating and flavor (future) |
-| `Specialty Salt` | Smoked salts, flavored salts, crystallized acids |
-| `Paste & Blend` | Spice pastes, dry rubs, compound seasonings |
-| `Spice Rub` | Dry rubs for smoking and grilling (future) |
+| `Herb Oil` | Chlorophyll-stabilized fresh herb oils: basil, parsley, chive |
+| `Infused Oil` | Aromatics-, spice-, or allium-infused oils: garlic, chili, truffle (future) |
+| `Dry Spice Blend` | Spice-forward dry blends: smoked red pepper blend, ras el hanout, baharat |
+| `Dry Herb Blend` | Herb-forward dry blends: herbes de Provence, za'atar, Italian seasoning, fines herbes |
+| `Fresh Herb Blend` | Fresh-herb preparations: gremolata, persillade, chermoula, salmoriglio |
+| `Specialty Salt` | Smoked salts, flavored salts, crystallized acids, ash salts |
+| `Wet Paste` | Wet spice pastes: Nashville fire paste, harissa, berbere paste |
+| `Spice Rub` | Dry rubs for smoking, grilling, and crusting (future) |
+| `Vinegar & Acid` | Flavored vinegars, shrubs, acidulated preparations (future) |
 
 ---
 
@@ -288,13 +295,17 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 | Cluster | Notes |
 |---|---|
-| `Platform & Vessel` | Crispy rice, tuile cylinders, frico — structural bases |
+| `Platform & Vessel` | Structural bases and edible vessels: crispy rice, frico, tuile cylinders |
 | `Pastry Dough` | Tart doughs, shortcrust, pâte à choux, puff, rough puff |
 | `Pasta Dough` | Egg pasta, laminated pasta, spinach pasta, gnocchi doughs |
-| `Cream & Filling` | Crème pâtissière, meringues, Chantilly, composite creams, curd |
-| `Garnish & Component` | Caviar (seeds/spheres), confit tomatoes, garlic crisps |
-| `Batter & Coating` | Dustings, dredges, panés, starch batters |
-| `Caramel & Sugar` | Dry caramel, wet caramel, sugar work |
+| `Cream & Filling` | Crème pâtissière, meringues, Chantilly, composite creams, curds |
+| `Garnish & Component` | Caviar (seeds/spheres), confit tomatoes, garlic crisps — finishing elements |
+| `Batter & Coating` | Dustings, dredges, panés, starch batters, frying coatings |
+| `Caramel & Sugar` | Dry caramel, wet caramel, toffee, sugar work |
+| `Bread Component` | Breadcrumbs (pangrattato), croutons, panade, toasted bread elements |
+| `Pickle & Quick Preserve` | Quick pickles, acidulated preparations, brined components used across recipes |
+| `Glaze & Reduction` | Glazes, balsamic reductions, wine reductions used as finishing components |
+| `Gel & Aspic` | Gelatin-set components: aspic, gelée, fluid gel used in plating or terrines |
 
 ---
 
