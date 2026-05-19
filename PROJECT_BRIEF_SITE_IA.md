@@ -186,8 +186,9 @@ and the site's filter UI.
 
 | Cluster | Current Folios | Future |
 |---|---|---|
-| `Beef` | 07-01, 07-02, 07-04, 07-05, 07-06, 07-07, 07-08, 07-09, 07-10, 07-11, 07-13 | — |
+| `Beef` | 07-01, 07-04, 07-05, 07-06, 07-07, 07-08, 07-09, 07-10, 07-11, 07-13 | — |
 | `Pork` | 07-03, 07-12 | ribs, roast, shoulder |
+| `Ground & Formed` | 07-02 | meatballs, sausage, burgers, kofta, gyro, shawarma |
 | `Lamb` | — | rack, shoulder, leg |
 | `Goat` | — | braise, stew |
 | `Veal` | — | osso buco, scaloppine |
@@ -199,22 +200,23 @@ and the site's filter UI.
 
 ### Chapter 8 — The Field
 
-*Primary vegetable/ingredient clusters. Technique lives in Keywords.*
+*Mix of ingredient groups and technique/form clusters. Grain removed — lives in Ch. 4.*
 
 | Cluster | Current Folios | Future |
 |---|---|---|
-| `Mushroom` | 08-01 | — |
-| `Squash` | 08-02 | butternut, acorn, delicata |
-| `Root Vegetable` | 08-03 | parsnip, turnip, celeriac |
-| `Grain & Bulgur` | 08-04, 08-05, 08-08 | farro, freekeh, millet |
-| `Potato` | 08-06, 08-10 | — |
-| `Corn` | 08-07 | — |
-| `Asparagus` | 08-09 | — |
-| `Leafy Green` | — | spinach, chard, kale preparations |
-| `Legume` | — | lentils, chickpeas, beans |
-| `Tomato & Nightshade` | — | eggplant, peppers |
-| `Allium` | — | onion, leek, fennel |
-| `Brassica` | — | cauliflower, broccoli, Brussels sprouts |
+| `Salad & Dressed` | 08-04, 08-05 | herb salads, dressed grain salads |
+| `Mash & Purée` | 08-03 | mousseline, smooth veg preparations |
+| `Tuber` | 08-06, 08-10 | sweet potato, sunchoke, taro, yuca, yam |
+| `Root Vegetable` | — | carrot, parsnip, celeriac, beet, turnip |
+| `Stuffed` | 08-08 | stuffed peppers, cabbage rolls |
+| `Roasted & Grilled` | 08-02, 08-07 | squash, corn ribs, charred veg |
+| `Mushroom` | 08-01 | all fungi |
+| `Steamed & Braised` | 08-09 | butter-braised greens, delicate veg |
+| `Leafy Green` | — | spinach, chard, kale (future) |
+| `Legume` | — | lentils, chickpeas, beans (future) |
+| `Tomato & Nightshade` | — | eggplant, peppers (future) |
+| `Allium` | — | onion, leek, fennel (future) |
+| `Brassica` | — | cauliflower, broccoli, sprouts (future) |
 
 ### Chapter 9 — The Pâtissier
 

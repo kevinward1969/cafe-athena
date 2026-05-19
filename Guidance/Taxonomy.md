@@ -199,31 +199,37 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 | Cluster | Notes |
 |---|---|
-| `Beef` | All beef cuts: ribeye, chuck, short rib, oxtail, skirt, ground |
+| `Beef` | All beef cuts: ribeye, chuck, short rib, oxtail, skirt |
 | `Pork` | Pork steaks, belly, shoulder, ribs, tenderloin, bacon, cured pork |
-| `Lamb` | Rack, shoulder, leg, ground (future) |
+| `Lamb` | Rack, shoulder, leg (future) |
 | `Goat` | Braise, stew, roast (future) |
 | `Veal` | Osso buco, scaloppine, roast (future) |
 | `Wild Game` | Venison, rabbit, bison, boar (future) |
 | `Offal` | Liver, kidney, sweetbreads, tongue, tripe (future) |
+| `Ground & Formed` | Meatballs, sausage, burgers, kofta, gyro (lamb/beef), shawarma (lamb) — protein secondary to form |
 
 > `Charcuterie` is NOT a Ch. 7 cluster. The Butcher processes and cooks meat;
 > charcuterie craft (terrines, sausages, boards) belongs to Ch. 3 Garde Manger.
 > Cured/smoked items like bacon (07-12) file under their protein (`Pork`).
+> Chicken gyro/shawarma files under Ch. 6 `Chicken`.
 
 ---
 
 #### Chapter 8 — The Field
 
+Clusters use a mix of ingredient groups (for distinctive primary ingredients) and
+technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
+
 | Cluster | Notes |
 |---|---|
-| `Mushroom` | King trumpet, porcini, cremini, mixed mushroom preparations |
-| `Squash` | Spaghetti squash, butternut, acorn, delicata |
-| `Root Vegetable` | Celeriac, parsnip, turnip, carrot, beet |
-| `Potato` | Potato in all forms: pavé, mash, crisp, roasted |
-| `Corn` | Corn ribs, elotes, polenta (when in vegetable context) |
-| `Grain & Bulgur` | Tabbouleh, kisir, dolma, grain salads |
-| `Asparagus` | Asparagus preparations |
+| `Salad & Dressed` | Tabbouleh, kisir, dressed grain salads, herb salads |
+| `Mash & Purée` | Smooth vegetable preparations: mash, mousseline, purée |
+| `Tuber` | All starchy underground veg: potato, sweet potato, sunchoke, taro, yuca, yam |
+| `Root Vegetable` | Lower-starch roots: carrot, parsnip, celeriac, beet, turnip, radish |
+| `Stuffed` | Dolma, stuffed peppers, cabbage rolls, stuffed squash |
+| `Roasted & Grilled` | Squash, corn ribs, whole roasted vegetables, charred preparations |
+| `Mushroom` | All fungi: king trumpet, porcini, cremini, mixed mushroom preparations |
+| `Steamed & Braised` | Asparagus, butter-braised greens, gentle-cooked vegetables |
 | `Leafy Green` | Spinach, chard, kale, escarole preparations (future) |
 | `Legume` | Lentils, chickpeas, white beans as the primary (future) |
 | `Tomato & Nightshade` | Tomato, eggplant, pepper as the primary (future) |
