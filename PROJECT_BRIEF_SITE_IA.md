@@ -364,7 +364,7 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [x] Landing pages (`larder`, `brigade`, `academy`) need no changes — they don't use Category fields
 - [x] `CLAUDE.md` pipeline documentation updated (lines 193–194)
 
-### Phase 5 — Site Features ✅ PARTIALLY COMPLETE (2026-05-19)
+### Phase 5 — Site Features ✅ COMPLETE (2026-05-19)
 
 #### 5a — Filter UI ✅ COMPLETE
 
@@ -376,22 +376,24 @@ Folio ## Category section   ←── source of truth (human-edited)
 
 - [x] `/categories` — visual index of all 40 families organized in 7 groups; dark 16:9 cards with hero images, 3-column grid, group headers in Cormorant serif
 - [x] `/categories/[family]` — 40 static pages generated at build time; card grid (with images) or list fallback; hero banner with family name and recipe count; back navigation
-- [x] `site/src/utils/taxonomy.ts` — `familyToSlug()`, `CATEGORY_GROUPS`, `NAV_CATEGORY_GROUPS`
-- [x] Nav: hover tooltips on Academy/Brigade/Larder; "Categories" nav item with dark mega-menu dropdown (6 groups, "Browse all →" link); added to mobile nav and footer
+- [x] `/categories/cuisine/[cuisine]` — 7 cuisine pages (American, Asian-Fusion, French, Global, Italian, Japanese, Mediterranean); same card/list pattern as family pages
+- [x] `site/src/utils/taxonomy.ts` — `familyToSlug()`, `cuisineToSlug()`, `CATEGORY_GROUPS`, `NAV_CATEGORY_GROUPS`, `CUISINE_LIST`
+- [x] Nav: hover tooltips on Academy/Brigade/Larder; "Categories" nav item with dark mega-menu dropdown (6 family groups + "By Cuisine" row); added to mobile nav and footer
+- [x] Categories index: "By Cuisine" pill row added above family groups
 - [x] Home page: "Browse by Category" section added to reference area (4 groups, pill-style links with counts)
 - [x] Deployed to cookbook.kevinward.com (2026-05-19)
 
-#### 5c — Cross-Links ("See Also") — Not yet built
+#### 5c — Clickable Category Chips ✅ COMPLETE (2026-05-19)
 
-- Add optional `## See Also` section to recipe format standard
-- Format: `[XX-YY Title]` list (3–5 entries max)
-- `prepare-content.py` resolves IDs to titles and URLs at build time
-- `recipes.json` enables agent-assisted suggestions
+- [x] Cuisine and family metadata on every recipe page are now clickable links
+- [x] Cuisine chip → `/categories/cuisine/[cuisine]`
+- [x] Family chip → `/categories/[family]`
+- [x] Family chip added to recipe page display (was not previously shown)
 
-#### 5d — Collection Pages — Not yet built
+#### 5d — Collection Pages — Deferred to The Expo
 
-- Curated thematic groupings (e.g., "Core Café Athena Menu," "Full Brunch Service")
-- Low priority until cross-links are complete
+- Curated thematic groupings (e.g., "Core Café Athena Menu," "Full Brunch Service") deferred to Part IV — The Expo, which will serve as an editorial blog layer
+- See `IDEAS.md` — "The Expo as multi-purpose blog"
 
 ---
 
