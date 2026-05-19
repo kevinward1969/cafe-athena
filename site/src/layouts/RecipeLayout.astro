@@ -109,7 +109,12 @@ if (chapter === 1 || chapter === 2) {
           data-pagefind-meta={`title:${title}, chapter:Chapter ${chapter} – ${chapterName}${cuisine ? `, cuisine:${cuisine}` : ''}${recipeStyle ? `, style:${recipeStyle}` : ''}`}
         >
           {keywords.length > 0 && (
-            <span data-pagefind-filter={`cuisine[${cuisine}], style[${recipeStyle}]`} class="hidden" aria-hidden="true">
+            <span data-pagefind-filter={[
+              cuisine      && `cuisine[${cuisine}]`,
+              recipeStyle  && `style[${recipeStyle}]`,
+              family       && `family[${family}]`,
+              course       && `course[${course}]`,
+            ].filter(Boolean).join(', ')} class="hidden" aria-hidden="true">
               {keywords.join(', ')}
             </span>
           )}

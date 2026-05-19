@@ -198,7 +198,90 @@ const featuredEntries = [
         </button>
       </div>
 
-      <!-- Discovery panel (shown when no query) -->
+      <!-- Filter chips panel -->
+      <div id="search-filter-panel" class="w-full mb-10">
+        <div class="flex items-baseline justify-between mb-4">
+          <span class="font-mono text-[9px] tracking-[0.3em] uppercase text-[#c9a96e]/50">Browse by</span>
+          <button id="clear-filters" class="hidden font-mono text-[9px] tracking-[0.2em] uppercase text-[#c9a96e]/60 hover:text-[#c9a96e] transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm px-1">Clear filters</button>
+        </div>
+
+        <div class="space-y-3.5">
+
+          <div class="filter-group">
+            <span class="filter-group-label">Proteins &amp; Seafood</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Chicken">Chicken</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Duck">Duck</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Beef">Beef</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Pork">Pork</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Ground & Formed">Ground &amp; Formed</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Finfish">Finfish</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Mollusc">Mollusc</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-group-label">Starches</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Pasta">Pasta</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Bread">Bread</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Rice">Rice</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Polenta">Polenta</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Pasta Dough">Pasta Dough</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-group-label">Sauces &amp; Building Blocks</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Mother Sauce">Mother Sauce</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Stock">Stock</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Derivative Sauce">Derivative Sauce</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Cold Blended Sauce">Cold Blended Sauce</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Compound Butter">Compound Butter</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Emulsion">Emulsion</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Ragù & Meat Sauce">Ragù &amp; Meat Sauce</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Cream Sauce">Cream Sauce</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-group-label">Pastry &amp; Sweets</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Pastry Dough">Pastry Dough</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Cream & Filling">Cream &amp; Filling</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Brownie & Bar">Brownie &amp; Bar</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Cookie">Cookie</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Small Cake & Pastry">Small Cake &amp; Pastry</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Caramel & Sugar">Caramel &amp; Sugar</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-group-label">Technique</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Emulsification & Bonding">Emulsification &amp; Bonding</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Fermentation">Fermentation</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Starch & Dough Science">Starch &amp; Dough Science</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Preservation & Transformation">Preservation &amp; Transformation</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Hydrocolloids & Gels">Hydrocolloids &amp; Gels</button>
+              <button class="filter-chip" data-filter-type="family" data-filter-value="Heat & Thermodynamics">Heat &amp; Thermodynamics</button>
+            </div>
+          </div>
+
+          <div class="filter-group border-t border-white/[0.07] pt-3.5">
+            <span class="filter-group-label">Course</span>
+            <div class="flex flex-wrap gap-1.5 mt-1.5">
+              <button class="filter-chip" data-filter-type="course" data-filter-value="Dinner">Dinner</button>
+              <button class="filter-chip" data-filter-type="course" data-filter-value="Dessert">Dessert</button>
+              <button class="filter-chip" data-filter-type="course" data-filter-value="Component">Component</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Discovery panel (shown when no query and no filters) -->
       <div id="search-discovery" class="w-full grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-16">
 
         <!-- Quick Links -->
@@ -287,6 +370,12 @@ const featuredEntries = [
       let lastFocused: HTMLElement | null = null;
       let pagefind: any = null;
       let debounce: ReturnType<typeof setTimeout>;
+      const activeFilters: { family: Set<string>; course: Set<string> } = {
+        family: new Set(),
+        course: new Set(),
+      };
+      const filterChips = document.querySelectorAll<HTMLElement>('.filter-chip');
+      const clearBtn    = document.getElementById('clear-filters')!;
 
       // ── Open / close ──────────────────────────────────────────────────────────
       function openModal() {
@@ -297,13 +386,20 @@ const featuredEntries = [
         requestAnimationFrame(() => input.focus());
       }
 
+      function resetFilters() {
+        activeFilters.family.clear();
+        activeFilters.course.clear();
+        filterChips.forEach(c => c.classList.remove('is-active'));
+        clearBtn.classList.add('hidden');
+      }
+
       function closeModal() {
         modal.classList.add('opacity-0', 'pointer-events-none');
         modal.setAttribute('aria-hidden', 'true');
         document.body.style.overflow = '';
         lastFocused?.focus();
-        // Reset
         input.value = '';
+        resetFilters();
         showDiscovery();
       }
 
@@ -372,13 +468,47 @@ const featuredEntries = [
 
       // ── Search ────────────────────────────────────────────────────────────────
       async function doSearch(query: string) {
-        if (!query.trim()) { showDiscovery(); return; }
+        const hasQuery   = query.trim().length > 0;
+        const hasFilters = activeFilters.family.size > 0 || activeFilters.course.size > 0;
+        if (!hasQuery && !hasFilters) { showDiscovery(); return; }
+
         const pf = await getPagefind();
         if (!pf) { renderResults([]); return; }
-        const { results: hits } = await pf.search(query);
-        const data = await Promise.all(hits.slice(0, 10).map((r: any) => r.data()));
+
+        const filterOpts: Record<string, string[]> = {};
+        if (activeFilters.family.size > 0) filterOpts.family = [...activeFilters.family];
+        if (activeFilters.course.size > 0)  filterOpts.course  = [...activeFilters.course];
+
+        const { results: hits } = await pf.search(
+          hasQuery ? query : null,
+          Object.keys(filterOpts).length > 0 ? { filters: filterOpts } : undefined,
+        );
+        const data = await Promise.all(hits.slice(0, 20).map((r: any) => r.data()));
         renderResults(data);
       }
+
+      // ── Filter chip wiring ────────────────────────────────────────────────────
+      filterChips.forEach(chip => {
+        chip.addEventListener('click', () => {
+          const type  = chip.dataset.filterType as 'family' | 'course';
+          const value = chip.dataset.filterValue!;
+          if (activeFilters[type].has(value)) {
+            activeFilters[type].delete(value);
+            chip.classList.remove('is-active');
+          } else {
+            activeFilters[type].add(value);
+            chip.classList.add('is-active');
+          }
+          clearBtn.classList.toggle('hidden', activeFilters.family.size === 0 && activeFilters.course.size === 0);
+          clearTimeout(debounce);
+          doSearch(input.value);
+        });
+      });
+
+      clearBtn.addEventListener('click', () => {
+        resetFilters();
+        doSearch(input.value);
+      });
 
       // ── Event wiring ──────────────────────────────────────────────────────────
       triggers.forEach(t => t.addEventListener('click', openModal));
@@ -432,5 +562,44 @@ const featuredEntries = [
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 5rem;
+  }
+
+  .filter-group-label {
+    display: block;
+    font-family: monospace;
+    font-size: 0.55rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: rgba(201, 169, 110, 0.35);
+  }
+
+  .filter-chip {
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    padding: 0.3rem 0.8rem;
+    border-radius: 9999px;
+    border: 1px solid rgba(201, 169, 110, 0.18);
+    color: rgba(255, 255, 255, 0.45);
+    background: transparent;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .filter-chip:hover {
+    border-color: rgba(201, 169, 110, 0.45);
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .filter-chip:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px #c9a96e;
+  }
+
+  .filter-chip.is-active {
+    background: rgba(201, 169, 110, 0.12);
+    border-color: #c9a96e;
+    color: #c9a96e;
   }
 </style>
