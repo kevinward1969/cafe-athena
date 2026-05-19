@@ -190,8 +190,8 @@ See `README.md` for full documentation and the Ollama approval workflow.
 `prepare-content.py` is the bridge between `The Manual/` and the Astro site. Understanding what it does is critical when editing either side:
 
 1. **Strips the leading H1** — every folio file starts with `# Café Athena - Title` or `# **Technique Folio - Title**`. The script removes this line because `RecipeLayout.astro` renders the title from frontmatter; leaving it in the body causes a double title.
-2. **Extracts `## Keywords` and `## Category` from the body** — these sections exist in the folio source but do not appear on the page. The script pulls them out and maps them into YAML frontmatter fields (`keywords[]`, `cuisine`, `style`, `dietary`), then strips the sections from the rendered body.
-3. **Injects frontmatter** — every built file gets: `title`, `index`, `chapter`, `chapterName`, `type` (`recipe` or `technique`), `heroImage`, `referenceImages[]`, `keywords[]`, `cuisine`, `style`, `dietary`. The schema is defined in `site/src/content.config.ts`.
+2. **Extracts `## Keywords` and `## Category` from the body** — these sections exist in the folio source but do not appear on the page. The script pulls them out and maps them into YAML frontmatter fields (`keywords[]`, `cuisine`, `style`, `family`, `course`, `dietary`), then strips the sections from the rendered body.
+3. **Injects frontmatter** — every built file gets: `title`, `index`, `chapter`, `chapterName`, `type` (`recipe` or `technique`), `heroImage`, `referenceImages[]`, `keywords[]`, `cuisine`, `style`, `family`, `course`, `dietary`. The schema is defined in `site/src/content.config.ts`.
 4. **Copies images** — hero images (`XX-YY.webp/.png`) and reference images (`XX-YYa.webp`, etc.) are copied from chapter folders to `site/public/images/`. Already-optimized WebP files already present in `site/public/images/` are preserved (not overwritten).
 
 The Astro content collection at `site/src/content/recipes/` is **ephemeral** — it is fully regenerated each time `prepare-content.py` runs. Never hand-edit those files; edit the source in `The Manual/` instead, then re-run the pipeline.

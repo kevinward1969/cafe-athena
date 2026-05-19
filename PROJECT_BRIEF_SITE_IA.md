@@ -355,16 +355,14 @@ Folio ## Category section   ←── source of truth (human-edited)
       Also supports `--dry-run` to preview changes before writing.
 - [x] Run `--sync-metadata` across all 152 entries — all populated
 
-### Phase 4 — Pipeline Update
+### Phase 4 — Pipeline Update ✅ COMPLETE (2026-05-19)
 
-- [ ] Update `prepare-content.py` to extract `family:` and `course:` alongside
-      existing `cuisine`, `style`, `dietary`
-- [ ] Update `site/src/content.config.ts` schema to add `family` and `course` fields
-- [ ] Run full build and verify fields appear correctly in built recipe files
-- [ ] Update `site/src/pages/larder.astro` (and `brigade.astro`, `academy.astro`)
-      to pass new fields through — no UI changes yet, just data plumbing
-- [ ] Update `CLAUDE.md` lines 193–194 to document that `prepare-content.py` now
-      also extracts `family` and `course` into frontmatter
+- [x] Updated `prepare-content.py` — `extract_metadata()` now extracts `family` and `course`; frontmatter template updated
+- [x] Updated `site/src/content.config.ts` — `family` and `course` added to schema
+- [x] Build verified clean — 152 pages, 3 filters indexed, 0 errors
+- [x] `RecipeLayout.astro` Props interface updated; `[...slug].astro` passes all five Category fields
+- [x] Landing pages (`larder`, `brigade`, `academy`) need no changes — they don't use Category fields
+- [x] `CLAUDE.md` pipeline documentation updated (lines 193–194)
 
 ### Phase 5 — Site Features
 

@@ -65,11 +65,13 @@ def clean_dirs():
 def extract_metadata(body):
     """Extract and strip ## Keywords and ## Category sections from body content.
 
-    Returns (cleaned_body, keywords, cuisine, style, dietary).
+    Returns (cleaned_body, keywords, cuisine, style, family, course, dietary).
     """
     keywords = []
     cuisine = ''
     style = ''
+    family = ''
+    course = ''
     dietary = ''
 
     # Extract ## Keywords section
@@ -89,11 +91,15 @@ def extract_metadata(body):
                 cuisine = part[len('cuisine:'):].strip()
             elif part.startswith('style:'):
                 style = part[len('style:'):].strip()
+            elif part.startswith('family:'):
+                family = part[len('family:'):].strip()
+            elif part.startswith('course:'):
+                course = part[len('course:'):].strip()
             elif part.startswith('dietary:'):
                 dietary = part[len('dietary:'):].strip()
         body = body[:cat_match.start()].rstrip('\n') + '\n' + body[cat_match.end():]
 
-    return body.strip(), keywords, cuisine, style, dietary
+    return body.strip(), keywords, cuisine, style, family, course, dietary
 
 
 def copy_glossary():
@@ -222,7 +228,7 @@ def process_chapter(chapter_dir):
         body = re.sub(r'^# [^\n]*\n+', '', body)
 
         # Extract keywords and category, stripping those sections from body
-        body, keywords, cuisine, style, dietary = extract_metadata(body)
+        body, keywords, cuisine, style, family, course, dietary = extract_metadata(body)
 
         # Escape quotes for YAML
         yaml_title = display_title.replace('"', "'")
@@ -253,6 +259,8 @@ referenceImages: {yaml_reference_images}
 keywords: {yaml_keywords}
 cuisine: "{cuisine}"
 style: "{style}"
+family: "{family}"
+course: "{course}"
 dietary: "{dietary}"
 ---
 

@@ -15,6 +15,8 @@ const recipes = defineCollection({
     keywords: z.array(z.string()).optional().default([]),
     cuisine: z.string().optional().default(''),
     style: z.string().optional().default(''),
+    family: z.string().optional().default(''),
+    course: z.string().optional().default(''),
     dietary: z.string().optional().default(''),
   }),
 });

@@ -11,12 +11,15 @@ interface Props {
   keywords?: string[];
   cuisine?: string;
   style?: string;
+  family?: string;
+  course?: string;
+  dietary?: string;
   recipeType?: string;
   prevRecipe?: { slug: string; title: string } | null;
   nextRecipe?: { slug: string; title: string } | null;
 }
 
-const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', recipeType = 'recipe', prevRecipe, nextRecipe } = Astro.props;
+const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', family = '', course = '', dietary = '', recipeType = 'recipe', prevRecipe, nextRecipe } = Astro.props;
 const hasHero = heroImage && heroImage.length > 0;
 
 let sectionHref = '/brigade';

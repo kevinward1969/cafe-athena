@@ -38,4 +38,4 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | `/pipeline [id]` slash command | Built and validated on 09-06 (audit-only) and 12-21 (full run incl. glossary + deploy). Ready for first new recipe test. | Awaiting new recipe | 2026-05-18 |
 | Finish pipeline on 12-02, 12-15, 12-22 | 3 recipes with genuine outstanding stages (audit and/or glossary). | `/pipeline` or manual | 2026-05-18 |
 | Re-attach Recipe-Format-Standard.md v3.2 in Claude Desktop | Ingredients before Mise en Place; Variations = significant departures only; Chef's Notes = minor options. Must re-attach as file attachment in Claude Desktop project. | Manual action required | 2026-05-18 |
-| Site IA & Taxonomy Upgrade — Phase 4 | Phases 1–3 complete. Next: update `prepare-content.py` to extract `family` and `course` → Astro frontmatter; update `content.config.ts` schema. Full spec in `PROJECT_BRIEF_SITE_IA.md`. | — | 2026-05-18 |
+| Site IA & Taxonomy Upgrade — Phase 5 | Phases 1–4 complete. Next: filter UI (5a), recipe index pages (5b), cross-links (5c). Independent — can be prioritized separately. Full spec in `PROJECT_BRIEF_SITE_IA.md`. | — | 2026-05-19 |
