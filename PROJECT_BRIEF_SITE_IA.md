@@ -34,6 +34,19 @@ through the registry and pipeline, then builds the site features that consume it
 
 ---
 
+## Taxonomy Directory
+
+**Canonical location: `Guidance/Taxonomy.md`**
+
+All controlled vocabulary for every indexing field lives in one file.
+`Recipe-Format-Standard.md`, the Chef agent, and the Astro pipeline
+all reference this file — nothing defines valid terms anywhere else.
+This prevents drift as new recipes, chapters, or cuisines are added.
+
+Fields are also validated against this file by `audit.py --sync-metadata`.
+
+---
+
 ## Taxonomy Design
 
 ### Existing fields (keep, no changes)
@@ -42,7 +55,7 @@ through the registry and pipeline, then builds the site features that consume it
 cuisine: French | style: Pastry | dietary: Vegetarian
 ```
 
-Controlled vocabulary is in `Guidance/Recipe-Format-Standard.md`.
+Full controlled vocabulary moved to `Guidance/Taxonomy.md`.
 
 ### New fields to add
 
@@ -72,6 +85,26 @@ cuisine: French | style: Classical | cluster: Mother Sauce | course: Component
 
 ---
 
+## Cluster Philosophy
+
+Cluster vocabulary is **prescriptive, not just descriptive** — it should include
+categories we will cook, not only categories we have. This future-proofs the taxonomy
+and the site's filter UI.
+
+**Cluster axis by chapter type:**
+
+| Chapter type | Cluster axis | Rationale |
+|---|---|---|
+| Technique (Ch. 1–2) | Science domain / Skill type | Concepts, not proteins |
+| Garde Manger (Ch. 3) | Form & presentation | The station organizes by form |
+| Starch (Ch. 4) | Starch base | Bread vs. Pasta vs. Rice vs. Polenta |
+| Protein brigade (Ch. 5–7) | **Protein/ingredient** | How people browse: "I have chicken" |
+| Vegetable (Ch. 8) | Primary vegetable | Ingredient-first for plant dishes |
+| Pâtissier (Ch. 9) | Pastry form | Cookie vs. Tart vs. Cake vs. Canelé |
+| Building blocks (Ch. 10–12) | Type of component | Stock vs. Sauce vs. Dough vs. Cream |
+
+---
+
 ## Cluster Vocabulary (Proposed — validate before writing to folios)
 
 ### Chapter 1 — The Lab (Technique Folios)
@@ -89,7 +122,9 @@ cuisine: French | style: Classical | cluster: Mother Sauce | course: Component
 | Cluster | Folios |
 |---|---|
 | `Kitchen Management` | 02-01, 02-02, 02-03, 02-05, 02-06, 02-07 |
-| `Knife Skills` | 02-04 |
+| `Skills` | 02-04 |
+
+> `Skills` (not `Knife Skills`) — future-proofs for other skill folios beyond knife work.
 
 ### Chapter 3 — Garde Manger
 | Cluster | Folios |
@@ -105,47 +140,68 @@ cuisine: French | style: Classical | cluster: Mother Sauce | course: Component
 | Cluster | Folios |
 |---|---|
 | `Bread` | 04-01, 04-05, 04-11, 04-14 |
-| `Risotto` | 04-02, 04-03 |
+| `Rice` | 04-02, 04-03 |
 | `Pasta` | 04-04, 04-08, 04-10, 04-13 |
 | `Gnocchi` | 04-07 |
 | `Polenta` | 04-06, 04-09 |
 | `Grain & Legume` | 04-12 |
 
+> `Rice` (not `Risotto`) — future-proofs for rice pilaf, fried rice, arroz, etc.
+> Future additions: `Pizza`, `Flatbread`.
+
 ### Chapter 5 — The Fishmonger
-| Cluster | Folios |
-|---|---|
-| `Shellfish` | 05-01 |
-| `Finfish` | 05-02, 05-03, 05-04 |
+*Protein-based clusters. Technique lives in Keywords.*
+
+| Cluster | Current Folios | Future |
+|---|---|---|
+| `Mollusc` | 05-01 (scallops) | clams, mussels, oysters |
+| `Finfish` | 05-02, 05-03, 05-04 | salmon, halibut, tuna, mackerel |
+| `Crustacean` | — | shrimp, lobster, crab |
+| `Cephalopod` | — | squid, octopus |
+| `Cured & Smoked` | — | gravlax, smoked fish |
 
 ### Chapter 6 — The Poulterer
-| Cluster | Folios |
-|---|---|
-| `Soup` | 06-01, 06-02 |
-| `Confit` | 06-03 |
-| `Fried` | 06-04 |
-| `Pasta` | 06-05 |
-| `Pie & Pastry` | 06-06 |
+*Protein-based clusters. Technique lives in Keywords.*
+
+| Cluster | Current Folios | Future |
+|---|---|---|
+| `Chicken` | 06-01, 06-02, 06-04, 06-05, 06-06 | — |
+| `Duck` | 06-03 | — |
+| `Turkey` | — | roast, confit |
+| `Game Bird` | — | quail, pheasant, guinea fowl |
+| `Egg` | — | standalone egg preparations |
 
 ### Chapter 7 — The Butcher
-| Cluster | Folios |
-|---|---|
-| `Steak` | 07-01, 07-06, 07-07 |
-| `Braise` | 07-04, 07-05, 07-08, 07-09, 07-11 |
-| `Smoked & BBQ` | 07-03, 07-10 |
-| `Meatball` | 07-02 |
-| `Cured` | 07-12 |
-| `Wellington` | 07-13 |
+*Protein-based clusters. Technique lives in Keywords.*
+
+| Cluster | Current Folios | Future |
+|---|---|---|
+| `Beef` | 07-01, 07-02, 07-04, 07-05, 07-06, 07-07, 07-08, 07-09, 07-10, 07-11, 07-13 | — |
+| `Pork` | 07-03, 07-12 | ribs, roast, shoulder |
+| `Lamb` | — | rack, shoulder, leg |
+| `Goat` | — | braise, stew |
+| `Veal` | — | osso buco, scaloppine |
+| `Wild Game` | — | venison, rabbit, bison |
+| `Offal` | — | liver, kidney, sweetbreads |
+| `Charcuterie` | — | sausage, terrines, cured meats |
 
 ### Chapter 8 — The Field
-| Cluster | Folios |
-|---|---|
-| `Vegetable Main` | 08-01, 08-02 |
-| `Mash & Purée` | 08-03 |
-| `Grain & Bulgur` | 08-04, 08-05 |
-| `Potato` | 08-06, 08-10 |
-| `Corn` | 08-07 |
-| `Stuffed` | 08-08 |
-| `Steamed` | 08-09 |
+*Primary vegetable/ingredient clusters. Technique lives in Keywords.*
+
+| Cluster | Current Folios | Future |
+|---|---|---|
+| `Mushroom` | 08-01 | — |
+| `Squash` | 08-02 | butternut, acorn, delicata |
+| `Root Vegetable` | 08-03 | parsnip, turnip, celeriac |
+| `Grain & Bulgur` | 08-04, 08-05, 08-08 | farro, freekeh, millet |
+| `Potato` | 08-06, 08-10 | — |
+| `Corn` | 08-07 | — |
+| `Asparagus` | 08-09 | — |
+| `Leafy Green` | — | spinach, chard, kale preparations |
+| `Legume` | — | lentils, chickpeas, beans |
+| `Tomato & Nightshade` | — | eggplant, peppers |
+| `Allium` | — | onion, leek, fennel |
+| `Brassica` | — | cauliflower, broccoli, Brussels sprouts |
 
 ### Chapter 9 — The Pâtissier
 | Cluster | Folios |
@@ -234,9 +290,11 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [x] Identify gaps in current Category fields
 - [x] Design `cluster:` and `course:` fields
 - [x] Draft cluster vocabulary for all chapters
-- [ ] Review and validate cluster assignments (Kevin)
-- [ ] Update `Guidance/Recipe-Format-Standard.md` — add new fields and vocabulary
-- [ ] Update controlled vocabulary in `CLAUDE.md` if referenced there
+- [x] Establish cluster philosophy (prescriptive; ingredient-based for brigade chapters)
+- [x] Create `Guidance/Taxonomy.md` — canonical controlled vocabulary
+- [ ] Review and validate cluster assignments (Kevin) — esp. Ch. 1, Ch. 9, Ch. 10
+- [ ] Update `Guidance/Recipe-Format-Standard.md` — add new fields, reference Taxonomy.md
+- [ ] Remove vocabulary from `Recipe-Format-Standard.md` (now lives in Taxonomy.md only)
 
 ### Phase 2 — Manuscript Backfill
 - [ ] Add `cluster:` and `course:` to all existing folio `## Category` sections
@@ -323,7 +381,8 @@ Deferred until Phase 2–3 are complete so new folios are registered correctly.
 
 ## Reference
 
-- `Guidance/Recipe-Format-Standard.md` — format spec to be updated in Phase 1
+- `Guidance/Taxonomy.md` — **canonical controlled vocabulary** (all valid field values)
+- `Guidance/Recipe-Format-Standard.md` — format spec; references Taxonomy.md for vocab
 - `recipes.json` — registry to be extended in Phase 3
 - `site/scripts/prepare-content.py` — pipeline to be updated in Phase 4
 - `site/src/content.config.ts` — Astro schema to be updated in Phase 4
