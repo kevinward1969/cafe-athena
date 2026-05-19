@@ -102,12 +102,12 @@ Do not add speculatively or with modifications in mind.
 
 ---
 
-### `cluster:`
+### `family:`
 
 The subcategory within a chapter. Taxonomy philosophy and full vocabulary below.
 
-**Philosophy:** Clusters are **prescriptive** — include categories for recipes we will
-cook, not only recipes we currently have. Cluster axis varies by chapter type:
+**Philosophy:** Families are **prescriptive** — include categories for recipes we will
+cook, not only recipes we currently have. Family axis varies by chapter type:
 
 - Technique chapters (1–2): science domain or skill type
 - Garde Manger (3): form and presentation
@@ -121,7 +121,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 1 — The Lab
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Heat & Thermodynamics` | Thermal control, reverse sear, gradient techniques |
 | `Salinity & Seasoning` | Salt science, equilibrium brining |
@@ -135,7 +135,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 2 — The Foundation
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Kitchen Management` | Station setup, tools, equipment, larder, sanitation, stewardship |
 | `Skills` | Knife mechanics and any other hands-on technique folios added later |
@@ -144,7 +144,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 3 — Garde Manger
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Mousse & Pâté` | Cold-set mousses, liver pâtés, vegetarian pâtés |
 | `Amuse-Bouche` | Kitchen-sent, table-presented, single bite — chef's statement, not ordered |
@@ -159,7 +159,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 4 — The Mill
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Bread` | Leavened breads: sourdough, focaccia, baguette, buns |
 | `Pasta` | Fresh and dried pasta dishes |
@@ -174,7 +174,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 5 — The Fishmonger
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Finfish` | All fin fish: cod, bass, salmon, tuna, halibut, mackerel, swordfish |
 | `Mollusc` | Scallops, clams, mussels, oysters |
@@ -186,7 +186,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 6 — The Poulterer
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Chicken` | All chicken preparations regardless of technique |
 | `Duck` | Duck confit, duck breast, duck leg preparations |
@@ -198,7 +198,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 7 — The Butcher
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Beef` | All beef cuts: ribeye, chuck, short rib, oxtail, skirt |
 | `Pork` | Pork steaks, belly, shoulder, ribs, tenderloin, bacon, cured pork |
@@ -209,7 +209,7 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 | `Offal` | Liver, kidney, sweetbreads, tongue, tripe (future) |
 | `Ground & Formed` | Meatballs, sausage, burgers, kofta, gyro (lamb/beef), shawarma (lamb) — protein secondary to form |
 
-> `Charcuterie` is NOT a Ch. 7 cluster. The Butcher processes and cooks meat;
+> `Charcuterie` is NOT a Ch. 7 family. The Butcher processes and cooks meat;
 > charcuterie craft (terrines, sausages, boards) belongs to Ch. 3 Garde Manger.
 > Cured/smoked items like bacon (07-12) file under their protein (`Pork`).
 > Chicken gyro/shawarma files under Ch. 6 `Chicken`.
@@ -218,10 +218,10 @@ cook, not only recipes we currently have. Cluster axis varies by chapter type:
 
 #### Chapter 8 — The Field
 
-Clusters use a mix of ingredient groups (for distinctive primary ingredients) and
+Families use a mix of ingredient groups (for distinctive primary ingredients) and
 technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Salad & Dressed` | Tabbouleh, kisir, dressed grain salads, herb salads |
 | `Mash & Purée` | Smooth vegetable preparations: mash, mousseline, purée |
@@ -241,7 +241,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 #### Chapter 9 — The Pâtissier
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Brownie & Bar` | Brownies, blondies, bar cookies |
 | `Cookie` | All dropped, rolled, or piped cookies |
@@ -258,7 +258,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 #### Chapter 10 — Stocks & Mother Sauces
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Stock` | All stocks: white, brown, fish, vegetable |
 | `Mother Sauce` | The five classic French mother sauces |
@@ -278,7 +278,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 #### Chapter 11 — Spice Blends & Oils
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Herb Oil` | Chlorophyll-stabilized fresh herb oils: basil, parsley, chive |
 | `Infused Oil` | Aromatics-, spice-, or allium-infused oils: garlic, chili, truffle (future) |
@@ -294,7 +294,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 #### Chapter 12 — Les Fonds
 
-| Cluster | Notes |
+| Family | Notes |
 |---|---|
 | `Platform & Vessel` | Structural bases and edible vessels: crispy rice, frico, tuile cylinders |
 | `Pastry Dough` | Tart doughs, shortcrust, pâte à choux, puff, rough puff |
@@ -314,7 +314,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 
 ### Mandatory fields
 
-Every finished recipe folio must have: `cuisine`, `style`, `cluster`, `course`
+Every finished recipe folio must have: `cuisine`, `style`, `family`, `course`
 Technique folios (style: `Technique Folio`) may omit `course`.
 
 ### Optional fields
@@ -324,7 +324,7 @@ Technique folios (style: `Technique Folio`) may omit `course`.
 ### Multiple values
 
 One value per field — this is the forcing function that makes the taxonomy useful.
-If a recipe feels like it belongs in two clusters, the vocabulary needs a better term,
+If a recipe feels like it belongs in two families, the vocabulary needs a better term,
 or the nuance belongs in `keywords:`.
 
 **Exception — `dietary:`** supports comma-separated values because dietary attributes

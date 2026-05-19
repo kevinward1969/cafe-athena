@@ -10,7 +10,7 @@
 
 The Café Athena manuscript has grown to ~130 folios across 12 chapters. The current site
 renders recipes strictly by folio number within each chapter section, with no filtering,
-cross-linking, or cluster-level browsing. Research into best-practice recipe site IA
+cross-linking, or family-level browsing. Research into best-practice recipe site IA
 (see `Online Recipe & Cookbook Site Structures vs. cookbook.kevinward.com.md`) confirms
 that the primary gap is not content — it is **metadata richness and discovery tooling**.
 
@@ -22,7 +22,7 @@ The existing infrastructure is closer to best practice than it appears:
 | Style/register | `style:` field exists in `## Category` |
 | Dietary | `dietary:` field exists in `## Category` (optional) |
 | Tags | `## Keywords` section exists in every folio |
-| Cluster/subcategory | **Missing** — no field |
+| Family/subcategory | **Missing** — no field |
 | Course/meal type | **Missing** — no field |
 | Registry metadata | **Missing** — `recipes.json` tracks pipeline stages only |
 | Site filters | **Not built** |
@@ -60,7 +60,7 @@ Full controlled vocabulary moved to `Guidance/Taxonomy.md`.
 
 ### New fields to add
 
-#### `cluster:` (optional → required for Ch. 10–12, recommended elsewhere)
+#### `family:` (optional → required for Ch. 10–12, recommended elsewhere)
 
 The subcategory within a chapter. Answers: *what kind of thing is this?*
 Enables grouping within chapter landing pages and cross-reference lookup.
@@ -68,7 +68,7 @@ Enables grouping within chapter landing pages and cross-reference lookup.
 Format: appended to the Category line
 
 ```
-cuisine: French | style: Pastry | cluster: Pastry Dough
+cuisine: French | style: Pastry | family: Pastry Dough
 ```
 
 #### `course:` (optional → recommended for Ch. 3–9)
@@ -78,7 +78,7 @@ Most useful for finished-dish chapters. Components and technique folios
 use `course: Component` or omit the field.
 
 ```
-cuisine: French | style: Classical | cluster: Mother Sauce | course: Component
+cuisine: French | style: Classical | family: Mother Sauce | course: Component
 ```
 
 **`course:` controlled vocabulary:**
@@ -86,15 +86,15 @@ cuisine: French | style: Classical | cluster: Mother Sauce | course: Component
 
 ---
 
-## Cluster Philosophy
+## Family Philosophy
 
-Cluster vocabulary is **prescriptive, not just descriptive** — it should include
+Family vocabulary is **prescriptive, not just descriptive** — it should include
 categories we will cook, not only categories we have. This future-proofs the taxonomy
 and the site's filter UI.
 
-**Cluster axis by chapter type:**
+**Family axis by chapter type:**
 
-| Chapter type | Cluster axis | Rationale |
+| Chapter type | Family axis | Rationale |
 |---|---|---|
 | Technique (Ch. 1–2) | Science domain / Skill type | Concepts, not proteins |
 | Garde Manger (Ch. 3) | Form & presentation | The station organizes by form |
@@ -106,11 +106,11 @@ and the site's filter UI.
 
 ---
 
-## Cluster Vocabulary (Proposed — validate before writing to folios)
+## Family Vocabulary (Proposed — validate before writing to folios)
 
 ### Chapter 1 — The Lab (Technique Folios)
 
-| Cluster | Folios |
+| Family | Folios |
 |---|---|
 | `Heat & Thermodynamics` | 01-01, 01-13 |
 | `Salinity & Seasoning` | 01-02 |
@@ -122,7 +122,7 @@ and the site's filter UI.
 
 ### Chapter 2 — The Foundation (Technique Folios)
 
-| Cluster | Folios |
+| Family | Folios |
 |---|---|
 | `Kitchen Management` | 02-01, 02-02, 02-03, 02-05, 02-06, 02-07 |
 | `Skills` | 02-04 |
@@ -131,7 +131,7 @@ and the site's filter UI.
 
 ### Chapter 3 — Garde Manger
 
-| Cluster | Current Folios | Notes |
+| Family | Current Folios | Notes |
 |---|---|---|
 | `Mousse & Pâté` | 03-07, 03-08, 03-10, 03-12, 03-13 | |
 | `Amuse-Bouche` | 03-01 | Kitchen-sent, table-presented |
@@ -144,7 +144,7 @@ and the site's filter UI.
 
 ### Chapter 4 — The Mill
 
-| Cluster | Folios |
+| Family | Folios |
 |---|---|
 | `Bread` | 04-01, 04-05, 04-11, 04-14 |
 | `Rice` | 04-02, 04-03 |
@@ -158,9 +158,9 @@ and the site's filter UI.
 
 ### Chapter 5 — The Fishmonger
 
-*Protein-based clusters. Technique lives in Keywords.*
+*Protein-based families. Technique lives in Keywords.*
 
-| Cluster | Current Folios | Future |
+| Family | Current Folios | Future |
 |---|---|---|
 | `Mollusc` | 05-01 (scallops) | clams, mussels, oysters |
 | `Finfish` | 05-02, 05-03, 05-04 | salmon, halibut, tuna, mackerel |
@@ -170,9 +170,9 @@ and the site's filter UI.
 
 ### Chapter 6 — The Poulterer
 
-*Protein-based clusters. Technique lives in Keywords.*
+*Protein-based families. Technique lives in Keywords.*
 
-| Cluster | Current Folios | Future |
+| Family | Current Folios | Future |
 |---|---|---|
 | `Chicken` | 06-01, 06-02, 06-04, 06-05, 06-06 | — |
 | `Duck` | 06-03 | — |
@@ -182,9 +182,9 @@ and the site's filter UI.
 
 ### Chapter 7 — The Butcher
 
-*Protein-based clusters. Technique lives in Keywords.*
+*Protein-based families. Technique lives in Keywords.*
 
-| Cluster | Current Folios | Future |
+| Family | Current Folios | Future |
 |---|---|---|
 | `Beef` | 07-01, 07-04, 07-05, 07-06, 07-07, 07-08, 07-09, 07-10, 07-11, 07-13 | — |
 | `Pork` | 07-03, 07-12 | ribs, roast, shoulder |
@@ -200,9 +200,9 @@ and the site's filter UI.
 
 ### Chapter 8 — The Field
 
-*Mix of ingredient groups and technique/form clusters. Grain removed — lives in Ch. 4.*
+*Mix of ingredient groups and technique/form families. Grain removed — lives in Ch. 4.*
 
-| Cluster | Current Folios | Future |
+| Family | Current Folios | Future |
 |---|---|---|
 | `Salad & Dressed` | 08-04, 08-05 | herb salads, dressed grain salads |
 | `Mash & Purée` | 08-03 | mousseline, smooth veg preparations |
@@ -220,7 +220,7 @@ and the site's filter UI.
 
 ### Chapter 9 — The Pâtissier
 
-| Cluster | Folios | Notes |
+| Family | Folios | Notes |
 |---|---|---|
 | `Brownie & Bar` | 09-01, 09-06 | |
 | `Cookie` | 09-02, 09-03 | 09-03 pending replacement with Lemon Blackberry Tart |
@@ -233,12 +233,12 @@ and the site's filter UI.
 
 ### Chapter 10 — Stocks & Mother Sauces
 
-| Cluster | Folios | Notes |
+| Family | Folios | Notes |
 |---|---|---|
 | `Stock` | 10-01, 10-17 | |
 | `Mother Sauce` | 10-03, 10-08, 10-15, 10-16, 10-18 | |
 | `Derivative Sauce` | 10-04, 10-05, 10-06, 10-10, 10-11, 10-19 | |
-| `Cold Blended Sauce` | 10-02, 10-14, 10-20 | Pesto, salsa di noci — replaces `Pesto` cluster |
+| `Cold Blended Sauce` | 10-02, 10-14, 10-20 | Pesto, salsa di noci — replaces `Pesto` family |
 | `Compound Butter` | 10-07, 10-22 | |
 | `Emulsion` | 10-09, 10-25 | Stable emulsions only |
 | `Ragù & Meat Sauce` | 10-13 | Bolognese is a ragù |
@@ -251,7 +251,7 @@ and the site's filter UI.
 
 ### Chapter 11 — Spice Blends & Oils
 
-| Cluster | Folios | Notes |
+| Family | Folios | Notes |
 |---|---|---|
 | `Herb Oil` | 11-01 | Chlorophyll-stabilized fresh herb oils |
 | `Specialty Salt` | 11-02, 11-03, 11-04 | Smoked, flavored, crystallized, ash |
@@ -265,7 +265,7 @@ and the site's filter UI.
 
 ### Chapter 12 — Les Fonds
 
-| Cluster | Folios |
+| Family | Folios |
 |---|---|
 | `Platform & Vessel` | 12-01, 12-15, 12-16 |
 | `Pastry Dough` | 12-02, 12-03, 12-04, 12-05, 12-06 |
@@ -283,10 +283,10 @@ and the site's filter UI.
 Folio ## Category section   ←── source of truth (human-edited)
         │
         ├── prepare-content.py extracts → Astro built file frontmatter
-        │       (cuisine, style, dietary, cluster, course)
+        │       (cuisine, style, dietary, family, course)
         │
         └── /register-recipe writes → recipes.json entry
-                (cuisine, style, dietary, cluster, course, keywords[])
+                (cuisine, style, dietary, family, course, keywords[])
                         │
                         └── audit.py --sync-metadata backfills existing entries
 ```
@@ -302,7 +302,7 @@ Folio ## Category section   ←── source of truth (human-edited)
   "type": "recipe",
   "cuisine": "French",
   "style": "Classical",
-  "cluster": "Cream & Filling",
+  "family": "Cream & Filling",
   "course": "Component",
   "keywords": ["crème pâtissière", "pastry cream", "filling", "tart"],
   "dietary": null,
@@ -319,24 +319,24 @@ Folio ## Category section   ←── source of truth (human-edited)
 ### Phase 1 — Taxonomy Definition *(current phase)*
 
 - [x] Identify gaps in current Category fields
-- [x] Design `cluster:` and `course:` fields
-- [x] Draft cluster vocabulary for all chapters
-- [x] Establish cluster philosophy (prescriptive; ingredient-based for brigade chapters)
+- [x] Design `family:` and `course:` fields
+- [x] Draft family vocabulary for all chapters
+- [x] Establish family philosophy (prescriptive; ingredient-based for brigade chapters)
 - [x] Create `Guidance/Taxonomy.md` — canonical controlled vocabulary
-- [ ] Review and validate cluster assignments (Kevin) — esp. Ch. 1, Ch. 9, Ch. 10
+- [ ] Review and validate family assignments (Kevin) — esp. Ch. 1, Ch. 9, Ch. 10
 - [ ] Update `Guidance/Recipe-Format-Standard.md` — add new fields, reference Taxonomy.md
 - [ ] Remove vocabulary from `Recipe-Format-Standard.md` (now lives in Taxonomy.md only)
 
 ### Phase 2 — Manuscript Backfill
 
-- [ ] Add `cluster:` and `course:` to all existing folio `## Category` sections
+- [ ] Add `family:` and `course:` to all existing folio `## Category` sections
 - [ ] Priority order: Ch. 12 first, then Ch. 10–11, then Ch. 3–9, then Ch. 1–2
 - [ ] Use `audit.py` batch detection + human approval (no LLM needed — regex extraction)
 - [ ] Verify Chef agent uses new fields correctly on first new folio after update
 
 ### Phase 3 — Registry Update
 
-- [ ] Add `cuisine`, `style`, `cluster`, `course`, `keywords[]`, `dietary` fields to
+- [ ] Add `cuisine`, `style`, `family`, `course`, `keywords[]`, `dietary` fields to
       `recipes.json` schema (update `_meta.stages` description block)
 - [ ] Update `/register-recipe` workflow to capture and write all new fields
 - [ ] Write `audit.py --sync-metadata` mode: reads each folio's Category/Keywords,
@@ -345,9 +345,9 @@ Folio ## Category section   ←── source of truth (human-edited)
 
 ### Phase 4 — Pipeline Update
 
-- [ ] Update `prepare-content.py` to extract `cluster:` and `course:` alongside
+- [ ] Update `prepare-content.py` to extract `family:` and `course:` alongside
       existing `cuisine`, `style`, `dietary`
-- [ ] Update `site/src/content.config.ts` schema to add `cluster` and `course` fields
+- [ ] Update `site/src/content.config.ts` schema to add `family` and `course` fields
 - [ ] Run full build and verify fields appear correctly in built recipe files
 - [ ] Update `site/src/pages/larder.astro` (and `brigade.astro`, `academy.astro`)
       to pass new fields through — no UI changes yet, just data plumbing
@@ -358,14 +358,14 @@ These are independent and can be prioritized separately after Phase 4.
 
 #### 5a — Filter UI
 
-- Add filter controls (cluster, cuisine, course, dietary) to section landing pages
+- Add filter controls (family, cuisine, course, dietary) to section landing pages
 - Keep crawlable — server-rendered options, progressive enhancement for interactivity
 - Pagefind already indexes content; combine with metadata filters for hybrid search
 
 #### 5b — Recipe Index Pages
 
 - Visual index: category cards linking to filtered views (one per chapter section)
-- Text index: alphabetical list of all recipes, optionally grouped by cluster
+- Text index: alphabetical list of all recipes, optionally grouped by family
 
 #### 5c — Cross-Links ("See Also")
 
@@ -389,7 +389,7 @@ These are independent and can be prioritized separately after Phase 4.
 1. **`course:` for technique folios** — omit or use a standard value like `Technique`?
    Affects Ch. 1 and Ch. 2 where the concept doesn't map cleanly.
 
-2. **`cluster:` for Ch. 1** — the science clusters above are proposed; Kevin should
+2. **`family:` for Ch. 1** — the science families above are proposed; Kevin should
    validate whether these match how he thinks about the Lab chapter.
 
 3. **PB tart crust** — new 12-25 folio or Variant 7 in 12-02?
@@ -397,7 +397,7 @@ These are independent and can be prioritized separately after Phase 4.
    (variant). Decision deferred with tart work.
 
 4. **`See Also` authoring** — manual (Chef agent adds during Mode 2 formatting) or
-   semi-automated (audit.py suggests based on shared cluster/keywords)?
+   semi-automated (audit.py suggests based on shared family/keywords)?
 
 5. **Filter UI approach** — pure Pagefind metadata filters, or custom Astro islands?
    Pagefind supports metadata filtering natively; may be sufficient without custom JS.
