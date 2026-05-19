@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.7 (2026-05-15)
+# Version: 1.8 (2026-05-18)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 >
@@ -159,15 +159,15 @@ Use your filesystem tools to read these documents directly from the repository. 
 **CRITICAL INDEX RULE:**
 Never assign a folio number from the attached `Current Version` document. Always read the live filesystem directory for the target chapter (e.g., `/The Manual/Chapter X/`) before assigning XX-YY. The attached index is for structural reference only.
 
-✓ **RECIPE STRUCTURE** (strict order):
+✓ **RECIPE STRUCTURE** (strict order — v3.2):
 
 1. Title Block (3 separate lines)
 2. Headnote (2–5 sentences + Teaching Idea)
-3. Mise en Place (action checklist, pre-heat only)
-4. Ingredients (grouped by component)
+3. Ingredients (grouped by component)
+4. Mise en Place (action checklist, pre-heat only)
 5. Method (phased, imperative, with sensory cues)
-6. Variations (optional)
-7. Chef's Notes (optional)
+6. Variations (optional — significant departures only: vegan/GF version, entirely different main ingredient, named technique alternate that produces a materially different dish. Minor swaps and substitution tips go in Chef's Notes.)
+7. Chef's Notes (optional — practical guidance, minor ingredient options, substitutions, make-ahead, storage, technique reminders)
 8. Glossary (define technical terms)
 9. Keywords (8–15 comma-separated tags — see Recipe-Format-Standard.md Section 9)
 10. Category (recipes: cuisine + style; technique folios: `style: Technique Folio` only — see Recipe-Format-Standard.md Section 10)
@@ -189,7 +189,7 @@ Inline reference images are inserted as standalone paragraphs using this syntax:
 [ref:12-07a | The laminated pasta dough at final thickness]
 ```
 
-Letters are sequential per recipe index (a, b, c…). Use `/recipe-hero-image insert` to place them correctly. Source images live in the chapter folder in `The Manual/`; the pipeline copies them to `site/public/images/` on build. Never write directly to `site/public/images/`.
+Letters are sequential per recipe index (a, b, c…). Use `/recipe-hero-image insert` to place them correctly. All images (hero and reference) live in `site/public/images/` — this is the only location. Images are processed externally (Photoshop: remove Gemini watermark, export WebP 80% quality, 1920×1080) before placement. Do not reference or write to `The Manual/` chapter folders for images.
 
 ✓ **ZERO-CITATION PROTOCOL:**
 Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. These are manuscript-ready for cookbook publication.
@@ -229,12 +229,13 @@ Site deployment, git push, image optimization, and `recipes.json` operations are
 
 **AVAILABLE SLASH COMMANDS:**
 
+- `/pipeline [index]`: **Primary entry point after any Mode 1/2/3 session.** Reads `recipes.json` stage flags and runs every pending stage in order — formatAudit, keywordPull, glossaryPull, hero image check, build, deploy. Prompts before deploying. Handles both new recipes (all stages false) and updates (resumes from first false stage).
 - `/new-recipe`: Scaffold and develop a new recipe through Mode 1 from scratch.
-- `/format-audit [index|Chapter N]`: Audits a recipe or full chapter against `Recipe-Format-Standard.md`. Enforces Mise En Place rules (no cooking steps), checks for Keywords and Category sections. Presents proposed changes for authorization before writing.
-- `/glossary-pull [index]`: Extracts glossary terms from a recipe and merges them alphabetically into the corresponding per-letter split glossary file at `The Manual/Glossary/` (duplicates skipped).
+- `/format-audit [index|Chapter N]`: Audits a recipe or full chapter against `Recipe-Format-Standard.md`. Checks section order (Ingredients before Mise en Place), combined headings, dual temperatures, keyword count. Presents proposed changes for authorization before writing.
+- `/glossary-pull [index]`: Extracts glossary terms from a recipe and merges them alphabetically into the corresponding per-letter split glossary file at `The Manual/Glossary/` (duplicates skipped; recipe-specific language stripped before writing).
 - `/keyword-pull [index]`: Generates and appends `## Keywords` and `## Category` sections to any recipe missing them.
 - `/audit-glossary`: Audits the split glossary files in `The Manual/Glossary/` for strict `- Term: Definition` formatting, A-Z alphabetization, and deduplication.
-- `/recipe-hero-image [index]`: Builds a Gemini image prompt from recipe frontmatter and headnote (Create mode). Also supports `optimize [index|chapter-N|all]` and `insert [index] "[position]" "[caption]"` sub-modes.
+- `/recipe-hero-image [index]`: Builds a Gemini image prompt from recipe frontmatter and headnote (Create mode). Also supports `insert [index] "[position]" "[caption]"` sub-mode.
 - `/session-handoff`: Updates `PROJECT_STATUS.md`, commits all session changes to git, and outputs a 3-bullet handoff summary.
 
 ---
