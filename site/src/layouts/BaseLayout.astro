@@ -35,7 +35,6 @@ const navItems = [
     tooltip: 'Building Blocks',
     desc: 'Stocks, sauces, spice blends, and foundational components every dish draws from.',
   },
-  { label: 'Glossary', href: '/glossary', id: 'glossary', tooltip: '', desc: '' },
 ];
 
 const quickLinks = [
@@ -148,6 +147,21 @@ const featuredEntries = [
               </a>
             </div>
           </div>
+        </div>
+
+        <!-- Glossary -->
+        <div class="relative group/nav">
+          <a
+            href="/glossary"
+            class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative inline-flex focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
+              currentPage === 'glossary' ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
+            }`}
+          >
+            Glossary
+            <span class={`absolute bottom-0 left-0 h-0.5 bg-[#c9a96e] transition-all duration-300 ease-out origin-left ${
+              currentPage === 'glossary' ? 'w-full' : 'w-0 group-hover/nav:w-full'
+            }`}></span>
+          </a>
         </div>
 
         <!-- Search trigger -->

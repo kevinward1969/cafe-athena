@@ -5,7 +5,6 @@ import { CATEGORY_GROUPS, familyToSlug } from '../../utils/taxonomy';
 
 const allRecipes = await getCollection('recipes');
 
-// Count recipes per family and collect a sample hero image
 const familyData = new Map<string, { count: number; hero: string | null }>();
 for (const recipe of allRecipes) {
   const f = recipe.data.family;
@@ -16,7 +15,6 @@ for (const recipe of allRecipes) {
   if (!entry.hero && recipe.data.heroImage) entry.hero = recipe.data.heroImage;
 }
 
-// Build groups with only families that have recipes, preserving group order
 const groups = CATEGORY_GROUPS.map(group => ({
   ...group,
   items: group.families
@@ -29,68 +27,82 @@ const groups = CATEGORY_GROUPS.map(group => ({
     })),
 })).filter(g => g.items.length > 0);
 
+const totalRecipes = allRecipes.length;
 const totalFamilies = groups.reduce((n, g) => n + g.items.length, 0);
 ---
 
 <BaseLayout title="Categories" currentPage="categories">
 
-  <div class="max-w-7xl mx-auto px-6 py-16">
+  <!-- Hero -->
+  <section class="border-b border-[#e0d8cc]/60 py-20 px-6 text-center">
+    <p class="font-mono text-[10px] uppercase tracking-[0.35em] text-[#c9a96e] mb-4">Browse the Manual</p>
+    <h1 class="font-heading text-6xl md:text-8xl font-bold text-[#1a1a2e] tracking-tighter mb-5">Categories</h1>
+    <p class="text-base text-[#6b6b7b]">
+      {totalRecipes} recipes &nbsp;·&nbsp; {totalFamilies} categories
+    </p>
+  </section>
 
-    <!-- Hero -->
-    <section class="text-center mb-20">
-      <p class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#c9a96e] mb-4">Browse the Manual</p>
-      <h1 class="font-heading text-5xl md:text-7xl font-bold text-[#1a1a2e] tracking-tight mb-6">Categories</h1>
-      <p class="text-lg text-[#6b6b7b] max-w-xl mx-auto">
-        {allRecipes.length} recipes across {totalFamilies} categories.
-      </p>
-      <div class="w-16 h-0.5 bg-[#c9a96e] mx-auto mt-8"></div>
-    </section>
+  <!-- Groups -->
+  <div class="max-w-7xl mx-auto px-6">
+    {groups.map((group, gi) => (
+      <section class={gi > 0 ? 'border-t border-[#e0d8cc]/60' : ''}>
 
-    <!-- Category groups -->
-    <div class="space-y-20">
-      {groups.map(group => (
-        <section>
-          <h2 class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-8 pb-3 border-b border-[#e0d8cc]">
-            {group.label}
-          </h2>
-          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-            {group.items.map(item => (
-              <a
-                href={`/categories/${item.slug}`}
-                class="group relative overflow-hidden rounded-lg bg-[#f0ede9] border border-[#e0d8cc] hover:border-[#c9a96e] hover:shadow-md transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
-                style="aspect-ratio: 4/3;"
-              >
-                {item.hero ? (
-                  <>
-                    <img
-                      src={`/images/${item.hero}`}
-                      alt=""
-                      aria-hidden="true"
-                      class="absolute inset-0 w-full h-full object-cover grayscale opacity-30 group-hover:opacity-60 group-hover:grayscale-0 transition-all duration-500"
-                      loading="lazy"
-                      decoding="async"
-                    />
-                    <div class="absolute inset-0" style="background: linear-gradient(to top, rgba(26,26,46,0.85) 0%, rgba(26,26,46,0.2) 60%, transparent 100%);"></div>
-                  </>
-                ) : (
-                  <div class="absolute inset-0 bg-[#1a1a2e]/5"></div>
-                )}
+        <!-- Group header -->
+        <div class="py-10 flex items-baseline justify-between">
+          <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#1a1a2e]">{group.label}</h2>
+          <span class="font-mono text-[9px] uppercase tracking-[0.25em] text-[#6b6b7b]/50">
+            {group.items.length} {group.items.length === 1 ? 'category' : 'categories'}
+          </span>
+        </div>
 
-                <div class="absolute inset-0 flex flex-col justify-end p-4">
-                  <span class="font-mono text-[8px] uppercase tracking-widest text-[#c9a96e] mb-1 block">
-                    {item.count} {item.count === 1 ? 'recipe' : 'recipes'}
-                  </span>
-                  <h3 class={`font-heading text-base font-bold leading-snug transition-colors duration-300 ${item.hero ? 'text-white' : 'text-[#1a1a2e] group-hover:text-[#c9a96e]'}`}>
-                    {item.family}
-                  </h3>
-                </div>
-              </a>
-            ))}
-          </div>
-        </section>
-      ))}
-    </div>
+        <!-- Card grid -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 pb-14">
+          {group.items.map(item => (
+            <a
+              href={`/categories/${item.slug}`}
+              class="group relative overflow-hidden rounded-sm bg-[#1a1a2e] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+              style="aspect-ratio: 16/9;"
+            >
+              <!-- Image -->
+              {item.hero ? (
+                <img
+                  src={`/images/${item.hero}`}
+                  alt=""
+                  aria-hidden="true"
+                  class="absolute inset-0 w-full h-full object-cover opacity-50 group-hover:opacity-70 group-hover:scale-105 transition-all duration-500 ease-out"
+                  loading="lazy"
+                  decoding="async"
+                />
+              ) : (
+                <div class="absolute inset-0 bg-gradient-to-br from-[#2a2a4e] to-[#1a1a2e]"></div>
+              )}
 
+              <!-- Gradient overlay -->
+              <div class="absolute inset-0" style="background: linear-gradient(to top, rgba(10,10,20,0.92) 0%, rgba(10,10,20,0.4) 50%, rgba(10,10,20,0.1) 100%);"></div>
+
+              <!-- Gold left accent bar — appears on hover -->
+              <div class="absolute left-0 top-0 bottom-0 w-0.5 bg-[#c9a96e] scale-y-0 group-hover:scale-y-100 transition-transform duration-300 origin-bottom"></div>
+
+              <!-- Text -->
+              <div class="absolute inset-x-0 bottom-0 p-5">
+                <p class="font-mono text-[8px] uppercase tracking-[0.3em] text-[#c9a96e]/70 mb-1.5">
+                  {item.count} {item.count === 1 ? 'recipe' : 'recipes'}
+                </p>
+                <h3 class="font-heading text-xl md:text-2xl font-bold text-white group-hover:text-[#c9a96e] transition-colors duration-300 leading-tight">
+                  {item.family}
+                </h3>
+              </div>
+
+              <!-- Arrow indicator -->
+              <div class="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                <svg class="text-[#c9a96e]" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </div>
+            </a>
+          ))}
+        </div>
+
+      </section>
+    ))}
   </div>
 
 </BaseLayout>
