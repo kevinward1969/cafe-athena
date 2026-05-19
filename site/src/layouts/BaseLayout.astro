@@ -1,4 +1,6 @@
 ---
+import { NAV_CATEGORY_GROUPS, familyToSlug } from '../utils/taxonomy';
+
 interface Props {
   title: string;
   description?: string;
@@ -12,10 +14,28 @@ const {
 } = Astro.props;
 
 const navItems = [
-  { label: 'Academy', href: '/academy', id: 'academy' },
-  { label: 'Brigade', href: '/brigade', id: 'brigade' },
-  { label: 'Larder', href: '/larder', id: 'larder' },
-  { label: 'Glossary', href: '/glossary', id: 'glossary' },
+  {
+    label: 'Academy',
+    href: '/academy',
+    id: 'academy',
+    tooltip: 'Technique & Theory',
+    desc: 'Kitchen science and professional fundamentals — the working knowledge behind every technique.',
+  },
+  {
+    label: 'Brigade',
+    href: '/brigade',
+    id: 'brigade',
+    tooltip: 'The Recipe Collection',
+    desc: 'Recipes organized by kitchen station, from Garde Manger through The Pâtissier.',
+  },
+  {
+    label: 'Larder',
+    href: '/larder',
+    id: 'larder',
+    tooltip: 'Building Blocks',
+    desc: 'Stocks, sauces, spice blends, and foundational components every dish draws from.',
+  },
+  { label: 'Glossary', href: '/glossary', id: 'glossary', tooltip: '', desc: '' },
 ];
 
 const quickLinks = [
@@ -57,20 +77,78 @@ const featuredEntries = [
       </a>
 
       <!-- Desktop Nav -->
-      <nav class="hidden md:flex gap-8 items-center" aria-label="Main Navigation">
+      <nav class="hidden md:flex gap-6 items-center" aria-label="Main Navigation">
+
         {navItems.map(item => (
+          <div class="relative group/nav">
+            <a
+              href={item.href}
+              class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative inline-flex focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
+                currentPage === item.id ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
+              }`}
+            >
+              {item.label}
+              <span class={`absolute bottom-0 left-0 h-0.5 bg-[#c9a96e] transition-all duration-300 ease-out origin-left ${
+                currentPage === item.id ? 'w-full' : 'w-0 group-hover/nav:w-full'
+              }`}></span>
+            </a>
+
+            {item.desc && (
+              <div class="nav-tooltip absolute top-full left-1/2 -translate-x-1/2 mt-4 w-56 bg-white border-t-2 border-[#c9a96e] shadow-lg rounded-b-sm p-4 pointer-events-none z-50 opacity-0 invisible group-hover/nav:opacity-100 group-hover/nav:visible transition-all duration-200">
+                <p class="font-heading text-sm font-bold italic text-[#1a1a2e] mb-1">{item.tooltip}</p>
+                <p class="text-xs text-[#6b6b7b] leading-relaxed">{item.desc}</p>
+              </div>
+            )}
+          </div>
+        ))}
+
+        <!-- Categories dropdown -->
+        <div class="relative group/cat">
           <a
-            href={item.href}
-            class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
-              currentPage === item.id ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
+            href="/categories"
+            class={`text-sm font-medium tracking-wide uppercase px-2 py-1 relative inline-flex items-center gap-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm transition-colors ${
+              currentPage === 'categories' ? 'text-[#1a1a2e]' : 'text-[#6b6b7b] hover:text-[#1a1a2e]'
             }`}
           >
-            {item.label}
+            Categories
+            <svg class="transition-transform duration-200 group-hover/cat:rotate-90" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
             <span class={`absolute bottom-0 left-0 h-0.5 bg-[#c9a96e] transition-all duration-300 ease-out origin-left ${
-              currentPage === item.id ? 'w-full' : 'w-0 group-hover:w-full'
+              currentPage === 'categories' ? 'w-full' : 'w-0 group-hover/cat:w-full'
             }`}></span>
           </a>
-        ))}
+
+          <!-- Mega-menu -->
+          <div class="cat-dropdown absolute top-full right-0 mt-4 w-[680px] bg-[#1a1a2e] shadow-2xl border-t-2 border-[#c9a96e] p-8 z-50 opacity-0 invisible group-hover/cat:opacity-100 group-hover/cat:visible transition-all duration-200">
+            <div class="grid grid-cols-3 gap-6">
+              {NAV_CATEGORY_GROUPS.map(group => (
+                <div>
+                  <h3 class="font-mono text-[8px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-3">{group.label}</h3>
+                  <ul class="space-y-1.5">
+                    {group.families.map(family => (
+                      <li>
+                        <a
+                          href={`/categories/${familyToSlug(family)}`}
+                          class="text-sm text-white/60 hover:text-[#c9a96e] transition-colors duration-150 font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm"
+                        >
+                          {family}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+            <div class="mt-6 pt-5 border-t border-white/[0.08] flex justify-end">
+              <a
+                href="/categories"
+                class="font-mono text-[9px] uppercase tracking-[0.25em] text-[#c9a96e]/60 hover:text-[#c9a96e] transition-colors flex items-center gap-2 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#c9a96e] rounded-sm"
+              >
+                Browse all categories
+                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
 
         <!-- Search trigger -->
         <button
@@ -121,6 +199,14 @@ const featuredEntries = [
             {item.label}
           </a>
         ))}
+        <a
+          href="/categories"
+          class={`text-lg font-medium tracking-wide uppercase focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm ${
+            currentPage === 'categories' ? 'text-[#c9a96e]' : 'text-[#1a1a2e]'
+          }`}
+        >
+          Categories
+        </a>
       </nav>
     </div>
   </header>
@@ -142,6 +228,7 @@ const featuredEntries = [
           <a href="/academy" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Academy</a>
           <a href="/brigade" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Brigade</a>
           <a href="/larder" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Larder</a>
+          <a href="/categories" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Categories</a>
           <a href="/glossary" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Glossary</a>
           <a href="/search" class="text-xs font-semibold tracking-widest uppercase text-[#e0d8cc]/50 hover:text-[#c9a96e] transition-colors">Search</a>
         </nav>
@@ -609,6 +696,28 @@ const featuredEntries = [
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 5rem;
+  }
+
+  /* Nav tooltip */
+  .nav-tooltip::before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #c9a96e;
+  }
+
+  /* Categories dropdown — bridge hover gap */
+  .cat-dropdown::before {
+    content: '';
+    position: absolute;
+    top: -16px;
+    left: 0;
+    right: 0;
+    height: 16px;
   }
 
   .filter-group-label {

@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORY_GROUPS, familyToSlug } from '../../utils/taxonomy';
+
+const allRecipes = await getCollection('recipes');
+
+// Count recipes per family and collect a sample hero image
+const familyData = new Map<string, { count: number; hero: string | null }>();
+for (const recipe of allRecipes) {
+  const f = recipe.data.family;
+  if (!f) continue;
+  if (!familyData.has(f)) familyData.set(f, { count: 0, hero: null });
+  const entry = familyData.get(f)!;
+  entry.count += 1;
+  if (!entry.hero && recipe.data.heroImage) entry.hero = recipe.data.heroImage;
+}
+
+// Build groups with only families that have recipes, preserving group order
+const groups = CATEGORY_GROUPS.map(group => ({
+  ...group,
+  items: group.families
+    .filter(f => familyData.has(f))
+    .map(f => ({
+      family: f,
+      slug: familyToSlug(f),
+      count: familyData.get(f)!.count,
+      hero: familyData.get(f)!.hero,
+    })),
+})).filter(g => g.items.length > 0);
+
+const totalFamilies = groups.reduce((n, g) => n + g.items.length, 0);
+---
+
+<BaseLayout title="Categories" currentPage="categories">
+
+  <div class="max-w-7xl mx-auto px-6 py-16">
+
+    <!-- Hero -->
+    <section class="text-center mb-20">
+      <p class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#c9a96e] mb-4">Browse the Manual</p>
+      <h1 class="font-heading text-5xl md:text-7xl font-bold text-[#1a1a2e] tracking-tight mb-6">Categories</h1>
+      <p class="text-lg text-[#6b6b7b] max-w-xl mx-auto">
+        {allRecipes.length} recipes across {totalFamilies} categories.
+      </p>
+      <div class="w-16 h-0.5 bg-[#c9a96e] mx-auto mt-8"></div>
+    </section>
+
+    <!-- Category groups -->
+    <div class="space-y-20">
+      {groups.map(group => (
+        <section>
+          <h2 class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-8 pb-3 border-b border-[#e0d8cc]">
+            {group.label}
+          </h2>
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+            {group.items.map(item => (
+              <a
+                href={`/categories/${item.slug}`}
+                class="group relative overflow-hidden rounded-lg bg-[#f0ede9] border border-[#e0d8cc] hover:border-[#c9a96e] hover:shadow-md transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+                style="aspect-ratio: 4/3;"
+              >
+                {item.hero ? (
+                  <>
+                    <img
+                      src={`/images/${item.hero}`}
+                      alt=""
+                      aria-hidden="true"
+                      class="absolute inset-0 w-full h-full object-cover grayscale opacity-30 group-hover:opacity-60 group-hover:grayscale-0 transition-all duration-500"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <div class="absolute inset-0" style="background: linear-gradient(to top, rgba(26,26,46,0.85) 0%, rgba(26,26,46,0.2) 60%, transparent 100%);"></div>
+                  </>
+                ) : (
+                  <div class="absolute inset-0 bg-[#1a1a2e]/5"></div>
+                )}
+
+                <div class="absolute inset-0 flex flex-col justify-end p-4">
+                  <span class="font-mono text-[8px] uppercase tracking-widest text-[#c9a96e] mb-1 block">
+                    {item.count} {item.count === 1 ? 'recipe' : 'recipes'}
+                  </span>
+                  <h3 class={`font-heading text-base font-bold leading-snug transition-colors duration-300 ${item.hero ? 'text-white' : 'text-[#1a1a2e] group-hover:text-[#c9a96e]'}`}>
+                    {item.family}
+                  </h3>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+  </div>
+
+</BaseLayout>

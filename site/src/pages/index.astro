@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORY_GROUPS, familyToSlug } from '../utils/taxonomy';
 
 const allRecipes = await getCollection('recipes');
 
@@ -63,6 +64,22 @@ const featuredCandidates = allRecipes
     href: `/${r.id}`,
     image: `/images/${r.data.heroImage}`,
   }));
+
+// Build family data for home page category grid
+const familyCounts = new Map<string, number>();
+for (const recipe of allRecipes) {
+  if (recipe.data.family) {
+    familyCounts.set(recipe.data.family, (familyCounts.get(recipe.data.family) ?? 0) + 1);
+  }
+}
+// Top-level curated categories for the home page (first 3 groups only, excluding technique/larder detail)
+const homeCategoryGroups = CATEGORY_GROUPS.slice(0, 4).map(group => ({
+  ...group,
+  items: group.families
+    .filter(f => familyCounts.has(f))
+    .map(f => ({ family: f, slug: familyToSlug(f), count: familyCounts.get(f)! }))
+    .slice(0, 6),
+})).filter(g => g.items.length > 0);
 
 const glossaryTerms = [
   {
@@ -227,6 +244,43 @@ const glossaryTerms = [
             <h3 class="font-heading text-2xl italic font-bold text-[#1a1a2e] mb-1">{entry.term}</h3>
             <p class="font-mono text-[10px] uppercase tracking-widest text-[#6b6b7b]/60 mb-3">{entry.phonetic}</p>
             <p class="text-[#6b6b7b] leading-relaxed">{entry.def}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Browse by Category ───────────────────────────────────────────────── -->
+  <section class="bg-[#f0ede9] py-24 px-6 md:px-12 border-t border-[#e0d8cc]/60">
+    <div class="max-w-7xl mx-auto">
+      <div class="flex flex-col md:flex-row justify-between items-end mb-14 border-b border-[#1a1a2e]/10 pb-8">
+        <div>
+          <span class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-2 block">Reference Material</span>
+          <h2 class="font-heading text-4xl font-bold text-[#1a1a2e]">Browse by Category</h2>
+        </div>
+        <a
+          href="/categories"
+          class="font-mono text-[10px] uppercase tracking-[0.2em] border-b border-[#1a1a2e] pb-1 hover:text-[#c9a96e] hover:border-[#c9a96e] transition-colors duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm mt-4 md:mt-0"
+        >
+          View All Categories
+        </a>
+      </div>
+
+      <div class="space-y-10">
+        {homeCategoryGroups.map(group => (
+          <div>
+            <h3 class="font-mono text-[9px] uppercase tracking-[0.3em] text-[#6b6b7b]/70 mb-4">{group.label}</h3>
+            <div class="flex flex-wrap gap-3">
+              {group.items.map(item => (
+                <a
+                  href={`/categories/${item.slug}`}
+                  class="group flex items-center gap-2 bg-white border border-[#e0d8cc] hover:border-[#c9a96e] px-4 py-2.5 rounded-sm transition-all duration-200 hover:shadow-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e]"
+                >
+                  <span class="font-heading text-base font-semibold text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors">{item.family}</span>
+                  <span class="font-mono text-[9px] text-[#6b6b7b]/50 group-hover:text-[#c9a96e]/60 transition-colors">{item.count}</span>
+                </a>
+              ))}
+            </div>
           </div>
         ))}
       </div>
