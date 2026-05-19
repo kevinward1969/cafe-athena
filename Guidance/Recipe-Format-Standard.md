@@ -1,6 +1,6 @@
 # RECIPE FORMAT STANDARD (MASTER)
 
-**Version 3.2** - Used by both Cafe Athena and VersiChef
+**Version 3.3** - Used by both Cafe Athena and VersiChef
 
 This document defines the universal recipe format for all recipe outputs. Both agents reference this single source of truth.
 
@@ -245,36 +245,39 @@ duck, confit, French technique, fat poaching, pressure cooker, collagen, umami, 
 
 **Location:** End of recipe, after Keywords
 
-**Purpose:** Powers faceted filtering on the website (cuisine + style dropdowns)
+**Purpose:** Powers faceted filtering on the website and cross-reference lookup in `recipes.json`
 
-**Format:** `## Category` heading followed by a single structured line using the controlled vocabulary below
+**Format:** `## Category` heading followed by a single structured line
 
-**Required fields:** `cuisine:` and `style:` — both mandatory
-**Optional field:** `dietary:` — include only if applicable
+**Required fields:** `cuisine:`, `style:`, `family:`, `course:` — all four mandatory for finished recipes
+**Optional field:** `dietary:` — include only if the recipe genuinely qualifies; supports comma-separated values for multiple dietary flags
 
-**Controlled Vocabulary:**
-
-**cuisine:** `French` · `Italian` · `Japanese` · `Korean` · `Vietnamese` · `Chinese` · `American` · `Mediterranean` · `Asian-Fusion` · `Global`
-
-**style:** `Classical` · `Modern` · `Rustic` · `Competition` · `Fine Dining` · `Weeknight` · `Pastry` · `Technique Folio`
-
-**dietary (optional):** `Vegetarian` · `Pescatarian`
+**Controlled Vocabulary:** All valid values are defined in `Guidance/Taxonomy.md` — that file is the single source of truth. Do not use values not listed there. To add a new term, update `Taxonomy.md` first.
 
 **Format:**
 
 ```markdown
 ## Category
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Mother Sauce | course: Component
 ```
 
 With optional dietary tag:
 
 ```markdown
 ## Category
-cuisine: Italian | style: Rustic | dietary: Vegetarian
+cuisine: Italian | style: Rustic | family: Pasta | course: Dinner | dietary: Vegetarian
 ```
 
-**Stop Point:** If the recipe's cuisine or style is genuinely ambiguous (e.g., a fusion dish that could be classified multiple ways), ask the user before assigning. Do not guess.
+With comma-separated dietary flags:
+
+```markdown
+## Category
+cuisine: Global | style: Modern | family: Salad & Dressed | course: Side | dietary: Vegetarian, Gluten-Free
+```
+
+**One value per field** — except `dietary:`, which accepts comma-separated orthogonal flags. If a recipe feels like it belongs in two families, the vocabulary needs a better term or the nuance belongs in `keywords:`.
+
+**Stop Point:** If any field is genuinely ambiguous, ask before assigning. Do not guess.
 
 ---
 
@@ -297,7 +300,7 @@ Every folio must follow this strict vertical order:
    - `**Practice Exercise**` *(optional)* — Hands-on exercise to internalize the concept
 3. `## Glossary` — Definitions of all technical terms used in the folio body
 4. `## Keywords` — 8–15 **lowercase**, comma-separated terms
-5. `## Category` — Always: `style: Technique Folio` (no `cuisine:` field)
+5. `## Category` — Always: `style: Technique Folio | family: [science domain or skill type]` (no `cuisine:` or `course:` fields)
 
 ### Format Audit Checks for Folios
 
@@ -305,7 +308,7 @@ When running `/format-audit` on a folio, check only:
 
 - `## Glossary` present and covers all technical terms used in the body
 - `## Keywords` present with 8–15 **lowercase** comma-separated terms — Title Case is a violation
-- `## Category` present and set to exactly `style: Technique Folio` (no `cuisine:` field)
+- `## Category` present with `style: Technique Folio` and a valid `family:` value from `Guidance/Taxonomy.md` Ch. 1–2 vocabulary (no `cuisine:` or `course:` fields)
 - Temperatures use dual format: `°F/°C` (e.g., `300°F/150°C`)
 - No citation markers (`[source]`, `[1]`, etc.)
 - Body section headers use **bold inline text**, not H2 headings

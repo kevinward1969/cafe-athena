@@ -8,6 +8,7 @@ Tracks version history for all four Café Athena AI agent surfaces. The canonica
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
 |--------------|-----------------|-----------------|----------------|-----------------|
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 |
 | 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 |
 | 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 |
 | 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 |
@@ -85,6 +86,20 @@ These workflow files do not carry independent version numbers, but were updated 
 - `register-recipe.md` (2026-05-01) — Phase 5 now appends the new entry to `The Manual/Cafe-Athena-The-Manual-Current-Version.md` (the human-facing TOC) immediately after writing to `recipes.json`. Closes a process gap where 8 folios (01-22, 01-23, 05-03, 10-24, 12-17 through 12-20) had drifted out of the TOC over ~3 weeks.
 - `sync-registry.md` (2026-05-01) — Phase 1 now also reads the Current-Version doc into a doc set; Phase 3 adds **Doc drift** detection (registered indices not present in the TOC); Phase 5 appends drifted/missing entries to the TOC, preserving each chapter's existing list-style convention. `_` and `.` are normalized as equivalent variant separators (registry uses `07-10_2`; doc uses `07-10.2`).
 - `format-audit.md` and `keyword-pull.md` (2026-05-02) — Keyword count rule extended to allow **8–20 terms for collection folios** (multi-recipe bundles like 10-23 Asian Dipping Sauces, 10-25 Emulsion Sauces of the Mediterranean, 12-08 Gnocchi 201). Single-recipe folios stay at 8–15. Surfaced when 10-25 (4 sauces, 3 cuisines) legitimately required 18 terms — every term load-bearing for distinct sub-recipe / sub-cuisine / sub-mechanism. `Guidance/Recipe-Format-Standard.md` Section 8 carries the canonical rule.
+
+---
+
+## Recipe Format Standard
+
+**File:** `Guidance/Recipe-Format-Standard.md`
+**Current Version:** 3.3
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v3.3 | 2026-05-18 | Section 10 (Category): added `family:` and `course:` as mandatory fields for finished recipes. Vocabulary removed from inline — all valid values now live in `Guidance/Taxonomy.md` (single source of truth). `dietary:` documented as supporting comma-separated values. One-value-per-field rule documented. Technique Folio Category spec updated to include `family:` (no `cuisine:` or `course:`). |
+| v3.2 | 2026-05-18 | Ingredients (3) now precedes Mise en Place (4). Split Variations / Chef's Notes into separate optional sections (items 6–7). Items 8–10 renumbered. |
+| v3.1 | 2026-05-15 | Extended Keywords to allow 8–20 terms for collection folios. |
+| v3.0 | 2026-04-23 | Keywords minimum lowered to 8. Category format split: recipe folios vs. technique folios clarified. |
 
 ---
 

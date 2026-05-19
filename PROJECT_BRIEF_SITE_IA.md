@@ -316,16 +316,16 @@ Folio ## Category section   ←── source of truth (human-edited)
 
 ## Phased Implementation Plan
 
-### Phase 1 — Taxonomy Definition *(current phase)*
+### Phase 1 — Taxonomy Definition ✅ COMPLETE (2026-05-18)
 
 - [x] Identify gaps in current Category fields
-- [x] Design `family:` and `course:` fields
+- [x] Design `family:` and `course:` fields (renamed from `cluster:`)
 - [x] Draft family vocabulary for all chapters
 - [x] Establish family philosophy (prescriptive; ingredient-based for brigade chapters)
 - [x] Create `Guidance/Taxonomy.md` — canonical controlled vocabulary
-- [ ] Review and validate family assignments (Kevin) — esp. Ch. 1, Ch. 9, Ch. 10
-- [ ] Update `Guidance/Recipe-Format-Standard.md` — add new fields, reference Taxonomy.md
-- [ ] Remove vocabulary from `Recipe-Format-Standard.md` (now lives in Taxonomy.md only)
+- [x] Review and validate family assignments (Kevin)
+- [x] Update `Guidance/Recipe-Format-Standard.md` v3.3 — add new fields, reference Taxonomy.md
+- [x] Vocabulary removed from `Recipe-Format-Standard.md` (lives in Taxonomy.md only)
 
 ### Phase 2 — Manuscript Backfill
 
