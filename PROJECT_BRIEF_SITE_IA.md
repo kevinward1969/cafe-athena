@@ -327,6 +327,14 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [x] Update `Guidance/Recipe-Format-Standard.md` v3.3 — add new fields, reference Taxonomy.md
 - [x] Vocabulary removed from `Recipe-Format-Standard.md` (lives in Taxonomy.md only)
 
+### Phase 1.5 — Agent & Workflow Updates ✅ COMPLETE (2026-05-18)
+
+- [x] Canonical master v1.7 — Category format updated (4 fields + Taxonomy.md ref); recipe structure order corrected; section numbers fixed
+- [x] Claude Desktop v1.9 — Category format and structure item 10 updated
+- [x] `format-audit.md` — vertical order fixed (Ingredients before Mise); Category checks updated for all 4 fields; technique folio spec corrected
+- [x] Gemini Gem 1 — no change needed (defers to Recipe-Format-Standard.md attachment)
+- [x] `CLAUDE.md` — no change needed (pipeline docs update deferred to Phase 4)
+
 ### Phase 2 — Manuscript Backfill
 
 - [ ] Add `family:` and `course:` to all existing folio `## Category` sections
@@ -351,6 +359,8 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [ ] Run full build and verify fields appear correctly in built recipe files
 - [ ] Update `site/src/pages/larder.astro` (and `brigade.astro`, `academy.astro`)
       to pass new fields through — no UI changes yet, just data plumbing
+- [ ] Update `CLAUDE.md` lines 193–194 to document that `prepare-content.py` now
+      also extracts `family` and `course` into frontmatter
 
 ### Phase 5 — Site Features
 

@@ -14,17 +14,17 @@ description: Audits recipes and technique folios for formatting and structural a
 6. Evaluate each document against the appropriate rules based on its type:
 
    **For Recipes**, check:
-   - **Vertical Order:** Title Block → Headnote → Mise En Place → Ingredients → Method → Notes → Glossary → Keywords → Category
+   - **Vertical Order:** Title Block → Headnote → Ingredients → Mise En Place → Method → Variations → Chef's Notes → Glossary → Keywords → Category
    - **Mise En Place vs. Method Violations:** No cooking steps (applying heat) in Mise. Relocate any found to Method.
    - **Typographical Checks:** Title Block format, proper fractions (⅔ not 2/3), dual temperatures (°F/°C), descriptive component headers, bolding.
    - **Content Completeness:** Sensory cues in Method steps, Yield/Timing data in Title Block.
    - **Keywords (non-blocking):** `## Keywords` exists with 8–15 lowercase comma-separated terms (full recipe folios typically land 10–15; foundation folios 8–12). **Collection folios** that bundle multiple distinct sub-recipes (e.g., 10-23, 10-25, 12-08) may extend to 8–20 terms — do not flag count overage when each extra term names a distinct sub-recipe, sub-cuisine, or sub-mechanism.
-   - **Category (non-blocking):** `## Category` exists with valid `cuisine:` and `style:` fields.
+   - **Category (non-blocking):** `## Category` exists with valid `cuisine:`, `style:`, `family:`, and `course:` fields. All values must appear in `Guidance/Taxonomy.md`. `dietary:` is optional and may be comma-separated.
 
    **For Technique Folios** (Chapters 1 & 2 are entirely folios; individual folios may appear in other chapters), check ONLY:
    - **Glossary:** `## Glossary` present and covers all technical terms used in the body.
    - **Keywords:** `## Keywords` present with 8–15 **lowercase** comma-separated terms (technique folios typically 8–12). Title Case keywords are a violation.
-   - **Category:** `## Category` present and set to exactly `cuisine: Global | style: Technique Folio`.
+   - **Category:** `## Category` present with `style: Technique Folio | family: [value]`. Valid `family:` values for Ch. 1–2 are in `Guidance/Taxonomy.md`. No `cuisine:` or `course:` fields on technique folios.
    - **Temperatures:** Dual format `°F/°C` used throughout.
    - **No citation markers:** No `[source]`, `[1]`, or similar.
    - **Body headers:** Section headers use **bold inline text**, not H2 headings.
