@@ -79,4 +79,4 @@ emulsification, mayonnaise, anchovy, cornichon, herb, French, caper, texture, sa
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Derivative Sauce | course: Component

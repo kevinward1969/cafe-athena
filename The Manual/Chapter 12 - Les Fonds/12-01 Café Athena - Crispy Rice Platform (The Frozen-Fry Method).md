@@ -67,4 +67,4 @@ crispy rice, sushi rice, platform, canapé base, frozen-fry method, clarified bu
 
 ## Category
 
-cuisine: Japanese | style: Modern
+cuisine: Japanese | style: Modern | family: Platform & Vessel | course: Component

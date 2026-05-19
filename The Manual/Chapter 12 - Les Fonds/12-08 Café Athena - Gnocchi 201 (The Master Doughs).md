@@ -140,4 +140,4 @@ gnocchi, potato gnocchi, ricotta gnocchi, semolina, starch, retrogradation, mois
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Pasta Dough | course: Component

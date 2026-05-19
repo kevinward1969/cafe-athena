@@ -74,4 +74,4 @@ bourguignon, French, braising, beef chuck, cartouche, pinçage, singer, monter, 
 
 ## Category
 
-cuisine: French | style: Fine Dining
+cuisine: French | style: Fine Dining | family: Beef | course: Dinner

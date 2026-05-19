@@ -83,4 +83,4 @@ chemical synthesis, vinegar, baking soda, sodium acetate, crystallization, reduc
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Specialty Salt | course: Component

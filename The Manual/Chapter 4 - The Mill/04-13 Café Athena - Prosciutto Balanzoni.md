@@ -93,4 +93,4 @@ pasta, spinach, prosciutto, ricotta, egg, butter, parmesan, italian, hand-kneadi
 
 ## Category
 
-cuisine: Italian | style: Fine Dining
+cuisine: Italian | style: Fine Dining | family: Pasta | course: Dinner

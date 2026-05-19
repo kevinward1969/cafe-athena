@@ -222,4 +222,4 @@ Japanese, dipping sauce, tonkatsu, tentsuyu, tempura, gyoza, spicy mayo, dashi, 
 
 ## Category
 
-cuisine: Japanese | style: Technique Folio
+cuisine: Japanese | style: Technique Folio | family: Dipping Sauce | course: Component

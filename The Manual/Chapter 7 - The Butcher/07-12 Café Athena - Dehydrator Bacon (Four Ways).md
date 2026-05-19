@@ -126,4 +126,4 @@ dehydration, bacon, brining, soy sauce, smoke, flavor infusion, fermented, umami
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Pork | course: Dinner

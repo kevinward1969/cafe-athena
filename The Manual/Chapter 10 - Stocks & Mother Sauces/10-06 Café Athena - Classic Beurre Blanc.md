@@ -89,4 +89,4 @@ beurre blanc, emulsification, butter sauce, French cuisine, reduction, acidic, d
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Derivative Sauce | course: Component

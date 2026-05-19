@@ -185,4 +185,4 @@ emulsification, Mediterranean, aioli, skordalia, toum, avgolemono, egg yolk, gar
 
 ## Category
 
-cuisine: Mediterranean | style: Classical
+cuisine: Mediterranean | style: Classical | family: Emulsion | course: Component

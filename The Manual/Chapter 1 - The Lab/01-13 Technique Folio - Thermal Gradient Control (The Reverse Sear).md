@@ -68,4 +68,4 @@ reverse sear, steak, thermal gradient, low-temperature cooking, high-heat sear, 
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Heat & Thermodynamics

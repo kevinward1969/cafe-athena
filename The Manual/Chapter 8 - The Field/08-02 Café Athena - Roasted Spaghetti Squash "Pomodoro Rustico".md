@@ -82,4 +82,4 @@ spaghetti squash, tomato ragout, osmotic cure, sauté, italian, garlic, olive oi
 
 ## Category
 
-cuisine: Italian | style: Rustic
+cuisine: Italian | style: Rustic | family: Roasted & Grilled | course: Dinner

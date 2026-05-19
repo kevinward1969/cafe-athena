@@ -83,4 +83,4 @@ cayenne pepper, brown sugar, smoked paprika, spice blend, frying oil, heat extra
 
 ## Category
 
-cuisine: American | style: Technique Folio
+cuisine: American | style: Technique Folio | family: Wet Paste | course: Component

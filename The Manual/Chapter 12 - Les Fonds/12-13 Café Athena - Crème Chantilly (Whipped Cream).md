@@ -62,4 +62,4 @@ crème chantilly, whipped cream, stabilized cream, heavy cream, aeration, xantha
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Cream & Filling | course: Component

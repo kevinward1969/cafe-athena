@@ -75,4 +75,4 @@ bread baking, baker's percentage, hydration, gluten development, enzyme pre-dige
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Starch & Dough Science

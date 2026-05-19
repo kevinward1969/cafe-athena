@@ -40,4 +40,4 @@ shear-thinning, agar-agar, xanthan gum, hydrocolloid, blending, gel, texture, le
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Hydrocolloids & Gels

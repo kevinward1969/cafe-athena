@@ -77,4 +77,4 @@ reverse sear, bone marrow, ribeye, herb baste, dry-brining, steak, maillard reac
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Beef | course: Dinner

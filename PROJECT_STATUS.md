@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-05-18 (session 17)
+Last Updated: 2026-05-18 (session 18)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -38,4 +38,4 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | `/pipeline [id]` slash command | Built and validated on 09-06 (audit-only) and 12-21 (full run incl. glossary + deploy). Ready for first new recipe test. | Awaiting new recipe | 2026-05-18 |
 | Finish pipeline on 12-02, 12-15, 12-22 | 3 recipes with genuine outstanding stages (audit and/or glossary). | `/pipeline` or manual | 2026-05-18 |
 | Re-attach Recipe-Format-Standard.md v3.2 in Claude Desktop | Ingredients before Mise en Place; Variations = significant departures only; Chef's Notes = minor options. Must re-attach as file attachment in Claude Desktop project. | Manual action required | 2026-05-18 |
-| Site IA & Taxonomy Upgrade — Phase 1 | Full project spec in `PROJECT_BRIEF_SITE_IA.md`. Adding `cluster:` and `course:` fields to Category; propagating to `recipes.json` and site pipeline. Phase 1 = validate cluster vocabulary and update format standard. | Kevin validates cluster assignments | 2026-05-18 |
+| Site IA & Taxonomy Upgrade — Phase 4 | Phases 1–3 complete. Next: update `prepare-content.py` to extract `family` and `course` → Astro frontmatter; update `content.config.ts` schema. Full spec in `PROJECT_BRIEF_SITE_IA.md`. | — | 2026-05-18 |

@@ -83,4 +83,4 @@ rough puff pastry, demi-feuilletée, blitz method, lamination, frozen butter, fl
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Pastry Dough | course: Component

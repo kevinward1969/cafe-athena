@@ -99,4 +99,4 @@ meatballs, panade, bacon, lardons, Boursin, cream cheese, ground beef, roasting,
 
 ## Category
 
-cuisine: French | style: Rustic
+cuisine: French | style: Rustic | family: Canapé | course: Dinner

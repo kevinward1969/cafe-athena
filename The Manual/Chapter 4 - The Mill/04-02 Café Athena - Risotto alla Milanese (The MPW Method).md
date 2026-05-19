@@ -75,4 +75,4 @@ risotto, milanese, saffron, carnaroli rice, white beef stock, butter, parmesan, 
 
 ## Category
 
-cuisine: Italian | style: Classical
+cuisine: Italian | style: Classical | family: Rice | course: Dinner

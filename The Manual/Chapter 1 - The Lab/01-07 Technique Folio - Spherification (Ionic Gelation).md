@@ -78,4 +78,4 @@ spherification, ionic gelation, sodium alginate, calcium, hydrocolloids, alginat
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Hydrocolloids & Gels

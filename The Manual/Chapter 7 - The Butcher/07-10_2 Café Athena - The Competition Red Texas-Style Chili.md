@@ -103,4 +103,4 @@ texas-style chili, umami, fermented, beef, demi-glace, cocoa, guinness, searing,
 
 ## Category
 
-cuisine: American | style: Competition
+cuisine: American | style: Competition | family: Beef | course: Dinner

@@ -77,4 +77,4 @@ reduction, sauce espagnole, brown stock, gelatin, classical, gastronomy, flavor 
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Derivative Sauce | course: Component

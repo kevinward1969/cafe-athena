@@ -84,4 +84,4 @@ fermentation, crème fraîche, dairy, buttermilk, emulsion, pasteurization, micr
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Cream Sauce | course: Component

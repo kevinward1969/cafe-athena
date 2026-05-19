@@ -86,4 +86,4 @@ brown butter, miso, caramel, truffle, brownies, pastry, savory-sweet, coffee, wa
 
 ## Category
 
-cuisine: Asian-Fusion | style: Modern
+cuisine: Asian-Fusion | style: Modern | family: Brownie & Bar | course: Dessert

@@ -56,4 +56,4 @@ sourdough, starter, fermentation, acidity, proteolysis, gluten, levain, mother, 
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

@@ -82,4 +82,4 @@ smoked salt, liquid smoke, crystallization, oven drying, salt, flavor infusion, 
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Specialty Salt | course: Component

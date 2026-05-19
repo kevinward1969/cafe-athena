@@ -82,4 +82,4 @@ deviled eggs, egg, mayonnaise, dijon mustard, smoked paprika, deviled ham, corni
 
 ## Category
 
-cuisine: French | style: Weeknight
+cuisine: French | style: Weeknight | family: Cold Plate | course: Dinner

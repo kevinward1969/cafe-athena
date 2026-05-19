@@ -92,4 +92,4 @@ emulsion, mayonnaise, cornichons, lemon juice, dill, chives, brine, seafood, tar
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Derivative Sauce | course: Component

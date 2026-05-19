@@ -96,4 +96,4 @@ butter, emulsion, fat plasticity, herb, miso, chili, citrus, salt, pastry, techn
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Compound Butter | course: Component

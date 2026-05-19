@@ -62,4 +62,4 @@ sanitation, haccp, cooling, bacteria, food safety, refrigeration, binary fission
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

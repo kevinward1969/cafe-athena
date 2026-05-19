@@ -40,4 +40,4 @@ sugar dissolution, protein migration, thermal energy, mechanical energy, emulsif
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Starch & Dough Science

@@ -71,4 +71,4 @@ pot pie, chicken, velouté, mother sauce, roux, blonde roux, gelatinization, com
 
 ## Category
 
-cuisine: American | style: Modern
+cuisine: American | style: Modern | family: Chicken | course: Dinner

@@ -87,4 +87,4 @@ smoked salmon, vacuum compression, potato fondant, cucumber, brunoise, dextriniz
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Cold Plate | course: Dinner

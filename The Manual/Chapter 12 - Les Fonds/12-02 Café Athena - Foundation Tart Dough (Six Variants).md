@@ -223,4 +223,4 @@ tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming metho
 
 ## Category
 
-cuisine: French | style: Pastry
+cuisine: French | style: Pastry | family: Pastry Dough | course: Component

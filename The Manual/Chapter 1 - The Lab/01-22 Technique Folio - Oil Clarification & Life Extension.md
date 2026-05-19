@@ -62,4 +62,4 @@ oil clarification, cornstarch slurry, gelatin method, deep frying, oil maintenan
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Preservation & Transformation

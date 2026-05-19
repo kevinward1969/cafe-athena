@@ -63,4 +63,4 @@ emulsion, hydrocolloid, xanthan gum, lecithin, vinaigrette, mayonnaise, hollanda
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Emulsification & Bonding

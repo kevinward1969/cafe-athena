@@ -155,4 +155,4 @@ dips, sauce, Asian, rice vinegar, chili, fish sauce, fermented, umami, sweet, ci
 
 ## Category
 
-cuisine: Asian-Fusion | style: Technique Folio
+cuisine: Asian-Fusion | style: Technique Folio | family: Dipping Sauce | course: Component

@@ -89,4 +89,4 @@ pâte feuilletée, puff pastry, lamination, détrempe, beurrage, butter block, f
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Pastry Dough | course: Component

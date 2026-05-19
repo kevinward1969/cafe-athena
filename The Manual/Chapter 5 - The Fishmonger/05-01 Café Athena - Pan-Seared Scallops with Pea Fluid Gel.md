@@ -67,4 +67,4 @@ pan-seared scallops, pea purée, hydrocolloids, agar-agar, xanthan gum, shear-th
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Mollusc | course: Dinner

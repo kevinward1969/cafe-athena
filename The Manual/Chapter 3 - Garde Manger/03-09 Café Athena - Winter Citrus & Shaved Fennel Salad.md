@@ -91,4 +91,4 @@ shaved fennel, citrus salad, vinaigrette, xanthan gum, emulsification, mediterra
 
 ## Category
 
-cuisine: Mediterranean | style: Modern
+cuisine: Mediterranean | style: Modern | family: Salad | course: Dinner

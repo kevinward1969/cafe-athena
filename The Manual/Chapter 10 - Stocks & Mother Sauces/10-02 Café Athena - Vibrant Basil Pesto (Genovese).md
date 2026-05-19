@@ -86,4 +86,4 @@ basil, pesto, emulsification, blanch, Italian, olive oil, cheese, nuts, herb, gr
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Technique Folio | family: Cold Blended Sauce | course: Component

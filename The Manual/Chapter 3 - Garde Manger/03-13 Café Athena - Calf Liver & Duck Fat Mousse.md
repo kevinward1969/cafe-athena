@@ -102,4 +102,4 @@ calf liver, duck fat, mousse, emulsification, beurre noisette, gastrique, cold b
 
 ## Category
 
-cuisine: French | style: Fine Dining
+cuisine: French | style: Fine Dining | family: Mousse & Pâté | course: Dinner

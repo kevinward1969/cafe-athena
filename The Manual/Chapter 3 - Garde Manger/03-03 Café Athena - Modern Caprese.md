@@ -100,4 +100,4 @@ spherification, tomato, balsamic, mozzarella, sodium alginate, calcium chloride,
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Cold Plate | course: Dinner

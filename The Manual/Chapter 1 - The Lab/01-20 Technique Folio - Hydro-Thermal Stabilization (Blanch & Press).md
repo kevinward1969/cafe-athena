@@ -64,4 +64,4 @@ blanching, shocking, pressing, pigment fixation, chlorophyll, anthocyanins, enzy
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Preservation & Transformation

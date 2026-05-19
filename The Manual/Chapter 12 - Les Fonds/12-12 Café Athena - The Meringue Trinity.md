@@ -64,4 +64,4 @@ meringue, egg whites, French meringue, Swiss meringue, Italian meringue, aeratio
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Cream & Filling | course: Component

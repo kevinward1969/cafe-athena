@@ -93,4 +93,4 @@ smoked pork, pork shoulder, smoke, garlic, citrus, herb bark, vinegar, worcester
 
 ## Category
 
-cuisine: American | style: Technique Folio
+cuisine: American | style: Technique Folio | family: Pork | course: Dinner

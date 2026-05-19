@@ -160,4 +160,4 @@ beef wellington, beef tenderloin, duxelles, puff pastry, prosciutto, Boursin, Ma
 
 ## Category
 
-cuisine: French | style: Fine Dining
+cuisine: French | style: Fine Dining | family: Beef | course: Dinner

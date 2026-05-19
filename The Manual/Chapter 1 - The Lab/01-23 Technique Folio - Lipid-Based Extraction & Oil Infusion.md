@@ -58,4 +58,4 @@ oil infusion, lipids, extraction, confit, aromatics, food science, flavor, solve
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Preservation & Transformation

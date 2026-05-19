@@ -72,4 +72,4 @@ crème diplomat, crème mousseline, crème chiboust, composite cream, pastry fil
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Cream & Filling | course: Component

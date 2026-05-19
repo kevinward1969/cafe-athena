@@ -41,4 +41,4 @@ collagen, hydrolysis, gelatin, stock making, extraction, protein, viscosity, the
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Hydrocolloids & Gels

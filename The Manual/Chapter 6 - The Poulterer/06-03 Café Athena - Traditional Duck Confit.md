@@ -87,4 +87,4 @@ duck, confit, salt cure, fat render, poultry, preservation, gelatinization, umam
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Duck | course: Dinner

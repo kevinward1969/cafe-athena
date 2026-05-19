@@ -83,4 +83,4 @@ braising, oxtail, red wine, beef stock, french, mushroom, gelatin, confit, mirep
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Beef | course: Dinner

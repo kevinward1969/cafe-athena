@@ -86,4 +86,4 @@ root vegetables, roasting, whipping, butter, spice, turmeric, ginger, starch ret
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Mash & Purée | course: Dinner

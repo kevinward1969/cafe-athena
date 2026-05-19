@@ -93,4 +93,4 @@ tomato, emulsion, garlic, basil, parmesan, Italian, technique, nappe, umami, red
 
 ## Category
 
-cuisine: Italian | style: Classical
+cuisine: Italian | style: Classical | family: Mother Sauce | course: Component

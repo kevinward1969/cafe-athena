@@ -91,4 +91,4 @@ pickling, vacuum infusion, vegetables, brine, quick pickle, serrano peppers, jal
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Preserved & Pickled | course: Dinner

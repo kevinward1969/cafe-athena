@@ -89,4 +89,4 @@ mozzarella, spheres, sodium alginate, italian, emulsification, viscosity, modern
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Amuse-Bouche | course: Dinner

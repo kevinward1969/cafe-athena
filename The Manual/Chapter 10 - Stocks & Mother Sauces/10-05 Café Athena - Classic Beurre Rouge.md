@@ -96,4 +96,4 @@ red wine, emulsion, butter, mushroom, reduction, aromatics, classical, technique
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Derivative Sauce | course: Component

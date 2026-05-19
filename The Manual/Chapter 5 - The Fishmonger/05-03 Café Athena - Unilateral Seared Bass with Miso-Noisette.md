@@ -71,4 +71,4 @@ bass, unilateral sear, miso, beurre noisette, brown butter, fishmonger, umami, s
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Finfish | course: Dinner

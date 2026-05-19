@@ -91,4 +91,4 @@ emulsification, hollandaise, egg yolks, butter, lemon juice, high shear force, b
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Mother Sauce | course: Component

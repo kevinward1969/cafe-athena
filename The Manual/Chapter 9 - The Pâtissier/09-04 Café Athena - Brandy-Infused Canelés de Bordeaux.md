@@ -91,4 +91,4 @@ canelés, brandy, thermal shock, caramelization, pastry, custard, beeswax, carbo
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Small Cake & Pastry | course: Dessert

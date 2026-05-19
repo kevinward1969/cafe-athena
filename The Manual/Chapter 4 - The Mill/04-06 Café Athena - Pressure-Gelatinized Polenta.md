@@ -71,4 +71,4 @@ polenta, pressure cooking, gelatinization, cornmeal, dairy, parmesan, mantecatur
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Polenta | course: Dinner

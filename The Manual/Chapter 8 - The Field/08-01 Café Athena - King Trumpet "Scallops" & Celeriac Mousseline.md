@@ -93,4 +93,4 @@ pan-searing, mushroom, celeriac, butter, hazelnut, vinaigrette, mousseline, root
 
 ## Category
 
-cuisine: French | style: Fine Dining
+cuisine: French | style: Fine Dining | family: Mushroom | course: Dinner

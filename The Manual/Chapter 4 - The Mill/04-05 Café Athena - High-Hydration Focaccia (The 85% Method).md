@@ -82,4 +82,4 @@ focaccia, hydration, dough, gluten, fermentation, yeast, olive oil, salt, bread 
 
 ## Category
 
-cuisine: Italian | style: Weeknight
+cuisine: Italian | style: Weeknight | family: Bread | course: Dinner

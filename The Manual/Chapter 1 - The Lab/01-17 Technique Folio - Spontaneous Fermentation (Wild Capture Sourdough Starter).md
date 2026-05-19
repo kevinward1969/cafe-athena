@@ -57,4 +57,4 @@ sourdough starter, fermentation, wild yeast, bran, rye flour, microbial culture,
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

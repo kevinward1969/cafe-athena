@@ -97,4 +97,4 @@ potato, pavé, Agria, clarified butter, onion pulp, tapioca starch, mechanical d
 
 ## Category
 
-cuisine: Global | style: Modern | dietary: Vegetarian
+cuisine: Global | style: Modern | family: Tuber | course: Dinner | dietary: Vegetarian

@@ -69,4 +69,4 @@ vegetable tuiles, potato, onion, starch gelatinization, emulsification, amylopec
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Tuber | course: Dinner

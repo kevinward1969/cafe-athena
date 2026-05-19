@@ -71,4 +71,4 @@ melting salt, sodium citrate, cheese, emulsion, casein, calcium, chelation, food
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Emulsification & Bonding

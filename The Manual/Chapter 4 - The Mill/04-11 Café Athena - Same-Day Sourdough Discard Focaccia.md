@@ -65,4 +65,4 @@ sourdough, focaccia, discard, high-hydration, olive oil, yeast, salt, baking, di
 
 ## Category
 
-cuisine: Italian | style: Weeknight
+cuisine: Italian | style: Weeknight | family: Bread | course: Dinner

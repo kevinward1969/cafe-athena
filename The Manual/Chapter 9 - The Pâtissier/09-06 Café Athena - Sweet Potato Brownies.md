@@ -110,4 +110,4 @@ sweet potato, brownie, brown butter, triple cocoa, espresso, Greek yogurt, caram
 
 ## Category
 
-cuisine: American | style: Pastry
+cuisine: American | style: Pastry | family: Brownie & Bar | course: Dessert

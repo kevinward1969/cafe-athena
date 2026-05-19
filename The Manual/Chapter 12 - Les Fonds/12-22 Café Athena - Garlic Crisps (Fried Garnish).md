@@ -93,4 +93,4 @@ garlic, fried garnish, low-temperature frying, allium, mandoline, caramelization
 
 ## Category
 
-cuisine: Global | style: Fine Dining
+cuisine: Global | style: Fine Dining | family: Garnish & Component | course: Component

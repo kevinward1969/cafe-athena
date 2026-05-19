@@ -141,4 +141,4 @@ cod, confit, beurre noisette, brown butter, potato crumb, nori, seaweed, fat poa
 
 ## Category
 
-cuisine: French | style: Fine Dining | dietary: Pescatarian
+cuisine: French | style: Fine Dining | family: Finfish | course: Dinner | dietary: Pescatarian

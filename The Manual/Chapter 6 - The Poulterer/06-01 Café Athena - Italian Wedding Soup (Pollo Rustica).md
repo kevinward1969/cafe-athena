@@ -76,4 +76,4 @@ italian, chicken, meatballs, couscous, searing, risotto, herbs, stock, wine, par
 
 ## Category
 
-cuisine: Italian | style: Weeknight
+cuisine: Italian | style: Weeknight | family: Chicken | course: Dinner

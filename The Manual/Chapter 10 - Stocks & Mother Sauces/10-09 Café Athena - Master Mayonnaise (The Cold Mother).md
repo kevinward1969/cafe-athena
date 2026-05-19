@@ -75,4 +75,4 @@ emulsification, mayonnaise, egg yolk, olive oil, mustard, vinegar, kosher salt, 
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Emulsion | course: Component

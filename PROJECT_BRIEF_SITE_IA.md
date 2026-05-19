@@ -335,21 +335,25 @@ Folio ## Category section   ←── source of truth (human-edited)
 - [x] Gemini Gem 1 — no change needed (defers to Recipe-Format-Standard.md attachment)
 - [x] `CLAUDE.md` — no change needed (pipeline docs update deferred to Phase 4)
 
-### Phase 2 — Manuscript Backfill
+### Phase 2 — Manuscript Backfill ✅ COMPLETE (2026-05-18)
 
-- [ ] Add `family:` and `course:` to all existing folio `## Category` sections
-- [ ] Priority order: Ch. 12 first, then Ch. 10–11, then Ch. 3–9, then Ch. 1–2
-- [ ] Use `audit.py` batch detection + human approval (no LLM needed — regex extraction)
+- [x] Add `family:` and `course:` to all existing folio `## Category` sections
+- [x] All 152 folios updated via `scripts/backfill-taxonomy.py` (0 warnings, 0 skips)
+- [x] Ch. 1–2: `family:` only (no `course:` — concept doesn't map to technique folios)
+- [x] Ch. 3–8: `family:` + `course: Dinner`
+- [x] Ch. 9: `family:` + `course: Dessert`
+- [x] Ch. 10–12: `family:` + `course: Component`
 - [ ] Verify Chef agent uses new fields correctly on first new folio after update
 
-### Phase 3 — Registry Update
+### Phase 3 — Registry Update ✅ COMPLETE (2026-05-18)
 
-- [ ] Add `cuisine`, `style`, `family`, `course`, `keywords[]`, `dietary` fields to
-      `recipes.json` schema (update `_meta.stages` description block)
-- [ ] Update `/register-recipe` workflow to capture and write all new fields
-- [ ] Write `audit.py --sync-metadata` mode: reads each folio's Category/Keywords,
+- [x] Add `cuisine`, `style`, `family`, `course`, `keywords[]`, `dietary` fields to
+      `recipes.json` schema (`_meta.fields` description block added)
+- [x] Update `/register-recipe` workflow to capture and write all new fields
+- [x] Write `audit.py --sync-metadata` mode: reads each folio's Category/Keywords,
       populates missing fields in corresponding `recipes.json` entry (fast, no LLM)
-- [ ] Run `--sync-metadata` across all existing entries after manuscript backfill
+      Also supports `--dry-run` to preview changes before writing.
+- [x] Run `--sync-metadata` across all 152 entries — all populated
 
 ### Phase 4 — Pipeline Update
 

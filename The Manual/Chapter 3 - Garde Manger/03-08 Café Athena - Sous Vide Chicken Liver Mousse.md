@@ -93,4 +93,4 @@ sous vide, chicken liver, mousse, emulsion, gelée, port wine, fat-in-water, pâ
 
 ## Category
 
-cuisine: French | style: Modern
+cuisine: French | style: Modern | family: Mousse & Pâté | course: Dinner

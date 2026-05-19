@@ -304,4 +304,4 @@ pané, panko, katsu, tempura, beer batter, fish and chips, breadcrumb, egg wash,
 
 ## Category
 
-cuisine: Global | style: Classical
+cuisine: Global | style: Classical | family: Batter & Coating | course: Component

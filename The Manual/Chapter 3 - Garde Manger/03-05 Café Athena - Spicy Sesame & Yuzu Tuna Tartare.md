@@ -96,4 +96,4 @@ tuna, tartare, emulsion, sesame, yuzu, spicy, sushi, japanese, avocado, raw fish
 
 ## Category
 
-cuisine: Japanese | style: Modern
+cuisine: Japanese | style: Modern | family: Tartare & Raw | course: Dinner

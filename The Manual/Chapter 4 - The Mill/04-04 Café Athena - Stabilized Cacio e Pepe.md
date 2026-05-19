@@ -64,4 +64,4 @@ cacio e pepe, emulsification, cheese, pasta, sodium citrate, pepper, italian, mo
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Pasta | course: Dinner

@@ -65,4 +65,4 @@ microbial fermentation, kefir, dairy, fermentation, lactic acid, yeast, scoby, s
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

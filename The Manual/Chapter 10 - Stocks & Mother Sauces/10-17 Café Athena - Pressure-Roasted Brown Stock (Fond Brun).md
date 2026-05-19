@@ -105,4 +105,4 @@ pressure cooking, brown stock, veal bones, mirepoix, tomato paste, pincage, gela
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Stock | course: Component

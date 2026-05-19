@@ -148,4 +148,4 @@ spinach pasta, egg pasta, chlorophyll, garlic oil, hydration, gluten development
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Pasta Dough | course: Component

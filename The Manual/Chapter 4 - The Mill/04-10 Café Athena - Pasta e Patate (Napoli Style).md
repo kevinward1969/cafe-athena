@@ -75,4 +75,4 @@ pasta, potatoes, smoked mozzarella, italian, creamy, emulsification, risotto, ma
 
 ## Category
 
-cuisine: Italian | style: Weeknight
+cuisine: Italian | style: Weeknight | family: Pasta | course: Dinner

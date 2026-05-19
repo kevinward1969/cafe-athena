@@ -86,4 +86,4 @@ rich yolk pasta, laminated pasta dough, egg yolk, gluten inhibition, fat hydrati
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Pasta Dough | course: Component

@@ -75,4 +75,4 @@ wafu, Japanese fusion, miso, wedding soup, meatballs, Israeli couscous, sake, gi
 
 ## Category
 
-cuisine: Asian-Fusion | style: Modern
+cuisine: Asian-Fusion | style: Modern | family: Chicken | course: Dinner

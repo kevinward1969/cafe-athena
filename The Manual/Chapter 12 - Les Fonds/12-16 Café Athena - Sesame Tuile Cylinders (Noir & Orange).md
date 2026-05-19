@@ -97,4 +97,4 @@ tuile, sesame, miso, dark chocolate, ganache, orange, crystallization, baking, p
 
 ## Category
 
-cuisine: Asian-Fusion | style: Fine Dining
+cuisine: Asian-Fusion | style: Fine Dining | family: Platform & Vessel | course: Component

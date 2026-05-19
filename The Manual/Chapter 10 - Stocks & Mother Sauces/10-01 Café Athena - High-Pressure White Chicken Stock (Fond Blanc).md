@@ -69,4 +69,4 @@ pressure cooking, chicken stock, fond blanc, gelatin, clarified stock, mirepoix,
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Stock | course: Component

@@ -65,4 +65,4 @@ conduction, convection, radiation, heat transfer, maillard reaction, searing, st
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Heat & Thermodynamics

@@ -63,4 +63,4 @@ skirt steak, bavette, Bordelaise, pan sauce, monter au beurre, emulsion, fond, F
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Beef | course: Dinner

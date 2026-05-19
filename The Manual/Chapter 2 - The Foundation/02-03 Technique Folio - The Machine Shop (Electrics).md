@@ -68,4 +68,4 @@ blending, emulsification, torque, shear force, high-speed blender, immersion ble
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

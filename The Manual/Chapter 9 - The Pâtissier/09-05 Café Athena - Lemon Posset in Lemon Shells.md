@@ -112,4 +112,4 @@ lemon posset, acid-set, cream dessert, no gelatin, lemon shells, denaturation, F
 
 ## Category
 
-cuisine: French | style: Fine Dining
+cuisine: French | style: Fine Dining | family: Posset & Panna Cotta | course: Dessert

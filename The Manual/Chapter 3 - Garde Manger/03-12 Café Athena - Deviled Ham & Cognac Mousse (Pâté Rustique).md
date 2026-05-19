@@ -80,4 +80,4 @@ deviled ham, mousse, emulsification, cognac, pâté, fat suspension, mechanical 
 
 ## Category
 
-cuisine: French | style: Rustic
+cuisine: French | style: Rustic | family: Mousse & Pâté | course: Dinner

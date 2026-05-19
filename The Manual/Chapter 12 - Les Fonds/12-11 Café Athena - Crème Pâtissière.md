@@ -72,4 +72,4 @@ pastry cream, creme patissiere, custard, vanilla bean, cornstarch, tempering, Fr
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Cream & Filling | course: Component

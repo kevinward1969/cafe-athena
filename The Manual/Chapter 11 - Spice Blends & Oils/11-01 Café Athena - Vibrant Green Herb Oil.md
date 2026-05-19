@@ -75,4 +75,4 @@ blanching, herb infusion, chlorophyll extraction, mechanical extraction, oil, pa
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Herb Oil | course: Component

@@ -87,4 +87,4 @@ smoked pepper, dehydrated chile, red pepper blend, spice blend, offset smoker, a
 
 ## Category
 
-cuisine: American | style: Modern
+cuisine: American | style: Modern | family: Dry Spice Blend | course: Component

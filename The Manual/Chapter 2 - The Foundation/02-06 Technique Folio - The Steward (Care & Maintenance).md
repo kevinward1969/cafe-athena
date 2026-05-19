@@ -63,4 +63,4 @@ knife sharpening, honing, cast iron, thermal shock, polymerization, blade manage
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

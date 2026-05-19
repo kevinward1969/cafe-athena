@@ -67,4 +67,4 @@ asparagus, side dish, vegetable, steaming, sauté, lemon, butter, spring, quick,
 
 ## Category
 
-cuisine: Global | style: Rustic | dietary: Vegetarian
+cuisine: Global | style: Rustic | family: Steamed & Braised | course: Dinner | dietary: Vegetarian

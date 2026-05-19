@@ -92,4 +92,4 @@ non-fish caviar, vegan caviar, chia seeds, basil seeds, squid ink, oyster liquor
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Garnish & Component | course: Component

@@ -91,4 +91,4 @@ sourdough, hybrid leavening, high-hydration, bread, no-knead, bulk fermentation,
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Bread | course: Dinner

@@ -99,4 +99,4 @@ black beans, louisiana cuisine, smoked sausage, pork, sushi rice, andouille, ste
 
 ## Category
 
-cuisine: American | style: Weeknight
+cuisine: American | style: Weeknight | family: Grain & Legume | course: Dinner

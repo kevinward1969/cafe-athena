@@ -94,4 +94,4 @@ brown butter, cheesecake, cookies, citrus, red pepper, baking powder, cream chee
 
 ## Category
 
-cuisine: American | style: Weeknight
+cuisine: American | style: Weeknight | family: Cookie | course: Dessert

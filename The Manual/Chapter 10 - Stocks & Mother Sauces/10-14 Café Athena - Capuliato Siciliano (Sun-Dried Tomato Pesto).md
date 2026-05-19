@@ -91,4 +91,4 @@ Sun-dried tomatoes, pesto, Italian, mince, oil-based, umami, herb, chili, preser
 
 ## Category
 
-cuisine: Italian | style: Rustic
+cuisine: Italian | style: Rustic | family: Cold Blended Sauce | course: Component

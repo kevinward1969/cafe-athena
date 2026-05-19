@@ -80,4 +80,4 @@ braising, red wine, short ribs, gelatin, reduction, bacon, leeks, wine, french, 
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Beef | course: Dinner

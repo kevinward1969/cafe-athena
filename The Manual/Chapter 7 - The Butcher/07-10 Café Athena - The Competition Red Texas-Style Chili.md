@@ -91,4 +91,4 @@ texas-style chili, umami, fermented, beef, chili paste, demi-glace, searing, com
 
 ## Category
 
-cuisine: American | style: Competition
+cuisine: American | style: Competition | family: Beef | course: Dinner

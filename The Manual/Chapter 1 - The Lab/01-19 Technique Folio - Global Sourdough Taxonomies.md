@@ -35,4 +35,4 @@ sourdough, starter, fermentation, gluten, whole wheat, rye flour, baking, bread,
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

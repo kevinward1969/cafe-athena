@@ -76,4 +76,4 @@ mise en place, cognitive load, sanitation, thermodynamics, cutting board, workfl
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

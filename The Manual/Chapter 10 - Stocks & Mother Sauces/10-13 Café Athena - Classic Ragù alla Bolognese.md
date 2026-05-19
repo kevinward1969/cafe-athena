@@ -106,4 +106,4 @@ slow simmer, meat emulsion, ragù, pancetta, milk, wine, tomato paste, stock, br
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Technique Folio | family: Ragù & Meat Sauce | course: Component

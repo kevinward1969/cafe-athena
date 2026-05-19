@@ -38,4 +38,4 @@ baker's percentages, hydration, flour, dough, bread, gluten, yeast, scaling, rus
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Starch & Dough Science

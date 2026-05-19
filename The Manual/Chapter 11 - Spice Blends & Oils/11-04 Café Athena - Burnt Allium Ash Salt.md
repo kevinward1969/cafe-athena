@@ -75,4 +75,4 @@ carbonization, leek, ash, salt, smoke, bitter, roasting, spice grinder, culinary
 
 ## Category
 
-cuisine: Global | style: Technique Folio
+cuisine: Global | style: Technique Folio | family: Specialty Salt | course: Component

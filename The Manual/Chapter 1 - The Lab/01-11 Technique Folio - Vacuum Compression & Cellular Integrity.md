@@ -49,4 +49,4 @@ vacuum compression, cellular architecture, marination, hydrostatic infusion, tex
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Preservation & Transformation

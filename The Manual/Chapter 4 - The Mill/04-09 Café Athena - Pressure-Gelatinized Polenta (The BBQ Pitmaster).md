@@ -63,4 +63,4 @@ polenta, pressure cooking, cornmeal, cheddar, jalapeño, gelatinization, bbq, st
 
 ## Category
 
-cuisine: American | style: Weeknight
+cuisine: American | style: Weeknight | family: Polenta | course: Dinner

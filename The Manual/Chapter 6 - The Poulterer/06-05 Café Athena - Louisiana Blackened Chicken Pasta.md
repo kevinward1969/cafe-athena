@@ -82,4 +82,4 @@ cajun, blackened, chicken, pasta, cream sauce, emulsification, fond, louisiana, 
 
 ## Category
 
-cuisine: American | style: Modern
+cuisine: American | style: Modern | family: Chicken | course: Dinner

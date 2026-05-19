@@ -85,4 +85,4 @@ pâte à choux, choux pastry, steam dough, physical leavening, gelatinization, c
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Pastry Dough | course: Component

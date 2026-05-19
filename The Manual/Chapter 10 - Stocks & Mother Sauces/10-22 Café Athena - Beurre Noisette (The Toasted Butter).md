@@ -108,4 +108,4 @@ butter, toasted butter, Maillard reaction, French cuisine, flavor development, c
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Compound Butter | course: Component

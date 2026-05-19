@@ -105,4 +105,4 @@ emulsification, gelatin, mushroom, miso, sherry, umami, vegetarian, pâté, past
 
 ## Category
 
-cuisine: French | style: Fine Dining | dietary: Vegetarian
+cuisine: French | style: Fine Dining | family: Mousse & Pâté | course: Dinner | dietary: Vegetarian

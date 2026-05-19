@@ -86,4 +86,4 @@ confit, tomato, herb oil, extra virgin olive oil, infusion, aromatics, tomato vi
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Garnish & Component | course: Component

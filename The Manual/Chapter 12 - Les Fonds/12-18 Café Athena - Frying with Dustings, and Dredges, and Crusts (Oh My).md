@@ -277,4 +277,4 @@ frying, dredge, dusting, cornstarch, rice flour, cornmeal, semolina, double-fry,
 
 ## Category
 
-cuisine: Global | style: Classical
+cuisine: Global | style: Classical | family: Batter & Coating | course: Component

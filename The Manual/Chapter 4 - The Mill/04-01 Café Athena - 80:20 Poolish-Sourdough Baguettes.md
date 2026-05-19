@@ -72,4 +72,4 @@ sourdough, poolish, baguettes, fermentation, gluten development, dough, baking s
 
 ## Category
 
-cuisine: French | style: Modern
+cuisine: French | style: Modern | family: Bread | course: Dinner

@@ -95,4 +95,4 @@ béchamel, cheese sauce, gruyère, parmesan, emulsification, dairy, French, sauc
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Derivative Sauce | course: Component

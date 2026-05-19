@@ -77,4 +77,4 @@ stroganoff, beef chuck, braise, crème fraîche, mushroom, pinçage, fond, colla
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Beef | course: Dinner

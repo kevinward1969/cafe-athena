@@ -68,4 +68,4 @@ risotto, mushrooms, italian, carnaroli rice, stock, sauté, butter, parmesan, he
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Rice | course: Dinner

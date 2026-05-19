@@ -150,4 +150,4 @@ pressure braising, chuck roast, cold smoking, umami, maillard reaction, glutamat
 
 ## Category
 
-cuisine: Global | style: Competition
+cuisine: Global | style: Competition | family: Beef | course: Dinner

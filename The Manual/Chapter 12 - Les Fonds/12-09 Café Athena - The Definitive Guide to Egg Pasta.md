@@ -141,4 +141,4 @@ egg pasta, definitive guide, italian, gluten development, dough, 00 flour, lamin
 
 ## Category
 
-cuisine: Italian | style: Modern
+cuisine: Italian | style: Modern | family: Pasta Dough | course: Component

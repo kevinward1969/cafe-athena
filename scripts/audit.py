@@ -14,6 +14,7 @@ Usage:
     python3 scripts/audit.py --detect-model qwen2.5:7b  # detection model (mise violation)
     python3 scripts/audit.py --deep                 # enable LLM-based Mise/Method violation check
     python3 scripts/audit.py --status               # show audit status summary
+    python3 scripts/audit.py --sync-metadata        # backfill cuisine/style/family/course/keywords/dietary from folios
 
 Audit status values in recipes.json:
     pending       — never audited
@@ -824,6 +825,113 @@ def show_status(data: dict):
 
 
 # ---------------------------------------------------------------------------
+# Metadata sync (--sync-metadata)
+# ---------------------------------------------------------------------------
+
+def parse_category_line(line: str) -> dict:
+    """Parse 'cuisine: X | style: Y | family: Z | ...' into a dict."""
+    result = {}
+    for part in line.split("|"):
+        part = part.strip()
+        if ":" in part:
+            key, _, val = part.partition(":")
+            result[key.strip()] = val.strip()
+    return result
+
+
+def parse_keywords_section(text: str) -> list[str]:
+    """Extract the ## Keywords section and return a list of terms."""
+    m = re.search(r"^## Keywords\s*\n(.*?)(?=^##|\Z)", text, re.MULTILINE | re.DOTALL)
+    if not m:
+        return []
+    block = m.group(1).strip()
+    # Handle comma-separated inline list or newline-separated list items
+    terms = []
+    for raw in re.split(r"[,\n]", block):
+        term = raw.strip().lstrip("-* ").strip()
+        if term:
+            terms.append(term)
+    return terms
+
+
+def find_folio_path(recipe_id: str) -> Path | None:
+    """Locate the source .md file for a recipe ID in The Manual/."""
+    for path in MANUAL_DIR.rglob(f"{recipe_id} *.md"):
+        return path
+    for path in MANUAL_DIR.rglob(f"{recipe_id}_*.md"):
+        return path
+    return None
+
+
+def sync_metadata(data: dict, dry_run: bool = False) -> int:
+    """
+    Read each folio's ## Category and ## Keywords sections and populate
+    the corresponding recipes.json entry with cuisine, style, family,
+    course, dietary, and keywords fields.
+
+    Returns the number of entries updated.
+    """
+    print_header("Metadata Sync — reading folios into recipes.json")
+    updated = 0
+    missing_files = []
+
+    for entry in data["recipes"]:
+        rid = entry["id"]
+        fpath = find_folio_path(rid)
+        if fpath is None:
+            missing_files.append(rid)
+            continue
+
+        text = fpath.read_text(encoding="utf-8")
+
+        # Parse ## Category
+        cat_m = re.search(r"^## Category\s*\n\s*(.+)", text, re.MULTILINE)
+        cat_fields: dict = {}
+        if cat_m:
+            cat_fields = parse_category_line(cat_m.group(1))
+
+        keywords = parse_keywords_section(text)
+
+        # Build the update dict (only non-empty values)
+        updates: dict = {}
+        for field in ("cuisine", "style", "family", "course"):
+            val = cat_fields.get(field)
+            if val:
+                updates[field] = val
+        updates["dietary"] = cat_fields.get("dietary") or None
+        if keywords:
+            updates["keywords"] = keywords
+
+        # Detect changes
+        changed_keys = []
+        for k, v in updates.items():
+            if entry.get(k) != v:
+                changed_keys.append(k)
+
+        if not changed_keys:
+            continue
+
+        summary = ", ".join(f"{k}={repr(updates[k])}" for k in changed_keys)
+        print(f"  {DIM}{rid}{RESET}  {summary}")
+
+        if not dry_run:
+            entry.update(updates)
+        updated += 1
+
+    if missing_files:
+        print(f"\n  {YELLOW}No source file found for:{RESET} {', '.join(missing_files)}")
+
+    action = "Would update" if dry_run else "Updated"
+    print(f"\n  {GREEN}{action} {updated} entries.{RESET}")
+
+    if not dry_run and updated:
+        save_registry(data)
+        print(f"  {GREEN}recipes.json saved.{RESET}")
+
+    return updated
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
@@ -838,12 +946,18 @@ def main():
     parser.add_argument("--status", action="store_true", help="Show audit status summary")
     parser.add_argument("--pending-only", action="store_true", help="Only audit never-audited recipes")
     parser.add_argument("--auto-approve", action="store_true", help="Apply all generated fixes without prompting")
+    parser.add_argument("--sync-metadata", action="store_true", help="Backfill cuisine/style/family/course/keywords/dietary from folio files into recipes.json")
+    parser.add_argument("--dry-run", action="store_true", help="With --sync-metadata: show what would change without writing")
     args = parser.parse_args()
 
     data = load_registry()
 
     if args.status:
         show_status(data)
+        return
+
+    if args.sync_metadata:
+        sync_metadata(data, dry_run=args.dry_run)
         return
 
     # Build target list

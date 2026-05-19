@@ -69,4 +69,4 @@ lacto-fermentation, lactic acid bacteria, brine, anaerobic, salinity, pickling, 
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

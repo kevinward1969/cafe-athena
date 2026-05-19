@@ -89,4 +89,4 @@ béchamel, milk, roux, butter, flour, emulsion, French, sauce, thickening, aroma
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Mother Sauce | course: Component

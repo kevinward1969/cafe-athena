@@ -94,4 +94,4 @@ crispy rice, SPAM, Sichuan pepper, Dubliner, canapé, fusion, torched cheese, di
 
 ## Category
 
-cuisine: Asian-Fusion | style: Modern
+cuisine: Asian-Fusion | style: Modern | family: Canapé | course: Dinner

@@ -109,4 +109,4 @@ frico, frico laminé, baked cheese crisp, parmesan crisp, structural matrix, lam
 
 ## Category
 
-cuisine: Global | style: Modern
+cuisine: Global | style: Modern | family: Platform & Vessel | course: Component

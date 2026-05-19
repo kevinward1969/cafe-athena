@@ -59,4 +59,4 @@ salting, osmosis, diffusion, water management, protein denaturation, vegetables,
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Salinity & Seasoning

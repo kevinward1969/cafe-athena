@@ -45,4 +45,4 @@ emulsification, risotto, mantecatura, butter, cheese, starch, heat, fat, rice, c
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Emulsification & Bonding

@@ -42,4 +42,4 @@ sourdough, microbial culture, fermentation, wild yeast, lactic acid, acetic acid
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Fermentation

@@ -64,4 +64,4 @@ inventory management, fifo, standardization, storage, labeling, container, dairy
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

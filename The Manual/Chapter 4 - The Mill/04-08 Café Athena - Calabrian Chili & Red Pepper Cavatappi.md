@@ -71,4 +71,4 @@ emulsification, calabrian chili, red peppers, pasta, italian, roasting, mantecat
 
 ## Category
 
-cuisine: Italian | style: Weeknight
+cuisine: Italian | style: Weeknight | family: Pasta | course: Dinner

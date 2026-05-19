@@ -81,4 +81,4 @@ shortcrust, pâte brisée, pastry, butter, flour, fat, gluten inhibition, fraisa
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Pastry Dough | course: Component

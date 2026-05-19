@@ -84,4 +84,4 @@ walnut, pesto, emulsion, Italian, Liguria, panade, starch, dairy, olive oil, toa
 
 ## Category
 
-cuisine: Italian | style: Technique Folio
+cuisine: Italian | style: Technique Folio | family: Cold Blended Sauce | course: Component

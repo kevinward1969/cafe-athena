@@ -83,4 +83,4 @@ fried chicken, buttermilk, spice glaze, dry brining, hot sauce, kosher salt, sou
 
 ## Category
 
-cuisine: American | style: Weeknight
+cuisine: American | style: Weeknight | family: Chicken | course: Dinner

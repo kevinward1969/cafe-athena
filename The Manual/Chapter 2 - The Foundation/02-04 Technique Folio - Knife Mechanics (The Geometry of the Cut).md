@@ -74,4 +74,4 @@ knife skills, geometry, physics, cell wall integrity, slice, draw slice, grip, p
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Skills

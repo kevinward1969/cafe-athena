@@ -92,4 +92,4 @@ chicken liver, mousse, emulsification, pan-roasting, butter, cognac, gelatin, p�
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Mousse & Pâté | course: Dinner

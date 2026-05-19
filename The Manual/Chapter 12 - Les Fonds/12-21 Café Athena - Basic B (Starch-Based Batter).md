@@ -99,4 +99,4 @@ gluten-free, starch batter, deep frying, starch gelatinization, thermal shock, m
 
 ## Category
 
-cuisine: Global | style: Classical
+cuisine: Global | style: Classical | family: Batter & Coating | course: Component

@@ -75,4 +75,4 @@ miso, black cod, saikyo yaki, curing, fermented, umami, japanese, sablefish, gla
 
 ## Category
 
-cuisine: Japanese | style: Modern
+cuisine: Japanese | style: Modern | family: Finfish | course: Dinner

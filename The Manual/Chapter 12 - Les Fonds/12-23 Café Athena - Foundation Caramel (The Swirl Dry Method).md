@@ -109,4 +109,4 @@ caramel, dry method, sugar spectrum, swirl, ribbon, brownie component, les fonds
 
 ## Category
 
-cuisine: French | style: Pastry
+cuisine: French | style: Pastry | family: Caramel & Sugar | course: Component

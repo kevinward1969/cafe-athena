@@ -94,4 +94,4 @@ cast iron, thermal mass, stainless steel, conduction, forged blades, chef's knif
 
 ## Category
 
-style: Technique Folio
+style: Technique Folio | family: Kitchen Management

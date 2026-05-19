@@ -66,4 +66,4 @@ steak, pepper, emulsion, sear, cognac, cream, peppercorns, french, beef, maillar
 
 ## Category
 
-cuisine: French | style: Technique Folio
+cuisine: French | style: Technique Folio | family: Beef | course: Dinner

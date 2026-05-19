@@ -93,4 +93,4 @@ roux, brown sauce, caramelization, stock, mirepoix, reduction, flavor developmen
 
 ## Category
 
-cuisine: French | style: Classical
+cuisine: French | style: Classical | family: Mother Sauce | course: Component
