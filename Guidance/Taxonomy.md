@@ -55,8 +55,11 @@ The register, occasion, or culinary approach. Answers: *how is this positioned?*
 | `Brunch` | Positioned for brunch service |
 | `Weeknight` | Accessible, time-efficient, everyday cooking |
 | `Pastry` | Pastry and confectionery context |
-| `Tapas` | Spanish small-plate/sharing format; pintxos, bar snacks |
 | `Technique Folio` | Technique or science folio (Ch. 1–2); not a recipe |
+
+> **Not in style:** Service formats (Tapas, Mezze, Dim Sum, Family-Style, Tasting Menu)
+> belong to Part IV — The Expo (Ch. 13–15). They describe how a menu is structured,
+> not what an individual recipe is.
 
 ---
 
