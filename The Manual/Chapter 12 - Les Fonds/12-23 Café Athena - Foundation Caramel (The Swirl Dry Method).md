@@ -10,13 +10,6 @@ This is the caramel you need to know before you touch any other version. Dry-met
 
 **Teaching Idea: The Sugar Spectrum.** Sucrose doesn't just "melt" — it undergoes a cascade of chemical changes from ~320°F/160°C onward: first caramelization (flavor compounds, color), then increasing pyrolysis (bitterness, complexity) as you approach 380°F/193°C. Every degree past 340°F/171°C is a flavor decision, not just a texture one.
 
-## Mise en Place
-
-- Measure cream into a small saucepan and warm to just below a simmer — cold cream hitting hot sugar causes violent splatter and seizes the caramel
-- Cut butter into 1 tbsp pieces; hold at room temperature
-- Have a heat-proof spatula, digital thermometer, and heat-proof bowl ready before sugar goes on heat
-- Clear a trivet or folded towel next to the stove — you will need to move the pan fast
-
 ## Ingredients
 
 **The Caramel Base**
@@ -27,6 +20,13 @@ This is the caramel you need to know before you touch any other version. Dry-met
 - 56 g (4 tbsp) unsalted butter, room temperature, cut into pieces
 - 3 g (½ tsp) Diamond Crystal kosher salt
 - 5 ml (1 tsp) pure vanilla extract
+
+## Mise en Place
+
+- Measure cream into a small saucepan and warm to just below a simmer — cold cream hitting hot sugar causes violent splatter and seizes the caramel
+- Cut butter into 1 tbsp pieces; hold at room temperature
+- Have a heat-proof spatula, digital thermometer, and heat-proof bowl ready before sugar goes on heat
+- Clear a trivet or folded towel next to the stove — you will need to move the pan fast
 
 ## Method
 

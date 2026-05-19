@@ -19,7 +19,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Thermal Maillard Optimization: A technique utilizing controlled heat to maximize the Maillard reaction for enhanced flavor development.
 - Thermal Mass: Heavy cookware, such as cast iron or clad stainless steel, utilizes thermal mass to maintain consistent temperatures during cooking processes.
 - Thermal Plasticity: The temperature window in which a set material (like rendered cheese) remains pliable and shapeable before hardening upon further cooling.
-- Thermal Shock: The distortion of metal cookware caused by rapid temperature changes, specifically the differential contraction of layers within the metal.
+- Thermal Shock: A rapid temperature differential with two culinary applications: (1) the abrupt contrast between ice-cold batter and hot frying oil (~350–375°F/175–190°C), driving rapid steam production that creates a porous, shatteringly crisp crust; (2) the distortion of metal cookware caused by rapid temperature changes and differential contraction of its layers.
 - Threshold: The minimum temperature required for a specific chemical reaction, such as the Maillard reaction, to occur effectively.
 - Thyme: An aromatic herb with needle-like leaves and a strong, earthy flavor, commonly used to season meats and vegetables.
 - Toasting: The initial heating of pasta in fat, crucial for initiating dextrinization and developing toasted flavors.

@@ -17,6 +17,7 @@ This water-based batter leverages the specific starch-to-protein ratio found in 
 ## Ingredients
 
 **The Dry Mix**
+
 - 500 g (3 ¾ cups) gluten-free self-rising flour (blend of rice, potato, tapioca, maize, and buckwheat)
 - 10 g (2 tsp) Diamond Crystal kosher salt
 - 5 g (2 tsp) onion powder
@@ -25,6 +26,7 @@ This water-based batter leverages the specific starch-to-protein ratio found in 
 - 2 g (1 tsp) ground turmeric
 
 **The Hydration**
+
 - 750 g (3 ⅛ cups) ice-cold water
 
 ---
@@ -60,7 +62,7 @@ Immediately nest the batter bowl into the prepared ice bath. Maintain it there f
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 **The Mandatory Dredge**
 

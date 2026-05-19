@@ -62,20 +62,20 @@ KEYWORDS_MAX = 15
 # (recipe-only sections are skipped for technique folios)
 REQUIRED_SECTIONS = [
     "Headnote",
-    "Mise en Place",
     "Ingredients",
+    "Mise en Place",
     "Method",
     "Glossary",
     "Keywords",
     "Category",
 ]
 
-# Full section order per format standard v3.1, including optional sections.
+# Full section order per format standard v3.2, including optional sections.
 # Used for order checking — any present section must follow this sequence.
 FULL_SECTION_ORDER = [
     "Headnote",
-    "Mise en Place",
     "Ingredients",
+    "Mise en Place",
     "Method",
     "Variations",
     "Chef's Notes",
@@ -313,11 +313,17 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
                 auto_fix=can_fix,
             ))
 
-    # Detect old combined Variations & Chef's Notes heading (pre-v3.1 template)
-    if "Variations & Chef's Notes" in sections:
+    # Detect any combined Variations/Chef's Notes heading (pre-v3.2 template)
+    # Check raw text to catch all separator variants (&, /, and, etc.)
+    combined_heading = re.search(
+        r"^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)",
+        text, re.MULTILINE | re.IGNORECASE,
+    )
+    if combined_heading:
+        label = combined_heading.group(0).lstrip("# ").strip()
         audit.issues.append(Issue(
             code="old_combined_variations",
-            description="## Variations & Chef's Notes must be split into ## Variations and ## Chef's Notes (v3.1)",
+            description=f'"{label}" should be split into ## Variations and ## Chef\'s Notes (v3.2)',
             auto_fix=False,
         ))
 

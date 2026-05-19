@@ -91,6 +91,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Char: The controlled burning of food to develop flavor compounds, often achieved through high-heat cooking.
 - Chelate: The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
 - Chelation: The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
+- Chemical Leavener: A non-biological leavening agent — such as baking powder or baking soda — that produces CO₂ gas when activated by heat and/or moisture, contributing to lift and an open texture in baked goods and fried batters.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.
@@ -153,6 +154,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dough: A mixture of flour, water, and other ingredients that has been mixed and kneaded, forming a pliable mass ready for baking.
 - Draw Slice: A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
+- Dry-Dredge Bridge: The mandatory pre-batter application of dry starch or flour to a product surface, creating an adhesion layer between the protein or vegetable and a liquid batter. Without it, the batter slides off at oil contact.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
 
@@ -209,6 +211,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 - Glutenin: A key protein found in wheat flour that contributes to dough elasticity and extensibility.
+- Gluten-Free Flour Blend: A composite flour combining multiple starches — typically rice flour, potato starch, tapioca starch, maize flour, and buckwheat — to replicate the structure and binding of wheat flour without the gluten protein network.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - Gochujang: Korean fermented chili paste made from red chilies, glutinous rice, and soybeans. Provides simultaneous heat, sweetness, and umami in a single ingredient.
 - Grated Onion: The onion, peeled and grated on a fine grater, is cooked slowly to create a smooth puree, contributing sweetness and texture without disrupting the risotto’s creaminess.
@@ -278,6 +281,7 @@ No glossary terms yet.
 
 ## M
 
+- Mace: The dried, lacy outer covering (aril) of the nutmeg seed. Flavor profile is similar to nutmeg but more floral and delicate, making it useful where nutmeg would overpower.
 - Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
 - Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
@@ -457,6 +461,7 @@ No glossary terms yet.
 - Stainless Steel Bowls: Lightweight and highly conductive, stainless steel bowls are preferred for temperature-sensitive mixing and preparation tasks.
 - Standardized Storage: Utilizing uniform containers and labeling systems for efficient inventory management.
 - Starch Dextrinization: The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
+- Starch Gelatinization: The process by which starch granules absorb water and swell under heat, eventually bursting and fusing into a rigid, porous matrix. In frying, this gelatinized network produces the brittle, shatteringly crisp crust characteristic of a high-starch batter.
 - Starch Release: The enzymatic breakdown of bean cell walls during prolonged simmering, resulting in the release of soluble starches that thicken the liquid.
 - Stock: A flavorful liquid made by simmering bones, meat, or vegetables, concentrating their essence and forming the base of many dishes.
 - Strengthen: The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
@@ -486,7 +491,7 @@ No glossary terms yet.
 - Thermal Maillard Optimization: A technique utilizing controlled heat to maximize the Maillard reaction for enhanced flavor development.
 - Thermal Mass: Heavy cookware, such as cast iron or clad stainless steel, utilizes thermal mass to maintain consistent temperatures during cooking processes.
 - Thermal Plasticity: The temperature window in which a set material (like rendered cheese) remains pliable and shapeable before hardening upon further cooling.
-- Thermal Shock: The distortion of metal cookware caused by rapid temperature changes, specifically the differential contraction of layers within the metal.
+- Thermal Shock: A rapid temperature differential with two culinary applications: (1) the abrupt contrast between ice-cold batter and hot frying oil (~350–375°F/175–190°C), driving rapid steam production that creates a porous, shatteringly crisp crust; (2) the distortion of metal cookware caused by rapid temperature changes and differential contraction of its layers.
 - Threshold: The minimum temperature required for a specific chemical reaction, such as the Maillard reaction, to occur effectively.
 - Thyme: An aromatic herb with needle-like leaves and a strong, earthy flavor, commonly used to season meats and vegetables.
 - Toasting: The initial heating of pasta in fat, crucial for initiating dextrinization and developing toasted flavors.

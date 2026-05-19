@@ -1,6 +1,6 @@
 # RECIPE FORMAT STANDARD (MASTER)
 
-**Version 3.1** - Used by both Cafe Athena and VersiChef
+**Version 3.2** - Used by both Cafe Athena and VersiChef
 
 This document defines the universal recipe format for all recipe outputs. Both agents reference this single source of truth.
 
@@ -12,10 +12,10 @@ Every recipe must follow this strict vertical order:
 
 1. **Title Block**
 2. **Headnote** (Overview + Teaching Idea)
-3. **Mise En Place** (Mandatory Action Checklist)
-4. **Ingredients** (Grouped by component)
+3. **Ingredients** (Grouped by component)
+4. **Mise en Place** (Action Checklist)
 5. **Method** (Phased instructions)
-6. **Variations** (Optional)
+6. **Variations** (Optional — significant departures only)
 7. **Chef's Notes** (Optional)
 8. **Glossary**
 9. **Keywords**
@@ -65,34 +65,7 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ---
 
-## SECTION 3: MISE EN PLACE (CRITICAL RULES)
-
-**Philosophy:** "Step 0" - The user must be physically ready before heat is applied.
-
-**Format:** Bulleted list of **actions**, not ingredients
-
-**CRITICAL CONSTRAINT:** Mise en Place contains ONLY prep actions that happen BEFORE cooking begins. NO cooking steps belong here.
-
-**Correct Actions:**
-
-- "Dice the onion"
-- "Bloom the gelatin in cold water"
-- "Preheat oven to 425°F/220°C"
-- "Zest the lemon directly over the sugar"
-- "Temper the eggs to room temperature"
-- "Line a baking sheet with parchment"
-
-**INCORRECT - These are cooking steps, NOT mise:**
-
-- "Sauté the onions until translucent" ← This belongs in Method
-- "Reduce the sauce by half" ← This belongs in Method
-- "Cook pasta until al dente" ← This belongs in Method
-
-**When in doubt:** Ask "Can this be done before I turn on any heat source?" If NO, it belongs in the Method, not Mise en Place.
-
----
-
-## SECTION 4: INGREDIENTS
+## SECTION 3: INGREDIENTS
 
 **Grouping:**
 
@@ -122,6 +95,33 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 - "(weighed before browning)" when ingredient changes state
 - "(room temperature)" when temperature matters for technique
 - "(zest only)" or "(juice only)" for citrus
+
+---
+
+## SECTION 4: MISE EN PLACE (ACTION CHECKLIST)
+
+**Philosophy:** "Step 0" — The user must be physically ready before cooking begins.
+
+**Format:** Bulleted list of **actions**, not ingredients
+
+**CRITICAL CONSTRAINT:** Mise en Place contains ONLY prep actions that happen BEFORE cooking begins. NO cooking steps belong here.
+
+**Correct Actions:**
+
+- "Dice the onion"
+- "Bloom the gelatin in cold water"
+- "Preheat oven to 425°F/220°C"
+- "Zest the lemon directly over the sugar"
+- "Temper the eggs to room temperature"
+- "Line a baking sheet with parchment"
+
+**INCORRECT - These are cooking steps, NOT mise:**
+
+- "Sauté the onions until translucent" ← This belongs in Method
+- "Reduce the sauce by half" ← This belongs in Method
+- "Cook pasta until al dente" ← This belongs in Method
+
+**When in doubt:** Ask "Can this be done before I turn on any heat source?" If NO, it belongs in the Method, not Mise en Place.
 
 ---
 
@@ -162,15 +162,16 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ## SECTION 6: VARIATIONS
 
-**Optional.** Include only when the recipe has genuine alternate builds — a different flavor profile, a materially different technique, or a sub-recipe that diverges from the primary.
+**Optional.** Include only when the recipe has a **significant departure** from the primary build — a different dietary profile, an entirely different main ingredient, or a technique alternate that produces a materially different dish. If the change is minor (a single swap, a spice adjustment, a substitution tip), it belongs in Chef's Notes.
 
 **What belongs here:**
 
-- Ingredient swaps that change the character of the dish ("For a smoky version, replace X with Y")
-- Technique alternates ("Sous Vide Variation: cure as described, then seal in vacuum bags…")
-- Named derivative sauces or doughs ("Sweet Variation (Pâte Sucrée): add 50 g sugar…")
+- A fully different dietary version (vegan, gluten-free, dairy-free) requiring multiple ingredient or technique changes
+- An entirely different primary ingredient that changes the character of the dish (e.g., potato-based vs. ricotta-based gnocchi)
+- A named technique alternate that produces a materially different result ("Sous Vide Variation: cure as described, then seal in vacuum bags…")
+- A named derivative with its own distinct identity ("Miso Caramel Variation: whisk 30 g shiro miso into finished caramel off-heat…")
 
-**What does NOT belong here:** Practical tips, make-ahead guidance, storage notes, or workarounds ("if you don't have X, use Y") — those go in Chef's Notes.
+**What does NOT belong here:** Minor ingredient swaps, single-ingredient substitutions, spice adjustments, technique reminders, make-ahead guidance, storage notes, or workarounds ("if you don't have X, use Y") — those go in Chef's Notes.
 
 **Format:** One titled entry per variation, either as a bold bullet or an `###` subheading for longer variations.
 
@@ -178,15 +179,16 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 
 ## SECTION 7: CHEF'S NOTES
 
-**Optional.** Include when practical guidance adds real value beyond the method.
+**Optional.** Include when practical guidance adds real value beyond the method. This is also the right place for simple options and minor substitutions that don't significantly change the dish.
 
 **Common Topics:**
 
 - "Can I freeze this?"
-- "What if I don't have [ingredient]?"
+- "What if I don't have [ingredient]?" / minor substitutions and single-ingredient swaps
 - "Can I make this ahead?"
 - "Why is [specific technique] critical?"
 - "What's the difference between [ingredient A] and [ingredient B]?"
+- Spice adjustments and minor ingredient options that stay within the same dish profile
 
 **Format:** Bulleted list or short paragraphs with clear headers.
 

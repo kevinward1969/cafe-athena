@@ -23,6 +23,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Char: The controlled burning of food to develop flavor compounds, often achieved through high-heat cooking.
 - Chelate: The chemical process of binding to metal ions (in this case, Calcium). By binding calcium, sodium citrate prevents the cheese proteins (casein) from cross-linking and clumping.
 - Chelation: The process of a molecule (like sodium citrate) binding to metal ions (like calcium), effectively removing them from solution and altering their behavior.
+- Chemical Leavener: A non-biological leavening agent — such as baking powder or baking soda — that produces CO₂ gas when activated by heat and/or moisture, contributing to lift and an open texture in baked goods and fried batters.
 - Chinois: A conical sieve with an extremely fine mesh, used for straining custards, purées, and sauces to produce a very smooth texture.
 - Chlorophyll: The green pigment in plant cells. Heat-sensitive above 70°C/158°F, causing the shift from bright green to olive-drab during cooking.
 - Choux Pastry: A reference to the texture of the semolina dough, indicating a stiff, cohesive mixture achieved through gelatinization.

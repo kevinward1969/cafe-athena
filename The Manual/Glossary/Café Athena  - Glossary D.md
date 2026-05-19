@@ -33,5 +33,6 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dough: A mixture of flour, water, and other ingredients that has been mixed and kneaded, forming a pliable mass ready for baking.
 - Draw Slice: A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
+- Dry-Dredge Bridge: The mandatory pre-batter application of dry starch or flour to a product surface, creating an adhesion layer between the protein or vegetable and a liquid batter. Without it, the batter slides off at oil contact.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.

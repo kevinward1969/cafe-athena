@@ -8,13 +8,6 @@ Soft, cake-like cookies featuring nutty beurre noisette, bright citrus, and a li
 
 By replacing standard butter with brown butter, we introduce caramelized, toffee-like notes that play beautifully against the tang of the cream cheese. We elevate this further by "blooming" red pepper in the hot fat, creating a warming sensation that doesn't overpower the lemon. **Teaching Idea:** **Blooming Spices.** Fat-soluble flavor compounds (like capsaicin in peppers) extract best in warm oil. Adding the spices immediately after the butter leaves the heat allows the flavor to infuse the fat evenly without burning the spices.
 
-## Mise en Place (Action Checklist)
-
-* **Brown and Bloom:** Cook the butter until milk solids are golden. **Immediately** remove from heat and stir in the red pepper. Pour into a heat-proof bowl and chill until solidified (opaque and soft).
-* **Zest the lemon:** Microplane the zest directly over the weighed sugar to catch the oils.
-* **Temper the ingredients:** Ensure the solidified brown butter, cream cheese, and egg are all at room temperature (70∘F/21∘C).
-* **Prepare the coating:** Place the coarse raw sugar in a shallow bowl.
-
 ## Ingredients
 
 ### The Dry Mix
@@ -37,6 +30,13 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 ### The Coating
 
 * 100 g (½ cup) Turbinado or Raw Sugar (Demerara)
+
+## Mise en Place (Action Checklist)
+
+* **Brown and Bloom:** Cook the butter until milk solids are golden. **Immediately** remove from heat and stir in the red pepper. Pour into a heat-proof bowl and chill until solidified (opaque and soft).
+* **Zest the lemon:** Microplane the zest directly over the weighed sugar to catch the oils.
+* **Temper the ingredients:** Ensure the solidified brown butter, cream cheese, and egg are all at room temperature (70∘F/21∘C).
+* **Prepare the coating:** Place the coarse raw sugar in a shallow bowl.
 
 ## Method
 
@@ -66,7 +66,7 @@ By replacing standard butter with brown butter, we introduce caramelized, toffee
 
 1. **Cool:** Cool on the pan for 5 minutes (they will deflate slightly and set), then transfer to a wire rack.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **Thermal State of Fat:** It is critical that the brown butter be solidified (opaque) but soft (plasticity) before creaming. If the butter is liquid, it cannot hold air bubbles, resulting in a dense, greasy cookie. If it is too hard, it will not emulsify with the cheese.
 * **The Cream Cheese Variable:** Use block-style cream cheese, not "tub" or "whipped" varieties. Tub cream cheese contains higher water content and added stabilizers/aeration that will disrupt the gluten structure and spread of the cookie.

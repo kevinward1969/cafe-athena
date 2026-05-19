@@ -8,18 +8,10 @@ Dense, deeply chocolatey brownies built on roasted sweet potato — structured c
 
 Roasted sweet potato replaces a portion of the fat and sugar load here, contributing natural sweetness, body, and a moist crumb without the gummy, underset center that sinks most sweet potato brownie recipes. The key is treating the purée as an ingredient with a moisture problem to solve — oven-drying the mash before it enters the batter drives off free water and concentrates the sugars, giving you a paste that behaves like fat rather than liquid. **Teaching Idea: Bound vs. Free Moisture.** Not all water in a batter behaves the same way. Free moisture — like the water in raw sweet potato purée — steams during baking and re-absorbs on cooling, producing a gummy, never-quite-set center. Bound moisture — water held within protein networks, as in Greek yogurt — contributes to a moist mouthfeel without destabilizing the crumb. Managing the ratio of bound to free moisture is the difference between a brownie that sets cleanly and one that collapses.
 
-## Mise en Place
-
-- **Roast and dry the sweet potato:** Roast until completely tender, scoop flesh, and spread mash on a parchment-lined sheet pan. Dry in a 300°F/150°C oven for 10–15 min until paste-like and no longer steaming. Weigh 200 g after drying.
-- **Brown the butter:** Cook butter over medium heat until milk solids are golden and the aroma is nutty. Pour into a heat-proof bowl immediately and allow to cool to room temperature.
-- **Prepare caramel if using:** Make 12-23 Brown Butter Caramel variant to soft ball stage (235–240°F/113–115°C). Cool to 75–80°F/24–27°C before use. Transfer to a piping bag or squeeze bottle.
-- **Temper the eggs and yogurt:** Bring to room temperature (70°F/21°C).
-- **Prepare pan:** Grease an 8×8 or 9×13 pan and line with parchment, leaving an overhang on two sides for lifting.
-- **Preheat oven:** 325°F/163°C.
-
 ## Ingredients
 
 ### The Dry Mix
+
 - 70 g (½ cup + 1 tbsp) all-purpose flour
 - 50 g (½ cup) King Arthur Triple Cocoa Blend
 - 3 g (1 tsp) espresso powder
@@ -27,6 +19,7 @@ Roasted sweet potato replaces a portion of the fat and sugar load here, contribu
 - 3 g (½ tsp) Diamond Crystal kosher salt
 
 ### The Wet Base
+
 - 200 g (¾ cup) roasted sweet potato purée, oven-dried to paste
 - 113 g (½ cup) unsalted butter, browned and cooled
 - 150 g (¾ cup packed) dark brown sugar
@@ -36,8 +29,18 @@ Roasted sweet potato replaces a portion of the fat and sugar load here, contribu
 - 5 ml (1 tsp) pure vanilla extract
 
 ### Optional Finish
+
 - 12-23 Foundation Caramel, Brown Butter variant — soft ball stage, cooled to 75–80°F/24–27°C
 - Flaky sea salt, for finishing
+
+## Mise en Place
+
+- **Roast and dry the sweet potato:** Roast until completely tender, scoop flesh, and spread mash on a parchment-lined sheet pan. Dry in a 300°F/150°C oven for 10–15 min until paste-like and no longer steaming. Weigh 200 g after drying.
+- **Brown the butter:** Cook butter over medium heat until milk solids are golden and the aroma is nutty. Pour into a heat-proof bowl immediately and allow to cool to room temperature.
+- **Prepare caramel if using:** Make 12-23 Brown Butter Caramel variant to soft ball stage (235–240°F/113–115°C). Cool to 75–80°F/24–27°C before use. Transfer to a piping bag or squeeze bottle.
+- **Temper the eggs and yogurt:** Bring to room temperature (70°F/21°C).
+- **Prepare pan:** Grease an 8×8 or 9×13 pan and line with parchment, leaving an overhang on two sides for lifting.
+- **Preheat oven:** 325°F/163°C.
 
 ## Method
 

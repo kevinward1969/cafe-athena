@@ -54,6 +54,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Stainless Steel Bowls: Lightweight and highly conductive, stainless steel bowls are preferred for temperature-sensitive mixing and preparation tasks.
 - Standardized Storage: Utilizing uniform containers and labeling systems for efficient inventory management.
 - Starch Dextrinization: The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
+- Starch Gelatinization: The process by which starch granules absorb water and swell under heat, eventually bursting and fusing into a rigid, porous matrix. In frying, this gelatinized network produces the brittle, shatteringly crisp crust characteristic of a high-starch batter.
 - Starch Release: The enzymatic breakdown of bean cell walls during prolonged simmering, resulting in the release of soluble starches that thicken the liquid.
 - Stock: A flavorful liquid made by simmering bones, meat, or vegetables, concentrating their essence and forming the base of many dishes.
 - Strengthen: The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
