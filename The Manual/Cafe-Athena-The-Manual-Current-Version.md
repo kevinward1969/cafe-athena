@@ -149,6 +149,7 @@
 - 08-09 Café Athena - Butter-Steamed Asparagus
 - 08-10 Café Athena - Crispy Potato & Onion Pavé Triangles
 - 08-11 Café Athena - Roasted Brussels Sprouts with Warm Honey-Mustard Pan Sauce
+- 08-12 Café Athena - Southern Braised Collard Greens & Pot Likker
 
 ## CHAPTER 9: THE PÂTISSIER
 

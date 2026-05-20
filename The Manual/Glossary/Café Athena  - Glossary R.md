@@ -13,6 +13,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Reduction: Concentrating a liquid, typically a sauce, by simmering it to evaporate water and intensify flavors.
 - Reductive Sugar Reduction: A technique where sugar is slowly caramelized in a liquid with the addition of an acid, such as vinegar, to minimize browning and preserve delicate flavors.
 - Render: To cook fat-rich meat over moderate heat so the fat melts out of the tissue, leaving behind crisp, browned solids.
+- Rendered Fat: Fat that has been melted out of a protein (bacon, duck, ham) by gentle heat, leaving behind crisped solids and a pure cooking fat in the pan.
 - Rest: Allowing a cooked dish to sit undisturbed, allowing flavors to meld and the texture to stabilize.
 - Retard: A controlled chilling period for dough, typically in the refrigerator, to slow down fermentation and develop flavor complexity.
 - Retrogradation: The recrystallization of starch molecules as they cool, causing the food to harden or weep liquid (syneresis).

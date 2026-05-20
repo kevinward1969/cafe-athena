@@ -6,6 +6,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 - Tajín: A Mexican seasoning blend consisting primarily of mild chili peppers, dehydrated lime, and sea salt. Used for bright acidity and gentle heat, most famously on fresh fruit, corn, and vegetables.
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
+- Tannin: Naturally occurring polyphenol compounds found in leafy greens (particularly collards, kale, and mustard greens) that produce a dry, bitter sensation on the palate. Sugar added late in the braise suppresses the perception of tannin without making the dish sweet.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Tapioca Starch: A gluten-free starch extracted from the cassava root, used as a binding agent and to create a clear, snapping set in fried preparations.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.

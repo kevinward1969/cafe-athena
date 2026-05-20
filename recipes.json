@@ -3897,6 +3897,50 @@
       }
     },
     {
+      "id": "08-12",
+      "title": "Southern Braised Collard Greens & Pot Likker",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "cuisine": "American",
+      "style": "Rustic",
+      "family": "Leafy Green",
+      "course": "Side",
+      "keywords": [
+        "collard greens",
+        "southern cooking",
+        "pot likker",
+        "braising",
+        "ham hock",
+        "smoked pork",
+        "bacon",
+        "apple cider vinegar",
+        "long braise",
+        "collagen",
+        "american regional",
+        "weeknight",
+        "leafy greens",
+        "side dish"
+      ],
+      "dietary": null,
+      "added": "2026-05-19",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-19",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
