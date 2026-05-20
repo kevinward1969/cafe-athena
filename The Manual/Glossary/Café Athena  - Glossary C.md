@@ -15,6 +15,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
 - Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
 - Casein: A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
+- Caster sugar: Superfine granulated sugar that dissolves more readily than standard granulated sugar; preferred in curds and smooth sauces where undissolved crystals would create unwanted texture.
 - Cell Wall Integrity: The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.
 - Cellular Architecture: The complex arrangement of cells and their structural components within a food matrix, significantly altered by vacuum compression.
 - Cellular Collapse: The structural deformation of food cells during vacuum compression, resulting in a denser, more uniform texture.

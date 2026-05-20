@@ -10,6 +10,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Salamoia: An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
 - Salinity: The concentration of dissolved salt in a solution, expressed as a percentage of total weight. The primary control variable in lacto-fermentation.
 - Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
+- Sanding Method: A pastry mixing technique where cold fat is worked into dry ingredients until the mixture resembles coarse sand, coating flour particles in fat before any moisture is introduced — the primary method for producing short, crumbly pastry.
 - Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
 - Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
 - Sansho pepper: Japanese spice from the prickly ash tree; produces a citrus-forward, mildly numbing sensation similar in mechanism to Sichuan peppercorn but lighter and more aromatic.

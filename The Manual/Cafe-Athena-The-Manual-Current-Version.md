@@ -164,6 +164,7 @@
 - 09-05 Café Athena - Lemon Posset in Lemon Shells
 - 09-06 Café Athena - Sweet Potato Brownies
 - 09-07 Café Athena - Gooey Butter Cake
+- 09-08 Café Athena - Lemon Curd Tartlets
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 

@@ -4242,6 +4242,49 @@
       ]
     },
     {
+      "id": "09-08",
+      "title": "Lemon Curd Tartlets",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-20",
+        "status": "clean",
+        "issues": []
+      },
+      "cuisine": "French",
+      "style": "Pastry",
+      "family": "Tart",
+      "course": "Dessert",
+      "dietary": null,
+      "keywords": [
+        "lemon curd",
+        "tartlets",
+        "pâte sablée",
+        "blind bake",
+        "xanthan gum",
+        "shortcrust",
+        "French pastry",
+        "individual dessert",
+        "food processor",
+        "lemon juice",
+        "nappé",
+        "syneresis",
+        "make-ahead"
+      ]
+    },
+    {
       "id": "10-01",
       "title": "High-Pressure White Chicken Stock (Fond Blanc)",
       "chapter": 10,
