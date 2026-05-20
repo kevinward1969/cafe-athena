@@ -1,6 +1,6 @@
 # Café Athena — Controlled Vocabulary & Taxonomy
 
-**Version:** 1.0
+**Version:** 1.1
 **Last Updated:** 2026-05-20
 
 This is the single source of truth for all indexing field values used across:
@@ -33,6 +33,7 @@ The regional or cultural origin of the dish. Use the most specific accurate term
 | `Indian` | Indian subcontinent cooking |
 | `Middle Eastern` | Levantine, Persian, Turkish, North African cooking |
 | `Mexican` | Mexican and Central American cooking |
+| `Latin American` | Caribbean and South American cooking (Puerto Rican, Dominican, Cuban, Colombian, etc.) |
 | `Thai` | Thai culinary tradition |
 | `American` | American regional cooking (Southern, BBQ, Cajun, etc.) |
 | `Mediterranean` | Dishes drawing from multiple Med. traditions |

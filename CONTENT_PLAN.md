@@ -1,8 +1,8 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-20:** 23 new recipes needed across 4 chapters + 3 category gap fills in Ch 7  
-*09-09 Crème Brûlée added and deployed — Ch 9 now 9/12*  
+**Status as of 2026-05-20:** 17 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
+*Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
 **Last updated:** 2026-05-20
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
@@ -20,7 +20,7 @@
 | **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
 | Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
-| **Ch 9 - The Pâtissier** | **9** | 12 | **+3** | In Progress |
+| Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
 | Ch 10 - Stocks & Mother Sauces | 25 | 12 | ✓ | — |
 | **Ch 11 - Spice Blends & Oils** | **6** | 12 | **+6** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
@@ -159,8 +159,9 @@
 
 ---
 
-## Chapter 9 — The Pâtissier  
-**Gap: +3 remaining | 9/12 complete as of 2026-05-20**
+## Chapter 9 — The Pâtissier ✓ COMPLETE (12/12)
+
+**Closed 2026-05-20 — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread**
 
 ### Current Folios
 - 09-01 Brown Butter & Miso-Caramel Truffle Brownies
@@ -236,7 +237,7 @@
 Work in this order — quickest wins first, hardest chapter last.
 
 1. ~~**Ch 8 (Field)**~~ — ✓ Complete (2026-05-19)
-2. **Ch 9 (Pâtissier)** — 6 recipes, all in RecipeIdeas. Heavy development but inputs exist.
+2. ~~**Ch 9 (Pâtissier)**~~ — ✓ Complete (2026-05-20)
 3. **Ch 11 (Spice Blends)** — 6 recipes, 4 from ideas + 2 originals (za'atar, dukkah).
 4. **Ch 7 (Butcher) lamb gap** — 3 additions, all from RecipeIdeas. Count bonus, not required.
 5. **Ch 6 (Poulterer)** — 6 recipes, 2 from ideas + 4 originals.
