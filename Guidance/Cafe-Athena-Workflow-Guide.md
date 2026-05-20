@@ -11,6 +11,7 @@ Strategic methodology for dish development, technical documentation, and site pu
 * **PHASE 3: FINALIZING.** Say "Finalize" or "Ready for Manual" to exit Mode 1. The AI confirms completion criteria before advancing.
 * **PHASE 4: FORMATTING (MODE 2).** The AI scans the live chapter directory, assigns the next XX-YY index, and generates the complete manuscript-ready recipe with Keywords and Category sections.
 * **PHASE 5: WRITING TO DISK.** The AI writes the formatted file directly to the correct chapter folder in `The Manual/` and updates `Cafe-Athena-The-Manual-Current-Version.md`.
+* **PHASE 5.5: REGISTER IN PIPELINE.** Run `/register-recipe [index]` in Claude Code to create the `recipes.json` entry with all metadata fields (cuisine, style, family, course, keywords, stage flags). The Claude Desktop agent outputs a `CLAUDE CODE HANDOFF` block with this command after confirming the file is written.
 * **PHASE 6: PUBLISHING TO SITE.** Run the content pipeline to make the recipe live:
 
   ```bash

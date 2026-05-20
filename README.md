@@ -389,11 +389,14 @@ Every recipe must include, in strict order:
 
 1. Title Block (3 separate lines)
 2. Headnote (2–5 sentences + Teaching Idea)
-3. Mise en Place (action checklist — no cooking steps)
-4. Ingredients (grouped by component)
+3. Ingredients (grouped by component)
+4. Mise en Place (action checklist — no cooking steps)
 5. Method (phased instructions with sensory cues)
-6. Chef's Notes / Variations
-7. Glossary (technical terms defined)
+6. Variations (optional — significant departures only)
+7. Chef's Notes (optional — tips, substitutions, make-ahead)
+8. Glossary (technical terms defined)
+9. Keywords (8–15 comma-separated tags)
+10. Category (cuisine, style, family, course — see `Guidance/Taxonomy.md`)
 
 See `Guidance/Recipe-Format-Standard.md` for the full specification.
 

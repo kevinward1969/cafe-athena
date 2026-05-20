@@ -94,7 +94,7 @@ To use the advanced agentic skills referenced in the documentation:
 **Recipe-Format-Standard.md**
 
 - Master formatting rules for all recipe outputs
-- Required sections: Title Block, Headnote, Mise en Place, Ingredients, Method, Chef's Notes, Glossary
+- Required sections (strict order): Title Block, Headnote, Ingredients, Mise en Place, Method, Variations, Chef's Notes, Glossary, Keywords, Category
 - Temperature/measurement standards (dual format, proper Unicode)
 - Zero-citation protocol (no [source] or [1], [2], etc.)
 

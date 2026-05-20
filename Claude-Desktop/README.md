@@ -123,11 +123,14 @@ All recipes follow strict order:
 
 1. Title Block
 2. Headnote
-3. Mise en Place
-4. Ingredients
+3. Ingredients
+4. Mise en Place
 5. Method
-6. Chef's Notes
-7. Glossary
+6. Variations (optional)
+7. Chef's Notes (optional)
+8. Glossary
+9. Keywords
+10. Category
 
 ---
 
@@ -173,8 +176,8 @@ Claude Desktop Project
 ## 📋 MAINTENANCE CHECKLIST
 
 - [ ] PROJECT_INSTRUCTIONS.md copied into Claude project
-- [ ] All 6 files attached to Claude project
-- [ ] Manual file is current version
+- [ ] Filesystem MCP or GitHub connector configured (do NOT attach files manually — AI reads them live)
+- [ ] Manual directory is accessible and current
 - [ ] Tested all 3 modes
 - [ ] Reviewed MODE_CHECKLISTS.md before first use
 - [ ] Confirmed stop points work (e.g., missing chapter info)

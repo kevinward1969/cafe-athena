@@ -160,12 +160,12 @@ When Claude processes your request, it references files in this order:
 1. PROJECT_INSTRUCTIONS.md
    └─→ Core Role, Mode Detection, Stop Points
 
-2. Recipe-Format-Standard.md
-   └─→ Required sections, formatting rules, standards
+2. Recipe-Format-Standard.md + Taxonomy.md
+   └─→ Required sections, formatting rules, controlled vocabulary
 
 3. [Mode-Specific Files]
    ├─→ Mode 1: Recipe-Example.md
-   ├─→ Mode 2: Cafe-Athena-The-Manual-Current-Version.md (CRITICAL)
+   ├─→ Mode 2: live chapter directory scan (CRITICAL — never the index doc)
    └─→ Mode 3: Technique-Folio-Template_v1.md + Example.md
 
 4. Context Files
@@ -231,28 +231,26 @@ OR
 
 ---
 
-## CRITICAL FILE: THE MANUAL
+## CRITICAL: LIVE CHAPTER DIRECTORY SCANNING
 
-**Cafe-Athena-The-Manual-Current-Version.md is essential because:**
+**For Mode 2 index assignment, Claude scans the live chapter directory — NOT the index document.**
 
-✓ Single source of truth for cookbook structure  
-✓ Determines Chapter boundaries  
-✓ Assigns next sequential XX-YY numbers  
-✓ Validates new recipe placement  
-✓ Prevents duplicate entries  
-✓ **MUST be readable** (if not → CRITICAL ERROR)  
+✓ Target directory: `The Manual/Chapter X - Name/`  
+✓ Finds all `XX-YY*.md` files, takes the highest number  
+✓ Assigns next sequential XX-YY  
+✓ Lists last 3 files found as proof of scan  
+✓ **MUST succeed** (if not → CRITICAL ERROR: provide last 3 entries manually)  
 
-**Format Example:**
+`Cafe-Athena-The-Manual-Current-Version.md` is the **human-facing index only** — used for structural reference, not for number assignment.
+
+**Example scan output:**
 
 ```
-# Chapter 9 - The Pâtissier
-
-## 09-01 Royal Icing (The Base)
-## 09-02 Sugar Paste (The Medium)
-## 09-03 Spicy Brown Butter & Lemon Cheesecake Cookies
+Chapter scanned: Chapter 9 - The Pâtissier
+Last 3 entries found: 09-04 · 09-05 · 09-06
+Assigned number: 09-07
+Confirm this is correct before adding to the Manual.
 ```
-
-Claude scans this to find the last entry and assign 09-04 to the next recipe.
 
 ---
 
@@ -295,6 +293,9 @@ Run in the Claude Code CLI (Antigravity). Full definitions in `.agents/workflows
 | `/glossary-pull` | `/glossary-pull 04-15` | Merge recipe glossary terms into main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Add missing Keywords + Category sections |
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
+| `/register-recipe` | `/register-recipe 12-20` | Register new entry in `recipes.json` after Mode 2 |
+| `/sync-registry` | `/sync-registry` | Sync `recipes.json` against live Manual directory |
+| `/pipeline` | `/pipeline 04-15` | Run all pending pipeline stages for a recipe |
 | `/recipe-hero-image` | `/recipe-hero-image 07-13` | Build Gemini image prompt (Create mode) |
 | `/recipe-hero-image optimize` | `/recipe-hero-image optimize all` | Convert PNG → WebP, delete originals |
 | `/recipe-hero-image insert` | `/recipe-hero-image insert 12-08 "after shapes list" "Caption"` | Insert `[ref:]` shortcode at position |

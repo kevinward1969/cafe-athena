@@ -64,17 +64,16 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
 
   ┌──────────────────────────┐       ┌──────────────────────────────────────┐
   │   GEMINI GEM 1           │       │   GEMINI GEM 2                       │
-  │   The Chef               │       │   The Visual Director                │
+  │   The Chef (fallback)    │       │   The Visual Director                │
   │   (All 3 Modes)          │       │   (Image generation only)            │
-  │   v3.7                   │       │   v1.1                               │
-  └──────────┬───────────────┘       └──────────────────────┬───────────────┘
-             │ Generates recipe brief                        │ Consumes brief
-             │ + image prompt                                │ → outputs hero image
-             └───────────────────────────────────────────────┘
-
+  │   v3.8                   │       │   v1.1                               │
+  └──────────────────────────┘       └──────────────────────┬───────────────┘
+                                                            │ Consumes brief
+                                                            │ → outputs hero image
+                                                            │
   ┌──────────────────────────────────────────────────────────────────────────┐
-  │   CLAUDE DESKTOP AGENT (Claude.ai Projects / Desktop)                    │
-  │   PROJECT_INSTRUCTIONS.md v1.6                                           │
+  │   CLAUDE DESKTOP AGENT (Claude.ai Projects / Desktop) — PRIMARY          │
+  │   PROJECT_INSTRUCTIONS.md v1.9                                           │
   │   All 3 modes | GitHub connector (read) | MCP filesystem (read+write)    │
   └──────────────────────────────────────────────────────────────────────────┘
 
@@ -96,6 +95,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
   ┌──────────────────────────────────────────────────────────────────────────┐
   │   SHARED KNOWLEDGE BASE (project filesystem)                             │
   │   Guidance/Recipe-Format-Standard.md   ← formatting truth               │
+  │   Guidance/Taxonomy.md                 ← controlled vocabulary truth     │
   │   Guidance/Cafe-Athena-Workflow-Guide.md                                 │
   │   The Manual/ (chapters + live index)  ← XX-YY assignment truth         │
   │   PROJECT_STATUS.md                    ← session state bridge            │
@@ -110,14 +110,16 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
 Concept / Idea
      │
      ▼
-[Gemini Gem 1 — Mode 1]   ←→   [Claude Desktop / Claude Code — Mode 1]
-  Iterative development           (Alternative surface for same work)
+[Claude Desktop — Mode 1]   ←→   [Claude Code / Gem 1 fallback — Mode 1]
+  Iterative development             (Alternative surfaces for same work)
      │
      │ User says "Finalize"
      ▼
-[Gemini Gem 1 — Mode 2]   ←→   [Claude Code — Mode 2 via /new-recipe]
-  Manuscript formatting           Automated: format audit + keywords + glossary
-  + XX-YY index assignment         + deploy + commit
+[Claude Desktop — Mode 2]   ←→   [Claude Code — Mode 2 via /new-recipe]
+  Manuscript formatting             Automated: format audit + keywords + glossary
+  + XX-YY index assignment          + deploy + commit
+     │
+     │ CLAUDE CODE HANDOFF block → /register-recipe [XX-YY]
      │
      │ File written to The Manual/
      ▼
