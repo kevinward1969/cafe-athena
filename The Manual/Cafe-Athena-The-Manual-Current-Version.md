@@ -157,7 +157,7 @@
 
 - 09-02 Café Athena - Spicy Brown Butter & Lemon Cheesecake Cookies
 
-- 09-03 Café Athena - Spicy Brown Butter & Lemon Cheesecake Cookies (v2)
+- 09-03 Café Athena - Lemon Blackberry Tart
 
 - 09-04 Café Athena - Brandy-Infused Canelés de Bordeaux
 
@@ -228,6 +228,7 @@
 * 12-21 Café Athena \- Basic B (Starch-Based Batter)
 * 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 * 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
+* 12-24 Café Athena \- Foundation Curd (The Lemon Protocol)
 
 # REFERENCE
 
