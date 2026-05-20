@@ -4083,7 +4083,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-14",
+        "lastRun": "2026-05-19",
         "status": "clean",
         "issues": []
       },
@@ -4123,9 +4123,11 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-14",
-        "status": "clean",
-        "issues": []
+        "lastRun": "2026-05-19",
+        "status": "issues_found",
+        "issues": [
+          "section_order"
+        ]
       },
       "hasVariations": true,
       "cuisine": "French",

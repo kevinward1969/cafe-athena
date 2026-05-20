@@ -208,6 +208,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
+- Glucosinolate: A class of sulfur-containing compounds found in Brassica vegetables (Brussels sprouts, broccoli, cabbage). When cells are damaged by cutting or heat, glucosinolates break down into pungent sulfur compounds. Blanching partially dissolves them into the cooking water, mellowing the vegetable's flavor.
 - Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
 - Gluten: An elastic protein network formed when glutenin and gliadin in flour combine with water and are mechanically worked. Gluten gives pasta its structure and chew.
 - Glutenin: A key protein found in wheat flour that contributes to dough elasticity and extensibility.
@@ -368,6 +369,7 @@ No glossary terms yet.
 - Polyphenol Oxidase: An enzyme found in plants that causes browning when exposed to oxygen.
 - Polysaccharide: A complex carbohydrate consisting of many sugar units linked together, forming a branching, three-dimensional structure.
 - Ponzu: Japanese condiment combining soy sauce with citrus juice (traditionally yuzu). The name derives from the Dutch word "pons" (punch) and the Japanese "su" (vinegar).
+- Pot Likker: The braising liquid produced when greens, smoked pork, and aromatics are cooked together over low heat for an extended period. The liquid concentrates flavor from the pork, gelatin from the collagen, and leached compounds from the greens, producing a savory, silky broth served alongside the greens or used for dunking cornbread.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
@@ -393,6 +395,7 @@ No glossary terms yet.
 - Reduction: Concentrating a liquid, typically a sauce, by simmering it to evaporate water and intensify flavors.
 - Reductive Sugar Reduction: A technique where sugar is slowly caramelized in a liquid with the addition of an acid, such as vinegar, to minimize browning and preserve delicate flavors.
 - Render: To cook fat-rich meat over moderate heat so the fat melts out of the tissue, leaving behind crisp, browned solids.
+- Rendered Fat: Fat that has been melted out of a protein (bacon, duck, ham) by gentle heat, leaving behind crisped solids and a pure cooking fat in the pan.
 - Rest: Allowing a cooked dish to sit undisturbed, allowing flavors to meld and the texture to stabilize.
 - Retard: A controlled chilling period for dough, typically in the refrigerator, to slow down fermentation and develop flavor complexity.
 - Retrogradation: The recrystallization of starch molecules as they cool, causing the food to harden or weep liquid (syneresis).
@@ -478,6 +481,7 @@ No glossary terms yet.
 
 - Tajín: A Mexican seasoning blend consisting primarily of mild chili peppers, dehydrated lime, and sea salt. Used for bright acidity and gentle heat, most famously on fresh fruit, corn, and vegetables.
 - Tamis: A flat, drum-shaped sieve used to create perfectly smooth purées.
+- Tannin: Naturally occurring polyphenol compounds found in leafy greens (particularly collards, kale, and mustard greens) that produce a dry, bitter sensation on the palate. Sugar added late in the braise suppresses the perception of tannin without making the dish sweet.
 - Tannins: Polyphenolic compounds found in wood, possessing inherent antimicrobial properties that can inhibit bacterial growth through various mechanisms.
 - Tapioca Starch: A gluten-free starch extracted from the cassava root, used as a binding agent and to create a clear, snapping set in fried preparations.
 - Temper: To bring an ingredient to a specific temperature (usually room temperature) to ensure it blends properly without seizing or melting other ingredients.
