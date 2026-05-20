@@ -149,6 +149,8 @@ Run only if `needs_rebuild = true` and user approved in Phase 5.
 - **Never version-bump a no-content-change run.** Version increments only when folio or glossary files are written.
 - **Always prompt before deploy.** Even if everything looks clean, require explicit approval before rsync.
 - **Hero image absence is a hard stop.** Do not build or deploy without the image present.
+- **Always check the image folder before reporting a hard stop.** The pipeline takes long enough that the image is typically placed while earlier stages are running. Check `site/public/images/[id].webp` — never assume it is missing.
 - **Hero image spec warnings are non-blocking.** Warn on dimension or size issues, but continue.
 - **Glossary definitions must be universal.** Strip recipe-specific language before writing to the main glossary.
 - **One commit per pipeline run.** Bundle everything — folio changes, glossary changes, registry updates, PROJECT_STATUS — into a single commit.
+- **Run as a single atomic command.** Never run pipeline stages manually and piecemeal. `/pipeline [id]` is the only entry point after a folio is written. "Put it through the pipeline" is authorization to run to completion including deploy.

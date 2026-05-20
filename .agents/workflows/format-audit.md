@@ -11,7 +11,16 @@ description: Audits recipes and technique folios for formatting and structural a
 3. Determine if the target documents are Recipes or Technique Folios.
 4. Read `Guidance/Recipe-Format-Standard.md` — it contains format rules for both Recipes and Technique Folios (see the "Technique Folio Format" section).
 5. Loop through each discovered target document and Read its entirety.
-6. Evaluate each document against the appropriate rules based on its type:
+6. **What NOT to flag** — these are established folio conventions, not violations:
+   - Blanching, toasting, or similar prep-cooking actions in Mise En Place (legitimate professional prep — happens before service)
+   - Ingredient line capitalization (e.g., `200 g Short-grain white rice`) — consistent across the manual
+   - Phase heading style variation (`### Phase N — Title` vs `**Phase N: Title**`) — both are used
+   - Glossary entries without bold markers (`- Term: Definition`) — agent convention overrides the standard's bold format
+   - Any pattern consistent across multiple audit-clean folios — check 2–3 existing folios before flagging
+
+   If in doubt: check existing folios first. If they do it, it is convention — do not flag. Fix the rule, not the folio.
+
+7. Evaluate each document against the appropriate rules based on its type:
 
    **For Recipes**, check:
    - **Vertical Order:** Title Block → Headnote → Ingredients → Mise En Place → Method → Variations → Chef's Notes → Glossary → Keywords → Category
@@ -29,11 +38,11 @@ description: Audits recipes and technique folios for formatting and structural a
    - **No citation markers:** No `[source]`, `[1]`, or similar.
    - **Body headers:** Section headers use **bold inline text**, not H2 headings.
    - Do NOT flag missing Mise En Place, Ingredients, Yield/Timing, or Method phases — these do not apply to folios.
-7. **AUTHORIZATION LAYER (CRITICAL):** Do NOT automatically apply the changes. Instead, stop and present an evaluation to the user.
+8. **AUTHORIZATION LAYER (CRITICAL):** Do NOT automatically apply the changes. Instead, stop and present an evaluation to the user.
    - For each analyzed document, provide a short, bulleted list of the suggested changes (keep each bullet point to 1-2 concise sentences).
    - Example: "Recipe 04-15: Move the step 'Sauté the baby spinach' from Mise En Place to Phase 1 of the Method."
    - Example: "Recipe 04-15: Update the temperature format to include both Fahrenheit and Celsius in step 2."
-8. Prompt the user: "Do you accept these changes as is, would you like to recommend modifications, or do you need clarification?"
-9. **WAIT** for the user's response. Do not proceed until the user authorizes the changes.
-10. Once authorized (incorporating any specific modifications the user requested), apply the updates safely using the Edit tool (for targeted replacements) or the Write tool (for full file rewrites).
-11. Present a final brief confirmation of what was successfully updated.
+9. Prompt the user: "Do you accept these changes as is, would you like to recommend modifications, or do you need clarification?"
+10. **WAIT** for the user's response. Do not proceed until the user authorizes the changes.
+11. Once authorized (incorporating any specific modifications the user requested), apply the updates safely using the Edit tool (for targeted replacements) or the Write tool (for full file rewrites).
+12. Present a final brief confirmation of what was successfully updated.

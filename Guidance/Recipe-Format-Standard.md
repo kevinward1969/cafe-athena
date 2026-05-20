@@ -90,6 +90,15 @@ The Title Block must be executed as **three distinct, independent lines**. Inser
 - If recipe requires Morton's, specify and note conversion
 - Never use generic "salt" - always specify brand/type
 
+**Egg Weight Convention:**
+
+When a recipe uses egg counts rather than weights, add an approximate weight in parentheses:
+
+- `2 large eggs (approximately 100 g)`
+- `3 large egg yolks (approximately 54 g)`
+
+Reference: large whole egg ≈ 50 g (without shell); large egg yolk ≈ 18 g. Do not change the recipe's calculation logic — the weight is a reference anchor only.
+
 **Special Notations:**
 
 - "(weighed before browning)" when ingredient changes state
@@ -364,6 +373,19 @@ These recipe format rules do **not** apply to technique folios and should not be
 - Any bracketed reference notation
 
 **Why:** These are manuscript-ready recipes for cookbook publication. Citations break the clean copy requirement.
+
+---
+
+## FIX RULES, NOT FOLIOS
+
+When an audit or validator flags something that is consistent across many existing folios, treat it as a validator bug — not a content bug. Established folio convention is canonical over a strict rule.
+
+**Fix at the source:** update `Recipe-Format-Standard.md` + `scripts/audit.py` + relevant agent surfaces. Do not force folios to conform to a validator that hasn't caught up to editorial practice.
+
+**Precedents:**
+- Keywords minimum lowered from 10 → 8 to accommodate foundation/technique folios
+- `style: Technique Folio` accepted alone (no `cuisine:` or `course:` required) for technique folios
+- Glossary entries use `- Term: Definition` format (no bold markers) per agent convention — do not flag
 
 ---
 
