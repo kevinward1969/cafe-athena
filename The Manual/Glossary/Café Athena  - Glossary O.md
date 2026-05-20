@@ -6,6 +6,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 - Offset Cooking (Two-Zone Fire): A grilling technique utilizing two distinct heat zones – one with direct heat and one with indirect heat – for precise temperature control.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
+- Offset spatula: A long-bladed spatula with a bend near the handle, used for spreading batters and fillings into even layers in baking pans.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Oil-in-Water Emulsion: A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
 - Oroshi: Japanese term for grating or grated; in culinary context, refers to the fine grating of daikon, ginger, or garlic.

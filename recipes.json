@@ -4199,6 +4199,49 @@
       ]
     },
     {
+      "id": "09-07",
+      "title": "Gooey Butter Cake",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-20",
+        "status": "clean",
+        "issues": []
+      },
+      "cuisine": "American",
+      "style": "Pastry",
+      "family": "Cake",
+      "course": "Dessert",
+      "dietary": null,
+      "keywords": [
+        "gooey butter cake",
+        "St. Louis",
+        "cream cheese",
+        "sheet cake",
+        "bar dessert",
+        "American regional",
+        "stand mixer",
+        "powdered sugar",
+        "shortbread base",
+        "salted butter",
+        "vanilla",
+        "Midwest classic",
+        "baked dessert"
+      ]
+    },
+    {
       "id": "10-01",
       "title": "High-Pressure White Chicken Stock (Fond Blanc)",
       "chapter": 10,

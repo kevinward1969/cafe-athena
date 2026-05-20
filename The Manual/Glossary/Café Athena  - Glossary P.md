@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## P
 
+- Paddle attachment: The flat, leaf-shaped stand mixer attachment used for creaming, beating dense batters, and mixing — as opposed to the whisk (aeration) or dough hook (kneading).
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
 - Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French paner, "to bread." Also used as an adjective: "a panéed cutlet."
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.

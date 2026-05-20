@@ -26,6 +26,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
 - Sensory Cue: A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
 - Separation: The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
+- Set inhibitor: Any dissolved solute — sugar, salt, alcohol — that interferes with protein or starch network formation during cooking or baking, keeping a mixture fluid or soft at temperatures that would otherwise cause it to firm.
 - Shear Force: A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.
