@@ -16,7 +16,7 @@ Each AI surface has a distinct role in the day-to-day workflow. They are not int
 | ------- | -------- | --- |
 | **Claude Desktop** | Recipe development (Mode 1 — The Lab), recipe formatting (Mode 2 — The Manual), technique education (Mode 3 — The MasterClass) | Easier conversational interface; can write directly to the filesystem via MCP |
 | **Claude Code (sub-agent)** | Development, format audits, QA, web functions, glossary pulls, deploys | Full tool access (Read/Write/Edit/Grep/Glob/Bash); slash-command workflows; best for agentic file operations |
-| **Gemini Gem 1** | Alternative surface for recipe development when preferred | Useful for exploratory ideation; generates image briefs for Gem 2 |
+| **Gemini Gem 1** | Fallback surface for recipe development | Maintained in sync with canonical master; Claude Desktop is the primary creative surface |
 | **Gemini Gem 2** | Hero image creation for recipes and web images | Purpose-built for image generation; consumes briefs from Gem 1 or `/recipe-hero-image` |
 
 **The division is intentional.** Claude Desktop handles the creative and culinary work. Claude Code handles the technical and operational work. Gemini handles all image generation. They share the same cookbook manuscript (`The Manual/`) and format standard (`Guidance/Recipe-Format-Standard.md`) as the common source of truth.
@@ -29,7 +29,7 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 
 | Agent | File | Platform | Tools | Primary Role |
 | ----- | ---- | -------- | ----- | ------------ |
-| **Gemini Gem 1 — The Chef** | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` | Google Gemini Gems | Chat only | All three modes (Lab / Manual / MasterClass) |
+| **Gemini Gem 1 — The Chef** | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` | Google Gemini Gems | Chat only | All three modes (Lab / Manual / MasterClass) — maintained fallback; Claude Desktop is primary |
 | **Gemini Gem 2 — The Visual Director** | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Hero image creation for recipes |
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
@@ -154,9 +154,9 @@ The current architecture is well-designed in several important ways:
 
 **Issue:** The same three-mode system prompt is maintained in three separate files:
 
-- `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.7)
-- `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.6)
-- `.claude/agents/Cafe Athena Chef.agent.md` (v1.5)
+- `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.8 — fallback)
+- `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.9)
+- `.claude/agents/Cafe Athena Chef.agent.md` (v1.11 — canonical master)
 
 Each surface has diverged slightly. Changes to one do not automatically propagate to the others. Over time, the agents will give inconsistent advice.
 
@@ -302,7 +302,7 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 | Claude Code culinary sub-agent | `.claude/agents/Cafe Athena Chef.agent.md` |
 | Claude Code markdownlint sub-agent | `.claude/agents/Markdownlint QA.agent.md` |
 | Claude Desktop / Claude.ai system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
-| Gemini Gem 1 instructions (culinary AI) | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
+| Gemini Gem 1 instructions (fallback culinary AI) | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
 | Gemini Gem 2 instructions (image AI) | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` |
 | Slash-command workflow definitions | `.agents/workflows/` |
 | Markdownlint config | `.markdownlint.json` |

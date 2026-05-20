@@ -64,7 +64,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 |---------|-----------------|
 | **Claude Desktop** | Recipe development (Mode 1), formatting (Mode 2), technique education (Mode 3) — all culinary creative work |
 | **Claude Code** (you) | Format audits, glossary operations, web/site development, QA, deploys, image optimization |
-| **Gemini Gem 1** | Alternative surface for recipe development; generates hero image briefs |
+| **Gemini Gem 1** | Fallback surface for recipe development (maintained, not primary) |
 | **Gemini Gem 2** | Hero image and web image generation only |
 
 ---
@@ -77,7 +77,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `recipes.json` | Pipeline registry — single source of truth for per-recipe state. Each entry has `stages` (formatAudit, glossaryPull, heroImage, heroImageOptimized, deployed, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. Run `python3 scripts/audit.py --status` for a rollup. |
 | `IDEAS.md` | Future recipe, folio, technique, and editorial ideas — low-priority backlog. Not active work; drop new ideas here. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
-| `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
+| `AGENT_CHANGELOG.md` | Version history for all agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.agents/workflows/` | Slash-command workflow definitions |
@@ -97,7 +97,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 2. Add an entry to `AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`, and any `.agents/workflows/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`, and any `.agents/workflows/*.md` file.
 
 ---
 
@@ -107,8 +107,8 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PRO
 
 | File Changed | Manual Update Required |
 |-------------|----------------------|
-| `.claude/agents/Cafe Athena Chef.agent.md` | Copy changes to `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (Gemini Gem 1) and `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (Claude Desktop) |
-| `Guidance/Recipe-Format-Standard.md` | Re-attach the updated file in Claude Desktop (it is a file attachment, not pasted text); verify Gemini Gem 1 instructions still reference it correctly |
+| `.claude/agents/Cafe Athena Chef.agent.md` | Copy changes to `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (Claude Desktop) and `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (Gemini Gem 1 fallback) |
+| `Guidance/Recipe-Format-Standard.md` | No manual action needed — Claude Desktop reads this file live from the filesystem via MCP |
 | `.agents/workflows/*.md` | No external update needed — workflows run in Claude Code only |
 | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | Paste updated content into the Gemini Gem 2 configuration |
 | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Paste updated content into the Claude Desktop project instructions |

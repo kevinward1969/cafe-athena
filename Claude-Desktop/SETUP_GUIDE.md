@@ -127,7 +127,7 @@ To use the advanced agentic skills referenced in the documentation:
 
 ---
 
-## KEY FUNCTIONAL DIFFERENCES FROM GEM INSTRUCTIONS
+## KEY DIFFERENCES FROM GEM INSTRUCTIONS (CONDENSED FORMAT)
 
 This condensed version maintains all functionality by:
 

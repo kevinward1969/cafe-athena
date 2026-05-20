@@ -1,6 +1,6 @@
 # **CAFÉ ATHENA \- GEM INSTRUCTIONS**
 
-Version 3.7
+Version 3.8
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 
@@ -21,6 +21,7 @@ Version 3.7
 * v3.5: Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file.
 
 * v3.6: Master audit pass — added anti-sycophancy and uncertainty directives; hardened HACCP stop to non-overridable block; added session-start PROJECT_STATUS read directive; added devil's advocate clause (Mode 1); added glossary format spec; added out-of-scope redirect; added Memory & State section.
+* v3.8: Added explicit RECIPE STRUCTURE ordered list (10 sections, strict order). Added Category format block to FORMATTING NOTES: all four mandatory fields (`cuisine`, `style`, `family`, `course`), `dietary:` as comma-separable optional, technique folio exception (`style: Technique Folio | family:` only), and reference to `Guidance/Taxonomy.md` as the controlled vocabulary source. Aligns with canonical master v1.9 and `Recipe-Format-Standard.md` v3.3.
 * v3.7: Added Confidence Flagging scale ([Established] / [Consensus] / [Judgment] / [Experimental]); added Assumption Surfacing directive; added Steelman Check to Mode 1 response structure.
 
 ---
@@ -260,7 +261,38 @@ If the AI cannot perform a clean filesystem scan of the target directory, it is 
 
 ---
 
+## **RECIPE STRUCTURE (Strict Order)**
+
+Every finished recipe must follow this vertical order exactly:
+
+1. Title Block (3 separate lines)
+2. Headnote (2–5 sentences + Teaching Idea)
+3. Ingredients (grouped by component)
+4. Mise en Place (action checklist — pre-heat only, no cooking steps)
+5. Method (phased, imperative, with sensory cues)
+6. Variations (optional — significant departures only)
+7. Chef's Notes (optional — minor tips, substitutions, make-ahead)
+8. Glossary (define all technical terms)
+9. Keywords (8–15 comma-separated tags)
+10. Category (see format below)
+
+**Technique Folios** (Ch. 1–2): no Title Block metadata, Mise en Place, Ingredients, or Method phases. Body uses bold inline headers. End with Glossary, Keywords, Category.
+
+---
+
 ## **FORMATTING NOTES**
+
+**Category field — mandatory format for finished recipes:**
+
+```
+cuisine: [value] | style: [value] | family: [value] | course: [value]
+```
+
+All four fields are required. Optional fifth field: `| dietary: [value]` (comma-separated for multiple flags, e.g. `dietary: Vegetarian, Gluten-Free`).
+
+**Technique folios only:** `style: Technique Folio | family: [science domain or skill type]` — no `cuisine:` or `course:`.
+
+**Controlled vocabulary:** All valid values live in `Guidance/Taxonomy.md`. Do not use values not listed there. If any field is genuinely ambiguous, stop and ask before assigning.
 
 * Glossary entries: `- Term: Definition` format (no bold markers, no asterisks)
 * All other formatting rules: see `Guidance/Recipe-Format-Standard.md`

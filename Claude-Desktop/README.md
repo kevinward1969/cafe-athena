@@ -80,7 +80,7 @@ Say: `"Switch to Mode 2: The Manual"` anytime
 
 ---
 
-## 🔑 KEY DIFFERENCES FROM ORIGINAL GEM INSTRUCTIONS
+## 🔑 KEY DIFFERENCES FROM GEM INSTRUCTIONS (CONDENSED FORMAT)
 
 The condensed PROJECT_INSTRUCTIONS.md maintains **all functionality** but:
 
