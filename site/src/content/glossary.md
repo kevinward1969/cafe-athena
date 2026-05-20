@@ -83,6 +83,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
 - Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
 - Casein: A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
+- Caster sugar: Superfine granulated sugar that dissolves more readily than standard granulated sugar; preferred in curds and smooth sauces where undissolved crystals would create unwanted texture.
 - Cell Wall Integrity: The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.
 - Cellular Architecture: The complex arrangement of cells and their structural components within a food matrix, significantly altered by vacuum compression.
 - Cellular Collapse: The structural deformation of food cells during vacuum compression, resulting in a denser, more uniform texture.
@@ -327,6 +328,7 @@ No glossary terms yet.
 
 - Offset Cooking (Two-Zone Fire): A grilling technique utilizing two distinct heat zones – one with direct heat and one with indirect heat – for precise temperature control.
 - Offset Method: A technique where the fire is banked on one side of the grill and the food is placed on the other, utilizing indirect convection heat.
+- Offset spatula: A long-bladed spatula with a bend near the handle, used for spreading batters and fillings into even layers in baking pans.
 - Oignon Piqué: French for "pricked onion." A traditional technique of attaching aromatics (clove, bay leaf) to an onion to flavor milk or stocks easily.
 - Oil-in-Water Emulsion: A stable emulsion where tiny droplets of oil (fat) are dispersed within a continuous aqueous phase (water).
 - Oroshi: Japanese term for grating or grated; in culinary context, refers to the fine grating of daikon, ginger, or garlic.
@@ -341,6 +343,7 @@ No glossary terms yet.
 
 ## P
 
+- Paddle attachment: The flat, leaf-shaped stand mixer attachment used for creaming, beating dense batters, and mixing — as opposed to the whisk (aeration) or dough hook (kneading).
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
 - Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French paner, "to bread." Also used as an adjective: "a panéed cutlet."
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
@@ -420,6 +423,7 @@ No glossary terms yet.
 - Salamoia: An Italian brine of salt and water used to keep flatbreads moist during high-heat baking.
 - Salinity: The concentration of dissolved salt in a solution, expressed as a percentage of total weight. The primary control variable in lacto-fermentation.
 - Sambal Oelek: Indonesian chili paste made from raw red chilies, vinegar, and salt. Pure heat with minimal flavor additions — a clean chili substitute.
+- Sanding Method: A pastry mixing technique where cold fat is worked into dry ingredients until the mixture resembles coarse sand, coating flour particles in fat before any moisture is introduced — the primary method for producing short, crumbly pastry.
 - Sanitation Vectoring: Employing spatial segregation—distinct zones for raw, cooked, and contaminated materials—effectively disrupts bacterial transmission pathways.
 - Sanitize: To eliminate or destroy pathogenic microorganisms through the application of a cleaning agent.
 - Sansho pepper: Japanese spice from the prickly ash tree; produces a citrus-forward, mildly numbing sensation similar in mechanism to Sichuan peppercorn but lighter and more aromatic.
@@ -436,6 +440,7 @@ No glossary terms yet.
 - Semolina: Coarse flour made from Durum wheat. It has a high protein content and provides a distinct "bite" compared to soft All-Purpose flour.
 - Sensory Cue: A descriptive term referring to a noticeable change in texture or appearance during the preparation process, indicating successful emulsification.
 - Separation: The desired outcome of this technique, referring to the individual, distinct grains of pasta remaining separate rather than clumped together.
+- Set inhibitor: Any dissolved solute — sugar, salt, alcohol — that interferes with protein or starch network formation during cooking or baking, keeping a mixture fluid or soft at temperatures that would otherwise cause it to firm.
 - Shear Force: A force applied parallel to a surface, utilized in blenders to break down cell walls and achieve particle destruction.
 - Shear Power: The physical force applied by a blender blade that breaks oil droplets into microscopic sizes, creating a tighter emulsion.
 - Shear-Thinning: A property exhibited by certain fluids (like xanthan gum solutions) where viscosity decreases under shear stress (e.g., shaking or blending), allowing them to flow more easily when agitated.

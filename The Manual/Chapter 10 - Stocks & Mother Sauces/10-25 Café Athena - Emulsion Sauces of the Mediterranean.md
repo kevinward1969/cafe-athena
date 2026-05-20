@@ -13,6 +13,7 @@ Emulsification is the art of convincing fat and water to coexist. Across the Med
 ---
 
 ### Avgolemono
+
 *Greece — tempered egg-lemon emulsion*
 
 A silky hot sauce built on clean chicken stock. Served warm spooned over stuffed dolma (08-08) or allowed to cool to room temperature as a finishing drizzle over grain dishes and roasted vegetables. See Fond Blanc (10-01) for the recommended stock base.
@@ -22,15 +23,18 @@ A silky hot sauce built on clean chicken stock. Served warm spooned over stuffed
 **Ingredients**
 
 **The Emulsion Base**
+
 - 2 large egg yolks, room temperature
 - 1 large whole egg, room temperature
 - 30ml (2 tbsp) fresh lemon juice
 
 **The Stock**
+
 - 500ml (2 cups) Fond Blanc (10-01), hot
 - 2g (½ tsp) Diamond Crystal kosher salt
 
 **To Finish**
+
 - Fresh lemon juice, to taste
 - White pepper, to taste
 
@@ -54,6 +58,7 @@ A silky hot sauce built on clean chicken stock. Served warm spooned over stuffed
 ---
 
 ### Aioli
+
 *Provence / Spain — egg yolk mechanical emulsion*
 
 The cold counterpart to hollandaise (10-08) — same lecithin chemistry, no heat required. Pure, assertive garlic flavor with a rich, glossy body. See Master Mayonnaise (10-09) for the foundational technique this sauce shares.
@@ -63,15 +68,18 @@ The cold counterpart to hollandaise (10-08) — same lecithin chemistry, no heat
 **Ingredients**
 
 **The Emulsion Base**
+
 - 2 large egg yolks, room temperature
 - 3–4 cloves garlic, minced to a paste with a pinch of salt
 - 15ml (1 tbsp) fresh lemon juice
 - 5ml (1 tsp) Dijon mustard
 
 **The Oil**
+
 - 200ml (¾ cup + 1 tbsp) extra virgin olive oil
 
 **To Finish**
+
 - 2g (½ tsp) Diamond Crystal kosher salt
 - Cold water, as needed to adjust consistency
 
@@ -93,6 +101,7 @@ The cold counterpart to hollandaise (10-08) — same lecithin chemistry, no heat
 ---
 
 ### Skordalia
+
 *Greece — potato starch emulsion*
 
 A thick, aggressively garlicky sauce where boiled potato replaces egg yolk as the emulsifier. Dense and deeply satisfying alongside fried fish, roasted beets, or grilled flatbread.
@@ -102,14 +111,17 @@ A thick, aggressively garlicky sauce where boiled potato replaces egg yolk as th
 **Ingredients**
 
 **The Starch Base**
+
 - 300g (~2 medium) starchy potatoes (Russet or Yukon Gold), peeled and boiled
 - 4–5 cloves garlic, minced to a paste with a pinch of salt
 - 30ml (2 tbsp) fresh lemon juice
 
 **The Oil**
+
 - 120ml (½ cup) extra virgin olive oil
 
 **To Finish**
+
 - 60ml (¼ cup) warm water, as needed
 - 4g (1 tsp) Diamond Crystal kosher salt
 - White pepper, to taste
@@ -132,6 +144,7 @@ A thick, aggressively garlicky sauce where boiled potato replaces egg yolk as th
 ---
 
 ### Toum
+
 *Lebanon — garlic protein emulsion*
 
 The only egg-free sauce in this collection. Toum achieves a stable, cloud-white emulsion through garlic's own proteins and fiber — no lecithin required. Intensely garlicky, light as whipped cream, and structurally unlike anything else in this chapter.
@@ -141,11 +154,13 @@ The only egg-free sauce in this collection. Toum achieves a stable, cloud-white 
 **Ingredients**
 
 **The Garlic Base**
+
 - 100g (about 1 full head) garlic cloves, peeled
 - 5g (1¼ tsp) Diamond Crystal kosher salt
 - 30ml (2 tbsp) fresh lemon juice, divided
 
 **The Emulsion**
+
 - 240ml (1 cup) neutral oil (grapeseed or sunflower — not olive oil)
 - 30ml (2 tbsp) ice water, divided
 

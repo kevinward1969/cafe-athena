@@ -1,7 +1,7 @@
 # Café Athena — Controlled Vocabulary & Taxonomy
 
 **Version:** 1.0
-**Last Updated:** 2026-05-18
+**Last Updated:** 2026-05-20
 
 This is the single source of truth for all indexing field values used across:
 
@@ -249,6 +249,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 | `Small Cake & Pastry` | Canelé, financier, madeleine, kouglof, friand — individually portioned baked items |
 | `Tart` | Tarts and tartlets; shell sourced from Ch. 12 |
 | `Choux` | Éclairs, profiteroles, Paris-Brest, choux au craquelin (future) |
+| `Custard & Baked Cream` | Baked egg-set cream preparations: crème brûlée, pot de crème, clafoutis, flan |
 | `Posset & Panna Cotta` | Set creams: posset, panna cotta, bavarian (future) |
 | `Frozen Dessert` | Ice cream, sorbet, semifreddo (future) |
 | `Bread Pudding` | Custard-soaked bread desserts (future) |

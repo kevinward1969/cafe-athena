@@ -64,11 +64,13 @@ The dolma is one of the oldest prepared foods in the Mediterranean world, and th
 ## Mise en Place (Action Checklist)
 
 **Leaf Preparation (Fresh — Primary Method):**
+
 - Bring a large pot of water to a boil. Have an ice bath ready.
 - Working in batches of 6–8, blanch fresh grape leaves for 30–45 seconds — just until they turn from bright to olive green and become pliable. Do not exceed 60 seconds.
 - Transfer immediately to the ice bath. Pat completely dry before rolling. Trim any thick stems flush with the leaf base with scissors.
 
 **Filling Prep (All Variants):**
+
 - Toast the pine nuts in a dry skillet over medium heat, stirring constantly, until golden. Set aside to cool.
 - Soak the rice in cold water for 20 minutes, then drain and rinse until the water runs clear.
 - Dice all aromatics (onion, shallot) to a fine, uniform brunoise.
@@ -91,41 +93,41 @@ The dolma is one of the oldest prepared foods in the Mediterranean world, and th
 
 ### Phase 2 — Roll
 
-5. **Prepare the Pot:** Line the bottom of your braising pot with the lemon rounds. This prevents the bottom layer of dolmas from scorching and adds brightness to the braising steam.
+1. **Prepare the Pot:** Line the bottom of your braising pot with the lemon rounds. This prevents the bottom layer of dolmas from scorching and adds brightness to the braising steam.
 
-6. **Roll Technique:** Place a leaf vein-side up on your work surface, stem end toward you. Place 1 heaped teaspoon (about 15 g) of filling in the center, just above the stem junction. Do not overfill — the rice will expand during cooking and an overfilled roll will burst.
+2. **Roll Technique:** Place a leaf vein-side up on your work surface, stem end toward you. Place 1 heaped teaspoon (about 15 g) of filling in the center, just above the stem junction. Do not overfill — the rice will expand during cooking and an overfilled roll will burst.
 
    Fold the bottom of the leaf up over the filling. Fold both sides in toward the center. Roll firmly away from you, keeping even tension throughout. The roll should feel snug but not compressed.
 
    **Sensory Cue:** A properly rolled dolma holds its shape when you release it without unraveling. If it unravels, your filling-to-leaf ratio is off or the leaf was too wet.
 
-7. **Pack the Pot:** Place each finished roll seam-side down in the pot, packing them tightly against each other in concentric rows. Tight packing is structural — the rolls brace each other and prevent unraveling during the braise. Add a second layer if needed.
+3. **Pack the Pot:** Place each finished roll seam-side down in the pot, packing them tightly against each other in concentric rows. Tight packing is structural — the rolls brace each other and prevent unraveling during the braise. Add a second layer if needed.
 
 ### Phase 3 — Braise
 
-8. **Add Braising Liquid:** Combine the remaining 40 ml of olive oil, 240 ml water, and a squeeze of lemon juice. Pour over the rolls — the liquid should reach about halfway up the first layer, not submerge them.
+1. **Add Braising Liquid:** Combine the remaining 40 ml of olive oil, 240 ml water, and a squeeze of lemon juice. Pour over the rolls — the liquid should reach about halfway up the first layer, not submerge them.
 
-9. **Weight and Seal:** Place an inverted plate directly on top of the rolls to keep them submerged and stationary. Cover the pot with a tight-fitting lid.
+2. **Weight and Seal:** Place an inverted plate directly on top of the rolls to keep them submerged and stationary. Cover the pot with a tight-fitting lid.
 
-10. **Braise:** Bring to a gentle simmer over medium heat, then reduce to low. Cook for 40–45 minutes. Do not lift the lid during cooking.
+3. **Braise:** Bring to a gentle simmer over medium heat, then reduce to low. Cook for 40–45 minutes. Do not lift the lid during cooking.
 
     **Sensory Cue:** At 40 minutes, lift the lid and pierce one roll with a thin skewer. The rice should offer no resistance — if it catches, re-seal and cook 5 more minutes.
 
-11. **Rest:** Remove from heat and allow to rest, covered, for 20 minutes. The Turkish and Greek versions are served at room temperature or cold — transfer to a platter and finish with a drizzle of good olive oil and lemon wedges.
+4. **Rest:** Remove from heat and allow to rest, covered, for 20 minutes. The Turkish and Greek versions are served at room temperature or cold — transfer to a platter and finish with a drizzle of good olive oil and lemon wedges.
 
 ### Phase 4 — Greek Variant Adjustments
 
-12. The Greek filling is built identically to the Turkish (Phase 1–3) with the ingredient substitutions listed above. Because the olive oil quantity is nearly doubled, the filling will look looser and more unctuous before rolling. This is correct — the oil distributes through the rice during the braise and produces a noticeably silkier texture in the finished roll. Do not add flour or starch to tighten it.
+1. The Greek filling is built identically to the Turkish (Phase 1–3) with the ingredient substitutions listed above. Because the olive oil quantity is nearly doubled, the filling will look looser and more unctuous before rolling. This is correct — the oil distributes through the rice during the braise and produces a noticeably silkier texture in the finished roll. Do not add flour or starch to tighten it.
 
 ### Phase 5 — Armenian/Georgian Variant
 
-13. **Brown the Lamb:** Heat olive oil in a wide skillet over high heat. Add the ground lamb and cook without stirring for 2–3 minutes until a deep brown crust forms on the bottom. Break apart and continue cooking until no pink remains. Drain excess fat, leaving approximately 1 tablespoon in the pan.
+1. **Brown the Lamb:** Heat olive oil in a wide skillet over high heat. Add the ground lamb and cook without stirring for 2–3 minutes until a deep brown crust forms on the bottom. Break apart and continue cooking until no pink remains. Drain excess fat, leaving approximately 1 tablespoon in the pan.
 
     **Sensory Cue:** You want Maillard color on the meat — grey lamb is under-developed and will produce a flat filling.
 
-14. **Build the Filling:** Reduce heat to medium. Add the onion and cook until softened, 6–8 minutes. Add allspice, cinnamon, paprika, cayenne, and black pepper — bloom 60 seconds. Add the drained rice and stir to coat in the spiced fat. Season and cool completely before rolling.
+2. **Build the Filling:** Reduce heat to medium. Add the onion and cook until softened, 6–8 minutes. Add allspice, cinnamon, paprika, cayenne, and black pepper — bloom 60 seconds. Add the drained rice and stir to coat in the spiced fat. Season and cool completely before rolling.
 
-15. **Braise Liquid:** The Armenian/Georgian version braises in crushed tomato thinned with water (1:1 ratio) plus lemon juice rather than the olive oil-water combination. This produces a more acidic, deeply colored braise that complements the lamb. Method is otherwise identical — line with lemon, pack tight, weight, cover, 45–50 minutes.
+3. **Braise Liquid:** The Armenian/Georgian version braises in crushed tomato thinned with water (1:1 ratio) plus lemon juice rather than the olive oil-water combination. This produces a more acidic, deeply colored braise that complements the lamb. Method is otherwise identical — line with lemon, pack tight, weight, cover, 45–50 minutes.
 
     **Sensory Cue:** The braising liquid will reduce to a thick, rust-colored sauce around the rolls. Spoon it over when serving hot.
 
