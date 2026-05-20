@@ -35,3 +35,6 @@ Thumbs.db
 # Google Drive / Cloud
 .gdrive*
 *.gdoc
+
+# Recipe reference PDFs (local working files only)
+RecipeIdeas/
