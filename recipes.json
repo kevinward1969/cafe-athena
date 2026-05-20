@@ -4329,6 +4329,53 @@
       "lastModified": "2026-05-20"
     },
     {
+      "id": "09-10",
+      "title": "Florentine Cannoli",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "cuisine": "Italian",
+      "style": "Modern",
+      "family": "Cookie",
+      "course": "Dessert",
+      "keywords": [
+        "florentine cannoli",
+        "lace cookie shell",
+        "ricotta filling",
+        "mascarpone",
+        "beurre noisette",
+        "sugar glass transition",
+        "Sicilian",
+        "Italian",
+        "hot-shaping technique",
+        "cannoli",
+        "pastry",
+        "caramelized butter",
+        "citrus zest",
+        "pistachios",
+        "chocolate chips"
+      ],
+      "dietary": null,
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-20",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.0",
+      "lastModified": "2026-05-20"
+    },
+    {
       "id": "09-11",
       "title": "Truffle Cake Pops",
       "chapter": 9,
