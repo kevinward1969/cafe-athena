@@ -72,7 +72,7 @@ Skip if `glossaryPull: true`.
 
 Skip if `heroImage: true` AND `heroImageOptimized: true`.
 
-1. Check for `site/public/images/[id].webp`:
+1. **Always check** `site/public/images/[id].webp` before reporting anything. The image is typically placed while earlier pipeline stages are running — never assume it is missing without checking the folder.
 
    **File found:**
    Run a spec check using `sips`:
