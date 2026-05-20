@@ -148,6 +148,7 @@
 - 08-08 Café Athena - The Quintessential Dolma Guide
 - 08-09 Café Athena - Butter-Steamed Asparagus
 - 08-10 Café Athena - Crispy Potato & Onion Pavé Triangles
+- 08-11 Café Athena - Roasted Brussels Sprouts with Warm Honey-Mustard Pan Sauce
 
 ## CHAPTER 9: THE PÂTISSIER
 
