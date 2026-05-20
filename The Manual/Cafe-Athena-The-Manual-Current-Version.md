@@ -165,6 +165,7 @@
 - 09-06 Café Athena - Sweet Potato Brownies
 - 09-07 Café Athena - Gooey Butter Cake
 - 09-08 Café Athena - Lemon Curd Tartlets
+- 09-09 Café Athena - Crème Brûlée
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 

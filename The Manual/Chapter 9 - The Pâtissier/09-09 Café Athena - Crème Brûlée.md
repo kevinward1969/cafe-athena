@@ -1,0 +1,145 @@
+# **Café Athena — Crème Brûlée**
+
+The definitive classic. Silky vanilla custard beneath a shatteringly thick turbinado crust — built on three precision points: a proper temper, a bain-marie thermal buffer, and a wobble-test pull.
+
+**Yield:** 4 ramekins (180 ml each) | **Prep:** 20 min | **Inactive:** 2 hr | **Cook:** 40 min | **Total:** ~3 hr
+
+## Headnote
+
+Crème Brûlée is four ingredients and one technique — which means there is nowhere to hide. The custard's texture lives or dies on three decisions: how carefully you temper the yolks, how faithfully you respect the bain-marie, and when you pull the ramekins from the oven. Get those right and the result is a trembling, glassy custard under a crust that cracks like porcelain. **Teaching Idea: The Bain-Marie as Thermal Buffer.** Water boils at 212°F/100°C and cannot exceed that temperature at standard pressure. By baking the custard in a water bath, you cap the thermal environment well below the oven temperature, preventing the egg proteins at the edges from overcooking before the center sets — a physics trick, not a precaution.
+
+## Ingredients
+
+### The Custard
+
+- 500 ml (2 cups) heavy cream
+- 5 large egg yolks (approximately 90 g)
+- 100 g (½ cup) granulated sugar
+- 1 vanilla bean, split and scraped
+- 2.5 ml (½ tsp) pure vanilla extract
+- 1 g (¼ tsp) Diamond Crystal kosher salt
+
+### The Crust
+
+- 24 g (4 tsp) turbinado sugar, divided (6 g per ramekin)
+
+## Mise en Place
+
+- **Split and scrape the vanilla bean:** Run a paring knife down the length of the pod and scrape the seeds with the back of the blade. Reserve both seeds and pod.
+- **Separate the eggs:** Separate yolks into a medium heat-proof bowl. Discard whites or reserve for another use.
+- **Preheat oven:** 325°F/163°C.
+- **Prepare the bain-marie:** Set four 180 ml ramekins in a deep roasting pan. Have a kettle of hot water ready.
+- **Chill plan:** Clear refrigerator space for the roasting pan to chill post-bake.
+
+## Method
+
+**Phase 1 — Infuse the Cream**
+
+Combine the heavy cream, vanilla bean seeds, vanilla pod, and salt in a medium saucepan. Heat over medium until the cream just begins to steam and small bubbles form at the edges — approximately 170°F/77°C. Do not boil.
+
+Remove from heat and allow to steep for 10 minutes. Remove and discard the vanilla pod.
+
+**Why:** Steeping extracts the full aromatic compound profile from the bean. Boiling drives off volatile top notes and denatures the cream proteins unnecessarily.
+
+---
+
+**Phase 2 — Temper the Yolks**
+
+Whisk the egg yolks and granulated sugar together until the mixture is pale yellow and slightly thickened — approximately 60–90 seconds. The mixture should fall from the whisk in a slow, continuous ribbon.
+
+With the whisk moving constantly, add the hot cream in a slow, thin stream — begin with just a tablespoon, then gradually increase the flow. Once half the cream is incorporated, you can add the remainder more freely.
+
+Add the vanilla extract and whisk briefly to combine.
+
+**Sensory Cue:** The finished custard base should be smooth, pale, and homogenous — no streaks, no visible coagulation. If you see any white threads, you moved too fast. Strain through a fine-mesh sieve before proceeding.
+
+**Why:** Tempering is a controlled protein introduction. Cold yolk proteins shock on contact with hot fat and seize — scrambled eggs in your brûlée. The slow stream raises the yolk temperature gradually, allowing the proteins to relax into the emulsion rather than contract.
+
+---
+
+**Phase 3 — Fill and Bake**
+
+Skim any surface foam from the custard base with a spoon. Divide evenly among the four ramekins — approximately 150–155 ml each after skimming.
+
+Place the roasting pan in the oven. Pour hot water into the pan until it reaches halfway up the sides of the ramekins. Cover the pan loosely with aluminum foil.
+
+Bake at 325°F/163°C for 35–45 minutes.
+
+**Wobble Test:** At 35 minutes, gently nudge the pan. The edges should be fully set — no movement. The center 3–4 cm should jiggle in one cohesive motion, like a soft gel. If the entire surface sloshes as liquid, return for 5-minute increments. If the center is fully rigid, they are overbaked.
+
+**Why:** Carryover cooking continues in the ramekin after removal from the oven. Pulling at the wobble — not at full set — is what produces a trembling, silky center rather than a firm, rubbery one.
+
+---
+
+**Phase 4 — Chill**
+
+Remove ramekins from the water bath immediately. Cool on a wire rack for 30 minutes, then refrigerate uncovered for a minimum of 2 hours. The custard must be fully cold and set before torching.
+
+**Sensory Cue:** The surface should feel dry and taut to the touch — not tacky. Any condensation on the surface must be blotted gently with a paper towel before applying sugar.
+
+---
+
+**Phase 5 — Brûlée the Crust**
+
+Sprinkle 6 g turbinado sugar evenly over each custard in a thin, uniform layer. Tilt and tap the ramekin to distribute — do not press.
+
+**Pass 1 — Melt:** Hold the torch 10–12 cm from the surface. Move in slow, tight circles until all crystals are fully melted and the surface is translucent and glossy. Rest 20 seconds.
+
+**Pass 2 — Caramelize:** Return the torch and continue in circular passes until the surface is deep amber — not black. The crust should be uniformly caramelized with no pale patches.
+
+Rest 2–3 minutes before serving. The crust will harden as it cools.
+
+**Why:** The two-pass method is specific to turbinado's large crystal structure. Single-pass torching produces uneven caramelization — scorched peaks over unmelted valleys. The 20-second rest between passes allows the molten sugar to stabilize and level before the second heat application drives color development.
+
+## Chef's Notes
+
+**Yolk Ratio — What Changes:**
+
+| Yolks per 500 ml cream | Effect |
+|---|---|
+| 4 yolks | Lighter set, more delicate — higher risk of weeping, shorter stability window |
+| 5 yolks *(this recipe)* | Classic balance — silky, stable, proper tremble |
+| 6 yolks | Richer, denser, slightly egg-forward — more forgiving bake window |
+
+**Crust Sugar Options:**
+The sugar choice directly affects crack profile and caramelization behavior.
+
+| Sugar | Melt behavior | Crack | Risk |
+|---|---|---|---|
+| Superfine/caster | Fast, even | Thin, glassy, clean snap | Burns fast — narrow torch window |
+| Granulated | Moderate | Medium thickness, reliable | Occasional unmelted hot spots |
+| **Turbinado** *(this recipe)* | Slow, uneven | Thick, amber, textured crack | Requires two-pass technique |
+
+**Vanilla Bean Quality:** This recipe has nowhere to hide weak aromatics. Use a plump, pliable bean — if it snaps rather than bends, the moisture and volatile compounds are gone. Supplement with the vanilla extract as written; it is not optional.
+
+**Cultured Cream Variant:** Substituting 20–30% of the heavy cream with crème fraîche adds a faint lactic tang that layers interestingly against the vanilla. Note: the acidity accelerates egg protein coagulation — reduce bake temp to 310°F/154°C and watch the wobble test closely. Not tested at full replacement.
+
+**No Torch? Lighter Workaround:** A butane kitchen lighter works — the flame is narrower, so use 3–4 tight circular passes per phase rather than 2 broad ones. Expect slightly less even caramelization but fully functional results.
+
+**Finishing Options:**
+
+Serve the brûlée as-is, or consider:
+
+- **Fleur de sel** — a pinch of hand-harvested French sea salt applied immediately after torching. The large, irregular crystals don't dissolve into the crust — they sit on top and deliver sharp bursts of salinity against the sweet caramel. One of the simplest upgrades in the book.
+
+- **Dutch-process cocoa** — dust a thin veil over the turbinado before torching. The cocoa blooms under heat and adds a bitter counterpoint to the caramel crust. Apply sparingly — excess fat from the cocoa can inhibit even caramelization.
+- **Fresh raspberries** — place after torching, never before. Acidity cuts the richness cleanly.
+
+## Glossary
+
+- Bain-marie: A hot water bath used to moderate oven heat around a delicate preparation, capping the thermal environment at 212°F/100°C regardless of oven temperature.
+- Tempering: The gradual introduction of a hot liquid into cold egg yolks to raise their temperature slowly, preventing protein coagulation (scrambling).
+- Carryover cooking: The continuation of cooking in food after removal from a heat source, driven by residual thermal energy stored in the vessel and the food itself.
+- Wobble test: A visual doneness check in which the ramekin is gently nudged — a properly set custard shows a cohesive jiggle at the center, not liquid movement.
+- Turbinado: A minimally refined raw sugar retaining residual molasses. Its large crystal structure produces a thicker, more textured brûlée crust than refined sugars.
+- Denaturation: The structural unfolding of proteins under heat, acid, or mechanical stress — in custard cookery, the controlled denaturation of egg yolk proteins produces the set texture.
+- Fleur de sel: Hand-harvested French sea salt with large, irregular crystals and a clean mineral finish. Used as a finishing salt, not a cooking salt.
+- Dutch-process cocoa: Cocoa powder treated with an alkalizing agent to neutralize acidity, producing a darker color and mellower, less bitter flavor than natural cocoa.
+
+## Keywords
+
+crème brûlée, French classic, custard, vanilla, bain-marie, tempering, turbinado, torch technique, egg yolk, carryover cooking, pastry, ramekin
+
+## Category
+
+cuisine: French | style: Classical | family: Custard & Baked Cream | course: Dessert

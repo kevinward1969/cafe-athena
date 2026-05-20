@@ -4285,6 +4285,50 @@
       ]
     },
     {
+      "id": "09-09",
+      "title": "Crème Brûlée",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "cuisine": "French",
+      "style": "Classical",
+      "family": "Custard & Baked Cream",
+      "course": "Dessert",
+      "dietary": null,
+      "added": "2026-05-20",
+      "keywords": [
+        "crème brûlée",
+        "French classic",
+        "custard",
+        "vanilla",
+        "bain-marie",
+        "tempering",
+        "turbinado",
+        "torch technique",
+        "egg yolk",
+        "carryover cooking",
+        "pastry",
+        "ramekin"
+      ],
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": false,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      },
+      "version": "1.0",
+      "lastModified": "2026-05-20"
+    },
+    {
       "id": "10-01",
       "title": "High-Pressure White Chicken Stock (Fond Blanc)",
       "chapter": 10,
