@@ -5770,6 +5770,49 @@
       ]
     },
     {
+      "id": "11-07",
+      "title": "Adobo Seasoning Blend",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "cuisine": "Latin American",
+      "style": "Classical",
+      "family": "Dry Spice Blend",
+      "course": "Component",
+      "keywords": [
+        "adobo",
+        "Latin seasoning",
+        "dry spice blend",
+        "Caribbean",
+        "garlic",
+        "oregano",
+        "turmeric",
+        "building block",
+        "house spice",
+        "all-purpose seasoning",
+        "spice rub",
+        "pantry staple",
+        "weeknight"
+      ],
+      "dietary": "Vegan, Gluten-Free",
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false
+      },
+      "audit": {
+        "lastRun": null,
+        "status": null,
+        "issues": []
+      }
+    },
+    {
       "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
       "chapter": 12,
