@@ -142,9 +142,6 @@ Run these in Claude Code. Full definitions in `.agents/workflows/`.
 | `/glossary-pull [id]` | Merge recipe glossary terms into main glossary |
 | `/keyword-pull [id]` | Add missing Keywords + Category sections |
 | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
-| `/recipe-hero-image [id]` | Build Gemini image prompt for a recipe |
-| `/recipe-hero-image optimize [id\|chapter-N\|all]` | Convert PNG hero images to WebP |
-| `/recipe-hero-image insert [id] "[position]" "[caption]"` | Insert image shortcode into a folio |
 | `/new-recipe` | Scaffold a new recipe through the full pipeline |
 | `/register-recipe [id]` | Register a new entry in `recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
 | `/sync-registry` | Sync `recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
@@ -183,8 +180,7 @@ See `README.md` for full documentation and the Ollama approval workflow.
 
 - Recipe source files: `The Manual/Chapter N - Name/XX-YY Café Athena - [Recipe Title].md`
 - Built recipe files: `site/src/content/recipes/XX-YY.md`
-- Hero images (source): `The Manual/Chapter N - Name/XX-YY.png` (or `.webp`)
-- Hero images (site): `site/public/images/XX-YY.webp`
+- Hero images: `site/public/images/XX-YY.webp` — canonical location, pre-processed externally before placement
 - Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content. Safe to run during deploy — preserves already-optimized WebP images in `site/public/images/` matching `\d{2}-\d{2}[a-z]?\.webp` (fixed 2026-04-05, commit c84bc51).
 
 ### Content Pipeline Transform
@@ -234,6 +230,20 @@ When manually adding heroImage frontmatter (not via prepare-content.py), always 
 ### Image Placement
 
 All hero and reference images live in `site/public/images/` — this is the only location. Images are processed externally (Photoshop: remove Gemini watermark, export WebP at 80% quality, 1920×1080) before being placed here. The pipeline validates presence and spec at deploy time via `sips`. Never place images in `The Manual/` chapter folders.
+
+### Hero Image Prompt Format
+
+When generating a prompt for Gemini Gem 2, always use this structured brief — not a prose paragraph:
+
+```
+Recipe: [dish name]
+Chapter: [chapter name]
+Description: [headnote — key visual elements, texture, color, sauce, garnish]
+Cuisine: [cuisine type]
+Key elements: [3–5 primary visual ingredients or techniques]
+```
+
+The Gem's aesthetic rules (`Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`) handle all style direction automatically — do not repeat surface, lighting, or composition instructions in the brief.
 
 ---
 

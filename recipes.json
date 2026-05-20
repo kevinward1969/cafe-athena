@@ -4329,6 +4329,96 @@
       "lastModified": "2026-05-20"
     },
     {
+      "id": "09-11",
+      "title": "Truffle Cake Pops",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "cuisine": "Global",
+      "style": "Pastry",
+      "family": "Confection",
+      "course": "Dessert",
+      "keywords": [
+        "cake pops",
+        "chocolate",
+        "compound coating",
+        "egg foam",
+        "ribbon stage",
+        "condensed milk buttercream",
+        "génoise",
+        "walnuts",
+        "toasted nuts",
+        "coconut oil",
+        "confection",
+        "party dessert",
+        "pastry"
+      ],
+      "dietary": null,
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-20",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.0",
+      "lastModified": "2026-05-20"
+    },
+    {
+      "id": "09-12",
+      "title": "Brown Butter Banana Bread",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "cuisine": "American",
+      "style": "Pastry",
+      "family": "Cake",
+      "course": "Dessert",
+      "keywords": [
+        "banana bread",
+        "brown butter",
+        "beurre noisette",
+        "overripe bananas",
+        "quick bread",
+        "brown sugar",
+        "turbinado crust",
+        "one-bowl",
+        "Maillard",
+        "bourbon",
+        "American baking",
+        "loaf cake",
+        "weeknight baking"
+      ],
+      "dietary": null,
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-20",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.0",
+      "lastModified": "2026-05-20"
+    },
+    {
       "id": "10-01",
       "title": "High-Pressure White Chicken Stock (Fond Blanc)",
       "chapter": 10,
