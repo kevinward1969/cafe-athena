@@ -48,13 +48,16 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 2. Check if `## Keywords` AND `## Category` sections already exist.
    - If BOTH exist: set `recipes.json` `keywordPull: true` and skip to Phase 4.
    - If either is missing: generate them.
-3. Read `Guidance/Recipe-Format-Standard.md` Sections 8 and 9 for the controlled vocabulary.
+3. Read `Guidance/Recipe-Format-Standard.md` Sections 9 and 10 for format rules. Read `Guidance/Taxonomy.md` for all valid controlled vocabulary values.
 4. Generate **Keywords** (8–15 comma-separated terms — full recipe folios typically 10–15; foundation/technique folios 8–12) covering: cooking techniques, primary ingredients, cuisine origin, equipment, flavor profile, occasion/difficulty.
-5. Assign **Category** using controlled vocabulary:
+5. Assign **Category** using the controlled vocabulary from `Guidance/Taxonomy.md`:
     - `cuisine:` — ONE value from the allowed cuisine list
     - `style:` — ONE value from the allowed style list
-    - `dietary:` — ONE value only if clearly applicable
-    - **Stop Point:** If cuisine or style is genuinely ambiguous, ask the user before assigning. Do not guess.
+    - `family:` — ONE value from the allowed family list for this chapter
+    - `course:` — ONE value from the allowed course list (omit for technique folios)
+    - `dietary:` — ONE or more comma-separated values (only if clearly applicable)
+    - **Stop Point:** If any field is genuinely ambiguous, ask the user before assigning. Do not guess.
+    - **Technique folios:** use `style: Technique Folio | family: [value]` only — no `cuisine:` or `course:`.
 6. Append the new sections to the end of the recipe file after the Glossary, formatted exactly as:
 
     ```
@@ -62,7 +65,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
     term1, term2, term3, ...
 
     ## Category
-    cuisine: French | style: Classical
+    cuisine: French | style: Classical | family: Mother Sauce | course: Component
     ```
 
 7. Update `recipes.json`: set `keywordPull: true` on this entry.

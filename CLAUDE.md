@@ -77,6 +77,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `recipes.json` | Pipeline registry — single source of truth for per-recipe state. Each entry has `stages` (formatAudit, glossaryPull, heroImage, heroImageOptimized, deployed, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. Run `python3 scripts/audit.py --status` for a rollup. |
 | `IDEAS.md` | Future recipe, folio, technique, and editorial ideas — low-priority backlog. Not active work; drop new ideas here. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
+| `Guidance/Taxonomy.md` | Canonical controlled vocabulary — all valid `cuisine:`, `style:`, `family:`, `course:`, and `dietary:` values. Referenced by agents, pipelines, and `audit.py`. Add new terms here first. |
 | `AGENT_CHANGELOG.md` | Version history for all agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
