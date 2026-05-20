@@ -1,7 +1,7 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-19:** 28 new recipes needed across 5 chapters + 3 category gap fills in Ch 7  
+**Status as of 2026-05-19:** 26 new recipes needed across 4 chapters + 3 category gap fills in Ch 7  
 **Last updated:** 2026-05-19
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
@@ -18,13 +18,13 @@
 | **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
 | **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
 | Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
-| **Ch 8 - The Field** | **10** | 12 | **+2** | Low |
+| Ch 8 - The Field | 12 | 12 | ✓ | — |
 | **Ch 9 - The Pâtissier** | **6** | 12 | **+6** | High |
 | Ch 10 - Stocks & Mother Sauces | 25 | 12 | ✓ | — |
 | **Ch 11 - Spice Blends & Oils** | **6** | 12 | **+6** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
-*One duplicate folio (`07-10_2`) should be deleted — counts as 13 unique.
+*Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
 
 ---
 
@@ -124,8 +124,8 @@
 
 ---
 
-## Chapter 8 — The Field  
-**Gap: +2 | Both from RecipeIdeas — easiest chapter to close**
+## Chapter 8 — The Field ✓ COMPLETE (12/12)
+**Closed 2026-05-19 — 08-11 Brussels Sprouts, 08-12 Southern Greens**
 
 ### Current Folios
 - 08-01 King Trumpet "Scallops" & Celeriac Mousseline
@@ -238,7 +238,7 @@
 
 Work in this order — quickest wins first, hardest chapter last.
 
-1. **Ch 8 (Field)** — 2 recipes, both in RecipeIdeas. Quick win.
+1. ~~**Ch 8 (Field)**~~ — ✓ Complete (2026-05-19)
 2. **Ch 9 (Pâtissier)** — 6 recipes, all in RecipeIdeas. Heavy development but inputs exist.
 3. **Ch 11 (Spice Blends)** — 6 recipes, 4 from ideas + 2 originals (za'atar, dukkah).
 4. **Ch 7 (Butcher) lamb gap** — 3 additions, all from RecipeIdeas. Count bonus, not required.
