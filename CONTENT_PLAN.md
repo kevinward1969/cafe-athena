@@ -1,8 +1,9 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-20:** 17 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
+**Status as of 2026-05-20:** 16 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
 *Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
+*Ch 11 in progress — 11-07 Adobo Seasoning Blend added 2026-05-20*  
 **Last updated:** 2026-05-20
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
@@ -22,7 +23,7 @@
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
 | Ch 10 - Stocks & Mother Sauces | 25 | 12 | ✓ | — |
-| **Ch 11 - Spice Blends & Oils** | **6** | 12 | **+6** | High |
+| **Ch 11 - Spice Blends & Oils** | **7** | 12 | **+5** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
 *Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
@@ -198,7 +199,7 @@
 ---
 
 ## Chapter 11 — Spice Blends & Oils  
-**Gap: +6 | 3–4 from RecipeIdeas, 2 original**
+**Gap: +5 | 3 from RecipeIdeas, 2 original**
 
 ### Current Folios
 - 11-01 Vibrant Green Herb Oil
@@ -207,6 +208,7 @@
 - 11-04 Burnt Allium Ash Salt
 - 11-05 Nashville Fire Paste (Lipophilic Heat)
 - 11-06 KW Signature Smoked Red Pepper Blend
+- 11-07 Adobo Seasoning Blend *(added 2026-05-20)*
 
 ### Category Gaps
 | Category | Status | Note |
@@ -221,14 +223,15 @@
 | **Fermented bases** | ❌ Missing | Fermented pepper mash is a natural extension |
 
 ### Recommended Additions
-| Slot | Recipe Direction | Source |
-|------|-----------------|--------|
-| 11-07 | Adobo seasoning blend — dry version | `Adobo Seasoning.pdf` |
-| 11-08 | Fermented pepper mash — lacto-fermented base | `Fermented pepper mash.pdf` |
-| 11-09 | Coronado BBQ rub | `BBQ- Coronado Hotel.pdf` |
-| 11-10 | Pickled jalapeño rings | `Pickled Jalapeno Rings.pdf` |
-| 11-11 | Za'atar — toasted sesame, thyme, sumac blend | Original |
-| 11-12 | Dukkah — Egyptian nut & spice blend | Original |
+
+| Slot | Recipe Direction | Source | Status |
+|------|-----------------|--------|--------|
+| ~~11-07~~ | ~~Adobo seasoning blend — dry version~~ | ~~`Adobo Seasoning.pdf`~~ | ✓ Done |
+| 11-08 | Fermented pepper mash — lacto-fermented base | `Fermented pepper mash.pdf` | Pending |
+| 11-09 | Coronado BBQ rub | `BBQ- Coronado Hotel.pdf` | Pending |
+| 11-10 | Pickled jalapeño rings | `Pickled Jalapeno Rings.pdf` | Pending |
+| 11-11 | Za'atar — toasted sesame, thyme, sumac blend | Original | Pending |
+| 11-12 | Dukkah — Egyptian nut & spice blend | Original | Pending |
 
 ---
 
