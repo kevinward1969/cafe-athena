@@ -2,6 +2,7 @@
 
 **Target:** 12 recipes minimum per recipe chapter  
 **Status as of 2026-05-19:** 26 new recipes needed across 4 chapters + 3 category gap fills in Ch 7  
+*09-03 duplicate resolved; 12-24 Foundation Curd added to Les Fonds*  
 **Last updated:** 2026-05-19
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
@@ -164,7 +165,7 @@
 ### Current Folios
 - 09-01 Brown Butter & Miso-Caramel Truffle Brownies
 - 09-02 Spicy Brown Butter & Lemon Cheesecake Cookies
-- 09-03 Spicy Brown Butter & Lemon Cheesecake Cookies (v2) — *consider consolidating with 09-02*
+- 09-03 Lemon Blackberry Tart *(replaced duplicate cookie folio 2026-05-19)*
 - 09-04 Brandy-Infused Canelés de Bordeaux
 - 09-05 Lemon Posset in Lemon Shells
 - 09-06 Sweet Potato Brownies
@@ -172,19 +173,15 @@
 ### Category Gaps
 | Category | Status | Note |
 |----------|--------|------|
-| Chocolate bar cookies (brownies) | ✓ Covered (×2) | Could consolidate 09-02/09-03 |
+| Chocolate bar cookies (brownies) | ✓ Covered (×2) | |
 | Custard/set desserts | ✓ Covered (lemon posset) | |
 | French pastry (baked) | ✓ Covered (canelés) | |
-| **Tarts** | ❌ Missing | Critical — dough foundations in Ch 12, no tart output in Ch 9 |
+| **Tarts** | ✓ Covered (09-03 Lemon Blackberry Tart) | |
 | **Cakes** | ❌ Missing | No layer cakes or butter cakes at all |
-| **Cookies** | Thin | Two versions of the same cookie |
+| **Cookies** | Thin | One cookie recipe (09-02) |
 | **Ice cream / frozen** | ❌ Missing | Category unrepresented |
 | **Viennoiserie / laminated** | ❌ Missing | Puff/choux in Ch 12, no output in Ch 9 |
 | **Crème brûlée / pot de crème** | ❌ Missing | Classic custard category absent |
-
-### Planned Actions
-
-- **09-03 repurpose** — 09-03 is a duplicate of 09-02. It will be replaced with a Lemon Blackberry Tart folio once 12-24 Foundation Curd (Ch 12) is written. See PROJECT_STATUS for blocking condition.
 
 ### Recommended Additions (new slots — bringing total to 12)
 
@@ -266,4 +263,5 @@ These are taxonomy-level gaps identified by comparing browsable recipe categorie
 ## Housekeeping
 
 - [x] Delete `The Manual/Chapter 7 - The Butcher/07-10_2 Café Athena - The Competition Red Texas-Style Chili.md`
-- [ ] 09-03 repurpose: replace duplicate cookie folio with Lemon Blackberry Tart (blocked on 12-24 Foundation Curd — see PROJECT_STATUS)
+- [x] 09-03 repurpose: replaced duplicate cookie with Lemon Blackberry Tart (2026-05-19)
+- [x] 12-24 Foundation Curd (The Lemon Protocol): new Les Fonds building block written and deployed (2026-05-19)
