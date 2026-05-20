@@ -1,9 +1,9 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-19:** 26 new recipes needed across 4 chapters + 3 category gap fills in Ch 7  
-*09-03 duplicate resolved; 12-24 Foundation Curd added to Les Fonds*  
-**Last updated:** 2026-05-19
+**Status as of 2026-05-20:** 23 new recipes needed across 4 chapters + 3 category gap fills in Ch 7  
+*09-09 Crème Brûlée added and deployed — Ch 9 now 9/12*  
+**Last updated:** 2026-05-20
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 23 respectively) — no action needed.
@@ -20,7 +20,7 @@
 | **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
 | Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
-| **Ch 9 - The Pâtissier** | **6** | 12 | **+6** | High |
+| **Ch 9 - The Pâtissier** | **9** | 12 | **+3** | In Progress |
 | Ch 10 - Stocks & Mother Sauces | 25 | 12 | ✓ | — |
 | **Ch 11 - Spice Blends & Oils** | **6** | 12 | **+6** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
@@ -160,7 +160,7 @@
 ---
 
 ## Chapter 9 — The Pâtissier  
-**Gap: +6 | All 6 sourced from RecipeIdeas**
+**Gap: +3 remaining | 9/12 complete as of 2026-05-20**
 
 ### Current Folios
 - 09-01 Brown Butter & Miso-Caramel Truffle Brownies
@@ -169,30 +169,30 @@
 - 09-04 Brandy-Infused Canelés de Bordeaux
 - 09-05 Lemon Posset in Lemon Shells
 - 09-06 Sweet Potato Brownies
+- 09-07 Gooey Butter Cake *(added 2026-05-20)*
+- 09-08 Lemon Curd Tartlets *(added 2026-05-20)*
+- 09-09 Crème Brûlée *(added 2026-05-20)*
 
 ### Category Gaps
+
 | Category | Status | Note |
 |----------|--------|------|
 | Chocolate bar cookies (brownies) | ✓ Covered (×2) | |
-| Custard/set desserts | ✓ Covered (lemon posset) | |
+| Custard/set desserts | ✓ Covered (×2 — posset, crème brûlée) | |
 | French pastry (baked) | ✓ Covered (canelés) | |
-| **Tarts** | ✓ Covered (09-03 Lemon Blackberry Tart) | |
-| **Cakes** | ❌ Missing | No layer cakes or butter cakes at all |
+| Tarts | ✓ Covered (×2 — 09-03, 09-08) | |
+| Cakes | ✓ Covered (09-07 Gooey Butter Cake) | |
 | **Cookies** | Thin | One cookie recipe (09-02) |
 | **Ice cream / frozen** | ❌ Missing | Category unrepresented |
 | **Viennoiserie / laminated** | ❌ Missing | Puff/choux in Ch 12, no output in Ch 9 |
-| **Crème brûlée / pot de crème** | ❌ Missing | Classic custard category absent |
 
-### Recommended Additions (new slots — bringing total to 12)
+### Remaining Additions
 
-| Slot | Recipe Direction | Source |
-|------|-----------------|--------|
-| 09-07 | Gooey Butter Cake — St. Louis classic | `Gooey Butter Cake.pdf` |
-| 09-08 | Lemon curd tart — individual rings | `Lemon Curd Tarts MINI.pdf` |
-| 09-09 | Crème brûlée or pot de crème — classic custard category | Original |
-| 09-10 | Florentine cannoli — Sicilian shell & filling | `Florentine Canoli.pdf` |
-| 09-11 | Truffle cake pops | `Truffle Cake Pops.pdf` |
-| 09-12 | Banana bread — brown butter variation | `Banana Bread.pdf` |
+| Slot | Recipe Direction | Source | Status |
+|------|-----------------|--------|--------|
+| 09-10 | Florentine cannoli — Sicilian shell & filling | `Florentine Canoli.pdf` | Pending |
+| 09-11 | Truffle cake pops | `Truffle Cake Pops.pdf` | Pending |
+| 09-12 | Banana bread — brown butter variation | `Banana Bread.pdf` | Pending |
 
 ---
 
