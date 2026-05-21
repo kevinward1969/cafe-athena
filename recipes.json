@@ -1423,7 +1423,7 @@
       },
       "cuisine": "Japanese",
       "style": "Modern",
-      "family": "Tartare & Raw",
+      "family": "Cold Plate",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -2077,7 +2077,7 @@
       },
       "cuisine": "French",
       "style": "Classical",
-      "family": "Gnocchi",
+      "family": "Pasta",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3495,7 +3495,7 @@
       "heroImageOptimized": true,
       "cuisine": "Italian",
       "style": "Rustic",
-      "family": "Roasted & Grilled",
+      "family": "Squash & Gourd",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3537,7 +3537,7 @@
       "heroImageOptimized": true,
       "cuisine": "Global",
       "style": "Modern",
-      "family": "Mash & Purée",
+      "family": "Root Vegetable",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3577,7 +3577,7 @@
       },
       "cuisine": "Mediterranean",
       "style": "Weeknight",
-      "family": "Salad & Dressed",
+      "family": "Grain Salad",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3617,7 +3617,7 @@
       },
       "cuisine": "Mediterranean",
       "style": "Modern",
-      "family": "Salad & Dressed",
+      "family": "Grain Salad",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3699,7 +3699,7 @@
       "hasVariations": true,
       "cuisine": "American",
       "style": "Modern",
-      "family": "Roasted & Grilled",
+      "family": "Corn",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3744,7 +3744,7 @@
       },
       "cuisine": "Mediterranean",
       "style": "Classical",
-      "family": "Stuffed",
+      "family": "Leafy Green",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -3793,7 +3793,7 @@
       },
       "cuisine": "Global",
       "style": "Rustic",
-      "family": "Steamed & Braised",
+      "family": "Stalk & Shoot",
       "course": "Dinner",
       "dietary": "Vegetarian",
       "keywords": [
@@ -4995,7 +4995,7 @@
       },
       "cuisine": "Italian",
       "style": "Technique Folio",
-      "family": "Ragù & Meat Sauce",
+      "family": "Derivative Sauce",
       "course": "Component",
       "dietary": null,
       "keywords": [

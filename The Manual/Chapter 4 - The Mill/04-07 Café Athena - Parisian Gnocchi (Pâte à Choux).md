@@ -91,4 +91,4 @@ pâte à choux, gnocchi, dumplings, pastry, choux, butter-basted, french, egg, c
 
 ## Category
 
-cuisine: French | style: Classical | family: Gnocchi | course: Dinner
+cuisine: French | style: Classical | family: Pasta | course: Dinner

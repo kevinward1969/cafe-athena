@@ -160,4 +160,4 @@ grape leaves, dolma, dolmades, stuffed leaves, Turkish, Greek, Armenian, Georgia
 
 ## Category
 
-cuisine: Mediterranean | style: Classical | family: Stuffed | course: Dinner
+cuisine: Mediterranean | style: Classical | family: Leafy Green | course: Dinner

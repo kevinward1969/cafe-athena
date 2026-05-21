@@ -84,4 +84,4 @@ bulgur, lemon juice, tomato water, cucumber, parsley, mint, acid hydration, grai
 
 ## Category
 
-cuisine: Mediterranean | style: Modern | family: Salad & Dressed | course: Dinner
+cuisine: Mediterranean | style: Modern | family: Grain Salad | course: Dinner

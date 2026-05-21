@@ -85,4 +85,4 @@ corn, corn ribs, deep frying, St. Louis, Red Hot Riplets, Tajín, Parmigiano-Reg
 
 ## Category
 
-cuisine: American | style: Modern | family: Roasted & Grilled | course: Dinner
+cuisine: American | style: Modern | family: Corn | course: Dinner

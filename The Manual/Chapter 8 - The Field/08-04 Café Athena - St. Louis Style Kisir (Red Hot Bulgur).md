@@ -83,4 +83,4 @@ bulgur, kisir, tomato paste, bbq, spice, grain, red pepper, mediterranean, st lo
 
 ## Category
 
-cuisine: Mediterranean | style: Weeknight | family: Salad & Dressed | course: Dinner
+cuisine: Mediterranean | style: Weeknight | family: Grain Salad | course: Dinner

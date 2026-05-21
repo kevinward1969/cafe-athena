@@ -150,8 +150,7 @@ cook, not only recipes we currently have. Family axis varies by chapter type:
 | `Mousse & Pâté` | Cold-set mousses, liver pâtés, vegetarian pâtés |
 | `Amuse-Bouche` | Kitchen-sent, table-presented, single bite — chef's statement, not ordered |
 | `Canapé` | Passed or displayed at reception/cocktail service; finger food on a base |
-| `Cold Plate` | Composed cold plates served as a plated first course |
-| `Tartare & Raw` | Raw preparations: tartare, crudo, ceviche |
+| `Cold Plate` | Composed cold plates served as a plated first course — includes tartare, crudo, ceviche |
 | `Salad` | Dressed salads served as a standalone course |
 | `Preserved & Pickled` | Fermented, pickled, compressed vegetable preparations |
 | `Charcuterie` | Production recipes: terrines, pâtés en croûte, galantines, aspics, rillettes — the cold station's craft. Sausage-making lives in Ch. 7 (Pork). Boards and curated presentations live in the Expo (Ch. 13–15). |
@@ -165,7 +164,6 @@ cook, not only recipes we currently have. Family axis varies by chapter type:
 | `Bread` | Leavened breads: sourdough, focaccia, baguette, buns |
 | `Pasta` | Fresh and dried pasta dishes |
 | `Rice` | Risotto, pilaf, fried rice, rice-based dishes |
-| `Gnocchi` | Potato gnocchi, Parisian gnocchi (choux-based), gnudi |
 | `Polenta` | Corn-based preparations: soft, set, fried |
 | `Grain & Legume` | Bulgur, farro, beans, lentils, rice-and-beans dishes |
 | `Pizza` | Pizza and flatbread (future) |
@@ -219,24 +217,22 @@ cook, not only recipes we currently have. Family axis varies by chapter type:
 
 #### Chapter 8 — The Field
 
-Families use a mix of ingredient groups (for distinctive primary ingredients) and
-technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
+Families are organized by primary ingredient. Technique is secondary — it belongs in keywords.
 
 | Family | Notes |
 |---|---|
-| `Salad & Dressed` | Tabbouleh, kisir, dressed grain salads, herb salads |
-| `Mash & Purée` | Smooth vegetable preparations: mash, mousseline, purée |
-| `Tuber` | All starchy underground veg: potato, sweet potato, sunchoke, taro, yuca, yam |
+| `Tuber` | Starchy underground veg: potato, sweet potato, sunchoke, taro, yuca, yam |
 | `Root Vegetable` | Lower-starch roots: carrot, parsnip, celeriac, beet, turnip, radish |
-| `Stuffed` | Dolma, stuffed peppers, cabbage rolls, stuffed squash |
-| `Roasted & Grilled` | Squash, corn ribs, whole roasted vegetables, charred preparations |
+| `Squash & Gourd` | Spaghetti squash, butternut, delicata, zucchini, pumpkin |
+| `Corn` | Corn ribs, elotes, charred corn, corn-forward vegetable preparations |
+| `Stalk & Shoot` | Asparagus, artichoke, celery, fennel stalks |
 | `Mushroom` | All fungi: king trumpet, porcini, cremini, mixed mushroom preparations |
-| `Steamed & Braised` | Asparagus, butter-braised greens, gentle-cooked vegetables |
-| `Leafy Green` | Spinach, chard, kale, escarole preparations (future) |
-| `Legume` | Lentils, chickpeas, white beans as the primary (future) |
-| `Tomato & Nightshade` | Tomato, eggplant, pepper as the primary (future) |
-| `Allium` | Onion, leek, fennel, shallot as the primary (future) |
-| `Brassica` | Cauliflower, broccoli, Brussels sprouts, cabbage (future) |
+| `Leafy Green` | Spinach, chard, kale, escarole, grape leaves, dolma |
+| `Allium` | Onion, leek, fennel, shallot as the primary |
+| `Brassica` | Cauliflower, broccoli, Brussels sprouts, cabbage |
+| `Tomato & Nightshade` | Tomato, eggplant, pepper as the primary |
+| `Legume` | Lentils, chickpeas, white beans as the primary |
+| `Grain Salad` | Grain-forward salads in a vegetable context: tabbouleh, kisir, herb-grain salads |
 
 ---
 
@@ -264,13 +260,12 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 |---|---|
 | `Stock` | All stocks: white, brown, fish, vegetable |
 | `Mother Sauce` | The five classic French mother sauces |
-| `Derivative Sauce` | Sauces derived from mother sauces |
+| `Derivative Sauce` | Sauces derived from mother sauces; includes slow-cooked meat sauces (bolognese, ragù) |
 | `Pan Sauce` | Deglazing-based sauces (future) |
 | `Jus & Reduction` | Reduced stocks, wine reductions, natural meat juices (future) |
 | `Cold Blended Sauce` | Pesto, chimichurri, salsa verde, romesco — oil-based, blended, served cold |
 | `Compound Butter` | Flavored butters: beurre composé, noisette |
 | `Emulsion` | Stable emulsions — cold: mayo, aioli, vinaigrette; warm: hollandaise, beurre blanc |
-| `Ragù & Meat Sauce` | Slow-cooked meat sauces: bolognese, Sunday gravy, all ragù variants |
 | `Dipping Sauce` | Table sauces and dipping preparations |
 | `Cream Sauce` | Dairy-based finishing sauces |
 | `Salsa & Fresh Sauce` | Raw or minimally cooked fresh sauces: pico, salsa cruda (future) |
@@ -300,7 +295,7 @@ technique/form (for cross-cutting preparations). Grain removed — see Ch. 4.
 |---|---|
 | `Platform & Vessel` | Structural bases and edible vessels: crispy rice, frico, tuile cylinders |
 | `Pastry Dough` | Tart doughs, shortcrust, pâte à choux, puff, rough puff |
-| `Pasta Dough` | Egg pasta, laminated pasta, spinach pasta, gnocchi doughs |
+| `Pasta Dough` | Egg pasta, laminated pasta, spinach pasta |
 | `Cream & Filling` | Crème pâtissière, meringues, Chantilly, composite creams, curds |
 | `Garnish & Component` | Caviar (seeds/spheres), confit tomatoes, garlic crisps — finishing elements |
 | `Batter & Coating` | Dustings, dredges, panés, starch batters, frying coatings |
