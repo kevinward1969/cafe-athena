@@ -17,5 +17,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gluten-Free Flour Blend: A composite flour combining multiple starches — typically rice flour, potato starch, tapioca starch, maize flour, and buckwheat — to replicate the structure and binding of wheat flour without the gluten protein network.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - Gochujang: Korean fermented chili paste made from red chilies, glutinous rice, and soybeans. Provides simultaneous heat, sweetness, and umami in a single ingredient.
+- Granulated garlic: Coarse-ground dried garlic, analogous to granulated onion. Provides allium depth without the sharp rawness of garlic powder.
+- Granulated onion: Coarse-ground dried onion with a particle size larger than onion powder. Preferred in dry rubs for slower rehydration and more even crust formation.
 - Grated Onion: The onion, peeled and grated on a fine grater, is cooked slowly to create a smooth puree, contributing sweetness and texture without disrupting the risotto’s creaminess.
 - Guk-ganjang: A fermented Korean soy sauce, known for its intensely savory and umami-rich flavor profile.

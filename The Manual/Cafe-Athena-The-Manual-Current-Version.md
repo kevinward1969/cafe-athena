@@ -179,6 +179,7 @@
 - 11-06 Café Athena \- KW Signature Smoked Red Pepper Blend
 - 11-07 Café Athena \- Adobo Seasoning Blend
 - 11-08 Café Athena \- Fermented Scotch Bonnet Pepper Mash
+- 11-09 Café Athena \- Coronado BBQ Rub
 
 ## CHAPTER 12: LES FONDS
 

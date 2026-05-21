@@ -64,6 +64,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
 - Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
 - Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
+- Sumac: A ground dried berry from the Rhus coriaria shrub, used across Middle Eastern and Mediterranean cooking for its tart, fruity acid contribution. pH-active; brightens and lifts perceived flavor in blended applications.
 - Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.
 - Surfactant: A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
 - Suspension: A heterogeneous mixture containing solid particles large enough for sedimentation. Unlike a solution (where salt dissolves in water), the spices here are suspended in oil and will settle over time.

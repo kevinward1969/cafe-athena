@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Fat Suspension: The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
 - Fermented: A process that utilizes microorganisms to transform food, resulting in enhanced flavor, aroma, and nutritional value, as seen in miso.
 - FIFO: First In, First Out – a stock rotation method prioritizing the oldest items.
+- Flavor stacking: A design methodology in which each ingredient in a blend is assigned a functional layer (volume, umami, acid, heat, salt, sugar) so that adjustments to any layer can be made independently without destabilizing the overall formula.
 - Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.

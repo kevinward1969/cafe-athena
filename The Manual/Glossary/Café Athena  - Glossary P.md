@@ -35,6 +35,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Ponzu: Japanese condiment combining soy sauce with citrus juice (traditionally yuzu). The name derives from the Dutch word "pons" (punch) and the Japanese "su" (vinegar).
 - Pot Likker: The braising liquid produced when greens, smoked pork, and aromatics are cooked together over low heat for an extended period. The liquid concentrates flavor from the pork, gelatin from the collagen, and leached compounds from the greens, producing a savory, silky broth served alongside the greens or used for dunking cornbread.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
+- Porcini powder: A fine-ground dried porcini mushroom product used as an umami intensifier. High in free glutamates; functions as a flavor-depth anchor without contributing an identifiable mushroom note in small quantities.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
