@@ -178,6 +178,7 @@
 - 11-05 Café Athena \- Nashville Fire Paste (Lipophilic Heat)
 - 11-06 Café Athena \- KW Signature Smoked Red Pepper Blend
 - 11-07 Café Athena \- Adobo Seasoning Blend
+- 11-08 Café Athena \- Fermented Scotch Bonnet Pepper Mash
 
 ## CHAPTER 12: LES FONDS
 

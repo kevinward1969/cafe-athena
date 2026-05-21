@@ -5813,6 +5813,51 @@
       }
     },
     {
+      "id": "11-08",
+      "title": "Fermented Scotch Bonnet Pepper Mash",
+      "chapter": 11,
+      "chapterName": "Spice Blends & Oils",
+      "type": "recipe",
+      "cuisine": "Latin American",
+      "style": "Modern",
+      "family": "Wet Paste",
+      "course": "Component",
+      "keywords": [
+        "lacto-fermentation",
+        "fermented pepper mash",
+        "Scotch Bonnet",
+        "habanero",
+        "Capsicum chinense",
+        "dry-pack fermentation",
+        "hot sauce base",
+        "lactic acid",
+        "building block",
+        "pantry staple",
+        "compound butter",
+        "Caribbean",
+        "capsaicin",
+        "kahm yeast",
+        "Lactobacillus"
+      ],
+      "dietary": "Vegan, Gluten-Free",
+      "added": "2026-05-20",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": true,
+        "referenceImagesProcessed": true,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": null,
+        "status": null,
+        "issues": []
+      }
+    },
+    {
       "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
       "chapter": 12,

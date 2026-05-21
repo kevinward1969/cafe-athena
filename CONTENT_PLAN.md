@@ -227,7 +227,7 @@
 | Slot | Recipe Direction | Source | Status |
 |------|-----------------|--------|--------|
 | ~~11-07~~ | ~~Adobo seasoning blend — dry version~~ | ~~`Adobo Seasoning.pdf`~~ | ✓ Done |
-| 11-08 | Fermented pepper mash — lacto-fermented base | `Fermented pepper mash.pdf` | Pending |
+| ~~11-08~~ | ~~Fermented Scotch Bonnet Pepper Mash — lacto-fermented base~~ | ~~`Fermented pepper mash.pdf`~~ | ✓ Done |
 | 11-09 | Coronado BBQ rub | `BBQ- Coronado Hotel.pdf` | Pending |
 | 11-10 | Pickled jalapeño rings | `Pickled Jalapeno Rings.pdf` | Pending |
 | 11-11 | Za'atar — toasted sesame, thyme, sumac blend | Original | Pending |

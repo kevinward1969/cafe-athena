@@ -8,6 +8,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
+- Capsaicin: The primary alkaloid compound responsible for the sensation of heat in Capsicum peppers. Lipophilic — it dissolves in fat, not water — which is why drinking water does not relieve pepper burn. Milk fat and oil are more effective at dispersing capsaicin from mouth tissue.
+- Capsicum chinense: A species of pepper originating in the Caribbean and Amazonian Basin, encompassing Scotch Bonnet, Habanero, Fatalii, and numerous other high-heat varieties. Distinguished by their fruity, floral aromatics alongside extreme capsaicin content.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugar through a series of chemical reactions beginning around 320°F/160°C, producing hundreds of flavor compounds including diacetyl (buttery) and furans (nutty).
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.

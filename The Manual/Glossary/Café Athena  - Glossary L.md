@@ -8,6 +8,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
+- Lactobacillus: A genus of gram-positive bacteria responsible for lactic acid fermentation in vegetables, dairy, and grains. Salt-tolerant at 2–3% salinity; outcompetes pathogens and most spoilage organisms in that environment.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.

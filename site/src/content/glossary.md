@@ -76,6 +76,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Calcium Chloride: A calcium salt used as a setting agent in direct spherification, resulting in a more pronounced salty flavor.
 - Calcium Ions: Mineral ions that contribute to the solid structure of cheese by binding to casein proteins, preventing their separation during melting.
 - Calcium Lactate Gluconate (CLG): A calcium salt used in reverse spherification because it has a neutral taste and high solubility, unlike Calcium Chloride which can be bitter.
+- Capsaicin: The primary alkaloid compound responsible for the sensation of heat in Capsicum peppers. Lipophilic — it dissolves in fat, not water — which is why drinking water does not relieve pepper burn. Milk fat and oil are more effective at dispersing capsaicin from mouth tissue.
+- Capsicum chinense: A species of pepper originating in the Caribbean and Amazonian Basin, encompassing Scotch Bonnet, Habanero, Fatalii, and numerous other high-heat varieties. Distinguished by their fruity, floral aromatics alongside extreme capsaicin content.
 - Capuliato: Sicilian term meaning "minced" or "ground," referring specifically to this style of tomato condiment.
 - Caramelization: The browning of sugar through a series of chemical reactions beginning around 320°F/160°C, producing hundreds of flavor compounds including diacetyl (buttery) and furans (nutty).
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
@@ -156,6 +158,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Draw Slice: A cutting technique involving a sliding motion alongside the food item, reducing friction and promoting clean, even cuts.
 - Dry Brine: Salting meat in advance to allow the salt to penetrate the muscle structure via osmosis, retaining moisture during cooking.
 - Dry-Dredge Bridge: The mandatory pre-batter application of dry starch or flour to a product surface, creating an adhesion layer between the protein or vegetable and a liquid batter. Without it, the batter slides off at oil contact.
+- Dry-Pack Method: A lacto-fermentation approach in which salt is added directly to mashed or chopped produce with no added water. The salt draws sufficient brine from the produce itself to submerge the solids. Produces a more concentrated flavor than water-brined methods.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
 
@@ -264,6 +267,7 @@ No glossary terms yet.
 - Laceration: Softening or breaking down food by soaking it in a liquid or seasoning.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
+- Lactobacillus: A genus of gram-positive bacteria responsible for lactic acid fermentation in vegetables, dairy, and grains. Salt-tolerant at 2–3% salinity; outcompetes pathogens and most spoilage organisms in that environment.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.
@@ -449,6 +453,7 @@ No glossary terms yet.
 - Shiro Miso: White miso paste — the mildest, sweetest variety, fermented for a shorter time than darker misos, producing a delicate umami with subtle sweetness.
 - Shock (in culinary context): The rapid cooling of a food product, typically by immersion in an ice bath, to halt enzymatic activity and set its structure.
 - Short: A culinary term describing a texture that is crumbly and tender rather than chewy, achieved by inhibiting long gluten strands.
+- SHU (Scoville Heat Units): The standard measure of capsaicin concentration in peppers, named for pharmacist Wilbur Scoville. A jalapeño measures 2,500–8,000 SHU; Scotch Bonnet and Habanero measure 100,000–350,000 SHU.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
 - Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
