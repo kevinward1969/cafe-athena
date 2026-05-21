@@ -75,14 +75,14 @@ def extract_metadata(body):
     dietary = ''
 
     # Extract ## Keywords section
-    kw_match = re.search(r'^## Keywords\n(.+?)(?=\n## |\Z)', body, re.MULTILINE | re.DOTALL)
+    kw_match = re.search(r'^## Keywords\n(.+?)(?=\n## |\n---|\Z)', body, re.MULTILINE | re.DOTALL)
     if kw_match:
         raw_kw = kw_match.group(1).strip()
         keywords = [k.strip() for k in raw_kw.split(',') if k.strip()]
         body = body[:kw_match.start()].rstrip('\n') + '\n' + body[kw_match.end():]
 
     # Extract ## Category section
-    cat_match = re.search(r'^## Category\n(.+?)(?=\n## |\Z)', body, re.MULTILINE | re.DOTALL)
+    cat_match = re.search(r'^## Category\n(.+?)(?=\n## |\n---|\Z)', body, re.MULTILINE | re.DOTALL)
     if cat_match:
         raw_cat = cat_match.group(1).strip()
         for part in raw_cat.split('|'):
