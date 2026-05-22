@@ -36,10 +36,10 @@ Compare the sets:
 - **Orphaned entries** — in registry but no matching file in The Manual → flag only, do not remove
 - **Doc drift** — registered indices not present in the Current-Version doc set → will be appended to the human-facing TOC
 - **Stage drift** — for existing entries, re-check filesystem-derivable stages and flag if they differ from the registry value:
-  - `heroImage` — check for `{index}.webp` or `{index}.png` in chapter folder
-  - `heroImageOptimized` — check for `{index}.webp`
-  - `referenceImages` — check for `{index}[a-z].webp` or `{index}[a-z].png`
-  - `referenceImagesProcessed` — check if any `{index}[a-z].png` still exist
+  - `heroImage` — check for `{index}.webp` in `site/public/images/`
+  - `heroImageOptimized` — check for `{index}.webp` in `site/public/images/`
+  - `referenceImages` — check for `{index}[a-z].webp` in `site/public/images/`
+  - `referenceImagesProcessed` — check if any `{index}[a-z].png` still exist in `site/public/images/`
   - `glossaryPull` — check for `## Glossary` section in source file
 
 ---
