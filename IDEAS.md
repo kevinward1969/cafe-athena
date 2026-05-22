@@ -16,6 +16,14 @@ Future recipes across any chapter. Note intended chapter if known.
 
 ---
 
+- **Ch. 10 — Butter 1: Making Butter** — The fabrication story: cream → butter via fat globule coalescence, churning physics, washing, salting, cultured variants. Pure science folio; no recipe execution.
+
+- **Ch. 10 — Butter 2: Clarified & Heat-Modified Butters** — The thermal transformation spectrum: Drawn → Clarified → Ghee → Beurre Noisette → Beurre Noir. Science hook: butter is ~80% fat, ~16% water, ~4% milk solids — every prepared butter is a decision about which components to keep, drive off, or transform. Includes smoke points, color cues, and use cases at each stage. **⚠️ Flag:** Beurre Blanc (10-05) and Beurre Rouge (10-06) do NOT belong here — those are emulsion sauces, not thermal butter transformations.
+
+- **Ch. 10 — Butter 3: Compound Butters** — The flavor-building story: Beurre Composé variants, herb butters, finishing butters.
+
+- **⚠️ Butter Trilogy Migration Note:** 10-22 (Beurre Noisette) and 10-07 (Master Compound Butter) will be rolled into Butter 2 and Butter 3 respectively when those folios are written. Both existing entries must be removed and replaced with new Ch. 10 recipes. Candidates to fill the vacated slots: Sauce Avgolemono (already in backlog) for one; identify a second candidate before writing. Resolve slot assignments before development begins.
+
 ## 📖 Folio Ideas
 
 Future technique folios (Ch. 1 — The Lab, Ch. 2 — The Foundation, or folio-style entries elsewhere).
