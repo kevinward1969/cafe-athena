@@ -188,6 +188,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Fat Suspension: The technique of suspending fat globules within a liquid matrix, creating a smooth, homogenous texture.
 - Fermented: A process that utilizes microorganisms to transform food, resulting in enhanced flavor, aroma, and nutritional value, as seen in miso.
 - FIFO: First In, First Out – a stock rotation method prioritizing the oldest items.
+- Flavor stacking: A design methodology in which each ingredient in a blend is assigned a functional layer (volume, umami, acid, heat, salt, sugar) so that adjustments to any layer can be made independently without destabilizing the overall formula.
 - Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
@@ -219,6 +220,8 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gluten-Free Flour Blend: A composite flour combining multiple starches — typically rice flour, potato starch, tapioca starch, maize flour, and buckwheat — to replicate the structure and binding of wheat flour without the gluten protein network.
 - Gochugaru: Korean coarse red pepper flakes. Fruity, moderately hot, and slightly smoky — a more complex and less sharp substitute for generic crushed red pepper.
 - Gochujang: Korean fermented chili paste made from red chilies, glutinous rice, and soybeans. Provides simultaneous heat, sweetness, and umami in a single ingredient.
+- Granulated garlic: Coarse-ground dried garlic, analogous to granulated onion. Provides allium depth without the sharp rawness of garlic powder.
+- Granulated onion: Coarse-ground dried onion with a particle size larger than onion powder. Preferred in dry rubs for slower rehydration and more even crust formation.
 - Grated Onion: The onion, peeled and grated on a fine grater, is cooked slowly to create a smooth puree, contributing sweetness and texture without disrupting the risotto’s creaminess.
 - Guk-ganjang: A fermented Korean soy sauce, known for its intensely savory and umami-rich flavor profile.
 
@@ -378,6 +381,7 @@ No glossary terms yet.
 - Ponzu: Japanese condiment combining soy sauce with citrus juice (traditionally yuzu). The name derives from the Dutch word "pons" (punch) and the Japanese "su" (vinegar).
 - Pot Likker: The braising liquid produced when greens, smoked pork, and aromatics are cooked together over low heat for an extended period. The liquid concentrates flavor from the pork, gelatin from the collagen, and leached compounds from the greens, producing a savory, silky broth served alongside the greens or used for dunking cornbread.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
+- Porcini powder: A fine-ground dried porcini mushroom product used as an umami intensifier. High in free glutamates; functions as a flavor-depth anchor without contributing an identifiable mushroom note in small quantities.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
@@ -481,6 +485,7 @@ No glossary terms yet.
 - Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
 - Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
 - Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
+- Sumac: A ground dried berry from the Rhus coriaria shrub, used across Middle Eastern and Mediterranean cooking for its tart, fruity acid contribution. pH-active; brightens and lifts perceived flavor in blended applications.
 - Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.
 - Surfactant: A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
 - Suspension: A heterogeneous mixture containing solid particles large enough for sedimentation. Unlike a solution (where salt dissolves in water), the spices here are suspended in oil and will settle over time.

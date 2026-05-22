@@ -1,0 +1,104 @@
+# Café Athena - Za'atar Spice Blend
+
+A thyme-forward Levantine dry blend of toasted sesame, sumac, and dried herbs — coarse in texture, bright in flavor, and structured for both pantry seasoning and tableside dipping.
+
+**Yield:** ~110 g (~4 oz, approximately ½ cup) | **Prep:** 10 min | **Cook:** 5 min | **Total:** 15 min
+
+---
+
+## Headnote
+
+Za'atar is one of the oldest recorded spice blends in the Levant — its name refers simultaneously to the blend itself and to the wild thyme species (*Origanum syriacum*) that defines it. This version is built on dried thyme as the primary herb, reinforced with dried oregano for herbal body, sumac for tart, fruity acid, and toasted white sesame seeds as the structural and aromatic core. The blend does not get ground — its coarse, textured consistency is correct and intentional, a quality indicator as much as a texture preference. Presented at the table in a bowl alongside extra-virgin olive oil, it is as much a condiment as a seasoning. **Teaching Idea: Lipid Oxidation and the Sesame Freshness Window.** Sesame seeds are high in polyunsaturated fatty acids (linoleic acid and oleic acid), which begin oxidizing immediately after toasting. Oxidation is accelerated by heat, light, and air exposure — and it is the primary mechanism that limits the shelf life of za'atar blends. A fresh batch smells nutty and bright; an oxidized batch smells flat or faintly waxy. Four to six weeks in an airtight container is the reliable window. After that, the sesame has degraded even if the herbs still smell fine.
+
+---
+
+## Ingredients
+
+### The Blend
+
+- 20 g (3 Tbsp) dried thyme
+- 6 g (1 Tbsp) dried oregano
+- 30 g (3 Tbsp) raw white sesame seeds
+- 20 g (2 Tbsp) ground sumac
+- 8 g (1¼ tsp) Diamond Crystal kosher salt
+
+---
+
+## Mise en Place (Action Checklist)
+
+- Measure all herbs, sumac, and salt before toasting the sesame — the sesame moves from pan to cooling surface immediately, and you want everything ready to combine without delay
+- Have a small plate or sheet of parchment ready to receive the sesame seeds directly from the pan
+- Have a small airtight jar ready to receive the finished blend
+
+---
+
+## Method
+
+**Phase 1 — Toast the Sesame Seeds**
+
+Place a small dry skillet over medium heat. Add the raw sesame seeds in a single, even layer. Toast, stirring continuously or shaking the pan, for 3–5 minutes.
+
+*Sensory cue:* The seeds are done when they turn a pale golden color — not dark, not white. The aroma shifts from raw and starchy to nutty and warm, with a faint popcorn quality. You will hear a subtle popping sound as individual seeds begin to color. Remove from the heat immediately and transfer to the waiting plate; residual pan heat will continue cooking them for 30–45 seconds. Do not toast to a deep brown — over-toasted sesame reads as bitter in the finished blend.
+
+**Why:** Toasting drives the Maillard reaction at the seed's surface, generating pyrazines and other nitrogen-containing aromatic compounds responsible for the characteristic roasted-nut flavor. The same heat also volatilizes the lighter top-note aromas of the raw seed, replacing them with deeper, more complex notes. This step is not optional — raw sesame in za'atar is flat and texturally uninteresting.
+
+**Phase 2 — Cool Completely**
+
+Spread the toasted seeds across the plate in a single layer. Allow to cool to room temperature — approximately 10 minutes. Do not combine with the herbs while the seeds are still warm.
+
+*Why:* Warm sesame seeds accelerate volatilization of the dried herb aromatics. Adding heat to dried thyme and oregano prematurely drives off the volatile terpenes (thymol, carvacrol) responsible for their herbal brightness.
+
+**Phase 3 — Combine**
+
+Add the cooled sesame seeds, dried thyme, dried oregano, ground sumac, and Diamond Crystal kosher salt to a bowl. Stir or toss gently with a spoon to distribute evenly. Do not grind or crush the mixture.
+
+*Sensory cue:* The finished blend should be coarse and textured — distinct sesame seeds, visible herb flecks, and the burgundy-red of the sumac distributed throughout. The aroma is herbal and nutty with a fruity, tangy top note from the sumac. Taste a small pinch: the initial impression is herbal and slightly tart, finishing with the warm, toasted sesame flavor.
+
+**Phase 4 — Store**
+
+Transfer immediately to an airtight jar. Seal and label with the date. Store away from direct light and heat.
+
+---
+
+## Variations
+
+### Sesame-Forward Build
+
+For applications where the blend will be used primarily as a dipping medium suspended in olive oil — rather than as a dry rub or finishing spice — shift the formula to increase sesame volume and reduce the thyme. This version produces a richer, more paste-like texture when combined with oil.
+
+**Formula:** 12 g (1½ Tbsp) dried thyme / 10 g (2 Tbsp) dried oregano / 40 g (4 Tbsp) raw white sesame seeds / 20 g (2 Tbsp) ground sumac / 8 g (1¼ tsp) Diamond Crystal kosher salt. Yield: ~120 g. All method steps unchanged.
+
+---
+
+## Chef's Notes
+
+- **Sumac quality is the single most important variable in this blend.** Fresh, high-quality sumac is deep burgundy-red and smells of tart dried fruit — it has real acid presence on the palate. Sumac that has oxidized is pale pinkish-tan, flat in aroma, and contributes little beyond color. Source from a Middle Eastern grocery or spice retailer with high turnover. Discard sumac that has been open in your pantry for more than 6 months.
+- **Olive oil dip ratio:** Combine za'atar and good extra-virgin olive oil at approximately 1:1 by volume — start with 2 Tbsp za'atar to 2 Tbsp olive oil, adjust to your preference. The sumac and salt will drop to the bottom of the bowl; stir before each dip. This is the most common tableside application in Levantine hospitality contexts.
+- **Wild thyme note:** Authentic Levantine za'atar is made from *Origanum syriacum* (wild thyme, also called za'atar herb), which has a more pungent, slightly marjoram-adjacent character compared to standard cultivated thyme. If you can source it through a Middle Eastern grocer or specialty spice retailer, substitute it 1:1 by weight for the dried thyme. The blend will be noticeably more aromatic and closer to the regional original. Standard dried thyme is a correct and functional substitute.
+- **Freshness window:** Za'atar is at its best within 4–6 weeks of making. The limiting factor is sesame oxidation, not herb fade. If the sesame note smells flat, waxy, or reminiscent of paint, the batch has oxidized — remake it. The herbs may still smell fine; trust the sesame.
+- **Applications:** Beyond the olive oil dip, za'atar works as a dry rub on spatchcocked chicken (apply under the skin as well as over), as a finishing element over labneh, fresh white cheese, or scrambled eggs, and pressed into flatbread dough before baking. The herbal brightness also lifts roasted vegetables — particularly cauliflower and root vegetables — as a finish rather than a pre-roast rub.
+- **Scaling:** All ingredients scale linearly. For larger batches, toast the sesame in multiple small pans rather than one large batch — sesame seeds toast unevenly in a crowded pan, and an even golden color across the batch is the goal. Two jars rather than one large jar; smaller air volume per jar extends the freshness window.
+- **Cross-reference:** See 11-09 Coronado BBQ Rub for a contrasting application of sumac — there it functions as an acid-lift element in a smoke-forward rub rather than as a primary flavor component. The same principle applies here at a different ratio.
+
+---
+
+## Glossary
+
+- Lipid Oxidation: The chemical degradation of fats (lipids) through reaction with oxygen. In nuts and seeds, polyunsaturated fatty acids oxidize to produce aldehydes, ketones, and other compounds responsible for rancid or flat aromas. Heat and air exposure accelerate the process; airtight storage and refrigeration slow it.
+- Maillard Reaction: A non-enzymatic browning reaction between amino acids and reducing sugars occurring above approximately 280°F/140°C, generating hundreds of complex flavor compounds including pyrazines, furans, and melanoidins. Responsible for the roasted character of toasted sesame, as well as seared meats and baked crusts.
+- Sumac: A coarse-ground dried berry from *Rhus coriaria*, used throughout Middle Eastern and Mediterranean cooking as a souring agent. Its primary acid contributor is malic acid; it also contains anthocyanins responsible for its deep burgundy color. Delivers a tart, fruity brightness distinct from citrus or vinegar.
+- Pyrazines: A class of nitrogen-containing aromatic compounds produced during the Maillard reaction. Responsible for roasted, nutty, and earthy flavor notes in toasted nuts, coffee, and cooked grains. Generated in sesame seeds during dry toasting.
+- Volatiles: Aromatic compounds in herbs and spices that evaporate readily at room temperature and elevated heat, carrying the characteristic scent and flavor. High-volatility compounds like thymol (in thyme) and carvacrol (in oregano) are responsible for the bright, fresh herbal aroma of dried herbs and are progressively lost over time or under heat.
+- Levantine: Of or relating to the Levant — the historical region of the eastern Mediterranean encompassing modern Lebanon, Syria, Israel, Palestine, and Jordan. Za'atar is one of the most distinctively Levantine condiments in the regional pantry.
+
+---
+
+## Keywords
+
+za'atar, Levantine, Middle Eastern, dry spice blend, toasted sesame, sumac, dried thyme, herb blend, spice rub, dipping blend, pantry staple, finishing spice, building block
+
+---
+
+## Category
+
+cuisine: Middle Eastern | style: Classical | family: Dry Herb Blend | course: Component | dietary: Vegan, Gluten-Free

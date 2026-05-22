@@ -141,7 +141,7 @@
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 
-## CHAPTER 10: STOCKS & MOTHER SAUCES
+## CHAPTER 10: STOCKS, SAUCES & CONDIMENTS
 
 - 10-01 Café Athena \- High-Pressure White Chicken Stock (Fond Blanc)  
 - 10-02 Café Athena \- Vibrant Basil Pesto (Genovese)  
@@ -169,7 +169,7 @@
 - 10-24 Café Athena \- Japanese Dipping Sauces
 - 10-25 Café Athena \- Emulsion Sauces of the Mediterranean
 
-## CHAPTER 11: SPICE BLENDS & OILS
+## CHAPTER 11: SPICE BLENDS, OILS & PASTES
 
 - 11-01 Café Athena \- Vibrant Green Herb Oil  
 - 11-02 Café Athena \- Quick-Process Smoked Salt (Liquid Integration)  

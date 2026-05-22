@@ -10,6 +10,8 @@ Low-priority tracking for future work. Not active development — drop ideas her
 
 Future recipes across any chapter. Note intended chapter if known.
 
+- **Ch. 12 — Pickled Jalapeño Rings** — Quick-pickle condiment; lacto-adjacent, brine-ratio and crunch science story. Source PDF: `RecipeIdeas/Pickled Jalapeno Rings.pdf`. Moved from 11-10 (2026-05-20) — taxonomically `Pickle & Quick Preserve`, which belongs in Ch. 12 Les Fonds, not Ch. 11. Variants explored: Fresno chile, Hungarian wax, serrano. Develop as slot 12-24 when Ch. 12 additions resume.
+
 - **Ch. 10 — Sauce Avgolemono** — Greek egg-lemon sauce; natural companion/finishing sauce for the Quintessential Dolma Guide (08-XX). Emulsification-forward, bright acidity. Would pair with the Greek variant. *(2026-05-01)*
 
 ---

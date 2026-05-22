@@ -32,8 +32,8 @@ CHAPTER_NAMES = {
     7:  "The Butcher",
     8:  "The Field",
     9:  "The Pâtissier",
-    10: "Stocks & Mother Sauces",
-    11: "Spice Blends & Oils",
+    10: "Stocks, Sauces & Condiments",
+    11: "Spice Blends, Oils & Pastes",
 }
 
 # Regex: matches XX-YY, XX-YY.N, or XX-YYa at the start of a filename

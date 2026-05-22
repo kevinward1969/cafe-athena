@@ -1,10 +1,10 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-20:** 16 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
+**Status as of 2026-05-20:** 15 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
 *Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
-*Ch 11 in progress — 11-07 Adobo Seasoning Blend added 2026-05-20*  
-**Last updated:** 2026-05-20
+*Ch 11 in progress — 11-07 Adobo Seasoning Blend added 2026-05-20; 11-08 Fermented Scotch Bonnet Pepper Mash added 2026-05-20; 11-09 Coronado BBQ Rub added 2026-05-20*  
+**Last updated:** 2026-05-20 (11-09 Coronado BBQ Rub complete)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 23 respectively) — no action needed.
@@ -22,8 +22,8 @@
 | Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
-| Ch 10 - Stocks & Mother Sauces | 25 | 12 | ✓ | — |
-| **Ch 11 - Spice Blends & Oils** | **7** | 12 | **+5** | High |
+| Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
+| **Ch 11 - Spice Blends, Oils & Pastes** | **9** | 12 | **+3** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
 *Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
@@ -198,8 +198,9 @@
 
 ---
 
-## Chapter 11 — Spice Blends & Oils  
-**Gap: +5 | 3 from RecipeIdeas, 2 original**
+## Chapter 11 — Spice Blends, Oils & Pastes
+
+**Gap: +3 | 2 original + 1 TBD**
 
 ### Current Folios
 - 11-01 Vibrant Green Herb Oil
@@ -209,6 +210,7 @@
 - 11-05 Nashville Fire Paste (Lipophilic Heat)
 - 11-06 KW Signature Smoked Red Pepper Blend
 - 11-07 Adobo Seasoning Blend *(added 2026-05-20)*
+- 11-08 Fermented Scotch Bonnet Pepper Mash *(added 2026-05-20)*
 
 ### Category Gaps
 | Category | Status | Note |
@@ -216,11 +218,10 @@
 | Infused oils | ✓ Covered (herb) | |
 | Specialty salts | ✓ Covered (×3) | Over-indexed on salts |
 | Hot pastes | ✓ Covered (×2) | |
+| BBQ rubs | ✓ Covered (11-09) | |
 | **Dry spice blends** | ❌ Missing | Za'atar, dukkah, berbere, ras el hanout — none |
-| **BBQ rubs** | ❌ Missing | Natural fit given Ch 7 |
-| **Pickled condiments** | ❌ Missing | Jalapenos, pepperoncini, etc. |
-| **Compound butters** | ❌ Missing | These live in Ch 10 (10-07), but a flavored butter blend folio could live here |
 | **Fermented bases** | ❌ Missing | Fermented pepper mash is a natural extension |
+| Pickled condiments | → IDEAS.md | Jalapeños moved to Ch. 12 future — taxonomically `Pickle & Quick Preserve` |
 
 ### Recommended Additions
 
@@ -228,10 +229,10 @@
 |------|-----------------|--------|--------|
 | ~~11-07~~ | ~~Adobo seasoning blend — dry version~~ | ~~`Adobo Seasoning.pdf`~~ | ✓ Done |
 | ~~11-08~~ | ~~Fermented Scotch Bonnet Pepper Mash — lacto-fermented base~~ | ~~`Fermented pepper mash.pdf`~~ | ✓ Done |
-| 11-09 | Coronado BBQ rub | `BBQ- Coronado Hotel.pdf` | Pending |
-| 11-10 | Pickled jalapeño rings | `Pickled Jalapeno Rings.pdf` | Pending |
-| 11-11 | Za'atar — toasted sesame, thyme, sumac blend | Original | Pending |
-| 11-12 | Dukkah — Egyptian nut & spice blend | Original | Pending |
+| ~~11-09~~ | ~~Coronado BBQ rub~~ | ~~`BBQ- Coronado Hotel.pdf`~~ | ✓ Done |
+| 11-10 | Za'atar — toasted sesame, thyme, sumac blend | Original | Pending |
+| 11-11 | Dukkah — Egyptian nut & spice blend | Original | Pending |
+| 11-12 | TBD — harissa, ras el hanout, or chermoula | Original | TBD |
 
 ---
 

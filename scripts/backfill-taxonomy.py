@@ -134,7 +134,7 @@ FAMILY_MAP: dict[str, str] = {
     "09-04": "Small Cake & Pastry",
     "09-05": "Posset & Panna Cotta",
     "09-06": "Brownie & Bar",
-    # Chapter 10 — Stocks & Mother Sauces
+    # Chapter 10 — Stocks, Sauces & Condiments
     "10-01": "Stock",
     "10-02": "Cold Blended Sauce",
     "10-03": "Mother Sauce",
@@ -160,7 +160,7 @@ FAMILY_MAP: dict[str, str] = {
     "10-23": "Dipping Sauce",
     "10-24": "Dipping Sauce",
     "10-25": "Emulsion",
-    # Chapter 11 — Spice Blends & Oils
+    # Chapter 11 — Spice Blends, Oils & Pastes
     "11-01": "Herb Oil",
     "11-02": "Specialty Salt",
     "11-03": "Specialty Salt",

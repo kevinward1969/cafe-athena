@@ -254,7 +254,7 @@ Families are organized by primary ingredient. Technique is secondary — it belo
 
 ---
 
-#### Chapter 10 — Stocks & Mother Sauces
+#### Chapter 10 — Stocks, Sauces & Condiments
 
 | Family | Notes |
 |---|---|
@@ -273,7 +273,7 @@ Families are organized by primary ingredient. Technique is secondary — it belo
 
 ---
 
-#### Chapter 11 — Spice Blends & Oils
+#### Chapter 11 — Spice Blends, Oils & Pastes
 
 | Family | Notes |
 |---|---|

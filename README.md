@@ -44,8 +44,8 @@ cafe-athena/
 │   ├── Chapter 7 - The Butcher/
 │   ├── Chapter 8 - The Field/
 │   ├── Chapter 9 - The Pâtissier/
-│   ├── Chapter 10 - Stocks & Mother Sauces/
-│   ├── Chapter 11 - Spice Blends & Oils/
+│   ├── Chapter 10 - Stocks, Sauces & Condiments/
+│   ├── Chapter 11 - Spice Blends, Oils & Pastes/
 │   └── Chapter 12 - Les Fonds/
 │
 ├── site/                           # Astro website (public cookbook)

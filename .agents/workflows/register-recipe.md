@@ -12,14 +12,14 @@ Example: `/register-recipe 10-24`
 
 ## Phase 1 — Locate the Source File
 
-1. Search `The Manual/` for a file whose name starts with `{index}` (e.g., `The Manual/Chapter 10 - Stocks & Mother Sauces/10-24 Café Athena - *.md`).
+1. Search `The Manual/` for a file whose name starts with `{index}` (e.g., `The Manual/Chapter 10 - Stocks, Sauces & Condiments/10-24 Café Athena - *.md`).
 2. If no file is found, **STOP** and report:
    > "No file found for `{index}` in The Manual. Confirm the recipe has been written to the manuscript before registering."
 3. Extract from the filename:
    - **title** — strip the index prefix and any `Café Athena -` or `Technique Folio -` prefix from the display name
    - **type** — `"technique"` if the filename contains "Technique Folio", otherwise `"recipe"`
    - **chapter** — the numeric chapter from the folder name (e.g., `Chapter 10 - ...` → `10`)
-   - **chapterName** — the chapter name after the number (e.g., `Stocks & Mother Sauces`)
+   - **chapterName** — the chapter name after the number (e.g., `Stocks, Sauces & Condiments`)
 
 ---
 
