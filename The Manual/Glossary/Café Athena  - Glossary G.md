@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gelatin: A protein derived from collagen, exhibiting hydrocolloidal properties and producing a silky mouthfeel (viscosity) when warmed, and forming a semi-solid gel upon cooling.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
+- Glacé: French for "glazed" or "iced." In vegetable cookery, a technique where a small quantity of liquid, butter, and sugar reduces completely around the vegetable, coating it in a shiny, concentrated glaze.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
 - Glucosinolate: A class of sulfur-containing compounds found in Brassica vegetables (Brussels sprouts, broccoli, cabbage). When cells are damaged by cutting or heat, glucosinolates break down into pungent sulfur compounds. Blanching partially dissolves them into the cooking water, mellowing the vegetable's flavor.
 - Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.

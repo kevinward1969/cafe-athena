@@ -15,7 +15,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
-- Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
+- Cartouche: A round of parchment paper cut to fit the interior diameter of a pan, pressed directly against the surface of a liquid. Controls evaporation rate without fully sealing — creates a gentle, even braising environment.
 - Casein: A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
 - Caster sugar: Superfine granulated sugar that dissolves more readily than standard granulated sugar; preferred in curds and smooth sauces where undissolved crystals would create unwanted texture.
 - Cell Wall Integrity: The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.

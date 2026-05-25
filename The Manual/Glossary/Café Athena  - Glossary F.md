@@ -13,6 +13,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
+- Fleur de sel: Hand-harvested sea salt crystals skimmed from the surface of salt evaporation ponds. Used exclusively as a finishing salt — its delicate flake structure and mineral character are destroyed by cooking.
 - Flocculation: The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
