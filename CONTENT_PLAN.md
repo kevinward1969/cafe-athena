@@ -1,10 +1,10 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-20:** 15 new recipes needed across 3 chapters + 3 category gap fills in Ch 7  
+**Status as of 2026-05-24:** 13 new recipes needed across 2 chapters + 3 category gap fills in Ch 7  
 *Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
-*Ch 11 in progress — 11-07 Adobo Seasoning Blend added 2026-05-20; 11-08 Fermented Scotch Bonnet Pepper Mash added 2026-05-20; 11-09 Coronado BBQ Rub added 2026-05-20*  
-**Last updated:** 2026-05-20 (11-09 Coronado BBQ Rub complete)
+*Ch 11 complete (12/12) — 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni added 2026-05-24*  
+**Last updated:** 2026-05-24 (Ch 11 complete)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 23 respectively) — no action needed.
@@ -23,7 +23,7 @@
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
 | Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
-| **Ch 11 - Spice Blends, Oils & Pastes** | **10** | 12 | **+2** | High |
+| Ch 11 - Spice Blends, Oils & Pastes | 12 | 12 | ✓ | — |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
 *Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
@@ -198,9 +198,9 @@
 
 ---
 
-## Chapter 11 — Spice Blends, Oils & Pastes
+## Chapter 11 — Spice Blends, Oils & Pastes ✓ COMPLETE (12/12)
 
-**Gap: +2 | 1 original + 1 TBD** *(updated 2026-05-24)*
+**Closed 2026-05-24 — 11-11 Dukkah (Cairo Market Blend), 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni**
 
 ### Current Folios
 - 11-01 Vibrant Green Herb Oil
@@ -213,28 +213,8 @@
 - 11-08 Fermented Scotch Bonnet Pepper Mash *(added 2026-05-20)*
 - 11-09 Coronado BBQ Rub *(added 2026-05-20)*
 - 11-10 Za'atar Spice Blend *(added 2026-05-24)*
-
-### Category Gaps
-| Category | Status | Note |
-|----------|--------|------|
-| Infused oils | ✓ Covered (herb) | |
-| Specialty salts | ✓ Covered (×3) | Over-indexed on salts |
-| Hot pastes | ✓ Covered (×2) | |
-| BBQ rubs | ✓ Covered (11-09) | |
-| **Dry spice blends** | ✓ Covered (11-10) | Za'atar added; dukkah, berbere, ras el hanout still pending |
-| **Fermented bases** | ❌ Missing | Fermented pepper mash is a natural extension |
-| Pickled condiments | → IDEAS.md | Jalapeños moved to Ch. 12 future — taxonomically `Pickle & Quick Preserve` |
-
-### Recommended Additions
-
-| Slot | Recipe Direction | Source | Status |
-|------|-----------------|--------|--------|
-| ~~11-07~~ | ~~Adobo seasoning blend — dry version~~ | ~~`Adobo Seasoning.pdf`~~ | ✓ Done |
-| ~~11-08~~ | ~~Fermented Scotch Bonnet Pepper Mash — lacto-fermented base~~ | ~~`Fermented pepper mash.pdf`~~ | ✓ Done |
-| ~~11-09~~ | ~~Coronado BBQ rub~~ | ~~`BBQ- Coronado Hotel.pdf`~~ | ✓ Done |
-| ~~11-10~~ | ~~Za'atar — toasted sesame, thyme, sumac blend~~ | ~~Original~~ | ✓ Done |
-| 11-11 | Dukkah — Egyptian nut & spice blend | Original | Pending |
-| 11-12 | TBD — harissa, ras el hanout, or chermoula | Original | TBD |
+- 11-11 Dukkah (Cairo Market Blend) *(added 2026-05-24)*
+- 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni *(added 2026-05-24)*
 
 ---
 
@@ -244,7 +224,7 @@ Work in this order — quickest wins first, hardest chapter last.
 
 1. ~~**Ch 8 (Field)**~~ — ✓ Complete (2026-05-19)
 2. ~~**Ch 9 (Pâtissier)**~~ — ✓ Complete (2026-05-20)
-3. **Ch 11 (Spice Blends)** — 6 recipes, 4 from ideas + 2 originals (za'atar, dukkah).
+3. ~~**Ch 11 (Spice Blends)**~~ — ✓ Complete (2026-05-24)
 4. **Ch 7 (Butcher) lamb gap** — 3 additions, all from RecipeIdeas. Count bonus, not required.
 5. **Ch 6 (Poulterer)** — 6 recipes, 2 from ideas + 4 originals.
 6. **Ch 5 (Fishmonger)** — 8 recipes, all original. Most labor-intensive; plan last.
