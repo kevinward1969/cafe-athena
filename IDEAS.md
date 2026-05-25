@@ -12,6 +12,10 @@ Future recipes across any chapter. Note intended chapter if known.
 
 - **Ch. 12 — Pickled Jalapeño Rings** — Quick-pickle condiment; lacto-adjacent, brine-ratio and crunch science story. Source PDF: `RecipeIdeas/Pickled Jalapeno Rings.pdf`. Moved from 11-10 (2026-05-20) — taxonomically `Pickle & Quick Preserve`, which belongs in Ch. 12 Les Fonds, not Ch. 11. Variants explored: Fresno chile, Hungarian wax, serrano. Develop as slot 12-24 when Ch. 12 additions resume.
 
+- **Ch. 4 — Middle Eastern Flatbread (Pita or Naan)** — Leavened flatbread technique folio; the natural vehicle for the bread-and-oil-and-dukkah ritual described in 11-11. Pita is the more historically accurate pairing (Egyptian/Levantine); naan extends the reach into Persian/South Asian tradition. Science hook: steam pocketing, high-heat blistering, gluten development for puff vs. chew. Reference 11-11 Dukkah as the companion application. *(2026-05-24)*
+
+- **Ch. 7 — Egyptian-Style Lamb with Dukkah** — Dukkah-crusted or dukkah-marinated lamb preparation to pair with 11-11 Dukkah. Direction TBD: rack of lamb with hazelnut-dukkah crust, or braised shoulder with dukkah finish. Should reference 11-11 as a building-block companion. *(2026-05-24)*
+
 - **Ch. 10 — Sauce Avgolemono** — Greek egg-lemon sauce; natural companion/finishing sauce for the Quintessential Dolma Guide (08-XX). Emulsification-forward, bright acidity. Would pair with the Greek variant. *(2026-05-01)*
 
 ---
