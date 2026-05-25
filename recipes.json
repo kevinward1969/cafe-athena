@@ -3941,6 +3941,50 @@
       }
     },
     {
+      "id": "08-13",
+      "title": "Glac\u00e9 Carrots",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "cuisine": "French",
+      "style": "Fine Dining",
+      "family": "Root Vegetable",
+      "course": "Side",
+      "keywords": [
+        "glac\u00e9",
+        "glazed carrots",
+        "French technique",
+        "cartouche",
+        "butter braise",
+        "star anise",
+        "Sichuan peppercorn",
+        "vegetable side",
+        "braising",
+        "single pan",
+        "fine dining",
+        "plating",
+        "sweet",
+        "aromatic"
+      ],
+      "dietary": "Vegetarian, Gluten-Free",
+      "added": "2026-05-25",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": true,
+        "referenceImagesProcessed": true,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-25",
+        "status": "clean",
+        "issues": []
+      }
+    },
+    {
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,

@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-05-24 (session 29)
+Last Updated: 2026-05-25 (session 30)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -12,7 +12,8 @@ In-progress folios. Completed items are tracked via `recipes.json` and `git log`
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
-| *(none)* | — | — | — |
+| 08-13 | Glacé Carrots | ✅ Written to disk | Folio complete; ref image (08-13a) and hero image pending |
+| 14-01 | The Garnish Arsenal (The Power of Finish) | Pending | Ch. 14 first folio; Part IV now active |
 
 ---
 
@@ -43,3 +44,5 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2. Full re-audit pending to catch any remaining order violations. | Run `python3 scripts/audit.py --scan-only` | 2026-05-15 |
 | Fix-It remediation plan | For recipes flagged non-conformant, bring to v3.2 format | Blocked on re-audit | 2026-05-15 |
 | Finish pipeline on 12-02, 12-15, 12-22 | 3 recipes with genuine outstanding stages (audit and/or glossary). | `/pipeline` or manual | 2026-05-18 |
+| Architecture review — Ch. 1 & Ch. 12 placement | Audit Ch. 1 (The Lab) and Ch. 12 (Les Fonds) folios against Escoffier-style function logic. Some garnish/vessel elements may belong in Ch. 14 (Plating) once Part IV is built out. | Blocked on Ch. 14 scaffold | 2026-05-25 |
+| Agent verbosity — lead with recommendation | Chef agent is front-loading analytical preamble before giving the recommendation. Instruct agent to lead with the answer; provide supporting logic only if asked. Update PROJECT_INSTRUCTIONS.md. | Unblocked | 2026-05-25 |
