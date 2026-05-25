@@ -55,7 +55,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Blitz Method: A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - Blond: A roux cooked until the Maillard reaction just begins, providing a nutty flavor and golden color.
 - Bloom: To hydrate gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve evenly without clumping.
-- Blooming: The process of heating dried herbs or spices in fat to dissolve their fat-soluble flavor compounds and activate volatile oils.
+- Blooming: The process of activating volatile aromatic compounds in spices and dried herbs through heat. Two methods: (1) Fat bloom — heating spices in oil or butter to dissolve fat-soluble flavor compounds and carry them through a dish; (2) Dry bloom — toasting whole spices in a dry skillet to release volatile aromatics directly from the seed. Dry blooming preserves the spice's full aromatic profile for grinding; fat blooming integrates flavor into a cooking medium.
 - Blue Tape: A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
 - Bordelaise: A classic French sauce traditionally made with red wine, bone marrow, shallots, and Madeira wine, offering a rich, intensely savory flavor.
 - Bouquet Garni: A bundle of fresh herbs tied with twine and added to braises or stocks. The bundle form allows easy removal before serving.
@@ -271,6 +271,7 @@ No glossary terms yet.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
 - Lactobacillus: A genus of gram-positive bacteria responsible for lactic acid fermentation in vegetables, dairy, and grains. Salt-tolerant at 2–3% salinity; outcompetes pathogens and most spoilage organisms in that environment.
+- Labneh: Strained yogurt cheese common across the Levant and North Africa. Made by suspending full-fat yogurt in cheesecloth until the whey drains and the remaining yogurt thickens to a spreadable, tangy, cream-cheese-like consistency. The longer it drains, the firmer and more concentrated the result. Served as a dip, spread, or canvas for toppings such as dukkah, za'atar, or olive oil.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.
@@ -365,7 +366,7 @@ No glossary terms yet.
 - Pearlescent: Describing the appearance of the cooked fish's interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
 - Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
-- Pellicle: A tacky surface layer formed on protein through air-drying or brining. In smoking, it acts as a sticky surface for smoke particles to adhere to; in confit, the pellicle formed during a cold rest after brining aids in even heat transfer and fat adhesion during poaching.
+- Pellicle: (1) A tacky surface layer formed on protein through air-drying or brining. In smoking, it acts as a sticky surface for smoke particles to adhere to; in confit, the pellicle formed during a cold rest after brining aids in even heat transfer and fat adhesion during poaching. (2) The thin, papery outer skin of a nut (hazelnut, almond) that lies beneath the outer shell. In hazelnuts, the pellicle is tannic and mildly bitter; partial removal through dry-roasting and towel-rubbing is preferred, as complete removal strips the flavor complexity the skin contributes.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
 - pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.
@@ -543,7 +544,7 @@ No glossary terms yet.
 - Vesicles: Small, fluid-filled sacs within citrus fruit that contain the juice, contributing to the fruit's flavor and texture.
 - Viscosity: The measure of a fluid's resistance to flow (thickness).
 - Visual Cue: A descriptor referring to the desired appearance of a prepared dish, guiding the cook in assessing its quality.
-- Volatiles: Aromatic compounds in herbs and spices that evaporate readily at room temperature and elevated heat, carrying the characteristic scent and flavor. High-volatility compounds like thymol (in thyme) and carvacrol (in oregano) are responsible for the bright, fresh herbal aroma of dried herbs and are progressively lost over time or under heat.
+- Volatiles: Aromatic compounds in herbs and spices that evaporate readily at room temperature and elevated heat, carrying the characteristic scent and flavor. High-volatility compounds like thymol (in thyme) and carvacrol (in oregano) are responsible for the bright, fresh herbal aroma of dried herbs and are progressively lost over time or under heat. This is why ground spices smell most intensely at the moment of grinding and why overcooked spices lose aromatic potency — the volatile compounds have already escaped. See also: Blooming.
 - Volcano Method: A technique for incorporating liquid into flour by creating a well in a mound of dry ingredients, allowing gradual hydration and preventing gluten overdevelopment.
 - Volume: A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
 

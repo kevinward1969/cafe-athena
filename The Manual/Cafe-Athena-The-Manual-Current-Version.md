@@ -182,6 +182,7 @@
 - 11-09 Café Athena \- Coronado BBQ Rub
 - 11-10 Café Athena \- Za'atar Spice Blend
 - 11-11 Café Athena \- Dukkah (Cairo Market Blend)
+- 11-12 Café Athena \- Fines Herbes vs. Herbes de Provence vs. Bouquet Garni
 
 ## CHAPTER 12: LES FONDS
 

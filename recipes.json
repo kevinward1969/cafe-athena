@@ -5996,6 +5996,53 @@
       "lastModified": "2026-05-24"
     },
     {
+      "id": "11-12",
+      "title": "Fines Herbes vs. Herbes de Provence vs. Bouquet Garni",
+      "chapter": 11,
+      "chapterName": "Spice Blends, Oils & Pastes",
+      "type": "recipe",
+      "cuisine": "French",
+      "style": "Classical",
+      "family": "Dry Herb Blend",
+      "course": "Component",
+      "keywords": [
+        "fines herbes",
+        "herbes de Provence",
+        "bouquet garni",
+        "French herb blends",
+        "fresh herb blend",
+        "dry herb blend",
+        "classical French",
+        "volatile aromatics",
+        "herb cutting technique",
+        "tarragon",
+        "chervil",
+        "thyme",
+        "bay leaf",
+        "larder component",
+        "spice blend"
+      ],
+      "dietary": null,
+      "added": "2026-05-24",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-24",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-05-24"
+    },
+    {
       "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
       "chapter": 12,
