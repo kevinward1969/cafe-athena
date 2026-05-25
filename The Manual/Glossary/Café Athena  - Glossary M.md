@@ -5,7 +5,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 ## M
 
 - Mace: The dried, lacy outer covering (aril) of the nutmeg seed. Flavor profile is similar to nutmeg but more floral and delicate, making it useful where nutmeg would overpower.
-- Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+- Maillard Reaction: A non-enzymatic browning reaction between amino acids and reducing sugars occurring above approximately 280°F/140°C, generating hundreds of complex flavor compounds including pyrazines, furans, and melanoidins. Responsible for the roasted character of toasted sesame, as well as seared meats and baked crusts.
 - Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.

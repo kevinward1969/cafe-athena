@@ -37,6 +37,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
 - Porcini powder: A fine-ground dried porcini mushroom product used as an umami intensifier. High in free glutamates; functions as a flavor-depth anchor without contributing an identifiable mushroom note in small quantities.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
+- Pyrazines: A class of nitrogen-containing aromatic compounds produced during the Maillard reaction. Responsible for roasted, nutty, and earthy flavor notes in toasted nuts, coffee, and cooked grains. Generated in sesame seeds during dry toasting.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.

@@ -281,8 +281,10 @@ No glossary terms yet.
 - Letter Fold: A standard folding technique where dough is folded in thirds, like a business letter.
 - Leuconostoc: A genus of bacteria commonly found in sourdough starters, often responsible for undesirable off-flavors during the initial stages of fermentation.
 - Levain: A portion of sourdough starter that has been refreshed and is at peak activity for baking.
+- Levantine: Of or relating to the Levant — the historical region of the eastern Mediterranean. Za'atar is one of the most distinctively Levantine preparations in the regional culinary tradition.
 - Liaison: A mixture of egg yolks and cream used to thicken and enrich a sauce at the end of cooking.
 - Lint-Free Towel: A specialized textile used to remove excess moisture from ingredients, preventing undesirable textural changes and ensuring optimal dough consistency.
+- Lipid Oxidation: The chemical degradation of fats (lipids) through reaction with oxygen. In nuts and seeds, polyunsaturated fatty acids oxidize to produce aldehydes, ketones, and other compounds responsible for rancid or flat aromas. Heat and air exposure accelerate the process; airtight storage and refrigeration slow it.
 - Lipophilic: "Fat-loving" or fat-soluble. Describes chemical compounds (like capsaicin) that dissolve best in fats, oils, and lipids.
 - Litmus Paper: An indicator used to assess the concentration of sanitizing solutions, providing a visual confirmation of effectiveness.
 - Log Phase: The exponential growth phase of bacterial proliferation, characterized by rapid multiplication through binary fission.
@@ -291,7 +293,7 @@ No glossary terms yet.
 ## M
 
 - Mace: The dried, lacy outer covering (aril) of the nutmeg seed. Flavor profile is similar to nutmeg but more floral and delicate, making it useful where nutmeg would overpower.
-- Maillard Reaction: A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.
+- Maillard Reaction: A non-enzymatic browning reaction between amino acids and reducing sugars occurring above approximately 280°F/140°C, generating hundreds of complex flavor compounds including pyrazines, furans, and melanoidins. Responsible for the roasted character of toasted sesame, as well as seared meats and baked crusts.
 - Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.
@@ -383,6 +385,7 @@ No glossary terms yet.
 - Poolish: A 100% hydration commercial yeast preferment that adds extensibility (stretch) and nuttiness to dough.
 - Porcini powder: A fine-ground dried porcini mushroom product used as an umami intensifier. High in free glutamates; functions as a flavor-depth anchor without contributing an identifiable mushroom note in small quantities.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
+- Pyrazines: A class of nitrogen-containing aromatic compounds produced during the Maillard reaction. Responsible for roasted, nutty, and earthy flavor notes in toasted nuts, coffee, and cooked grains. Generated in sesame seeds during dry toasting.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
@@ -485,7 +488,7 @@ No glossary terms yet.
 - Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
 - Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
 - Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
-- Sumac: A ground dried berry from the Rhus coriaria shrub, used across Middle Eastern and Mediterranean cooking for its tart, fruity acid contribution. pH-active; brightens and lifts perceived flavor in blended applications.
+- Sumac: A coarse-ground dried berry from Rhus coriaria, used throughout Middle Eastern and Mediterranean cooking as a souring agent. Its primary acid contributor is malic acid; it also contains anthocyanins responsible for its deep burgundy color. Delivers a tart, fruity brightness distinct from citrus or vinegar. pH-active; brightens and lifts perceived flavor in blended applications.
 - Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.
 - Surfactant: A substance that reduces the surface tension between two liquids, enabling them to mix more readily, as exemplified by starch in this process.
 - Suspension: A heterogeneous mixture containing solid particles large enough for sedimentation. Unlike a solution (where salt dissolves in water), the spices here are suspended in oil and will settle over time.
@@ -540,6 +543,7 @@ No glossary terms yet.
 - Vesicles: Small, fluid-filled sacs within citrus fruit that contain the juice, contributing to the fruit's flavor and texture.
 - Viscosity: The measure of a fluid's resistance to flow (thickness).
 - Visual Cue: A descriptor referring to the desired appearance of a prepared dish, guiding the cook in assessing its quality.
+- Volatiles: Aromatic compounds in herbs and spices that evaporate readily at room temperature and elevated heat, carrying the characteristic scent and flavor. High-volatility compounds like thymol (in thyme) and carvacrol (in oregano) are responsible for the bright, fresh herbal aroma of dried herbs and are progressively lost over time or under heat.
 - Volcano Method: A technique for incorporating liquid into flour by creating a well in a mound of dry ingredients, allowing gradual hydration and preventing gluten overdevelopment.
 - Volume: A unit of measurement referring to the amount of space occupied by a substance, used in assessing salt quantities.
 

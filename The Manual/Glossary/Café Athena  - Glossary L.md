@@ -19,8 +19,10 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Letter Fold: A standard folding technique where dough is folded in thirds, like a business letter.
 - Leuconostoc: A genus of bacteria commonly found in sourdough starters, often responsible for undesirable off-flavors during the initial stages of fermentation.
 - Levain: A portion of sourdough starter that has been refreshed and is at peak activity for baking.
+- Levantine: Of or relating to the Levant — the historical region of the eastern Mediterranean. Za'atar is one of the most distinctively Levantine preparations in the regional culinary tradition.
 - Liaison: A mixture of egg yolks and cream used to thicken and enrich a sauce at the end of cooking.
 - Lint-Free Towel: A specialized textile used to remove excess moisture from ingredients, preventing undesirable textural changes and ensuring optimal dough consistency.
+- Lipid Oxidation: The chemical degradation of fats (lipids) through reaction with oxygen. In nuts and seeds, polyunsaturated fatty acids oxidize to produce aldehydes, ketones, and other compounds responsible for rancid or flat aromas. Heat and air exposure accelerate the process; airtight storage and refrigeration slow it.
 - Lipophilic: "Fat-loving" or fat-soluble. Describes chemical compounds (like capsaicin) that dissolve best in fats, oils, and lipids.
 - Litmus Paper: An indicator used to assess the concentration of sanitizing solutions, providing a visual confirmation of effectiveness.
 - Log Phase: The exponential growth phase of bacterial proliferation, characterized by rapid multiplication through binary fission.

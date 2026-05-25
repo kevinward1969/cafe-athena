@@ -5905,6 +5905,51 @@
       "lastModified": "2026-05-20"
     },
     {
+      "id": "11-10",
+      "title": "Za'atar Spice Blend",
+      "chapter": 11,
+      "chapterName": "Spice Blends, Oils & Pastes",
+      "type": "recipe",
+      "cuisine": "Middle Eastern",
+      "style": "Classical",
+      "family": "Dry Herb Blend",
+      "course": "Component",
+      "keywords": [
+        "za'atar",
+        "Levantine",
+        "Middle Eastern",
+        "dry spice blend",
+        "toasted sesame",
+        "sumac",
+        "dried thyme",
+        "herb blend",
+        "spice rub",
+        "dipping blend",
+        "pantry staple",
+        "finishing spice",
+        "building block"
+      ],
+      "dietary": "Vegan, Gluten-Free",
+      "added": "2026-05-24",
+      "version": "1.1",
+      "lastModified": "2026-05-24",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": null,
+        "status": null,
+        "issues": []
+      }
+    },
+    {
       "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
       "chapter": 12,

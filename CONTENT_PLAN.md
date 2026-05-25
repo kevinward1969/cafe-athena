@@ -23,7 +23,7 @@
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
 | Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
-| **Ch 11 - Spice Blends, Oils & Pastes** | **9** | 12 | **+3** | High |
+| **Ch 11 - Spice Blends, Oils & Pastes** | **10** | 12 | **+2** | High |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
 *Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
@@ -200,7 +200,7 @@
 
 ## Chapter 11 — Spice Blends, Oils & Pastes
 
-**Gap: +3 | 2 original + 1 TBD**
+**Gap: +2 | 1 original + 1 TBD** *(updated 2026-05-24)*
 
 ### Current Folios
 - 11-01 Vibrant Green Herb Oil
@@ -211,6 +211,8 @@
 - 11-06 KW Signature Smoked Red Pepper Blend
 - 11-07 Adobo Seasoning Blend *(added 2026-05-20)*
 - 11-08 Fermented Scotch Bonnet Pepper Mash *(added 2026-05-20)*
+- 11-09 Coronado BBQ Rub *(added 2026-05-20)*
+- 11-10 Za'atar Spice Blend *(added 2026-05-24)*
 
 ### Category Gaps
 | Category | Status | Note |
@@ -219,7 +221,7 @@
 | Specialty salts | ✓ Covered (×3) | Over-indexed on salts |
 | Hot pastes | ✓ Covered (×2) | |
 | BBQ rubs | ✓ Covered (11-09) | |
-| **Dry spice blends** | ❌ Missing | Za'atar, dukkah, berbere, ras el hanout — none |
+| **Dry spice blends** | ✓ Covered (11-10) | Za'atar added; dukkah, berbere, ras el hanout still pending |
 | **Fermented bases** | ❌ Missing | Fermented pepper mash is a natural extension |
 | Pickled condiments | → IDEAS.md | Jalapeños moved to Ch. 12 future — taxonomically `Pickle & Quick Preserve` |
 
@@ -230,7 +232,7 @@
 | ~~11-07~~ | ~~Adobo seasoning blend — dry version~~ | ~~`Adobo Seasoning.pdf`~~ | ✓ Done |
 | ~~11-08~~ | ~~Fermented Scotch Bonnet Pepper Mash — lacto-fermented base~~ | ~~`Fermented pepper mash.pdf`~~ | ✓ Done |
 | ~~11-09~~ | ~~Coronado BBQ rub~~ | ~~`BBQ- Coronado Hotel.pdf`~~ | ✓ Done |
-| 11-10 | Za'atar — toasted sesame, thyme, sumac blend | Original | Pending |
+| ~~11-10~~ | ~~Za'atar — toasted sesame, thyme, sumac blend~~ | ~~Original~~ | ✓ Done |
 | 11-11 | Dukkah — Egyptian nut & spice blend | Original | Pending |
 | 11-12 | TBD — harissa, ras el hanout, or chermoula | Original | TBD |
 

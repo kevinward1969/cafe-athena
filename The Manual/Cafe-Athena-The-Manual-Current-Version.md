@@ -180,6 +180,7 @@
 - 11-07 Café Athena \- Adobo Seasoning Blend
 - 11-08 Café Athena \- Fermented Scotch Bonnet Pepper Mash
 - 11-09 Café Athena \- Coronado BBQ Rub
+- 11-10 Café Athena \- Za'atar Spice Blend
 
 ## CHAPTER 12: LES FONDS
 
