@@ -17,7 +17,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Pearlescent: Describing the appearance of the cooked fish's interior, indicating a degree of doneness.
 - Pearls: Refers to the individual grains of rice that have been heated and coated in fat, achieving a glossy, uniform appearance during the risotto cooking process.
 - Pectin: A structural carbohydrate in plant cell walls. Heat softens pectin, allowing the cell walls to be compressed and moisture expelled under pressure.
-- Pellicle: A tacky surface layer formed on protein through air-drying or brining. In smoking, it acts as a sticky surface for smoke particles to adhere to; in confit, the pellicle formed during a cold rest after brining aids in even heat transfer and fat adhesion during poaching.
+- Pellicle: (1) A tacky surface layer formed on protein through air-drying or brining. In smoking, it acts as a sticky surface for smoke particles to adhere to; in confit, the pellicle formed during a cold rest after brining aids in even heat transfer and fat adhesion during poaching. (2) The thin, papery outer skin of a nut (hazelnut, almond) that lies beneath the outer shell. In hazelnuts, the pellicle is tannic and mildly bitter; partial removal through dry-roasting and towel-rubbing is preferred, as complete removal strips the flavor complexity the skin contributes.
 - pH: A measure of acidity or alkalinity, critical for controlling the activity of yeast and bacteria during fermentation.
 - pH Curve: The measurable change in acidity within a sourdough starter during fermentation, reflecting the production of organic acids.
 - Phenols: Chemical compounds responsible for the distinct aroma and preservative qualities of smoke.

@@ -96,11 +96,13 @@ REGEX_FIXABLE = {"phase_header_format"}
 
 CATEGORY_VALID_CUISINES = {
     "French", "Italian", "Japanese", "Korean", "Vietnamese",
-    "Chinese", "American", "Mediterranean", "Asian-Fusion", "Global",
+    "Chinese", "Greek", "Spanish", "Indian", "Middle Eastern",
+    "Mexican", "Latin American", "Thai", "American",
+    "Mediterranean", "Asian-Fusion", "Global",
 }
 CATEGORY_VALID_STYLES = {
     "Classical", "Modern", "Rustic", "Competition", "Fine Dining",
-    "Weeknight", "Pastry", "Technique Folio",
+    "Brunch", "Weeknight", "Pastry", "Modernist", "Technique Folio",
 }
 
 # ---------------------------------------------------------------------------

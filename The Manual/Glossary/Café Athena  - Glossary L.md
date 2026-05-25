@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Lactic Acid: A weak organic acid produced during fermentation, responsible for the characteristic sour flavor and preservative properties of kefir.
 - Lactic Acid Bacteria (LAB): The family of bacteria (_Lactobacillaceae_) responsible for lacto-fermentation. Tolerates high salinity and produces lactic acid as a primary metabolic byproduct.
 - Lactobacillus: A genus of gram-positive bacteria responsible for lactic acid fermentation in vegetables, dairy, and grains. Salt-tolerant at 2–3% salinity; outcompetes pathogens and most spoilage organisms in that environment.
+- Labneh: Strained yogurt cheese common across the Levant and North Africa. Made by suspending full-fat yogurt in cheesecloth until the whey drains and the remaining yogurt thickens to a spreadable, tangy, cream-cheese-like consistency. The longer it drains, the firmer and more concentrated the result. Served as a dip, spread, or canvas for toppings such as dukkah, za'atar, or olive oil.
 - Lacto-Fermentation: A biological pickling process using bacteria and time (days/weeks). This recipe is _not_ fermentation; it is a direct-acidification pickle.
 - Lag Phase: The initial period of microbial growth following rehydration, during which cells repair cell walls and establish a colony.
 - Lamination: The process of folding and re-rolling dough through a pasta roller to build structure, achieve a uniform rectangular sheet, and develop the characteristic "snap" of well-made pasta.

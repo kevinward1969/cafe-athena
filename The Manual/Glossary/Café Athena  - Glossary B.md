@@ -20,7 +20,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Blitz Method: A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - Blond: A roux cooked until the Maillard reaction just begins, providing a nutty flavor and golden color.
 - Bloom: To hydrate gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve evenly without clumping.
-- Blooming: The process of heating dried herbs or spices in fat to dissolve their fat-soluble flavor compounds and activate volatile oils.
+- Blooming: The process of activating volatile aromatic compounds in spices and dried herbs through heat. Two methods: (1) Fat bloom — heating spices in oil or butter to dissolve fat-soluble flavor compounds and carry them through a dish; (2) Dry bloom — toasting whole spices in a dry skillet to release volatile aromatics directly from the seed. Dry blooming preserves the spice's full aromatic profile for grinding; fat blooming integrates flavor into a cooking medium.
 - Blue Tape: A specific labeling material used for date marking and product identification, ensuring compliance with food safety protocols.
 - Bordelaise: A classic French sauce traditionally made with red wine, bone marrow, shallots, and Madeira wine, offering a rich, intensely savory flavor.
 - Bouquet Garni: A bundle of fresh herbs tied with twine and added to braises or stocks. The bundle form allows easy removal before serving.

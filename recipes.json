@@ -5950,6 +5950,52 @@
       }
     },
     {
+      "id": "11-11",
+      "title": "Dukkah (Cairo Market Blend)",
+      "chapter": 11,
+      "chapterName": "Spice Blends, Oils & Pastes",
+      "type": "recipe",
+      "cuisine": "Middle Eastern",
+      "style": "Classical",
+      "family": "Dry Spice Blend",
+      "course": "Component",
+      "keywords": [
+        "dukkah",
+        "Egyptian spice blend",
+        "nut and seed blend",
+        "hazelnut",
+        "sesame",
+        "coriander",
+        "cumin",
+        "dry toasting",
+        "spice route",
+        "bread and oil",
+        "mezze",
+        "Middle Eastern",
+        "finishing blend",
+        "gluten-free"
+      ],
+      "dietary": "Vegan, Gluten-Free",
+      "added": "2026-05-24",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-24",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-05-24"
+    },
+    {
       "id": "12-01",
       "title": "Crispy Rice Platform (The Frozen-Fry Method)",
       "chapter": 12,

@@ -181,6 +181,7 @@
 - 11-08 Café Athena \- Fermented Scotch Bonnet Pepper Mash
 - 11-09 Café Athena \- Coronado BBQ Rub
 - 11-10 Café Athena \- Za'atar Spice Blend
+- 11-11 Café Athena \- Dukkah (Cairo Market Blend)
 
 ## CHAPTER 12: LES FONDS
 
