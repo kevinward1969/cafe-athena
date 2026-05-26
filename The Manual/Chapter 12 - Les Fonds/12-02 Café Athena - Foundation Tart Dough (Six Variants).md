@@ -38,6 +38,7 @@ Modify only the values shown. Where a cell is blank, use the Base Formula quanti
 | **4. Pâte Sablée** | 625 g | 375 g | 225 g | 75 g | 100 g yolks | ½ tsp vanilla paste | Fat >60% of flour; Sanding or Hand Sablage; handle minimally |
 | **5. Pâte Foncée** | 625 g | 300 g | 63 g | — | 100 g whole + 25 g cream | — | Reduced sugar; cream increases elasticity for deep rings |
 | **6. Egg-Only Shift** | — | — | — | — | 100 g yolks + 15 g cream | Optional | Apply as modifier to any variant; cream compensates for yolk's lower free water |
+| **7. Peanut Butter Shell** | 625 g | 185 g | 125 g | — | 125 g whole | — | Replace 115 g butter with 160 g natural PB; Sanding Method; Slow Bake only; 2-hr minimum chill (overnight preferred); waterproofing required for moist fillings |
 
 **Reading the table:** Start with the Base Formula. Swap out only the ingredients that have an entry in the selected variant's row. Variant 6 is a modifier, not a standalone formula — apply it to any other variant by substituting yolks for whole eggs at approximately 80% by weight and adding 15 g cream to restore workability. For sweet applications of Variant 6, add ½ tsp vanilla paste.
 
@@ -147,7 +148,7 @@ For dry or fat-based fillings — ganache, frangipane, nut-based fillings — wa
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 **Baking Specification Comparison**
 
@@ -169,6 +170,7 @@ Always use the Slow Bake for Variants 3 (Shortbread Snap) and 4 (Pâte Sablée).
 - Melt-in-the-mouth for immediate plated service: Variant 4 — not suitable for advance-fill service beyond 2 hours
 - Deep-sided ring or tall tart structure: Variant 5
 - Richer color and tighter crumb on any variant: apply Variant 6 — substitute yolks for whole eggs at 80% by weight and add 15 g cream
+- PB-forward shell for ganache, caramel cream, banana pastry cream, or salted honey custard: Variant 7
 
 ---
 
@@ -219,7 +221,7 @@ All six variant formulas scale linearly — doubling the formula doubles the yie
 
 ## Keywords
 
-tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, french pastry, production reference
+tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, french pastry, production reference, peanut butter
 
 ## Category
 
