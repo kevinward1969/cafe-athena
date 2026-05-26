@@ -188,7 +188,7 @@
 ## CHAPTER 12: LES FONDS
 
 - 12-01 Café Athena \- Crispy Rice Squares (The Frozen-Fry Method)
-- 12-02 Café Athena \- Foundation Tart Dough (Six Variants)
+- 12-02 Café Athena \- Foundation Tart Dough (Seven Variants)
 - 12-03 Café Athena \- Pâte Brisée (Classic Shortcrust)
 - 12-04 Café Athena \- Pâte à Choux (The Steam Dough)
 - 12-05 Café Athena \- Pâte Feuilletée (Classic Puff Pastry)
