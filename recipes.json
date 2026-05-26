@@ -6142,7 +6142,7 @@
       "stages": {
         "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
@@ -6175,7 +6175,9 @@
         "les fonds",
         "french pastry",
         "production reference"
-      ]
+      ],
+      "version": "1.1",
+      "lastModified": "2026-05-26"
     },
     {
       "id": "12-03",
@@ -6678,9 +6680,9 @@
       "type": "recipe",
       "added": "2026-04-13",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
@@ -6688,7 +6690,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-14",
+        "lastRun": "2026-05-25",
         "status": "clean",
         "issues": []
       },
@@ -6713,7 +6715,9 @@
         "garnishing",
         "vegetable stabilization",
         "les fonds"
-      ]
+      ],
+      "version": "1.1",
+      "lastModified": "2026-05-26"
     },
     {
       "id": "12-16",
@@ -6990,9 +6994,9 @@
       "type": "recipe",
       "added": "2026-05-14",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
@@ -7000,8 +7004,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-05-25",
+        "status": "clean",
         "issues": []
       },
       "cuisine": "Global",
@@ -7022,7 +7026,9 @@
         "les fonds",
         "technique",
         "crispy"
-      ]
+      ],
+      "version": "1.1",
+      "lastModified": "2026-05-26"
     },
     {
       "id": "12-23",

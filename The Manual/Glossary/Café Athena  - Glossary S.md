@@ -4,6 +4,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 
 ## S
 
+- Sablage: The process of working cold fat into flour until the mixture resembles coarse sand; fat coats individual flour particles and inhibits gluten formation.
 - Sacrificial Aromatics: Vegetables used solely for flavor extraction in a stock or sauce base, intended to be discarded rather than eaten.
 - Saikyo Miso: A specific variety of sweet white miso from Kyoto, known for its pale color and high rice-to-soybean ratio.
 - Saku: A standardized block of frozen fish loin, specifically trimmed for sashimi/sushi use.

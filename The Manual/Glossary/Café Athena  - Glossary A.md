@@ -16,6 +16,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Aggressively Wipe: A technique involving thorough removal of surface residue, crucial for preventing sugar burn during roasting.
 - Agria: A variety of potato characterized by its high starch content and yellow flesh, ideal for frying and chips.
 - Airlock: A one-way valve fitted to a fermentation vessel that allows CO₂ to escape without admitting oxygen.
+- Allicin: The primary sulfur compound produced when raw garlic is cut or crushed; responsible for its sharp, pungent aroma. Breaks down with heat — at high temperatures converting to acrid, bitter compounds; at low temperatures mellowing into sweeter, nuttier flavors.
 - Al Dente: "To the tooth." Pasta or rice that is cooked through but retains a slight firmness in the center.
 - Allium: The plant family that includes onions, garlic, leeks, and chives.
 - Aluminum Core: The aluminum core of a stainless steel skillet enhances its responsiveness to temperature changes, vital for searing techniques.

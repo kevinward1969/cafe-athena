@@ -26,6 +26,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Direct Acidification: A pickling method employing a concentrated acid solution (vinegar) to quickly penetrate and preserve food, contrasting with the slower process of fermentation.
 - Dissolution: The complete dispersal of a solid substance (such as sugar) into a liquid, forming a homogeneous mixture.
 - Dissolve: The process of dispersing a solid substance (like sodium citrate) completely within a liquid (like water), forming a homogeneous solution.
+- Docking: Piercing the base of a raw pastry shell at regular intervals to allow steam to escape during baking, preventing the base from lifting or puffing.
 - Doenjang: Korean fermented soybean paste. Pungent, deeply savory, and more aggressive than Japanese miso. Used as an accent ingredient — a small amount adds significant depth.
 - Dolmades: The Greek term for stuffed grape leaves. From the Turkish *dolma*, meaning "stuffed thing."
 - Doneness: The state of cooked food, specifically referring to the internal temperature and texture of the meat.

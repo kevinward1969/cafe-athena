@@ -39,10 +39,10 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | ~~Site IA Project Brief~~ | ✓ Done 2026-05-20 — all phases complete (1–5c). Brief deleted. 5d deferred to The Expo. | — | 2026-05-18 |
 | ~~12-25 Fleur de Sel Crumble~~ | ✓ Done 2026-05-20 — content corrected, folio fixed | — | 2026-05-19 |
 | ~~09-09 Crème Brûlée~~ | ✓ Done 2026-05-20 — folio written and registered | — | 2026-05-19 |
-| ~~12-11 update — lemon crème pâtissière variant~~ | ✓ Done 2026-05-26 — lemon variant written, ref images tagged (12-11a, 12-11b), keywords updated, deployed v1.1 | — | 2026-05-19 |
+| ~~12-11 update — lemon crème pâtissière variant~~ | ✓ Done 2026-05-26 — lemon variant written, ref images (12-11a, 12-11b) placed and rendered, keywords updated, deployed v1.1. Ref image rendering bug also fixed site-wide (08-13). | — | 2026-05-19 |
 | PB tart crust — 12-02 variant vs. new 12-25 folio | Decision pending: does PB tart crust earn its own folio (12-25) or become Variant 7 in 12-02? | Decision required before writing | 2026-05-19 |
 | Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2. Full re-audit pending to catch any remaining order violations. | Run `python3 scripts/audit.py --scan-only` | 2026-05-15 |
 | Fix-It remediation plan | For recipes flagged non-conformant, bring to v3.2 format | Blocked on re-audit | 2026-05-15 |
-| Finish pipeline on 12-02, 12-15, 12-22 | 3 recipes with genuine outstanding stages (audit and/or glossary). | `/pipeline` or manual | 2026-05-18 |
+| ~~Finish pipeline on 12-02, 12-15, 12-22~~ | ✓ Done 2026-05-26 — formatAudit and glossaryPull complete on all three. 11 new glossary terms added (A, B, D, F, P, S, W). 12-15 section header fixed (Chef's Notes / Variations → Chef's Notes). All deployed v1.1. | — | 2026-05-18 |
 | Architecture review — Ch. 1 & Ch. 12 placement | Audit Ch. 1 (The Lab) and Ch. 12 (Les Fonds) folios against Escoffier-style function logic. Some garnish/vessel elements may belong in Ch. 14 (Plating) once Part IV is built out. | Blocked on Ch. 14 scaffold | 2026-05-25 |
 | ~~Agent verbosity — lead with recommendation~~ | ✓ Done 2026-05-25 — Chef agent v1.12: Mode 1 reordered (recommendation first), Steelman conditional, confirmation echo scoped. PROJECT_INSTRUCTIONS.md updated. CLAUDE.md propagation rule fixed to edit files directly. | — | 2026-05-25 |

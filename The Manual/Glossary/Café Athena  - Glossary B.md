@@ -17,7 +17,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
 - Blanching: A cooking process wherein a food is scalded in boiling water, removed after a brief, timed interval, and plunged into iced water to halt the cooking process.
 - Blending: The process of mechanically agitating a substance, particularly a liquid, using a high-speed blender to disrupt structures and create a homogenous mixture.
-- Blind Bake: Baking a pie crust without the filling (using weights) to ensure the bottom is crisp.
+- Blind Baking: Baking a pastry shell without its filling, using weights to maintain shape against shrinkage and puffing during the initial baking phase.
 - Blitz Method: A mixing technique where fat is tossed into flour and left in large pieces before liquid is added, speeding up the lamination process.
 - Blond: A roux cooked until the Maillard reaction just begins, providing a nutty flavor and golden color.
 - Bloom: To hydrate gelatin in cold liquid before adding it to a warm mixture, allowing it to fully expand and dissolve evenly without clumping.

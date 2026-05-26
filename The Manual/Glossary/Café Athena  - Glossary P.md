@@ -11,6 +11,9 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
 - Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
+- Pâte Foncée: Literally "lined pastry"; a firmer, less sweet tart dough formulated with a small amount of cream alongside egg to increase gluten elasticity for lining tall, deep-sided molds.
+- Pâte Sablée: Literally "sandy pastry"; a tart dough with a high fat-to-flour ratio and yolks as the sole hydration source, producing an extremely tender, crumbly texture that dissolves on the palate.
+- Pâte Sucrée: Literally "sweet pastry"; a tart dough formulated with a moderate sugar ratio, almond flour, and the Creaming Method to produce a fine-crumbed shell with a clean snap.
 - Pavé: From the French for "paved"; in culinary use, a technique of pressing a mixture into a mold, chilling until firm, then cutting into clean geometric shapes.
 - Peak: The point during starter fermentation where yeast activity is at its maximum, indicated by rapid expansion and optimal lifting power.
 - Pearl Onions: Small, tightly clustered onions, often peeled and blanched before cooking, providing a delicate sweetness and texture.
