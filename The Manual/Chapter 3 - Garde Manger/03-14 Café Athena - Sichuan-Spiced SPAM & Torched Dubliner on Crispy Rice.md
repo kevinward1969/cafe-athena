@@ -42,7 +42,7 @@ This is a deliberate fusion canapé built on contrast: the numbing, floral heat 
 
 ## Mise en Place (Action Checklist)
 
-- Prepare one full batch of 12-01 Crispy Rice Platform; hold warm on a wire rack
+- Prepare one full batch of 12-01 Crispy Rice Squares; hold warm on a wire rack
 - Combine mayonnaise and Dijon mustard for dijonnaise; hold at room temperature
 - Grind the three-pepper blend in a mortar and pestle to a coarse, uneven texture; set aside
 - Slice SPAM to ¼ inch thickness; trim each slice to match the footprint of the rice platforms

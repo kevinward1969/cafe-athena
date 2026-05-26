@@ -123,6 +123,7 @@
 - 08-10 Café Athena - Crispy Potato & Onion Pavé Triangles
 - 08-11 Café Athena - Roasted Brussels Sprouts with Warm Honey-Mustard Pan Sauce
 - 08-12 Café Athena - Southern Braised Collard Greens & Pot Likker
+- 08-13 Café Athena - Glacé Carrots
 
 ## CHAPTER 9: THE PÂTISSIER
 
@@ -186,7 +187,7 @@
 
 ## CHAPTER 12: LES FONDS
 
-- 12-01 Café Athena \- Crispy Rice Platform (The Frozen-Fry Method)
+- 12-01 Café Athena \- Crispy Rice Squares (The Frozen-Fry Method)
 - 12-02 Café Athena \- Foundation Tart Dough (Six Variants)
 - 12-03 Café Athena \- Pâte Brisée (Classic Shortcrust)
 - 12-04 Café Athena \- Pâte à Choux (The Steam Dough)

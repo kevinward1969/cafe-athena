@@ -46,6 +46,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
 - Beurre Noir: "Black butter." Butter cooked beyond noisette to a very dark brown; used in specific classical preparations (skate meunière) but easily becomes acrid and unusable.
 - Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
+- Bevel: In knife work, a chamfered or angled cut that creates a smooth transition between two surfaces, tapering from a thicker body to a thinner edge or tip.
 - Binary Fission: The process by which bacteria reproduce through cell division, resulting in exponential population growth.
 - Biofilm: A complex, structured microbial community that adheres to surfaces, often presenting a significant challenge to conventional sanitation methods due to its resistance to disruption.
 - Blanch-finish (pané context): The double-fry protocol applied to thick pané applications — a low-temperature first fry to cook the interior, a high-temperature second fry to set and color the crumb.
@@ -83,7 +84,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Carbonation (batter context): CO₂ dissolved in beer or sparkling water; contributes to batter lightness by creating gas pockets that expand and rupture during frying, producing an open, aerated batter crumb structure.
 - Carbonization: The process of converting organic matter into carbon through high heat pyrolysis.
 - Carryover Cooking: The phenomenon where food retains heat and continues to rise in temperature after being removed from the heat source.
-- Cartouche: A round piece of parchment paper used to cover food during cooking to reduce evaporation and prevent skin formation.
+- Cartouche: A round of parchment paper cut to fit the interior diameter of a pan, pressed directly against the surface of a liquid. Controls evaporation rate without fully sealing — creates a gentle, even braising environment.
 - Casein: A protein complex found in milk, responsible for the structural integrity of cheese when solidifying.
 - Caster sugar: Superfine granulated sugar that dissolves more readily than standard granulated sugar; preferred in curds and smooth sauces where undissolved crystals would create unwanted texture.
 - Cell Wall Integrity: The concept that minimizing force during cutting preserves the structural integrity of food cells, preventing cell rupture and maintaining flavor and texture.
@@ -192,6 +193,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Firm Ball Stage: A sugar cook temperature of 245–250°F/118–121°C — the drop holds its shape but remains pliable.
 - Fish Sauce: A condiment produced by fermenting fish with salt over months or years. Provides invisible umami — it should not taste "fishy" in a finished sauce when used in correct proportion.
 - Five Spice: A Chinese spice blend typically containing star anise, cloves, cinnamon, Sichuan pepper, and fennel seed. Warm, aromatic, and slightly sweet.
+- Fleur de sel: Hand-harvested sea salt crystals skimmed from the surface of salt evaporation ponds. Used exclusively as a finishing salt — its delicate flake structure and mineral character are destroyed by cooking.
 - Flocculation: The process by which individual particles clump together into larger clusters (flocs), making them easier to filter or settle.
 - Fluid Gel: A technique where a brittle gel (usually agar or gellan) is sheared (blended) into a smooth, stable puree that holds its shape on a plate.
 - Fold: To gently combine a delicate ingredient (like sautéed mushrooms) into a heavier mixture without crushing it.
@@ -212,6 +214,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Gelatin: A protein derived from collagen, exhibiting hydrocolloidal properties and producing a silky mouthfeel (viscosity) when warmed, and forming a semi-solid gel upon cooling.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
+- Glacé: French for "glazed" or "iced." In vegetable cookery, a technique where a small quantity of liquid, butter, and sugar reduces completely around the vegetable, coating it in a shiny, concentrated glaze.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
 - Glucosinolate: A class of sulfur-containing compounds found in Brassica vegetables (Brussels sprouts, broccoli, cabbage). When cells are damaged by cutting or heat, glucosinolates break down into pungent sulfur compounds. Blanching partially dissolves them into the cooking water, mellowing the vegetable's flavor.
 - Glutamate: An amino acid responsible for the umami taste sensation — the savory, meaty flavor profile. Present in tomato paste, anchovy paste, soy sauce, aged cheeses, and mushrooms.
@@ -295,6 +298,7 @@ No glossary terms yet.
 
 - Mace: The dried, lacy outer covering (aril) of the nutmeg seed. Flavor profile is similar to nutmeg but more floral and delicate, making it useful where nutmeg would overpower.
 - Maillard Reaction: A non-enzymatic browning reaction between amino acids and reducing sugars occurring above approximately 280°F/140°C, generating hundreds of complex flavor compounds including pyrazines, furans, and melanoidins. Responsible for the roasted character of toasted sesame, as well as seared meats and baked crusts.
+- Málà: The characteristic numbing-tingling sensation produced by hydroxy-alpha-sanshool, the active compound in Sichuan peppercorn. Distinct from capsaicin heat — it is a tactile rather than thermal sensation.
 - Malt vinegar: Vinegar produced from malted barley; used in Fish & Chips batter for flavor and light gluten tightening. The canonical acid accompaniment to British fish and chips service.
 - Mantecatura: The process of vigorously mixing cooked pasta, or beating cold butter and cheese into risotto off the heat, with sauce and fat to create a creamy emulsion.
 - Mashing: The controlled partial destruction of beans during simmering to release starch and create a thickened stew-like consistency.

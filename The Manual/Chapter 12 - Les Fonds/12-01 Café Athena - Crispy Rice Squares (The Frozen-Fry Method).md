@@ -1,4 +1,4 @@
-# Café Athena - Crispy Rice Platform (The Frozen-Fry Method)
+# Café Athena - Crispy Rice Squares (The Frozen-Fry Method)
 
 A shatteringly crisp, golden shell with a warm, creamy sushi rice center.
 
@@ -53,7 +53,7 @@ Transfer immediately to a wire rack. Do not rest on paper towels — trapped ste
 - **Mold size is flexible**, but keep the pressed rice block at ½ inch depth maximum regardless of footprint. Beyond that, the frozen core takes too long to heat through during the fry — the crust overcooks before the center warms, and you lose the creamy interior that defines this technique.
 - **Fry medium:** Clarified butter carries the high smoke point (≈450°F/232°C) and provides the crust. Duck fat adds flavor depth without lowering smoke point significantly. If duck fat is unavailable, 100% clarified butter works. Standard whole butter will not — the milk solids burn before the crust sets.
 - **These do not hold.** Fry to order or as close to service as possible. The crust softens within 30 minutes.
-- **Freezing window:** Platforms can be frozen for up to 2 weeks, well wrapped. Fry directly from frozen — do not thaw.
+- **Freezing window:** Squares can be frozen for up to 2 weeks, well wrapped. Fry directly from frozen — do not thaw.
 
 ## Glossary
 
@@ -63,7 +63,7 @@ Transfer immediately to a wire rack. Do not rest on paper towels — trapped ste
 
 ## Keywords
 
-crispy rice, sushi rice, platform, canapé base, frozen-fry method, clarified butter, duck fat, short-grain rice, mise en place, building block, texture contrast, garde manger, frying technique, thermal gradient
+crispy rice, sushi rice, squares, canapé base, frozen-fry method, clarified butter, duck fat, short-grain rice, mise en place, building block, texture contrast, garde manger, frying technique, thermal gradient
 
 ## Category
 

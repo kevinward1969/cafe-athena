@@ -1,0 +1,94 @@
+# **Café Athena - Glacé Carrots**
+
+Whole baby carrots braised in an aromatic butter-sugar glacé until glossy, tender, and deeply sweet — a study in classical French simplicity.
+
+**Yield:** 4 servings | **Prep:** 15 min | **Cook:** 10–12 min | **Total:** ~30 min
+
+## Headnote
+
+The glacé method is one of the most elegant techniques in the French vegetable canon — a single pan, a short braise, and the liquid reduces completely, leaving the butter and sugar to self-glaze the carrots in their own cooking juices. The star anise infuses gently throughout, adding a warm anise note that amplifies the carrot's natural sweetness without announcing itself. The prep detail — bias-cut tip and a beveled stem with trimmed greens — transforms a humble root vegetable into a plated statement. **Teaching Idea: The Cartouche.** A cartouche is a round of parchment cut to fit directly against the surface of the braising liquid. It slows evaporation without sealing completely, creating a gentle, even steam environment that cooks the carrots uniformly while concentrating the glacé. Without it, the liquid reduces unevenly and the glaze breaks.
+
+## Ingredients
+
+### The Glacé Base
+
+- 200 g (¾ cup + 2 tbsp) water
+- 50 g (3½ tbsp) unsalted butter
+- 50 g (¼ cup) granulated sugar
+- 10 g (1½ tsp) Maldon sea salt flakes
+
+### The Aromatics
+
+- 3 whole star anise
+
+### The Carrots
+
+- 15–20 bunched baby carrots, similar in size, tops-on (approximately 500–600 g trimmed weight)
+
+### For Finishing
+
+- Fleur de sel, for scattering at the plate
+- Fresh sage flowers, chive blossoms, or micro tarragon (optional garnish)
+- Dukkah, for textural finish (optional — see 11-11)
+
+## Mise en Place
+
+- **Cut a cartouche:** Fold a sheet of parchment into quarters, then into a triangle. Measure against the pan radius and trim. Unfold — you have a round. Cut a small hole in the center to allow steam to vent.
+- **Prep the carrots:** Peel each carrot. Cut the pointed tip on a bias at approximately 45°. Trim the stem end leaving ¼ inch of green top. Using a paring knife, bevel the stem end — shave a slight angle from the carrot body up to the base of the green, creating a clean ¼–½ inch taper. Groom the green itself by trimming any ragged or wilted fronds flush. See [ref:08-13a | Carrot stem bevel and top trim detail].
+- **Select your pan:** Choose a wide, straight-sided sauté pan or sauteuse large enough to hold the carrots in a single, snug layer. Crowding is acceptable; stacking is not.
+
+## Method
+
+**Phase 1: Build the Glacé**
+
+Combine the water, butter, sugar, Maldon, and star anise in the pan over medium-high heat. Stir briefly to begin dissolving the sugar. Bring to a full simmer — the liquid should be active but not violently boiling.
+
+**Phase 2: Add Carrots & Apply Cartouche**
+
+Lay the prepped carrots in the pan in a single layer, stem ends up. Place the cartouche directly on the surface of the liquid, pressing gently to contact. Reduce heat to medium and cook for 8–10 minutes. The carrots are ready when a paring knife slides through the thickest point with slight resistance — tender but with structure. Do not cook to complete softness.
+
+**Sensory Cue:** The liquid will be visibly reducing throughout. You will hear the sizzle change from a rolling simmer to a tighter, more intense sound as the water evaporates.
+
+**Phase 3: Glaze**
+
+Remove the cartouche. Increase heat to medium-high. Swirl the pan continuously — do not stir — as the remaining liquid reduces rapidly and the butter and sugar form the glacé coating. This takes 1–2 minutes. The carrots are done when they are fully coated, glossy, and the pan shows only a thin, syrupy residue.
+
+**Sensory Cue:** The liquid transitions from opaque to translucent to a tight, clinging syrup. The carrots will visibly shine. Stop immediately at this point — another 30 seconds and the sugar will begin to caramelize and darken.
+
+**Phase 4: Plate**
+
+Transfer the glazed carrots immediately to a warm plate, arranging stem ends in one direction. Remove and discard the star anise, or place one pod as garnish. Scatter fleur de sel lightly. Add garnish if using.
+
+## Variations
+
+### Sichuan Glacé Carrots with Black Sesame
+
+Replace the 3 star anise with 1 tsp Sichuan peppercorns, lightly toasted in a dry pan and cracked. Proceed with the identical glacé method. The dish character shifts entirely — the málà tingle of the peppercorn plays against the sweetness of the glaze, creating a warm, citrus-floral heat rather than anise warmth. At the plate, replace the fleur de sel finish with a scatter of black sesame seeds and omit the floral garnish. The Dukkah finish is not recommended for this variation.
+
+## Chef's Notes
+
+- **Maldon vs. Diamond Crystal:** Maldon is used here as an intentional flavor ingredient — its mineral, briny quality carries through the glacé reduction and becomes part of the dish's flavor profile. It is not interchangeable with Diamond Crystal on a 1:1 basis. If substituting Diamond Crystal kosher salt, reduce to 6 g (1 tsp).
+- **Cut guide — this method works for any carrot format:**
+  - Whole baby bunched (ideal): 8–12 min under cartouche
+  - Bias-cut cylinders, 1–1.5 cm thick: 6–8 min
+  - Medallions, max 1 cm thick: 4–6 min
+  - Maximum thickness: do not exceed 2 cm. Anything thicker requires a covered start before applying the cartouche, or the exterior glazes before the center cooks through.
+- **Aromatic profiles** — swap the star anise 1:1 with any of the following: green cardamom pods (3, cracked); whole coriander seed (1 tsp) with a strip of orange zest; black pepper (1 tsp cracked) with 2 fresh thyme sprigs. Each changes the dish character while the glacé technique remains identical.
+- **Garnish options:** Sage flowers, chive blossoms, and micro tarragon all work well with the star anise base. For a textural finish, scatter a small pinch of Dukkah at the plate — the nut-seed crunch cuts through the glaze cleanly. See 11-11.
+- **Timing is everything:** The glaze window is narrow. Have your serving plate warm and ready before Phase 3 begins. The carrots do not hold well once glazed.
+
+## Glossary
+
+- **Glacé:** French for "glazed" or "iced." In vegetable cookery, a technique where a small quantity of liquid, butter, and sugar reduces completely around the vegetable, coating it in a shiny, concentrated glaze.
+- **Cartouche:** A round of parchment paper cut to fit the interior diameter of a pan, pressed directly against the surface of a liquid. Controls evaporation rate without fully sealing — creates a gentle, even braising environment.
+- **Málà:** The characteristic numbing-tingling sensation produced by hydroxy-alpha-sanshool, the active compound in Sichuan peppercorn. Distinct from capsaicin heat — it is a tactile rather than thermal sensation.
+- **Bevel:** In knife work, a chamfered or angled cut that creates a smooth transition between two surfaces. Here applied to the carrot stem end to create a clean taper from the carrot body to the green top.
+- **Fleur de sel:** Hand-harvested sea salt crystals skimmed from the surface of salt evaporation ponds. Used exclusively as a finishing salt — its delicate flake structure and mineral character are destroyed by cooking.
+
+## Keywords
+
+glacé, glazed carrots, French technique, cartouche, butter braise, star anise, Sichuan peppercorn, vegetable side, braising, single pan, fine dining, plating, sweet, aromatic
+
+## Category
+
+cuisine: French | style: Fine Dining | family: Root Vegetable | course: Side | dietary: Vegetarian, Gluten-Free
