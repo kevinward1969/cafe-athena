@@ -77,7 +77,7 @@ Gather the smeared dough pieces back together. They should now bond into a cohes
 
 ## Keywords
 
-shortcrust, pâte brisée, pastry, butter, flour, fat, gluten inhibition, fraisage, sablage, blind bake, les fonds, foundation dough
+shortcrust, pâte brisée, pate brisee, pastry, butter, flour, fat, gluten inhibition, fraisage, sablage, blind bake, les fonds, foundation dough
 
 ## Category
 

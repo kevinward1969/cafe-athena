@@ -68,7 +68,7 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 
 ## Keywords
 
-crème diplomat, crème mousseline, crème chiboust, composite cream, pastry filling, folding technique, aeration, emulsification, French pastry
+crème diplomat, creme diplomat, crème mousseline, creme mousseline, crème chiboust, creme chiboust, composite cream, pastry filling, folding technique, aeration, emulsification, French pastry
 
 ## Category
 

@@ -58,7 +58,7 @@ Crème Chantilly is heavy cream that has been aerated and sweetened. Its success
 
 ## Keywords
 
-crème chantilly, whipped cream, stabilized cream, heavy cream, aeration, xanthan gum, gelatin, dessert topping, French pastry
+crème chantilly, creme chantilly, whipped cream, stabilized cream, heavy cream, aeration, xanthan gum, gelatin, dessert topping, French pastry
 
 ## Category
 

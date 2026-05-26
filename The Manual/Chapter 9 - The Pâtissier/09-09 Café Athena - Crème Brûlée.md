@@ -138,7 +138,7 @@ Serve the brûlée as-is, or consider:
 
 ## Keywords
 
-crème brûlée, French classic, custard, vanilla, bain-marie, tempering, turbinado, torch technique, egg yolk, carryover cooking, pastry, ramekin
+crème brûlée, creme brulee, French classic, custard, vanilla, bain-marie, tempering, turbinado, torch technique, egg yolk, carryover cooking, pastry, ramekin
 
 ## Category
 

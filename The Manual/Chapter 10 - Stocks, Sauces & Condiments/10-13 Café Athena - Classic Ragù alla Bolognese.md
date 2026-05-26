@@ -102,7 +102,7 @@ When the fat has separated from the sauce and floats on top in orange droplets, 
 
 ## Keywords
 
-slow simmer, meat emulsion, ragù, pancetta, milk, wine, tomato paste, stock, browning, soffritto
+slow simmer, meat emulsion, ragù, ragu, bolognese, pancetta, milk, wine, tomato paste, stock, browning, soffritto
 
 ## Category
 

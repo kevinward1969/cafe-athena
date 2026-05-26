@@ -87,7 +87,7 @@ A study in textural contrast: a dark, resinous caramelized shell protecting a te
 
 ## Keywords
 
-canelés, brandy, thermal shock, caramelization, pastry, custard, beeswax, carbon steel, french, fermented
+canelés, caneles, brandy, thermal shock, caramelization, pastry, custard, beeswax, carbon steel, french, fermented
 
 ## Category
 

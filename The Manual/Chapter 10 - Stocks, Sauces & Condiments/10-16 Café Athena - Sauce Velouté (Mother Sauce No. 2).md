@@ -98,7 +98,7 @@ Remove the herbs. Pass the sauce through a Chinois (fine-mesh strainer) into a c
 
 ## Keywords
 
-velouté, roux, stock, chicken, butter, flour, savory, classical, emulsification, reduction, simmer, skimming, technique, pastry
+velouté, veloute, roux, stock, chicken, butter, flour, savory, classical, emulsification, reduction, simmer, skimming, technique, pastry
 
 ## Category
 

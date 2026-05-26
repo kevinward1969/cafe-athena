@@ -80,7 +80,7 @@ Once set, remove the cheesecloth and seal with a solid airtight lid. Move the ja
 
 ## Keywords
 
-fermentation, crème fraîche, dairy, buttermilk, emulsion, pasteurization, microbial, texture, sauce, cultured
+fermentation, crème fraîche, creme fraiche, dairy, buttermilk, emulsion, pasteurization, microbial, texture, sauce, cultured
 
 ## Category
 

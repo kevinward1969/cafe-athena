@@ -85,7 +85,7 @@ Mark the dough with two fingerprints to track your turn count. Wrap and refriger
 
 ## Keywords
 
-pâte feuilletée, puff pastry, lamination, détrempe, beurrage, butter block, french pastry, layers, les fonds, foundation dough, classical technique
+pâte feuilletée, pate feuilletee, puff pastry, lamination, detrempe, détrempe, beurrage, butter block, french pastry, layers, les fonds, foundation dough, classical technique
 
 ## Category
 

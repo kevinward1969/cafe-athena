@@ -81,7 +81,7 @@ With the mixer on medium-low, add the eggs in four additions. Wait for the dough
 
 ## Keywords
 
-pâte à choux, choux pastry, steam dough, physical leavening, gelatinization, cream puff, éclair, panade, les fonds, foundation dough, twice-cooked
+pâte à choux, pate a choux, choux pastry, steam dough, physical leavening, gelatinization, cream puff, eclair, éclair, panade, les fonds, foundation dough, twice-cooked
 
 ## Category
 
