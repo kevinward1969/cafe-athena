@@ -105,15 +105,15 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PRO
 
 ## ⚠️ Agent Propagation Rule
 
-**When any of the following files are modified, stop and remind the user to manually update the corresponding external surfaces before committing.**
+**When the canonical master is modified, apply changes to secondary surfaces as follows. File edits are done directly — only UI pastes require manual action by Kevin.**
 
-| File Changed | Manual Update Required |
+| File Changed | Action Required |
 |-------------|----------------------|
-| `.claude/agents/Cafe Athena Chef.agent.md` | Copy changes to `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (Claude Desktop) and `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (Gemini Gem 1 fallback) |
-| `Guidance/Recipe-Format-Standard.md` | No manual action needed — Claude Desktop reads this file live from the filesystem via MCP |
-| `.agents/workflows/*.md` | No external update needed — workflows run in Claude Code only |
-| `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | Paste updated content into the Gemini Gem 2 configuration |
-| `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Paste updated content into the Claude Desktop project instructions |
+| `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
+| `Guidance/Recipe-Format-Standard.md` | No action needed — Claude Desktop reads this file live from the filesystem via MCP |
+| `.agents/workflows/*.md` | No action needed — workflows run in Claude Code only |
+| `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
+| `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop project settings |
 
 After propagating changes, bump the version number in the modified file and add an entry to `AGENT_CHANGELOG.md`.
 

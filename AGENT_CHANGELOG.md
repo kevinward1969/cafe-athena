@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
 |--------------|-----------------|-----------------|----------------|-----------------|
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 |
 | 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 |
 | 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 |
 | 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 |
@@ -77,6 +78,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.12 | 2026-05-25 | Fixed Mode 1 verbosity: reordered response structure to lead with recommendation (proposed direction first, supporting logic second), made Steelman check conditional on consequential/contentious direction rather than mandatory every turn, and scoped confirmation echo to genuinely ambiguous mode detection only. |
 | v1.11 | 2026-05-19 | Applied analyzer-aligned wording for factual-correction persona guidance and removed duplicate Mode 2 correction sentence to keep one concise correction policy with mode-specific priority handling. |
 | v1.10 | 2026-05-19 | Further diagnostics hardening: moved correction priority logic out of PERSONA into explicit Mode 1/Mode 2 behavior rules, added per-mode priority order lines, and clarified that false premises are never preserved while mode sections define execution style. |
 | v1.9 | 2026-05-19 | Resolved Chat Customizations diagnostics by clarifying authority vs exploration priority in the PERSONA section and tightening the Mode 2 critical-input stop point to explicitly require all three fields (yield, cooking method, ingredient list). |
