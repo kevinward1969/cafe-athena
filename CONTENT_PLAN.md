@@ -21,7 +21,7 @@
 | **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
 | Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
 | Ch 8 - The Field | 12 | 12 | ✓ | — |
-| Ch 9 - The Pâtissier | 12 | 12 | ✓ | — |
+| Ch 9 - The Pâtissier | 13 | 12 | ✓ | — |
 | Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
 | Ch 11 - Spice Blends, Oils & Pastes | 12 | 12 | ✓ | — |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |

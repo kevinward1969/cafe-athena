@@ -6720,10 +6720,10 @@
       "lastModified": "2026-05-26"
     },
     {
-      "id": "12-16",
-      "title": "Sesame Tuile Cylinders (Noir & Orange)",
-      "chapter": 12,
-      "chapterName": "Les Fonds",
+      "id": "09-13",
+      "title": "Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -6743,11 +6743,12 @@
       },
       "cuisine": "Asian-Fusion",
       "style": "Fine Dining",
-      "family": "Platform & Vessel",
-      "course": "Component",
+      "family": "Confection",
+      "course": "Dessert",
       "dietary": null,
       "keywords": [
         "tuile",
+        "Florentine",
         "sesame",
         "miso",
         "dark chocolate",
@@ -6756,8 +6757,11 @@
         "crystallization",
         "baking",
         "pastry",
+        "confection",
         "sweet & savory"
-      ]
+      ],
+      "version": "1.1",
+      "lastModified": "2026-05-26"
     },
     {
       "id": "12-17",
@@ -7078,7 +7082,7 @@
       ]
     },
     {
-      "id": "12-24",
+      "id": "12-16",
       "title": "Foundation Curd (The Lemon Protocol)",
       "chapter": 12,
       "chapterName": "Les Fonds",
@@ -7119,8 +7123,8 @@
         "status": "clean",
         "issues": []
       },
-      "version": "1.1",
-      "lastModified": "2026-05-19"
+      "version": "1.2",
+      "lastModified": "2026-05-26"
     }
   ]
 }

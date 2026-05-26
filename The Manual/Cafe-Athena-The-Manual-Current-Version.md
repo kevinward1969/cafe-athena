@@ -139,6 +139,7 @@
 - 09-10 Café Athena - Florentine Cannoli
 - 09-11 Café Athena - Truffle Cake Pops
 - 09-12 Café Athena - Brown Butter Banana Bread
+- 09-13 Café Athena - Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 
@@ -202,7 +203,6 @@
 - 12-13 Café Athena \- Crème Chantilly (Whipped Cream)
 - 12-14 Café Athena \- The Composite Creams
 - 12-15 Café Athena \- Frico Laminé (Baked Cheese Tiles & Vessels)
-- 12-16 Café Athena \- Sesame Tuile Cylinders (Noir & Orange)
 - 12-17 Café Athena \- Non-Fish Caviar (Seeds & Spheres)
 - 12-18 Café Athena \- Frying with Dustings, and Dredges, and Crusts (Oh My)
 - 12-19 Café Athena \- Panés, Batters, and the Architecture of a Shatter
@@ -210,7 +210,7 @@
 - 12-21 Café Athena \- Basic B (Starch-Based Batter)
 - 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 - 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
-- 12-24 Café Athena \- Foundation Curd (The Lemon Protocol)
+- 12-16 Café Athena \- Foundation Curd (The Lemon Protocol)
 
 # REFERENCE
 
