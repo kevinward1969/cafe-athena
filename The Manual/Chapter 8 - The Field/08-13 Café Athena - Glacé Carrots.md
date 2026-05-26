@@ -90,7 +90,7 @@ Replace the 3 star anise with 1 tsp Sichuan peppercorns, lightly toasted in a dr
 
 ## Keywords
 
-glacé, glazed carrots, French technique, cartouche, butter braise, star anise, Sichuan peppercorn, vegetable side, braising, single pan, fine dining, plating, sweet, aromatic
+glacé, glace, glazed carrots, glace carrots, French technique, cartouche, butter braise, star anise, Sichuan peppercorn, vegetable side, braising, single pan, fine dining, plating, sweet, aromatic
 
 ## Category
 
