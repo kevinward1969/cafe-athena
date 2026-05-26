@@ -34,7 +34,10 @@ The glacé method is one of the most elegant techniques in the French vegetable 
 ## Mise en Place
 
 - **Cut a cartouche:** Fold a sheet of parchment into quarters, then into a triangle. Measure against the pan radius and trim. Unfold — you have a round. Cut a small hole in the center to allow steam to vent.
-- **Prep the carrots:** Peel each carrot. Cut the pointed tip on a bias at approximately 45°. Trim the stem end leaving ¼ inch of green top. Using a paring knife, bevel the stem end — shave a slight angle from the carrot body up to the base of the green, creating a clean ¼–½ inch taper. Groom the green itself by trimming any ragged or wilted fronds flush. See [ref:08-13a | Carrot stem bevel and top trim detail].
+- **Prep the carrots:** Peel each carrot. Cut the pointed tip on a bias at approximately 45°. Trim the stem end leaving ¼ inch of green top. Using a paring knife, bevel the stem end — shave a slight angle from the carrot body up to the base of the green, creating a clean ¼–½ inch taper. Groom the green itself by trimming any ragged or wilted fronds flush.
+
+[ref:08-13a | Carrot stem bevel and top trim detail]
+
 - **Select your pan:** Choose a wide, straight-sided sauté pan or sauteuse large enough to hold the carrots in a single, snug layer. Crowding is acceptable; stacking is not.
 
 ## Method

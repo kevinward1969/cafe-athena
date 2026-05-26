@@ -53,9 +53,13 @@ Crème Pâtissière (pastry cream) is defined by its use of starch—typically c
 
 ## Variations
 
-* **Chocolate:** While the cream is still hot (Step 5), whisk in 100 g of chopped 60% dark chocolate. Omit the butter if the chocolate has a high cocoa butter content to maintain the proper set. See [ref:12-11a | Chocolate crème pâtissière — set texture and color].
+* **Chocolate:** While the cream is still hot (Step 5), whisk in 100 g of chopped 60% dark chocolate. Omit the butter if the chocolate has a high cocoa butter content to maintain the proper set.
 
-* **Lemon:** Infuse 8–10 g (zest of 2 medium lemons, zest only) into the milk/cream during Step 1 alongside the vanilla. Strain out with the vanilla pod. Omit the Grand Marnier; instead, whisk in 30 ml (2 tbsp) fresh lemon juice off-heat after the butter (Step 5). Reduce the vanilla to ¼ bean. See [ref:12-11b | Lemon crème pâtissière — color and sheen comparison to base].
+[ref:12-11a | Chocolate crème pâtissière — set texture and color]
+
+* **Lemon:** Infuse 8–10 g (zest of 2 medium lemons, zest only) into the milk/cream during Step 1 alongside the vanilla. Strain out with the vanilla pod. Omit the Grand Marnier; instead, whisk in 30 ml (2 tbsp) fresh lemon juice off-heat after the butter (Step 5). Reduce the vanilla to ¼ bean.
+
+[ref:12-11b | Lemon crème pâtissière — color and sheen comparison to base]
 
 ## Chef's Notes
 

@@ -6528,7 +6528,7 @@
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": true,
-        "referenceImagesProcessed": false
+        "referenceImagesProcessed": true
       },
       "audit": {
         "lastRun": "2026-05-25",
