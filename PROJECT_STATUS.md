@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-05-26 (session 35)
+Last Updated: 2026-05-27 (session 36)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -12,7 +12,7 @@ In-progress folios. Completed items are tracked via `recipes.json` and `git log`
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
-| 14-01 | The Garnish Arsenal (The Power of Finish) | Pending | Ch. 14 first folio; Part IV now active |
+| *(none)* | — | — | — |
 
 ---
 
@@ -40,7 +40,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | ~~09-09 Crème Brûlée~~ | ✓ Done 2026-05-20 — folio written and registered | — | 2026-05-19 |
 | ~~12-11 update — lemon crème pâtissière variant~~ | ✓ Done 2026-05-26 — lemon variant written, ref images (12-11a, 12-11b) placed and rendered, keywords updated, deployed v1.1. Ref image rendering bug also fixed site-wide (08-13). | — | 2026-05-19 |
 | ~~PB tart crust — 12-02 variant vs. new 12-25 folio~~ | ✓ Done 2026-05-26 — added as Variant 7 (Peanut Butter Shell) in 12-02. Folio renamed to Seven Variants throughout. Deployed v1.3. | — | 2026-05-19 |
-| Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2. Full re-audit pending to catch any remaining order violations. | Blocked on CONTENT_PLAN completion | 2026-05-15 |
+| Re-audit all recipes vs v3.2 template | `audit.py` updated for v3.2. Full re-audit pending to catch any remaining order violations. | Ready to run | 2026-05-15 |
 | Fix-It remediation plan | For recipes flagged non-conformant, bring to v3.2 format | Blocked on re-audit | 2026-05-15 |
 | ~~Finish pipeline on 12-02, 12-15, 12-22~~ | ✓ Done 2026-05-26 — formatAudit and glossaryPull complete on all three. 11 new glossary terms added (A, B, D, F, P, S, W). 12-15 section header fixed (Chef's Notes / Variations → Chef's Notes). All deployed v1.1. | — | 2026-05-18 |
 | ~~Architecture review — Ch. 1 & Ch. 12 placement~~ | ✓ Done 2026-05-26 — Ch. 1 clean. 12-16 Sesame Tuile Cylinders moved to Ch. 9 as 09-13 (Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache). Renamed, re-categorized (Confection/Dessert), 12-24 → 12-16 (Foundation Curd). All deployed. | — | 2026-05-25 |

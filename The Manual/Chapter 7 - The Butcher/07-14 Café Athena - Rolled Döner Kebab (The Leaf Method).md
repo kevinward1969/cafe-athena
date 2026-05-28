@@ -1,0 +1,105 @@
+# Café Athena - Rolled Döner Kebab (The Leaf Method)
+
+Spiced ground beef sheeted paper-thin, rolled tight, and oven-baked to produce clean, stackable slices with the layered texture of vertical spit döner — no rotisserie required.
+
+**Yield:** 4 portions | **Prep:** 25 min | **Inactive:** 30 min | **Cook:** 25 min | **Total:** ~1 hr 20 min
+
+## Headnote
+
+The leaf method replicates the compressed, laminated structure of vertical spit döner by rolling seasoned meat as thin as possible before baking. The parchment acts as a forming mold — tight rolling creates distinct strata that hold their shape under the knife. The onion juice is reduced first to concentrate flavor and eliminate free moisture, which would otherwise steam the interior and prevent the exterior from setting.
+
+**Teaching Idea: Protein Binding & Free Moisture.** Ground beef sets during baking as myosin proteins cross-link under heat. Free water in the mix delays this process — the meat steams rather than firms. Reducing the onion juice before incorporating it removes that water while preserving the aromatic compounds, giving you flavor without structural compromise.
+
+## Ingredients
+
+### The Döner Mix
+
+- 500 g 80/20 ground beef
+- 1 medium yellow onion (approx. 150 g), grated and reduced to 2 tbsp
+- 45 g (3 tbsp) full-fat plain yogurt
+- 6 g (1 tsp) Diamond Crystal kosher salt
+- 3 g (1 tsp) black pepper, freshly ground
+- 3 g (1 tsp) ground cumin
+- 2 g (1 tsp) dried oregano
+- 1 g (½ tsp) dried thyme
+- 3 g (1 tsp) red pepper powder or Aleppo pepper
+
+### The Yogurt-Herb Sauce
+
+- 240 g (1 cup) full-fat strained yogurt
+- 10 g fresh dill, finely chopped
+- 10 g fresh flat-leaf parsley, finely chopped
+- 2 garlic cloves, microplaned
+- 4 g (¾ tsp) Diamond Crystal kosher salt
+- 15 ml (1 tbsp) cold water, to loosen if needed
+
+## Mise en Place
+
+- Grate the onion on a box grater over a small saucepan. Simmer over medium heat until reduced to approximately 2 tbsp of concentrated juice, about 8–10 minutes. Cool completely before adding to the meat.
+- Cut three sheets of parchment paper large enough to sheet and roll each portion.
+- Bring the ground beef to room temperature (15 minutes out of refrigerator).
+- Preheat oven to 180°C/355°F once the meat is mixed and resting.
+- Microplane the garlic directly into the strained yogurt.
+
+## Method
+
+**1. Build the Mix**
+Combine the ground beef, cooled reduced onion juice, yogurt, salt, pepper, cumin, oregano, thyme, and red pepper in a bowl. Knead firmly for 3–4 minutes until the mixture tightens and becomes cohesive — it should pull away from the sides of the bowl cleanly and feel slightly tacky, not wet.
+
+**Why:** Extended kneading develops myosin extraction, which is what binds the roll and allows it to slice cleanly after baking. Under-kneaded mix will crumble.
+
+**2. Rest the Mix**
+Cover and refrigerate for 30 minutes.
+
+**Why:** The rest allows the salt to continue extracting myosin and lets the spices hydrate fully into the fat.
+
+**3. Sheet the Rolls**
+Divide the mix into 3 equal portions (approximately 185 g each). Place one portion between two sheets of parchment and roll out as thin as possible — target 3–4 mm, roughly the thickness of a €1 coin. The sheet should be even with no thick spots.
+
+**Sensory cue:** Hold the parchment up to light — you should see slight translucency through the meat sheet.
+
+**4. Roll and Form**
+Peel off the top sheet of parchment. Using the bottom sheet, roll the meat tightly away from you into a compact cylinder, keeping tension throughout. The parchment becomes the mold — do not remove it. Twist the ends closed like a bonbon to compress.
+
+**5. Bake — Stage 1**
+Place the rolls seam-side down on a rack-lined baking tray. Bake at 180°C/355°F for 20–22 minutes until the rolls feel firm when pressed through the parchment and the internal temperature reads 70°C/158°F.
+
+**6. Bake — Stage 2 (Crust Finish)**
+Remove the parchment. Increase oven to 220°C/430°F. Return the rolls for 3–4 minutes until the exterior is tight, lightly colored, and the surface has a dry, set appearance.
+
+**Sensory cue:** The exterior should feel firm and slightly resistant under finger pressure — not springy, not hard.
+
+**7. Rest and Slice**
+Rest 5 minutes before slicing. Cut on a slight bias into 5–6 mm slices. The interior should show distinct concentric layers.
+
+**8. Build the Sauce**
+Combine strained yogurt, dill, parsley, microplaned garlic, and salt. Stir to combine. Add cold water 1 tsp at a time only if the sauce is too thick to drizzle. Taste and adjust salt.
+
+**Sensory cue:** The sauce should coat a spoon lightly and drop in a slow ribbon — not pour like water, not sit in a mound.
+
+## Chef's Notes
+
+- **Pita:** Serve with warm pita. For a quick flatbread, see the Companion Note below. A full Pita folio covering both sourdough and instant yeast methods is in development for Ch. 4: The Mill.
+- **Slicing:** A sharp thin-bladed knife is essential. A serrated knife will compress the layers rather than cut through them.
+- **Make-ahead:** The rolls can be formed, wrapped in parchment, and refrigerated raw for up to 24 hours before baking. Do not freeze raw — the free moisture from thawing will compromise the bind.
+- **Leftover rolls:** Slice cold and reheat in a dry skillet over medium-high for 60–90 seconds per side. Better crust than reheating in the oven.
+
+## Companion Note: Quick Pita
+
+For a same-day flatbread, combine 300 g bread flour, 200 ml warm milk (38°C/100°F), 15 g plain yogurt, 15 ml neutral oil, 5 g instant yeast, 5 g sugar, and 5 g Diamond Crystal kosher salt. Knead to a soft dough, bulk ferment 40 minutes, divide into 8 balls, rest 15 minutes, roll to 3–4 mm, and bake at 200°C/390°F for 8–10 minutes until puffed and lightly golden. For the sourdough version and full technique, see Ch. 4: The Mill — Pita Folio (in development).
+
+## Glossary
+
+- Myosin: A muscle protein in ground meat that, when extracted through kneading and salt, acts as a natural binder — the structural glue that holds the roll together.
+- Leaf Method: A home technique for replicating the compressed, layered texture of vertical spit döner by sheeting meat thin and rolling it tightly before baking.
+- Reduction (onion juice): Simmering grated onion liquid to evaporate free water while concentrating aromatic compounds.
+- Strata: The distinct concentric layers visible in a cross-section slice of the finished roll — the visual signature of the leaf method.
+- Aleppo Pepper: A fruity, moderately hot dried pepper from Syria with lower heat than standard crushed red pepper and a subtle oiliness. Preferred here for its complexity.
+
+## Keywords
+
+döner, ground beef, Turkish, kofta, oven-baked, leaf method, yogurt, flatbread, myosin, protein binding, spiced meat, weeknight, sandwich
+
+## Category
+
+cuisine: Turkish | style: Modern | family: Formed Meat | course: Dinner

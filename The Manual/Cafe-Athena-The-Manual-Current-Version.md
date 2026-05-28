@@ -104,10 +104,10 @@
 - 07-08 Café Athena - Braised Beef Stroganoff
 - 07-09 Café Athena - MasterClass Beef Bourguignon
 - 07-10 Café Athena - "The Competition Red" Texas-Style Chili
-- 07-10.2 Café Athena – "The Competition Red" Texas-Style Chili
 - 07-11 Café Athena - Pressure-Braised Chuck Roast (The Competition Pot Roast)
 - 07-12 Café Athena - Dehydrator Bacon (Four Ways)
 - 07-13 Café Athena - Individual Beef Wellington
+- 07-14 Café Athena - Rolled Döner Kebab (The Leaf Method)
 
 ## CHAPTER 8: THE FIELD
 
@@ -203,6 +203,7 @@
 - 12-13 Café Athena \- Crème Chantilly (Whipped Cream)
 - 12-14 Café Athena \- The Composite Creams
 - 12-15 Café Athena \- Frico Laminé (Baked Cheese Tiles & Vessels)
+- 12-16 Café Athena \- Foundation Curd (The Lemon Protocol)
 - 12-17 Café Athena \- Non-Fish Caviar (Seeds & Spheres)
 - 12-18 Café Athena \- Frying with Dustings, and Dredges, and Crusts (Oh My)
 - 12-19 Café Athena \- Panés, Batters, and the Architecture of a Shatter
@@ -210,7 +211,6 @@
 - 12-21 Café Athena \- Basic B (Starch-Based Batter)
 - 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 - 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
-- 12-16 Café Athena \- Foundation Curd (The Lemon Protocol)
 
 # REFERENCE
 
