@@ -4098,6 +4098,52 @@
       }
     },
     {
+      "id": "08-14",
+      "title": "Crispy Smashed Brussels Sprouts",
+      "chapter": 8,
+      "chapterName": "The Field",
+      "type": "recipe",
+      "cuisine": "American",
+      "style": "Modern",
+      "family": "Brassica",
+      "course": "Side",
+      "keywords": [
+        "Brussels sprouts",
+        "smashed vegetables",
+        "nutritional yeast",
+        "sheet pan",
+        "roasting",
+        "frico",
+        "Parmesan",
+        "smoked pepper",
+        "vegan",
+        "Maillard",
+        "crispy",
+        "brassica",
+        "weeknight",
+        "side"
+      ],
+      "dietary": "Vegan",
+      "added": "2026-05-30",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-05-30",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-05-30"
+    },
+    {
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,

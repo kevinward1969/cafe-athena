@@ -38,3 +38,6 @@ Thumbs.db
 
 # Recipe reference PDFs (local working files only)
 RecipeIdeas/
+
+# Completed side projects and archived working files
+archived/

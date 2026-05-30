@@ -124,6 +124,7 @@
 - 08-11 Café Athena - Roasted Brussels Sprouts with Warm Honey-Mustard Pan Sauce
 - 08-12 Café Athena - Southern Braised Collard Greens & Pot Likker
 - 08-13 Café Athena - Glacé Carrots
+- 08-14 Café Athena - Crispy Smashed Brussels Sprouts
 
 ## CHAPTER 9: THE PÂTISSIER
 

@@ -56,6 +56,8 @@ Ideas for Part IV (Planning, Plating, Service) or other editorial content — es
 
   Needs: content plan, chapter scaffolding, site section design, nav integration. Site-integration work is coupled — the section can't be built without the content. When started, move to `PROJECT_STATUS.md`. *(2026-04-22)*
 
+- **14-01 — The Garnish Arsenal (The Power of Finish)** — Ch. 14 first folio; the visual and textural finishing layer (microgreens, blooms, oils, dust, crunch, sauce dots). Technique-forward, should establish the plating vocabulary used across Part IV. *(moved from active 2026-05-27)*
+
 - **The Expo as multi-purpose blog** — The Expo site section doubles as an editorial blog layer: curated recipe collections (e.g. "Full Brunch Service," "Core Café Athena Menu"), menu essays, plating guides, service notes. Collection pages live here as blog-style posts that pull together recipes with context, rather than bare auto-generated lists. Natural home for Part IV content once that chapter work begins. *(2026-05-19)*
 
 ---
