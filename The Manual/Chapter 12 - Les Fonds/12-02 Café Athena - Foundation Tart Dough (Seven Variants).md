@@ -63,11 +63,13 @@ Modify only the values shown. Where a cell is blank, use the Base Formula quanti
 Three methods arrive at the same product — a hydrated, rested dough ready to roll. Choose one based on the variant and your equipment. After Phase 1, the recipe is unified for all variants.
 
 **Method A: Sanding (Food Processor)**
-*Use for Variants 1, 3, 4 — or any variant where maximum fat encapsulation is the goal.*
+*Use for Variants 1, 3, 4, 7 — or any variant where maximum fat encapsulation is the goal.*
 
 Combine the flour, icing sugar, almond flour (if using), and salt in the bowl of a food processor. Pulse twice to distribute. Scatter the cold butter cubes over the dry mixture and pulse in 2-second bursts — eight to ten pulses — until the mixture resembles coarse, damp sand with no visible butter chunks larger than a lentil. With the machine running, add the eggs (or yolks and cream, for Variant 6) in a thin, steady stream and process just until the dough begins to clump and pull away from the sides of the bowl, about 15–20 seconds. Stop the moment it coheres.
 
 > **Sensory Cue:** The dough should look shaggy and slightly crumbly when you open the lid. When you press a handful against your palm, it should hold together cleanly without cracking.
+
+> **For Variant 7 (Peanut Butter Shell):** Add the fat in two stages — the peanut butter is a soft, oily paste, not a firm fat, and will smear if introduced with the cold butter, preventing a clean sand. First sand the 185 g cold butter into the dry mix to coarse, damp sand as above. Then add the 160 g natural peanut butter all at once and pulse 5–6 short bursts, just until it disappears into the sand and the mixture reads as clumpy, damp meal — slightly wetter than a plain sanding, which is correct. Stream in the egg last and process only until the dough clumps. The added soft fat keeps this dough slacker, so it requires the 2-hour minimum chill (overnight preferred) at Phase 2 and the Slow Bake at Phase 5.
 
 **Method B: Creaming (Stand Mixer)**
 *Use for Variant 2 — or any variant where aeration and a tender snap are the priority.*
