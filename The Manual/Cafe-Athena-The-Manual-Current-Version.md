@@ -141,6 +141,7 @@
 - 09-11 Café Athena - Truffle Cake Pops
 - 09-12 Café Athena - Brown Butter Banana Bread
 - 09-13 Café Athena - Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache
+- 09-14 Café Athena - The Fool's Gold Tart
 
 # PART III: THE LARDER (BUILDING BLOCKS)
 

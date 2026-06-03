@@ -6418,10 +6418,11 @@
         "tartlet shells",
         "les fonds",
         "french pastry",
-        "production reference"
+        "production reference",
+        "peanut butter"
       ],
-      "version": "1.4",
-      "lastModified": "2026-06-01"
+      "version": "1.5",
+      "lastModified": "2026-06-02"
     },
     {
       "id": "12-03",
@@ -7349,6 +7350,52 @@
         "confectionery",
         "pyrolysis"
       ]
+    },
+    {
+      "id": "09-14",
+      "title": "The Fool's Gold Tart",
+      "chapter": 9,
+      "chapterName": "The Pâtissier",
+      "type": "recipe",
+      "added": "2026-06-02",
+      "stages": {
+        "formatAudit": false,
+        "keywordPull": true,
+        "glossaryPull": false,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": null,
+        "status": "pending",
+        "issues": []
+      },
+      "cuisine": "American",
+      "style": "Modern",
+      "family": "Tart",
+      "course": "Dessert",
+      "dietary": null,
+      "keywords": [
+        "fool's gold tart",
+        "elvis sandwich",
+        "peanut butter tart",
+        "banana pastry cream",
+        "concord grape",
+        "candied bacon",
+        "grape gelée",
+        "moisture seal",
+        "composed dessert",
+        "sweet and savory",
+        "tartlet",
+        "pâtisserie",
+        "blind bake",
+        "roasted banana"
+      ],
+      "version": "1.0",
+      "lastModified": "2026-06-02"
     }
   ]
 }
