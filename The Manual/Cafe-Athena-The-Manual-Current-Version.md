@@ -53,8 +53,8 @@
 - 03-07 Café Athena \- Silky Chicken Liver Mousse (Stovetop Method)  
 - 03-08 Café Athena \- Sous Vide Chicken Liver Mousse  
 - 03-09 Café Athena \- Winter Citrus & Shaved Fennel Salad  
-- 03-10 Café Athena \- Velvet Mushroom Mousse (Vegetarian Pâté)  
-- ​​03-11 Café Athena \- Double Deviled Eggs (Le Jambon)  
+- 03-10 Café Athena \- Velvet Mushroom Mousse (Vegetarian Pâté)
+- 03-11 Café Athena \- Double Deviled Eggs (Le Jambon)
 - 03-12 Café Athena \- Deviled Ham & Cognac Mousse (Pâté Rustique)
 - 03-13 Café Athena \- Calf Liver & Duck Fat Mousse
 - 03-14 Café Athena \- Sichuan-Spiced SPAM & Torched Dubliner on Crispy Rice
