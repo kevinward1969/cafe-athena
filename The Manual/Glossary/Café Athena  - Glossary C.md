@@ -52,6 +52,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Couche: A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
 - Court-Bouillon: A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
+- Craggly batter: A frying batter deliberately seeded with hydrated flour clumps before use. The clumps create irregular surface texture that fries at a different rate than the surrounding thin batter layer, producing a shaggy, heterogeneous crust that shatters unevenly.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
 - Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.

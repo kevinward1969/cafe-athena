@@ -43,6 +43,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Pyrazines: A class of nitrogen-containing aromatic compounds produced during the Maillard reaction. Responsible for roasted, nutty, and earthy flavor notes in toasted nuts, coffee, and cooked grains. Generated in sesame seeds during dry toasting.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
+- Pre-render: A low-temperature oven step applied to a protein before coating or frying. Melts subcutaneous fat from the skin, producing a drier surface for better batter adhesion and ensuring the interior reaches a safe temperature before the fry begins.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.

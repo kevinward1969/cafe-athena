@@ -65,6 +65,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Strengthen: The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
 - Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
 - Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
+- Subcutaneous fat: Fat stored directly beneath the skin of poultry or other protein. Requires sustained low heat to render fully — subcutaneous fat does not liquefy at frying temperatures alone.
 - Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
 - Sumac: A coarse-ground dried berry from Rhus coriaria, used throughout Middle Eastern and Mediterranean cooking as a souring agent. Its primary acid contributor is malic acid; it also contains anthocyanins responsible for its deep burgundy color. Delivers a tart, fruity brightness distinct from citrus or vinegar. pH-active; brightens and lifts perceived flavor in blended applications.
 - Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.

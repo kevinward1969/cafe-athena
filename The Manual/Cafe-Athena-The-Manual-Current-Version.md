@@ -93,6 +93,7 @@
 - 06-06 Café Athena \- Modern Chicken Pot Pie (Velouté Method)
 - 06-07 Café Athena \- Chicken and Dumplings
 - 06-08 Café Athena \- Whole Roast Chicken (Spatchcock, Dry-Brine)
+- 06-09 Café Athena \- Chicken Wings (Craggly Batter, Buffalo Sauce)
 
 ## CHAPTER 7: THE BUTCHER
 
