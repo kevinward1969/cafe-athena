@@ -57,6 +57,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Spherification (Direct): A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.
 - Spider Skimmer: A wide, shallow wire-mesh tool used to lift pasta, blanched vegetables, or fried items from liquid without a colander.
 - Stainless Steel Bowls: Lightweight and highly conductive, stainless steel bowls are preferred for temperature-sensitive mixing and preparation tasks.
+- Standard breading procedure: A three-stage coating system applied to a protein or vegetable before frying: (1) flour — dries the surface and provides traction for the egg; (2) egg wash — bonds the crumb layer to the surface; (3) breadcrumb (typically panko) — fries to a crisp exterior. The sequence is non-negotiable; skipping or reversing stages produces a coating that sheds in the pan or becomes soggy.
 - Standardized Storage: Utilizing uniform containers and labeling systems for efficient inventory management.
 - Starch Dextrinization: The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
 - Starch Gelatinization: The process by which starch granules absorb water and swell under heat, eventually bursting and fusing into a rigid, porous matrix. In frying, this gelatinized network produces the brittle, shatteringly crisp crust characteristic of a high-starch batter.

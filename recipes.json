@@ -3046,6 +3046,50 @@
       "lastModified": "2026-06-09"
     },
     {
+      "id": "06-10",
+      "title": "Chicken Christopher (Panko Cutlet, Beurre Blanc)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "cuisine": "French",
+      "style": "Classical",
+      "family": "Chicken",
+      "course": "Dinner",
+      "keywords": [
+        "panko",
+        "breaded chicken",
+        "beurre blanc",
+        "cutlet",
+        "paillard",
+        "French sauce",
+        "emulsified butter sauce",
+        "standard breading procedure",
+        "hotel chicken",
+        "classical preparation",
+        "white wine reduction"
+      ],
+      "dietary": null,
+      "added": "2026-06-09",
+      "stages": {
+        "clarityAudit": true,
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-06-09",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-06-09"
+    },
+    {
       "id": "07-01",
       "title": "Ribeye with Bone Marrow & Herb Baste",
       "chapter": 7,

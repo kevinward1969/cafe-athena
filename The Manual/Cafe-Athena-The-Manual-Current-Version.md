@@ -94,6 +94,7 @@
 - 06-07 Café Athena \- Chicken and Dumplings
 - 06-08 Café Athena \- Whole Roast Chicken (Spatchcock, Dry-Brine)
 - 06-09 Café Athena \- Chicken Wings (Craggly Batter, Buffalo Sauce)
+- 06-10 Café Athena \- Chicken Christopher (Panko Cutlet, Beurre Blanc)
 
 ## CHAPTER 7: THE BUTCHER
 

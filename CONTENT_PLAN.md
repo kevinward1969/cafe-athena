@@ -8,7 +8,8 @@
 *12-24 Pressure-Cooked Whole Chicken & Bone Broth added 2026-06-08 — Ch 12 now 24 folios*  
 *06-08 Whole Roast Chicken (Spatchcock, Dry-Brine) added 2026-06-09 — Ch 6 now 8/12*  
 *06-09 Chicken Wings (Craggly Batter, Buffalo Sauce) added 2026-06-09 — Ch 6 now 9/12*  
-**Last updated:** 2026-06-09 (06-09 added)
+*06-10 Chicken Christopher (Panko Cutlet, Beurre Blanc) added 2026-06-09 — Ch 6 now 10/12*  
+**Last updated:** 2026-06-09 (06-10 added)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 24 respectively) — no action needed.
@@ -22,7 +23,7 @@
 | Ch 3 - Garde Manger | 14 | 12 | ✓ | — |
 | Ch 4 - The Mill | 14 | 12 | ✓ | — |
 | **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
-| **Ch 6 - The Poulterer** | **9** | 12 | **+3** | High |
+| **Ch 6 - The Poulterer** | **10** | 12 | **+2** | High |
 | Ch 7 - The Butcher | 14 | 12 | ✓ | Category gaps (lamb, veal) |
 | Ch 8 - The Field | 14 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 14 | 12 | ✓ | — |
@@ -76,7 +77,7 @@
 
 ## Chapter 6 — The Poulterer  
 
-**Gap: +4 | 2 from RecipeIdeas, 2 original remaining | 2 of 6 complete**
+**Gap: +2 | 2 original remaining**
 
 ### Current Folios
 
@@ -111,7 +112,7 @@
 | ~~06-07~~ | ~~Chicken and Dumplings~~ | `Chicken and Dumplings.pdf` | ✓ Done 2026-06-08 |
 | ~~06-08~~ | ~~Whole Roast Chicken (Spatchcock, Dry-Brine)~~ | Original | ✓ Done 2026-06-09 |
 | ~~06-09~~ | ~~Chicken Wings (Craggly Batter, Buffalo Sauce)~~ | `Chicken Wings.pdf` | ✓ Done 2026-06-09 |
-| 06-10 | Chicken Christopher | `Chicken Christopher.pdf` | Pending |
+| ~~06-10~~ | ~~Chicken Christopher~~ | `Chicken Christopher.pdf` | ✓ Done 2026-06-09 |
 | 06-11 | Turkey — brined/roasted or feature cut | Original | Pending |
 | 06-12 | Quail — Ortolan-style | Original | Pending — see note |
 

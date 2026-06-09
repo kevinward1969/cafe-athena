@@ -9,6 +9,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Ball-Roll-Turn: A hand-kneading method where the dough is pushed forward with the heel of the hand, rolled back into a ball, and rotated 90° before the next push — building even gluten development in all directions.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
+- Beurre blanc: "White butter." A warm emulsified butter sauce built from a reduction of white wine, white wine vinegar, and shallot into which cold butter is incorporated piece by piece, creating a glossy, stable emulsion through the gradual release of butterfat. Temperature-sensitive — above 180°F (82°C) the emulsion breaks. A classical French sauce in the beurre monté family. See 10-06.
 - Beurre Noir: "Black butter." Butter cooked beyond noisette to a very dark brown; used in specific classical preparations (skate meunière) but easily becomes acrid and unusable.
 - Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
 - Bevel: In knife work, a chamfered or angled cut that creates a smooth transition between two surfaces, tapering from a thicker body to a thinner edge or tip.
