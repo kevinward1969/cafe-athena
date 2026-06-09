@@ -2952,6 +2952,53 @@
       "lastModified": "2026-06-08"
     },
     {
+      "id": "06-08",
+      "title": "Whole Roast Chicken (Spatchcock, Dry-Brine)",
+      "chapter": 6,
+      "chapterName": "The Poulterer",
+      "type": "recipe",
+      "cuisine": "French",
+      "style": "Classical",
+      "family": "Chicken",
+      "course": "Dinner",
+      "keywords": [
+        "whole roast chicken",
+        "spatchcock",
+        "dry-brine",
+        "compound butter",
+        "Maillard reaction",
+        "roasting",
+        "carry-over cooking",
+        "chicken",
+        "osmosis",
+        "poultry technique",
+        "skin crisping",
+        "brigade",
+        "French technique",
+        "beurre compos\u00e9"
+      ],
+      "dietary": null,
+      "added": "2026-06-09",
+      "stages": {
+        "clarityAudit": true,
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": true,
+        "heroImageOptimized": true,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": true
+      },
+      "audit": {
+        "lastRun": "2026-06-09",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-06-09"
+    },
+    {
       "id": "07-01",
       "title": "Ribeye with Bone Marrow & Herb Baste",
       "chapter": 7,

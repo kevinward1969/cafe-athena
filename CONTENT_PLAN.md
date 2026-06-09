@@ -6,7 +6,8 @@
 *Ch 11 complete (12/12) — 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni added 2026-05-24*  
 *06-07 Chicken and Dumplings added 2026-06-08 — Ch 6 now 7/12*  
 *12-24 Pressure-Cooked Whole Chicken & Bone Broth added 2026-06-08 — Ch 12 now 24 folios*  
-**Last updated:** 2026-06-08 (06-07 and 12-24 added)
+*06-08 Whole Roast Chicken (Spatchcock, Dry-Brine) added 2026-06-09 — Ch 6 now 8/12*  
+**Last updated:** 2026-06-09 (06-08 added)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 24 respectively) — no action needed.
@@ -20,7 +21,7 @@
 | Ch 3 - Garde Manger | 14 | 12 | ✓ | — |
 | Ch 4 - The Mill | 14 | 12 | ✓ | — |
 | **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
-| **Ch 6 - The Poulterer** | **7** | 12 | **+5** | High |
+| **Ch 6 - The Poulterer** | **8** | 12 | **+4** | High |
 | Ch 7 - The Butcher | 14 | 12 | ✓ | Category gaps (lamb, veal) |
 | Ch 8 - The Field | 14 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 14 | 12 | ✓ | — |
@@ -74,7 +75,7 @@
 
 ## Chapter 6 — The Poulterer  
 
-**Gap: +5 | 2 from RecipeIdeas, 3 original | 1 of 6 complete**
+**Gap: +4 | 2 from RecipeIdeas, 2 original remaining | 2 of 6 complete**
 
 ### Current Folios
 
@@ -107,7 +108,7 @@
 | Slot | Recipe | Source | Status |
 |------|--------|--------|--------|
 | ~~06-07~~ | ~~Chicken and Dumplings~~ | `Chicken and Dumplings.pdf` | ✓ Done 2026-06-08 |
-| 06-08 | Whole Roast Chicken — dry-brine protocol | Original | Pending |
+| ~~06-08~~ | ~~Whole Roast Chicken (Spatchcock, Dry-Brine)~~ | Original | ✓ Done 2026-06-09 |
 | 06-09 | Chicken Wings | `Chicken Wings.pdf` | Pending |
 | 06-10 | Chicken Christopher | `Chicken Christopher.pdf` | Pending |
 | 06-11 | Turkey — brined/roasted or feature cut | Original | Pending |

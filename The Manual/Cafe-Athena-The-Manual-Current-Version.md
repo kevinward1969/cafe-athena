@@ -92,6 +92,7 @@
 - 06-05 Café Athena \- Louisiana Blackened Chicken Pasta  
 - 06-06 Café Athena \- Modern Chicken Pot Pie (Velouté Method)
 - 06-07 Café Athena \- Chicken and Dumplings
+- 06-08 Café Athena \- Whole Roast Chicken (Spatchcock, Dry-Brine)
 
 ## CHAPTER 7: THE BUTCHER
 
