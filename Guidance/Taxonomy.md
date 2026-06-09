@@ -31,11 +31,18 @@ The regional or cultural origin of the dish. Use the most specific accurate term
 | `Greek` | Greek and Cypriot cooking |
 | `Spanish` | Spanish and Catalan cooking |
 | `Indian` | Indian subcontinent cooking |
-| `Middle Eastern` | Levantine, Persian, Turkish, North African cooking |
+| `Middle Eastern` | Multi-tradition Middle Eastern dishes; use a sub-cuisine below when the origin is specific |
+| `Turkish` | Turkish culinary tradition (sub-cuisine of Middle Eastern) |
+| `Lebanese` | Lebanese culinary tradition (sub-cuisine of Middle Eastern) |
+| `Persian` | Persian/Iranian culinary tradition (sub-cuisine of Middle Eastern) |
+| `Moroccan` | Moroccan culinary tradition (sub-cuisine of Middle Eastern) |
+| `North African` | Broader North African cooking not specific to Morocco (sub-cuisine of Middle Eastern) |
 | `Mexican` | Mexican and Central American cooking |
 | `Latin American` | Caribbean and South American cooking (Puerto Rican, Dominican, Cuban, Colombian, etc.) |
 | `Thai` | Thai culinary tradition |
-| `American` | American regional cooking (Southern, BBQ, Cajun, etc.) |
+| `American` | Multi-regional American cooking; use a sub-cuisine below when the origin is specific |
+| `Southern` | American Southern cooking (sub-cuisine of American) |
+| `Cajun` | Cajun and Creole cooking (sub-cuisine of American) |
 | `Mediterranean` | Dishes drawing from multiple Med. traditions |
 | `Asian-Fusion` | Intentional cross-cultural Asian combination |
 | `Global` | Technique or component with no single cultural origin |

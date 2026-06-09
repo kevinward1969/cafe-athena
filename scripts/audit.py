@@ -99,6 +99,10 @@ CATEGORY_VALID_CUISINES = {
     "Chinese", "Greek", "Spanish", "Indian", "Middle Eastern",
     "Mexican", "Latin American", "Thai", "American",
     "Mediterranean", "Asian-Fusion", "Global",
+    # Middle Eastern sub-cuisines
+    "Turkish", "Lebanese", "Persian", "Moroccan", "North African",
+    # American sub-cuisines
+    "Southern", "Cajun",
 }
 CATEGORY_VALID_STYLES = {
     "Classical", "Modern", "Rustic", "Competition", "Fine Dining",
@@ -327,7 +331,7 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
         audit.issues.append(Issue(
             code="old_combined_variations",
             description=f'"{label}" should be split into ## Variations and ## Chef\'s Notes (v3.2)',
-            auto_fix=False,
+            auto_fix=True,
         ))
 
     # Check section order against the full known sequence (required + optional)
@@ -460,6 +464,29 @@ style: Technique Folio
 Return ONLY that single line. No explanation.
 """
 
+SPLIT_VARIATIONS_SYSTEM = """\
+Classify each recipe bullet as V (Variation) or N (Chef's Note).
+
+V = a dedicated alternate preparation: different ingredient, dietary swap, technique
+change, or named variant that produces a distinct result. Bold header typically
+contains "Variant", "Version", "Alternative", "Without", or names a specific variant.
+
+N = everything else: technique tips, science, storage, warnings, substitution side-notes,
+ingredient explanations, flavor observations.
+
+Output ONE label per line in the same order as the input bullets. Nothing else.
+
+Example input:
+1. **Storage:** Keep refrigerated for 2 weeks.
+2. **Yogurt Variant:** Substitute buttermilk with yogurt for a sharper result.
+3. **Sweet Crème:** For dessert use, stir in powdered sugar after cooling.
+
+Example output:
+N
+V
+V
+"""
+
 
 def call_ollama(model: str, system: str, content: str, timeout: int = 120) -> str:
     payload = json.dumps({
@@ -541,6 +568,35 @@ def generate_fix(issue: Issue, audit: RecipeAudit, model: str) -> str:
             return "## Category\n\n" + raw
         return ""
 
+    elif issue.code == "old_combined_variations":
+        m = re.search(
+            r'^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)\s*\n(.*?)(?=^## |\Z)',
+            text, re.MULTILINE | re.DOTALL | re.IGNORECASE,
+        )
+        if not m:
+            return ""
+        section_body = re.sub(r'^---+\s*$', '', m.group(1), flags=re.MULTILINE).strip()
+        bullets = [ln for ln in section_body.splitlines() if re.match(r'^[-*]\s', ln)]
+        if not bullets:
+            return ""
+        # Heuristic: a bullet is a Variation if its bold header contains a variation keyword.
+        # Everything else is a Chef's Note.
+        _VARIATION_KW = {
+            "variant", "version", "alternative", "without", "option",
+            "adaptation", "swap", "substitution",
+        }
+        def _is_variation(bullet: str) -> bool:
+            hdr = re.match(r'^[-*]\s+\*\*([^*]+)\*\*', bullet)
+            return bool(hdr and any(kw in hdr.group(1).lower() for kw in _VARIATION_KW))
+        variations = [b for b in bullets if _is_variation(b)]
+        notes = [b for b in bullets if not _is_variation(b)]
+        parts = []
+        if variations:
+            parts.append("## Variations\n\n" + "\n".join(variations))
+        if notes:
+            parts.append("## Chef's Notes\n\n" + "\n".join(notes))
+        return "\n\n".join(parts) if parts else ""
+
     return ""
 
 
@@ -576,6 +632,14 @@ def apply_fix(issue: Issue, text: str) -> str:
         return text.rstrip() + "\n\n" + issue.fix_content + "\n"
     elif issue.code == "bad_category_format":
         return replace_section(text, "Category", issue.fix_content)
+    elif issue.code == "old_combined_variations":
+        pattern = (
+            r'^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)'
+            r'\s*\n.*?(?=^## |\Z)'
+        )
+        replacement = issue.fix_content + "\n\n"
+        result = re.sub(pattern, replacement, text, flags=re.MULTILINE | re.DOTALL | re.IGNORECASE)
+        return result if result != text else text
     return text
 
 

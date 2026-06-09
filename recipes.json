@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "description": "Caf\u00e9 Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
+    "description": "Café Athena recipe pipeline registry. Tracks stage completion for every recipe and technique folio.",
     "generatedOn": "2026-04-04",
     "fields": {
       "cuisine": "Cuisine from ## Category section (e.g. French, Italian, Global)",
       "style": "Style from ## Category section (e.g. Classical, Modern, Technique Folio)",
       "family": "Subcategory within chapter per Guidance/Taxonomy.md (e.g. Mother Sauce, Pastry Dough)",
-      "course": "Meal/service position per Taxonomy.md (e.g. Dinner, Dessert, Component). Omitted for Ch. 1\u20132 technique folios.",
+      "course": "Meal/service position per Taxonomy.md (e.g. Dinner, Dessert, Component). Omitted for Ch. 1–2 technique folios.",
       "keywords": "Keyword list from ## Keywords section",
       "dietary": "Dietary flags from ## Category section (e.g. Vegetarian, Vegan). null if none."
     },
@@ -43,7 +43,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -83,7 +83,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -123,7 +123,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -163,7 +163,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -203,7 +203,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -243,7 +243,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -283,7 +283,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -323,7 +323,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -363,7 +363,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -403,7 +403,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -443,7 +443,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -483,7 +483,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -523,7 +523,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -564,7 +564,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -605,7 +605,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -645,7 +645,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -685,7 +685,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -725,7 +725,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -765,7 +765,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -808,7 +808,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -849,7 +849,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -890,7 +890,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -928,7 +928,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -972,7 +972,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1012,7 +1012,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1052,7 +1052,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1092,7 +1092,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1132,7 +1132,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1172,7 +1172,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1212,7 +1212,7 @@
       "heroImage": true,
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1250,7 +1250,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1292,7 +1292,7 @@
       "heroImage": "03-02.webp",
       "heroImageOptimized": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1300,7 +1300,7 @@
       },
       "cuisine": "French",
       "style": "Rustic",
-      "family": "Canap\u00e9",
+      "family": "Canapé",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1338,7 +1338,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1378,7 +1378,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1419,7 +1419,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1461,7 +1461,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1479,7 +1479,7 @@
         "brine",
         "quick pickle",
         "serrano peppers",
-        "jalape\u00f1o peppers",
+        "jalapeño peppers",
         "kosher salt",
         "acid",
         "culinary technique"
@@ -1503,7 +1503,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1511,7 +1511,7 @@
       },
       "cuisine": "French",
       "style": "Classical",
-      "family": "Mousse & P\u00e2t\u00e9",
+      "family": "Mousse & Pâté",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1522,7 +1522,7 @@
         "butter",
         "cognac",
         "gelatin",
-        "p\u00e2t\u00e9",
+        "pâté",
         "maillard reaction",
         "stovetop"
       ]
@@ -1545,7 +1545,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1553,7 +1553,7 @@
       },
       "cuisine": "French",
       "style": "Modern",
-      "family": "Mousse & P\u00e2t\u00e9",
+      "family": "Mousse & Pâté",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1561,10 +1561,10 @@
         "chicken liver",
         "mousse",
         "emulsion",
-        "gel\u00e9e",
+        "gelée",
         "port wine",
         "fat-in-water",
-        "p\u00e2t\u00e9",
+        "pâté",
         "thermal precision",
         "forcemeat"
       ]
@@ -1587,7 +1587,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1613,7 +1613,7 @@
     },
     {
       "id": "03-10",
-      "title": "Velvet Mushroom Mousse (Vegetarian P\u00e2t\u00e9)",
+      "title": "Velvet Mushroom Mousse (Vegetarian Pâté)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -1629,7 +1629,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1637,7 +1637,7 @@
       },
       "cuisine": "French",
       "style": "Fine Dining",
-      "family": "Mousse & P\u00e2t\u00e9",
+      "family": "Mousse & Pâté",
       "course": "Dinner",
       "dietary": "Vegetarian",
       "keywords": [
@@ -1648,7 +1648,7 @@
         "sherry",
         "umami",
         "vegetarian",
-        "p\u00e2t\u00e9",
+        "pâté",
         "pastry",
         "fine dining",
         "weeknight"
@@ -1672,7 +1672,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1700,7 +1700,7 @@
     },
     {
       "id": "03-12",
-      "title": "Deviled Ham & Cognac Mousse (P\u00e2t\u00e9 Rustique)",
+      "title": "Deviled Ham & Cognac Mousse (Pâté Rustique)",
       "chapter": 3,
       "chapterName": "Garde Manger",
       "type": "recipe",
@@ -1716,7 +1716,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1724,7 +1724,7 @@
       },
       "cuisine": "French",
       "style": "Rustic",
-      "family": "Mousse & P\u00e2t\u00e9",
+      "family": "Mousse & Pâté",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1732,7 +1732,7 @@
         "mousse",
         "emulsification",
         "cognac",
-        "p\u00e2t\u00e9",
+        "pâté",
         "fat suspension",
         "mechanical emulsification",
         "cream cheese",
@@ -1758,7 +1758,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1766,7 +1766,7 @@
       },
       "cuisine": "French",
       "style": "Fine Dining",
-      "family": "Mousse & P\u00e2t\u00e9",
+      "family": "Mousse & Pâté",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1800,13 +1800,13 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
       "cuisine": "Asian-Fusion",
       "style": "Modern",
-      "family": "Canap\u00e9",
+      "family": "Canapé",
       "course": "Dinner",
       "dietary": null,
       "keywords": [
@@ -1814,7 +1814,7 @@
         "SPAM",
         "Sichuan pepper",
         "Dubliner",
-        "canap\u00e9",
+        "canapé",
         "fusion",
         "torched cheese",
         "dijonnaise",
@@ -1845,7 +1845,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -1886,7 +1886,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1929,7 +1929,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -1946,11 +1946,11 @@
         "italian",
         "carnaroli rice",
         "stock",
-        "saut\u00e9",
+        "sauté",
         "butter",
         "parmesan",
         "herb",
-        "separate saut\u00e9",
+        "separate sauté",
         "mantecatura",
         "technique"
       ]
@@ -1973,7 +1973,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2015,7 +2015,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2056,7 +2056,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2081,7 +2081,7 @@
     },
     {
       "id": "04-07",
-      "title": "Parisian Gnocchi (P\u00e2te \u00e0 Choux)",
+      "title": "Parisian Gnocchi (Pâte à Choux)",
       "chapter": 4,
       "chapterName": "The Mill",
       "type": "recipe",
@@ -2097,7 +2097,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2107,7 +2107,7 @@
       "course": "Dinner",
       "dietary": null,
       "keywords": [
-        "p\u00e2te \u00e0 choux",
+        "pâte à choux",
         "gnocchi",
         "dumplings",
         "pastry",
@@ -2138,7 +2138,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2178,7 +2178,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2192,7 +2192,7 @@
         "pressure cooking",
         "cornmeal",
         "cheddar",
-        "jalape\u00f1o",
+        "jalapeño",
         "gelatinization",
         "bbq",
         "stock",
@@ -2221,7 +2221,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2264,7 +2264,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2309,7 +2309,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2352,7 +2352,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2396,7 +2396,7 @@
       "heroImageOptimized": true,
       "deployed": true,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2442,7 +2442,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2453,14 +2453,14 @@
       "dietary": null,
       "keywords": [
         "pan-seared scallops",
-        "pea pur\u00e9e",
+        "pea purée",
         "hydrocolloids",
         "agar-agar",
         "xanthan gum",
         "shear-thinning",
         "gel-then-shear",
         "molecular gastronomy",
-        "vegetable pur\u00e9e",
+        "vegetable purée",
         "fluid gel"
       ]
     },
@@ -2482,7 +2482,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2526,7 +2526,7 @@
       "heroImage": false,
       "heroImageOptimized": false,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2572,7 +2572,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations",
@@ -2621,7 +2621,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2665,7 +2665,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2714,7 +2714,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2756,7 +2756,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2798,7 +2798,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2831,7 +2831,7 @@
     },
     {
       "id": "06-06",
-      "title": "Modern Chicken Pot Pie (Velout\u00e9 Method)",
+      "title": "Modern Chicken Pot Pie (Velouté Method)",
       "chapter": 6,
       "chapterName": "The Poulterer",
       "type": "recipe",
@@ -2847,7 +2847,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2863,7 +2863,7 @@
       "keywords": [
         "pot pie",
         "chicken",
-        "velout\u00e9",
+        "velouté",
         "mother sauce",
         "roux",
         "blonde roux",
@@ -2896,7 +2896,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -2936,7 +2936,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -2978,7 +2978,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3020,7 +3020,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3060,7 +3060,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3102,7 +3102,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3142,7 +3142,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3189,7 +3189,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3203,9 +3203,9 @@
         "stroganoff",
         "beef chuck",
         "braise",
-        "cr\u00e8me fra\u00eeche",
+        "crème fraîche",
         "mushroom",
-        "pin\u00e7age",
+        "pinçage",
         "fond",
         "collagen",
         "gelatin",
@@ -3235,7 +3235,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3252,7 +3252,7 @@
         "braising",
         "beef chuck",
         "cartouche",
-        "pin\u00e7age",
+        "pinçage",
         "singer",
         "monter",
         "maturation",
@@ -3282,7 +3282,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3367,7 +3367,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3411,7 +3411,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3455,7 +3455,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3476,7 +3476,7 @@
         "prosciutto",
         "Boursin",
         "Madeira sauce",
-        "velout\u00e9",
+        "velouté",
         "French technique",
         "searing",
         "Maillard reaction",
@@ -3488,7 +3488,7 @@
     },
     {
       "id": "07-14",
-      "title": "Rolled D\u00f6ner Kebab (The Leaf Method)",
+      "title": "Rolled Döner Kebab (The Leaf Method)",
       "chapter": 7,
       "chapterName": "The Butcher",
       "type": "recipe",
@@ -3497,7 +3497,7 @@
       "family": "Formed Meat",
       "course": "Dinner",
       "keywords": [
-        "d\u00f6ner",
+        "döner",
         "ground beef",
         "Turkish",
         "kofta",
@@ -3514,7 +3514,7 @@
       "dietary": null,
       "added": "2026-05-27",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -3524,8 +3524,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-06-08",
+        "status": "clean",
         "issues": []
       }
     },
@@ -3547,7 +3547,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3589,7 +3589,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3604,7 +3604,7 @@
         "spaghetti squash",
         "tomato ragout",
         "osmotic cure",
-        "saut\u00e9",
+        "sauté",
         "italian",
         "garlic",
         "olive oil",
@@ -3631,7 +3631,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3673,7 +3673,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3715,7 +3715,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3757,7 +3757,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3798,7 +3798,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -3814,7 +3814,7 @@
         "deep frying",
         "St. Louis",
         "Red Hot Riplets",
-        "Taj\u00edn",
+        "Tajín",
         "Parmigiano-Reggiano",
         "vegetable",
         "snack",
@@ -3842,7 +3842,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations",
@@ -3894,7 +3894,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3910,7 +3910,7 @@
         "side dish",
         "vegetable",
         "steaming",
-        "saut\u00e9",
+        "sauté",
         "lemon",
         "butter",
         "spring",
@@ -3921,7 +3921,7 @@
     },
     {
       "id": "08-10",
-      "title": "Crispy Potato & Onion Pav\u00e9 Triangles",
+      "title": "Crispy Potato & Onion Pavé Triangles",
       "chapter": 8,
       "chapterName": "The Field",
       "type": "recipe",
@@ -3937,7 +3937,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -3950,7 +3950,7 @@
       "dietary": "Vegetarian",
       "keywords": [
         "potato",
-        "pav\u00e9",
+        "pavé",
         "Agria",
         "clarified butter",
         "onion pulp",
@@ -4002,7 +4002,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       }
@@ -4046,14 +4046,14 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       }
     },
     {
       "id": "08-13",
-      "title": "Glac\u00e9 Carrots",
+      "title": "Glacé Carrots",
       "chapter": 8,
       "chapterName": "The Field",
       "type": "recipe",
@@ -4062,7 +4062,7 @@
       "family": "Root Vegetable",
       "course": "Side",
       "keywords": [
-        "glac\u00e9",
+        "glacé",
         "glazed carrots",
         "French technique",
         "cartouche",
@@ -4090,7 +4090,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "keywords_count"
@@ -4136,7 +4136,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-30",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4147,7 +4147,7 @@
       "id": "09-01",
       "title": "Brown Butter & Miso-Caramel Truffle Brownies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -4161,7 +4161,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -4189,7 +4189,7 @@
       "id": "09-02",
       "title": "Spicy Brown Butter & Lemon Cheesecake Cookies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -4203,7 +4203,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4229,7 +4229,7 @@
       "id": "09-03",
       "title": "Lemon Blackberry Tart",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-05-19",
       "stages": {
@@ -4243,7 +4243,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4259,7 +4259,7 @@
         "blind bake",
         "lemon curd",
         "sweet shortcrust",
-        "p\u00e2te sucr\u00e9e",
+        "pâte sucrée",
         "French pastry",
         "composed dessert",
         "fine dining",
@@ -4272,9 +4272,9 @@
     },
     {
       "id": "09-04",
-      "title": "Brandy-Infused Canel\u00e9s de Bordeaux",
+      "title": "Brandy-Infused Canelés de Bordeaux",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -4288,7 +4288,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4298,7 +4298,7 @@
       "course": "Dessert",
       "dietary": null,
       "keywords": [
-        "canel\u00e9s",
+        "canelés",
         "brandy",
         "thermal shock",
         "caramelization",
@@ -4314,7 +4314,7 @@
       "id": "09-05",
       "title": "Lemon Posset in Lemon Shells",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-22",
       "stages": {
@@ -4328,7 +4328,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "section_order"
@@ -4361,7 +4361,7 @@
       "id": "09-06",
       "title": "Sweet Potato Brownies",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-05-18",
       "stages": {
@@ -4375,7 +4375,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4407,7 +4407,7 @@
       "id": "09-07",
       "title": "Gooey Butter Cake",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-05-20",
       "stages": {
@@ -4421,7 +4421,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4450,7 +4450,7 @@
       "id": "09-08",
       "title": "Lemon Curd Tartlets",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-05-20",
       "stages": {
@@ -4464,7 +4464,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4476,7 +4476,7 @@
       "keywords": [
         "lemon curd",
         "tartlets",
-        "p\u00e2te sabl\u00e9e",
+        "pâte sablée",
         "blind bake",
         "xanthan gum",
         "shortcrust",
@@ -4484,16 +4484,16 @@
         "individual dessert",
         "food processor",
         "lemon juice",
-        "napp\u00e9",
+        "nappé",
         "syneresis",
         "make-ahead"
       ]
     },
     {
       "id": "09-09",
-      "title": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "title": "Crème Brûlée",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "cuisine": "French",
       "style": "Classical",
@@ -4502,7 +4502,7 @@
       "dietary": null,
       "added": "2026-05-20",
       "keywords": [
-        "cr\u00e8me br\u00fbl\u00e9e",
+        "crème brûlée",
         "French classic",
         "custard",
         "vanilla",
@@ -4526,7 +4526,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4537,7 +4537,7 @@
       "id": "09-10",
       "title": "Florentine Cannoli",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "cuisine": "Italian",
       "style": "Modern",
@@ -4573,7 +4573,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4584,7 +4584,7 @@
       "id": "09-11",
       "title": "Truffle Cake Pops",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "cuisine": "Global",
       "style": "Pastry",
@@ -4597,7 +4597,7 @@
         "egg foam",
         "ribbon stage",
         "condensed milk buttercream",
-        "g\u00e9noise",
+        "génoise",
         "walnuts",
         "toasted nuts",
         "coconut oil",
@@ -4618,7 +4618,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4629,7 +4629,7 @@
       "id": "09-12",
       "title": "Brown Butter Banana Bread",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "cuisine": "American",
       "style": "Pastry",
@@ -4663,7 +4663,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4674,7 +4674,7 @@
       "id": "09-13",
       "title": "Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-04-04",
       "stages": {
@@ -4688,7 +4688,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4732,7 +4732,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4777,7 +4777,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -4805,7 +4805,7 @@
     },
     {
       "id": "10-03",
-      "title": "Sauce B\u00e9chamel (Mother Sauce No. 1)",
+      "title": "Sauce Béchamel (Mother Sauce No. 1)",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -4821,7 +4821,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -4835,7 +4835,7 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "b\u00e9chamel",
+        "béchamel",
         "milk",
         "roux",
         "butter",
@@ -4865,7 +4865,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -4878,9 +4878,9 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "b\u00e9chamel",
+        "béchamel",
         "cheese sauce",
-        "gruy\u00e8re",
+        "gruyère",
         "parmesan",
         "emulsification",
         "dairy",
@@ -4908,7 +4908,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -4952,7 +4952,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -4980,7 +4980,7 @@
     },
     {
       "id": "10-07",
-      "title": "Master Compound Butter (Beurre Compos\u00e9)",
+      "title": "Master Compound Butter (Beurre Composé)",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -4997,7 +4997,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5041,7 +5041,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5085,7 +5085,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5111,7 +5111,7 @@
     },
     {
       "id": "10-10",
-      "title": "Classic Remoulade (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Remoulade (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -5127,7 +5127,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5154,7 +5154,7 @@
     },
     {
       "id": "10-11",
-      "title": "Classic Tartar Sauce (Sauce D\u00e9riv\u00e9e)",
+      "title": "Classic Tartar Sauce (Sauce Dérivée)",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -5170,7 +5170,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5196,7 +5196,7 @@
     },
     {
       "id": "10-12",
-      "title": "Cultured Cr\u00e8me Fra\u00eeche",
+      "title": "Cultured Crème Fraîche",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -5212,7 +5212,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5225,7 +5225,7 @@
       "dietary": null,
       "keywords": [
         "fermentation",
-        "cr\u00e8me fra\u00eeche",
+        "crème fraîche",
         "dairy",
         "buttermilk",
         "emulsion",
@@ -5238,7 +5238,7 @@
     },
     {
       "id": "10-13",
-      "title": "Classic Rag\u00f9 alla Bolognese",
+      "title": "Classic Ragù alla Bolognese",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -5254,7 +5254,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5266,7 +5266,7 @@
       "keywords": [
         "slow simmer",
         "meat emulsion",
-        "rag\u00f9",
+        "ragù",
         "pancetta",
         "milk",
         "wine",
@@ -5294,7 +5294,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5336,7 +5336,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5362,7 +5362,7 @@
     },
     {
       "id": "10-16",
-      "title": "Sauce Velout\u00e9 (Mother Sauce No. 2)",
+      "title": "Sauce Velouté (Mother Sauce No. 2)",
       "chapter": 10,
       "chapterName": "Stocks, Sauces & Condiments",
       "type": "recipe",
@@ -5378,7 +5378,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5389,7 +5389,7 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "velout\u00e9",
+        "velouté",
         "roux",
         "stock",
         "chicken",
@@ -5423,7 +5423,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5465,7 +5465,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5507,7 +5507,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5549,7 +5549,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5591,7 +5591,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5632,7 +5632,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5674,7 +5674,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5719,7 +5719,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5768,7 +5768,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "missing_ingredients",
@@ -5798,7 +5798,7 @@
         "lecithin",
         "Greek",
         "Lebanese",
-        "Proven\u00e7al",
+        "Provençal",
         "cold sauce",
         "hot sauce"
       ]
@@ -5821,7 +5821,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5861,7 +5861,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -5902,7 +5902,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5944,7 +5944,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -5986,7 +5986,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6028,7 +6028,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6045,7 +6045,7 @@
         "offset smoker",
         "apple wood",
         "hickory",
-        "jalape\u00f1o",
+        "jalapeño",
         "serrano",
         "poblano",
         "building block",
@@ -6093,7 +6093,7 @@
         "deployed": false
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       }
@@ -6138,7 +6138,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       }
@@ -6183,7 +6183,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6230,7 +6230,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       }
@@ -6274,7 +6274,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6321,7 +6321,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6346,7 +6346,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6361,7 +6361,7 @@
         "crispy rice",
         "sushi rice",
         "platform",
-        "canap\u00e9 base",
+        "canapé base",
         "frozen-fry method",
         "clarified butter",
         "duck fat",
@@ -6392,7 +6392,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "keywords_count"
@@ -6405,9 +6405,9 @@
       "dietary": null,
       "keywords": [
         "tart dough",
-        "p\u00e2te sucr\u00e9e",
-        "p\u00e2te sabl\u00e9e",
-        "p\u00e2te fonc\u00e9e",
+        "pâte sucrée",
+        "pâte sablée",
+        "pâte foncée",
         "sablage",
         "creaming method",
         "fraisage",
@@ -6426,7 +6426,7 @@
     },
     {
       "id": "12-03",
-      "title": "P\u00e2te Bris\u00e9e (Classic Shortcrust)",
+      "title": "Pâte Brisée (Classic Shortcrust)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6443,7 +6443,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6455,7 +6455,7 @@
       "dietary": null,
       "keywords": [
         "shortcrust",
-        "p\u00e2te bris\u00e9e",
+        "pâte brisée",
         "pastry",
         "butter",
         "flour",
@@ -6470,7 +6470,7 @@
     },
     {
       "id": "12-04",
-      "title": "P\u00e2te \u00e0 Choux (The Steam Dough)",
+      "title": "Pâte à Choux (The Steam Dough)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6487,7 +6487,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6499,13 +6499,13 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "p\u00e2te \u00e0 choux",
+        "pâte à choux",
         "choux pastry",
         "steam dough",
         "physical leavening",
         "gelatinization",
         "cream puff",
-        "\u00e9clair",
+        "éclair",
         "panade",
         "les fonds",
         "foundation dough",
@@ -6514,7 +6514,7 @@
     },
     {
       "id": "12-05",
-      "title": "P\u00e2te Feuillet\u00e9e (Classic Puff Pastry)",
+      "title": "Pâte Feuilletée (Classic Puff Pastry)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6531,7 +6531,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6543,10 +6543,10 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "p\u00e2te feuillet\u00e9e",
+        "pâte feuilletée",
         "puff pastry",
         "lamination",
-        "d\u00e9trempe",
+        "détrempe",
         "beurrage",
         "butter block",
         "french pastry",
@@ -6558,7 +6558,7 @@
     },
     {
       "id": "12-06",
-      "title": "Rough Puff Pastry (Demi-Feuillet\u00e9e)",
+      "title": "Rough Puff Pastry (Demi-Feuilletée)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6575,7 +6575,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6588,7 +6588,7 @@
       "dietary": null,
       "keywords": [
         "rough puff pastry",
-        "demi-feuillet\u00e9e",
+        "demi-feuilletée",
         "blitz method",
         "lamination",
         "frozen butter",
@@ -6619,7 +6619,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6662,7 +6662,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6706,7 +6706,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6750,7 +6750,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6777,7 +6777,7 @@
     },
     {
       "id": "12-11",
-      "title": "Cr\u00e8me P\u00e2tissi\u00e8re",
+      "title": "Crème Pâtissière",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6792,7 +6792,7 @@
         "referenceImagesProcessed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6834,7 +6834,7 @@
         "referenceImagesProcessed": false
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6859,7 +6859,7 @@
     },
     {
       "id": "12-13",
-      "title": "Cr\u00e8me Chantilly (Whipped Cream)",
+      "title": "Crème Chantilly (Whipped Cream)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6874,7 +6874,7 @@
         "referenceImagesProcessed": false
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6884,7 +6884,7 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "cr\u00e8me chantilly",
+        "crème chantilly",
         "whipped cream",
         "stabilized cream",
         "heavy cream",
@@ -6912,7 +6912,7 @@
         "referenceImagesProcessed": false
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -6924,9 +6924,9 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "cr\u00e8me diplomat",
-        "cr\u00e8me mousseline",
-        "cr\u00e8me chiboust",
+        "crème diplomat",
+        "crème mousseline",
+        "crème chiboust",
         "composite cream",
         "pastry filling",
         "folding technique",
@@ -6937,7 +6937,7 @@
     },
     {
       "id": "12-15",
-      "title": "Frico Lamin\u00e9 (Baked Cheese Tiles & Vessels)",
+      "title": "Frico Laminé (Baked Cheese Tiles & Vessels)",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -6953,7 +6953,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -6966,7 +6966,7 @@
       "dietary": null,
       "keywords": [
         "frico",
-        "frico lamin\u00e9",
+        "frico laminé",
         "baked cheese crisp",
         "parmesan crisp",
         "structural matrix",
@@ -7004,7 +7004,7 @@
         "protein coagulation",
         "low and slow",
         "butter mount",
-        "napp\u00e9",
+        "nappé",
         "building block"
       ],
       "dietary": null,
@@ -7020,7 +7020,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -7047,7 +7047,7 @@
       "heroImage": false,
       "heroImageOptimized": false,
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -7091,7 +7091,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -7122,7 +7122,7 @@
     },
     {
       "id": "12-19",
-      "title": "Pan\u00e9s, Batters, and the Architecture of a Shatter",
+      "title": "Panés, Batters, and the Architecture of a Shatter",
       "chapter": 12,
       "chapterName": "Les Fonds",
       "type": "recipe",
@@ -7138,7 +7138,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -7152,7 +7152,7 @@
       "course": "Component",
       "dietary": null,
       "keywords": [
-        "pan\u00e9",
+        "pané",
         "panko",
         "katsu",
         "tempura",
@@ -7187,7 +7187,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "issues_found",
         "issues": [
           "old_combined_variations"
@@ -7211,7 +7211,7 @@
         "larder",
         "building block",
         "vegetable cookery",
-        "concass\u00e9",
+        "concassé",
         "cartouche",
         "garnish"
       ]
@@ -7234,7 +7234,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -7278,7 +7278,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -7322,7 +7322,7 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": "2026-05-27",
+        "lastRun": "2026-06-08",
         "status": "clean",
         "issues": []
       },
@@ -7355,11 +7355,11 @@
       "id": "09-14",
       "title": "The Fool's Gold Tart",
       "chapter": 9,
-      "chapterName": "The P\u00e2tissier",
+      "chapterName": "The Pâtissier",
       "type": "recipe",
       "added": "2026-06-02",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": false,
         "heroImage": true,
@@ -7369,8 +7369,8 @@
         "deployed": true
       },
       "audit": {
-        "lastRun": null,
-        "status": "pending",
+        "lastRun": "2026-06-08",
+        "status": "clean",
         "issues": []
       },
       "cuisine": "American",
@@ -7385,12 +7385,12 @@
         "banana pastry cream",
         "concord grape",
         "candied bacon",
-        "grape gel\u00e9e",
+        "grape gelée",
         "moisture seal",
         "composed dessert",
         "sweet and savory",
         "tartlet",
-        "p\u00e2tisserie",
+        "pâtisserie",
         "blind bake",
         "roasted banana"
       ],
