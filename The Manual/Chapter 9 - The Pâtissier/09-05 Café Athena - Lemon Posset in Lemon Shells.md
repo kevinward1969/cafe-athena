@@ -70,18 +70,6 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 ---
 
-## Chef's Notes
-
-- **The Third Lemon Rule:** Your serving shells are your juice source, which means yield is fixed. Most lemons give 2–3 tbsp each — enough for 4 tbsp total, but occasionally one is dry. Always have a third lemon on the counter before you start. The spirals come from this lemon too, so it earns its place.
-- **Fat Content is Non-Negotiable:** This recipe requires heavy cream at 35% butterfat minimum. Half-and-half, light cream, or any reduced-fat substitute will not set reliably. The fat is structural, not optional.
-- **Shell Stability:** The flat-bottom trim and the pre-freeze step are both practical and presentational. A rocking shell will spill during the pour; a warm shell will slow the initial set and cause uneven texture at the bottom.
-- **The 3-Minute Boil:** Do not reduce this to a simmer or pull it early. The full rolling boil for 3 minutes is what drives off enough water to produce a firmer set. A soft 2-minute simmer will give you a looser, spoonable texture — acceptable if that's your preference, but not the intended result here.
-- **Make-Ahead:** These are ideal prepared the evening before service. Fill the shells, chill overnight, and add garnish at the last moment. The posset holds well for up to 48 hours covered in the refrigerator; beyond that the shell may begin to soften from moisture absorption.
-- **Garnish Timing:** Powdered sugar dissolves quickly on a cold, moist surface — dust at the pass, not ahead. Channel knife spirals can be prepped up to 4 hours ahead and held in cold water; pat dry before placing.
-- **Scaling to 2 Servings:** Halve every quantity exactly — 180 ml cream, 50 g sugar, zest of 1 lemon, 30 ml lemon juice. Use 1 lemon for shells and juice, and the second lemon for spirals. Method and timing are identical.
-
----
-
 ## Variations
 
 **Thyme Infusion:** Add 1 fresh thyme sprig to the cream in Phase 1 along with the zest. Remove before straining in Phase 4. The herbal note pairs cleanly with lemon without competing — a simple way to introduce savory depth without changing the structure of the posset.
@@ -95,6 +83,18 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 **Passionfruit Caviar:** Same reverse spherification technique as above using strained passionfruit pulp thinned with a small amount of simple syrup and combined with calcium lactate. The vivid orange-against-white contrast is visually dramatic; the acidic tropical profile plays directly off the lemon.
 
 **Companion — Lemon Curd in Shells:** For a richer and more accessible version of the same presentation, replace the posset with a starch-thickened lemon curd. Combine 180 ml water, 120 ml fresh lemon juice, 150 g sugar, 30 g cornstarch, 100 g condensed milk, 3 egg yolks, and the peel of 1 lemon in a saucepan over low heat, stirring constantly until thickened. Remove from heat, whisk in 50 g soft butter, cool to room temperature, then divide into shells and refrigerate for 2 hours minimum. The curd offers a different teaching moment — starch gelatinization and egg emulsification rather than acid-set protein chemistry — with a denser texture, opaque yellow color, and a sweeter, warmer flavor profile. Same shell presentation.
+
+---
+
+## Chef's Notes
+
+- **The Third Lemon Rule:** Your serving shells are your juice source, which means yield is fixed. Most lemons give 2–3 tbsp each — enough for 4 tbsp total, but occasionally one is dry. Always have a third lemon on the counter before you start. The spirals come from this lemon too, so it earns its place.
+- **Fat Content is Non-Negotiable:** This recipe requires heavy cream at 35% butterfat minimum. Half-and-half, light cream, or any reduced-fat substitute will not set reliably. The fat is structural, not optional.
+- **Shell Stability:** The flat-bottom trim and the pre-freeze step are both practical and presentational. A rocking shell will spill during the pour; a warm shell will slow the initial set and cause uneven texture at the bottom.
+- **The 3-Minute Boil:** Do not reduce this to a simmer or pull it early. The full rolling boil for 3 minutes is what drives off enough water to produce a firmer set. A soft 2-minute simmer will give you a looser, spoonable texture — acceptable if that's your preference, but not the intended result here.
+- **Make-Ahead:** These are ideal prepared the evening before service. Fill the shells, chill overnight, and add garnish at the last moment. The posset holds well for up to 48 hours covered in the refrigerator; beyond that the shell may begin to soften from moisture absorption.
+- **Garnish Timing:** Powdered sugar dissolves quickly on a cold, moist surface — dust at the pass, not ahead. Channel knife spirals can be prepped up to 4 hours ahead and held in cold water; pat dry before placing.
+- **Scaling to 2 Servings:** Halve every quantity exactly — 180 ml cream, 50 g sugar, zest of 1 lemon, 30 ml lemon juice. Use 1 lemon for shells and juice, and the second lemon for spirals. Method and timing are identical.
 
 ---
 

@@ -58,6 +58,7 @@ DEFAULT_DETECT_MODEL = "qwen2.5:7b"      # detection: mise violation analysis
 # Keywords count bounds per format standard
 KEYWORDS_MIN = 8
 KEYWORDS_MAX = 15
+KEYWORDS_MAX_COLLECTION = 20  # collection folios bundle multiple sub-recipes
 
 # Required sections — used for "missing section" checks
 # (recipe-only sections are skipped for technique folios)
@@ -292,9 +293,12 @@ def detect_mise_violation(text: str, detect_model: str) -> str:
 
 
 def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
-               deep: bool = False, detect_model: str = DEFAULT_DETECT_MODEL) -> RecipeAudit:
+               deep: bool = False, detect_model: str = DEFAULT_DETECT_MODEL,
+               format_exception: str = "") -> RecipeAudit:
     text = fpath.read_text(encoding="utf-8")
     audit = RecipeAudit(recipe_id, title, recipe_type, fpath, text)
+
+    is_collection = format_exception == "collection-folio"
 
     # Old format check — flag and stop (can't meaningfully audit structure)
     if detect_old_format(text):
@@ -310,6 +314,9 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
     # Check required sections
     for section in REQUIRED_SECTIONS:
         if section in RECIPE_ONLY_SECTIONS and recipe_type != "recipe":
+            continue
+        # Collection folios embed sub-recipe sections inline; skip structural checks
+        if section in RECIPE_ONLY_SECTIONS and is_collection:
             continue
         if section not in sections:
             code = f"missing_{section.lower().replace(' ', '_')}"
@@ -371,10 +378,11 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
     # Keywords count check (only if section is present)
     if "Keywords" in sections:
         kw_count = check_keywords_count(text)
-        if kw_count is not None and not (KEYWORDS_MIN <= kw_count <= KEYWORDS_MAX):
+        kw_max = KEYWORDS_MAX_COLLECTION if is_collection else KEYWORDS_MAX
+        if kw_count is not None and not (KEYWORDS_MIN <= kw_count <= kw_max):
             audit.issues.append(Issue(
                 code="keywords_count",
-                description=f"Keywords has {kw_count} terms (expected {KEYWORDS_MIN}–{KEYWORDS_MAX})",
+                description=f"Keywords has {kw_count} terms (expected {KEYWORDS_MIN}–{kw_max})",
                 auto_fix=False,
             ))
 
@@ -758,9 +766,11 @@ def run_audit(
 
         title = entry.get("title", "Unknown")
         recipe_type = entry.get("type", "recipe")
+        format_exception = entry.get("formatException", "")
 
         # --- Audit ---
-        audit = audit_file(rid, title, recipe_type, fpath, deep=deep, detect_model=detect_model)
+        audit = audit_file(rid, title, recipe_type, fpath, deep=deep, detect_model=detect_model,
+                           format_exception=format_exception)
 
         if not audit.has_issues:
             clean_count += 1

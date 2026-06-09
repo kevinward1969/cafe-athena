@@ -223,7 +223,7 @@ All seven variant formulas scale linearly — doubling the formula doubles the y
 
 ## Keywords
 
-tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, french pastry, production reference, peanut butter
+tart dough, pâte sucrée, pâte sablée, pâte foncée, sablage, creaming method, fraisage, blind baking, frozen empty, fat encapsulation, gluten control, tartlet shells, les fonds, french pastry, peanut butter
 
 ## Category
 

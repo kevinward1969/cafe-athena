@@ -383,6 +383,7 @@ When an audit or validator flags something that is consistent across many existi
 **Fix at the source:** update `Recipe-Format-Standard.md` + `scripts/audit.py` + relevant agent surfaces. Do not force folios to conform to a validator that hasn't caught up to editorial practice.
 
 **Precedents:**
+
 - Keywords minimum lowered from 10 → 8 to accommodate foundation/technique folios
 - `style: Technique Folio` accepted alone (no `cuisine:` or `course:` required) for technique folios
 - Glossary entries use `- Term: Definition` format (no bold markers) per agent convention — do not flag

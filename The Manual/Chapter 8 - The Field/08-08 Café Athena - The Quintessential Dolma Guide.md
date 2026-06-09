@@ -151,7 +151,7 @@ The dolma is one of the oldest prepared foods in the Mediterranean world, and th
 
 ## Keywords
 
-grape leaves, dolma, dolmades, stuffed leaves, Turkish, Greek, Armenian, Georgian, Mediterranean, meze, rice filling, ground lamb, braising, allspice, pine nuts, currants, olive oil, cold serve, vegetarian
+grape leaves, dolma, dolmades, stuffed leaves, Turkish, Greek, Armenian, Georgian, Mediterranean, meze, ground lamb, braising, olive oil, cold serve, vegetarian
 
 ## Category
 

@@ -140,7 +140,7 @@ Gently reheat the shallot cream sauce over low heat. Remove from heat and stir t
 
 ## Keywords
 
-cod, confit, beurre noisette, brown butter, potato crumb, nori, seaweed, fat poaching, umami, shallot cream sauce, asparagus, French technique, fine dining, temperature control, seafood, broken sauce
+cod, confit, beurre noisette, brown butter, potato crumb, nori, fat poaching, umami, shallot cream sauce, asparagus, French technique, fine dining, temperature control, seafood, broken sauce
 
 ## Category
 
