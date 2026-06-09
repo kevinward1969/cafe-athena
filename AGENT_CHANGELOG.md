@@ -13,24 +13,24 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 | 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 |
 | 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 |
 | 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 |
-| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 |
-| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — |
-| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — |
-| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — |
-| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — |
-| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — |
-| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — |
-| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — |
-| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — |
-| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — |
-| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — |
-| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — |
-| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — |
-| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — |
-| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — |
-| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — |
-| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — |
-| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — |
+| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — |
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — |
+| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — |
+| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — |
+| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — |
+| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — |
+| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — |
+| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — |
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — |
+| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — |
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — |
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — |
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — |
+| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — |
+| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — |
+| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — |
+| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — |
+| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — |
 
 ---
 
@@ -152,9 +152,6 @@ These workflow files do not carry independent version numbers, but were updated 
 |---------|------|---------|
 | v2.0 | 2026-06-09 | Expanded scope from recipe hero images only to full Visual Director covering all three image types. Added MODE 1 (Recipe Hero), MODE 2 (Chapter Banner), and MODE 3 (Section Landing Page) sections, each with distinct composition rules, surface guidance, suppress lists, and brief input formats. Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`. Moved from `Guidance/` to `Gemini-Gems/`. Banners: 1920×480 ultra-wide (4:1), ingredient/process focus, no plated dishes. Section landing: 1920×1080 (16:9), hands/people permitted for action shots (faces excluded), cinematic editorial style. Per-section guidance table added for all four site sections (Academy, Brigade, Larder, Glossary). "No people or hands" constraint now scoped to Mode 1 recipe heroes only. |
 | v1.3 | 2026-06-09 | Added REFERENCE STYLE IMAGES section. Five canonical hero images designated as visual anchors — one per style zone: `07-09.webp` (default bistro braise), `07-03.webp` (grilled/smoked), `05-02.webp` (seafood/Fishmonger), `09-03.webp` (pastry/Pâtissier), `10-17.webp` (larder/foundational). Images should be attached directly in the Gemini Gem UI. |
-| v1.2 | 2026-06-08 | Added `Output: 16:9 widescreen, 1920×1080, landscape orientation` as a required field in the INPUT FORMAT brief template. Fixes aspect ratio drift — Gemini's image generation defaults do not reliably honor the 16:9 crop spec in the Camera & Composition section alone. |
-| v1.1 | 2026-04-15 | Added Ch. 12 (Les Fonds) to chapter style table — architectural/elemental style for structural bases (doughs, pastry creams, tuile, pasta). Updated marble surface exception to include Ch. 12 alongside Ch. 9. |
-| v1.0 | — | Initial release. Purpose-limited to hero image generation. Defines core aesthetic (warm editorial food photography), output constraints (one image, 16:9, ¾ overhead angle), and quality benchmarks. |
 | v1.2 | 2026-06-08 | Added `Output: 16:9 widescreen, 1920×1080, landscape orientation` as a required field in the INPUT FORMAT brief template. Fixes aspect ratio drift — Gemini's image generation defaults do not reliably honor the 16:9 crop spec in the Camera & Composition section alone. |
 | v1.1 | 2026-04-15 | Added Ch. 12 (Les Fonds) to chapter style table — architectural/elemental style for structural bases (doughs, pastry creams, tuile, pasta). Updated marble surface exception to include Ch. 12 alongside Ch. 9. |
 | v1.0 | — | Initial release. Purpose-limited to hero image generation. Defines core aesthetic (warm editorial food photography), output constraints (one image, 16:9, ¾ overhead angle), and quality benchmarks. |
