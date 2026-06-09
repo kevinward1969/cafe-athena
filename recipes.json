@@ -2541,10 +2541,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "keywords_count"
-        ]
+        "status": "clean",
+        "issues": []
       },
       "cuisine": "French",
       "style": "Fine Dining",
@@ -3782,10 +3780,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "keywords_count"
-        ]
+        "status": "clean",
+        "issues": []
       },
       "cuisine": "Mediterranean",
       "style": "Classical",
@@ -4025,10 +4021,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "keywords_count"
-        ]
+        "status": "clean",
+        "issues": []
       }
     },
     {
@@ -4261,10 +4255,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "section_order"
-        ]
+        "status": "clean",
+        "issues": []
       },
       "hasVariations": true,
       "cuisine": "French",
@@ -5671,13 +5663,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "missing_ingredients",
-          "missing_mise_en_place",
-          "missing_method",
-          "keywords_count"
-        ]
+        "status": "clean",
+        "issues": []
       },
       "cuisine": "Mediterranean",
       "style": "Classical",
@@ -6289,10 +6276,8 @@
       },
       "audit": {
         "lastRun": "2026-06-08",
-        "status": "issues_found",
-        "issues": [
-          "keywords_count"
-        ]
+        "status": "clean",
+        "issues": []
       },
       "cuisine": "French",
       "style": "Pastry",
