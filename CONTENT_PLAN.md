@@ -67,7 +67,7 @@
 ---
 
 ## Chapter 6 — The Poulterer  
-**Gap: +6 | 2 from RecipeIdeas, 4 original**
+**Gap: +6 | 3 from RecipeIdeas, 3 original | Plan locked 2026-06-08**
 
 ### Current Folios
 - 06-01 Italian Wedding Soup (Pollo Rustica)
@@ -87,20 +87,24 @@
 | Duck — confit | ✓ Covered | |
 | **Whole roast chicken** | ❌ Missing | Critical — absence in a poultry chapter is conspicuous |
 | **Turkey** | ❌ Missing | Major poultry category unrepresented |
-| **Duck breast** | ❌ Missing | Confit exists; duck breast is a different technique entirely |
-| **Game birds** | ❌ Missing | Quail, pheasant, or squab — any one covers the category |
-| **Chicken — wings** | ❌ Missing | High-interest, technique-forward opportunity |
+| **Duck breast** | — Deferred | Confit covers duck category; breast deferred to avoid redundancy |
+| **Game birds** | ❌ Missing | Quail — Ortolan-style (see 06-12 notes) |
+| **Chicken — wings** | ❌ Missing | High-interest, technique-forward; covered by 06-09 |
+| **Chicken Christopher** | ❌ Missing | Classic hotel/banquet preparation; PDF source available |
 | Rabbit | ❌ Missing | Optional — low priority |
 
-### Recommended Additions
-| Slot | Recipe Direction | Source |
-|------|-----------------|--------|
-| 06-07 | Chicken and Dumplings | `Chicken and Dumplings.pdf` |
-| 06-08 | Creamy chicken soup — proper development | `CREAMY CHICKEN SOUP.pdf` |
-| 06-09 | Whole roast chicken — protocol (dry brine, spatchcock, or classic) | Original |
-| 06-10 | Duck breast — pan-seared with sauce (cherry, orange, or green peppercorn) | Original |
-| 06-11 | Turkey — brined/roasted or a feature cut preparation | Original |
-| 06-12 | Game bird — quail (spatchcocked & seared) or squab | Original |
+### Planned Additions
+
+| Slot | Recipe | Source | Status |
+|------|--------|--------|--------|
+| 06-07 | Chicken and Dumplings | `Chicken and Dumplings.pdf` | Pending |
+| 06-08 | Whole Roast Chicken — dry-brine protocol | Original | Pending |
+| 06-09 | Chicken Wings | `Chicken Wings.pdf` | Pending |
+| 06-10 | Chicken Christopher | `Chicken Christopher.pdf` | Pending |
+| 06-11 | Turkey — brined/roasted or feature cut | Original | Pending |
+| 06-12 | Quail — Ortolan-style | Original | Pending — see note |
+
+> **06-12 Note:** Quail prepared in the tradition of the French Ortolan — submerged in Armagnac, roasted whole, eaten bone-in. The Ortolan bunting (banned France 1999, Mitterrand's last meal) is the historical reference; quail is the legal modern substitute. This folio is also the planned test case for the Expo editorial blog: the recipe folio covers technique, a paired editorial post covers the history and ritual. See `IDEAS.md` → The Expo as multi-purpose blog.
 
 ---
 

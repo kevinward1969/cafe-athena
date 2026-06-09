@@ -60,6 +60,19 @@ Ideas for Part IV (Planning, Plating, Service) or other editorial content — es
 
 - **The Expo as multi-purpose blog** — The Expo site section doubles as an editorial blog layer: curated recipe collections (e.g. "Full Brunch Service," "Core Café Athena Menu"), menu essays, plating guides, service notes. Collection pages live here as blog-style posts that pull together recipes with context, rather than bare auto-generated lists. Natural home for Part IV content once that chapter work begins. *(2026-05-19)*
 
+  **Editorial blog infrastructure** — No platform migration needed; Astro handles this natively. Build a new `posts` content collection alongside `recipes`. Each post is a Markdown file with frontmatter (`title`, `date`, `relatedRecipes[]`, `heroImage`, `excerpt`). Posts publish at `/expo/[slug]`. A post can reference one or more recipe folios, pull their hero images, and link directly to the folio page — keeping the recipe and the story tightly coupled without duplicating content. The `/expo` landing page lists posts in reverse-chronological order, functioning as the blog index.
+
+  **Test case: 06-12 Quail — Ortolan-style** — This folio is the planned first post. The recipe folio covers the how (preparation, Armagnac, whole-bird roasting). The editorial post covers the why: the history of the Ortolan bunting, the ritual (the napkin, the bones, eating whole), Mitterrand's last meal, the 1999 French ban, and why quail is the correct modern substitute. The two pieces cross-link. This pairing is the proof of concept for the entire blog model — a technique-forward recipe with a story big enough to stand alone as editorial content and drive search traffic from outside the cookbook audience.
+
+  **Build scope (half-day task when ready):**
+  - Add `posts` content collection to `site/src/content.config.ts`
+  - Create `site/src/content/posts/` directory
+  - Add `/expo/[slug].astro` dynamic route + `expo.astro` landing page
+  - Extend `prepare-content.py` or add a separate `prepare-posts.py` to process `The Manual/The Expo/` → `site/src/content/posts/`
+  - Add Expo nav link to site header
+
+  **Sequencing:** Finish Chapter 6 first. Write the Quail folio. Then build the blog infrastructure and write the Ortolan editorial post as the inaugural piece. *(2026-06-08)*
+
 ---
 
 ## 🌐 Site, Agent, & Tooling
