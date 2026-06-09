@@ -4,7 +4,7 @@
 **Status as of 2026-05-24:** 13 new recipes needed across 2 chapters + 3 category gap fills in Ch 7  
 *Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
 *Ch 11 complete (12/12) — 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni added 2026-05-24*  
-**Last updated:** 2026-05-24 (Ch 11 complete)
+**Last updated:** 2026-06-08 (Ch 7/8/9 folio lists and counts corrected)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
 > Chapters 10 and 12 are well above minimum (25 and 23 respectively) — no action needed.
@@ -19,14 +19,14 @@
 | Ch 4 - The Mill | 14 | 12 | ✓ | — |
 | **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
 | **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
-| Ch 7 - The Butcher | 13* | 12 | ✓ | Category gaps |
-| Ch 8 - The Field | 12 | 12 | ✓ | — |
-| Ch 9 - The Pâtissier | 13 | 12 | ✓ | — |
+| Ch 7 - The Butcher | 14 | 12 | ✓ | Category gaps (lamb, veal) |
+| Ch 8 - The Field | 14 | 12 | ✓ | — |
+| Ch 9 - The Pâtissier | 14 | 12 | ✓ | — |
 | Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
 | Ch 11 - Spice Blends, Oils & Pastes | 12 | 12 | ✓ | — |
 | Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
 
-*Duplicate folio `07-10_2` deleted 2026-05-19 — 13 unique folios confirmed.
+*Duplicate folio `07-10_2` deleted 2026-05-19. 07-14 Rolled Döner Kebab added 2026-05-27 — 14 unique folios confirmed.
 
 ---
 
@@ -116,18 +116,19 @@
 | **Veal** | ❌ Missing | Category unrepresented |
 
 ### Recommended Additions (these push count past 12 — confirm whether to add or swap)
-| Slot | Recipe Direction | Source |
-|------|-----------------|--------|
-| 07-14 | Lamb kebabs — marinated & grilled | `Kebabs.pdf` |
-| 07-15 | Goat or lamb birria — braised & consommé | `Birria Tacos W Adobo Sauce.pdf` |
-| 07-16 | Pork/veal meatballs (Swedish-style) | `IKEA Meatballs.pdf` |
+
+| Slot | Recipe Direction | Source | Status |
+|------|-----------------|--------|--------|
+| ~~07-14~~ | ~~Lamb kebabs~~ | — | ✓ Done 2026-05-27 — Rolled Döner Kebab (The Leaf Method), original development |
+| 07-15 | Goat or lamb birria — braised & consommé | `Birria Tacos W Adobo Sauce.pdf` | Pending |
+| 07-16 | Pork/veal meatballs (Swedish-style) | `IKEA Meatballs.pdf` | Pending |
 
 > Note: Delete `07-10_2 Café Athena - The Competition Red Texas-Style Chili.md` — confirmed duplicate of `07-10`.
 
 ---
 
-## Chapter 8 — The Field ✓ COMPLETE (12/12)
-**Closed 2026-05-19 — 08-11 Brussels Sprouts, 08-12 Southern Greens**
+## Chapter 8 — The Field ✓ COMPLETE (14/12)
+**Closed 2026-05-19 — 08-11 Brussels Sprouts, 08-12 Southern Greens. 08-13 and 08-14 added subsequently.**
 
 ### Current Folios
 - 08-01 King Trumpet "Scallops" & Celeriac Mousseline
@@ -140,6 +141,10 @@
 - 08-08 The Quintessential Dolma Guide
 - 08-09 Butter-Steamed Asparagus
 - 08-10 Crispy Potato & Onion Pavé Triangles
+- 08-11 Roasted Brussels Sprouts with Warm Honey-Mustard Pan Sauce *(added 2026-05-19)*
+- 08-12 Southern Braised Collard Greens & Pot Likker *(added 2026-05-19)*
+- 08-13 Glacé Carrots *(added 2026-05-20)*
+- 08-14 Crispy Smashed Brussels Sprouts *(added 2026-05-20)*
 
 ### Category Gaps
 | Category | Status |
@@ -160,9 +165,9 @@
 
 ---
 
-## Chapter 9 — The Pâtissier ✓ COMPLETE (12/12)
+## Chapter 9 — The Pâtissier ✓ COMPLETE (14/12)
 
-**Closed 2026-05-20 — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread**
+**Closed 2026-05-20 — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread. 09-13 reassigned from Ch 12; 09-14 added 2026-06-02.**
 
 ### Current Folios
 - 09-01 Brown Butter & Miso-Caramel Truffle Brownies
@@ -174,6 +179,11 @@
 - 09-07 Gooey Butter Cake *(added 2026-05-20)*
 - 09-08 Lemon Curd Tartlets *(added 2026-05-20)*
 - 09-09 Crème Brûlée *(added 2026-05-20)*
+- 09-10 Florentine Cannoli *(added 2026-05-20)*
+- 09-11 Truffle Cake Pops *(added 2026-05-20)*
+- 09-12 Brown Butter Banana Bread *(added 2026-05-20)*
+- 09-13 Sesame Florentine Cylinders with Miso-Orange Dark Chocolate Ganache *(reassigned from Ch 12, 2026-05-26)*
+- 09-14 The Fool's Gold Tart *(added 2026-06-02)*
 
 ### Category Gaps
 
@@ -192,9 +202,11 @@
 
 | Slot | Recipe Direction | Source | Status |
 |------|-----------------|--------|--------|
-| 09-10 | Florentine cannoli — Sicilian shell & filling | `Florentine Canoli.pdf` | Pending |
-| 09-11 | Truffle cake pops | `Truffle Cake Pops.pdf` | Pending |
-| 09-12 | Banana bread — brown butter variation | `Banana Bread.pdf` | Pending |
+| ~~09-10~~ | ~~Florentine cannoli~~ | `Florentine Canoli.pdf` | ✓ Done 2026-05-20 |
+| ~~09-11~~ | ~~Truffle cake pops~~ | `Truffle Cake Pops.pdf` | ✓ Done 2026-05-20 |
+| ~~09-12~~ | ~~Banana bread — brown butter variation~~ | `Banana Bread.pdf` | ✓ Done 2026-05-20 |
+| ~~09-13~~ | ~~Sesame Florentine Cylinders~~ | — | ✓ Done 2026-05-26 — reassigned from Ch 12 |
+| ~~09-14~~ | ~~The Fool's Gold Tart~~ | — | ✓ Done 2026-06-02 — original development |
 
 ---
 
