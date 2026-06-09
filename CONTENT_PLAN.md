@@ -1,13 +1,15 @@
 # Café Athena — Content Plan
 
 **Target:** 12 recipes minimum per recipe chapter  
-**Status as of 2026-05-24:** 13 new recipes needed across 2 chapters + 3 category gap fills in Ch 7  
+**Status as of 2026-06-08:** 12 new recipes needed across 2 chapters + 3 category gap fills in Ch 7  
 *Ch 9 complete (12/12) — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread added 2026-05-20*  
 *Ch 11 complete (12/12) — 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni added 2026-05-24*  
-**Last updated:** 2026-06-08 (Ch 7/8/9 folio lists and counts corrected)
+*06-07 Chicken and Dumplings added 2026-06-08 — Ch 6 now 7/12*  
+*12-24 Pressure-Cooked Whole Chicken & Bone Broth added 2026-06-08 — Ch 12 now 24 folios*  
+**Last updated:** 2026-06-08 (06-07 and 12-24 added)
 
 > Chapters 1 and 2 are technique-only — no recipe minimum applies.  
-> Chapters 10 and 12 are well above minimum (25 and 23 respectively) — no action needed.
+> Chapters 10 and 12 are well above minimum (25 and 24 respectively) — no action needed.
 
 ---
 
@@ -18,13 +20,13 @@
 | Ch 3 - Garde Manger | 14 | 12 | ✓ | — |
 | Ch 4 - The Mill | 14 | 12 | ✓ | — |
 | **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
-| **Ch 6 - The Poulterer** | **6** | 12 | **+6** | High |
+| **Ch 6 - The Poulterer** | **7** | 12 | **+5** | High |
 | Ch 7 - The Butcher | 14 | 12 | ✓ | Category gaps (lamb, veal) |
 | Ch 8 - The Field | 14 | 12 | ✓ | — |
 | Ch 9 - The Pâtissier | 14 | 12 | ✓ | — |
 | Ch 10 - Stocks, Sauces & Condiments | 25 | 12 | ✓ | — |
 | Ch 11 - Spice Blends, Oils & Pastes | 12 | 12 | ✓ | — |
-| Ch 12 - Les Fonds | 23 | 12 | ✓ | — |
+| Ch 12 - Les Fonds | 24 | 12 | ✓ | — |
 
 *Duplicate folio `07-10_2` deleted 2026-05-19. 07-14 Rolled Döner Kebab added 2026-05-27 — 14 unique folios confirmed.
 
@@ -72,7 +74,7 @@
 
 ## Chapter 6 — The Poulterer  
 
-**Gap: +6 | 3 from RecipeIdeas, 3 original | Plan locked 2026-06-08**
+**Gap: +5 | 2 from RecipeIdeas, 3 original | 1 of 6 complete**
 
 ### Current Folios
 
@@ -104,7 +106,7 @@
 
 | Slot | Recipe | Source | Status |
 |------|--------|--------|--------|
-| 06-07 | Chicken and Dumplings | `Chicken and Dumplings.pdf` | Pending |
+| ~~06-07~~ | ~~Chicken and Dumplings~~ | `Chicken and Dumplings.pdf` | ✓ Done 2026-06-08 |
 | 06-08 | Whole Roast Chicken — dry-brine protocol | Original | Pending |
 | 06-09 | Chicken Wings | `Chicken Wings.pdf` | Pending |
 | 06-10 | Chicken Christopher | `Chicken Christopher.pdf` | Pending |
