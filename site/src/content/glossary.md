@@ -367,6 +367,7 @@ No glossary terms yet.
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
 - Panko: Japanese-style breadcrumb produced by flash-baking dough via electrical conduction rather than conventional heat; characterized by an open, elongated lattice structure that produces a lighter, more shatteringly crisp crust than standard breadcrumb.
 - Parboiling: Partial cooking in boiling water — used at very brief durations (5–15 seconds) for pigment fixation and cellular softening before pressing.
+- Parsnip: A pale root vegetable related to the carrot, with a subtly sweet, earthy flavor. Commonly used in stocks, braises, and broths to add depth and body.
 - Pastry: A dough made from flour, fat, and liquid, typically used for creating crusts and other baked goods.
 - Pâte Foncée: Literally "lined pastry"; a firmer, less sweet tart dough formulated with a small amount of cream alongside egg to increase gluten elasticity for lining tall, deep-sided molds.
 - Pâte Sablée: Literally "sandy pastry"; a tart dough with a high fat-to-flour ratio and yolks as the sole hydration source, producing an extremely tender, crumbly texture that dissolves on the palate.
@@ -476,6 +477,7 @@ No glossary terms yet.
 - SHU (Scoville Heat Units): The standard measure of capsaicin concentration in peppers, named for pharmacist Wilbur Scoville. A jalapeño measures 2,500–8,000 SHU; Scotch Bonnet and Habanero measure 100,000–350,000 SHU.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
 - Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
+- Slick Dumpling: A Southern American dumpling style made from a stiff rolled dough, cut into flat pieces and simmered submerged in broth. Unlike drop dumplings, slick dumplings develop gluten intentionally during rolling, producing a tender, slightly chewy texture with silky, translucent edges when cooked through.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
 - Smoke Point: The temperature at which an oil begins to break down and produce continuous bluish smoke; lowers progressively as the oil accumulates polar compounds.
 - Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.
