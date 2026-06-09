@@ -29,8 +29,8 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 
 | Agent | File | Platform | Tools | Primary Role |
 | ----- | ---- | -------- | ----- | ------------ |
-| **Gemini Gem 1 — The Chef** | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` | Google Gemini Gems | Chat only | All three modes (Lab / Manual / MasterClass) — maintained fallback; Claude Desktop is primary |
-| **Gemini Gem 2 — The Visual Director** | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Hero image creation for recipes |
+| **Gemini Gem 1 — The Chef** | `Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` | Google Gemini Gems | Chat only | All three modes (Lab / Manual / MasterClass) — maintained fallback; Claude Desktop is primary |
+| **Gemini Gem 2 — The Visual Director** | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Recipe hero images, chapter banners, and section landing page images |
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
 | **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
@@ -152,7 +152,7 @@ The current architecture is well-designed in several important ways:
 
 **Issue:** The same three-mode system prompt is maintained in three separate files:
 
-- `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.8 — fallback)
+- `Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` (v3.10 — fallback)
 - `Claude-Desktop/PROJECT_INSTRUCTIONS.md` (v1.9)
 - `.claude/agents/Cafe Athena Chef.agent.md` (v1.11 — canonical master)
 
@@ -301,8 +301,8 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 | Claude Code markdownlint sub-agent | `.claude/agents/Markdownlint QA.agent.md` |
 | Claude Code clarity audit sub-agent | `.claude/agents/Recipe Clarity Auditor.agent.md` |
 | Claude Desktop / Claude.ai system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
-| Gemini Gem 1 instructions (fallback culinary AI) | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
-| Gemini Gem 2 instructions (image AI) | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` |
+| Gemini Gem 1 instructions (fallback culinary AI) | `Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
+| Gemini Gem 2 instructions (image AI — Visual Director) | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` |
 | Slash-command workflow definitions | `.claude/commands/` |
 | Markdownlint config | `.markdownlint.json` |
 | Active session state | `PROJECT_STATUS.md` |

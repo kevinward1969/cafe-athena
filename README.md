@@ -65,9 +65,11 @@ cafe-athena/
 │   ├── Technique-Folio-Example.md
 │   ├── Technique_Folio_Template_v1.md
 │   ├── Cafe-Athena-Workflow-Guide.md
-│   ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md       # Gemini Gem 1 (culinary AI — fallback surface)
-│   ├── CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md  # Gemini Gem 2 (image AI)
 │   └── archived/
+│
+├── Gemini-Gems/                    # Gemini Gem configuration files
+│   ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md             # Gemini Gem 1 (culinary AI — fallback surface)
+│   └── CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md  # Gemini Gem 2 (image AI — all 3 image types)
 │
 ├── .claude/                        # Claude Code (Antigravity) configuration
 │   ├── agents/
