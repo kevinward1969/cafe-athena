@@ -34,23 +34,19 @@ The system currently has **four distinct AI agent surfaces**, each targeting a d
 | **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
 | **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
-| **Copilot Agent — Markdownlint QA** | `.github/agents/markdownlint-qa.agent.md` | VS Code Copilot Chat | read, edit, search, execute | Same pipeline, accessible from VS Code standard chat |
-| **Copilot Skill — Site Development** | `.github/skills/cafe-athena-site-dev/SKILL.md` | VS Code Copilot Chat | All Copilot tools | Site changes, feature planning, LocalHost testing, and deploy coordination for cookbook.kevinward.com |
+| **Claude Code Sub-Agent — Recipe Clarity Auditor** | `.claude/agents/Recipe Clarity Auditor.agent.md` | Claude Code (Antigravity) | Read, Grep, Glob | Instructional clarity audit — forward references, ambiguous parentheticals, unlisted ingredients, multi-action steps |
 
-> **Claude Code-only note:** Both Claude Code sub-agents and all `.agents/workflows/` slash commands run exclusively inside Claude Code (CLI or VS Code extension). They are not compatible with VS Code's standard chat panel or GitHub Copilot chat — those surfaces do not have access to the Claude Code slash command system or sub-agent framework.
->
-> **VS Code Copilot primitives (`.github/agents/`, `.github/skills/`)** are a separate, compatible surface. Copilot agents and skills *do* work in VS Code's standard chat panel and are listed in the Agent Inventory above. They cannot invoke Claude Code workflows directly.
-
-Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Code sub-agent executes:
+Plus **eight slash-command workflows** (`.claude/commands/`) that the Claude Code sub-agent executes:
 
 | Workflow | Command | Purpose |
 | -------- | ------- | ------- |
-| `new-recipe.md` | `/new-recipe [id]` | Full onboarding pipeline: format audit → keyword pull → glossary pull → deploy |
+| `pipeline.md` | `/pipeline [id]` | Full pipeline: register → clarity audit → image prompt → format audit → keyword pull → glossary pull → hero image → build → deploy |
+| `clarity-audit.md` | `/clarity-audit [id\|Chapter N]` | Instructional clarity audit — stop point if issues found |
+| `new-recipe.md` | `/new-recipe [id]` | Full onboarding workflow for a newly added recipe |
 | `format-audit.md` | `/format-audit [id\|chapter]` | Validate recipe/folio structure against the format standard |
 | `glossary-pull.md` | `/glossary-pull [id]` | Merge recipe glossary terms into the main glossary |
 | `keyword-pull.md` | `/keyword-pull [id]` | Generate and append Keywords + Category sections |
 | `audit-glossary.md` | `/audit-glossary` | Fix formatting, alphabetization, and duplicates in main glossary |
-| `recipe-hero-image.md` | `/recipe-hero-image [id]` | Create Gemini image prompt, optimize PNGs, insert reference shortcodes |
 | `session-handoff.md` | `/session-handoff` | Update `PROJECT_STATUS.md`, commit, push, and output handoff summary |
 
 ---
@@ -82,7 +78,7 @@ Plus **seven slash-command workflows** (`.agents/workflows/`) that the Claude Co
   │                                                                           │
   │   Café Athena Chef  (.claude/agents/Cafe Athena Chef.agent.md)           │
   │   All 3 modes + Read/Write/Edit/Grep/Glob/Bash tools                     │
-  │   Executes workflows from .agents/workflows/:                            │
+  │   Executes workflows from .claude/commands/:                            │
   │     /new-recipe  /format-audit  /glossary-pull  /keyword-pull            │
   │     /audit-glossary  /recipe-hero-image  /session-handoff                │
   │                                                                           │
@@ -222,7 +218,7 @@ Each surface has diverged slightly. Changes to one do not automatically propagat
 
 ### 5.8 Workflow Tool Names
 
-**Issue:** Several `.agents/workflows/` files used Desktop Commander MCP tool names (`find_by_name`, `view_file`, `replace_file_content`, `multi_replace_file_content`) instead of the Claude Code sub-agent's actual tools (`Glob`, `Read`, `Edit`, `Write`). This would cause workflow execution failures.
+**Issue:** Several `.claude/commands/` files used Desktop Commander MCP tool names (`find_by_name`, `view_file`, `replace_file_content`, `multi_replace_file_content`) instead of the Claude Code sub-agent's actual tools (`Glob`, `Read`, `Edit`, `Write`). This would cause workflow execution failures.
 
 **Status:** Fixed in this update — all workflow files now use correct Claude Code tool names.
 
@@ -281,7 +277,7 @@ Claude Code supports a "co-work" pattern where multiple sub-agents run in parall
 
 3. **Context cost** — Each co-work agent starts with full context overhead. For 69 glossary pulls, spawning 69 agents is expensive. A better model may be one agent per chapter (7 agents for glossary work) rather than one per recipe.
 
-4. **Workflow readiness** — The existing `.agents/workflows/` files are written for single-recipe invocation. A batch variant would need either new workflow files (`/glossary-pull-chapter [N]`) or a wrapper agent that loops through a chapter's files and calls the existing logic.
+4. **Workflow readiness** — The existing `.claude/commands/` files are written for single-recipe invocation. A batch variant would need either new workflow files (`/glossary-pull-chapter [N]`) or a wrapper agent that loops through a chapter's files and calls the existing logic.
 
 ### Recommended Starting Point
 
@@ -303,10 +299,11 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 | Master recipe formatting rules | `Guidance/Recipe-Format-Standard.md` |
 | Claude Code culinary sub-agent | `.claude/agents/Cafe Athena Chef.agent.md` |
 | Claude Code markdownlint sub-agent | `.claude/agents/Markdownlint QA.agent.md` |
+| Claude Code clarity audit sub-agent | `.claude/agents/Recipe Clarity Auditor.agent.md` |
 | Claude Desktop / Claude.ai system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
 | Gemini Gem 1 instructions (fallback culinary AI) | `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` |
 | Gemini Gem 2 instructions (image AI) | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` |
-| Slash-command workflow definitions | `.agents/workflows/` |
+| Slash-command workflow definitions | `.claude/commands/` |
 | Markdownlint config | `.markdownlint.json` |
 | Active session state | `PROJECT_STATUS.md` |
 | Full cookbook manuscript | `The Manual/` |

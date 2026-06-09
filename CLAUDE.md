@@ -82,7 +82,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `AGENT_CHANGELOG.md` | Version history for all agent surfaces |
 | `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
-| `.agents/workflows/` | Slash-command workflow definitions |
+| `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |
 | `The Manual/Glossary/` | Split culinary glossary — one file per letter (`Café Athena  - Glossary [LETTER].md`, A–Z + 0-9) |
@@ -99,7 +99,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 2. Add an entry to `AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`, and any `.agents/workflows/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
 
 ---
 
@@ -111,7 +111,7 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PRO
 |-------------|----------------------|
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
 | `Guidance/Recipe-Format-Standard.md` | No action needed — Claude Desktop reads this file live from the filesystem via MCP |
-| `.agents/workflows/*.md` | No action needed — workflows run in Claude Code only |
+| `.claude/commands/*.md` | No action needed — workflows run in Claude Code only |
 | `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
 | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop project settings |
 
@@ -134,7 +134,7 @@ Every time a new recipe or technique folio is added, **all four of these must be
 
 ## Slash Commands
 
-Run these in Claude Code. Full definitions in `.agents/workflows/`.
+Run these in Claude Code. Full definitions in `.claude/commands/`.
 
 | Command | Purpose |
 |---------|---------|

@@ -1,5 +1,5 @@
 ---
-description: Runs a recipe or folio through the full publishing pipeline — audit, keyword/category pull, glossary pull, hero image check, build, and deploy. Driven entirely by recipes.json stage flags. Handles both new recipes (all stages false) and updates (resumes from first false stage). Single entry point after any Claude Desktop Mode 1/2/3 session.
+description: Runs a recipe or folio through the full publishing pipeline — register, clarity audit, image prompt, format audit, keyword/category pull, glossary pull, hero image check, build, and deploy. Driven entirely by recipes.json stage flags. Handles both new recipes (all stages false) and updates (resumes from first false stage). Single entry point after any Claude Desktop Mode 2 session.
 ---
 
 # Pipeline Workflow
@@ -10,10 +10,10 @@ Example: `/pipeline 12-23`
 
 ---
 
-## Phase 0 — Registry Read
+## Phase 0 — Register
 
 1. Read `recipes.json`. Search for an entry with `"id": "[id]"`.
-2. **If no entry exists:** run `/register-recipe [id]` first to create it, then continue here.
+2. **If no entry exists:** run the register-recipe workflow inline to create it, then continue here.
 3. Identify all stages currently set to `false`. These are the pending stages.
 4. Determine pathway:
    - **New** — no `version` field present (recipe has never been modified by the pipeline)
@@ -27,7 +27,36 @@ If all stages are already `true`, report that the recipe is fully complete and s
 
 ---
 
-## Phase 1 — Format Audit → `formatAudit`
+## Phase 1 — Clarity Audit → `clarityAudit`
+
+Skip if `clarityAudit: true`.
+
+1. Invoke the **Recipe Clarity Auditor** agent on the folio file.
+2. **If clean:** mark `clarityAudit: true`. Do NOT set `needs_rebuild`. Continue.
+3. **If issues found:** display each finding with suggested fix.
+   - **STOP.** Do not advance until every issue is resolved or explicitly excepted by the user.
+   - Once resolved, re-run the audit to confirm clean before marking `clarityAudit: true`.
+
+---
+
+## Phase 2 — Image Prompt
+
+1. Read the folio file. Extract the recipe title, headnote, and key visual elements (primary ingredients, technique, garnish, color, texture).
+2. Generate a Gemini hero image brief using this structure:
+
+```
+Recipe: [dish name]
+Chapter: [chapter name]
+Description: [headnote — key visual elements, texture, color, sauce, garnish]
+Cuisine: [cuisine type]
+Key elements: [3–5 primary visual ingredients or techniques]
+```
+
+1. Output the prompt to the user. No stop point — continue immediately after output.
+
+---
+
+## Phase 3 — Format Audit → `formatAudit`
 
 Skip if `formatAudit: true`.
 
@@ -41,7 +70,7 @@ Skip if `formatAudit: true`.
 
 ---
 
-## Phase 2 — Keyword & Category Pull → `keywordPull`
+## Phase 4 — Keyword & Category Pull → `keywordPull`
 
 Skip if `keywordPull: true`.
 
@@ -52,7 +81,7 @@ Skip if `keywordPull: true`.
 
 ---
 
-## Phase 3 — Glossary Pull → `glossaryPull`
+## Phase 5 — Glossary Pull → `glossaryPull`
 
 Skip if `glossaryPull: true`.
 
@@ -68,30 +97,32 @@ Skip if `glossaryPull: true`.
 
 ---
 
-## Phase 4 — Hero Image → `heroImage` + `heroImageOptimized`
+## Phase 6 — Hero Image → `heroImage` + `heroImageOptimized`
 
 Skip if `heroImage: true` AND `heroImageOptimized: true`.
 
-1. Check `site/public/images/[id].webp`. The hero image is placed by the user before the pipeline runs — it will not appear mid-run. Check once and act on what you find.
+1. Check `site/public/images/[id].webp`.
 
    **File found:**
    Run a spec check using `sips`:
+
    ```bash
    sips -g pixelWidth -g pixelHeight -g fileSize "site/public/images/[id].webp"
    ```
+
    - Warn (non-blocking) if dimensions ≠ 1920×1080
    - Warn (non-blocking) if file size > 500 KB
    - Mark `heroImage: true` and `heroImageOptimized: true`. Continue.
 
    **File not found:**
    **STOP.** Output:
-   > Hero image missing for `[id]`. Place `[id].webp` in `site/public/images/` then re-run `/pipeline [id]`. All completed stages are saved — the pipeline will resume from this point.
+   > Hero image missing for `[id]`. The image prompt was provided at Phase 2. Place `[id].webp` in `site/public/images/` then re-run `/pipeline [id]`. All completed stages are saved — the pipeline will resume from this point.
 
    Do not proceed to build or deploy.
 
 ---
 
-## Phase 5 — Pre-Deploy Review
+## Phase 7 — Pre-Deploy Review
 
 Run only if `needs_rebuild = true`.
 
@@ -102,49 +133,58 @@ Run only if `needs_rebuild = true`.
    - Glossary terms that updated an existing definition
 3. **Prompt:** *"Deploy these changes to cookbook.kevinward.com? [y/n]"*
 4. If `n`: stop. All registry flags are already written — re-running `/pipeline [id]` will skip completed stages and resume at this prompt.
-5. If `y`: continue to Phase 6.
+5. If `y`: continue to Phase 8.
 
 If `needs_rebuild = false`: skip entirely. Nothing changed, nothing to deploy.
 
 ---
 
-## Phase 6 — Build & Deploy
+## Phase 8 — Build & Deploy
 
-Run only if `needs_rebuild = true` and user approved in Phase 5.
+Run only if `needs_rebuild = true` and user approved in Phase 7.
 
 1. Run from the repo root:
+
    ```bash
    bash site/scripts/deploy.sh
    ```
+
    This runs `prepare-content.py` → `npm run build` (includes Pagefind) → rsync to FastComet.
 2. Confirm rsync completed successfully (look for `✅ Deployed successfully!` in output).
 3. Mark `deployed: true` in registry.
 
 ---
 
-## Phase 7 — Registry & Tracking Finalization
+## Phase 9 — Registry & Tracking Finalization
 
-1. Write all updated stage flags to `recipes.json`.
-2. **Version bump** — only if `needs_rebuild = true` (content actually changed):
-   - **No `version` field present:**
-     - ID ends in `_2` or higher numeric suffix → add `version: "2.1"`
-     - No suffix → add `version: "1.1"`
-   - **`version` field present:** increment the minor version
-     - `"1.1"` → `"1.2"`, `"1.9"` → `"1.10"`, `"2.1"` → `"2.2"`, etc.
-   - Set `lastModified: [today's ISO date]`
-3. Update `PROJECT_STATUS.md` Last Updated date.
-4. Commit all changes in a single commit:
+**Nothing in this phase is skippable. Execute every item. If any cannot be confirmed, flag it explicitly before committing.**
+
+1. **`recipes.json`** — write all stage flags. Version bump and set `lastModified` to today's date (only if `needs_rebuild = true`):
+   - No `version` field present: add `version: "1.1"`
+   - `version` field present: increment minor version (`"1.1"` → `"1.2"`, `"1.9"` → `"1.10"`)
+
+2. **`The Manual/Cafe-Athena-The-Manual-Current-Version.md`** — confirm the recipe entry exists under the correct chapter heading. If missing, add it now.
+
+3. **`CONTENT_PLAN.md`** — confirm the chapter recipe count reflects the current state. Update if the count has changed.
+
+4. **`PROJECT_STATUS.md`** — update the Last Updated date.
+
+5. **Single commit** — bundle every change from the entire pipeline run into one commit:
+
    ```
    chore([id]): pipeline — [comma-separated list of stages completed]
    ```
-   Example: `chore(12-23): pipeline — formatAudit, glossaryPull, deploy`
-5. Push to GitHub.
+
+   Example: `chore(12-23): pipeline — clarityAudit, formatAudit, glossaryPull, deploy`
+
+6. **Push to GitHub.**
 
 ---
 
 ## Pipeline Rules
 
 - **Registry drives everything.** Never run a stage that is already `true`. Never skip a stage that is `false`.
+- **Clarity audit is a hard stop.** Do not advance past Phase 1 until the audit is clean.
 - **Never rebuild if nothing changed.** `needs_rebuild` must be `true` to trigger a build. A clean audit pass alone does not trigger a rebuild.
 - **Never version-bump a no-content-change run.** Version increments only when folio or glossary files are written.
 - **Always prompt before deploy.** Even if everything looks clean, require explicit approval before rsync.
@@ -152,5 +192,6 @@ Run only if `needs_rebuild = true` and user approved in Phase 5.
 - **Hero image is always placed by the user before running the pipeline.** Check `site/public/images/[id].webp` once — if missing, stop and ask. Do not assume it will appear mid-run.
 - **Hero image spec warnings are non-blocking.** Warn on dimension or size issues, but continue.
 - **Glossary definitions must be universal.** Strip recipe-specific language before writing to the main glossary.
-- **One commit per pipeline run.** Bundle everything — folio changes, glossary changes, registry updates, PROJECT_STATUS — into a single commit.
+- **One commit per pipeline run.** Bundle everything — folio changes, glossary changes, registry updates, all tracking doc updates — into a single commit.
 - **Run as a single atomic command.** Never run pipeline stages manually and piecemeal. `/pipeline [id]` is the only entry point after a folio is written. "Put it through the pipeline" is authorization to run to completion including deploy.
+- **Phase 9 is mandatory.** Every tracking document must be confirmed updated before committing. Do not skip any item in Phase 9.

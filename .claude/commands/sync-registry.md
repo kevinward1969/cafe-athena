@@ -41,6 +41,7 @@ Compare the sets:
   - `referenceImages` — check for `{index}[a-z].webp` in `site/public/images/`
   - `referenceImagesProcessed` — check if any `{index}[a-z].png` still exist in `site/public/images/`
   - `glossaryPull` — check for `## Glossary` section in source file
+  - `clarityAudit` — cannot be derived from filesystem; leave existing value unchanged. If field is absent from an entry, add it as `false`.
 
 ---
 

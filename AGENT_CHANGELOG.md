@@ -8,25 +8,27 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 > **Note:** Gemini Gem 1 (The Chef) is maintained as a fallback surface. Updates to the canonical master should be ported here when practical.
 
-| Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA |
-|--------------|-----------------|-----------------|----------------|-----------------|
-| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 |
-| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 |
-| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 |
-| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 |
-| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 |
-| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 |
-| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 |
-| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 |
-| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 |
-| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 |
-| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 |
-| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 |
-| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 |
-| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 |
-| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 |
-| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 |
-| (initial) | v1.0 | v3.0 | v1.0 | v1.0 |
+| Release Date | Canonical Master | GEM Instructions | Claude Desktop | Markdownlint QA | Recipe Clarity Auditor |
+|--------------|-----------------|-----------------|----------------|-----------------|------------------------|
+| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.1 | v1.0 |
+| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 |
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — |
+| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — |
+| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — |
+| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — |
+| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — |
+| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — |
+| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — |
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — |
+| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — |
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — |
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — |
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — |
+| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — |
+| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — |
+| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — |
+| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — |
+| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — |
 
 ---
 
@@ -34,7 +36,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 **File:** `Guidance/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
 **Status:** Maintained as a fallback surface. Not the primary creative surface (Claude Desktop holds that role), but kept in sync with canonical master updates when practical.  
-**Current Version:** 3.8
+**Current Version:** 3.10
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -45,6 +47,8 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 | v3.4 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to file header. |
 | v3.5 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v3.6 | 2026-04-16 | Master audit pass. Added anti-sycophancy and uncertainty acknowledgment directives to ROLE & PERSONA. Hardened HACCP food safety stop to non-overridable hard block. Added MEMORY & STATE section with session-start PROJECT_STATUS read directive. Added devil's advocate clause to Mode 1 Stop Points. Added FORMATTING NOTES section (glossary format spec). Added OUT-OF-SCOPE REDIRECT. Added v3.5 entry to in-file VERSION HISTORY (was previously missing). |
+| v3.10 | 2026-06-09 | Added mandatory clarity audit to Mode 2 Stop Points. After generating any recipe draft, the agent must run four checks (forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps) and fix all issues before outputting. |
+| v3.9 | 2026-06-09 | Updated slash-command workflow path from `.agents/workflows/` to `.claude/commands/` following project structure consolidation. |
 | v3.8 | 2026-05-19 | Added explicit RECIPE STRUCTURE ordered list (10 sections). Added Category format block to FORMATTING NOTES: all four mandatory fields (`cuisine`, `style`, `family`, `course`), `dietary:` as comma-separable optional, technique folio exception, and reference to `Guidance/Taxonomy.md`. Aligns with canonical master v1.9 and `Recipe-Format-Standard.md` v3.3. |
 | v3.7 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to ROLE & PERSONA. Added Assumption Surfacing directive. Added Steelman Check to Mode 1 Stop Points (after proposing a direction, surface strongest counterargument in one sentence). |
 
@@ -53,7 +57,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 ## Claude Desktop Agent
 
 **File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.8
+**Current Version:** 1.14
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -63,6 +67,8 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 | v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v1.4 | 2026-04-16 | Master audit pass. Added No Sycophancy and Uncertainty Acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to CRITICAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.5 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.14 | 2026-06-09 | Added mandatory clarity audit as step 2 of Mode 2 OUTPUT PROTOCOL. Four checks baked in: forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps. Renumbered steps 3–9 accordingly. |
+| v1.13 | 2026-06-09 | Updated slash-command workflow path from `.agents/workflows/` to `.claude/commands/` following project structure consolidation. |
 | v1.9 | 2026-05-18 | Phase 1.5 update. Category format updated to 4 mandatory fields: `cuisine`, `style`, `family`, `course`. Vocabulary now references `Guidance/Taxonomy.md`. `dietary:` comma-separable. Technique folio Category: `style: Technique Folio \| family: [value]` only. Recipe structure item 10 updated. |
 | v1.8 | 2026-05-18 | Updated RECIPE STRUCTURE to v3.2 order: Ingredients (3) now precedes Mise en Place (4). Added Variations and Chef's Notes inline definitions (significant departures only vs. minor options). Updated REFERENCE IMAGE SHORTCODE: single-location rule — all images in `site/public/images/` only, no Manual chapter folder. Added `/pipeline [index]` as primary post-session entry point to CLAUDE CODE WORKFLOWS. Updated `/format-audit` and `/glossary-pull` descriptions to reflect v3.2 checks. Removed deprecated `/recipe-hero-image optimize` sub-mode. |
 | v1.7 | 2026-05-15 | Split recipe structure item 6 (Chef's Notes / Variations) into two separate optional sections: item 6 = Variations, item 7 = Chef's Notes. Items 8–10 renumbered (Glossary, Keywords, Category). Updated Mode 2 steps 4–5 section references (Section 8→9 for Keywords, Section 9→10 for Category). Aligns with `Guidance/Recipe-Format-Standard.md` v3.1. |
@@ -70,14 +76,27 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 ---
 
+## Claude Code Sub-Agent — Recipe Clarity Auditor
+
+**File:** `.claude/agents/Recipe Clarity Auditor.agent.md`
+**Current Version:** 1.0
+**Status:** Read-only audit agent. Does not modify files.
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-09 | Initial release. Four checks: forward references in ingredient sections, ambiguous cross-section parentheticals, method ingredients not listed, multi-action steps. |
+
+---
+
 ## Claude Code Sub-Agent — Café Athena Chef
 
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
-**Current Version:** 1.11  
+**Current Version:** 1.13
 **Status:** Canonical master — update this first.
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.13 | 2026-06-09 | Added clarity audit as step 3 of Mode 2 Output Protocol. Four checks run automatically after draft generation: forward references in ingredient sections, ambiguous cross-section parentheticals, method steps referencing unlisted ingredients, multi-action steps. Recipe not output until all checks pass. Renumbered Output Protocol steps 4–11 accordingly. |
 | v1.12 | 2026-05-25 | Fixed Mode 1 verbosity: reordered response structure to lead with recommendation (proposed direction first, supporting logic second), made Steelman check conditional on consequential/contentious direction rather than mandatory every turn, and scoped confirmation echo to genuinely ambiguous mode detection only. |
 | v1.11 | 2026-05-19 | Applied analyzer-aligned wording for factual-correction persona guidance and removed duplicate Mode 2 correction sentence to keep one concise correction policy with mode-specific priority handling. |
 | v1.10 | 2026-05-19 | Further diagnostics hardening: moved correction priority logic out of PERSONA into explicit Mode 1/Mode 2 behavior rules, added per-mode priority order lines, and clarified that false premises are never preserved while mode sections define execution style. |

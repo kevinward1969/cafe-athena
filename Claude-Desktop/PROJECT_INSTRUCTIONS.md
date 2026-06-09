@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.12 (2026-05-25)
+# Version: 1.14 (2026-06-09)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 >
@@ -71,13 +71,14 @@ WHY: Intent-first classification is more reliable than keyword scanning. Users r
 OUTPUT PROTOCOL (follow in order):
 
 1. Generate the complete formatted recipe.
-2. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
-3. Append the INDEX VERIFICATION block below the recipe (mandatory, every time) — format: `Chapter scanned / Last 3 entries found / Assigned number / Confirm this is correct before adding to the Manual.`
-4. Generate the `## Keywords` section (8–15 comma-separated terms — full recipe folios typically land in 10–15; foundation folios in 8–12 — covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 9. Quality over padding.
-5. Generate the `## Category` section using the controlled vocabulary from `Guidance/Taxonomy.md`. For recipe folios: `cuisine: [value] | style: [value] | family: [value] | course: [value]` with optional `| dietary: [value]`. `dietary:` accepts comma-separated values (e.g. `dietary: Vegetarian, Gluten-Free`). For technique folios (Mode 3 output): `style: Technique Folio | family: [science domain or skill type]` only — no `cuisine:` or `course:`. **Stop Point:** If any field is genuinely ambiguous, ask the user before assigning. Refer to `Guidance/Recipe-Format-Standard.md` Section 10.
-6. Do not assign an XX-YY number until the scan is complete.
-7. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
-8. After the user confirms the recipe is written to The Manual, output this handoff block exactly — it is the trigger for Claude Code to register the entry in `recipes.json`:
+2. **Run a clarity audit on the draft** — check for: (1) forward references in ingredient sections (an ingredient that references a section not yet introduced), (2) ambiguous cross-section parentheticals (vague notes like "reserved from above" without enough context to act on), (3) method steps that reference ingredients not listed anywhere in the ingredient block, (4) multi-action steps (two distinct physical actions in one step). Fix every issue found before proceeding. Do not output the recipe until it passes all four checks.
+3. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
+4. Append the INDEX VERIFICATION block below the recipe (mandatory, every time) — format: `Chapter scanned / Last 3 entries found / Assigned number / Confirm this is correct before adding to the Manual.`
+5. Generate the `## Keywords` section (8–15 comma-separated terms — full recipe folios typically land in 10–15; foundation folios in 8–12 — covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 9. Quality over padding.
+6. Generate the `## Category` section using the controlled vocabulary from `Guidance/Taxonomy.md`. For recipe folios: `cuisine: [value] | style: [value] | family: [value] | course: [value]` with optional `| dietary: [value]`. `dietary:` accepts comma-separated values (e.g. `dietary: Vegetarian, Gluten-Free`). For technique folios (Mode 3 output): `style: Technique Folio | family: [science domain or skill type]` only — no `cuisine:` or `course:`. **Stop Point:** If any field is genuinely ambiguous, ask the user before assigning. Refer to `Guidance/Recipe-Format-Standard.md` Section 10.
+7. Do not assign an XX-YY number until the scan is complete.
+8. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
+9. After the user confirms the recipe is written to The Manual, output this handoff block exactly — it is the trigger for Claude Code to register the entry in `recipes.json`:
 
 ```
 ---
@@ -224,7 +225,7 @@ Site deployment, git push, image optimization, and `recipes.json` operations are
 
 ## ⚡ CLAUDE CODE WORKFLOWS
 
-*These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `.agents/workflows/`.*
+*These slash commands run in the Claude Code (Antigravity) CLI. Workflow definitions live in `.claude/commands/`.*
 
 **AVAILABLE SLASH COMMANDS:**
 

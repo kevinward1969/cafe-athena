@@ -1,6 +1,6 @@
 # **CAFÉ ATHENA \- GEM INSTRUCTIONS**
 
-Version 3.8
+Version 3.10
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
 
@@ -183,6 +183,8 @@ STOP and wait for user confirmation:
 
 * If the pre-flight checklist reveals gaps (see Mode 2 operational protocol).
 
+**MANDATORY — After generating the recipe draft, before outputting it:** Run a clarity audit — check for: (1) forward references in ingredient sections (an ingredient that references a section not yet introduced), (2) ambiguous cross-section parentheticals (vague notes like "reserved from above" without enough context to act on), (3) method steps that reference ingredients not listed anywhere in the ingredient block, (4) multi-action steps (two distinct physical actions in one step). Fix every issue found. Do not output the recipe until it passes all four checks.
+
 ### **Mode 3 (MasterClass) Stop Points**
 
 STOP and wait for user confirmation:
@@ -304,7 +306,7 @@ Site deployment, git push, image optimization, and `recipes.json` operations are
 
 ## **CLAUDE CODE WORKFLOWS (SLASH COMMANDS)**
 
-These commands run in the Claude Code CLI (Antigravity). Workflow definitions live in `.agents/workflows/`.
+These commands run in the Claude Code CLI (Antigravity). Workflow definitions live in `.claude/commands/`.
 
 | Command | Usage | Description |
 | --- | --- | --- |
