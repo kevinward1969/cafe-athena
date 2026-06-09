@@ -76,7 +76,7 @@ Add the **cucumber**, **scallions**, and **lime zest** to the chilled tuna. Pour
 
 Dice the **avocado** and place it at the bottom of a ring mold (or bowl). Top with the tuna tartare mixture. Garnish with **toasted sesame seeds**. Serve immediately with nori chips or crostini.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The Saku Block:** "Saku" refers to a uniform block of frozen tuna loin, trimmed of sinew and skin. This is the safest and easiest cut for tartare.
 * **Texture Modifier:** For added crunch, mix in 1 tbsp of crushed fried shallots or tempura flakes just before serving.

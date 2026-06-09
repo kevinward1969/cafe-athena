@@ -76,7 +76,7 @@ This recipe elevates the humble potato into a geometric exercise in texture. By 
 
 **Finish:** Drain on a wire rack and season immediately with additional Diamond Crystal kosher salt if desired.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The "Aggressive" Wring:** The success of the "glassy" crust depends entirely on how much water you remove in Phase 1. If the dough feels "mushy" or wet before going into the tray, it will likely explode or become greasy during the fry.
 * **Potato Selection:** High-starch, low-moisture varieties like Agria or Russet are non-negotiable. Waxy potatoes will not provide the necessary starch for the internal bind.

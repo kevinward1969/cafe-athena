@@ -72,13 +72,11 @@ While rarely served on its own in modern dining, Sauce Espagnole is the critical
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Demi-Glace:** To create a classic Demi-Glace, combine this Espagnole with an equal part of Brown Stock and reduce by half again until it coats the back of a spoon (nappe).
 - **Texture:** Because the starch in a brown roux has been cooked longer, it has less thickening power than a white roux. This is why Espagnole requires reduction time to achieve the correct viscosity.
 - **Acid Balance:** If the sauce feels too "heavy" or fatty on the palate, a tiny splash of Sherry vinegar at the very end can cut the richness.
-
----
 
 ## Glossary
 

@@ -116,9 +116,12 @@ While the fish confits, prepare the asparagus using the butter-steamed method (s
 
 Gently reheat the shallot cream sauce over low heat. Remove from heat and stir through the extra virgin olive oil — this intentionally splits the sauce, creating a broken, glossy finish rather than a uniform coating. Spoon into the base of each warm plate. Set the crusted cod on top and arrange the buttered asparagus spears alongside. Serve immediately.
 
-## Chef's Notes / Variations
+## Variations
 
 * **Fish Substitutions:** Halibut is the premier alternative — a clean, meaty flake that holds its shape well through the confit. Chilean Sea Bass is more luxurious, with a higher fat content that takes especially well to the technique. Haddock or pollock are accessible choices, though their thinner fillets require a reduced cook time of **15–18 minutes**.
+
+## Chef's Notes
+
 * **The Brine:** Do not be alarmed by the 10% salinity — this is a surface-seasoning treatment, not an equilibrium brine. Respect the 10-minute window; beyond it, the flesh firms noticeably.
 * **The Butter Darkness:** This is a deliberately dark beurre noisette, pushed to 356°F/180°C for maximum intensity. The very dark milk solids at this stage provide a more complex, slightly bitter-nutty character that balances the richness of the confit. Pull immediately when you see the solids just catching — there is no recovery past this point.
 * **Butter Reuse:** The strained beurre noisette holds refrigerated for up to 1 week and can be used for subsequent confit batches or as a finishing butter for vegetables and pasta.

@@ -69,7 +69,7 @@ Drain the fennel thoroughly in a salad spinner. Water is the enemy of adhesion. 
 
 **Why:** Because the dressing is stabilized, it has higher viscosity; you need less of it to coat the surface area than a standard vinaigrette. Transfer to plates. Top with **citrus suprèmes**, **toasted hazelnuts**, **shaved Pecorino**, and reserved **fennel fronds**.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **Xanthan Potency:** Xanthan gum is incredibly powerful. If you add too much, the dressing will become "snotty" or slimy. Always err on the side of less. You can always add more, but you cannot remove it.
 * **Storage:** Unlike normal vinaigrette, this dressing will stay emulsified in the fridge for weeks.

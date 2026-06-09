@@ -116,15 +116,16 @@ Add pasta and cook per the chart below. Fresh pasta cooks fast — stay at the p
 
 ---
 
-## Chef's Notes / Variations
+## Variations
+
+- **Variant:** For the rich yolk laminated version of this dough, see Recipe 12-07. For the spinach variant, see Recipe 12-10.
+
+## Chef's Notes
 
 - **Flour Choice:** Both 00 and King Arthur Bread Flour work with this formula. 00 flour produces a silkier, more delicate sheet — the classic choice for rolled pasta. Bread flour has higher protein content, producing a slightly chewier, more rustic result. If using bread flour, extend the rest in Phase 2 to 45 minutes.
 - **Egg vs. Water Pasta:** Egg yolks introduce fat, which shortens gluten strands slightly, producing a more tender, richer dough that rolls thinner with less resistance. Water pasta (orecchiette, cavatelli) relies entirely on gluten development for structure, producing a chewier result with better hold in heavy braises and ragù. Egg pasta's richness makes it the natural pairing for butter- and cream-based sauces.
 - **Drying Before Cutting:** Allow rolled sheets to dry on a floured surface or pasta rack for 5–10 minutes before cutting. A slightly tacky but not wet sheet cuts cleanly without sticking to itself.
 - **Make-Ahead:** Finished dough can be refrigerated wrapped in plastic for up to 24 hours. Return to room temperature for 20 minutes before rolling.
-- **Variant:** For the rich yolk laminated version of this dough, see Recipe 12-07. For the spinach variant, see Recipe 12-10.
-
----
 
 ## Glossary
 

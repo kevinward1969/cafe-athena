@@ -66,13 +66,14 @@ Immediately transfer the basil to the ice bath. Once cold, remove the leaves and
 
 ---
 
-## Chef's Notes / Variations
+## Variations
+
+- **Nut Alternatives:** If pine nuts are cost-prohibitive, blanched almonds or walnuts make excellent substitutes, though they will yield a slightly tannin-heavy finish.
+
+## Chef's Notes
 
 - **The Garlic Germ:** Always slice your garlic cloves in half vertically and remove the green sprout (germ) in the center. The germ is bitter and difficult to digest, especially in raw preparations like pesto.
 - **Storage:** Store in an airtight container in the refrigerator. To further prevent surface oxidation, pour a thin layer of olive oil over the top of the pesto to create an oxygen barrier.
-- **Nut Alternatives:** If pine nuts are cost-prohibitive, blanched almonds or walnuts make excellent substitutes, though they will yield a slightly tannin-heavy finish.
-
----
 
 ## Glossary
 

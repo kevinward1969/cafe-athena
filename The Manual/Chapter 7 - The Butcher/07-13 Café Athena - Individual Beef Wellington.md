@@ -115,33 +115,10 @@ Add the beef broth in a steady stream, whisking constantly to break up the roux.
 
 Serve in a warmed gravy boat or sauce ramekin alongside each Wellington.
 
-## Chef's Notes / Variations
-
-**The Temperature Stack — Why Everything Must Be Cold**
-This recipe has three distinct cooling checkpoints: the duxelles after cooking, the fillet after searing, and the roulade after wrapping. Skipping or rushing any one of these will transfer heat into the pastry, causing the fat to melt before it hits the oven. Cold fat = steam = lamination = shatter. Warm fat = grease = soggy.
-
-**Wine Selection for the Madeira Sauce**
-The wine you use will change the character of the sauce meaningfully. Refer to this table when working with what you have on hand:
-
-| Wine | Flavor Profile | Best For |
-|---|---|---|
-| **Madeira** *(classic)* | Nutty, oxidized, complex — savory dry finish | Full classical expression |
-| **Dry Sherry** | Lighter, subtly nutty, very clean | Closest substitute; most versatile |
-| **Tawny Port** | Sweeter, richer, darker — bold fruit | Indulgent, occasion-forward sauce |
-| **Dry Vermouth** | Herbal, aromatic, lighter body | When you want the thyme to lead |
-
-Use 120 ml (½ cup) regardless of which wine you choose.
-
-**Upgrading the Sauce with Stocks from The Manual**
-The sauce as written is a solid velouté. To push it into fine-dining territory, substitute using these recipes from Chapter 10:
+## Chef's Notes
 
 - **10-17 Pressure-Roasted Brown Stock (Fond Brun):** Use as your beef broth base for significantly more body and depth.
 - **10-19 Classic Demi-Glace:** Replace 120 ml (½ cup) of the broth with demi-glace. Reduce simmer time to 6–7 minutes. The result is a glossy, restaurant-grade pan sauce.
-
-**On Well-Done:** Not recommended. At well-done temperatures, the fillet has expelled enough moisture into the filling to compromise the pastry structure. This recipe is engineered for medium-rare.
-
-**Pastry Cross-Reference**
-See **12-05 Pâte Feuilletée (Classic Puff Pastry)** for the full classical method. For this application, **12-06 Rough Puff Pastry (Demi-Feuilletée)** is the recommended choice — it is faster to produce, easier to work with under kitchen conditions, and holds its lamination reliably at 400°F/205°C.
 
 ## Glossary
 

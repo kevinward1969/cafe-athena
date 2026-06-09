@@ -56,13 +56,11 @@ Pulse the mixture together briefly to coat the white crystals in the black dust.
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Storage:** Store in a clear jar to show off the color. Keep airtight; humidity will make the ash weep and clump.
 - **The "Dirty" Steak:** Dust heavily over a Ribeye or Strip Steak before slicing.
 - **Garde Manger:** Sprinkle over deviled eggs, goat cheese, or white asparagus for high visual contrast.
-
----
 
 ## Glossary
 

@@ -55,7 +55,7 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 2. **The Aeration:** While the pastry cream is still warm (approx. 110°F/43°C), fold in the hot Italian Meringue in two stages.
 3. **Usage:** This must be used or piped immediately before the gelatin sets. It creates a texture that is nearly as light as a soufflé.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **Mousseline Temperature Fix:** If your Mousseline breaks/curdles, briefly warm the bottom of the bowl with a torch or warm towel while whisking; the heat will help the fat and water re-emulsify.
 * **Flavoring Composites:** These creams are the perfect vehicle for nut pastes (praline) or fruit purees. Always fold flavorings into the pastry cream base *before* adding the aerating component.

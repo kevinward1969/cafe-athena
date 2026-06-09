@@ -63,7 +63,7 @@ This dish is an exercise in fond management. The flavor foundation is built by s
 
 **Phase 4: The Assembly.** While the sauce reduces, boil the penne in heavily salted water until *al dente*. Drain, reserving ½ cup of pasta water. Slice the rested chicken against the grain into strips. Add the pasta directly to the sauce pan and toss vigorously to coat — if the sauce is too thick, loosen with a splash of pasta water. Fold in the sliced chicken or fan it over the top for presentation.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The Gnocchi Upgrade.** This sauce pairs exceptionally well with fresh gnocchi. Replace the penne with **Parisian Gnocchi (04-07)** or **Gnocchi 201 (12-08)**. Boil the gnocchi until they float, then transfer them directly into the simmering sauce with a spider strainer and let them simmer in the sauce for 1 minute to absorb flavor before serving.
 - **Spice Modulation.** The heat in this dish comes from the cayenne in the Cajun blend. For a milder version, reduce the Cajun seasoning in the rub by 50% and rely on smoked paprika for color and depth.

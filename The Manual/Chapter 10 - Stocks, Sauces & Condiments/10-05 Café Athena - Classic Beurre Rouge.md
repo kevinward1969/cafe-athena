@@ -76,13 +76,11 @@ Once all butter is incorporated, the sauce should be opaque, glossy, and thick e
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Troubleshooting (Broken Sauce):** If the sauce splits (looks oily or greasy), the temperature went too high. **Fix:** Remove from heat immediately. Add 1 tablespoon of ice-cold water and whisk furiously. This cools the mixture and re-aligns the emulsion.
 - **Wine Choice:** Do not use "cooking wine." Use a wine you would enjoy drinking. The reduction amplifies the flavor profile, so a bitter or cheap wine will result in a bitter sauce.
 - **Pairing:** This is the classic accompaniment for poached fish (Salmon or Turbot) or grilled steak when you want something lighter than a Bearnaise.
-
----
 
 ## Glossary
 

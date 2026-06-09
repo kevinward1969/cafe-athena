@@ -61,7 +61,7 @@ Mash the yolks with a fork until they resemble fine yellow sand. Add the sieved 
 
 Transfer the mousse into a piping bag fitted with a star tip (or a zip-top bag with the corner snipped). Pipe generous rosettes into the cavity of each egg white. Dust with smoked paprika and sprinkle with fresh chives. Top each with a cornichon slice if desired.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The Ham Variable:** The texture of canned deviled ham can be fibrous. If you do not have a fine-mesh sieve, pulse the ham and mayonnaise together in a small food processor to ensure a silky texture.
 * **Acidity Adjustment:** If the ham tastes particularly fatty or heavy, increase the cornichon brine by 1 tsp to sharpen the flavor profile.

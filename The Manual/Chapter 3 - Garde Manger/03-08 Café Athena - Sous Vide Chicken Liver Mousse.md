@@ -72,10 +72,13 @@ In a small saucepan, warm the **Port wine** and **sugar** until the sugar dissol
 
 **Critical:** If the jelly is too hot, it will melt the fat in the mousse and create a muddy layer. Gently pour a thin layer over the chilled mousse. Return to the fridge for **2 hours** to fully set.
 
-## Chef's Notes / Variations
+## Variations
+
+* **Vegetarian Alternative:** Use roasted chestnuts and mushrooms in place of livers, and agar-agar for the jelly.
+
+## Chef's Notes
 
 * **Oxidation:** Without Pink Curing Salt #1 (sodium nitrite), the interior of the mousse will be pink, but the surface may turn gray where it touches oxygen before the jelly is added. This is natural.
-* **Vegetarian Alternative:** Use roasted chestnuts and mushrooms in place of livers, and agar-agar for the jelly.
 * **Serving:** Serve with crusty baguette and cornichons to cut the richness.
 
 ## Glossary

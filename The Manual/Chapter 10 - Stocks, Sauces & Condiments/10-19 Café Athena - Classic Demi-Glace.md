@@ -57,13 +57,11 @@ The Demi-Glace is the halfway point between a sauce and a concentrate. By reduci
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The "Demi-Glace Gold":** In modern kitchens, chefs often skip the Espagnole (roux-thickened) step and simply reduce a high-collagen Brown Stock by 75–90% to create "Glace de Viande." While cleaner in flavor, it lacks the specific velvety texture that the starch in the Espagnole provides.
 - **Salt Warning:** Do not salt this sauce during reduction. Because volume decreases significantly, a perfectly salted stock will become inedibly salty as a demi-glace. Season only at the final moment of service.
 - **Storage:** Demi-glace freezes exceptionally well. Pour into ice cube trays for easy "flavor bombs" to finish pan sauces.
-
----
 
 ## Glossary
 

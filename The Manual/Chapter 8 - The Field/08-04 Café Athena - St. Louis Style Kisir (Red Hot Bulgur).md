@@ -63,13 +63,11 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Texture Warning:** This dish is *supposed* to be sticky and dense, similar to a couscous cake or tartare. If you prefer a loose salad, reduce the water by 2 tablespoons.
 - **Pomegranate Molasses:** This is a thick syrup made from reduced pomegranate juice. It provides a tart, tannic sweetness that mimics the base of a good BBQ sauce. In a pinch, you can substitute a balsamic glaze.
 - **The Heat Variable:** Red Hot Ripplets seasoning is potent. If serving to heat-sensitive guests, start with 1 tablespoon and add more at the end if needed.
-
----
 
 ## Glossary
 

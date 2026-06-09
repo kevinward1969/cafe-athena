@@ -321,13 +321,13 @@ def audit_file(recipe_id: str, title: str, recipe_type: str, fpath: Path,
             ))
 
     # Detect any combined Variations/Chef's Notes heading (pre-v3.2 template)
-    # Check raw text to catch all separator variants (&, /, and, etc.)
+    # Catch all combined heading variants: ## heading and **bold** inline heading
     combined_heading = re.search(
-        r"^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)",
+        r"^(?:## |\*\*)(?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)(?:\*\*)?",
         text, re.MULTILINE | re.IGNORECASE,
     )
     if combined_heading:
-        label = combined_heading.group(0).lstrip("# ").strip()
+        label = re.sub(r"^[#* ]+|[* ]+$", "", combined_heading.group(0)).strip()
         audit.issues.append(Issue(
             code="old_combined_variations",
             description=f'"{label}" should be split into ## Variations and ## Chef\'s Notes (v3.2)',
@@ -569,32 +569,34 @@ def generate_fix(issue: Issue, audit: RecipeAudit, model: str) -> str:
         return ""
 
     elif issue.code == "old_combined_variations":
+        # Match both ## heading and **bold** inline heading formats
         m = re.search(
-            r'^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)\s*\n(.*?)(?=^## |\Z)',
+            r'^(?:## |\*\*)(?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)(?:\*\*)?\s*\n(.*?)(?=^## |\Z)',
             text, re.MULTILINE | re.DOTALL | re.IGNORECASE,
         )
         if not m:
             return ""
         section_body = re.sub(r'^---+\s*$', '', m.group(1), flags=re.MULTILINE).strip()
-        bullets = [ln for ln in section_body.splitlines() if re.match(r'^[-*]\s', ln)]
-        if not bullets:
+        # Split into paragraphs — handles both "- bullet" and "**Header:** paragraph" formats
+        paragraphs = [p.strip() for p in re.split(r'\n\s*\n', section_body) if p.strip()]
+        items = [p for p in paragraphs if re.match(r'^[-*\*]\s', p) or re.match(r'^\*\*\w', p)]
+        if not items:
             return ""
-        # Heuristic: a bullet is a Variation if its bold header contains a variation keyword.
-        # Everything else is a Chef's Note.
         _VARIATION_KW = {
             "variant", "version", "alternative", "without", "option",
             "adaptation", "swap", "substitution",
         }
-        def _is_variation(bullet: str) -> bool:
-            hdr = re.match(r'^[-*]\s+\*\*([^*]+)\*\*', bullet)
+        def _is_variation(item: str) -> bool:
+            first = item.splitlines()[0]
+            hdr = re.search(r'\*\*([^*]+)\*\*', first)
             return bool(hdr and any(kw in hdr.group(1).lower() for kw in _VARIATION_KW))
-        variations = [b for b in bullets if _is_variation(b)]
-        notes = [b for b in bullets if not _is_variation(b)]
+        variations = [b for b in items if _is_variation(b)]
+        notes = [b for b in items if not _is_variation(b)]
         parts = []
         if variations:
-            parts.append("## Variations\n\n" + "\n".join(variations))
+            parts.append("## Variations\n\n" + "\n\n".join(variations))
         if notes:
-            parts.append("## Chef's Notes\n\n" + "\n".join(notes))
+            parts.append("## Chef's Notes\n\n" + "\n\n".join(notes))
         return "\n\n".join(parts) if parts else ""
 
     return ""
@@ -634,7 +636,7 @@ def apply_fix(issue: Issue, text: str) -> str:
         return replace_section(text, "Category", issue.fix_content)
     elif issue.code == "old_combined_variations":
         pattern = (
-            r'^## (?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)'
+            r'^(?:## |\*\*)(?:Variations\s*[&/]\s*Chef.?s.?Notes?|Chef.?s.?Notes?\s*[&/]\s*Variations)(?:\*\*)?'
             r'\s*\n.*?(?=^## |\Z)'
         )
         replacement = issue.fix_content + "\n\n"

@@ -63,14 +63,12 @@ Use a bench scraper to fold the remaining flour walls over the custard. Cut and 
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Flour Type:** If "00" flour is unavailable, all-purpose can be substituted — the texture will be slightly chewier and less silky. For a more rustic result, substitute 50% of the flour with semolina rimacinata.
 - **Leftover Whites:** You will have roughly 7–8 egg whites leftover. Use them for meringues, macarons (Chapter 9), or for clarifying stocks (Recipe 10-01).
 - **Drying:** Because this dough is egg-rich, it oxidizes (turns gray) quickly. Cook immediately after cutting, or freeze in nests dusted with semolina.
 - **Foundation Reference:** For the complete egg pasta production guide covering mixing methods, rolling settings, and cook times, see Recipe 12-09.
-
----
 
 ## Glossary
 

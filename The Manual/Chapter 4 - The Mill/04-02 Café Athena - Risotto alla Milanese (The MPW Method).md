@@ -54,7 +54,7 @@ Classic Milanese often uses chicken stock, but this method uses **White Beef Sto
 * **The Rule:** Let it rest for 1 minute.
 * **Why:** This allows the fats to temper gently. If you stir immediately, the emulsion might break or become oily. After 1 minute, beat the risotto vigorously with a wooden spoon to emulsify. Serve immediately.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The White Beef Stock:** A pale, unroasted beef stock made from raw bones and blanched aromatics. It delivers full beef flavor without the dark color that would muddy the saffron's golden hue. A good substitute is high-quality chicken stock reinforced with a beef stock cube.
 * **Rice Selection:** Carnaroli is preferred over Arborio for its higher starch content and firmer grain, which holds up better through the long cooking process.

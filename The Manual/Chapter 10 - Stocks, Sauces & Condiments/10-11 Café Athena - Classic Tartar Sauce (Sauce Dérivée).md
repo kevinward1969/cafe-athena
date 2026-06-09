@@ -72,13 +72,11 @@ While often treated as an afterthought, a great Tartar Sauce relies on moisture 
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Storage:** Keeps for 5 days in the refrigerator. Do not freeze (the emulsion will break upon thawing).
 - **Commercial Mayo Adjustments:** If using store-bought mayonnaise (which is often sweeter and stiffer than homemade), increase the lemon juice by 1 tsp and omit the sugar entirely.
 - **Texture:** For a refined sauce, pulse the cornichons and capers in a food processor, but do not puree; we want distinct texture points.
-
----
 
 ## Glossary
 

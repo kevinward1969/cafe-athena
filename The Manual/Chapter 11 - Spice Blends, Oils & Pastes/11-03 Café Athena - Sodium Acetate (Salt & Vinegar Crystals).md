@@ -65,11 +65,9 @@ Transfer the dried shards to a spice grinder or mortar and pestle. Add the **cit
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 **The "Buffer" Blend:** Pure Sodium Acetate has a vinegar aroma but lacks the sharp "bite" on the tongue. The addition of **Citric Acid** provides that aggressive tang associated with potato chips, while the cornstarch prevents the highly hygroscopic powder from turning into a sticky brick in the jar.
-
----
 
 ## Glossary
 

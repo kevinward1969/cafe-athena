@@ -54,7 +54,7 @@ Place under the broiler for **60–90 seconds**. Watch constantly. **Sensory Cue
 
 **Rest:** Let the fish rest on the pan for 2 minutes before transferring to plates. Garnish with toasted sesame seeds and shaved scallions.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 **Fish Selection:** If Black Cod is unavailable, Chilean Sea Bass is the closest structural equivalent. Salmon acts as a suitable alternative but requires only 12–24 hours of curing due to its lower fat content. **Skin Handling:** If roasting skin-on, the skin will likely soften during the cure. It is best to remove the skin after roasting or sear the skin-side in a pan before transferring to the oven if a crisp texture is desired.
 

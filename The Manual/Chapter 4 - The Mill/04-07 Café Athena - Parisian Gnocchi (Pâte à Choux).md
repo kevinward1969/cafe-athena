@@ -70,7 +70,7 @@ Sear undisturbed for 2–3 minutes until the bottoms are deep golden brown.
 
 Add the finishing butter to the pan. Once foaming, toss the gnocchi to coat and brown the other sides, about 1–2 minutes more. Serve immediately.
 
-**Chef's Notes / Variations**
+## Chef's Notes
 
 * **Make Ahead:** These freeze exceptionally well after Phase 3. Freeze them on a sheet tray after boiling/cooling, then bag them. You can sear them directly from frozen (just add 1–2 minutes to the sear time).
 * **Saucing:** Unlike potato gnocchi which rely on sauce for flavor, these are rich in fat and cheese. They pair best with a simple Brown Butter & Sage sauce or a light Mornay.

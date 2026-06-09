@@ -51,11 +51,14 @@ The soul of a pot pie lies in its binder. By utilizing a **velouté** — one of
 
 **Phase 4: The Bake.** Place the dish in the center of the oven. Bake at 400°F/205°C for 30 minutes. **Sensory cue:** the top should be deep golden brown and firm to the touch, with the velouté visibly bubbling at the edges. Rest for 5 minutes before serving to allow the sauce to set.
 
-## Chef's Notes / Variations
+## Variations
 
-- **The Umami Boost.** Whisk 5 g (1 tsp) of white miso into the broth during Phase 1 for a deeper savory profile without changing the dish's character.
 - **Protein Substitution.** This method works perfectly with leftover turkey or poached salmon. Reduce bake time by 5 minutes for seafood.
 - **Commercial Pastry Adaptation.** To swap the leavened topping for a store-bought refrigerated pie crust: omit the flour, baking powder, milk, and egg from the topping list. Roll the chilled crust over the filled casserole, trim the overhang to 1 inch, fold under, and crimp to the rim. **Cut 3–4 steam vents in the center** — without these, steam from the boiling velouté will balloon the crust and separate it from the filling, leading to a soggy interior. Brush with egg wash (1 egg beaten with 15 g water) to encourage Maillard browning.
+
+## Chef's Notes
+
+- **The Umami Boost.** Whisk 5 g (1 tsp) of white miso into the broth during Phase 1 for a deeper savory profile without changing the dish's character.
 
 ## Glossary
 

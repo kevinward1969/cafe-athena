@@ -62,7 +62,7 @@ Oxtail is the ultimate cut for braising due to its high ratio of bone and connec
 
 **Phase 5: Refinement and Service.** Remove the pot from the oven. Carefully transfer the oxtails to a clean serving vessel. Strain the sauce through a fine-mesh sieve into a clean saucepan, pressing on the cooked mirepoix to extract flavor. Discard the spent vegetables. Simmer the strained sauce over medium heat. Skim off excess fat rising to the top. Reduce until the sauce coats the back of a spoon (*nappe*). Add the cooked bacon, mushrooms, and glazed pearl onions to the sauce to warm through. Pour the enriched sauce and garnish over the oxtails. Serve immediately.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The Next Day:** Like all braises, this dish is significantly better the next day after the flavors have had time to meld and diffusion has equalized the seasoning.
 * **The Bone:** Remind guests that oxtail is a bone-in cut. Provide a vessel for discarded bones.

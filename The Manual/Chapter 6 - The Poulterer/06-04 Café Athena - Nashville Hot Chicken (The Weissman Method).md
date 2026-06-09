@@ -58,12 +58,15 @@ This technique relies on the "Wet-Dry-Wet" dredging system to maximize surface a
 
 **Phase 5: The Bloom & Glaze** While the chicken is resting, combine the **Cayenne**, **Brown Sugar**, **Paprika**, **Garlic Powder**, and **Salt** in your heat-proof metal bowl. Ladle **240 ml (1 cup)** of the hot frying oil directly onto the spices. Whisk furiously to dissolve the sugar (The Bloom). **Application:** While the paste is hot, brush it generously over every inch of the fried chicken. Serve immediately with pickles and white bread.
 
-## Chef's Notes / Variations
+## Variations
+
+* **The "Shoyu" Substitution:** The original methodology specifies Matsutake Shoyu, a premium soy sauce infused with pine mushrooms. This ingredient introduces two critical variables: deep earthiness (mushroom umami) and a subtle smokiness.
+
+## Chef's Notes
 
 * **The Heat Scale:** 25 g of Cayenne is "Standard Hot" (approachable but spicy). For "Nashville Authentic" (painful), increase Cayenne to 45 g.
 * **The Soy Variable:** The addition of Soy Sauce (specifically Matsutake Shoyu in the original Weissman method) adds a layer of glutamates (Umami) that savory-anchors the heat. Do not skip this; it distinguishes professional seasoning from home cooking.
 * **Double Dredge:** For an extra-thick crust, dip the chicken Wet -> Dry -> Wet -> Dry. *Warning:* This requires precise oil temperature control to ensure the coating cooks through before burning.
-* **The "Shoyu" Substitution:** The original methodology specifies Matsutake Shoyu, a premium soy sauce infused with pine mushrooms. This ingredient introduces two critical variables: deep earthiness (mushroom umami) and a subtle smokiness.
 * **The Chemistry Hack:** To replicate this profile without the expense, combine **15 ml (1 tbsp) standard Soy Sauce** with **0.5 g (1 generous pinch) of MSG** (to mimic the fungal savory notes) and **1 drop of Liquid Smoke** or a pinch of **Smoked Paprika**. This reassembles the flavor profile using standard pantry isolates.
 
 ## Glossary

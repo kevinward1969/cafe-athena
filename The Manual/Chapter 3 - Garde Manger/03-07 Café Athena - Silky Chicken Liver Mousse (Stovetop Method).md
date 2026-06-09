@@ -72,7 +72,7 @@ In a small saucepan, warm the **Port wine** and **sugar** until the sugar dissol
 
 **Critical:** If the jelly is too hot, it will melt the fat in the mousse and create a muddy layer. Gently pour a thin layer over the chilled mousse. Return to the fridge for **2 hours** to fully set.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The "Pink" Factor:** Home cooks are often scared of pink chicken. In whole muscles, this is a risk. In liver mousse, if you cook it until gray, the texture will be grainy and metallic. The target internal temp is 150°F/65°C.
 * **Curing Salt:** We include Pink Salt #1 (Nitrite) for aesthetics (color retention) and flavor (cured taste), but it also acts as a safety hurdle against bacteria. It is optional but recommended.

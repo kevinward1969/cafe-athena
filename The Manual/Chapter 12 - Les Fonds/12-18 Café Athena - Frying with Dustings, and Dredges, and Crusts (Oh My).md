@@ -190,64 +190,24 @@ Rest fried product on the rack for 90 seconds to 3 minutes before service. This 
 
 ---
 
-## Chef's Notes / Variations
+## Variations
 
-**Choosing a coat by texture goal**
+- **Gummy, under-set crust (Variant 3 especially):** Coat was not whisked thoroughly; salt or leavener clumped. Sift the dry mix next time.
 
-| Goal | Coat |
-| :--- | :--- |
-| Soft-crisp, bread-like crust (classic diner fried chicken) | Variant 1 (Flour) |
-| Crackling glass crust that holds under sauce | Variant 2 (Cornstarch) |
-| Lacy, shatteringly crisp, GF-compatible | Variant 3 (Rice Flour) |
-| Dimensional, rustic, tooth-forward Southern crust | Variant 4 (Cornmeal) |
-| Mediterranean golden coat with slight tooth | Variant 5 (Semolina) |
-| Golden veil over delicate fish or scallop | Variant 6 (Dusting) |
-
----
-
-**Double-fry candidates**
-
-Apply the double-fry protocol to:
+## Chef's Notes
 
 - Thick bone-in chicken pieces (Variants 1, 3) — blanch 300–325°F/150–165°C for 8–10 min, rest 5 min minimum, finish at 375°F/190°C for 3–4 min
 - Wings (Variants 2, 3) — blanch 300°F/150°C for 8 min, rest 20 min or overnight refrigerated, finish at 400°F/205°C for 2 min
 - Pommes frites — this is not a coating application but the protocol is identical
-
-Do not double-fry thin fish fillets, calamari, or vegetables. Single-stage frying is correct for those applications; attempting a double-fry overcooks the interior.
-
----
-
-**Peanut oil and allergen protocol**
-
-Refined peanut oil is recommended as the default frying fat for its neutral flavor, high smoke point, and reuse stability. Under the major food-allergen frameworks, highly refined peanut oil has been removed of the protein fractions that trigger peanut-allergic reactions, and is generally considered safe for most peanut-allergic individuals. That said, service convention still requires disclosure: if a guest with a peanut allergy is eating at the table, either use an alternative frying oil (rice bran, refined vegetable blend) or advise the front of house to disclose peanut-oil frying at the point of ordering. Unrefined (cold-pressed, "gourmet," or aromatic) peanut oil retains allergenic proteins and must never be substituted silently.
-
----
-
-**Failure modes and what they mean**
-
 - **Greasy crust, pale color:** Oil was too cold at drop-in or never recovered. Raise target temperature by 15°F/8°C and reduce batch size by a third.
 - **Crust detaches in sheets:** Primer was too wet (coat slurried into paste) or the product was not rested after coating. Increase rest to 5–7 minutes before frying.
-- **Gummy, under-set crust (Variant 3 especially):** Coat was not whisked thoroughly; salt or leavener clumped. Sift the dry mix next time.
 - **Bitter finish across a whole batch:** Oil has degraded. Replace oil or filter through a coffee filter and allow the product to rest on clean paper for 15 seconds after the rack. Consider whether the oil has exceeded its smoke point during recovery cycles.
 - **Scorched crust, raw center:** Oil too hot, or product too cold at drop-in. Temper the product to at least 50°F/10°C before frying; drop oil target by 25°F/15°C.
 - **Sticky, limp crust 5 minutes after service:** Ambient humidity is reclaiming moisture from a crust that did not fully dehydrate. Return to a 300°F/150°C oven for 90 seconds to re-crisp. For service-critical applications, fry to order.
-
----
-
-**Scaling note**
-
-Coating formulas scale linearly — doubling the formula coats twice the product with identical results. Oil volume, however, does not scale linearly with product volume — doubling product mass in a vessel of fixed oil quantity crashes the oil twice as hard and recovers 2–3× slower. When scaling production, scale the oil vessel first, then the coating.
-
----
-
-**Cross-references**
-
 - 12-19 Breadings & Batters — multi-step panés (flour-egg-crumb), panko, katsu, tempura, and wet batter applications; builds on the frying thermodynamics in this folio.
 - 01-20 Hydro-Thermal Stabilization — for frying vegetable inclusions that require pre-blanching and pressing.
 - 01-22 Oil Clarification & Life Extension — filtration protocols, reuse thresholds, polymerization and degradation chemistry; the deep-dive on managing the oil bath across multiple fry cycles.
 - Chapter 5–7 recipes reference specific variants from this folio by number.
-
----
 
 ## Glossary
 

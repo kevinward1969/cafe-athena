@@ -69,7 +69,7 @@ Let the bag sit sealed for **20 minutes**.
 
 **Why:** The vegetables will look translucent (glassy). This indicates the air has been replaced by liquid. Cut the bag open and transfer the contents to a clean jar. Top with a float of **olive oil** if serving immediately.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 * **The "Boiling" Effect:** If you see the cold brine bubbling in a chamber vacuum, it isn't hot—it's boiling due to low pressure. This is fine for a second, but prolonged boiling will evacuate flavor and moisture.
 * **Suction Sealer Hack:** If you don't have a chamber vacuum, you can freeze the brine until it is a slush. Put the slush in the bag with the veg and seal. The solid ice prevents the machine from sucking up the liquid.

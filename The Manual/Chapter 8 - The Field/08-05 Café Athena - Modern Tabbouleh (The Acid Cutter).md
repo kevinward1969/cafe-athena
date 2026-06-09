@@ -65,12 +65,10 @@ This is not a traditional Tabbouleh, but a "re-engineered" palate cleanser. Inst
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The "Soggy" Factor:** If preparing this in advance for a party, complete Phases 1 through 3. Keep the herbs separate and fold them in just as the pork steaks come off the grill.
 - **Cucumber Seeds:** It is critical to remove the seeds from the cucumber before dicing. The seeds release water over time, which will dilute the sharp acidity you worked hard to build.
-
----
 
 ## Glossary
 

@@ -58,17 +58,19 @@ This preparation transforms humble cherry tomatoes into a luxurious garnish whil
 2. **Sensory Cue:** The oil will be a clear, deep green-gold; the tomatoes will look glossy and slightly slumped, with the herbs and vines visibly steeped through the oil.
 3. Transfer everything — tomatoes, oil, herbs, vines — into the sterilized storage jar.
 
-## Chef's Notes / Variations
+## Variations
 
-### Thermal Variant — The Bright Profile
+**Thermal Variant — The Bright Profile**
 
 This recipe defaults to a high-peak temperature for rapid extraction. However, 250°F/120°C is near the threshold where delicate aromatics can turn bitter or "toasted." If you prefer a brighter, more "raw" garden profile, heat the oil only to 180°F–190°F/82°C–88°C and hold there for 20 minutes before adding the tomatoes. The result is greener and grassier; the high-peak method produces a deeper, almost roasted aromatic.
 
-### Storage
+## Chef's Notes
+
+**Storage**
 
 Store the tomatoes submerged in the oil in a sterilized glass jar. Refrigerate for up to 2 weeks. The oil will solidify when cold; temper at room temperature for 30–45 minutes before use to restore pourable consistency.
 
-### Future Development
+**Future Development**
 
 This recipe serves as the foundational test case for the upcoming Technique Folio — *Oil Infusion Mechanics*.
 

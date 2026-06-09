@@ -67,13 +67,9 @@ Lift out using the parchment, cut into squares, and sprinkle with smoked flaky s
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 **The "Kyoto Heat" Upgrade:** For a complex, warming finish, add **1–2 g (¼–½ tsp) of Cayenne or Aleppo pepper**. Add this spice to the butter during the last 30 seconds of browning.
-
-> *Why: Capsaicin is fat-soluble; blooming it in hot fat ensures the heat is evenly distributed and lingers on the palate rather than tasting gritty.*
-
----
 
 ## Glossary
 

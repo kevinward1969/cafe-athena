@@ -127,12 +127,15 @@ Add the solidified beurre noisette (ref: 10-22) in small pieces, whisking consta
 
 Return the beef and vegetables briefly to the jus to warm through and glaze, 2–3 minutes over low heat. Plate the beef chunks with vegetables. Spoon jus generously over the top. Finish with flat-leaf parsley and fresh thyme leaves.
 
-## Chef's Notes / Variations
+## Variations
 
 * **Dry Brine Option (Recommended for Planned Cooks):** For maximum flavor penetration and a superior bark, salt the beef chunks 12–24 hours ahead and refrigerate uncovered. The salt draws moisture to the surface, then re-absorbs, seasoning the meat deeply. Resume at Phase 1 (cold smoke) when ready. This single step elevates the result significantly at competition level.
+* **Cognac Substitution:** Dry sherry is the closest alternative. Brandy is acceptable. Do not substitute bourbon — the vanilla and oak notes will conflict with the aromatic stack.
+
+## Chef's Notes
+
 * **On the Anchovy Paste:** Do not skip or substitute. It dissolves completely under heat and contributes pure glutamate depth with zero identifiable fish flavor. This is a classical Italian braising technique widely used in professional kitchens.
 * **Jus Mount Temperature is Critical:** The beurre noisette emulsification requires that the jus be hot but not boiling. Above approximately 185°F/85°C, the butter fat breaks before it can emulsify. When in doubt, pull further off heat and work quickly.
-* **Cognac Substitution:** Dry sherry is the closest alternative. Brandy is acceptable. Do not substitute bourbon — the vanilla and oak notes will conflict with the aromatic stack.
 * **Vegetable Timing:** The two-stage cook is designed to keep the vegetables structurally intact. Adding them at the slow cooker pass rather than the pressure pass prevents complete breakdown. If you want softer vegetables, add 30–45 minutes to the slow cook time.
 
 ## Glossary

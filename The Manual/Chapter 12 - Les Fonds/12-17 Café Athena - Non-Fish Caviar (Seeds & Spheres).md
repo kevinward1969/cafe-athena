@@ -65,7 +65,7 @@ This recipe establishes a technical framework for seed-based caviar, moving beyo
 1. **Brighten:** Fold in the minced caper paste and lemon juice.
 2. **Glaze:** Finish by gently folding in the oil (olive or grapeseed) until the seeds shimmer. **Sensory Cue:** The "caviar" should be viscous enough to hold its shape on a spoon but loose enough that the individual pearls remain distinct and glistening.
 
-### **Chef's Notes / Variations**
+## Variations
 
 | Material | Technical Path | Mimicry Target | Sensory Profile |
 | :--- | :--- | :--- | :--- |
@@ -73,6 +73,8 @@ This recipe establishes a technical framework for seed-based caviar, moving beyo
 | **Poppy Seed** | Dry-Toast | Micro-Roe / Sand | Zero gel; high-frequency crunch. Fold in at Phase 4. |
 | **Basil (Sabja)** | Cold Hydration | Large Pearl | Superior gel volume; very soft "pop." |
 | **Amaranth** | Par-boiled | Tobiko | Structural "snap"; mimics flying fish roe. |
+
+## Chef's Notes
 
 * **Liquor vs. Sauce:** Use **oyster liquor** for the raw, saline "aroma" of the ocean. Use **oyster sauce** for the gloss and sugar-salt balance on the palate.
 * **Poppy Seed Handling:** Never hydrate poppy seeds. Toast them and fold them into the chia foundation just before service to provide a secondary, "sandy" crunch.

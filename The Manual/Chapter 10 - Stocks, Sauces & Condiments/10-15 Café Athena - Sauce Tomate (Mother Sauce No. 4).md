@@ -74,12 +74,10 @@ Tear the fresh basil leaves by hand and stir them in. Let them steep in the hot 
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Texture Modification (Smooth):** If a perfectly smooth sauce is required, pass the finished sauce through a food mill fitted with the fine disc. Do not use a blender, as this introduces air and turns the sauce orange (oxidation).
 - **The Tomato Variable:** Always use Whole Peeled tomatoes. "Crushed" varieties often contain calcium chloride, which prevents breakdown.
-
----
 
 ## Glossary
 

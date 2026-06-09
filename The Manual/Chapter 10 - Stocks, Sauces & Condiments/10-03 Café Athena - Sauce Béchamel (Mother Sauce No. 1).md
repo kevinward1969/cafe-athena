@@ -67,15 +67,11 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The Mornay Derivative:** To turn this into a cheese sauce, remove from heat and whisk in 100 g (1 cup) grated Gruyère and 25 g (¼ cup) Parmesan. Do not return to high heat, or the cheese will separate and become oily.
 - **Viscosity Adjustments:**
-  - *Thin (Soup Base):* Reduce roux to 35 g Butter / 35 g Flour.
-  - *Thick (Soufflé/Croquette Base):* Increase roux to 70 g Butter / 70 g Flour.
 - **Gluten-Free:** Substitute the AP Flour with a 1:1 Gluten-Free flour blend or sweet rice flour. The texture may be slightly more gelatinous.
-
----
 
 ## Glossary
 

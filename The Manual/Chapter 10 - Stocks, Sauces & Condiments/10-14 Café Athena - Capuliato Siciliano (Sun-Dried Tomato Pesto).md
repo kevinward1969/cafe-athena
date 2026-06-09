@@ -71,13 +71,11 @@ Let the jar sit open on the counter for **15 minutes**.
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Storage & Safety:** Because this mixture contains raw garlic and oil (a low-acid, anaerobic environment), there is a theoretical risk of botulism if stored at room temperature. **Store exclusively in the refrigerator.** It will keep for 3–4 months.
 - **Maintenance:** Every time you scoop some *Capuliato* out, you must flatten the remaining surface and top it up with a thin film of fresh olive oil. If the tomatoes are exposed to air, they will mold.
 - **Texture Variable:** If you do not have a meat grinder, you may use a food processor. Pulse in short bursts—do not run continuously—or you will create a smooth puree rather than the traditional rustic mince.
-
----
 
 ## Glossary
 

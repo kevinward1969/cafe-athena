@@ -43,7 +43,7 @@ This is the quintessential bistro "minute sauce." Unlike a traditional Bordelais
 
 **Phase 4: The Emulsion (*Monter au Beurre*).** Turn the heat to low (or pull the pan off the heat entirely). Add the remaining cold butter cubes one at a time, swirling the pan constantly. **Why:** introducing cold fat into a warm — not boiling — liquid creates a stable emulsion. If the liquid is boiling, the butter will break and separate into oil. Stir in the chopped parsley. Taste and adjust salt if needed (the reduction may already carry enough). Slice the steak **against the grain** into thick strips and spoon the glossy sauce over the meat.
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **The "MPW" Fortification.** If using boxed broth, it lacks the gelatin and body for a proper sauce. To mimic a chef's stock, simmer your 1 cup of broth separately for 10 minutes with a smashed garlic clove, a sprig of fresh thyme, and a few drops of soy sauce before adding it to the recipe. This concentrates flavor and adds umami depth.
 - **Commercial Demi-Glace Shortcut.** High-quality demi-glace pastes (e.g., *More Than Gourmet*) are excellent substitutes. Dissolve 15 g (1 tbsp) of paste into 240 g (1 cup) of hot water in place of the beef stock. **Note:** these products are often very high in sodium — reduce or omit added salt in the final adjustment.

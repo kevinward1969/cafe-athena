@@ -70,14 +70,12 @@ Taste and adjust acid or salt if necessary. Serve immediately.
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Consistency Control:** If the sauce is too thick (pudding-like), blend in 1 tablespoon of hot water to loosen it to a *nappe* consistency.
 - **The Thermos Trick:** This sauce holds exceptionally well. Transfer it immediately to a pre-warmed thermos; it will stay pourable and food-safe for up to 2 hours.
 - **Brown Butter Hollandaise:** In Phase 2, continue cooking the butter until the milk solids turn golden brown (*beurre noisette*) before pouring. This adds a nutty, toffee-like complexity perfect for asparagus or fish.
 - **Safety Warning:** While the hot butter heats the yolks, this method does not hold them at pasteurization temperatures for long durations. Consume immediately (within 2 hours).
-
----
 
 ## Glossary
 

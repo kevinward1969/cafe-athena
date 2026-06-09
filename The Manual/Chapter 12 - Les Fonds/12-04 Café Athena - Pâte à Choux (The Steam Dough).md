@@ -64,13 +64,11 @@ With the mixer on medium-low, add the eggs in four additions. Wait for the dough
 
 ---
 
-## Chef's Notes / Variations
+## Chef's Notes
 
 - **Bread Flour vs. All-Purpose:** We use bread flour for its higher protein content, which provides the structural scaffolding needed to hold the steam-inflated shape against collapse as the shell cools.
 - **The V-Test:** When you lift the paddle from the finished dough, it should fall slowly, leaving a "V"-shaped tail of dough hanging from the blade. If it is too stiff, whisk one extra egg and add it 1 tablespoon at a time until the texture is achieved.
 - **Storage:** Baked, unfilled puffs can be held at room temperature for up to 8 hours or frozen airtight for up to 1 month. Re-crisp at 350°F/175°C for 5 minutes before filling.
-
----
 
 ## Glossary
 
