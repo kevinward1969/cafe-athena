@@ -91,6 +91,7 @@
 - 06-04 Café Athena \- Nashville Hot Chicken (The Weissman Method)  
 - 06-05 Café Athena \- Louisiana Blackened Chicken Pasta  
 - 06-06 Café Athena \- Modern Chicken Pot Pie (Velouté Method)
+- 06-07 Café Athena \- Chicken and Dumplings
 
 ## CHAPTER 7: THE BUTCHER
 
@@ -213,6 +214,7 @@
 - 12-21 Café Athena \- Basic B (Starch-Based Batter)
 - 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 - 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
+- 12-24 Café Athena \- Pressure-Cooked Whole Chicken & Bone Broth
 
 # REFERENCE
 

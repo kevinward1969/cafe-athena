@@ -40,6 +40,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - SHU (Scoville Heat Units): The standard measure of capsaicin concentration in peppers, named for pharmacist Wilbur Scoville. A jalapeño measures 2,500–8,000 SHU; Scotch Bonnet and Habanero measure 100,000–350,000 SHU.
 - Sieve: A kitchen tool with a mesh screen used to strain ingredients, separating solids from liquids and aerating the mixture.
 - Silpat: A fiberglass-reinforced silicone baking mat (genericized from the Silpat™ brand) used to line sheet pans. Non-stick, reusable, and heat-stable to ~480°F/249°C — preferred over parchment for baked fricos, tuiles, and caramel work where clean release and extended heat retention are critical.
+- Slick Dumpling: A Southern American dumpling style made from a stiff rolled dough, cut into flat pieces and simmered submerged in broth. Unlike drop dumplings, slick dumplings develop gluten intentionally during rolling, producing a tender, slightly chewy texture with silky, translucent edges when cooked through.
 - Smear: The phenomenon of fat melting at low temperatures during grinding, leading to a mealy texture if the grinder is not properly chilled.
 - Smoke Point: The temperature at which an oil begins to break down and produce continuous bluish smoke; lowers progressively as the oil accumulates polar compounds.
 - Sodium Acetate: The sodium salt of acetic acid. It is used as a flavor additive and shelf-life extender.

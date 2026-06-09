@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — HERO IMAGE GEM INSTRUCTIONS
 
-Version 1.1
+Version 1.2
 
 > **Purpose-limited surface** — This file governs image generation only (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `AGENT_CHANGELOG.md` for version history.
 
@@ -125,6 +125,7 @@ Chapter: [chapter name]
 Description: [headnote — key visual elements, texture, color, sauce, garnish]
 Cuisine: [cuisine type]
 Key elements: [3–5 primary visual ingredients or techniques]
+Output: 16:9 widescreen, 1920×1080, landscape orientation
 ```
 
 Generate one image matching this brief within all guidelines above.

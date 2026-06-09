@@ -1,0 +1,160 @@
+# **Café Athena - Pressure-Cooked Whole Chicken & Bone Broth**
+
+A dual-component larder foundation: a mirepoix-braised whole chicken yielding tender, pull-ready meat, followed by a deep, collagen-rich bone broth built from the same carcass in the same pot.
+
+**Yield:** 1 whole chicken (3.5–5 lb) + 4–5 cups bone broth | **Prep:** 20 min | **Cook:** 8 min/lb (chicken) + 120 min (broth) | **Total:** ~3.5–4 hr
+
+## Headnote
+
+This folio produces two larder staples in a single Instant Pot session. The whole chicken is braised over a French mirepoix base, deglazing with white wine and vermouth to develop a layered fond that doubles as the broth's starting liquid. Once the chicken is pulled, the carcass goes straight back into the pot with a second round of aromatics, apple cider vinegar, and water for a two-hour high-pressure broth extraction. The result is a versatile, deeply flavored broth suited for chicken noodle soup, wedding soup, or chicken and dumplings. **Teaching Idea: Apple Cider Vinegar in Bone Broth.** ACV is added not for flavor (it cooks off entirely) but as a mild acid that begins breaking down collagen in the bones before pressure is even applied, giving the pressure cook a head start on gelatin extraction. You won't taste it in the finished broth.
+
+## Ingredients
+
+### Part A — The Whole Chicken
+
+#### The Chicken
+- 1 whole chicken, 3.5–5 lb
+
+#### Under the Skin
+- 57 g (4 tbsp) unsalted butter, cut into pads (2 pads per breast side)
+- 4 sprigs fresh thyme (2 per side)
+- 4 sprigs fresh rosemary (2 per side)
+
+#### The Cavity Fill
+- ½ medium apple, sliced (any variety)
+- ½ medium yellow onion, sliced
+- 1 bay leaf
+- 6–8 whole black peppercorns
+
+#### The Exterior Rub
+- 6 g (1 tsp) Diamond Crystal kosher salt
+- 2 g (½ tsp) white pepper
+- 4 g (1 tsp) sweet paprika
+
+#### The Sauté Base
+- 15 ml (1 tbsp) neutral oil
+- 1 medium yellow onion, medium dice
+- 2 medium carrots, medium dice
+- 2 stalks celery, medium dice
+- 4 cloves garlic, smashed
+- 120 ml (½ cup) dry white wine
+- 60 ml (¼ cup) dry vermouth
+- Water as needed to reach 480 ml (2 cups) total liquid
+
+---
+
+### Part B — The Bone Broth
+
+#### The Bone Base
+- Carcass, skin, cartilage, and any innards from the Part A chicken (including residual cooking liquid and herbs)
+- *Or:* bones from 1 rotisserie chicken, added without thawing if frozen
+
+#### Aromatics
+- 2 medium carrots, roughly chopped
+- 2 stalks celery, roughly chopped
+- 1 medium yellow onion, quartered
+- 1 medium parsnip, roughly chopped
+- 4 cloves garlic, smashed
+- 3 sprigs fresh rosemary
+- 3 sprigs fresh thyme
+- 2 sprigs fresh sage
+- Small handful flat-leaf parsley stems
+- 2 bay leaves
+- 8–10 whole black peppercorns
+- 30 ml (2 tbsp) apple cider vinegar
+
+#### Liquid
+- 960–1200 ml (4–5 cups) cold water, or enough to cover all bones and aromatics
+- Diamond Crystal kosher salt, to taste (finish only)
+
+## Mise en Place
+
+- **Prep the chicken:** Loosen the skin over each breast by sliding your fingers underneath. Insert 2 butter pads and 1 sprig each of thyme and rosemary per side.
+- **Fill the cavity:** Place apple slices, onion slices, bay leaf, and peppercorns inside the cavity.
+- **Mix the rub:** Combine salt, white pepper, and paprika. Set aside.
+- **Prep the mirepoix:** Dice onion, carrots, and celery for the sauté base. Smash garlic.
+- **Measure your deglaze liquids:** Have white wine and vermouth measured and ready.
+- **Set the Instant Pot to Sauté (High).**
+
+## Method
+
+### Part A — The Whole Chicken
+
+1. **Apply the Rub:** Pat the chicken dry. Rub the paprika-salt-pepper mixture evenly over the entire exterior of the bird, including the back.
+
+   **Why:** Patting dry first ensures the rub adheres and doesn't turn pasty from surface moisture.
+
+2. **Build the Sauté Base:** Add oil to the hot Instant Pot insert. Add the diced onion first and cook for 3–4 minutes, stirring, until softened and translucent. Add garlic and cook 1 minute until fragrant. Add carrots and celery and cook 2–3 minutes more.
+
+   **Sensory Cue:** The onion should be soft with no raw bite; garlic should be aromatic but not browned.
+
+3. **Deglaze:** Pour in the white wine and vermouth together. Scrape the bottom of the insert thoroughly to lift all fond. Allow to reduce for 1–2 minutes.
+
+   **Sensory Cue:** The sharp alcohol smell should soften. The liquid will smell rounded and slightly sweet.
+
+4. **Check Liquid Level:** Measure the liquid remaining in the pot. Add cold water until you reach 480 ml (2 cups) total liquid. Place the Instant Pot rack into the insert above the vegetables and liquid.
+
+5. **Pressure Cook:** Place the rubbed, stuffed chicken breast-side up on the rack. Lock the lid. Set to **Meat/Stew** setting (or High Pressure) and cook at **8 minutes per pound**.
+
+   | Chicken Weight | Cook Time |
+   |---|---|
+   | 3.5 lb | 28 minutes |
+   | 4 lb | 32 minutes |
+   | 4.5 lb | 36 minutes |
+   | 5 lb | 40 minutes |
+
+6. **Natural Release:** When the timer sounds, allow the pressure to release naturally — do not use quick release. This takes approximately 20–25 minutes.
+
+   **Why:** Quick release causes the muscle fibers to seize suddenly, resulting in drier, stringier meat. Natural release allows the fibers to relax gradually, retaining more moisture.
+
+7. **Rest and Pull:** Remove the chicken to a cutting board. Rest 10 minutes before handling. Pull or carve the meat as needed for your recipe. Reserve all bones, skin, cartilage, and any innards for Part B.
+
+   **Sensory Cue:** The meat should pull cleanly from the bone with minimal resistance. Internal temperature at the thickest part of the thigh should read 74°C/165°F.
+
+---
+
+### Part B — The Bone Broth
+
+8. **Load the Pot:** Return all reserved bones, skin, cartilage, and innards to the Instant Pot insert. The cooking liquid and spent herbs from Part A remain in the pot — do not discard. Add the fresh aromatics: carrots, celery, onion, parsnip, garlic, rosemary, thyme, sage, parsley stems, bay leaves, and peppercorns.
+
+   **Note:** If starting from a rotisserie carcass rather than a same-session chicken, add the bones directly to a clean insert and proceed from this step.
+
+9. **Add Acid and Liquid:** Add the apple cider vinegar. Pour in cold water until all bones and aromatics are submerged — approximately 4–5 cups. Do not fill beyond the Instant Pot's Max Fill line.
+
+10. **Pressure Cook:** Lock the lid. Set to **High Pressure** and cook for **120 minutes**.
+
+11. **Natural Release:** Allow 20–30 minutes natural release. Then carefully flip the vent valve to Venting to release any residual pressure.
+
+    **Sensory Cue:** The broth should be a deep golden amber. You may see a light layer of fat on the surface — this is correct.
+
+12. **Taste and Season:** Taste the strained broth and add Diamond Crystal kosher salt incrementally until the flavor is forward but not salty — the broth will concentrate further in any dish you use it in. Season conservatively.
+
+13. **Strain and Cool:** Strain the broth through a fine-mesh strainer into a large bowl or pot, pressing lightly on the solids. Discard all solids. Allow to cool uncovered for 1–2 hours before lidding or transferring to storage containers.
+
+    **Why:** Lidding hot broth traps steam, which condenses and dilutes. Cooling uncovered also prevents the bacterial risk of a sealed warm environment.
+
+## Chef's Notes
+
+- **Vegetable Scrap Bag:** Keep a zip-lock bag or container in your freezer for vegetable scraps — onion skins, carrot peels, celery tops, parsnip ends, leek greens, garlic skins. These are ideal for broth builds and cost nothing. Pull directly from frozen; no thawing needed.
+- **Storage — Refrigerator:** Pulled chicken keeps refrigerated for 4–5 days in a sealed container. Broth keeps refrigerated for 5–7 days. A fat cap will form on chilled broth — this acts as a natural seal; skim before using.
+- **Storage — Freezer:** Both chicken and broth freeze well for up to 3 months. For broth, pour into silicone ice cube trays (standard cube trays yield approximately 30 ml/2 tbsp per cube) before freezing. Once solid, transfer the cubes to a zip-lock freezer bag. This allows you to pull exact portions — 2 cubes for a pan sauce, 8 cubes for a soup base — without thawing an entire batch.
+- **Quick-Build Broth Option:** If time or fresh aromatics are short, skip the second vegetable addition and simply return the carcass to the existing cooking liquid, top with water to cover, and pressure cook 120 minutes. The broth will be lighter in body but still viable.
+- **Broth Body:** A well-made broth will gel when chilled — it will look like loose jello in the refrigerator. This is dissolved collagen (gelatin) and is the mark of a properly extracted bone broth. Liquid again when warmed.
+- **Uses:** This chicken and broth pair directly into Chicken Noodle Soup, Modified Wedding Soup (see 06-01, 06-02), and Chicken and Dumplings.
+
+## Glossary
+
+- **Fond:** The caramelized, browned residue left on the bottom of a pan after sautéing. Deglazing with liquid dissolves it back into the sauce, adding depth and color.
+- **Mirepoix:** The classic French aromatic base of onion, carrot, and celery, typically in a 2:1:1 ratio by weight. Used to build flavor in stocks, braises, and sauces.
+- **Natural Release:** Allowing Instant Pot pressure to dissipate gradually on its own rather than manually venting. Produces more tender, juicier results for proteins.
+- **Collagen:** A structural protein found in animal connective tissue, bones, and skin. Under sustained heat and pressure, it hydrolyzes into gelatin, which gives body and mouthfeel to stocks and broths.
+- **Gelatin:** The soluble form of collagen, produced by long cooking. Responsible for the characteristic gel texture of chilled stock and the rich mouthfeel of a properly made broth.
+- **Apple Cider Vinegar:** Used in bone broth as a mild acid to begin breaking down collagen before pressure cooking. Contributes no perceptible flavor to the finished broth.
+- **Parsnip:** A pale root vegetable related to the carrot. Adds a subtly sweet, earthy depth to stocks and broths.
+
+## Keywords
+
+whole chicken, bone broth, Instant Pot, pressure cooker, French, mirepoix, collagen, gelatin, fond, white wine, vermouth, larder, stock, chicken stock, apple cider vinegar
+
+## Category
+cuisine: French | style: Classical | family: Stock & Broth | course: Component

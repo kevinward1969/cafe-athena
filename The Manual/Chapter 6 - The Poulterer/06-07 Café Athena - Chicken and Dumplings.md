@@ -1,0 +1,110 @@
+# Café Athena - Chicken and Dumplings
+
+A deeply savory, collagen-rich stew of pulled chicken in aromatic broth, finished with flat, tender slick dumplings — rolled, cut, and simmered directly in the pot until silky and just chewy.
+
+**Yield:** 4–6 servings | **Prep:** 20 min | **Cook:** 30 min | **Total:** ~50 min
+
+## Headnote
+
+This recipe begins where *12-24 Pressure-Cooked Whole Chicken & Bone Broth* ends. The 12-24 session produces both the pulled meat and the deeply flavored, collagen-rich bone broth in a single Instant Pot run — so what follows here is pure assembly: a quick fresh mirepoix to sharpen the pot, the broth brought to a working simmer, and the chicken folded back in to warm through. From there, the slick dumplings — a stiff rolled dough, cut into flat rectangles — go directly into the simmering broth, where they absorb liquid, swell slightly, and become silky and almost noodle-like at the edges. **Teaching Idea: Slick Dumplings vs. Drop Dumplings.** These are two distinct traditions. Drop dumplings use a loose batter spooned onto simmering liquid and steam-cooked under a sealed lid — leavening is essential, gluten development is the enemy. Slick dumplings work in reverse: a stiff, lightly leavened dough is rolled out, cut into flat pieces, and submerged in the broth to cook. The gluten developed during rolling is intentional — it gives the dumpling structure and that characteristic slight chew. They do not puff; they silken. The broth does the work.
+
+## Ingredients
+
+### The Foundation
+
+- 1 recipe *12-24 Café Athena — Pressure-Cooked Whole Chicken & Bone Broth*, yielding approximately 600–700 g (about 4 cups) pulled chicken meat and 950 ml (4 cups) bone broth
+
+### The Fresh Mirepoix
+
+- 15 ml (1 tbsp) neutral oil or unsalted butter
+- 1 medium yellow onion, medium dice (approximately 200 g)
+- 2 medium carrots, medium dice (approximately 160 g)
+- 2 stalks celery, medium dice (approximately 100 g)
+- 3 cloves garlic, minced
+- 4 g (1 tsp) Diamond Crystal kosher salt
+- 1 g (¼ tsp) cracked black pepper
+
+### The Dumpling Dough
+
+- 240 g (2 cups) all-purpose flour
+- 4 g (1 tsp) baking powder
+- 4 g (¾ tsp) Diamond Crystal kosher salt
+- 30 g (2 tbsp) unsalted butter, cold, cut into small pieces
+- 120–150 ml (½–⅔ cup) whole milk or buttermilk, added gradually
+
+### For Finishing
+
+- 2 g (1 tsp) fresh flat-leaf parsley, roughly chopped
+- Diamond Crystal kosher salt and cracked black pepper, to taste
+
+## Mise en Place
+
+- **Pull the chicken** from the 12-24 session, if not already done. Shred into rough, pull-sized pieces — not fine shreds. Transfer to a bowl and set aside.
+- **Measure the broth:** Confirm you have 950 ml (4 cups). If slightly short, top with water or additional stock. The broth should already be seasoned from 12-24 — taste and note its salt level before adding anything further in the method.
+- **Dice** the onion, carrots, and celery for the fresh mirepoix.
+- **Mince** the garlic.
+- **Combine the dumpling dry mix:** In a medium bowl, whisk together the flour, baking powder, and salt. Cut in the cold butter with a pastry cutter or your fingertips until the mixture resembles coarse, pea-sized crumbs. Set aside.
+- **Roll and cut the dumpling dough:** Once the wet ingredients are added (see Phase 4), turn the dough out onto a lightly floured surface. Roll to ⅛–¼ inch thickness and cut into roughly ½-inch × 2-inch rectangles. Dust lightly with flour to prevent sticking and set aside on a parchment-lined plate.
+- **Chop the parsley** for the finish.
+
+## Method
+
+**Phase 1: Build the Pot Base.** In a wide, heavy-bottomed pot (Dutch oven or 6-quart (5.7 L) saucepan), heat the oil or butter over medium heat. Add the diced onion and cook, stirring occasionally, for 4–5 minutes until softened and translucent. Add the carrots and celery and cook 3 more minutes. Add the garlic and cook 1 minute until fragrant.
+
+**Sensory cue:** The onion should have fully lost its raw sharpness. The garlic should be aromatic but not colored.
+
+**Why:** The 12-24 broth is already aromatic and well-seasoned, but a fresh mirepoix at the start of the stew sharpens the base and adds brightness that the long-cooked broth cannot replicate on its own.
+
+**Phase 2: Bring to Simmer.** Pour the 12-24 bone broth into the pot. Increase heat to medium-high and bring to a steady simmer. Taste the broth now — it should be forward but slightly under-seasoned, since the dumplings will absorb salt from the liquid as they cook. Add salt and pepper cautiously, in small increments.
+
+**Sensory cue:** Small, constant bubbles across the surface — not a rolling boil, which would break up the dumplings.
+
+**Phase 3: Add the Chicken.** Fold the pulled chicken into the simmering broth. Stir gently to distribute evenly through the vegetables. Allow 3–4 minutes for the chicken to warm through completely.
+
+**Sensory cue:** The broth should be actively steaming and the chicken visibly hot before you proceed to Phase 4. Cold chicken dropped into an under-tempered broth extends cooking time unevenly.
+
+**Phase 4: Make the Dumpling Dough.** Add the milk or buttermilk to the dry mix gradually — start with 120 ml (½ cup) and add more a tablespoon at a time until the dough just comes together. It should be stiff, not sticky: firm enough to roll without spreading, but not so dry that it cracks at the edges. Turn out onto a lightly floured surface, bring together with your hands, and roll to ⅛–¼ inch thickness. Cut into ½-inch × 2-inch rectangles.
+
+**Why:** This dough is intentionally stiffer than a biscuit or drop-dumpling batter. The mechanical rolling develops gluten, which gives the finished dumpling its characteristic slight chew and structural integrity in the broth. Do not rush the cut — clean edges hold better than ragged ones.
+
+**Phase 5: Simmer the Dumplings.** Drop the cut pieces into the simmering broth one at a time, spacing them as you go to prevent sticking. Stir gently once after all pieces are in to submerge any that are floating. Maintain a steady, gentle simmer — uncovered or with the lid set ajar — and cook for 10–12 minutes.
+
+**Sensory cue:** Cooked slick dumplings are opaque in the center and slightly translucent at the edges, tender with a faint chew — not mushy, not doughy at the core. They will have swelled slightly and the broth around them will have thickened from the starch they release. A fork pressed into the thickest piece should meet minimal resistance and pull away clean.
+
+**Phase 6: Finish and Serve.** Remove from heat. Taste the broth one final time and adjust seasoning. Scatter the chopped parsley over the surface. Serve immediately — dumplings will continue to absorb broth as the dish sits.
+
+## Variations
+
+### Dairy-Free Build
+
+Replace the whole milk or buttermilk in the dumpling dough with full-fat, unsweetened oat milk (by volume, 1:1). Replace the cold butter in the dough with refined coconut oil, worked in cold and solid. The dumplings will be slightly less rich but will roll, cut, and simmer correctly. Replace the mirepoix butter with neutral oil. This variation qualifies as `dietary: Dairy-Free` without any other changes.
+
+### Herb-Enriched Dumplings
+
+Add 10 g (2 tbsp) finely chopped fresh chives and 5 g (1 tbsp) fresh thyme leaves to the dumpling dry mix before cutting in the butter and adding the milk. The herbs distribute evenly through the rolled dough, producing green-flecked, herbaceous dumplings that complement the earthier character of the 12-24 bone broth particularly well. Cut and simmer as directed.
+
+## Chef's Notes
+
+- **Broth volume and thickness:** The 12-24 broth will gel when cold due to its gelatin content. When reheated, it liquefies fully. If your broth is particularly thick after chilling, the stew may reduce faster during Phase 2 — keep an eye on level and add a splash of water if needed before the dumplings go in. As the slick dumplings cook, they release starch and thicken the broth further — this is expected and desirable.
+- **Dumpling thickness:** ⅛–¼ inch is the target range. Roll too thin (under ⅛ inch) and the dumplings dissolve into the broth, producing a paste-like texture. Too thick (over ¼ inch) and the center stays raw and doughy while the outside overcooks. A consistent roll is more important than hitting the thinner end of the range.
+- **Scaling:** Ingredients scale linearly for a larger batch. Dumpling simmer time does NOT — 10–12 minutes holds regardless of batch size, because the rate-limiting step is thermal penetration through the dough, not the volume of broth.
+- **Make-ahead:** The stew base (Phases 1–3) can be made up to 2 days ahead and refrigerated. Reheat to a simmer before mixing, rolling, and cutting the dumpling dough — never drop dumplings into a cold or lukewarm base.
+- **Leftover dumplings:** Dumplings deteriorate overnight as they continue absorbing broth. This dish is best consumed the day it is made. If storing leftovers, be aware the dumplings will be dense the next day — still edible, but the texture changes significantly.
+- **Broth substitution:** If 12-24 broth is not available, use a high-quality commercial chicken stock. The dish will lose the gelatin richness and the layered aromatic depth that 12-24 provides, but is technically complete.
+
+## Glossary
+
+- Mirepoix: The classic French aromatic base of onion, carrot, and celery, typically in a 2:1:1 ratio by weight. Used to build flavor in stocks, braises, and sauces.
+- Slick Dumpling: A Southern American dumpling style made from a stiff rolled dough, cut into flat pieces and simmered submerged in broth. Unlike drop dumplings, slick dumplings develop gluten intentionally during rolling, producing a tender, slightly chewy texture with silky, translucent edges when cooked through.
+- Baking Powder: A chemical leavening agent composed of an acid (cream of tartar) and a base (bicarbonate of soda) with a starch buffer. In slick dumplings it is used in small quantities — just enough to lighten the dough slightly without producing a puff.
+- Gelatin: The soluble form of collagen, produced by sustained cooking of bones and connective tissue. Responsible for the gel texture of chilled stock and the rich, silky mouthfeel of a properly made bone broth.
+- Nappé: The consistency where a sauce or broth coats the back of a spoon and a clear line remains when you draw your finger through it — used here as a doneness indicator for the warmed stew base.
+- Gluten: The protein network that forms when glutenin and gliadin proteins in wheat flour hydrate and are mechanically worked. In slick dumplings, controlled gluten development through rolling is what gives the finished piece its structure and slight chew — the opposite of the goal in drop dumpling batter.
+
+## Keywords
+
+chicken and dumplings, slick dumplings, flat dumplings, rolled dumplings, pulled chicken, bone broth, Instant Pot, pressure cooker, comfort food, American Southern, mirepoix, collagen, weeknight, one-pot, stew
+
+## Category
+
+cuisine: American | style: Rustic | family: Chicken | course: Dinner

@@ -125,10 +125,11 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Gemini Gem 2 — The Visual Director
 
 **File:** `Guidance/CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`  
-**Current Version:** 1.1
+**Current Version:** 1.2
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.2 | 2026-06-08 | Added `Output: 16:9 widescreen, 1920×1080, landscape orientation` as a required field in the INPUT FORMAT brief template. Fixes aspect ratio drift — Gemini's image generation defaults do not reliably honor the 16:9 crop spec in the Camera & Composition section alone. |
 | v1.1 | 2026-04-15 | Added Ch. 12 (Les Fonds) to chapter style table — architectural/elemental style for structural bases (doughs, pastry creams, tuile, pasta). Updated marble surface exception to include Ch. 12 alongside Ch. 9. |
 | v1.0 | — | Initial release. Purpose-limited to hero image generation. Defines core aesthetic (warm editorial food photography), output constraints (one image, 16:9, ¾ overhead angle), and quality benchmarks. |
 
