@@ -31,15 +31,18 @@
 ---
 
 ## Chapter 5 — The Fishmonger  
+
 **Gap: +8 | All need original development — RecipeIdeas has no useful candidates here**
 
 ### Current Folios
+
 - 05-01 Pan-Seared Scallops with Pea Fluid Gel
 - 05-02 Miso-Cured Black Cod (Saikyo Yaki)
 - 05-03 Unilateral Seared Bass with Miso-Noisette
 - 05-04 Brown Butter Confit Cod with Potato Seaweed Crumb
 
 ### Category Gaps
+
 | Protein | Status | Note |
 |---------|--------|------|
 | White fish (cod/bass) | ✓ Covered (×2) | |
@@ -53,6 +56,7 @@
 | **Squid or octopus** | ❌ Missing | Cephalopod category absent |
 
 ### Recommended Additions (all original development)
+
 | Slot | Recipe Direction | Source |
 |------|-----------------|--------|
 | 05-05 | Salmon — pan-seared or gravlax cure | Original |
@@ -67,9 +71,11 @@
 ---
 
 ## Chapter 6 — The Poulterer  
+
 **Gap: +6 | 3 from RecipeIdeas, 3 original | Plan locked 2026-06-08**
 
 ### Current Folios
+
 - 06-01 Italian Wedding Soup (Pollo Rustica)
 - 06-02 Wafu Wedding Soup (Kyoto Spice)
 - 06-03 Traditional Duck Confit
@@ -78,6 +84,7 @@
 - 06-06 Modern Chicken Pot Pie (Velouté Method)
 
 ### Category Gaps
+
 | Protein | Status | Note |
 |---------|--------|------|
 | Chicken — soup | ✓ Covered (×2) | |
@@ -109,9 +116,11 @@
 ---
 
 ## Chapter 7 — The Butcher  
+
 **Gap: 0 (count OK) | Category gaps must be filled**
 
 ### Category Gaps
+
 | Protein | Status | Note |
 |---------|--------|------|
 | Beef | ✓ Heavily covered | |
@@ -132,9 +141,11 @@
 ---
 
 ## Chapter 8 — The Field ✓ COMPLETE (14/12)
+
 **Closed 2026-05-19 — 08-11 Brussels Sprouts, 08-12 Southern Greens. 08-13 and 08-14 added subsequently.**
 
 ### Current Folios
+
 - 08-01 King Trumpet "Scallops" & Celeriac Mousseline
 - 08-02 Roasted Spaghetti Squash "Pomodoro Rustico"
 - 08-03 Velvet Root Vegetable Mash
@@ -151,6 +162,7 @@
 - 08-14 Crispy Smashed Brussels Sprouts *(added 2026-05-20)*
 
 ### Category Gaps
+
 | Category | Status |
 |----------|--------|
 | Mushroom | ✓ Covered |
@@ -162,6 +174,7 @@
 | **Leafy greens** | ❌ Missing |
 
 ### Recommended Additions
+
 | Slot | Recipe Direction | Source |
 |------|-----------------|--------|
 | 08-11 | Roasted Brussels sprouts | `Roasted Brussels Sprouts.pdf` |
@@ -174,6 +187,7 @@
 **Closed 2026-05-20 — 09-10 Florentine Cannoli, 09-11 Truffle Cake Pops, 09-12 Brown Butter Banana Bread. 09-13 reassigned from Ch 12; 09-14 added 2026-06-02.**
 
 ### Current Folios
+
 - 09-01 Brown Butter & Miso-Caramel Truffle Brownies
 - 09-02 Spicy Brown Butter & Lemon Cheesecake Cookies
 - 09-03 Lemon Blackberry Tart *(replaced duplicate cookie folio 2026-05-19)*
@@ -219,6 +233,7 @@
 **Closed 2026-05-24 — 11-11 Dukkah (Cairo Market Blend), 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni**
 
 ### Current Folios
+
 - 11-01 Vibrant Green Herb Oil
 - 11-02 Quick-Process Smoked Salt (Liquid Integration)
 - 11-03 Sodium Acetate (Salt & Vinegar Crystals)
