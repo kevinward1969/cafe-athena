@@ -8,32 +8,34 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 > **Note:** Gemini Gem 1 (The Chef) is maintained as a fallback surface. Updates to the canonical master should be ported here when practical.
 
-| Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) |
-|--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|
-| 2026-06-10c | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 |
-| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | — | — |
-| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 | — | — |
-| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 | — | — |
-| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 | — | — |
-| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 | — | — |
-| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — | — | — |
-| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — | — | — |
-| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — |
-| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — |
-| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — | — | — |
-| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — | — | — |
-| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — | — | — |
-| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — | — | — |
-| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — | — | — |
-| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — | — | — |
-| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — | — | — |
-| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — | — | — |
+| Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Site Developer | Site Developer (CD) |
+|--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-10e | v1.15 | v3.10 | v1.15 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 |
+| 2026-06-10d | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 |
+| 2026-06-10c | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — |
+| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | — | — | — | — |
+| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 | — | — | — | — |
+| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 | — | — | — | — |
+| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 | — | — | — | — |
+| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 | — | — | — | — |
+| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — | — | — | — | — |
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — |
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — |
+| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — |
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — | — | — | — | — |
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — |
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — |
+| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — | — | — | — | — |
+| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — | — | — | — | — |
+| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — | — | — | — | — |
+| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — | — | — | — | — |
+| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — | — | — | — | — |
 
 ---
 
@@ -72,6 +74,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 | v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v1.4 | 2026-04-16 | Master audit pass. Added No Sycophancy and Uncertainty Acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to CRITICAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.5 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.15 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to name the Café Athena Site Developer agent. Ported from canonical master v1.15. |
 | v1.14 | 2026-06-09 | Added mandatory clarity audit as step 2 of Mode 2 OUTPUT PROTOCOL. Four checks baked in: forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps. Renumbered steps 3–9 accordingly. |
 | v1.13 | 2026-06-09 | Updated slash-command workflow path from `.agents/workflows/` to `.claude/commands/` following project structure consolidation. |
 | v1.9 | 2026-05-18 | Phase 1.5 update. Category format updated to 4 mandatory fields: `cuisine`, `style`, `family`, `course`. Vocabulary now references `Guidance/Taxonomy.md`. `dietary:` comma-separable. Technique folio Category: `style: Technique Folio \| family: [value]` only. Recipe structure item 10 updated. |
@@ -101,6 +104,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.15 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to name the Café Athena Site Developer agent explicitly. Old redirect pointed to Claude Code CLI slash commands; new redirect names the Site Developer as the owner of site development, pipeline, deploy, image optimization, and agent work. Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.15. |
 | v1.14 | 2026-06-10 | Updated all internal file path references to reflect project restructure: `AGENT_CHANGELOG.md` → `Agents/AGENT_CHANGELOG.md`, `Claude-Desktop/` → `Agents/Claude-Desktop/`, `Gemini-Gems/` → `Agents/Gemini-Gems/`, `recipes.json` → `The Manual/recipes.json`. No behavior changes. |
 | v1.13 | 2026-06-09 | Added clarity audit as step 3 of Mode 2 Output Protocol. Four checks run automatically after draft generation: forward references in ingredient sections, ambiguous cross-section parentheticals, method steps referencing unlisted ingredients, multi-action steps. Recipe not output until all checks pass. Renumbered Output Protocol steps 4–11 accordingly. |
 | v1.12 | 2026-05-25 | Fixed Mode 1 verbosity: reordered response structure to lead with recommendation (proposed direction first, supporting logic second), made Steelman check conditional on consequential/contentious direction rather than mandatory every turn, and scoped confirmation echo to genuinely ambiguous mode detection only. |
@@ -221,6 +225,31 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
+**Current Version:** 1.0
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
+
+---
+
+## Claude Code Sub-Agent — Café Athena Site Developer
+
+**File:** `.claude/agents/Cafe Athena Site Developer.agent.md`
+**Current Version:** 1.0
+**Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
+
+Secondary surface: `Agents/Claude-Desktop/SITE_DEVELOPER_INSTRUCTIONS.md`
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-10 | Initial release. Three-mode system (Site Development, Pipeline & Deploy, Agent & Tooling Development). Owns site/, scripts/, site/scripts/, site/public/images/, .claude/agents/, .claude/commands/, .claude/skills/, and Agents/. Session startup reads PROJECT_STATUS.md, BRAND_STATUS.md, MARKETING_STATUS.md, .claude/SKILLS_INDEX.md. Deploy, heroImage, and agent version bump constraints documented as critical constraints. Skills: astro, cafe-athena-site-dev, seo-aeo-schema-generator, fixing-metadata, seo-images, and multiple everything-claude-code: agent tools. |
+
+---
+
+## Claude Desktop Agent — Café Athena Site Developer
+
+**File:** `Agents/Claude-Desktop/SITE_DEVELOPER_INSTRUCTIONS.md`
 **Current Version:** 1.0
 
 | Version | Date | Changes |

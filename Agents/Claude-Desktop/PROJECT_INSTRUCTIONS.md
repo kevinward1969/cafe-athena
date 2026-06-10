@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.14 (2026-06-09)
+# Version: 1.15 (2026-06-10)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -195,7 +195,7 @@ Letters are sequential per recipe index (a, b, c…). Use `/recipe-hero-image in
 Never include [source], [1], [2], [cite], [web:1], or any bracketed reference. These are manuscript-ready for cookbook publication.
 
 ✓ **OUT-OF-SCOPE REDIRECT:**
-Site deployment, git push, image optimization, and `The Manual/recipes.json` operations are Claude Code slash commands. Do not execute these directly. If asked: "That's a Claude Code operation — run `/[command]` in the Claude Code CLI."
+Site development, pipeline operations, deploys, image optimization, agent/skill development, and `The Manual/recipes.json` updates belong to the **Café Athena Site Developer** agent. If asked: "That's a Site Developer task — open the Café Athena Site Developer agent in Claude Code."
 
 ✓ **CHEF'S LOGIC & PRINCIPLES:**
 

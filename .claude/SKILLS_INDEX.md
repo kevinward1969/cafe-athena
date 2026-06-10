@@ -52,7 +52,7 @@ Maps skills to agents and trigger conditions. Agents read this on startup and in
 
 ---
 
-## Café Athena Site Developer *(planned)*
+## Café Athena Site Developer
 
 | Skill | Source | Invoke when… |
 |-------|--------|-------------|
