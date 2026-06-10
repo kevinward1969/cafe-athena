@@ -33,11 +33,11 @@ bash site/scripts/deploy.sh               # full pipeline: prep + build + rsync 
 When the user asks for a status update, what's next, where we are, what's pending, or anything semantically equivalent, read these four sources **before answering** — never respond from memory alone:
 
 1. `PROJECT_STATUS.md` — active work, bugs, pending items
-2. `IDEAS.md` — future/deferred backlog
-3. `recipes.json` — live per-recipe state (run `python3 scripts/audit.py --status` for the rollup)
+2. `The Manual/IDEAS.md` — future/deferred backlog
+3. `The Manual/recipes.json` — live per-recipe state (run `python3 scripts/audit.py --status` for the rollup)
 4. `CLAUDE.md` — this file, for architectural context
 
-Produce a rollup in this order: **active work first, then open issues, then backlog highlights.** Do not dump the full `IDEAS.md` — surface only what's relevant to the current session's direction.
+Produce a rollup in this order: **active work first, then open issues, then backlog highlights.** Do not dump the full `The Manual/IDEAS.md` — surface only what's relevant to the current session's direction.
 
 ---
 
@@ -54,7 +54,7 @@ A culinary cookbook project with a published Astro site at `cookbook.kevinward.c
 | **Part III: The Larder** | Ch. 10–12 (Stocks & Sauces, Spice Blends, Les Fonds) | Building blocks |
 | **Part IV: The Expo** | Ch. 13–15 (Planning, Plating, Service) | Capstone — how it reaches the guest |
 
-You enter through technique, cook through the brigade, build from the larder, and culminate in service. Part IV is not yet started — see `IDEAS.md`.
+You enter through technique, cook through the brigade, build from the larder, and culminate in service. Part IV is not yet started — see `The Manual/IDEAS.md`.
 
 ---
 
@@ -73,14 +73,14 @@ You enter through technique, cook through the brigade, build from the larder, an
 
 | File | Role |
 |------|------|
-| `PROJECT_STATUS.md` | Session state — active recipes, strategic context, pending tasks. Check this at the start of each session. **Does not duplicate registry state** — hero image + format audit status live in `recipes.json`. |
-| `CONTENT_PLAN.md` | Chapter-by-chapter content gap analysis — minimum recipe counts, category coverage gaps, RecipeIdeas assignments, and development sequence. Reference when planning new recipe development. |
-| `recipes.json` | Pipeline registry — single source of truth for per-recipe state. Each entry has `stages` (formatAudit, glossaryPull, heroImage, heroImageOptimized, deployed, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. Run `python3 scripts/audit.py --status` for a rollup. |
-| `IDEAS.md` | Future recipe, folio, technique, and editorial ideas — low-priority backlog. Not active work; drop new ideas here. |
+| `PROJECT_STATUS.md` | Session state — active recipes, strategic context, pending tasks. Check this at the start of each session. **Does not duplicate registry state** — hero image + format audit status live in `The Manual/recipes.json`. |
+| `The Manual/CONTENT_PLAN.md` | Chapter-by-chapter content gap analysis — minimum recipe counts, category coverage gaps, RecipeIdeas assignments, and development sequence. Reference when planning new recipe development. |
+| `The Manual/recipes.json` | Pipeline registry — single source of truth for per-recipe state. Each entry has `stages` (formatAudit, glossaryPull, heroImage, heroImageOptimized, deployed, etc.) and an `audit` block (`lastRun`, `status`, `issues[]`). Updated via `/register-recipe`, `/sync-registry`, and `scripts/audit.py`. Run `python3 scripts/audit.py --status` for a rollup. |
+| `The Manual/IDEAS.md` | Future recipe, folio, technique, and editorial ideas — low-priority backlog. Not active work; drop new ideas here. |
 | `Guidance/Recipe-Format-Standard.md` | Single source of truth for all recipe formatting rules |
 | `Guidance/Taxonomy.md` | Canonical controlled vocabulary — all valid `cuisine:`, `style:`, `family:`, `course:`, and `dietary:` values. Referenced by agents, pipelines, and `audit.py`. Add new terms here first. |
-| `AGENT_CHANGELOG.md` | Version history for all agent surfaces |
-| `MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
+| `Agents/AGENT_CHANGELOG.md` | Version history for all agent surfaces |
+| `Agents/MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
@@ -96,10 +96,10 @@ You enter through technique, cook through the brigade, build from the larder, an
 **Whenever any agent file is modified, you must:**
 
 1. Bump the version number in the file header (e.g. `Version: 1.1` → `Version: 1.2`)
-2. Add an entry to `AGENT_CHANGELOG.md` describing what changed and why
+2. Add an entry to `Agents/AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
 
 ---
 
@@ -109,13 +109,13 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Claude-Desktop/PRO
 
 | File Changed | Action Required |
 |-------------|----------------------|
-| `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
+| `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Agents/Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
 | `Guidance/Recipe-Format-Standard.md` | No action needed — Claude Desktop reads this file live from the filesystem via MCP |
 | `.claude/commands/*.md` | No action needed — workflows run in Claude Code only |
-| `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
-| `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop project settings |
+| `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
+| `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop project settings |
 
-After propagating changes, bump the version number in the modified file and add an entry to `AGENT_CHANGELOG.md`.
+After propagating changes, bump the version number in the modified file and add an entry to `Agents/AGENT_CHANGELOG.md`.
 
 ---
 
@@ -124,7 +124,7 @@ After propagating changes, bump the version number in the modified file and add 
 Every time a new recipe or technique folio is added, **all four of these must be updated before committing**:
 
 1. **The folio file** — `The Manual/Chapter N - Name/XX-YY Café Athena - [Recipe Title].md`
-2. **`recipes.json`** — register the entry with correct stage flags
+2. **`The Manual/recipes.json`** — register the entry with correct stage flags
 3. **`The Manual/Cafe-Athena-The-Manual-Current-Version.md`** — append the entry under the correct chapter heading
 4. **`PROJECT_STATUS.md`** — update the Last Updated date
 
@@ -143,8 +143,8 @@ Run these in Claude Code. Full definitions in `.claude/commands/`.
 | `/keyword-pull [id]` | Add missing Keywords + Category sections |
 | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
 | `/new-recipe` | Scaffold a new recipe through the full pipeline |
-| `/register-recipe [id]` | Register a new entry in `recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
-| `/sync-registry` | Sync `recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
+| `/register-recipe [id]` | Register a new entry in `The Manual/recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
+| `/sync-registry` | Sync `The Manual/recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |
 
 ---
@@ -213,7 +213,7 @@ A custom remark plugin (`site/src/plugins/remark-ref-images.mjs`) handles refere
 The live site is hosted on FastComet. **Pushing to GitHub alone does NOT deploy the site** — only the rsync in `deploy.sh` updates the live site. Never report the site as deployed until rsync completes successfully.
 
 1. Place optimized WebP files in `site/public/images/`
-2. Update `recipes.json` (heroImage, heroImageOptimized, deployed flags)
+2. Update `The Manual/recipes.json` (heroImage, heroImageOptimized, deployed flags)
 3. Commit and push to GitHub
 4. Run `bash site/scripts/deploy.sh` from the repo root — handles content prep, build, and rsync
 
@@ -243,7 +243,7 @@ Cuisine: [cuisine type]
 Key elements: [3–5 primary visual ingredients or techniques]
 ```
 
-The Gem's aesthetic rules (`Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`) handle all style direction automatically — do not repeat surface, lighting, or composition instructions in the brief.
+The Gem's aesthetic rules (`Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`) handle all style direction automatically — do not repeat surface, lighting, or composition instructions in the brief.
 
 ---
 
@@ -253,14 +253,14 @@ Images in `The Manual/` are working files. Once processed and confirmed in `site
 
 **Delete from `The Manual/` when:**
 
-- Hero image: `recipes.json` shows `heroImageOptimized: true`
-- Reference image: `recipes.json` shows `referenceImagesProcessed: true`
+- Hero image: `The Manual/recipes.json` shows `heroImageOptimized: true`
+- Reference image: `The Manual/recipes.json` shows `referenceImagesProcessed: true`
 
 This applies equally to hero images (`XX-YY.webp`) and reference images (`XX-YYa.webp`, etc.).
 
 **Canonical location for all processed images:** `site/public/images/`
 
-The `.png` originals in The Manual may be kept until optimized, then deleted once `heroImageOptimized: true`. Reference the `recipes.json` registry as the source of truth for what has been processed.
+The `.png` originals in The Manual may be kept until optimized, then deleted once `heroImageOptimized: true`. Reference the `The Manual/recipes.json` registry as the source of truth for what has been processed.
 
 ---
 

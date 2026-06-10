@@ -254,7 +254,7 @@ duck, confit, French technique, fat poaching, pressure cooker, collagen, umami, 
 
 **Location:** End of recipe, after Keywords
 
-**Purpose:** Powers faceted filtering on the website and cross-reference lookup in `recipes.json`
+**Purpose:** Powers faceted filtering on the website and cross-reference lookup in `The Manual/recipes.json`
 
 **Format:** `## Category` heading followed by a single structured line
 

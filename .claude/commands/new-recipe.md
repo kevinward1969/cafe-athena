@@ -15,7 +15,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 1. Search the `The Manual/` directory using the Glob tool with a wildcard pattern matching the identifier (e.g., `The Manual/**/*04-18*`).
 2. Confirm the file path and display the recipe title to the user before proceeding.
 3. Read the full recipe file using the Read tool.
-4. Read `recipes.json` and check whether an entry with `"id": "{identifier}"` already exists.
+4. Read `The Manual/recipes.json` and check whether an entry with `"id": "{identifier}"` already exists.
    - If missing: invoke the `/register-recipe {identifier}` workflow inline (see `.agents/workflows/register-recipe.md`) before proceeding to Phase 2. This ensures registry state can be updated as each phase completes.
    - If present: continue.
 
@@ -38,7 +38,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
    **WAIT** for the user's response. Do not proceed until authorized.
 
 4. Apply authorized format changes to the recipe file.
-5. Update `recipes.json`: set `formatAudit: true` on this entry.
+5. Update `The Manual/recipes.json`: set `formatAudit: true` on this entry.
 
 ---
 
@@ -46,7 +46,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 
 1. Re-read the (now updated) recipe file.
 2. Check if `## Keywords` AND `## Category` sections already exist.
-   - If BOTH exist: set `recipes.json` `keywordPull: true` and skip to Phase 4.
+   - If BOTH exist: set `The Manual/recipes.json` `keywordPull: true` and skip to Phase 4.
    - If either is missing: generate them.
 3. Read `Guidance/Recipe-Format-Standard.md` Sections 9 and 10 for format rules. Read `Guidance/Taxonomy.md` for all valid controlled vocabulary values.
 4. Generate **Keywords** (8–15 comma-separated terms — full recipe folios typically 10–15; foundation/technique folios 8–12) covering: cooking techniques, primary ingredients, cuisine origin, equipment, flavor profile, occasion/difficulty.
@@ -68,7 +68,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
     cuisine: French | style: Classical | family: Mother Sauce | course: Component
     ```
 
-7. Update `recipes.json`: set `keywordPull: true` on this entry.
+7. Update `The Manual/recipes.json`: set `keywordPull: true` on this entry.
 
 ---
 
@@ -81,7 +81,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 5. Insert new terms under the correct alphabetical `## [Letter]` heading in alphabetical order within that section.
 6. Apply updates to the corresponding split glossary file(s).
 7. Report which terms were added and which were skipped as duplicates.
-8. Update `recipes.json`: set `glossaryPull: true` on this entry.
+8. Update `The Manual/recipes.json`: set `glossaryPull: true` on this entry.
 
 ---
 
@@ -94,7 +94,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 
 2. If authorized:
     - Run `bash site/scripts/deploy.sh` to build and deploy the Astro site.
-    - After successful deploy, update `recipes.json`: set `deployed: true` on this entry.
+    - After successful deploy, update `The Manual/recipes.json`: set `deployed: true` on this entry.
     - Stage modified files **by name** (do NOT use `git add -A`) and commit with a message in the format:
       `feat: onboard recipe [id] — [Recipe Title]`
     - Push to `origin/main`.

@@ -29,7 +29,7 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 
 BASE = Path(__file__).parent.parent
-RECIPES_JSON = BASE / "recipes.json"
+RECIPES_JSON = BASE / "The Manual" / "recipes.json"
 MANUAL_DIR = BASE / "The Manual"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 

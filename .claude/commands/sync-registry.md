@@ -1,5 +1,5 @@
 ---
-description: Syncs recipes.json against the live Manual directory. Adds missing entries, updates stage flags that can be derived from the filesystem, and reports any discrepancies. Does not remove entries or reset completed stages.
+description: Syncs The Manual/recipes.json against the live Manual directory. Adds missing entries, updates stage flags that can be derived from the filesystem, and reports any discrepancies. Does not remove entries or reset completed stages.
 ---
 
 # Sync Registry Workflow
@@ -23,7 +23,7 @@ Invoked with: `/sync-registry`
 
 ## Phase 2 — Read Current Registry
 
-1. Read `recipes.json`.
+1. Read `The Manual/recipes.json`.
 2. Build a **registry set** of all `id` values currently in the `recipes` array.
 
 ---
@@ -102,7 +102,7 @@ For each **doc drift** item (and for any newly added missing entry):
 
 Re-sort the `recipes` array by `id` ascending.
 
-Write the updated `recipes.json` and `Cafe-Athena-The-Manual-Current-Version.md`.
+Write the updated `The Manual/recipes.json` and `The Manual/Cafe-Athena-The-Manual-Current-Version.md`.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Registers a single new recipe or technique folio in recipes.json after Claude Desktop Mode 2 completes. Creates the entry with all pipeline stages defaulted to false.
+description: Registers a single new recipe or technique folio in The Manual/recipes.json after Claude Desktop Mode 2 completes. Creates the entry with all pipeline stages defaulted to false.
 ---
 
 # Register Recipe Workflow
@@ -25,10 +25,10 @@ Example: `/register-recipe 10-24`
 
 ## Phase 2 — Check for Existing Entry
 
-1. Read `recipes.json`.
+1. Read `The Manual/recipes.json`.
 2. Search the `recipes` array for an entry with `"id": "{index}"`.
 3. If found, **STOP** and report:
-   > "`{index}` is already registered in recipes.json (title: `{existing title}`). Use `/sync-registry` if the entry needs updating."
+   > "`{index}` is already registered in The Manual/recipes.json (title: `{existing title}`). Use `/sync-registry` if the entry needs updating."
 
 ---
 
@@ -87,7 +87,7 @@ Ask: *"Register this entry?"*
 
 ## Phase 5 — Insert and Confirm
 
-1. Read `recipes.json`.
+1. Read `The Manual/recipes.json`.
 2. Build the new entry with this field order:
    `id`, `title`, `chapter`, `chapterName`, `type`, `cuisine`, `style`, `family`, `course`,
    `keywords`, `dietary`, `added`, `stages`, `audit`
@@ -101,7 +101,7 @@ Ask: *"Register this entry?"*
    - Insert a new line **immediately after** the last folio line, **matching that chapter's existing list style** (preserve `*` vs `-` and the `\-` vs `-` separator used in adjacent lines).
    - Format the entry as: `{bullet} {index} {prefix} {title}` — where `{prefix}` is `Technique Folio \-` for technique entries and `Café Athena \-` for recipes (or unescaped `-` if the chapter's existing entries use unescaped dashes).
    - Do not reformat or normalize other lines in the doc — append-only.
-7. Confirm: *"`{index} — {title}` registered in recipes.json and appended to Current-Version doc."*
+7. Confirm: *"`{index} — {title}` registered in The Manual/recipes.json and appended to Current-Version doc."*
 8. Output the next suggested actions:
    > **Next steps for `{index}`:**
    > - Run `/format-audit {index}` to validate structure

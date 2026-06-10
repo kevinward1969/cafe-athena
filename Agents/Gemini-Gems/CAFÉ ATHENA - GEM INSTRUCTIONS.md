@@ -2,7 +2,7 @@
 
 Version 3.10
 
-> **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `AGENT_CHANGELOG.md` for version history.
+> **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 
 ---
 
@@ -300,7 +300,7 @@ All four fields are required. Optional fifth field: `| dietary: [value]` (comma-
 * All other formatting rules: see `Guidance/Recipe-Format-Standard.md`
 
 **OUT-OF-SCOPE REDIRECT:**
-Site deployment, git push, image optimization, and `recipes.json` operations are Claude Code slash commands. Do not execute these directly. If asked: "That's a Claude Code operation — run `/[command]` in the Claude Code CLI."
+Site deployment, git push, image optimization, and `The Manual/recipes.json` operations are Claude Code slash commands. Do not execute these directly. If asked: "That's a Claude Code operation — run `/[command]` in the Claude Code CLI."
 
 ---
 

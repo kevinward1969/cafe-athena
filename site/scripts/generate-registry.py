@@ -2,7 +2,7 @@
 """
 Café Athena — Recipe Registry Generator
 
-Scans The Manual/ and produces recipes.json in the project root.
+Scans The Manual/ and produces recipes.json in The Manual/.
 Run this once to bootstrap the registry. After that, use /register-recipe
 and /sync-registry workflows to keep it current.
 
@@ -20,7 +20,7 @@ from datetime import date
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent
 MANUAL_DIR = PROJECT_ROOT / "The Manual"
-REGISTRY_FILE = PROJECT_ROOT / "recipes.json"
+REGISTRY_FILE = PROJECT_ROOT / "The Manual" / "recipes.json"
 
 CHAPTER_NAMES = {
     1:  "The Lab",

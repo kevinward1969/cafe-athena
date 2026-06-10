@@ -1,5 +1,5 @@
 ---
-description: Runs a recipe or folio through the full publishing pipeline — register, clarity audit, image prompt, format audit, keyword/category pull, glossary pull, hero image check, build, and deploy. Driven entirely by recipes.json stage flags. Handles both new recipes (all stages false) and updates (resumes from first false stage). Single entry point after any Claude Desktop Mode 2 session.
+description: Runs a recipe or folio through the full publishing pipeline — register, clarity audit, image prompt, format audit, keyword/category pull, glossary pull, hero image check, build, and deploy. Driven entirely by The Manual/recipes.json stage flags. Handles both new recipes (all stages false) and updates (resumes from first false stage). Single entry point after any Claude Desktop Mode 2 session.
 ---
 
 # Pipeline Workflow
@@ -12,7 +12,7 @@ Example: `/pipeline 12-23`
 
 ## Phase 0 — Register
 
-1. Read `recipes.json`. Search for an entry with `"id": "[id]"`.
+1. Read `The Manual/recipes.json`. Search for an entry with `"id": "[id]"`.
 2. **If no entry exists:** run the register-recipe workflow inline to create it, then continue here.
 3. Identify all stages currently set to `false`. These are the pending stages.
 4. Determine pathway:
@@ -159,13 +159,13 @@ Run only if `needs_rebuild = true` and user approved in Phase 7.
 
 **Nothing in this phase is skippable. Execute every item. If any cannot be confirmed, flag it explicitly before committing.**
 
-1. **`recipes.json`** — write all stage flags. Version bump and set `lastModified` to today's date (only if `needs_rebuild = true`):
+1. **`The Manual/recipes.json`** — write all stage flags. Version bump and set `lastModified` to today's date (only if `needs_rebuild = true`):
    - No `version` field present: add `version: "1.1"`
    - `version` field present: increment minor version (`"1.1"` → `"1.2"`, `"1.9"` → `"1.10"`)
 
 2. **`The Manual/Cafe-Athena-The-Manual-Current-Version.md`** — confirm the recipe entry exists under the correct chapter heading. If missing, add it now.
 
-3. **`CONTENT_PLAN.md`** — confirm the chapter recipe count reflects the current state. Update if the count has changed.
+3. **`The Manual/CONTENT_PLAN.md`** — confirm the chapter recipe count reflects the current state. Update if the count has changed.
 
 4. **`PROJECT_STATUS.md`** — update the Last Updated date.
 

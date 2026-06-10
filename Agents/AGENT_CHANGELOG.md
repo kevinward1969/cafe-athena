@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor |
 |--------------|-----------------|-----------------|----------------|---------------------|-----------------|------------------------|
+| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 |
 | 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 |
 | 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 |
 | 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 |
@@ -37,7 +38,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 ## Gemini Gem 1 — The Chef *(Fallback Surface)*
 
-**File:** `Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
+**File:** `Agents/Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
 **Status:** Maintained as a fallback surface. Not the primary creative surface (Claude Desktop holds that role), but kept in sync with canonical master updates when practical.  
 **Current Version:** 3.10
 
@@ -59,7 +60,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 ## Claude Desktop Agent
 
-**File:** `Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
+**File:** `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
 **Current Version:** 1.14
 
 | Version | Date | Changes |
@@ -94,11 +95,12 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 ## Claude Code Sub-Agent — Café Athena Chef
 
 **File:** `.claude/agents/Cafe Athena Chef.agent.md`  
-**Current Version:** 1.13
+**Current Version:** 1.14
 **Status:** Canonical master — update this first.
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.14 | 2026-06-10 | Updated all internal file path references to reflect project restructure: `AGENT_CHANGELOG.md` → `Agents/AGENT_CHANGELOG.md`, `Claude-Desktop/` → `Agents/Claude-Desktop/`, `Gemini-Gems/` → `Agents/Gemini-Gems/`, `recipes.json` → `The Manual/recipes.json`. No behavior changes. |
 | v1.13 | 2026-06-09 | Added clarity audit as step 3 of Mode 2 Output Protocol. Four checks run automatically after draft generation: forward references in ingredient sections, ambiguous cross-section parentheticals, method steps referencing unlisted ingredients, multi-action steps. Recipe not output until all checks pass. Renumbered Output Protocol steps 4–11 accordingly. |
 | v1.12 | 2026-05-25 | Fixed Mode 1 verbosity: reordered response structure to lead with recommendation (proposed direction first, supporting logic second), made Steelman check conditional on consequential/contentious direction rather than mandatory every turn, and scoped confirmation echo to genuinely ambiguous mode detection only. |
 | v1.11 | 2026-05-19 | Applied analyzer-aligned wording for factual-correction persona guidance and removed duplicate Mode 2 correction sentence to keep one concise correction policy with mode-specific priority handling. |
@@ -146,7 +148,7 @@ These workflow files do not carry independent version numbers, but were updated 
 
 ## Gemini Gem 2 — The Visual Director
 
-**File:** `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`  
+**File:** `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`  
 **Current Version:** 2.0
 
 | Version | Date | Changes |

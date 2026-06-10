@@ -37,7 +37,7 @@ Images follow a two-type system. The canonical location for all processed images
   3. Run `/recipe-hero-image optimize [index]` — converts the PNG to WebP (quality 85, max 1920×1080), deletes the original PNG, deploys, then deletes the WebP from the chapter folder.
 
   **Bypass path (pre-optimized):**
-  If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip the optimize step, update `recipes.json`, deploy, and commit. No chapter folder involvement needed.
+  If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip the optimize step, update `The Manual/recipes.json`, deploy, and commit. No chapter folder involvement needed.
 
 * **REFERENCE IMAGES (inline figures within the recipe body):**
 

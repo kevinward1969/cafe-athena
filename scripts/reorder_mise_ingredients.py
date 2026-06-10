@@ -24,7 +24,7 @@ import re
 import sys
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RECIPES_JSON = os.path.join(BASE, "recipes.json")
+RECIPES_JSON = os.path.join(BASE, "The Manual", "recipes.json")
 MANUAL = os.path.join(BASE, "The Manual")
 
 MISE_RE = re.compile(r"^## +Mise", re.IGNORECASE)

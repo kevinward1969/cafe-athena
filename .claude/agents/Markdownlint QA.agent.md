@@ -1,6 +1,6 @@
 ---
 name: Markdownlint QA
-version: "1.1"
+version: "1.2"
 description: Oversees the two-stage markdown lint detection and repair pipeline for Café Athena. Orchestrates markdownlint_safe_fix.py (deterministic) and fix_markdown_with_ollama.py (Ollama LLM) across four modes — Scan, Safe Fix, Deep Fix, and Full Pipeline — with authorization checkpoints before any file writes. Invoke for any markdown quality or linting task.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -51,7 +51,7 @@ Resolve the scope from the user's message before doing anything else. Valid scop
 | `Guidance/` | Agent instruction files — content changes must be human-authorized |
 | `.claude/` | Agent definitions — lint repair could corrupt frontmatter or behavior directives |
 | `.agents/` | Workflow definitions — same as above |
-| `Claude-Desktop/` | Secondary surface instructions — managed manually |
+| `Agents/Claude-Desktop/` | Secondary surface instructions — managed manually |
 | `node_modules/` | Dependency files — not project content |
 
 If the user explicitly requests linting one of these paths, refuse and explain: "That directory contains curated instruction files. Lint-repair could corrupt agent behavior. Edit manually if needed."

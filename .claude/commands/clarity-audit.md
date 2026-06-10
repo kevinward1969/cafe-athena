@@ -17,7 +17,7 @@ Examples:
 1. Invoke the **Recipe Clarity Auditor** agent on the folio file matching the given ID.
 2. Display the full findings report.
 3. **If issues found:** STOP. Do not proceed with any other work until every issue is resolved or explicitly excepted by the user.
-4. **If clean:** report `✅ Clarity audit passed — [id]` and update `clarityAudit: true` in `recipes.json`.
+4. **If clean:** report `✅ Clarity audit passed — [id]` and update `clarityAudit: true` in `The Manual/recipes.json`.
 
 ---
 
@@ -39,4 +39,4 @@ Issues:  N recipes
 ```
 
 5. **If any issues found:** STOP. Display full findings for each recipe with issues. Do not mark any as passed until all issues in the chapter are resolved or excepted.
-6. **If all clean:** update `clarityAudit: true` for all entries in `recipes.json` and report `✅ Clarity audit passed — Chapter [N] ([N] recipes)`.
+6. **If all clean:** update `clarityAudit: true` for all entries in `The Manual/recipes.json` and report `✅ Clarity audit passed — Chapter [N] ([N] recipes)`.

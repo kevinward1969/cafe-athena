@@ -294,8 +294,8 @@ Run in the Claude Code CLI (Antigravity). Full definitions in `.claude/commands/
 | `/glossary-pull` | `/glossary-pull 04-15` | Merge recipe glossary terms into main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Add missing Keywords + Category sections |
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
-| `/register-recipe` | `/register-recipe 12-20` | Register new entry in `recipes.json` after Mode 2 |
-| `/sync-registry` | `/sync-registry` | Sync `recipes.json` against live Manual directory |
+| `/register-recipe` | `/register-recipe 12-20` | Register new entry in `The Manual/recipes.json` after Mode 2 |
+| `/sync-registry` | `/sync-registry` | Sync `The Manual/recipes.json` against live Manual directory |
 | `/pipeline` | `/pipeline 04-15` | Run full pipeline: register → clarity audit → image prompt → format audit → keyword pull → glossary pull → hero image → build → deploy |
 | `/recipe-hero-image` | `/recipe-hero-image 07-13` | Build Gemini image prompt (Create mode) |
 | `/recipe-hero-image optimize` | `/recipe-hero-image optimize all` | Convert PNG → WebP, delete originals |

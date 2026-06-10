@@ -129,7 +129,7 @@ This script:
 3. `rsync`s `dist/` to `fastcomet-passiton:~/public_html/cookbook/` via SSH  
    — with `--delete` flag (removes stale files) and protects `.webp` images
 
-⚠️ Do not run `prepare-content.py` manually before deploying if hero images have been placed directly in `site/public/images/` — it can wipe them. Check `recipes.json` (`heroImageOptimized`) before running the pipeline.
+⚠️ Do not run `prepare-content.py` manually before deploying if hero images have been placed directly in `site/public/images/` — it can wipe them. Check `The Manual/recipes.json` (`heroImageOptimized`) before running the pipeline.
 
 ## SSH / Remote
 

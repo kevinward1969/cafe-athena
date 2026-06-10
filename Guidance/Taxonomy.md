@@ -6,7 +6,7 @@
 This is the single source of truth for all indexing field values used across:
 
 - Folio `## Category` sections (manuscript)
-- `recipes.json` entries (registry)
+- `The Manual/recipes.json` entries (registry)
 - Astro built files (site pipeline)
 - Agent instructions (Chef agent, Claude Code)
 
