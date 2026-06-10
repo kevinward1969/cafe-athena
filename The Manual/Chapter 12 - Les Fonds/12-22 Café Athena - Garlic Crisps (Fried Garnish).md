@@ -30,8 +30,7 @@ Garlic crisps live in the high-risk, high-reward register of garnish work: slice
 - Slice on a mandoline at 1 mm (the thinnest consistent setting on most home mandolines): uniform thickness is the single largest variable in even frying. Hand-slicing is not a substitute — even a few thick slices will burn before the rest are done.
 - Set a wire rack over a paper towel–lined sheet tray to receive the finished crisps.
 - Prepare a slotted spoon or spider for retrieval.
-- Pour 280 g (1 ¼ cups) neutral oil (grapeseed or sunflower) into a small, high-sided saucepan — a narrow vessel maintains temperature more consistently with small batches than a wide pan.
-- Clip a probe thermometer to the pan and bring the oil to 140°C/285°F before the first slice goes in.
+- Pour 280 g (1¼ cups) neutral oil (grapeseed or sunflower) into a small, high-sided saucepan — a narrow vessel maintains temperature more consistently with small batches than a wide pan. Clip a probe thermometer to the side.
 
 ---
 
@@ -51,7 +50,7 @@ Spread the drained slices in a single layer on a clean kitchen towel or paper to
 
 **Phase 3 — Fry**
 
-With the oil holding steady at 140°C/285°F, lower the garlic slices into the oil in a single uncrowded layer — work in batches. The oil will bubble gently. You are watching for color and listening for sound.
+Heat the oil to 140°C/285°F over medium heat. Once at temperature, lower the garlic slices into the oil in a single uncrowded layer — work in batches. The oil will bubble gently. You are watching for color and listening for sound.
 
 *Sensory Cues:*
 

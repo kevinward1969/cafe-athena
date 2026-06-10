@@ -34,8 +34,8 @@ This signature method transforms the humble pork shoulder steak into a premium e
 **The Fuel**
 
 * Chunk Hardwood Charcoal
-* 5 Hickory Wood Chunks (rough cut, ~4-6 inches)
-* 5 Apple Wood Chunks (rough cut, ~4-6 inches)
+* 5 Hickory Wood Chunks (rough cut, ~4–6 inches)
+* 5 Apple Wood Chunks (rough cut, ~4–6 inches)
 
 ## Mise en Place (Action Checklist)
 

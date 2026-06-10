@@ -65,13 +65,11 @@ The dolma is one of the oldest prepared foods in the Mediterranean world, and th
 
 **Leaf Preparation (Fresh — Primary Method):**
 
-- Bring a large pot of water to a boil. Have an ice bath ready.
-- Working in batches of 6–8, blanch fresh grape leaves for 30–45 seconds — just until they turn from bright to olive green and become pliable. Do not exceed 60 seconds.
-- Transfer immediately to the ice bath. Pat completely dry before rolling. Trim any thick stems flush with the leaf base with scissors.
+- Have an ice bath ready.
+- Trim any thick stems flush with the leaf base with scissors.
 
 **Filling Prep (All Variants):**
 
-- Toast the pine nuts in a dry skillet over medium heat, stirring constantly, until golden. Set aside to cool.
 - Soak the rice in cold water for 20 minutes, then drain and rinse until the water runs clear.
 - Dice all aromatics (onion, shallot) to a fine, uniform brunoise.
 - Zest and juice the lemons. Keep separate.
@@ -79,17 +77,25 @@ The dolma is one of the oldest prepared foods in the Mediterranean world, and th
 
 ## Method
 
+### Phase 0 — Prepare Fresh Grape Leaves (if using fresh)
+
+Bring a large pot of salted water to a boil. Have an ice bath ready. Working in batches of 6–8, blanch fresh grape leaves for 30–45 seconds — just until they turn from bright to olive green and become pliable. Do not exceed 60 seconds. Transfer immediately to the ice bath. Pat completely dry before rolling.
+
+> **If using jarred leaves:** Rinse thoroughly, soak in cold water for 15 minutes, and pat completely dry. Proceed directly to Phase 1.
+
 ### Phase 1 — Build the Turkish Filling
 
-1. **Sweat the Aromatics:** Heat 40 ml of the olive oil in a wide skillet over medium heat. Add the onion and shallots with a pinch of salt. Cook, stirring occasionally, for 10–12 minutes until completely soft and translucent — no color. The onion must be fully cooked before the rice goes in; raw onion will never fully soften inside the roll.
+1. **Toast the Pine Nuts:** In a dry skillet over medium heat, toast the pine nuts, stirring constantly, until golden, about 2–3 minutes. Set aside to cool.
 
-2. **Toast the Spices:** Add the allspice, cinnamon, cumin, black pepper, and dried mint directly to the onion. Stir constantly for 60 seconds until fragrant. You are blooming the spices in the residual fat.
+2. **Sweat the Aromatics:** Heat 40 ml of the olive oil in a wide skillet over medium heat. Add the onion and shallots with a pinch of salt. Cook, stirring occasionally, for 10–12 minutes until completely soft and translucent — no color. The onion must be fully cooked before the rice goes in; raw onion will never fully soften inside the roll.
 
-3. **Build the Filling:** Add the drained rice, currants, toasted pine nuts, lemon zest, and lemon juice. Stir to combine thoroughly. Season, taste, and adjust salt — the filling should be assertively seasoned at this stage, as the rice will absorb and mellow flavor during the braise.
+3. **Toast the Spices:** Add the allspice, cinnamon, cumin, black pepper, and dried mint directly to the onion. Stir constantly for 60 seconds until fragrant. You are blooming the spices in the residual fat.
+
+4. **Build the Filling:** Add the drained rice, currants, toasted pine nuts, lemon zest, and lemon juice. Stir to combine thoroughly. Season, taste, and adjust salt — the filling should be assertively seasoned at this stage, as the rice will absorb and mellow flavor during the braise.
 
    **Sensory Cue:** The mixture should smell complex — warm spice, citrus, and toasted nut simultaneously. If it smells flat, add a pinch more allspice.
 
-4. **Cool:** Spread the filling on a sheet tray and cool to room temperature before rolling. Hot filling will steam the leaves from the inside during assembly and make them difficult to handle.
+5. **Cool:** Spread the filling on a sheet tray and cool to room temperature before rolling. Hot filling will steam the leaves from the inside during assembly and make them difficult to handle.
 
 ### Phase 2 — Roll
 

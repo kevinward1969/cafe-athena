@@ -37,7 +37,6 @@ This dish bridges the gap between a bright *arrabbiata* and a rich vodka sauce. 
 ## Mise en Place
 
 * **Prep the oven:** Set the rack to the top position and switch to Broil (High). Have a heat-proof bowl and plastic wrap ready for steaming the peppers after they come out.
-* **Boil water:** Bring a large pot of water to a boil and season heavily with salt.
 * **Prep the aromatics:** Slice onions and garlic; seed the chilis.
 * **Chill the fat:** Ensure the finishing butter is cubed and kept cold in the fridge until the very last moment.
 
@@ -49,7 +48,7 @@ This dish bridges the gap between a bright *arrabbiata* and a rich vodka sauce. 
 
 **Phase 3: The Emulsion** **Simmer:** Pour in the heavy cream. Reduce heat to medium-low and simmer for **5 minutes**, or until the cream has thickened slightly and coats the back of a spoon (*nappe*). **Blend:** Transfer the mixture to a blender. **Safety Check:** Remove the center cap of the blender lid and cover the opening with a folded kitchen towel to allow steam to escape. **Puree:** Blend on high until completely smooth and orange. Return the sauce to the pan on low heat.
 
-**Phase 4: The Cook** **Boil:** Drop the Cavatappi into the boiling salted water. **Time:** Cook the pasta for **1 to 2 minutes less** than the package instructions. **Reserve:** Before draining, reserve 240 ml (1 cup) of starchy pasta water.
+**Phase 4: The Cook** **Boil:** Bring a large pot of water to a boil and season heavily with salt. Drop the Cavatappi into the boiling water. **Time:** Cook the pasta for **1 to 2 minutes less** than the package instructions. **Reserve:** Before draining, reserve 240 ml (1 cup) of starchy pasta water.
 
 **Phase 5: The Mantecatura** **Marry:** Transfer the *al dente* pasta directly into the pan with the warm sauce. Add 60 ml (¼ cup) of pasta water. Increase heat to medium-high. **Agitate:** Toss the pasta vigorously in the sauce for 1–2 minutes. The sauce should glossy and cling to the noodles. **Mount:** Remove the pan from the heat. Immediately stir in the **cold butter** and the grated Pecorino Romano. Toss constantly until melted and emulsified. **Why:** Adding fat *off the heat* prevents the emulsion from breaking (splitting into oil and solids). **Serve:** Plate immediately, garnishing with extra Pecorino.
 

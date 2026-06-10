@@ -38,7 +38,6 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 
 ## Mise en Place (Action Checklist)
 
-- **Boil the Water:** Bring a kettle of water to a boil.
 - **Chop the Herbs:** Finely slice the scallions and chop the parsley; keep them separate.
 - **Measure the Spice:** Have the Red Hot Ripplets seasoning ready by the stove.
 - **Prepare the Bowl:** Place the dry bulgur in a large heat-proof mixing bowl.
@@ -51,7 +50,7 @@ This recipe fuses the mechanics of a traditional Turkish *Kisir* with the flavor
 
 > **Why:** Adding the seasoning *off the heat* prevents the sugar in the BBQ rub from burning, while the residual heat releases the fat-soluble chili oils (capsaicin).
 
-**Phase 2: The Hydration** Pour the hot oil-paste mixture directly over the dry bulgur in the mixing bowl. Use a fork to stir vigorously until every grain is coated in red oil. Pour the **boiling water** over the mixture. Stir once to distribute. Cover the bowl tightly with plastic wrap or a lid. Let sit undisturbed for **15 minutes**.
+**Phase 2: The Hydration** Bring a kettle of water to a boil. Pour the hot oil-paste mixture directly over the dry bulgur in the mixing bowl. Use a fork to stir vigorously until every grain is coated in red oil. Pour the **boiling water** over the mixture. Stir once to distribute. Cover the bowl tightly with plastic wrap or a lid. Let sit undisturbed for **15 minutes**.
 
 > **Why:** The grain swells and absorbs the spicy tomato water, locking the flavor inside the kernel rather than just coating the outside.
 

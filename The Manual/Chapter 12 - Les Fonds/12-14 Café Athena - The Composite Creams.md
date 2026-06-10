@@ -31,7 +31,7 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 
 * **Temper the Base:** Remove the Crème Pâtissière (12-11) from the fridge and whisk it vigorously until it returns to a smooth, creamy "nappé" state.
 * **Prepare the Aerator:** Ensure your Crème Chantilly (12-13) or Meringue (12-12) is whipped to the correct peak stage specified below.
-* **Check the Glue:** If the recipe requires gelatin (Chiboust), ensure it is melted and ready to be tempered into the warm custard.
+* **Check the Glue:** If the recipe requires gelatin (Chiboust), bloom the gelatin sheets in cold water; squeeze dry and hold. Melt into the warm custard during Phase 3 assembly.
 
 ## Method
 

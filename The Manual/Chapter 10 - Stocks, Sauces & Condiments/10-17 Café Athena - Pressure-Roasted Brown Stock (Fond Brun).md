@@ -38,7 +38,7 @@ While traditional brown stock requires 8–12 hours of simmering to extract gela
 
 ## Mise en Place (Action Checklist)
 
-- **Roast the Bones:** Preheat oven to 450°F (230°C). Arrange bones in a single layer on a sheet pan.
+- **Prep the Bones:** Preheat oven to 450°F/230°C. Arrange bones in a single layer on a sheet pan.
 - **Prep the Veg:** Wash and rough chop the mirepoix (onions, carrots, celery).
 - **Ready the Pot:** Ensure your pressure cooker (minimum 6–8 quart) is clean and the seal is intact.
 - **Warm the Liquid:** Have the wine ready for deglazing and cold water accessible for filling.

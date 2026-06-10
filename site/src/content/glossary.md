@@ -45,6 +45,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Ball-Roll-Turn: A hand-kneading method where the dough is pushed forward with the heel of the hand, rolled back into a ball, and rotated 90° before the next push — building even gluten development in all directions.
 - Bar Keepers Friend: A cleaning agent containing oxalic acid used to chemically remove stains and buildup from stainless steel cookware.
 - Baste: The act of spooning a liquid (in this case, melted butter) over a food during cooking to moisten and flavor it.
+- Beurre blanc: "White butter." A warm emulsified butter sauce built from a reduction of white wine, white wine vinegar, and shallot into which cold butter is incorporated piece by piece, creating a glossy, stable emulsion through the gradual release of butterfat. Temperature-sensitive — above 180°F (82°C) the emulsion breaks. A classical French sauce in the beurre monté family. See 10-06.
 - Beurre Noir: "Black butter." Butter cooked beyond noisette to a very dark brown; used in specific classical preparations (skate meunière) but easily becomes acrid and unusable.
 - Beurre Noisette: "Hazelnut butter." Butter cooked until the water evaporates and the milk solids toast to a golden-brown, producing nutty, caramelized flavor. See 10-22.
 - Bevel: In knife work, a chamfered or angled cut that creates a smooth transition between two surfaces, tapering from a thicker body to a thinner edge or tip.
@@ -122,6 +123,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Couche: A heavy linen cloth used to support dough shapes (like baguettes) during proofing.
 - Court-Bouillon: A flavorful broth, traditionally made with white wine, vegetables (onion, carrot, celery), and herbs, used to braise or poach delicate proteins.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
+- Craggly batter: A frying batter deliberately seeded with hydrated flour clumps before use. The clumps create irregular surface texture that fries at a different rate than the surrounding thin batter layer, producing a shaggy, heterogeneous crust that shatters unevenly.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
 - Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.
@@ -362,6 +364,7 @@ No glossary terms yet.
 ## P
 
 - Paddle attachment: The flat, leaf-shaped stand mixer attachment used for creaming, beating dense batters, and mixing — as opposed to the whisk (aeration) or dough hook (kneading).
+- Paillard: A thin cutlet of meat — typically chicken breast or veal — produced by slicing the protein horizontally and then pounding each piece to an even thickness of approximately 6 mm (¼ inch). The paillard technique ensures uniform cooking across the entire surface, preventing the thin tail of the protein from overcooking before the thick lobe reaches temperature.
 - Panade: A mixture of starch (flour) and liquid (milk/water/butter) cooked to a thick paste. It forms the structural base of choux pastry or forcemeats.
 - Pané: The three-stage coating process of flour → egg wash → breadcrumb applied to a product before frying; from the French paner, "to bread." Also used as an adjective: "a panéed cutlet."
 - Pangrattato: Italian "grated bread." Breadcrumbs toasted in olive oil or butter until golden and crisp, used as a textural garnish in place of or alongside cheese.
@@ -400,6 +403,7 @@ No glossary terms yet.
 - Poultry: Refers to domesticated birds, primarily chickens, used as a source of meat and eggs.
 - Pyrazines: A class of nitrogen-containing aromatic compounds produced during the Maillard reaction. Responsible for roasted, nutty, and earthy flavor notes in toasted nuts, coffee, and cooked grains. Generated in sesame seeds during dry toasting.
 - Preferments: Fermented doughs (such as poolish, biga, or sponge) incorporated into a recipe to enhance flavor, improve dough handling, and increase shelf life through enzymatic activity.
+- Pre-render: A low-temperature oven step applied to a protein before coating or frying. Melts subcutaneous fat from the skin, producing a drier surface for better batter adhesion and ensuring the interior reaches a safe temperature before the fry begins.
 - Proprioception: The body's ability to sense its position and movement in space, crucial for efficient and instinctive task execution, particularly in a practiced environment.
 - Prosciutto di Parma: An Italian dry-cured ham aged a minimum of 400 days under DOP certification in the Parma region. In composed preparations, used as a moisture barrier and seasoning layer between fillings and pastry.
 - Protein Migration: The movement of protein molecules within a mixture, often driven by temperature gradients and air bubble formation during baking.
@@ -494,6 +498,7 @@ No glossary terms yet.
 - Spherification (Direct): A molecular gastronomy technique using sodium alginate and calcium chloride to encapsulate a liquid inside a gel membrane.
 - Spider Skimmer: A wide, shallow wire-mesh tool used to lift pasta, blanched vegetables, or fried items from liquid without a colander.
 - Stainless Steel Bowls: Lightweight and highly conductive, stainless steel bowls are preferred for temperature-sensitive mixing and preparation tasks.
+- Standard breading procedure: A three-stage coating system applied to a protein or vegetable before frying: (1) flour — dries the surface and provides traction for the egg; (2) egg wash — bonds the crumb layer to the surface; (3) breadcrumb (typically panko) — fries to a crisp exterior. The sequence is non-negotiable; skipping or reversing stages produces a coating that sheds in the pan or becomes soggy.
 - Standardized Storage: Utilizing uniform containers and labeling systems for efficient inventory management.
 - Starch Dextrinization: The controlled conversion of starch granules into pyrodextrins through heat, resulting in a firm, flavorful, and non-sticky texture.
 - Starch Gelatinization: The process by which starch granules absorb water and swell under heat, eventually bursting and fusing into a rigid, porous matrix. In frying, this gelatinized network produces the brittle, shatteringly crisp crust characteristic of a high-starch batter.
@@ -502,6 +507,7 @@ No glossary terms yet.
 - Strengthen: The ability of a sourdough starter to maintain its volume and structure during fermentation, often linked to the activity of yeast and bacteria.
 - Stretch and Fold: A technique used to develop gluten strength in dough without excessive kneading.
 - Strict Hierarchy of Prep: A sequential workflow prioritizing the preparation of foods with the highest risk of bacterial contamination, minimizing the potential for cross-contamination.
+- Subcutaneous fat: Fat stored directly beneath the skin of poultry or other protein. Requires sustained low heat to render fully — subcutaneous fat does not liquefy at frying temperatures alone.
 - Substrate: The environment or medium in which microorganisms, such as bacteria and yeast, thrive and reproduce.
 - Sumac: A coarse-ground dried berry from Rhus coriaria, used throughout Middle Eastern and Mediterranean cooking as a souring agent. Its primary acid contributor is malic acid; it also contains anthocyanins responsible for its deep burgundy color. Delivers a tart, fruity brightness distinct from citrus or vinegar. pH-active; brightens and lifts perceived flavor in blended applications.
 - Supreme: A culinary technique to remove the skin, pith, membranes, and seeds of a citrus fruit, leaving only the soft flesh segments.

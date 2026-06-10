@@ -35,14 +35,19 @@ Roasted sweet potato replaces a portion of the fat and sugar load here, contribu
 
 ## Mise en Place
 
-- **Roast and dry the sweet potato:** Roast until completely tender, scoop flesh, and spread mash on a parchment-lined sheet pan. Dry in a 300°F/150°C oven for 10–15 min until paste-like and no longer steaming. Weigh 200 g after drying.
-- **Brown the butter:** Cook butter over medium heat until milk solids are golden and the aroma is nutty. Pour into a heat-proof bowl immediately and allow to cool to room temperature.
-- **Prepare caramel if using:** Make 12-23 Brown Butter Caramel variant to soft ball stage (235–240°F/113–115°C). Cool to 75–80°F/24–27°C before use. Transfer to a piping bag or squeeze bottle.
 - **Temper the eggs and yogurt:** Bring to room temperature (70°F/21°C).
 - **Prepare pan:** Grease an 8×8 or 9×13 pan and line with parchment, leaving an overhang on two sides for lifting.
 - **Preheat oven:** 325°F/163°C.
 
 ## Method
+
+**Stage 0 — Prepare the Foundations** *(at least 1 hour ahead)*
+
+1. **Roast and dry the sweet potato:** Preheat oven to 300°F/150°C. Pierce the sweet potato and roast until completely tender, about 45–60 minutes. Scoop the flesh and spread the mash on a parchment-lined sheet pan. Return to the 300°F/150°C oven for 10–15 min until the purée is paste-like and no longer steaming. Weigh 200 g after drying. Cool completely.
+
+2. **Brown the butter:** In a light-colored saucepan, cook the butter over medium heat, stirring occasionally, until the milk solids are golden and the aroma is nutty (beurre noisette). Pour into a heat-proof bowl immediately and allow to cool to room temperature before using.
+
+3. **Prepare caramel if using:** Make the 12-23 Brown Butter Caramel variant to soft ball stage (235–240°F/113–115°C). Cool to 75–80°F/24–27°C before use. Transfer to a piping bag or squeeze bottle.
 
 **Stage 1 — Build the Wet Base**
 

@@ -122,7 +122,7 @@ Each variant below is a standalone formula. Ratios are given to coat approximate
 
 Shared prep across all variants. Variant-specific primer rest times are listed in the Method.
 
-- **Heat the oil:** Fill a heavy-bottomed pot or Dutch oven no more than halfway with your chosen frying oil. Clip a probe thermometer to the side, submerged but not touching the bottom. Bring to the target temperature specified by your variant.
+- **Set up the frying vessel:** Fill a heavy-bottomed pot or Dutch oven no more than halfway with your chosen frying oil. Clip a probe thermometer to the side, submerged but not touching the bottom.
 - **Set a landing zone:** Place a wire rack over a sheet pan beside the stove. Do not use paper towels as the primary landing surface — they trap steam and soften the crust. Paper is a blotting tool for a final 10-second dab only.
 - **Coating stations:** For each variant, set a wide shallow bowl or hotel pan for the dry coat. If the variant uses a wet primer, set a second vessel for the primer. Keep the two stations six inches apart to prevent cross-contamination (wet fingers into dry coat = clumps).
 - **Weigh the dry coat:** Scale the dredge or dusting ingredients rather than volume-measuring. Even 5 g of salt variance is detectable on a fried crust.
@@ -176,7 +176,7 @@ Whisk the coating ingredients thoroughly in a wide shallow vessel — clumps of 
 
 **Phase 3: Fry.**
 
-Verify oil temperature at the target from the Temperature Reference Table. Lower the product into the oil gently, away from your body — use tongs or a spider, never drop from a height. The oil will crash; do not attempt to compensate by raising the burner. A hotter burner will not recover the oil faster than the oil's own thermal inertia allows, and you will scorch the crust once the bath stabilizes.
+Heat the oil to the target temperature for your variant (see Temperature Reference Table above). Verify temperature with the probe thermometer before adding any product. Lower the product into the oil gently, away from your body — use tongs or a spider, never drop from a height. The oil will crash; do not attempt to compensate by raising the burner. A hotter burner will not recover the oil faster than the oil's own thermal inertia allows, and you will scorch the crust once the bath stabilizes.
 
 Fry for the duration specified, turning once at the halfway mark for full-submersion frying or every 45–60 seconds for shallow frying. Verify doneness by both color and internal temperature:
 

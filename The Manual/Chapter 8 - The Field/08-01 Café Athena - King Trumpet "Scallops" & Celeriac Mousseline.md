@@ -50,7 +50,6 @@ This dish treats a humble fungus with the same respect usually reserved for seaf
 - **Trim** the King Trumpet stems into uniform 1.5-inch (4 cm) "medallions." Save caps for stock.
 - **Score** the top and bottom of each medallion in a tight cross-hatch pattern (do not cut all the way through).
 - **Peel and dice** the celeriac (celery root) into uniform 1-inch cubes.
-- **Toast** the hazelnuts in a dry pan until fragrant, then roughly chop.
 - **Mince** the chives and shallot.
 - **Cube** the cold butter for the mousseline and keep it chilled.
 
@@ -72,7 +71,7 @@ Strain the celeriac, discarding the thyme and garlic, but **reserve** the cookin
 
 > **Why:** Basting cooks the center of the dense mushroom gently while infusing the porous structure with the aromatics. Remove mushrooms to a plate lined with paper towel.
 
-**Phase 4: Finish the Vinaigrette.** Wipe out the skillet (or use a small saucepan). Add the 60g butter and heat over medium until the milk solids turn golden brown and smell nutty (beurre noisette). Immediately remove from heat. Stir in the minced shallot, toasted hazelnuts, and Sherry vinegar to stop the cooking.
+**Phase 4: Finish the Vinaigrette.** Wipe out the skillet (or use a small saucepan). Add the 60g butter and heat over medium until the milk solids turn golden brown and smell nutty (beurre noisette). Immediately remove from heat. While the butter colors, toast the hazelnuts in a separate small dry pan over medium heat until fragrant, 2–3 minutes; roughly chop. Stir the minced shallot, toasted hazelnuts, and Sherry vinegar into the brown butter to stop the cooking.
 
 > **Sensory Cue:** The vinegar will sputter aggressively; this steam helps mellow the raw onion flavor of the shallot. Stir in the chives last.
 
