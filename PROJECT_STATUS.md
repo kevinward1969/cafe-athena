@@ -32,4 +32,4 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
-| Attach reference images to Gemini Gem 2 (Visual Director) | Attach 5 recipe heroes + 2 banner/section references in Gemini UI. Paste updated `CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` v2.1. | Kevin action | 2026-06-09 |
+| *(none)* | — | — | — |
