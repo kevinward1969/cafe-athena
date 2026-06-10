@@ -81,4 +81,6 @@ Ideas for Part IV (Planning, Plating, Service) or other editorial content — es
 
 Improvements to the site, agents, scripts, or workflows that aren't urgent.
 
-- **Food Critic / Food Writer Agent** — new Claude Code agent for creative and marketing copy: editorial, journalistic, blog posts, social media. Separate surface from the Chef agent. *(2026-04-22)*
+- **~~Food Critic / Food Writer Agent~~** — ✅ Superseded by the Café Athena Brand & Marketing Manager agent (built 2026-06-10). Brand, copy, social, and editorial work now lives there.
+
+- **Café Athena Site Developer Agent** — dedicated Claude Code agent for all technical work: Astro site development, pipeline scripts, deploys, image optimization, and agent/skill/command development and management. Split out from the Chef agent, which currently contains an OUT-OF-SCOPE REDIRECT for this work. The Chef stays culinary-only; the Developer owns everything under the hood. Natural base: the existing `cafe-athena-site-dev` skill. When built, remove site/deploy references from the Chef agent prompt and update the propagation rules in `CLAUDE.md`. *(2026-06-10)*
