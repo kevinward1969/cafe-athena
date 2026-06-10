@@ -25,16 +25,36 @@ cafe-athena/
 ├── README.md
 ├── CLAUDE.md                       # Project instructions for Claude Code
 ├── PROJECT_STATUS.md               # Active development tracker
-├── IDEAS.md                        # Backlog of deferred ideas
-├── AGENT_CHANGELOG.md              # Version history for all four agent surfaces
-├── MULTI_AGENT_ARCHITECTURE.md     # Multi-agent system map and roadmap
-├── GITHUB_SETUP.md                 # GitHub configuration notes
-├── recipes.json                    # Pipeline registry — single source of truth for per-recipe state
 ├── .markdownlint.json              # Shared markdownlint config
 │
+├── Brand/                          # Brand identity — persona, voice, creative standards
+│   ├── BRAND_STATUS.md             # Brand work tracker
+│   ├── BRAND_GUIDELINES.md         # Typography, color, voice, tone
+│   ├── Author/                     # Author bio versions (short, long, social)
+│   ├── Personas/                   # Audience and customer identities
+│   └── Creative/                   # Logo guidance, visual asset standards
+│
+├── Marketing/                      # Marketing execution — channels, copy, SEO
+│   ├── MARKETING_STATUS.md         # Marketing work tracker
+│   ├── Social/                     # Channel setup, post templates
+│   ├── Site-Copy/                  # Hero, CTA, footer copy drafts
+│   └── About/                      # About page content
+│
+├── Agents/                         # AI surface configurations
+│   ├── AGENT_CHANGELOG.md          # Version history for all agent surfaces
+│   ├── MULTI_AGENT_ARCHITECTURE.md # Multi-agent system map and roadmap
+│   ├── Claude-Desktop/             # Claude Desktop project instructions
+│   └── Gemini-Gems/                # Gemini Gem configuration files
+│       ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md
+│       └── CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md
+│
 ├── The Manual/                     # Cookbook manuscript (local only)
+│   ├── MANUAL_STATUS.md            # Manuscript pipeline tracker
+│   ├── recipes.json                # Pipeline registry — single source of truth
+│   ├── CONTENT_PLAN.md             # Chapter content gap analysis
+│   ├── IDEAS.md                    # Backlog of deferred ideas
 │   ├── Cafe-Athena-The-Manual-Current-Version.md
-│   ├── Glossary/                    # Split glossary (one file per letter, A–Z + 0-9)
+│   ├── Glossary/                   # Split glossary (one file per letter, A–Z + 0-9)
 │   ├── Chapter 1 - The Lab/
 │   ├── Chapter 2 - The Foundation/
 │   ├── Chapter 3 - Garde Manger/
@@ -50,7 +70,7 @@ cafe-athena/
 │
 ├── site/                           # Astro website (public cookbook)
 │   ├── src/
-│   │   ├── content/recipes/        # Compiled recipe content (142 entries)
+│   │   ├── content/recipes/        # Compiled recipe content
 │   │   ├── layouts/                # BaseLayout, RecipeLayout, SectionLayout
 │   │   ├── pages/                  # index, academy, brigade, glossary, larder, search
 │   │   ├── plugins/                # remark-ref-images.mjs
@@ -61,47 +81,26 @@ cafe-athena/
 │
 ├── Guidance/                       # Standards and workflow definitions
 │   ├── Recipe-Format-Standard.md   # ⭐ Master formatting document
+│   ├── Taxonomy.md                 # Controlled vocabulary for all recipe metadata
 │   ├── Recipe-Example.md
 │   ├── Technique-Folio-Example.md
 │   ├── Technique_Folio_Template_v1.md
-│   ├── Cafe-Athena-Workflow-Guide.md
-│   └── archived/
+│   └── Cafe-Athena-Workflow-Guide.md
 │
-├── Gemini-Gems/                    # Gemini Gem configuration files
-│   ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md             # Gemini Gem 1 (culinary AI — fallback surface)
-│   └── CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md  # Gemini Gem 2 (image AI — all 3 image types)
-│
-├── .claude/                        # Claude Code (Antigravity) configuration
-│   ├── agents/
-│   │   ├── Cafe Athena Chef.agent.md      # Culinary sub-agent (Modes 1–3)
-│   │   └── Markdownlint QA.agent.md       # Markdown lint pipeline sub-agent
-│   └── settings.local.json
-│
-├── .agents/                        # Claude Code slash-command workflow files
-│   └── workflows/
-│       ├── new-recipe.md
-│       ├── format-audit.md
-│       ├── glossary-pull.md
-│       ├── keyword-pull.md
-│       ├── audit-glossary.md
-│       ├── recipe-hero-image.md
-│       ├── register-recipe.md
-│       ├── sync-registry.md
-│       └── session-handoff.md
-│
-├── .github/                        # VS Code Copilot primitives (separate surface)
-│   ├── agents/                     # markdownlint-qa.agent.md
-│   └── skills/                     # cafe-athena-site-dev/SKILL.md
+├── .claude/                        # Claude Code configuration
+│   ├── agents/                     # Subagent definitions (Chef, Markdownlint QA, etc.)
+│   ├── commands/                   # Slash-command workflow definitions
+│   └── skills/                     # Project-scoped skills
 │
 ├── scripts/                        # Local Python utility scripts (Ollama-powered)
 │   ├── audit.py                    # ⭐ Recipe audit & repair tool
 │   ├── markdownlint_safe_fix.py    # Deterministic markdownlint fixer (stage 1)
 │   ├── fix_markdown_with_ollama.py # Ollama-powered markdownlint fixer (stage 2)
-│   ├── photo-style.py              # Hero image style helper
-│   ├── add-glossary-sections.py    # (superseded by audit.py)
-│   └── extract-keywords.py         # (superseded by audit.py)
+│   ├── clarity_audit.py            # Instructional clarity audit
+│   └── (other utilities)
 │
-└── Claude-Desktop/                 # Legacy Claude Desktop configuration
+├── RecipeIdeas/                    # PDF source material for recipe inspiration
+└── archived/                       # Superseded files and documentation
 ```
 
 ---
@@ -163,7 +162,7 @@ You can also optimize a full chapter or everything at once:
 /recipe-hero-image optimize all
 ```
 
-**Bypass path:** If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip optimization, update `recipes.json`, deploy, and commit without touching the chapter folder.
+**Bypass path:** If you have already optimized the image and placed the WebP directly into `site/public/images/`, tell Claude Code — it will skip optimization, update `The Manual/recipes.json`, deploy, and commit without touching the chapter folder.
 
 #### Reference Image Shortcode
 
@@ -246,7 +245,7 @@ ollama pull gemma3:4b   # optional alternative — 3.3 GB
 
 ### audit.py — Recipe Audit & Repair
 
-The primary local tool. Scans every recipe file against the format standard, identifies structural issues, generates fixes via Ollama for auto-fixable problems, and applies changes only after user approval. Results are written back to `recipes.json` under an `audit` block.
+The primary local tool. Scans every recipe file against the format standard, identifies structural issues, generates fixes via Ollama for auto-fixable problems, and applies changes only after user approval. Results are written back to `The Manual/recipes.json` under an `audit` block.
 
 ```bash
 # Audit all recipes (scan only — no changes)
@@ -296,9 +295,9 @@ python3 scripts/audit.py --auto-approve
 | Unbolded `Phase N:` in Method | Regex | No — flagged for manual correction |
 | Heat step in Mise en Place | LLM (`--deep`) | No — flagged for manual correction |
 
-**Approval flow:** For each recipe with auto-fixable issues, `audit.py` calls Ollama, displays the proposed content, and asks `[y/n/edit]` before writing anything. Approved fixes are applied to the source file in `The Manual/` and the `audit` field in `recipes.json` is updated.
+**Approval flow:** For each recipe with auto-fixable issues, `audit.py` calls Ollama, displays the proposed content, and asks `[y/n/edit]` before writing anything. Approved fixes are applied to the source file in `The Manual/` and the `audit` field in `The Manual/recipes.json` is updated.
 
-**recipes.json `audit` block:**
+**`The Manual/recipes.json` — `audit` block:**
 
 ```json
 "audit": {
@@ -377,11 +376,11 @@ Slash commands for common tasks — type directly in the Antigravity chat (Claud
 | `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in the main glossary |
 | `/keyword-pull` | `/keyword-pull 04-15` | Extract keywords for site metadata |
 | `/recipe-hero-image` | `/recipe-hero-image 04-15` | Generate a hero image brief for a recipe |
-| `/register-recipe` | `/register-recipe 12-20` | Register a new entry in `recipes.json` after Claude Desktop Mode 2 |
-| `/sync-registry` | `/sync-registry` | Sync `recipes.json` against the live Manual directory |
+| `/register-recipe` | `/register-recipe 12-20` | Register a new entry in `The Manual/recipes.json` after Claude Desktop Mode 2 |
+| `/sync-registry` | `/sync-registry` | Sync `The Manual/recipes.json` against the live Manual directory |
 | `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md and commit all session changes |
 
-Workflow definitions live in `.agents/workflows/`.
+Workflow definitions live in `.claude/commands/`.
 
 ---
 
@@ -466,10 +465,10 @@ python scripts/prepare-content.py
 | `The Manual/Glossary/` | Split culinary glossary — one file per letter (A–Z + 0-9) |
 | `CLAUDE.md` | Project instructions and operational heuristics for Claude Code |
 | `PROJECT_STATUS.md` | Active work, pending items, strategic context |
-| `IDEAS.md` | Deferred backlog of recipe, folio, and editorial ideas |
-| `AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
-| `MULTI_AGENT_ARCHITECTURE.md` | Full multi-agent system map, evaluation, and improvement roadmap |
-| `recipes.json` | Pipeline registry — single source of truth for per-recipe state |
+| `The Manual/IDEAS.md` | Deferred backlog of recipe, folio, and editorial ideas |
+| `Agents/AGENT_CHANGELOG.md` | Version history for all four agent surfaces |
+| `Agents/MULTI_AGENT_ARCHITECTURE.md` | Full multi-agent system map, evaluation, and improvement roadmap |
+| `The Manual/recipes.json` | Pipeline registry — single source of truth for per-recipe state |
 
 ---
 

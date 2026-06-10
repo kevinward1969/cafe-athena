@@ -18,6 +18,11 @@ _No active tasks yet. Pending BRAND_GUIDELINES.md completion._
 - [ ] Enrich footer — social links, privacy policy
 - [ ] Add social proof once channels are live
 
+## Social Media
+
+- [ ] Channel setup — pending BRAND_GUIDELINES.md completion (see `Marketing/Social/channels.md`)
+- [ ] Post templates — per platform, derived from brand voice
+
 ## Deferred
 
 - Social proof ("trusted by X home cooks") — needs audience first

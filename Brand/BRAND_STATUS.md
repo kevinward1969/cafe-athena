@@ -12,9 +12,14 @@
 ## Open Items
 
 - [ ] Author bio — all three versions (short, long, social)
-- [ ] Social channel setup — pending BRAND_GUIDELINES.md completion
+- [ ] Audience personas — who Café Athena is for
+- [ ] Creative guidance — logo rules, visual asset standards
 - [ ] Visual asset inventory — hero images, banners, section landing pages
 
 ## Deferred
 
 - Newsletter capture — revisit after social channels are live and audience exists
+
+---
+
+> Social media channels and templates live in `Marketing/Social/` — execution of brand decisions, not brand definitions.
