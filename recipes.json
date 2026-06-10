@@ -39,7 +39,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -80,7 +80,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -121,7 +121,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -162,7 +162,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -203,7 +203,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -244,7 +244,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -285,7 +285,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -326,7 +326,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -367,7 +367,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -408,7 +408,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -449,7 +449,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -490,7 +490,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -531,7 +531,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -573,7 +573,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -615,7 +615,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -656,7 +656,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -697,7 +697,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -738,7 +738,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -779,7 +779,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -825,7 +825,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -867,7 +867,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -909,7 +909,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -948,7 +948,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -991,7 +991,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1032,7 +1032,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1073,7 +1073,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1114,7 +1114,7 @@
         "referenceImages": true,
         "referenceImagesProcessed": true,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1155,7 +1155,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1196,7 +1196,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1237,7 +1237,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -1278,7 +1278,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1319,7 +1319,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": "03-02.webp",
       "heroImageOptimized": true,
@@ -1366,7 +1366,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1407,7 +1407,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1531,7 +1531,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1696,7 +1696,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1739,7 +1739,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1867,7 +1867,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1909,7 +1909,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1951,7 +1951,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -1994,7 +1994,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2035,7 +2035,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2077,7 +2077,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2119,7 +2119,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2243,7 +2243,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -2287,7 +2287,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -2420,7 +2420,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": true,
       "heroImageOptimized": true,
@@ -2470,7 +2470,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2511,7 +2511,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2552,7 +2552,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": false,
       "heroImageOptimized": false,
@@ -2599,7 +2599,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2645,7 +2645,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2690,7 +2690,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2738,7 +2738,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2870,7 +2870,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -2940,7 +2940,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3104,7 +3104,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3145,7 +3145,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3309,7 +3309,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3350,7 +3350,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3443,7 +3443,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3489,7 +3489,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3532,7 +3532,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-04-22",
@@ -3619,7 +3619,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3662,7 +3662,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3730,7 +3730,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3797,7 +3797,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3883,7 +3883,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -3924,7 +3924,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4007,7 +4007,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4052,7 +4052,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4098,7 +4098,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4140,7 +4140,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4204,7 +4204,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4249,7 +4249,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4295,7 +4295,7 @@
         "referenceImages": true,
         "referenceImagesProcessed": true,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4340,7 +4340,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4407,7 +4407,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4494,7 +4494,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4582,7 +4582,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4629,7 +4629,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4673,7 +4673,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4737,7 +4737,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4785,7 +4785,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4832,7 +4832,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4878,7 +4878,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4949,7 +4949,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -4997,7 +4997,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5043,7 +5043,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5174,7 +5174,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5217,7 +5217,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5261,7 +5261,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5434,7 +5434,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5475,7 +5475,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5517,7 +5517,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5601,7 +5601,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5642,7 +5642,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5689,7 +5689,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5730,7 +5730,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5771,7 +5771,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5812,7 +5812,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5853,7 +5853,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5895,7 +5895,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5936,7 +5936,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -5982,7 +5982,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6032,7 +6032,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6081,7 +6081,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6122,7 +6122,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6164,7 +6164,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6205,7 +6205,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6287,7 +6287,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6352,8 +6352,8 @@
         "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": null,
-        "deployed": false,
-        "clarityAudit": false
+        "deployed": true,
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6399,7 +6399,7 @@
         "referenceImages": true,
         "referenceImagesProcessed": true,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6445,7 +6445,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6493,7 +6493,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6538,7 +6538,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6586,7 +6586,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6612,7 +6612,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6659,7 +6659,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6708,7 +6708,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6754,7 +6754,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6844,7 +6844,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6888,7 +6888,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6930,7 +6930,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -6973,7 +6973,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7016,7 +7016,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7057,7 +7057,8 @@
         "heroImageOptimized": true,
         "referenceImages": true,
         "referenceImagesProcessed": true,
-        "clarityAudit": false
+        "clarityAudit": false,
+        "deployed": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7104,7 +7105,8 @@
         "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": false,
-        "clarityAudit": false
+        "clarityAudit": false,
+        "deployed": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7143,7 +7145,8 @@
         "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": false,
-        "clarityAudit": false
+        "clarityAudit": true,
+        "deployed": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7183,7 +7186,8 @@
         "heroImageOptimized": true,
         "referenceImages": false,
         "referenceImagesProcessed": false,
-        "clarityAudit": false
+        "clarityAudit": false,
+        "deployed": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7294,7 +7298,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7320,7 +7324,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "heroImage": false,
       "heroImageOptimized": false,
@@ -7367,7 +7371,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7413,7 +7417,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7461,7 +7465,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7507,7 +7511,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7552,7 +7556,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7597,7 +7601,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
@@ -7667,7 +7671,7 @@
         "referenceImages": false,
         "referenceImagesProcessed": null,
         "deployed": true,
-        "clarityAudit": false
+        "clarityAudit": true
       },
       "audit": {
         "lastRun": "2026-06-10",
