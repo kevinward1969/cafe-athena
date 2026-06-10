@@ -62,8 +62,9 @@ You enter through technique, cook through the brigade, build from the larder, an
 
 | Surface | Responsibilities |
 |---------|-----------------|
-| **Claude Desktop** | Recipe development (Mode 1), formatting (Mode 2), technique education (Mode 3) — all culinary creative work |
-| **Claude Code** (you) | Format audits, glossary operations, web/site development, QA, deploys, image optimization |
+| **Claude Desktop — Chef** | Recipe development (Mode 1), formatting (Mode 2), technique education (Mode 3) — all culinary creative work |
+| **Claude Desktop — Brand Manager** | Brand guidelines development, audience personas, author identity, voice/tone, marketing strategy |
+| **Claude Code** (you) | Format audits, glossary operations, web/site development, QA, deploys, image optimization, brand/marketing file execution |
 | **Gemini Gem 1** | Fallback surface for recipe development (maintained, not primary) |
 | **Gemini Gem 2** | Hero image and web image generation only |
 
@@ -82,6 +83,10 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `Agents/AGENT_CHANGELOG.md` | Version history for all agent surfaces |
 | `Agents/MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
+| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Canonical master** for the brand and marketing agent system prompt |
+| `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
+| `Brand/BRAND_STATUS.md` | Active brand work tracker |
+| `Marketing/MARKETING_STATUS.md` | Active marketing work tracker |
 | `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |
@@ -99,7 +104,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 2. Add an entry to `Agents/AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Cafe Athena Brand Manager.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
 
 ---
 
@@ -110,10 +115,12 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `Agents/Claude-Desk
 | File Changed | Action Required |
 |-------------|----------------------|
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Agents/Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
+| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `BRAND_MANAGER_INSTRUCTIONS.md` content into Claude Desktop brand project settings. |
 | `Guidance/Recipe-Format-Standard.md` | No action needed — Claude Desktop reads this file live from the filesystem via MCP |
 | `.claude/commands/*.md` | No action needed — workflows run in Claude Code only |
 | `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
-| `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop project settings |
+| `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop Chef project settings |
+| `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop Brand Manager project settings |
 
 After propagating changes, bump the version number in the modified file and add an entry to `Agents/AGENT_CHANGELOG.md`.
 

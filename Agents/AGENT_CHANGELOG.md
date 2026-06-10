@@ -1,6 +1,6 @@
 # AGENT CHANGELOG
 
-Tracks version history for all Café Athena AI agent surfaces. The canonical master for the culinary agent system prompt is `.claude/agents/Cafe Athena Chef.agent.md`. Update the master first; then port changes to secondary surfaces.
+Tracks version history for all Café Athena AI agent surfaces. Update the canonical master first; then port changes to secondary surfaces.
 
 ---
 
@@ -8,31 +8,32 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 > **Note:** Gemini Gem 1 (The Chef) is maintained as a fallback surface. Updates to the canonical master should be ported here when practical.
 
-| Release Date | Canonical Master | GEM Instructions | Claude Desktop | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor |
-|--------------|-----------------|-----------------|----------------|---------------------|-----------------|------------------------|
-| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 |
-| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 |
-| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 |
-| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 |
-| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 |
-| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — |
-| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — |
-| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — |
-| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — |
-| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — |
-| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — |
-| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — |
-| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — |
-| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — |
-| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — |
-| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — |
-| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — |
-| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — |
-| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — |
-| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — |
-| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — |
-| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — |
-| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — |
+| Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) |
+|--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|
+| 2026-06-10c | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 |
+| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | — | — |
+| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 | — | — |
+| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 | — | — |
+| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 | — | — |
+| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 | — | — |
+| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — | — | — |
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — | — | — |
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — |
+| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — |
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — | — | — |
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — | — | — |
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — | — | — |
+| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — | — | — |
+| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — | — | — |
+| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — | — | — |
+| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — | — | — |
+| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — | — | — |
 
 ---
 
@@ -200,6 +201,31 @@ These workflow files do not carry independent version numbers, but were updated 
 |---------|------|---------|
 | v1.0 | 2026-04-14 | Initial release. Four-mode lint pipeline (Scan, Safe Fix, Deep Fix, Full Pipeline) for Copilot Chat surface. Mirrors the Claude Code sub-agent's pipeline behavior and authorization gates. |
 | v1.1 | 2026-04-26 | Added missing **Excluded scopes** safety table (`Guidance/`, `.claude/`, `.agents/`, `.github/`, `Claude-Desktop/`, `node_modules/`) — closes parity gap with the Claude Code sub-agent. Without this table, the Copilot agent could lint-repair curated instruction files and corrupt agent behavior. |
+
+---
+
+## Claude Code Sub-Agent — Café Athena Brand Manager
+
+**File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
+**Current Version:** 1.0
+**Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
+
+Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-10 | Initial release. Three-mode system (Brand Development, Marketing Execution, Content Creation). Owns Brand/ and Marketing/ folder documents. Session startup reads BRAND_STATUS.md, MARKETING_STATUS.md, and both Resources/INDEX.md files. Build sequence for BRAND_GUIDELINES.md defined. Resource library with trigger conditions. Skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose. |
+
+---
+
+## Claude Desktop Agent — Café Athena Brand Manager
+
+**File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
+**Current Version:** 1.0
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
 
 ---
 
