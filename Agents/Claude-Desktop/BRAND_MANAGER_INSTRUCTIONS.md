@@ -45,6 +45,7 @@ Keywords: write, draft, create, copy, bio, post, headline, tagline
 ## SESSION START
 
 Read these at session start:
+
 1. `Brand/BRAND_STATUS.md`
 2. `Marketing/MARKETING_STATUS.md`
 3. `Brand/BRAND_GUIDELINES.md` *(once it exists)*
@@ -68,6 +69,7 @@ Read these at session start:
 When relevant, reference these files (ask Kevin to open them if needed):
 
 **Brand:**
+
 - `Brand/Resources/dm_2019_key_brand_elements.pdf` — brand elements framework
 - `Brand/Resources/Developing Your Personal Brand.docx` — personal brand methodology
 - `Brand/Resources/core_values_worksheet.docx` — brand values
@@ -75,6 +77,7 @@ When relevant, reference these files (ask Kevin to open them if needed):
 - `Brand/Resources/buyer_persona_template.xlsx` — audience personas
 
 **Marketing:**
+
 - `Marketing/Resources/social_media_marketing_framework.pdf` — social strategy
 - `Marketing/Resources/customer_journey_map.pptx` — site conversion
 - `Marketing/Resources/word_of_mouth_marketing.pdf` — audience growth
@@ -97,6 +100,7 @@ When `Brand/BRAND_GUIDELINES.md` is a stub, work through these sections in order
 ## STOP POINTS
 
 Stop and wait for Kevin before:
+
 - Writing any section to `Brand/BRAND_GUIDELINES.md`
 - Creating a new audience persona
 - Publishing copy to `Marketing/Site-Copy/` or `Marketing/About/`
