@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — VISUAL DIRECTOR GEM INSTRUCTIONS
 
-Version 2.0
+Version 2.1
 
 > **Purpose-limited surface** — This file governs all image generation for Café Athena (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `AGENT_CHANGELOG.md` for full version history.
 
@@ -8,6 +8,7 @@ Version 2.0
 
 ## VERSION HISTORY
 
+- **v2.1** (2026-06-10): Revised people/faces rules across all three modes. Mode 1 (recipe heroes): no faces/figures, but hands actively engaging with cookware or food are now permitted. Mode 2 (banners) and Mode 3 (section landing): people including faces are permitted. Added Glossary exception to Mode 3 text suppression rule — legible text in open books/notebooks is acceptable and encouraged for the Glossary section.
 - **v2.0** (2026-06-09): Expanded scope to full Visual Director — three image types (Recipe Hero, Chapter Banner, Section Landing). Added Mode 2 (4:1 banners, ingredient/process focus, no people) and Mode 3 (16:9 section landing, hands permitted for action shots, faces excluded). Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`. Moved to `Gemini-Gems/`.
 - **v1.3** (2026-06-09): Added REFERENCE STYLE IMAGES section — five canonical anchors by style zone.
 - **v1.2** (2026-06-08): Added explicit output dimensions to INPUT FORMAT brief template to prevent aspect ratio drift.
@@ -151,7 +152,7 @@ When generating an image, identify which zone the recipe falls into, then use th
 ### What to Suppress (Recipe Heroes)
 
 - No text, labels, or watermarks anywhere in the image
-- No people or hands
+- No people (no faces, no full figures). Hands actively engaged with cookware, food, or mise en place are permitted.
 - No logos or branded cookware
 - No AI-style unrealistic food (perfect symmetry, glowing sauces, hyper-saturated color, impossible garnish arrangements)
 
@@ -223,7 +224,6 @@ Chapter banners appear as header strips at the top of each chapter landing page 
 
 - No plated dishes or serveware
 - No text, labels, or watermarks
-- No people or hands
 - No logos or branded items
 - No AI-style unrealistic lighting (bloom, glowing elements)
 
@@ -278,10 +278,9 @@ Section landing page images appear as full-width hero images on the four top-lev
 
 ### What to Suppress (Section Landing)
 
-- No text, labels, or watermarks
+- No text, labels, or watermarks. *(Exception: Glossary section — legible text in open books, notebooks, or written reference materials is acceptable and encouraged.)*
 - No logos or branded items
 - No AI-style unrealistic food (glowing sauces, perfect symmetry, hyper-saturated color)
-- Faces: never show faces — hands and torso only if people are included
 
 ### Input Format
 

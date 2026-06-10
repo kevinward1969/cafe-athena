@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. The canonical mas
 
 | Release Date | Canonical Master | GEM Instructions | Claude Desktop | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor |
 |--------------|-----------------|-----------------|----------------|---------------------|-----------------|------------------------|
+| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 |
 | 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 |
 | 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 |
 | 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 |
@@ -150,6 +151,7 @@ These workflow files do not carry independent version numbers, but were updated 
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.1 | 2026-06-10 | Revised people/faces rules. Mode 1 (recipe heroes): "No people or hands" replaced with "no faces/full figures; hands actively engaging with cookware or food are permitted." Mode 2 (banners): removed "No people or hands" restriction — people including faces are acceptable. Mode 3 (section landing): removed face exclusion rule — full figures including faces are permitted. Added Glossary exception to Mode 3 text suppression: legible text in open books/notebooks is acceptable and encouraged. |
 | v2.0 | 2026-06-09 | Expanded scope from recipe hero images only to full Visual Director covering all three image types. Added MODE 1 (Recipe Hero), MODE 2 (Chapter Banner), and MODE 3 (Section Landing Page) sections, each with distinct composition rules, surface guidance, suppress lists, and brief input formats. Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`. Moved from `Guidance/` to `Gemini-Gems/`. Banners: 1920×480 ultra-wide (4:1), ingredient/process focus, no plated dishes. Section landing: 1920×1080 (16:9), hands/people permitted for action shots (faces excluded), cinematic editorial style. Per-section guidance table added for all four site sections (Academy, Brigade, Larder, Glossary). "No people or hands" constraint now scoped to Mode 1 recipe heroes only. |
 | v1.3 | 2026-06-09 | Added REFERENCE STYLE IMAGES section. Five canonical hero images designated as visual anchors — one per style zone: `07-09.webp` (default bistro braise), `07-03.webp` (grilled/smoked), `05-02.webp` (seafood/Fishmonger), `09-03.webp` (pastry/Pâtissier), `10-17.webp` (larder/foundational). Images should be attached directly in the Gemini Gem UI. |
 | v1.2 | 2026-06-08 | Added `Output: 16:9 widescreen, 1920×1080, landscape orientation` as a required field in the INPUT FORMAT brief template. Fixes aspect ratio drift — Gemini's image generation defaults do not reliably honor the 16:9 crop spec in the Camera & Composition section alone. |

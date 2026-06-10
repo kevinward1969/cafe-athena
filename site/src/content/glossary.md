@@ -136,7 +136,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dashi: A foundational Japanese broth traditionally made from kombu (kelp) and katsuobushi (dried bonito flakes), prized for its intense umami flavor.
 - De-gas: The process of allowing a liquid to rest so that trapped air bubbles can rise to the surface and escape.
 - Deglaze: To add liquid to a hot pan to dissolve the caramelized bits of food (fond) stuck to the bottom.
-- Demi-Baguette: A shortened version of a baguette, typically 15-20 cm in length, often used for sandwiches or appetizers.
+- Demi-Baguette: A shortened version of a baguette, typically 15–20 cm in length, often used for sandwiches or appetizers.
 - Demi-Glace: A rich, glossy sauce produced by reducing brown stock (fond brun) combined with Sauce Espagnole by half, resulting in an intensely flavored, syrupy consistency used as a sauce base or intensifier.
 - Denaturation: The unfolding or structural disruption of a protein molecule caused by salt, heat, acidity, or mechanical action. In curing, denaturation allows meat to retain moisture; in an acid-set gel such as a posset, lemon juice lowers the pH of warm cream, causing whey proteins to partially unfold and bond into a stable network.
 - Dépouillage: The process of skimming scum, fat, or impurities from the surface of a stock or sauce.
