@@ -45,14 +45,14 @@ Composite creams are the secondary building blocks of pastry, created by marryin
 **Phase 2: Assembling Crème Mousseline.**
 
 1. **Cream the Butter:** Beat the softened butter until pale and aerated.
-2. **The Emulsion:** Gradually add the room-temperature pastry cream to the butter while whisking on medium speed.
+2. **The Emulsion:** Gradually add the room-temperature pastry cream to the butter, whisking continuously on medium speed.
 
    **Why:** If the temperatures are mismatched (cold cream + warm butter), the mixture will "break" and look curdled. Continue whisking until it emulsifies into a silky, stable frosting.
 
 **Phase 3: Assembling Crème Chiboust.**
 
 1. **Stabilize:** Whisk the melted gelatin into the **warm** pastry cream.
-2. **The Aeration:** While the pastry cream is still warm (approx. 110°F/43°C), fold in the hot Italian Meringue in two stages.
+2. **The Aeration:** The pastry cream must be warm (approx. 110°F/43°C) — do not let it cool. Fold in the hot Italian Meringue in two stages.
 3. **Usage:** This must be used or piped immediately before the gelatin sets. It creates a texture that is nearly as light as a soufflé.
 
 ## Chef's Notes

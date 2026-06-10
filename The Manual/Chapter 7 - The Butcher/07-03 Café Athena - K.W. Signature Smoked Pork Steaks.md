@@ -60,7 +60,7 @@ This signature method transforms the humble pork shoulder steak into a premium e
 
 **Phase 3: Adhesion Rest** Return the seasoned steaks to the refrigerator (on the rack) for **30 minutes**. **Why:** This short rest allows the vinegar and salt to dissolve slightly, turning the rub into a sticky pellicle that won't fall off on the grill grates.
 
-**Phase 4: The Fire Setup** While the steaks rest, set up the grill for **Offset Cooking (Two-Zone Fire)**. Dump the red-hot charcoal into the holder on one side of the grill. Ensure the other side is empty. Allow the grill to preheat to an even temperature (aim for roughly 250°F/121°C ambient). Add **3 chunks** of Hickory and **3 chunks** of Apple wood directly onto the coals to establish the initial smoke profile.
+**Phase 4: The Fire Setup** (The steaks rest untended during this phase — use that time for the fire.) Set up the grill for **Offset Cooking (Two-Zone Fire)**. Dump the red-hot charcoal into the holder on one side of the grill. Ensure the other side is empty. Allow the grill to preheat to an even temperature (aim for roughly 250°F/121°C ambient). Add **3 chunks** of Hickory and **3 chunks** of Apple wood directly onto the coals to establish the initial smoke profile.
 
 **Phase 5: The Smoke (Orientation)** Once the smoke is clean (thin blue/white), place the steaks on the cool side of the grill (indirect heat).
 

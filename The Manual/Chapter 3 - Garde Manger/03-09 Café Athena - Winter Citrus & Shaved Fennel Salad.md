@@ -12,9 +12,10 @@ This salad relies on structural integrity and suspension. By shaving the fennel 
 
 ### The Base
 
-* 2 Bulbs Fennel, stalks removed (save fronds for garnish)
+* 2 Bulbs Fennel, stalks removed; fronds set aside for garnish
 * 1 Head Radicchio or Endive
 * 60 g (2 cups) Baby Arugula
+* Ice and cold water (enough to fill a large bowl, for shocking the fennel)
 
 ### The Fruit & Crunch
 
@@ -35,7 +36,7 @@ This salad relies on structural integrity and suspension. By shaving the fennel 
 
 ## Mise en Place (Action Checklist)
 
-* **Shock the Water:** Prepare a large bowl of ice water.
+* **Shock Bowl:** Fill a large bowl with ice and cold water; set aside for shocking the fennel.
 * **Sharpen the Knife:** You will need a razor-edge to "supreme" the citrus without crushing the vesicles.
 * **Setup the Mandoline:** If using a mandoline for the fennel, ensure the safety guard is ready.
 
@@ -67,7 +68,7 @@ In a blender canister, combine the **lemon juice**, **orange juice**, **honey**,
 
 Drain the fennel thoroughly in a salad spinner. Water is the enemy of adhesion. In a large mixing bowl, toss the **fennel**, **radicchio**, and **arugula**. Drizzle with just enough dressing to coat (start with half). Toss gently with your hands.
 
-**Why:** Because the dressing is stabilized, it has higher viscosity; you need less of it to coat the surface area than a standard vinaigrette. Transfer to plates. Top with **citrus suprèmes**, **toasted hazelnuts**, **shaved Pecorino**, and reserved **fennel fronds**.
+**Why:** Because the dressing is stabilized, it has higher viscosity; you need less of it to coat the surface area than a standard vinaigrette. Transfer to plates. Top with the orange and grapefruit suprèmes, **toasted hazelnuts**, **shaved Pecorino**, and reserved **fennel fronds**.
 
 ## Chef's Notes
 

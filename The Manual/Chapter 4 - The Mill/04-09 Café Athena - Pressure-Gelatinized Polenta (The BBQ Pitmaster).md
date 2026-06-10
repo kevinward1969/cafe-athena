@@ -35,7 +35,7 @@ By utilizing a pressure cooker, we bypass the labor-intensive "constant stirring
 
 ## Method
 
-**Phase 1: The Pressure Load** Pour the chicken stock (or water) into the pressure cooker pot. Whisk in the baking soda and salt. Slowly stream in the cornmeal while whisking continuously to prevent initial clumping. **Why:** Once the lid is on, you cannot stir. Ensuring the corn is suspended in the liquid at the start is critical to prevent it from scorching on the bottom.
+**Phase 1: The Pressure Load** Pour the chicken stock (or water) into the pressure cooker pot. Whisk in the baking soda and salt. Stream in the cornmeal in a slow, steady pour. Whisk continuously as you add it to prevent clumping. **Why:** Once the lid is on, you cannot stir. Ensuring the corn is suspended in the liquid at the start is critical to prevent it from scorching on the bottom.
 
 **Phase 2: The Gelatinization** Secure the pressure cooker lid and set the valve to "Sealing." Cook on **High Pressure** for **20 minutes**. When the timer beeps, allow for a **Natural Release** for at least 15 minutes. **Why:** A "Quick Release" causes the super-heated starch bubbles to expand violently, which can clog the steam valve or spray hot corn foam. Natural release allows the starch structure to stabilize.
 

@@ -47,7 +47,7 @@ This tart is the assembly proof — the point where two foundational building bl
 
 On a lightly floured work surface, roll the chilled dough to approximately 3 mm thickness — thin enough to be light and crisp when baked, thick enough to hold its shape off the ring. Cut strips approximately 30 mm wide (the interior height of the ring) and cut circles slightly larger than the interior diameter of the rings.
 
-To line each ring: press a strip along the interior wall first, pressing it flush against the metal with your thumb and smoothing any overlap at the seam. Then press the base circle in, pressing it firmly into the angle between the wall and the base to seal. Run your thumb around the interior seam to ensure no gap exists — any gap will allow the curd to leak through during filling. Trim any overhang above the ring flush with a paring knife or bench scraper.
+To line each ring: press a strip along the interior wall first. Press it flush against the metal with your thumb. Smooth any overlap at the seam. Then press the base circle in, pressing it firmly into the angle between the wall and the base to seal. Run your thumb around the interior seam to ensure no gap exists — any gap will allow the curd to leak through during filling. Trim any overhang above the ring flush with a paring knife or bench scraper.
 
 **Why:** Building sides first, then base, is the standard ring-mold approach for flat-bottomed tarts. It gives you better control over the wall thickness and prevents the base from being pushed up when you press the strip in.
 

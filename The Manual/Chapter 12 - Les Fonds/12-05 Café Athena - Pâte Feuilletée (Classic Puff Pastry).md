@@ -46,7 +46,7 @@ True puff pastry is a marvel of physics, not chemistry. There is no yeast or bak
 
 > **Why:** Resting relaxes the gluten developed during initial mixing, preventing the dough from fighting back during the rolling process.
 
-**Phase 2: The Beurrage (The Engine)** While the dough rests, place the cool butter and flour on parchment paper. Pound with a rolling pin to soften without melting. Work into a perfect 13 cm (5-inch) square block of even thickness. Wrap and refrigerate for 15 minutes.
+**Phase 2: The Beurrage (The Engine)** The dough will now chill for 1 hour. During this resting period, prepare the butter block: place the cool butter and flour on parchment paper. Pound with a rolling pin to soften without melting. Work into a perfect 13 cm (5-inch) square block of even thickness. Wrap and refrigerate for 15 minutes.
 
 > **Sensory Cue:** Press the chilled dough block and the butter block with a finger. They should dent with the exact same amount of resistance. This is plasticity matching — the most important moment in the entire recipe.
 

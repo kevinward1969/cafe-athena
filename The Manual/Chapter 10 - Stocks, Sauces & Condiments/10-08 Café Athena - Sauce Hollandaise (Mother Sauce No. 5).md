@@ -56,7 +56,7 @@ In a small saucepan over medium-high heat, melt the butter until it is foaming a
 
 **Phase 3: The High-Shear Emulsion.**
 
-Turn the immersion blender to high speed. While the motor is running, slowly pour the hot butter into the vessel in a steady, thin stream. Do not lift the blender head yet. Continue pouring until all butter is incorporated and the sauce thickens significantly (about 30–45 seconds).
+Turn the immersion blender to high speed and keep it running throughout. Slowly pour the hot butter into the vessel in a steady, thin stream — do not pause the pour or stop the motor. Do not lift the blender head yet. Continue pouring until all butter is incorporated and the sauce thickens significantly (about 30–45 seconds).
 
 > Sensory Cue: The sound of the motor will deepen from a high-pitched whine to a lower growl as the viscosity increases.
 

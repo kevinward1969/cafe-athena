@@ -52,7 +52,7 @@ All inclusions must be processed via Folio 01-20 (Blanch & Press) before use.
 **Phase 1: Form the Discs.**
 
 1. Place the 3-inch ring mold on the prepared Silpat as a stencil.
-2. Sprinkle a thin, uniform layer of the **Cheese Matrix** (approximately 1 tbsp, ~6 g) inside the ring — thin enough that you can *just* see the Silpat through the cheese.
+2. Sprinkle a thin, uniform layer of your cheese mixture (approximately 1 tbsp, ~6 g) inside the ring — thin enough that you can *just* see the Silpat through the cheese.
 3. Lift the ring straight up. Repeat across the sheet, leaving at least 1 inch between discs. A full sheet holds 9–12 discs.
 
 **Phase 2: First Bake (The Webbing).**

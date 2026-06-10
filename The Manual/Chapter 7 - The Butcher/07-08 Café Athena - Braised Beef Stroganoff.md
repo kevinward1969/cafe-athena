@@ -45,7 +45,7 @@ While traditional Stroganoff is a quick sauté of tenderloin, we opt for the dee
 
 ## Method
 
-**Phase 1: The Maillard Seal.** Generously season the beef cubes with salt and pepper, then toss in the flour until lightly coated, shaking off any excess. In a heavy Dutch oven, heat the oil over high heat until shimmering. Sear the beef in batches — never crowd the pan — cooking until deep brown on all sides, 3–4 minutes per batch. Remove beef and set aside. **Why:** crowding drops the pan temperature and steams the meat instead of searing it. The flour coating creates a *singer* directly on the meat that will later thicken the braising liquid.
+**Phase 1: The Maillard Seal.** Generously season the beef cubes with salt and pepper, then toss in the flour until lightly coated, shaking off any excess. In a heavy Dutch oven, heat the oil over high heat until shimmering. Sear the beef in batches, never crowding the pan. Cook each batch until deep brown on all sides, 3–4 minutes per batch. Remove beef and set aside. **Why:** crowding drops the pan temperature and steams the meat instead of searing it. The flour coating creates a *singer* directly on the meat that will later thicken the braising liquid.
 
 **Phase 2: The Fond and Fumet.** Lower heat to medium. Add the mushrooms to the empty pot (do not clean it) and cook for 5–7 minutes until they release their liquid and brown. Add the onions and thyme and sweat for 5 minutes until soft and translucent. Push the vegetables to the side, add the tomato paste to the center of the pot, and cook for 60 seconds until it turns a rusty brick-red — this is the *pinçage*. Pour in the wine (or Cognac) and scrape the bottom of the pot vigorously to release the fond. Reduce the liquid by half.
 

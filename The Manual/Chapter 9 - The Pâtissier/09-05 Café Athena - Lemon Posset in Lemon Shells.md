@@ -29,7 +29,7 @@ A posset is one of the kitchen's most elegant demonstrations of acid cookery: no
 
 ### The Garnish
 
-- **4** channel knife lemon spirals (from the third lemon)
+- **4** channel knife lemon spirals, cut from the third lemon (see The Set Agent section above — pull these before juicing)
 - Powdered sugar for dusting (optional), or fresh mint leaves or small edible flowers
 
 ---

@@ -33,7 +33,7 @@ Crème Pâtissière (pastry cream) is defined by its use of starch—typically c
 
 1. **Infuse and Scald:** In a 3-quart saucepan, combine the milk, heavy cream, sugar, and vanilla bean (seeds and pod). Bring to a simmer over medium-low heat.
 
-1. **Build the Emulsion Base:** While the milk warms, whisk the eggs and cornstarch in a small bowl until perfectly smooth and no white streaks remain.
+1. **Build the Emulsion Base:** The milk is now warming from Step 1. Whisk the eggs and cornstarch in a small bowl until perfectly smooth and no white streaks remain.
 
 1. **Temper the Eggs:** Slowly pour roughly 125 ml (½ cup) of the hot milk mixture into the egg mixture while whisking constantly.
 

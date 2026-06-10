@@ -50,7 +50,7 @@ By roasting the sweet potatoes in their skins rather than boiling them, we allow
 
 > **Why:** Roasting in the skin traps the steam, cooking the potato in its own moisture while concentrating sweetness.
 
-**Steam the Carrots:** While the potatoes roast, place the carrots in a steamer basket over boiling water. Cover and steam for 15–20 minutes until completely tender. Drain and let them steam-dry for 2 minutes to remove excess surface moisture.
+**Steam the Carrots:** (The potatoes need 45–60 minutes — use that oven time here.) Place the carrots in a steamer basket over boiling water. Cover and steam for 15–20 minutes until completely tender. Drain and let them steam-dry for 2 minutes to remove excess surface moisture.
 
 **Phase 2: The Infusion (Brown & Bloom)**
 

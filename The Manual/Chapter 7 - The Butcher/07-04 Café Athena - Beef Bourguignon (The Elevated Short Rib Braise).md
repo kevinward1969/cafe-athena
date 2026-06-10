@@ -52,7 +52,7 @@ By borrowing the classical "sacrificial vegetable" technique, we infuse the wine
 
 ## Method
 
-**Phase 1: The Wine Reduction** Combine the **Red Wine** and the **Sacrificial Vegetables** (leeks, shallots, chopped carrots, mushroom stems) in a saucepan over medium-high heat. Simmer until the liquid is reduced by approximately 40% (about 15–20 minutes). Strain the liquid through a fine-mesh sieve and discard the vegetables. **Why:** Boiling the vegetables in the wine extracts their sugars and aromatics while evaporating the alcohol, creating a complex base that won't taste "boozy" in the final dish.
+**Phase 1: The Wine Reduction** Combine the **Red Wine** and the sacrificial vegetables (**leeks**, **shallots**, **carrots**, and **mushroom stems**) in a saucepan over medium-high heat. Simmer until the liquid is reduced by approximately 40% (about 15–20 minutes). Strain the liquid through a fine-mesh sieve and discard the vegetables. **Why:** Boiling the vegetables in the wine extracts their sugars and aromatics while evaporating the alcohol, creating a complex base that won't taste "boozy" in the final dish.
 
 **Phase 2: The Render & Sear** Place the **Bacon Lardons** in a large Dutch oven over medium heat. Cook until the fat is fully rendered and the bacon is crisp. Remove bacon with a slotted spoon and reserve. Increase heat to medium-high. Working in batches, sear the **Beef** in the hot bacon fat until deeply browned on all sides. Remove beef and set aside.
 

@@ -57,7 +57,7 @@ Whisk furiously for 30 seconds until the bubbling subsides and the sugar has ful
 
 **Phase 3: The Application.**
 
-While the paste is still hot (above 140°F/60°C), brush it generously over the freshly fried chicken.
+The paste must be above 140°F/60°C when applied — do not let it cool first. Brush it generously over the freshly fried chicken.
 
 > Why: As the oil cools, the viscosity increases. Applying it hot ensures a thin, even coating that penetrates the crevices of the crust.
 

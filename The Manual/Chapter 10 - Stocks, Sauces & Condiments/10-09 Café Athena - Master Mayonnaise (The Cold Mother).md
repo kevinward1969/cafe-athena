@@ -50,7 +50,7 @@ In a medium stainless steel bowl, whisk together the **egg yolk**, **Dijon musta
 
 **Phase 2: The Nucleation (Critical Step).**
 
-While whisking constantly, add the **Neutral Oil** drop by drop. Do not rush this stage. Once you have added about 2 tablespoons of oil and the mixture has thickened into a heavy cream consistency, you have established the emulsion nucleus.
+Begin whisking the egg mixture continuously. Add the **Neutral Oil** drop by drop — do not pause the whisk between drops. Do not rush this stage. Once you have added about 2 tablespoons of oil and the mixture has thickened into a heavy cream consistency, you have established the emulsion nucleus.
 
 **Phase 3: The Stream.**
 

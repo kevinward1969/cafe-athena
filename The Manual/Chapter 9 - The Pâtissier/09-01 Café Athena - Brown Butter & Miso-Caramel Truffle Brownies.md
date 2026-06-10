@@ -51,7 +51,7 @@ We treat the box mix merely as pre-measured dry ingredients, elevating it with *
 
 > *Why: We browned the butter for flavor, which boiled off its natural water content. Adding water back ensures the brownies stay moist and fudgy.*
 
-**2. Emulsify the Sugar** While the butter is still hot (>120°F/50°C), add the coffee, eggs, extra yolk, and vanilla. Whisk vigorously for 60 seconds until the mixture is thick, glossy, and pale.
+**2. Emulsify the Sugar** The butter must be above 120°F/50°C to dissolve the sugar — do not let it cool. Add the coffee, eggs, extra yolk, and vanilla. Whisk vigorously for 60 seconds until the mixture is thick, glossy, and pale.
 
 > *Why: The heat and agitation dissolve the sugar crystals in the egg/fat emulsion. This creates the "meringue-like" shiny crust on top.*
 

@@ -37,7 +37,7 @@ This technique utilizes the high amylopectin content of Yukon Gold potatoes to c
 
 ## Method
 
-**Phase 1: Build the Emulsion** Place potatoes in a pot of cold salted water. Bring to a boil and cook for 12–15 minutes until fork-tender. Reserve 50 g of the boiling water, then drain the potatoes. While the potatoes are still steaming hot, place them in a high-speed blender with the raw onions and the 50 g of boiling potato water. Blend on high for 60–90 seconds until the mixture is a completely smooth, glossy emulsion.
+**Phase 1: Build the Emulsion** Place potatoes in a pot of cold salted water. Bring to a boil and cook for 12–15 minutes until fork-tender. Reserve 50 g of the boiling water, then drain the potatoes. Transfer the potatoes immediately to a high-speed blender — they must be used while still steaming hot to achieve the emulsion. Add the raw onions and the reserved 50 g of boiling potato water. Blend on high for 60–90 seconds until the mixture is a completely smooth, glossy emulsion.
 
 **Phase 2: Build the Matrix** Transfer the warm potato mixture to a bowl. Sift in the potato starch, baking powder, and salt. Whisk vigorously until no lumps remain. The batter should hold a thick "ribbon" stage. If the mixture is too fluid to hold its shape when piped, whisk in the additional 10 g of potato starch.
 

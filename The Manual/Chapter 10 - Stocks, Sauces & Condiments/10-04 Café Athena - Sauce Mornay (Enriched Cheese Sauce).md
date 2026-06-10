@@ -54,7 +54,7 @@ Prepare the **Béchamel Base** exactly as described in the *Classic Béchamel* r
 
 **Phase 2: The Temper (Critical Control Point).**
 
-Reduce the heat on the Béchamel to the lowest possible setting (or remove from heat entirely for a moment). Ladle about 120 ml (1/2 cup) of the hot Béchamel into the bowl containing the **Liaison** (yolks + cream), whisking the eggs constantly while you pour.
+Reduce the heat on the Béchamel to the lowest possible setting (or remove from heat entirely for a moment). Have a whisk ready in the bowl containing the **Liaison** (yolks + cream). Whisk the eggs continuously. Slowly ladle about 120 ml (½ cup) of the hot Béchamel into the bowl in a thin stream, never stopping the whisk.
 
 > Why: This brings the eggs up to a safe temperature without shocking them into curdling.
 

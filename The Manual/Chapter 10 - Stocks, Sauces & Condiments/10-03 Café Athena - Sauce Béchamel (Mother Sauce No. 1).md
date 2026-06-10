@@ -47,7 +47,7 @@ As one of the five French Mother Sauces, Béchamel is the starting point for cou
 
 ## Method
 
-**Phase 1: The Infusion** In a medium saucepan, combine the **Whole Milk** and the **Oignon Piqué** (onion studded with clove and bay leaf). Place over medium heat. Bring just to a bare simmer (small bubbles around the rim, approximately 180°F/82°C). **Do not boil.** Remove from heat immediately, cover, and let steep for 15–20 minutes.
+**Phase 1: The Infusion** In a medium saucepan, combine the **Whole Milk** and the prepared **onion** (Oignon Piqué — studded with clove and bay leaf from the Mise en Place). Place over medium heat. Bring just to a bare simmer (small bubbles around the rim, approximately 180°F/82°C). **Do not boil.** Remove from heat immediately, cover, and let steep for 15–20 minutes.
 
 > *Why: Steeping extracts the aromatic compounds from the onion and clove without evaporating the water content of the milk or scorching the bottom of the pot.*
 

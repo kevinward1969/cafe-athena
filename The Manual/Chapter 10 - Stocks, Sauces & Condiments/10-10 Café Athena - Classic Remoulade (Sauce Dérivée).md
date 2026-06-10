@@ -46,7 +46,7 @@ Remoulade is the "Tartare Sauce" of the classical French kitchen, though signifi
 
 **Phase 1: The Compound Base.**
 
-In a clean mixing bowl, combine the **cornichons**, **capers**, **anchovy paste**, and **fresh herbs**. Stir to combine thoroughly. This "dry mix" ensures the heavy ingredients are evenly distributed before the binder is added.
+In a clean mixing bowl, combine the **cornichons**, **capers**, **anchovy paste**, **parsley**, **tarragon**, and **chervil**. Stir to combine thoroughly. This "dry mix" ensures the heavy ingredients are evenly distributed before the binder is added.
 
 **Phase 2: The Binding.**
 

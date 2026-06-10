@@ -71,7 +71,7 @@ Balanzoni, often called "Tortelli Matti" (Mad Tortellini), are prized for their 
 
 **Phase 4: The Finish**
 
-1. **Toast the Butter:** In a wide skillet, melt the butter over medium heat. Continue cooking until the foaming subsides and it smells of toasted hazelnuts (**Beurre Noisette**).
+1. **Toast the Butter:** In a wide skillet, melt the butter over medium heat. Continue cooking until the foaming subsides and it smells of toasted hazelnuts — this is beurre noisette.
 2. **The Boil:** Cook the Balanzoni in boiling water (100°C/212°F) for 3–4 minutes until they float and the edges are tender.
 3. **The Glaze:** Transfer the pasta directly into the butter with a small splash of pasta water. Toss gently over low heat until the sauce reaches **Nappé**. Serve immediately with extra cheese.
 

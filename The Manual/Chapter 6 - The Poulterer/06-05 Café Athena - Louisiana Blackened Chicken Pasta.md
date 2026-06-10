@@ -61,7 +61,7 @@ This dish is an exercise in fond management. The flavor foundation is built by s
 
 **Phase 3: The Emulsion.** Pour in the chicken stock and heavy cream. Bring to a gentle simmer. Whisk in the cubed cream cheese and the reserved 1 tsp of Cajun seasoning. Simmer on low for 5–7 minutes until the sauce coats the back of a spoon (*nappé*). Remove from heat and whisk in the Parmesan until smooth. Taste for salt — Cajun blends are often salty, so adjust last.
 
-**Phase 4: The Assembly.** While the sauce reduces, boil the penne in heavily salted water until *al dente*. Drain, reserving ½ cup of pasta water. Slice the rested chicken against the grain into strips. Add the pasta directly to the sauce pan and toss vigorously to coat — if the sauce is too thick, loosen with a splash of pasta water. Fold in the sliced chicken or fan it over the top for presentation.
+**Phase 4: The Assembly.** Bring a large pot of heavily salted water to a boil and cook the penne until *al dente*. Drain, reserving ½ cup of pasta water. (The sauce can be simmering and reducing simultaneously — it needs no stirring during this time.) Slice the rested chicken against the grain into strips. Add the pasta directly to the sauce pan and toss vigorously to coat — if the sauce is too thick, loosen with a splash of pasta water. Fold in the sliced chicken or fan it over the top for presentation.
 
 ## Chef's Notes
 
