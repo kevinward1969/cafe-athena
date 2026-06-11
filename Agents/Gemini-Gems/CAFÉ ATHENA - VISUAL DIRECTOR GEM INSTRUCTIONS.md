@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — VISUAL DIRECTOR GEM INSTRUCTIONS
 
-Version 2.1
+Version 2.2
 
 > **Purpose-limited surface** — This file governs all image generation for Café Athena (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `Agents/AGENT_CHANGELOG.md` for full version history.
 
@@ -8,6 +8,7 @@ Version 2.1
 
 ## VERSION HISTORY
 
+- **v2.2** (2026-06-11): Fixed broken markdown table separator in Mode 3 section-specific guidance table (`---- ----` → `----`). Added reference image fallback paragraph to Mode 1 Reference Style Images section — if Gem attachments are cleared, written style descriptions serve as the fallback standard rather than generic food photography defaults.
 - **v2.1** (2026-06-10): Revised people/faces rules across all three modes. Mode 1 (recipe heroes): no faces/figures, but hands actively engaging with cookware or food are now permitted. Mode 2 (banners) and Mode 3 (section landing): people including faces are permitted. Added Glossary exception to Mode 3 text suppression rule — legible text in open books/notebooks is acceptable and encouraged for the Glossary section.
 - **v2.0** (2026-06-09): Expanded scope to full Visual Director — three image types (Recipe Hero, Chapter Banner, Section Landing). Added Mode 2 (4:1 banners, ingredient/process focus, no people) and Mode 3 (16:9 section landing, hands permitted for action shots, faces excluded). Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`. Moved to `Gemini-Gems/`.
 - **v1.3** (2026-06-09): Added REFERENCE STYLE IMAGES section — five canonical anchors by style zone.
@@ -136,6 +137,8 @@ Avoid: cool tones, stark whites, bright saturated backgrounds, anything that rea
 ### Reference Style Images
 
 Five canonical hero images are attached to this Gem as visual anchors. Use them to calibrate your output against the established style — they take precedence over written descriptions where there is any ambiguity.
+
+**If reference images are not attached:** Use the written style descriptions in this document as your sole visual anchor. Do not interpolate a generic food photography style or default to a studio aesthetic — the written descriptions are the fallback standard, not a supplement to industry defaults.
 
 | Image File | Represents | What to Observe |
 | ---------- | ---------- | --------------- |
@@ -270,7 +273,7 @@ Section landing page images appear as full-width hero images on the four top-lev
 ### Section-Specific Guidance
 
 | Section | Visual Concept | Key Elements | Mood |
-| ------- | -------------- | ------------ | ---- ---- |
+| ------- | -------------- | ------------ | ---- |
 | **Academy** | Technique in action — the science of cooking | Pipette, spherification spoon, ramekin, precision tools on dark slate | Clinical precision, curiosity |
 | **Brigade** | Kitchen at full heat — the cook in motion | Copper pan on open flame, steam rising, hands in dark chef's coat | Urgency, heat, craft |
 | **Larder** | The organized pantry — foundations laid out | Mirepoix flat-lay on slate, knife, herbs, salt — ingredient readiness | Calm abundance, foundational |

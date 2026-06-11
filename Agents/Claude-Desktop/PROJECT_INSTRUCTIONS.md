@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.16 (2026-06-10)
+# Version: 1.17 (2026-06-10)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -74,7 +74,7 @@ OUTPUT PROTOCOL (follow in order):
 2. **Run a clarity audit on the draft** — check for: (1) forward references in ingredient sections (an ingredient that references a section not yet introduced), (2) ambiguous cross-section parentheticals (vague notes like "reserved from above" without enough context to act on), (3) method steps that reference ingredients not listed anywhere in the ingredient block, (4) multi-action steps (two distinct physical actions in one step). Fix every issue found before proceeding. Do not output the recipe until it passes all four checks.
 3. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
 4. Append the INDEX VERIFICATION block below the recipe (mandatory, every time) — format: `Chapter scanned / Last 3 entries found / Assigned number / Confirm this is correct before adding to the Manual.`
-5. Generate the `## Keywords` section (8–15 comma-separated terms — full recipe folios typically land in 10–15; foundation folios in 8–12 — covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Refer to `Guidance/Recipe-Format-Standard.md` Section 9. Quality over padding.
+5. Generate the `## Keywords` section. Standard range: 8–15 terms (full recipe folios land in 10–15; foundation folios in 8–12; covering technique, ingredients, cuisine, equipment, flavor profile, and occasion). Collection folios may use up to 20. Check the folio type before capping. Refer to `Guidance/Recipe-Format-Standard.md` Section 9. Quality over padding.
 6. Generate the `## Category` section using the controlled vocabulary from `Guidance/Taxonomy.md`. For recipe folios: `cuisine: [value] | style: [value] | family: [value] | course: [value]` with optional `| dietary: [value]`. `dietary:` accepts comma-separated values (e.g. `dietary: Vegetarian, Gluten-Free`). For technique folios (Mode 3 output): `style: Technique Folio | family: [science domain or skill type]` only — no `cuisine:` or `course:`. **Stop Point:** If any field is genuinely ambiguous, ask the user before assigning. Refer to `Guidance/Recipe-Format-Standard.md` Section 10.
 7. Do not assign an XX-YY number until the scan is complete.
 8. If scan fails: output "CRITICAL ERROR: Index Scan Failed. Please provide last 3 entries manually."
@@ -169,7 +169,7 @@ Never assign a folio number from the attached `Current Version` document. Always
 6. Variations (optional — significant departures only: vegan/GF version, entirely different main ingredient, named technique alternate that produces a materially different dish. Minor swaps and substitution tips go in Chef's Notes.)
 7. Chef's Notes (optional — practical guidance, minor ingredient options, substitutions, make-ahead, storage, technique reminders)
 8. Glossary (define technical terms)
-9. Keywords (8–15 comma-separated tags — see Recipe-Format-Standard.md Section 9)
+9. Keywords (8–15 for standard folios, up to 20 for collection folios — see Recipe-Format-Standard.md Section 9)
 10. Category (recipes: cuisine + style + family + course; technique folios: style + family only — see Recipe-Format-Standard.md Section 10 and Guidance/Taxonomy.md)
 
 ✓ **FORMATTING STANDARDS:**

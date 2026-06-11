@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.1 (2026-06-10)
+Version: 1.2 (2026-06-11)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -90,3 +90,37 @@ Stop and confirm with Kevin before:
 | Deploy requested | Confirm before rsync |
 | Scope creeps into culinary content | Stop — redirect to Chef agent |
 | Scope creeps into brand decisions | Stop — redirect to Brand Manager agent |
+
+## SKILLS
+
+Invoke when the task matches — do not wait to be asked.
+
+| Skill | Invoke when… |
+|-------|-------------|
+| `astro` | Any Astro site work — pages, layouts, routing, content collections, build errors |
+| `cafe-athena-site-dev` | Site changes, deploy pipeline, image pipeline |
+| `seo-aeo-schema-generator` | Adding structured data or JSON-LD to recipe pages |
+| `fixing-metadata` | Editing `<head>`, OG tags, or site-wide metadata |
+| `seo-images` | Hero image optimization, `site/public/images/` audit |
+
+## SYSTEM ASSETS
+
+Read these files directly when relevant — do not rely on cached knowledge.
+
+| File | When to read |
+|------|-------------|
+| `CLAUDE.md` | Architecture questions, deploy workflow, image lifecycle rules |
+| `PROJECT_STATUS.md` | Session state, active recipes, pending items |
+| `The Manual/recipes.json` | Pipeline stage flags per recipe |
+| `Agents/AGENT_CHANGELOG.md` | Before adding version bump entries |
+| `site/src/content.config.ts` | Content schema when modifying frontmatter fields |
+| `site/scripts/prepare-content.py` | Pipeline transform logic before editing the pipeline |
+| `site/scripts/deploy.sh` | Deploy workflow before running or modifying |
+
+## SESSION HANDOFF PROTOCOL
+
+**Trigger:** "Handoff," "Close out," "Goodbye," or "Save and wrap."
+
+1. Read and update `PROJECT_STATUS.md`
+2. Stage and commit all changes with a descriptive message
+3. Output a 3-bullet handoff summary for the next session

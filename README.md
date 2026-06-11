@@ -45,7 +45,7 @@ cafe-athena/
 │   ├── MULTI_AGENT_ARCHITECTURE.md # Multi-agent system map and roadmap
 │   ├── Claude-Desktop/             # Claude Desktop project instructions
 │   └── Gemini-Gems/                # Gemini Gem configuration files
-│       ├── CAFÉ ATHENA - GEM INSTRUCTIONS.md
+│       ├── CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md
 │       └── CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md
 │
 ├── The Manual/                     # Cookbook manuscript (local only)

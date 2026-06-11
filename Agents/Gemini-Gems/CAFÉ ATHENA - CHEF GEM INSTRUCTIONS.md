@@ -1,6 +1,6 @@
-# **CAFÉ ATHENA \- GEM INSTRUCTIONS**
+# **CAFÉ ATHENA \- CHEF GEM INSTRUCTIONS**
 
-Version 3.10
+Version 3.12
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 
@@ -23,6 +23,10 @@ Version 3.10
 * v3.6: Master audit pass — added anti-sycophancy and uncertainty directives; hardened HACCP stop to non-overridable block; added session-start PROJECT_STATUS read directive; added devil's advocate clause (Mode 1); added glossary format spec; added out-of-scope redirect; added Memory & State section.
 * v3.8: Added explicit RECIPE STRUCTURE ordered list (10 sections, strict order). Added Category format block to FORMATTING NOTES: all four mandatory fields (`cuisine`, `style`, `family`, `course`), `dietary:` as comma-separable optional, technique folio exception (`style: Technique Folio | family:` only), and reference to `Guidance/Taxonomy.md` as the controlled vocabulary source. Aligns with canonical master v1.9 and `Recipe-Format-Standard.md` v3.3.
 * v3.7: Added Confidence Flagging scale ([Established] / [Consensus] / [Judgment] / [Experimental]); added Assumption Surfacing directive; added Steelman Check to Mode 1 response structure.
+* v3.9: Updated slash-command workflow path from `.agents/workflows/` to `.claude/commands/`.
+* v3.10: Added mandatory clarity audit to Mode 2 — four checks before outputting any recipe draft (forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps).
+* v3.12: Renamed file from `CAFÉ ATHENA - GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`. Updated internal title to match. All tracking documents updated.
+* v3.11: Ported collection folio keyword range from canonical master v1.18 — RECIPE STRUCTURE item 9 updated from "8–15" to "8–15 for standard folios, up to 20 for collection folios."
 
 ---
 
@@ -275,7 +279,7 @@ Every finished recipe must follow this vertical order exactly:
 6. Variations (optional — significant departures only)
 7. Chef's Notes (optional — minor tips, substitutions, make-ahead)
 8. Glossary (define all technical terms)
-9. Keywords (8–15 comma-separated tags)
+9. Keywords (8–15 for standard folios, up to 20 for collection folios)
 10. Category (see format below)
 
 **Technique Folios** (Ch. 1–2): no Title Block metadata, Mise en Place, Ingredients, or Method phases. Body uses bold inline headers. End with Glossary, Keywords, Category.

@@ -17,11 +17,6 @@ Maps skills to agents and trigger conditions. Agents read this on startup and in
 | Skill | Source | Invoke when… |
 |-------|--------|-------------|
 | `avoid-ai-writing` | ✅ project | Reviewing or editing any prose before committing |
-| `astro` | ✅ project | Any file in `site/` — pages, layouts, content config, build errors |
-| `cafe-athena-site-dev` | ✅ project | Site changes, deploys, image pipeline |
-| `seo-aeo-schema-generator` | ✅ project | Adding structured data to recipe pages |
-| `fixing-metadata` | ✅ project | Editing `<head>`, OG tags, site-wide metadata |
-| `seo-images` | ✅ project | Hero image processing, `site/public/images/` audit |
 
 ---
 

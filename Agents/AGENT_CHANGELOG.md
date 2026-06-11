@@ -10,6 +10,11 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-11c | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
+| 2026-06-11b | v1.18 | v3.11 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
+| 2026-06-11 | v1.18 | v3.10 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
+| 2026-06-10h | v1.18 | v3.10 | v1.17 | v2.1 | v1.2 | v1.0 | v1.1 | v1.1 | v1.1 | v1.1 |
+| 2026-06-10g | v1.17 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.1 | v1.1 |
 | 2026-06-10f | v1.16 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.1 | v1.1 |
 | 2026-06-10e | v1.15 | v3.10 | v1.15 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 |
 | 2026-06-10d | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 |
@@ -42,12 +47,14 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 ## Gemini Gem 1 — The Chef *(Fallback Surface)*
 
-**File:** `Agents/Gemini-Gems/CAFÉ ATHENA - GEM INSTRUCTIONS.md`  
+**File:** `Agents/Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`  
 **Status:** Maintained as a fallback surface. Not the primary creative surface (Claude Desktop holds that role), but kept in sync with canonical master updates when practical.  
-**Current Version:** 3.10
+**Current Version:** 3.12
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v3.12 | 2026-06-11 | Renamed file from `CAFÉ ATHENA - GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`. Updated internal title. All tracking documents updated. |
+| v3.11 | 2026-06-11 | Ported collection folio keyword range from canonical master v1.18 — RECIPE STRUCTURE item 9 updated from "8–15 comma-separated tags" to "8–15 for standard folios, up to 20 for collection folios." Backfilled missing v3.9 and v3.10 entries into the in-file VERSION HISTORY. |
 | v3.0 | — | Initial release. Mode invoker system, consolidated format standard. |
 | v3.1 | — | Added Stop Point Protocol, Troubleshooting Guide, Bad Output Examples, Decision Protocol, mode-specific completion criteria. |
 | v3.2 | — | Updated SYSTEM ASSETS (removed 00-01 structure file). Added INDEX UPDATE PROTOCOL with mandatory INDEX DATA block format. Added chapter prefix validation to Stop Points. |
@@ -106,6 +113,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.18 | 2026-06-10 | Added collection folio keyword range to Mode 2 Output Protocol step 8 and RECIPE STRUCTURE item 9: standard range remains 8–15, collection folios may use up to 20. Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.17. |
+| v1.17 | 2026-06-10 | Housekeeping fixes from agent audit: (1) corrected BUILT-IN WORKFLOWS path from `.agents/workflows/` to `.claude/commands/` (two occurrences — live failure mode); (2) updated secondary surface version reference in file header from v1.9 to v1.16 (stale). Also fixed stale "site developer" language in CLAUDE.md Key Files and Propagation Rule tables; removed 5 Technical Director skills mis-attributed to the Chef section in SKILLS_INDEX. No behavior changes. |
 | v1.16 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to reference "Technical Director" following agent rename from "Site Developer." Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.16. |
 | v1.15 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to name the Café Athena Technical Director agent explicitly. Old redirect pointed to Claude Code CLI slash commands; new redirect names the Technical Director as the owner of site development, pipeline, deploy, image optimization, and agent work. Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.15. |
 | v1.14 | 2026-06-10 | Updated all internal file path references to reflect project restructure: `AGENT_CHANGELOG.md` → `Agents/AGENT_CHANGELOG.md`, `Claude-Desktop/` → `Agents/Claude-Desktop/`, `Gemini-Gems/` → `Agents/Gemini-Gems/`, `recipes.json` → `The Manual/recipes.json`. No behavior changes. |
@@ -157,10 +166,11 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Gemini Gem 2 — The Visual Director
 
 **File:** `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`  
-**Current Version:** 2.0
+**Current Version:** 2.2
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.2 | 2026-06-11 | Fixed broken markdown table separator in Mode 3 section-specific guidance (`---- ----` → `----`). Added reference image fallback to Mode 1: if Gem UI attachments are missing, written style descriptions serve as the fallback standard — do not interpolate generic food photography defaults. |
 | v2.1 | 2026-06-10 | Revised people/faces rules. Mode 1 (recipe heroes): "No people or hands" replaced with "no faces/full figures; hands actively engaging with cookware or food are permitted." Mode 2 (banners): removed "No people or hands" restriction — people including faces are acceptable. Mode 3 (section landing): removed face exclusion rule — full figures including faces are permitted. Added Glossary exception to Mode 3 text suppression: legible text in open books/notebooks is acceptable and encouraged. |
 | v2.0 | 2026-06-09 | Expanded scope from recipe hero images only to full Visual Director covering all three image types. Added MODE 1 (Recipe Hero), MODE 2 (Chapter Banner), and MODE 3 (Section Landing Page) sections, each with distinct composition rules, surface guidance, suppress lists, and brief input formats. Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`. Moved from `Guidance/` to `Gemini-Gems/`. Banners: 1920×480 ultra-wide (4:1), ingredient/process focus, no plated dishes. Section landing: 1920×1080 (16:9), hands/people permitted for action shots (faces excluded), cinematic editorial style. Per-section guidance table added for all four site sections (Academy, Brigade, Larder, Glossary). "No people or hands" constraint now scoped to Mode 1 recipe heroes only. |
 | v1.3 | 2026-06-09 | Added REFERENCE STYLE IMAGES section. Five canonical hero images designated as visual anchors — one per style zone: `07-09.webp` (default bistro braise), `07-03.webp` (grilled/smoked), `05-02.webp` (seafood/Fishmonger), `09-03.webp` (pastry/Pâtissier), `10-17.webp` (larder/foundational). Images should be attached directly in the Gemini Gem UI. |
@@ -214,13 +224,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 1.0
+**Current Version:** 1.1
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.1 | 2026-06-10 | Three structural improvements from agent audit: (1) Added Mode disambiguation tie-breaker — "write/draft/create" + topic → Mode 3; planning verbs → Mode 2; resolves Mode 2/3 overlap on "post," "copy," "bio." (2) Added OUT-OF-SCOPE REDIRECT section — Chef for culinary, Technical Director for site/pipeline, Visual Director Gem for images. (3) Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; updates status docs, commits, outputs 3-bullet summary. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.1. |
 | v1.0 | 2026-06-10 | Initial release. Three-mode system (Brand Development, Marketing Execution, Content Creation). Owns Brand/ and Marketing/ folder documents. Session startup reads BRAND_STATUS.md, MARKETING_STATUS.md, and both Resources/INDEX.md files. Build sequence for BRAND_GUIDELINES.md defined. Resource library with trigger conditions. Skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose. |
 
 ---
@@ -228,10 +239,11 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.0
+**Current Version:** 1.1
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.1 | 2026-06-10 | Ported from canonical master v1.1: mode disambiguation tie-breaker, OUT-OF-SCOPE REDIRECT, and SESSION HANDOFF PROTOCOL. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
 
 ---
@@ -239,13 +251,14 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Technical Director
 
 **File:** `.claude/agents/Cafe Athena Technical Director.agent.md`
-**Current Version:** 1.0
+**Current Version:** 1.2
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.2 | 2026-06-11 | Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; reads and updates PROJECT_STATUS.md, commits, outputs 3-bullet summary. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.2 (also added condensed SKILLS table, SYSTEM ASSETS table). |
 | v1.1 | 2026-06-10 | Renamed from "Café Athena Site Developer" to "Café Athena Technical Director." File renamed to `.claude/agents/Cafe Athena Technical Director.agent.md`; secondary surface renamed to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. No behavior changes. |
 | v1.0 | 2026-06-10 | Initial release. Three-mode system (Site Development, Pipeline & Deploy, Agent & Tooling Development). Owns site/, scripts/, site/scripts/, site/public/images/, .claude/agents/, .claude/commands/, .claude/skills/, and Agents/. Session startup reads PROJECT_STATUS.md, BRAND_STATUS.md, MARKETING_STATUS.md, .claude/SKILLS_INDEX.md. Deploy, heroImage, and agent version bump constraints documented as critical constraints. Skills: astro, cafe-athena-site-dev, seo-aeo-schema-generator, fixing-metadata, seo-images, and multiple everything-claude-code: agent tools. |
 
@@ -254,10 +267,11 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Technical Director
 
 **File:** `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-**Current Version:** 1.1
+**Current Version:** 1.2
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Also added condensed SKILLS table (5 project skills with trigger conditions) and SYSTEM ASSETS table (7 key files with when-to-read guidance) — closes gap from agent audit which found these absent from the secondary surface. |
 | v1.1 | 2026-06-10 | File renamed from `SITE_DEVELOPER_INSTRUCTIONS.md` to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. Agent renamed to "Technical Director." No behavior changes. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
 
