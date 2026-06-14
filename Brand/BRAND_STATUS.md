@@ -1,24 +1,79 @@
 # Brand Status
 
-**Last Updated:** 2026-06-10
+**Last Updated:** 2026-06-11
 **Branch:** main
 
 ---
 
 ## Active Work
 
-- [ ] BRAND_GUIDELINES.md — draft in progress
+- [ ] **Phase 7 — Marketing Activation** — see `BRAND_TODO.md` for full task list
 
-## Open Items
+## Phase Status
 
-- [ ] Author bio — all three versions (short, long, social)
-- [ ] Audience personas — who Café Athena is for
-- [ ] Creative guidance — logo rules, visual asset standards
-- [ ] Visual asset inventory — hero images, banners, section landing pages
+| Phase | Status |
+|-------|--------|
+| 1 — Brand Foundation | Complete |
+| 2 — Author Identity | Complete |
+| 3 — Audience Personas | Complete |
+| 4 — Voice & Tone | Complete |
+| 5 — Visual Identity | Complete |
+| 6 — Guidelines Complete | Complete |
+| 7 — Marketing Activation | Next |
+
+## Phase 6 — Completed Items
+
+- §8 Visual Asset System: Educational / Companion Content — written to `Brand/BRAND_GUIDELINES.md`
+- §9 Asset Naming & Specifications — written to `Brand/BRAND_GUIDELINES.md`
+- §10 What This Document Does Not Cover — written to `Brand/BRAND_GUIDELINES.md`
+- Full consistency QA across all 10 sections — complete
+- `Brand/BRAND_GUIDELINES.md` status updated to "Complete — Phase 1 brand build"
+- Sections index updated to mark §9 and §10 complete
+
+## Logo — Delivered
+
+- `Brand/Logo/logo-black.svg` — primary mark, charcoal on light backgrounds
+- `Brand/Logo/logo-color.svg` — olive gold on dark backgrounds
+- `Brand/Logo/logo-white.svg` — white reverse mark
+- `Brand/Logo/Cafe Athena - The Manual - Logo.ai` — Illustrator source
+- All SVGs fully outlined, no font dependencies
+- Documented in `Brand/Creative/visual-system.md` and `Brand/BRAND_GUIDELINES.md` §9
+
+## Phase 5 — Completed Items
+
+- §3 Typography — written to `Brand/BRAND_GUIDELINES.md`
+- §4 Color Palette — written to `Brand/BRAND_GUIDELINES.md`
+- §7 Visual Asset System: Cookbook Photography — written to `Brand/BRAND_GUIDELINES.md`
+- Logo & Wordmark Brief — written to `Brand/Creative/visual-system.md`
+- Logo delivered — three variants, fully outlined
+- Social Template Visual Specs — written to `Brand/Creative/visual-system.md`
+
+## Phase 4 — Completed Items
+
+- Manuscript Register spec — written to `Brand/BRAND_GUIDELINES.md` §5
+- Manuscript Register do/don't pairs (8 pairs) — written to `Brand/BRAND_GUIDELINES.md` §5
+- Acquisition Register spec — written to `Brand/BRAND_GUIDELINES.md` §6
+- Acquisition Register do/don't pairs (8 pairs) — written to `Brand/BRAND_GUIDELINES.md` §6
+- Forbidden Phrases list (21 phrases) — written to `Brand/BRAND_GUIDELINES.md` §6
+
+## Phase 3 — Completed Items
+
+- Persona 1: The Serious Home Cook — written to `Brand/Personas/persona-serious-home-cook.md`
+- Persona 2: The Culinary Curious — written to `Brand/Personas/persona-culinary-curious.md`
+- Persona 3: The Kitchen Experimenter — written to `Brand/Personas/persona-kitchen-experimenter.md`
+
+## Phase 2 — Completed Items
+
+- Author backstory (first-person) — written to `Brand/BRAND_GUIDELINES.md` §2
+- Long bio (About page / press) — written to `Brand/Author/bio-long.md`
+- Short bio (site blurb) — written to `Brand/Author/bio-short.md`
+- Social bios (Instagram, YouTube, Pinterest, Facebook) — written to `Brand/Author/bio-social.md`
 
 ## Deferred
 
 - Newsletter capture — revisit after social channels are live and audience exists
+- Author photo brief — needs photo shoot or Visual Director brief
+- Cross-check personas against positioning statement — deferred; address in Phase 7 review if needed
 
 ---
 

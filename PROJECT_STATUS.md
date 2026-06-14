@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-10 (session 48)
+Last Updated: 2026-06-14 (session 49)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -32,4 +32,15 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
-| *(none)* | — | — | — |
+| AI setup health audit | Context degradation and repeated errors observed this session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
+| Phase 7 — Marketing Activation | Brand phases 1–6 complete. Full task list in `Brand/BRAND_TODO.md`. Site copy, social channel setup, post templates all pending. | Ready to start — no blocking condition | 2026-06-14 |
+| Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
+
+---
+
+## 📐 Strategic Context & Learnings
+
+- **Plugin scope:** Plugins installed via `claude plugin install` at user scope are stored in `~/.claude/plugins/` and are shared across Claude Code CLI, Claude Desktop, and claude.ai. No separate Desktop install needed.
+- **antigravity-awesome-skills:** Registered as a marketplace but individual plugins lack `plugin.json` manifests — cannot install via `claude plugin install`. Skills must be copied manually to `~/.claude/skills/`. Done for `context-window-management` and `claude-code-guide`.
+- **Context degradation:** This session showed clear signs of context-length-related errors (repeated wrong claims, incomplete fixes). Handoff triggered early. Next session should start with `/everything-claude-code:context-budget` audit before any substantive work.
+- **Memory system:** Feedback memory `feedback_verify_before_stating.md` added — verify before stating claims about systems, platforms, or fix completeness.

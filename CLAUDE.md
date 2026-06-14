@@ -297,7 +297,9 @@ Session-relevant learnings that shape how work should be done in this project.
 
 ## Project Skills — Auto-Trigger Rules
 
-Five skills are installed in `.claude/skills/`. Invoke them automatically when their trigger conditions are met — do not wait to be asked.
+Skills from `.claude/skills/` and installed plugins are invoked automatically when their trigger conditions are met — do not wait to be asked.
+
+### Site & Content Skills
 
 | Skill | Invoke when… |
 |-------|-------------|
@@ -306,3 +308,19 @@ Five skills are installed in `.claude/skills/`. Invoke them automatically when t
 | `seo-aeo-schema-generator` | Adding a new recipe to the site, or when asked about schema, structured data, JSON-LD, or rich results |
 | `fixing-metadata` | Editing `[...slug].astro`, layout files, `<head>` content, OG tags, or any site-wide metadata |
 | `seo-images` | Processing or placing hero images, running the deploy pipeline, or auditing `site/public/images/` for missing/oversized files |
+| `notebooklm-folio-explainer` | User mentions NotebookLM, a folio number (e.g. "01-02"), "video explainer", "infographic prompt", "slide deck prompt", or asks to prepare a folio for any NotebookLM Studio tool |
+
+### PM Skills (pm-skills plugin)
+
+These skills map to Phase 7 (Marketing Activation) and ongoing brand/GTM work. Suggest the relevant skill when the context matches — do not wait for Kevin to ask.
+
+| Skill | Invoke when… |
+|-------|-------------|
+| `pm-go-to-market:plan-launch` | Planning any channel launch, social setup, or audience-building initiative |
+| `pm-marketing-growth:value-prop-statements` | Writing or reviewing site hero copy, subheadlines, CTAs, or acquisition-register copy |
+| `pm-marketing-growth:positioning-ideas` | Asked about how to differentiate Café Athena from other food/cookbook sites |
+| `pm-marketing-growth:north-star-metric` | Defining what success looks like for the site, social, or audience growth |
+| `pm-go-to-market:gtm-motions` | Deciding which social channels to prioritize or how to structure the channel mix |
+| `pm-go-to-market:beachhead-segment` | Identifying which audience persona to lead with on which platform |
+| `pm-market-research:competitive-analysis` | Asked about competing cookbooks, food content creators, or the culinary content landscape |
+| `pm-execution:pre-mortem` | Before any major launch, deploy decision, or irreversible brand commitment |

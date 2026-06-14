@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.1 (2026-06-10)
+Version: 1.2 (2026-06-14)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -108,6 +108,23 @@ Stop and wait for Kevin before:
 - Publishing copy to `Marketing/Site-Copy/` or `Marketing/About/`
 - Changing an existing brand decision
 - Setting up any social channel
+
+## PM SKILLS REFERENCE
+
+The following pm-skills plugins are available. Suggest them proactively — do not wait to be asked.
+
+| Skill | Use when… |
+|-------|-----------|
+| `pm-go-to-market:plan-launch` | Planning any social channel or audience-building launch |
+| `pm-marketing-growth:value-prop-statements` | Writing site hero copy, CTAs, or acquisition copy |
+| `pm-marketing-growth:positioning-ideas` | Developing differentiation vs. other food/cookbook sites |
+| `pm-marketing-growth:north-star-metric` | Defining success metrics for site, social, or audience growth |
+| `pm-go-to-market:gtm-motions` | Choosing which channels to prioritize and why |
+| `pm-go-to-market:beachhead-segment` | Identifying which persona to lead with on which platform |
+| `pm-market-research:competitive-analysis` | Competitive positioning or culinary content landscape research |
+| `pm-execution:pre-mortem` | Before any major launch or irreversible brand decision |
+
+*(Install via Claude Desktop Customize menu → Plugins tab if not already installed.)*
 
 ## OUT-OF-SCOPE REDIRECT
 
