@@ -108,14 +108,14 @@ const glossaryTerms = [
 <BaseLayout title="Welcome" currentPage="home">
 
   <!-- ── Hero ───────────────────────────────────────────────────────────── -->
-  <section class="text-center w-full max-w-4xl mx-auto px-6 pt-24 pb-32 landing-hero opacity-0 translate-y-8">
+  <section class="text-center w-full max-w-4xl mx-auto px-6 pt-16 pb-20 md:pt-24 md:pb-32 landing-hero opacity-0 translate-y-8">
     <div class="inline-block border border-[#c9a96e] px-4 py-1 rounded-full text-xs font-semibold tracking-widest uppercase text-[#c9a96e] mb-8">
       Café Athena
     </div>
-    <h1 class="font-heading text-7xl md:text-8xl lg:text-9xl font-bold text-[#1a1a2e] tracking-tighter leading-none mb-8">
+    <h1 class="font-heading text-5xl md:text-8xl lg:text-9xl font-bold text-[#1a1a2e] tracking-tighter leading-none mb-8">
       The Manual
     </h1>
-    <p class="font-heading text-2xl md:text-3xl italic text-[#6b6b7b] max-w-2xl mx-auto mb-10">
+    <p class="font-heading text-xl md:text-3xl italic text-[#6b6b7b] max-w-2xl mx-auto mb-10">
       A living codex of technique, science, and culinary soul.
     </p>
     <div class="flex items-center justify-center gap-4 mb-12">
@@ -138,8 +138,7 @@ const glossaryTerms = [
       {pillars.map((pillar, i) => (
         <a
           href={pillar.href}
-          class={`landing-card opacity-0 group relative overflow-hidden flex flex-col justify-end p-10 lg:p-14 transition-all duration-700 no-underline focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-inset focus-visible:ring-[#c9a96e] ${i < pillars.length - 1 ? 'md:border-r border-[#e0d8cc]/60' : ''}`}
-          style="aspect-ratio: 3/4; min-height: 520px;"
+          class={`landing-card opacity-0 group relative overflow-hidden flex flex-col justify-end p-6 md:p-10 lg:p-14 transition-all duration-700 no-underline focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-inset focus-visible:ring-[#c9a96e] min-h-[340px] md:min-h-[520px] md:aspect-[3/4] ${i < pillars.length - 1 ? 'md:border-r border-[#e0d8cc]/60' : ''}`}
         >
           <!-- Background photo -->
           <img
@@ -161,13 +160,13 @@ const glossaryTerms = [
             <span class="font-mono text-[10px] uppercase tracking-[0.25em] text-[#6b6b7b] group-hover:text-[#c9a96e]/80 mb-5 block transition-colors duration-500">
               {pillar.label}
             </span>
-            <h2 class="font-heading text-5xl lg:text-6xl font-bold text-[#1a1a2e] group-hover:text-white mb-3 transition-colors duration-500 leading-tight">
+            <h2 class="font-heading text-3xl md:text-5xl lg:text-6xl font-bold text-[#1a1a2e] group-hover:text-white mb-3 transition-colors duration-500 leading-tight">
               {pillar.title}
             </h2>
             <p class="font-mono text-[10px] uppercase tracking-widest text-[#c9a96e] mb-6">{pillar.subtitle}</p>
 
             <!-- Description — hidden until hover. min-h reserves uniform space so titles align across cards regardless of desc length. -->
-            <p class="text-[#f5f0e8] text-base leading-relaxed max-w-xs mb-8 min-h-[14rem] opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 delay-75">
+            <p class="text-[#f5f0e8] text-base leading-relaxed max-w-xs mb-8 min-h-0 md:min-h-[14rem] opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 delay-75">
               {pillar.desc}
             </p>
 
@@ -225,7 +224,7 @@ const glossaryTerms = [
   <!-- ── Glossary Preview ───────────────────────────────────────────────── -->
   <section class="bg-[#faf7f2] py-24 px-6 md:px-24 border-t border-[#e0d8cc]/60">
     <div class="max-w-4xl mx-auto">
-      <div class="flex flex-col md:flex-row justify-between items-end mb-14 border-b border-[#1a1a2e]/10 pb-8">
+      <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-14 border-b border-[#1a1a2e]/10 pb-8">
         <div>
           <span class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-2 block">Reference Material</span>
           <h2 class="font-heading text-4xl font-bold text-[#1a1a2e]">The Glossary</h2>
@@ -253,7 +252,7 @@ const glossaryTerms = [
   <!-- ── Browse by Category ───────────────────────────────────────────────── -->
   <section class="bg-[#f0ede9] py-24 px-6 md:px-12 border-t border-[#e0d8cc]/60">
     <div class="max-w-7xl mx-auto">
-      <div class="flex flex-col md:flex-row justify-between items-end mb-14 border-b border-[#1a1a2e]/10 pb-8">
+      <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-14 border-b border-[#1a1a2e]/10 pb-8">
         <div>
           <span class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-2 block">Reference Material</span>
           <h2 class="font-heading text-4xl font-bold text-[#1a1a2e]">Browse by Category</h2>
