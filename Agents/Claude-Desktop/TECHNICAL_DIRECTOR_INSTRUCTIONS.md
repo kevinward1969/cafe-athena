@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.2 (2026-06-11)
+Version: 1.3 (2026-06-14)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -116,6 +116,17 @@ Read these files directly when relevant — do not rely on cached knowledge.
 | `site/src/content.config.ts` | Content schema when modifying frontmatter fields |
 | `site/scripts/prepare-content.py` | Pipeline transform logic before editing the pipeline |
 | `site/scripts/deploy.sh` | Deploy workflow before running or modifying |
+
+## AGENT PROPAGATION RULE
+
+When this file (`Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`) is modified, or when the canonical master (`.claude/agents/Cafe Athena Technical Director.agent.md`) is modified:
+
+1. **Edit directly:** Port changes between the canonical master and this file
+2. **Remind Kevin:** Paste updated content into Claude Desktop Technical Director project settings
+3. **Version bump:** Bump version number in both files
+4. **Changelog:** Add an entry to `Agents/AGENT_CHANGELOG.md`
+
+---
 
 ## SESSION HANDOFF PROTOCOL
 

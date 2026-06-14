@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | v1.2 | v1.3 |
 | 2026-06-14 | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.2 | v1.2 | v1.2 | v1.2 |
 | 2026-06-11c | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
 | 2026-06-11b | v1.18 | v3.11 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
@@ -73,7 +74,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 ## Claude Desktop Agent
 
 **File:** `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.14
+**Current Version:** 1.18
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -83,6 +84,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 | v1.3 | 2026-04-14 | Updated `/glossary-pull` and `/audit-glossary` descriptions to reference the split glossary structure (`The Manual/Glossary/`) instead of the deprecated monolithic file. |
 | v1.4 | 2026-04-16 | Master audit pass. Added No Sycophancy and Uncertainty Acknowledgment directives to PERSONA. Added session-start PROJECT_STATUS read directive to MEMORY & STATE. Added devil's advocate clause and Mode 1 response structure template. Added food safety HARD BLOCK to CRITICAL STOP POINTS. Added glossary format spec to FORMATTING STANDARDS. Added OUT-OF-SCOPE REDIRECT to CORE CONSTRAINTS. |
 | v1.5 | 2026-04-16 | Added Confidence Flagging four-level scale ([Established] / [Consensus] / [Judgment] / [Experimental]) to PERSONA. Added Assumption Surfacing directive. Added Steelman Check as item 3 in Mode 1 response structure. |
+| v1.18 | 2026-06-14 | Added Mode 2 Output Protocol step 1: "Read Guidance/Recipe-Format-Standard.md to confirm current format rules." Renumbered steps 2–10 accordingly. Brings secondary surface in sync with canonical master v1.18. |
+| v1.17 | 2026-06-10 | Ported collection folio keyword range from canonical master v1.18. |
 | v1.16 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to reference "Technical Director" following agent rename. Ported from canonical master v1.16. |
 | v1.15 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to name the Café Athena Technical Director agent. Ported from canonical master v1.15. |
 | v1.14 | 2026-06-09 | Added mandatory clarity audit as step 2 of Mode 2 OUTPUT PROTOCOL. Four checks baked in: forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps. Renumbered steps 3–9 accordingly. |
@@ -241,11 +244,12 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.2
+**Current Version:** 1.3
 
 | Version | Date | Changes |
 |---------|------|---------|
-| v1.2 | 2026-06-14 | Added PM Skills Reference section with 8 pm-skills entries and Claude-Desktop-only caveat note. Ported from canonical master v1.2. |
+| v1.3 | 2026-06-14 | Added BRAND & COPY SKILLS table (8 skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose) — was absent from secondary surface. Added items 3–4 to SESSION START (Brand/Resources/INDEX.md, Marketing/Resources/INDEX.md) — closes gap from agent audit. |
+| v1.2 | 2026-06-14 | Added PM Skills Reference section with 8 pm-skills entries. Ported from canonical master v1.2. |
 | v1.1 | 2026-06-10 | Ported from canonical master v1.1: mode disambiguation tie-breaker, OUT-OF-SCOPE REDIRECT, and SESSION HANDOFF PROTOCOL. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
 
@@ -270,11 +274,12 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Technical Director
 
 **File:** `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-**Current Version:** 1.2
+**Current Version:** 1.3
 
 | Version | Date | Changes |
 |---------|------|---------|
-| v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Also added condensed SKILLS table (5 project skills with trigger conditions) and SYSTEM ASSETS table (7 key files with when-to-read guidance) — closes gap from agent audit which found these absent from the secondary surface. |
+| v1.3 | 2026-06-14 | Added AGENT PROPAGATION RULE section — closes gap from agent audit. Ensures Claude Desktop Technical Director knows propagation steps (port changes, remind Kevin to paste, version bump, changelog update) when agent files are modified in Mode 3. |
+| v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Added condensed SKILLS table (5 project skills) and SYSTEM ASSETS table (7 key files). |
 | v1.1 | 2026-06-10 | File renamed from `SITE_DEVELOPER_INSTRUCTIONS.md` to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. Agent renamed to "Technical Director." No behavior changes. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
 

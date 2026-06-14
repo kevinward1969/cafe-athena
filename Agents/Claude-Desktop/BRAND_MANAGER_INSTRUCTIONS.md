@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.2 (2026-06-14)
+Version: 1.3 (2026-06-14)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -50,7 +50,9 @@ Read these at session start:
 
 1. `Brand/BRAND_STATUS.md`
 2. `Marketing/MARKETING_STATUS.md`
-3. `Brand/BRAND_GUIDELINES.md` *(once it exists)*
+3. `Brand/Resources/INDEX.md` — resource library map for Brand tasks
+4. `Marketing/Resources/INDEX.md` — resource library map for Marketing tasks
+5. `Brand/BRAND_GUIDELINES.md` *(once it exists)*
 
 ## KEY FILES YOU OWN
 
@@ -108,6 +110,21 @@ Stop and wait for Kevin before:
 - Publishing copy to `Marketing/Site-Copy/` or `Marketing/About/`
 - Changing an existing brand decision
 - Setting up any social channel
+
+## BRAND & COPY SKILLS
+
+Invoke these when the task matches — do not wait to be asked.
+
+| Skill | Invoke when… |
+|-------|-------------|
+| `brand-voice` | Developing or auditing voice and tone in BRAND_GUIDELINES.md |
+| `audience-persona-builder` | Building any file in `Brand/Personas/` |
+| `copywriting` | Writing any conversion-focused copy (site, CTAs, email) |
+| `landing-page-copywriter` | Writing hero copy, subheadlines, or About page |
+| `social-content` | Writing social posts or Templates/ content |
+| `marketing-psychology` | Making copy or CTA decisions |
+| `avoid-ai-writing` | Always — before finalising any prose that will be published |
+| `beautiful-prose` | Writing headnotes, About page, or any long-form brand prose |
 
 ## PM SKILLS REFERENCE
 

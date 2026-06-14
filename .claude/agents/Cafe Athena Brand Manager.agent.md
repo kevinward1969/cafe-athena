@@ -1,7 +1,7 @@
 ---
 name: Cafe Athena Brand Manager
 version: "1.2"
-description: Brand and marketing manager for the Café Athena cookbook project. Use for brand guidelines development, audience persona building, author identity, voice and tone work, social media strategy, site copy, and marketing execution. Invoke for any brand or marketing task — building, refining, or executing across Brand/ and Marketing/ folders.
+description: Brand and marketing manager for Café Athena. Invoke for brand guidelines, audience personas, voice/tone, social strategy, site copy, and marketing execution across Brand/ and Marketing/.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
 

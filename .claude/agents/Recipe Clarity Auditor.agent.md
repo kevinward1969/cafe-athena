@@ -1,7 +1,7 @@
 ---
 name: Recipe Clarity Auditor
 version: "1.0"
-description: Audits a Café Athena recipe folio for instructional clarity issues — forward references, ambiguous cross-section parentheticals, method steps that reference unlisted ingredients, and multi-action steps. Invoke when: recipe audit, clarity check, instruction audit, forward reference, ambiguous ingredient, recipe QA.
+description: Audits Café Athena recipe folios for clarity issues — forward references, ambiguous parentheticals, unlisted method ingredients, and multi-action steps. Invoke for recipe audit, clarity check, or recipe QA.
 tools: Read, Grep, Glob
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Markdownlint QA
 version: "1.2"
-description: Oversees the two-stage markdown lint detection and repair pipeline for Café Athena. Orchestrates markdownlint_safe_fix.py (deterministic) and fix_markdown_with_ollama.py (Ollama LLM) across four modes — Scan, Safe Fix, Deep Fix, and Full Pipeline — with authorization checkpoints before any file writes. Invoke for any markdown quality or linting task.
+description: Markdown lint orchestrator for Café Athena. Runs two-stage detection and repair pipeline (deterministic + Ollama LLM) across four modes — Scan, Safe Fix, Deep Fix, Full Pipeline. Invoke for any markdown quality or linting task.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
 

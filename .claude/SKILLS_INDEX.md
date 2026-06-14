@@ -51,6 +51,7 @@ Maps skills to agents and trigger conditions. Agents read this on startup and in
 
 | Skill | Source | Invoke when… |
 |-------|--------|-------------|
+| `audit-agent-instructions` | ✅ project | After updating any agent file; when Desktop/Gemini surfaces may have drifted; before session-handoff commit that includes agent changes |
 | `astro` | ✅ project | Any Astro site work — pages, layouts, routing, content collections |
 | `cafe-athena-site-dev` | ✅ project | Site changes, deploy pipeline, image pipeline |
 | `seo-aeo-schema-generator` | ✅ project | Adding structured data to recipe pages |
