@@ -41,6 +41,16 @@ Produce a rollup in this order: **active work first, then open issues, then back
 
 ---
 
+## Documentation Lifecycle
+
+Never let active-work detail live in more than one place at a time:
+
+1. **`The Manual/IDEAS.md`** — ideas not yet realized, or not yet completely acted on. Nothing active belongs here.
+2. **`PROJECT_STATUS.md`** — work in progress, *or* existing/already-built systems with a functional status worth tracking. Not purely a "pending work" file. While an initiative is active, it gets only a single pointer row here — all working detail (architecture decisions, open questions, build checklist) consolidates into one dedicated tracker file for that initiative (e.g. `Expo/EXPO_TODO.md`). Do not fragment active work across multiple docs.
+3. **On completion** — the durable operational knowledge (commands, agents, skills, how the pipeline runs end to end) gets written up as a new workflow in `Guidance/Cafe-Athena-Workflow-Guide.md`, in the same PHASE-style format as the existing workflows. The detailed tracker file is retired; `PROJECT_STATUS.md` keeps whatever ongoing functional-status line still applies rather than dropping the system from view entirely.
+
+---
+
 ## What This Project Is
 
 A culinary cookbook project with a published Astro site at `cookbook.kevinward.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.

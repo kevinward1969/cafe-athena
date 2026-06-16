@@ -21,4 +21,18 @@ const recipes = defineCollection({
   }),
 });
 
-export const collections = { recipes };
+const expo = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/expo' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    date: z.date(),
+    excerpt: z.string(),
+    heroImage: z.string().optional(),
+    relatedRecipes: z.array(z.string()).optional().default([]),
+    chapterPart: z.string().optional(),
+    tags: z.array(z.string()).optional().default([]),
+  }),
+});
+
+export const collections = { recipes, expo };

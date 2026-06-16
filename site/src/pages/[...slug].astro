@@ -1,6 +1,7 @@
 ---
 import RecipeLayout from '../layouts/RecipeLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { buildRecipeJsonLd } from '../utils/recipeSchema';
 
 export async function getStaticPaths() {
   const allRecipes = await getCollection('recipes');
@@ -29,6 +30,16 @@ let heroImagePath: string | undefined;
 if (recipe.data.heroImage) {
   heroImagePath = `/images/${recipe.data.heroImage}`;
 }
+
+const recipeSchema = buildRecipeJsonLd({
+  type: recipe.data.type,
+  title: recipe.data.title,
+  body: recipe.body ?? '',
+  heroImage: recipe.data.heroImage,
+  cuisine: recipe.data.cuisine,
+  course: recipe.data.course,
+  keywords: recipe.data.keywords,
+});
 ---
 
 <RecipeLayout
@@ -47,6 +58,7 @@ if (recipe.data.heroImage) {
   recipeType={recipe.data.type}
   prevRecipe={prevRecipe}
   nextRecipe={nextRecipe}
+  recipeSchema={recipeSchema}
 >
   <Content />
 </RecipeLayout>

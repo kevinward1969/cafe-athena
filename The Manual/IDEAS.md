@@ -50,30 +50,7 @@ Techniques, science questions, equipment tests, or method comparisons worth expl
 
 Ideas for Part IV (Planning, Plating, Service) or other editorial content — essays, sidebars, cross-references, introductions, manifestos.
 
-- **Part IV: The Expo (Ch. 13–15)** — narrative capstone of The Manual and a dedicated site section. Content is editorial/instructional, not recipe folios. Scope:
-
-  - **Ch. 13 — Planning**: Menu engineering, course sequencing, ticket flow, timing
-  - **Ch. 14 — Plating**: Composition, visual language, the architecture of the plate
-  - **Ch. 15 — Service**: The handoff, hospitality, reading the room, pacing
-
-  Needs: content plan, chapter scaffolding, site section design, nav integration. Site-integration work is coupled — the section can't be built without the content. When started, move to `PROJECT_STATUS.md`. *(2026-04-22)*
-
-- **14-01 — The Garnish Arsenal (The Power of Finish)** — Ch. 14 first folio; the visual and textural finishing layer (microgreens, blooms, oils, dust, crunch, sauce dots). Technique-forward, should establish the plating vocabulary used across Part IV. *(moved from active 2026-05-27)*
-
-- **The Expo as multi-purpose blog** — The Expo site section doubles as an editorial blog layer: curated recipe collections (e.g. "Full Brunch Service," "Core Café Athena Menu"), menu essays, plating guides, service notes. Collection pages live here as blog-style posts that pull together recipes with context, rather than bare auto-generated lists. Natural home for Part IV content once that chapter work begins. *(2026-05-19)*
-
-  **Editorial blog infrastructure** — No platform migration needed; Astro handles this natively. Build a new `posts` content collection alongside `recipes`. Each post is a Markdown file with frontmatter (`title`, `date`, `relatedRecipes[]`, `heroImage`, `excerpt`). Posts publish at `/expo/[slug]`. A post can reference one or more recipe folios, pull their hero images, and link directly to the folio page — keeping the recipe and the story tightly coupled without duplicating content. The `/expo` landing page lists posts in reverse-chronological order, functioning as the blog index.
-
-  **Test case: 06-12 Quail — Ortolan-style** — This folio is the planned first post. The recipe folio covers the how (preparation, Armagnac, whole-bird roasting). The editorial post covers the why: the history of the Ortolan bunting, the ritual (the napkin, the bones, eating whole), Mitterrand's last meal, the 1999 French ban, and why quail is the correct modern substitute. The two pieces cross-link. This pairing is the proof of concept for the entire blog model — a technique-forward recipe with a story big enough to stand alone as editorial content and drive search traffic from outside the cookbook audience.
-
-  **Build scope (half-day task when ready):**
-  - Add `posts` content collection to `site/src/content.config.ts`
-  - Create `site/src/content/posts/` directory
-  - Add `/expo/[slug].astro` dynamic route + `expo.astro` landing page
-  - Extend `prepare-content.py` or add a separate `prepare-posts.py` to process `The Manual/The Expo/` → `site/src/content/posts/`
-  - Add Expo nav link to site header
-
-  **Sequencing:** Finish Chapter 6 first. Write the Quail folio. Then build the blog infrastructure and write the Ortolan editorial post as the inaugural piece. *(2026-06-08)*
+- **Part IV: The Expo (Ch. 13–15) — ACTIVE, moved out of ideas.** Architecture and build tracking now live in `Expo/EXPO_TODO.md`; status pointer in `PROJECT_STATUS.md`. Manuscript chapter scaffolding (13 Planning, 14 Plating, 15 Service) and the 14-01 Garnish Arsenal folio are still unwritten — see `EXPO_TODO.md` for what's blocked on Chef-side content vs. what infra can proceed independently. *(moved 2026-06-16)*
 
 ---
 
@@ -83,6 +60,6 @@ Improvements to the site, agents, scripts, or workflows that aren't urgent.
 
 - **~~Food Critic / Food Writer Agent~~** — ✅ Superseded by the Café Athena Brand & Marketing Manager agent (built 2026-06-10). Brand, copy, social, and editorial work now lives there.
 
-- **Café Athena Content Writer & Social Media Manager Agent** — dedicated agent for high-frequency executional content: social posts, content calendar management, The Expo editorial blog posts, and eventually newsletter copy. Split from the Brand & Marketing Manager once the brand foundation is established and content volume justifies it. **Trigger to build:** `Brand/BRAND_GUIDELINES.md` complete + first social channels live + content calendar started. When built, owns `Marketing/Social/Templates/`, `Marketing/Social/` calendar, and `The Manual/The Expo/` editorial content. Brand Manager hands off once the brand is defined. *(2026-06-10)*
+- **Café Athena Content Writer & Social Media Manager Agent** — dedicated agent for high-frequency executional content: social posts, content calendar management, The Expo editorial blog posts, and eventually newsletter copy. Split from the Brand & Marketing Manager once the brand foundation is established and content volume justifies it. **Trigger to build:** `Brand/BRAND_GUIDELINES.md` complete + first social channels live + content calendar started. When built, owns `Marketing/Social/Templates/`, `Marketing/Social/` calendar, and `Expo/` editorial content. Brand Manager hands off once the brand is defined. *(2026-06-10)*
 
 - **Café Athena Technical Director Agent** — ✅ COMPLETED 2026-06-10. Canonical master at `.claude/agents/Cafe Athena Technical Director.agent.md` v1.0. Secondary surface at `Agents/Claude-Desktop/SITE_DEVELOPER_INSTRUCTIONS.md`. Chef agent updated to v1.15; OUT-OF-SCOPE REDIRECT updated; CLAUDE.md AI surfaces table, Key Files, Version Bump Rule, and Propagation Rule all updated.

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import { familyToSlug, cuisineToSlug } from '../utils/taxonomy';
+import { buildBreadcrumbJsonLd } from '../utils/recipeSchema';
 
 interface Props {
   title: string;
@@ -18,9 +19,10 @@ interface Props {
   recipeType?: string;
   prevRecipe?: { slug: string; title: string } | null;
   nextRecipe?: { slug: string; title: string } | null;
+  recipeSchema?: Record<string, unknown> | null;
 }
 
-const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', family = '', course = '', dietary = '', recipeType = 'recipe', prevRecipe, nextRecipe } = Astro.props;
+const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', family = '', course = '', dietary = '', recipeType = 'recipe', prevRecipe, nextRecipe, recipeSchema = null } = Astro.props;
 const hasHero = heroImage && heroImage.length > 0;
 
 let sectionHref = '/brigade';
@@ -33,9 +35,17 @@ if (chapter === 1 || chapter === 2) {
   sectionHref = '/larder';
   sectionName = 'The Larder';
 }
+
+const breadcrumbSchema = buildBreadcrumbJsonLd([
+  { name: 'Home', url: '/' },
+  { name: sectionName, url: sectionHref },
+  { name: `Chapter ${chapter}`, url: `${sectionHref}#chapter-${chapter}` },
+  { name: title, url: `/${index}` },
+]);
+const structuredData = recipeSchema ? [breadcrumbSchema, recipeSchema] : [breadcrumbSchema];
 ---
 
-<BaseLayout title={title} description={`${title} — Chapter ${chapter}: ${chapterName}. From Café Athena — The Manual.`}>
+<BaseLayout title={title} description={`${title} — Chapter ${chapter}: ${chapterName}. From Café Athena — The Manual.`} structuredData={structuredData}>
   <article class="max-w-4xl mx-auto px-6 py-12 md:py-20 lg:py-24">
     
     <!-- Render floating recipe card -->
