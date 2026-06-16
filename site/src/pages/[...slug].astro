@@ -5,11 +5,16 @@ import { buildRecipeJsonLd } from '../utils/recipeSchema';
 
 export async function getStaticPaths() {
   const allRecipes = await getCollection('recipes');
+  const allExpo = await getCollection('expo');
   const sorted = allRecipes.sort((a, b) => a.data.index.localeCompare(b.data.index));
 
   return sorted.map((recipe, idx) => {
     const prev = idx > 0 ? sorted[idx - 1] : null;
     const next = idx < sorted.length - 1 ? sorted[idx + 1] : null;
+
+    const relatedExpoPosts = allExpo
+      .filter(post => post.data.relatedRecipes.includes(recipe.data.index))
+      .map(p => ({ id: p.id, title: p.data.title }));
 
     return {
       params: { slug: recipe.id },
@@ -17,12 +22,13 @@ export async function getStaticPaths() {
         recipe,
         prevRecipe: prev ? { slug: prev.id, title: prev.data.title } : null,
         nextRecipe: next ? { slug: next.id, title: next.data.title } : null,
+        relatedExpoPosts,
       },
     };
   });
 }
 
-const { recipe, prevRecipe, nextRecipe } = Astro.props;
+const { recipe, prevRecipe, nextRecipe, relatedExpoPosts } = Astro.props;
 const { Content } = await render(recipe);
 
 // Resolve hero image path
@@ -59,6 +65,7 @@ const recipeSchema = buildRecipeJsonLd({
   prevRecipe={prevRecipe}
   nextRecipe={nextRecipe}
   recipeSchema={recipeSchema}
+  relatedExpoPosts={relatedExpoPosts}
 >
   <Content />
 </RecipeLayout>

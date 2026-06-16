@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 2 complete)
+**Last Updated:** 2026-06-16 (Phase 3 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -165,10 +165,10 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] Build `site/src/pages/expo.astro` landing page (reverse-chron card grid — new simple layout, not `SectionLayout`)
 - [x] Add "Expo" nav link to `BaseLayout.astro` (desktop + mobile + footer)
 
-### Phase 3 — Cross-linking
+### Phase 3 — Cross-linking ✅ done 2026-06-16
 
-- [ ] Render `relatedRecipes[]` on the Expo post page (lookup via `getEntry('recipes', id)`)
-- [ ] Reverse-lookup query in `[...slug].astro`'s `getStaticPaths` + "From the Expo" block in `RecipeLayout.astro`
+- [x] Render `relatedRecipes[]` on the Expo post page (lookup via `getEntry('recipes', id)`)
+- [x] Reverse-lookup query in `[...slug].astro`'s `getStaticPaths` + "From the Expo" block in `RecipeLayout.astro`
 
 ### Phase 4 — Pipeline
 

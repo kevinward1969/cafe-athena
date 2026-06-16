@@ -20,9 +20,10 @@ interface Props {
   prevRecipe?: { slug: string; title: string } | null;
   nextRecipe?: { slug: string; title: string } | null;
   recipeSchema?: Record<string, unknown> | null;
+  relatedExpoPosts?: { id: string; title: string }[];
 }
 
-const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', family = '', course = '', dietary = '', recipeType = 'recipe', prevRecipe, nextRecipe, recipeSchema = null } = Astro.props;
+const { title, index, chapter, chapterName, heroImage, subtitle, keywords = [], cuisine = '', style: recipeStyle = '', family = '', course = '', dietary = '', recipeType = 'recipe', prevRecipe, nextRecipe, recipeSchema = null, relatedExpoPosts = [] } = Astro.props;
 const hasHero = heroImage && heroImage.length > 0;
 
 let sectionHref = '/brigade';
@@ -134,6 +135,24 @@ const structuredData = recipeSchema ? [breadcrumbSchema, recipeSchema] : [breadc
           )}
           <slot />
         </div>
+
+        {relatedExpoPosts.length > 0 && (
+          <div class="mt-10 pt-8 border-t border-[#e0d8cc]">
+            <h2 class="font-bold text-xs tracking-widest uppercase text-[#c9a96e] mb-4">From the Expo</h2>
+            <ul class="space-y-2">
+              {relatedExpoPosts.map(post => (
+                <li>
+                  <a
+                    href={`/expo/${post.id}`}
+                    class="font-heading text-lg text-[#1a1a2e] hover:text-[#c9a96e] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a96e] rounded-sm"
+                  >
+                    {post.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
       </div>
 

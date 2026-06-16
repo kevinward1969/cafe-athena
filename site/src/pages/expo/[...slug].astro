@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('expo');
@@ -19,6 +19,11 @@ let heroImagePath: string | undefined;
 if (post.data.heroImage) {
   heroImagePath = `/images/${post.data.heroImage}`;
 }
+
+const relatedRecipeEntries = await Promise.all(
+  (post.data.relatedRecipes ?? []).map(id => getEntry('recipes', id))
+);
+const relatedRecipes = relatedRecipeEntries.filter(Boolean);
 ---
 
 <BaseLayout title={post.data.title} description={post.data.excerpt} currentPage="expo">
@@ -51,6 +56,43 @@ if (post.data.heroImage) {
     <div class="prose-expo">
       <Content />
     </div>
+
+    {relatedRecipes.length > 0 && (
+      <section class="mt-12 pt-10 border-t border-[#e0d8cc]">
+        <h2 class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-6">
+          Featured {relatedRecipes.length === 1 ? 'Recipe' : 'Recipes'}
+        </h2>
+        <div class="grid gap-4 sm:grid-cols-2">
+          {relatedRecipes.map(recipe => (
+            <a
+              href={`/${recipe.id}`}
+              class="group flex gap-4 items-start p-4 border border-[#e0d8cc] rounded-sm hover:border-[#c9a96e]/40 transition-colors"
+            >
+              {recipe.data.heroImage ? (
+                <img
+                  src={`/images/${recipe.data.heroImage}`}
+                  alt={recipe.data.title}
+                  class="w-20 h-16 object-cover rounded-sm flex-shrink-0"
+                />
+              ) : (
+                <div class="w-20 h-16 flex-shrink-0 bg-[#f0ece3] rounded-sm flex items-center justify-center">
+                  <span class="font-heading text-sm font-bold text-[#1a1a2e]/20">{recipe.data.index}</span>
+                </div>
+              )}
+              <div class="min-w-0">
+                <p class="font-mono text-[10px] uppercase tracking-[0.25em] text-[#6b6b7b] mb-1">
+                  {recipe.data.index}
+                </p>
+                <p class="font-heading text-xl font-semibold text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors leading-tight">
+                  {recipe.data.title}
+                </p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
     {post.data.tags && post.data.tags.length > 0 && (
       <footer class="mt-12 pt-8 border-t border-[#e0d8cc]">
         <div class="flex flex-wrap gap-2">
