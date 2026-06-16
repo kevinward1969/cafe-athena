@@ -25,7 +25,6 @@ const expo = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/expo' }),
   schema: z.object({
     title: z.string(),
-    slug: z.string(),
     date: z.date(),
     excerpt: z.string(),
     heroImage: z.string().optional(),

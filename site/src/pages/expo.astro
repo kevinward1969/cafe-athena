@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('expo');
+const posts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout
+  title="The Expo"
+  description="Essays, walkthroughs, and culinary explorations from Café Athena — the editorial companion to the cookbook."
+  currentPage="expo"
+>
+  <!-- Hero -->
+  <section class="relative h-[40vh] min-h-[280px] flex items-end overflow-hidden bg-[#1a1a2e]">
+    <img
+      src="/images/section-expo.webp"
+      alt="The Expo"
+      class="absolute inset-0 w-full h-full object-cover opacity-40"
+      onerror="this.style.display='none'"
+    />
+    <div class="relative z-10 max-w-7xl mx-auto px-6 pb-10 w-full">
+      <p class="font-mono text-[10px] uppercase tracking-[0.35em] text-[#c9a96e]/70 mb-3">Part IV</p>
+      <h1 class="font-heading text-5xl md:text-6xl lg:text-7xl font-bold italic text-white leading-none mb-3">
+        The Expo
+      </h1>
+      <p class="font-heading text-lg italic text-white/50 max-w-xl">
+        Essays, walkthroughs, and culinary explorations — the editorial companion to the cookbook.
+      </p>
+    </div>
+  </section>
+
+  <!-- Post grid -->
+  <section class="max-w-7xl mx-auto px-6 py-16 md:py-24">
+    {posts.length === 0 ? (
+      <p class="font-heading text-xl italic text-[#6b6b7b] text-center py-16">No posts yet.</p>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {posts.map(post => {
+          const heroImagePath = post.data.heroImage ? `/images/${post.data.heroImage}` : null;
+          return (
+            <a
+              href={`/expo/${post.id}`}
+              class="group flex flex-col border border-[#e0d8cc] hover:border-[#c9a96e]/40 transition-all duration-300 rounded-sm overflow-hidden"
+            >
+              {heroImagePath && (
+                <div class="aspect-video overflow-hidden bg-[#1a1a2e]/5">
+                  <img
+                    src={heroImagePath}
+                    alt={post.data.title}
+                    class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
+                    onerror="this.closest('[class*=aspect-video]').style.display='none'"
+                  />
+                </div>
+              )}
+              <div class="flex flex-col flex-1 p-6">
+                <div class="font-mono text-[9px] uppercase tracking-[0.3em] text-[#c9a96e]/60 mb-3">
+                  <time datetime={post.data.date.toISOString()}>
+                    {post.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                  </time>
+                </div>
+                <h2 class="font-heading text-2xl font-bold italic text-[#1a1a2e] group-hover:text-[#c9a96e] transition-colors leading-snug mb-3">
+                  {post.data.title}
+                </h2>
+                {post.data.excerpt && (
+                  <p class="text-sm text-[#6b6b7b] leading-relaxed line-clamp-3 flex-1">
+                    {post.data.excerpt}
+                  </p>
+                )}
+                <div class="mt-4 pt-4 border-t border-[#e0d8cc] flex items-center gap-1 font-mono text-[9px] uppercase tracking-widest text-[#c9a96e]/60 group-hover:text-[#c9a96e] transition-colors">
+                  Read
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    )}
+  </section>
+</BaseLayout>

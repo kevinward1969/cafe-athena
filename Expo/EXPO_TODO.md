@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16
+**Last Updated:** 2026-06-16 (Phase 2 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -138,6 +138,10 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 
 - **Blog Categories** — revised seed list above (Meal Prep Walkthroughs / Recipe Walkthroughs / Story & Tradition); still needs a worked-example pass, including resolving whether narrative pieces like Ortolan fit this scheme, before the `category` field and `/expo/category/[category].astro` route are built.
 
+- **`section-expo.webp`** — landing page hero is gracefully hidden (blank) until this image exists. Request from Visual Director when ready. Naming convention already reserved in `Brand/BRAND_GUIDELINES.md` §9. Place at `site/public/images/section-expo.webp` — no pipeline change needed.
+
+- **URL slug convention** — routing uses `post.id` (the filename without extension), not a frontmatter field. The `slug` field was dropped from the schema and placeholder post frontmatter (2026-06-16). Convention: **filename = URL slug**. Authors must name the file what they want in the URL — e.g. `baguette-walkthrough.md` → `/expo/baguette-walkthrough`.
+
 ---
 
 ## Related Task — Done (was tracked separately, not Expo scope)
@@ -155,11 +159,11 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] Create `Expo/Posts/` and `Expo/Drafts/` (empty, `.gitkeep`-tracked per repo convention)
 - [x] Verified via `npm run build` — 259 pages built clean, `expo` collection schema parses with no errors, recipe build unaffected (no `/expo` route yet — that's Phase 2)
 
-### Phase 2 — Routing
+### Phase 2 — Routing ✅ done 2026-06-16
 
-- [ ] Build `site/src/pages/expo/[...slug].astro` (model on `[...slug].astro`'s `getStaticPaths`, sort by `date` descending)
-- [ ] Build `site/src/pages/expo.astro` landing page (reverse-chron card grid — new simple layout, not `SectionLayout`)
-- [ ] Add "Expo" nav link to `BaseLayout.astro` (desktop + mobile + footer)
+- [x] Build `site/src/pages/expo/[...slug].astro` (model on `[...slug].astro`'s `getStaticPaths`, sort by `date` descending)
+- [x] Build `site/src/pages/expo.astro` landing page (reverse-chron card grid — new simple layout, not `SectionLayout`)
+- [x] Add "Expo" nav link to `BaseLayout.astro` (desktop + mobile + footer)
 
 ### Phase 3 — Cross-linking
 

@@ -1,6 +1,5 @@
 ---
 title: "Placeholder Expo Post"
-slug: "placeholder-post"
 date: 2026-06-16
 excerpt: "A placeholder entry used to validate the Expo content collection during Phase 1 build-out."
 heroImage: "placeholder.webp"
