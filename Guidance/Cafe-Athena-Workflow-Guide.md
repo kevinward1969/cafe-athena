@@ -69,3 +69,41 @@ Images follow a two-type system. The canonical location for all processed images
 * **FORMAT AUDIT.** Run `/format-audit [index]` or `/format-audit Chapter N` to validate recipe structure against `Recipe-Format-Standard.md`. Includes an authorization layer — the AI presents proposed changes before writing anything.
 * **KEYWORD PULL.** Run `/keyword-pull [index]` to generate and append `## Keywords` and `## Category` sections to any recipe missing them.
 * **MASTER INDEX.** `The Manual/Cafe-Athena-The-Manual-Current-Version.md` must stay current. The AI updates it as part of Mode 2 and Mode 3 output. If an entry is added manually, update this file immediately.
+
+---
+
+**WORKFLOW E: THE EXPO EDITORIAL CYCLE**
+
+The Expo is editorial/blog content — instructional walkthroughs, narrative essays, and technique companion pieces — published at `/expo/[slug]`. It lives in `Expo/` (sibling to `Brand/` and `Marketing/`), not under `The Manual/`. Posts flow through their own pipeline before the site build.
+
+* **PHASE 1: DRAFTING.** Author writes the post in `Expo/Drafts/` — research notes, rough prose, source references. Nothing here is pipeline-ready. Drafts stay in this folder until the author is satisfied with the substance.
+
+* **PHASE 2: WRITING TO DISK.** When the draft is final, write the finished post to `Expo/Posts/[slug].md` with complete frontmatter:
+
+  ```yaml
+  ---
+  title: "Post Title"
+  date: "YYYY-MM-DD"
+  excerpt: "One or two sentence summary for cards and meta description."
+  heroImage: "filename.webp"        # omit if no hero image yet
+  relatedRecipes: ["06-12", "07-04"]
+  category: "Recipe Walkthroughs"   # see category list below
+  tags: []                          # populated in Phase 3
+  ---
+  ```
+
+  Valid categories: `Recipe Walkthroughs`, `Meal Prep Walkthroughs`, `Technique in Context`, `Ingredient Spotlight`, `Story & Tradition`, `Plating & Presentation`, `Menu & Service`.
+
+  **Filename = URL slug.** The file's name (without `.md`) becomes the post's URL — e.g. `baguette-walkthrough.md` → `/expo/baguette-walkthrough`. Name the file what you want in the URL.
+
+  Inline images in the post body use the shortcode: `[expo:filename.webp | caption text]` — the build pipeline transforms this into a captioned `<figure>` element. Naming convention for inline images: `expo-[slug]-[n].webp` (e.g. `expo-baguette-walkthrough-1.webp`).
+
+* **PHASE 3: KEYWORD PULL.** Run `/expo-keyword-pull [slug]`. The command reads the post body, generates 8–15 tags covering techniques, themes, cultural references, key ingredients, and equipment, then merges in the `keywords[]` already on each recipe listed in `relatedRecipes[]`. **Stop point:** the proposed tag list is presented for confirmation before anything is written. Tags are lowercase-hyphenated (`beurre-blanc`, `mise-en-place`).
+
+* **PHASE 4: REGISTRATION.** Run `/register-expo [slug]`. The command reads the post's `title` and `date` from frontmatter, checks whether the hero image exists, and presents the entry for confirmation before writing. **Stop point:** confirm before the entry is added to `Expo/expo.json`. The registry tracks three stages per post: `written`, `heroImage`, `deployed`.
+
+* **PHASE 5: HERO IMAGE.** Place the optimized WebP at `site/public/images/[heroImage].webp`. Once placed, update `heroImage: true` in the post's entry in `Expo/expo.json`. The image must exist at this path before the build — the `prepare-expo.py` script does not copy hero images from `Expo/Posts/`; they go directly into `site/public/images/`. Inline images placed alongside the source file in `Expo/Posts/` are copied by the pipeline automatically.
+
+* **PHASE 6: PUBLISHING.** Run `bash site/scripts/deploy.sh` from the repo root. The script runs in sequence: `prepare-content.py` (recipes) → `prepare-expo.py` (expo posts) → `npm run build` (Astro + Pagefind) → `rsync` to FastComet. After rsync confirms success, update `deployed: true` in the post's entry in `Expo/expo.json`. **Never report the post as live until rsync completes.** Commit and push after the registry is updated.
+
+* **GOVERNANCE.** Run `/expo-tag-audit` periodically to check tag frequency across all posts, surface single-use candidates (potential clutter), and flag near-duplicate pairs (pluralization drift, separator inconsistency). Read-only — produces a report only, no writes. Run `/sync-expo-registry` if posts were added to `Expo/Posts/` outside the normal `/register-expo` flow — it reconciles the registry against the live directory without removing entries or resetting completed stages.

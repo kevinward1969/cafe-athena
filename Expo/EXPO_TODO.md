@@ -1,8 +1,10 @@
 # The Expo — Project Tracker
 
+> **STATUS: RETIRED 2026-06-16 — infrastructure complete. Operational reference: Workflow E in `Guidance/Cafe-Athena-Workflow-Guide.md`.**
+
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 8 complete)
+**Last Updated:** 2026-06-16 (Phase 9 complete — retired)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 

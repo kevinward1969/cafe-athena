@@ -73,11 +73,12 @@ You enter through technique, cook through the brigade, build from the larder, an
 | Surface | Responsibilities |
 |---------|-----------------|
 | **Claude Desktop — Chef** | Recipe development (Mode 1), formatting (Mode 2), technique education (Mode 3) — all culinary creative work |
-| **Claude Desktop — Brand Manager** | Brand guidelines development, audience personas, author identity, voice/tone, marketing strategy |
+| **Claude Desktop — Brand Manager** | Brand guidelines development, audience personas, author identity, voice/tone, marketing strategy. Interim owner of Expo editorial content until the dedicated Content Writer agent is built. |
 | **Claude Code — Technical Director** | All technical work — Astro site, pipeline scripts, deploys, image optimization, agent/skill/command development |
 | **Claude Code** (you) | Orchestration, format audits, glossary operations, brand/marketing file execution — anything not owned by a sub-agent |
 | **Gemini Gem 1** | Fallback surface for recipe development (maintained, not primary) |
 | **Gemini Gem 2** | Hero image and web image generation only |
+| **Content Writer & Social Media Manager Agent** *(not yet built)* | Expo editorial content — walkthroughs, essays, narrative posts — and social channel content. Planned in `The Manual/IDEAS.md`. When built, takes over Expo authorship from Brand Manager. |
 
 ---
 

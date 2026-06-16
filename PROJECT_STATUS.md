@@ -35,7 +35,6 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | AI setup health audit | Context degradation and repeated errors observed this session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
 | Phase 7 — Marketing Activation | Brand phases 1–6 complete. Full task list in `Brand/BRAND_TODO.md`. Site copy, social channel setup, post templates all pending. | Ready to start — no blocking condition | 2026-06-14 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
-| The Expo (blog/Part IV infra) | Phases 1–2 done. `expo` collection, placeholder post, routing (`expo.astro` + `expo/[...slug].astro`), and nav links all built and verified (261 pages). Full plan and phased checklist in `Expo/EXPO_TODO.md`. | Ready to start Phase 3 (cross-linking) — check in before starting | 2026-06-16 |
 
 ---
 
@@ -45,3 +44,4 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 - **antigravity-awesome-skills:** Registered as a marketplace but individual plugins lack `plugin.json` manifests — cannot install via `claude plugin install`. Skills must be copied manually to `~/.claude/skills/`. Done for `context-window-management` and `claude-code-guide`.
 - **Context degradation:** This session showed clear signs of context-length-related errors (repeated wrong claims, incomplete fixes). Handoff triggered early. Next session should start with `/everything-claude-code:context-budget` audit before any substantive work.
 - **Memory system:** Feedback memory `feedback_verify_before_stating.md` added — verify before stating claims about systems, platforms, or fix completeness.
+- **Expo pipeline: live and operational (2026-06-16).** Phases 1–8 complete. Content model, routing, cross-linking, pipeline scripts, inline images, search/SEO, tags, categories, and validation all built and verified (262 pages). Operational reference: Workflow E in `Guidance/Cafe-Athena-Workflow-Guide.md`. First real post pending Chef delivery of 06-12 Quail walkthrough or Ortolan essay.
