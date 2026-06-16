@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 6 complete)
+**Last Updated:** 2026-06-16 (Phase 6 complete; categories finalized; Phase 7 unblocked)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -137,7 +137,19 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 
 ## Open / Parked — Needs a Design Pass Before Build
 
-- **Blog Categories** — revised seed list above (Meal Prep Walkthroughs / Recipe Walkthroughs / Story & Tradition); still needs a worked-example pass, including resolving whether narrative pieces like Ortolan fit this scheme, before the `category` field and `/expo/category/[category].astro` route are built.
+- **Blog Categories — ✅ finalized 2026-06-16.** Researched competitive landscape (Serious Eats, Saveur, Bon Appétit) and confirmed against Ch. 13–15 chapter architecture (Planning, Plating, Service). Final seven categories:
+
+  | Category | What lives here |
+  |---|---|
+  | **Recipe Walkthroughs** | Single recipe, timed action/sequence, video-pairing candidate |
+  | **Meal Prep Walkthroughs** | Multi-recipe, full-menu execution and sequencing |
+  | **Technique in Context** | The "why" behind a method — lighter than a full folio, applied to real cooking situations |
+  | **Ingredient Spotlight** | Deep dive on one ingredient across the book's recipes |
+  | **Story & Tradition** | Cultural history, origin stories, narrative essays (Ortolan piece lives here) |
+  | **Plating & Presentation** | Visual and compositional guidance — companion to Ch. 14 |
+  | **Menu & Service** | Course sequencing, timing, hospitality, pacing — companion to Ch. 13 and 15 |
+
+  Phase 7 is now unblocked. Note: `chapterPart` field is redundant now that categories cover the Ch. 13–15 territory — remove from schema and placeholder post frontmatter in Phase 7.
 
 - **`section-expo.webp`** — landing page hero is gracefully hidden (blank) until this image exists. Request from Visual Director when ready. Naming convention already reserved in `Brand/BRAND_GUIDELINES.md` §9. Place at `site/public/images/section-expo.webp` — no pipeline change needed.
 
@@ -200,11 +212,13 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] `/expo-tag-audit` governance command (tag frequency, single-use, near-duplicate candidates)
 - [x] Tags on post pages made into clickable links to `/expo/tag/[tag]`
 
-### Phase 7 — Categories (blocked on design pass — see Open Items)
+### Phase 7 — Categories (unblocked 2026-06-16)
 
-- [ ] Work up category examples (Meal Prep Walkthrough, Recipe Walkthrough, and resolve where Story & Tradition/Ortolan fits)
-- [ ] Add `category` field to schema
-- [ ] `/expo/category/[category].astro` archive route
+- [ ] Remove `chapterPart` field from `site/src/content.config.ts` expo schema (superseded by `category`)
+- [ ] Remove `chapterPart` from placeholder post frontmatter in `Expo/Posts/placeholder-post.md`
+- [ ] Add `category` field to expo schema — `z.enum(['Recipe Walkthroughs', 'Meal Prep Walkthroughs', 'Technique in Context', 'Ingredient Spotlight', 'Story & Tradition', 'Plating & Presentation', 'Menu & Service']).optional()`
+- [ ] `/expo/category/[category].astro` archive route (same card layout as tag archive)
+- [ ] Add category display to Expo post pages (alongside tags)
 
 ### Phase 8 — Validation
 
