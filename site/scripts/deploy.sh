@@ -21,9 +21,14 @@ echo " Café Athena — The Manual · Deploy"
 echo "════════════════════════════════════════"
 echo ""
 
-# Step 1: Prepare content
-echo "📋 Step 1: Preparing content..."
+# Step 1: Prepare recipe content
+echo "📋 Step 1: Preparing recipe content..."
 python3 site/scripts/prepare-content.py
+echo ""
+
+# Step 1b: Prepare Expo content
+echo "📋 Step 1b: Preparing Expo content..."
+python3 site/scripts/prepare-expo.py
 echo ""
 
 # Step 2: Build

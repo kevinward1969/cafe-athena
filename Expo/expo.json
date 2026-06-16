@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "placeholder-post",
+      "title": "Placeholder Expo Post",
+      "date": "2026-06-16",
+      "stages": {
+        "written": true,
+        "heroImage": false,
+        "deployed": false
+      }
+    }
+  ]
+}
