@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=$(cat | python3 -c \"import json,sys; d=json.load(sys.stdin); print(d.get('tool_input',{}).get('file_path',''))\" 2>/dev/null); case \"$f\" in *content.config.ts) echo \"BLOCKED: $f is the Astro content-collection schema. Invoke the 'astro' skill (.claude/skills/astro/SKILL.md) before editing — per CLAUDE.md 'Project Skills — Auto-Trigger Rules'. Re-run after reading it.\" >&2; exit 2 ;; */site/*|site/*) echo \"REMINDER: $f is under site/. CLAUDE.md requires the 'astro' skill for site/ work (.astro pages, content.config.ts, prepare-content.py, build errors, routing). Read .claude/skills/astro/SKILL.md if not already done this session.\" >&2; exit 1 ;; esac; exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}
