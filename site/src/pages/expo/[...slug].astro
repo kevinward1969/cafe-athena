@@ -132,9 +132,12 @@ const ogImage = post.data.heroImage
       <footer class="mt-12 pt-8 border-t border-[#e0d8cc]">
         <div class="flex flex-wrap gap-2">
           {post.data.tags.map(tag => (
-            <span class="font-mono text-[10px] uppercase tracking-widest text-[#6b6b7b] bg-[#e0d8cc]/40 px-3 py-1 rounded-full">
+            <a
+              href={`/expo/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`}
+              class="font-mono text-[10px] uppercase tracking-widest text-[#6b6b7b] bg-[#e0d8cc]/40 hover:bg-[#c9a96e]/20 hover:text-[#c9a96e] px-3 py-1 rounded-full transition-colors"
+            >
               {tag}
-            </span>
+            </a>
           ))}
         </div>
       </footer>

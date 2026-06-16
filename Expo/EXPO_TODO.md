@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 4.5 and Phase 5 complete)
+**Last Updated:** 2026-06-16 (Phase 6 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -191,12 +191,14 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] `Article` + `BreadcrumbList` JSON-LD on Expo pages
 - [x] Metadata per `fixing-metadata` conventions (title format, OG image, `og:type: article`)
 
-### Phase 6 — Tags/keywords (can run parallel to Phase 4/5)
+### Phase 6 — Tags/keywords ✅ done 2026-06-16
 
-- [ ] `/expo-keyword-pull` command, modeled on `.claude/commands/keyword-pull.md`
-- [ ] Wire in keyword inheritance from each `relatedRecipes[]` entry's existing `keywords[]`
-- [ ] `tags[]` field on schema
-- [ ] `/expo/tag/[tag].astro` archive route
+- [x] `/expo-keyword-pull` command, modeled on `.claude/commands/keyword-pull.md`
+- [x] Wire in keyword inheritance from each `relatedRecipes[]` entry's existing `keywords[]`
+- [x] `tags[]` field on schema (already present from Phase 1)
+- [x] `/expo/tag/[tag].astro` archive route
+- [x] `/expo-tag-audit` governance command (tag frequency, single-use, near-duplicate candidates)
+- [x] Tags on post pages made into clickable links to `/expo/tag/[tag]`
 
 ### Phase 7 — Categories (blocked on design pass — see Open Items)
 
