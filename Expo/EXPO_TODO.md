@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 7 complete)
+**Last Updated:** 2026-06-16 (Phase 8 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -220,10 +220,10 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] `/expo/category/[category].astro` archive route (same card layout as tag archive)
 - [x] Add category display to Expo post pages (alongside tags)
 
-### Phase 8 — Validation
+### Phase 8 — Validation ✅ done 2026-06-16
 
-- [ ] Full build + deploy dry run with placeholder content
-- [ ] Confirm search, cross-links, nav all work end to end
+- [x] Full build + deploy dry run with placeholder content
+- [x] Confirm search, cross-links, nav all work end to end
 - [ ] Swap placeholder for real first post once Chef delivers 06-12 Quail + Ortolan essay
 
 ### Phase 9 — Graduation (on completion)
