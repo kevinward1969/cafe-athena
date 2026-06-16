@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 6 complete; categories finalized; Phase 7 unblocked)
+**Last Updated:** 2026-06-16 (Phase 7 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -212,13 +212,13 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] `/expo-tag-audit` governance command (tag frequency, single-use, near-duplicate candidates)
 - [x] Tags on post pages made into clickable links to `/expo/tag/[tag]`
 
-### Phase 7 — Categories (unblocked 2026-06-16)
+### Phase 7 — Categories ✅ done 2026-06-16
 
-- [ ] Remove `chapterPart` field from `site/src/content.config.ts` expo schema (superseded by `category`)
-- [ ] Remove `chapterPart` from placeholder post frontmatter in `Expo/Posts/placeholder-post.md`
-- [ ] Add `category` field to expo schema — `z.enum(['Recipe Walkthroughs', 'Meal Prep Walkthroughs', 'Technique in Context', 'Ingredient Spotlight', 'Story & Tradition', 'Plating & Presentation', 'Menu & Service']).optional()`
-- [ ] `/expo/category/[category].astro` archive route (same card layout as tag archive)
-- [ ] Add category display to Expo post pages (alongside tags)
+- [x] Remove `chapterPart` field from `site/src/content.config.ts` expo schema (superseded by `category`)
+- [x] Remove `chapterPart` from placeholder post frontmatter in `Expo/Posts/placeholder-post.md`
+- [x] Add `category` field to expo schema — `z.enum(['Recipe Walkthroughs', 'Meal Prep Walkthroughs', 'Technique in Context', 'Ingredient Spotlight', 'Story & Tradition', 'Plating & Presentation', 'Menu & Service']).optional()`
+- [x] `/expo/category/[category].astro` archive route (same card layout as tag archive)
+- [x] Add category display to Expo post pages (alongside tags)
 
 ### Phase 8 — Validation
 

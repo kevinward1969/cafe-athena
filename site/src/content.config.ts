@@ -29,7 +29,15 @@ const expo = defineCollection({
     excerpt: z.string(),
     heroImage: z.string().optional(),
     relatedRecipes: z.array(z.string()).optional().default([]),
-    chapterPart: z.string().optional(),
+    category: z.enum([
+      'Recipe Walkthroughs',
+      'Meal Prep Walkthroughs',
+      'Technique in Context',
+      'Ingredient Spotlight',
+      'Story & Tradition',
+      'Plating & Presentation',
+      'Menu & Service',
+    ]).optional(),
     tags: z.array(z.string()).optional().default([]),
   }),
 });

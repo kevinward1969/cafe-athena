@@ -71,8 +71,13 @@ const ogImage = post.data.heroImage
         <time datetime={post.data.date.toISOString()}>
           {post.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
-        {post.data.chapterPart && (
-          <span class="ml-4 pl-4 border-l border-[#c9a96e]/30">{post.data.chapterPart}</span>
+        {post.data.category && (
+          <a
+            href={`/expo/category/${post.data.category.toLowerCase().replace(/&/g, 'and').replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
+            class="ml-4 pl-4 border-l border-[#c9a96e]/30 hover:text-[#c9a96e] transition-colors"
+          >
+            {post.data.category}
+          </a>
         )}
       </div>
       <h1 class="font-heading text-4xl md:text-5xl lg:text-6xl font-bold italic text-[#1a1a2e] leading-tight mb-4">

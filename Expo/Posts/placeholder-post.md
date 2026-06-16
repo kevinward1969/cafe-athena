@@ -4,7 +4,6 @@ date: 2026-06-16
 excerpt: "A placeholder entry used to validate the Expo content collection during Phase 1 build-out."
 heroImage: "placeholder.webp"
 relatedRecipes: []
-chapterPart: "Part IV: The Expo"
 tags: ["placeholder"]
 ---
 
