@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, getEntry, render } from 'astro:content';
+import { buildBreadcrumbJsonLd } from '../../utils/recipeSchema';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('expo');
@@ -24,9 +25,39 @@ const relatedRecipeEntries = await Promise.all(
   (post.data.relatedRecipes ?? []).map(id => getEntry('recipes', id))
 );
 const relatedRecipes = relatedRecipeEntries.filter(Boolean);
+
+const breadcrumbSchema = buildBreadcrumbJsonLd([
+  { name: 'Home', url: '/' },
+  { name: 'Expo', url: '/expo' },
+  { name: post.data.title, url: `/expo/${post.id}` },
+]);
+
+const articleSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.excerpt,
+  author: { '@type': 'Organization', name: 'Café Athena' },
+  datePublished: post.data.date.toISOString(),
+  url: `https://cookbook.kevinward.com/expo/${post.id}`,
+};
+if (post.data.heroImage) {
+  articleSchema.image = `https://cookbook.kevinward.com/images/${post.data.heroImage}`;
+}
+
+const ogImage = post.data.heroImage
+  ? `https://cookbook.kevinward.com/images/${post.data.heroImage}`
+  : undefined;
 ---
 
-<BaseLayout title={post.data.title} description={post.data.excerpt} currentPage="expo">
+<BaseLayout
+  title={post.data.title}
+  description={post.data.excerpt}
+  currentPage="expo"
+  structuredData={[breadcrumbSchema, articleSchema]}
+  ogType="article"
+  ogImage={ogImage}
+>
   <article class="max-w-3xl mx-auto px-6 py-16 md:py-24">
     {heroImagePath && (
       <img
@@ -53,7 +84,11 @@ const relatedRecipes = relatedRecipeEntries.filter(Boolean);
         </p>
       )}
     </header>
-    <div class="prose-expo">
+    <div
+      class="prose-expo"
+      data-pagefind-body
+      data-pagefind-meta={`title:${post.data.title}`}
+    >
       <Content />
     </div>
 

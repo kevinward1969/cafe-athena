@@ -6,13 +6,17 @@ interface Props {
   description?: string;
   currentPage?: string;
   structuredData?: Record<string, unknown>[];
+  ogImage?: string;
+  ogType?: string;
 }
 
 const {
   title,
   description = 'Café Athena — The Manual. AI-powered recipe development and culinary technique education.',
   currentPage = '',
-  structuredData = []
+  structuredData = [],
+  ogImage,
+  ogType = 'website',
 } = Astro.props;
 
 const navItems = [
@@ -67,6 +71,10 @@ const featuredEntries = [
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta name="description" content={description} />
+  <meta property="og:title" content={`${title} · Café Athena`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={ogType} />
+  {ogImage && <meta property="og:image" content={ogImage} />}
   <title>{title} · Café Athena</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -645,6 +653,7 @@ const featuredEntries = [
         if (/\/glossary/.test(url)) return 'Glossary';
         if (/\/larder/.test(url))   return 'Larder';
         if (/\/brigade/.test(url))  return 'Brigade';
+        if (/\/expo/.test(url))     return 'Expo';
         return 'Entry';
       }
 

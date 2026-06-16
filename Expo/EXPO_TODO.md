@@ -2,7 +2,7 @@
 
 **Status:** Active (started 2026-06-16)
 **Plan origin:** Technical Director architecture session, 2026-06-16
-**Last Updated:** 2026-06-16 (Phase 4 complete)
+**Last Updated:** 2026-06-16 (Phase 4.5 and Phase 5 complete)
 
 > **Scope note:** this is the *single* working document for all Expo work — architecture, decisions, open questions, and the build checklist all live here, not split across `IDEAS.md`/`PROJECT_STATUS.md`. `PROJECT_STATUS.md` holds only a one-line pointer while this is active. On completion, the durable process knowledge (commands, agents, skills) graduates to `Guidance/Cafe-Athena-Workflow-Guide.md` as a new workflow, and this file is retired — see **Lifecycle** below.
 
@@ -50,6 +50,7 @@ Short version added to `CLAUDE.md` so it applies beyond Expo, not just here.
 - **Registry:** `Expo/expo.json` — own lightweight schema (id/slug, title, date, stages: written/heroImage/deployed). Separate from `The Manual/recipes.json` to avoid touching the working recipe pipeline scripts (`audit.py`, `/format-audit`, `/sync-registry` all assume recipe-shaped entries).
 - **Commands (proposed naming, confirm when built):** `/register-expo` and `/sync-expo-registry`, mirroring `/register-recipe` and `/sync-registry`.
 - **Cross-linking:** `relatedRecipes[]` authored once on the Expo post. Recipe → post direction is a reverse lookup computed in `[...slug].astro`'s `getStaticPaths` (not a second hand-maintained field).
+- **Inline image naming:** `expo-[slug]-[n].webp` (e.g. `expo-baguette-walkthrough-1.webp`) — distinct from recipe reference images (`XX-YYa.webp`) and section landing images (`section-expo.webp`). Shortcode in post body: `[expo:expo-baguette-walkthrough-1.webp | caption text]`.
 - **Search/SEO:** Pagefind needs no new config — matching `data-pagefind-*` attributes on the Expo body, plus a `sectionLabel()` case for `/expo/` URLs in `BaseLayout.astro`'s search JS. Expo pages use `Article`/`BreadcrumbList` JSON-LD (not `Recipe`).
 
 ---
@@ -177,12 +178,18 @@ All three audience personas (`Brand/Personas/persona-*.md`) independently flag t
 - [x] `/register-expo`, `/sync-expo-registry` slash commands
 - [x] Wire into `site/scripts/deploy.sh`
 
-### Phase 5 — Search & SEO
+### Phase 4.5 — Inline Images ✅ done 2026-06-16
 
-- [ ] Pagefind `data-pagefind-*` attributes on Expo body
-- [ ] `sectionLabel()` case for `/expo/` in `BaseLayout.astro` search JS
-- [ ] `Article` + `BreadcrumbList` JSON-LD on Expo pages
-- [ ] Metadata per `fixing-metadata` conventions (title format, OG image, `og:type: article`)
+- [x] Extend `site/src/plugins/remark-ref-images.mjs` to handle an Expo shortcode alongside the existing recipe pattern. Shortcode: `[expo:filename.webp | caption]` → renders the same `<figure class="ref-image"><img /><figcaption /></figure>` block. Recipe pattern (`[ref:XX-YYa | caption]`) must remain untouched.
+- [x] Naming convention for Expo inline images: `expo-[slug]-[n].webp` (e.g. `expo-baguette-walkthrough-1.webp`). Document under Locked Architecture Decisions.
+- [x] `prepare-expo.py` needs no changes — images in `Expo/Posts/` alongside the source file are already copied to `site/public/images/`.
+
+### Phase 5 — Search & SEO ✅ done 2026-06-16
+
+- [x] Pagefind `data-pagefind-*` attributes on Expo body
+- [x] `sectionLabel()` case for `/expo/` in `BaseLayout.astro` search JS
+- [x] `Article` + `BreadcrumbList` JSON-LD on Expo pages
+- [x] Metadata per `fixing-metadata` conventions (title format, OG image, `og:type: article`)
 
 ### Phase 6 — Tags/keywords (can run parallel to Phase 4/5)
 

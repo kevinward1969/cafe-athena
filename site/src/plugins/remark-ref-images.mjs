@@ -1,6 +1,17 @@
 import { visit } from 'unist-util-visit';
 
-const REF_PATTERN = /^\[ref:(\d{2}-\d{2}[a-z])\s*\|\s*([^\]]+)\]$/;
+const REF_PATTERN  = /^\[ref:(\d{2}-\d{2}[a-z])\s*\|\s*([^\]]+)\]$/;
+const EXPO_PATTERN = /^\[expo:([^\]]+\.webp)\s*\|\s*([^\]]+)\]$/;
+
+function makeFigure(src, caption) {
+  return {
+    type: 'html',
+    value: `<figure class="ref-image">
+  <img src="${src}" alt="${caption}" loading="lazy" />
+  <figcaption>${caption}</figcaption>
+</figure>`,
+  };
+}
 
 export function remarkRefImages() {
   return (tree) => {
@@ -8,19 +19,20 @@ export function remarkRefImages() {
       if (!parent || index === null) return;
       if (node.children.length !== 1 || node.children[0].type !== 'text') return;
 
-      const match = node.children[0].value.trim().match(REF_PATTERN);
-      if (!match) return;
+      const text = node.children[0].value.trim();
 
-      const [, imageId, caption] = match;
-      const trimmedCaption = caption.trim();
+      const refMatch = text.match(REF_PATTERN);
+      if (refMatch) {
+        const [, imageId, caption] = refMatch;
+        parent.children[index] = makeFigure(`/images/${imageId}.webp`, caption.trim());
+        return;
+      }
 
-      parent.children[index] = {
-        type: 'html',
-        value: `<figure class="ref-image">
-  <img src="/images/${imageId}.webp" alt="${trimmedCaption}" loading="lazy" />
-  <figcaption>${trimmedCaption}</figcaption>
-</figure>`,
-      };
+      const expoMatch = text.match(EXPO_PATTERN);
+      if (expoMatch) {
+        const [, filename, caption] = expoMatch;
+        parent.children[index] = makeFigure(`/images/${filename}`, caption.trim());
+      }
     });
   };
 }
