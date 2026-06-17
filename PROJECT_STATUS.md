@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-16 (session 51)
+Last Updated: 2026-06-16 (session 52)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -33,8 +33,8 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
 | AI setup health audit | Context degradation and repeated errors observed this session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
-| Phase 7 — Marketing Activation | Brand phases 1–6 complete. Full task list in `Brand/BRAND_TODO.md`. Site copy, social channel setup, post templates all pending. | Ready to start — no blocking condition | 2026-06-14 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
+| Social account setup — Instagram, Pinterest, YouTube | Briefs in `Marketing/Social/`, templates in `Marketing/Social/Templates/`. Kevin is handling account creation manually using Claude (Chrome) for guidance. | No blocking condition — Kevin-driven | 2026-06-16 |
 
 ---
 
