@@ -32,10 +32,10 @@ _No active work. All phases complete._
 
 ## Logo — Delivered
 
-- `Brand/Logo/logo-black.svg` — primary mark, charcoal on light backgrounds
-- `Brand/Logo/logo-color.svg` — olive gold on dark backgrounds
-- `Brand/Logo/logo-white.svg` — white reverse mark
-- `Brand/Logo/Cafe Athena - The Manual - Logo.ai` — Illustrator source
+- `Brand/Visual Identity/logo-black.svg` — primary mark, charcoal on light backgrounds
+- `Brand/Visual Identity/logo-color.svg` — olive gold on dark backgrounds
+- `Brand/Visual Identity/logo-white.svg` — white reverse mark
+- `Brand/Visual Identity/Cafe Athena - The Manual - Logo.ai` — Illustrator source
 - All SVGs fully outlined, no font dependencies
 - Documented in `Brand/Creative/visual-system.md` and `Brand/BRAND_GUIDELINES.md` §9
 

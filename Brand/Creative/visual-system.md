@@ -1,21 +1,58 @@
 # Café Athena — Visual System
 
-**Status:** Logo delivered — three variants complete
-**Last Updated:** 2026-06-11
+**Status:** Brand mark system complete — badge, icon, and wordmark delivered
+**Last Updated:** 2026-06-17
 
 ---
 
-## Delivered Logo Files
+## Brand Mark System
+
+Three assets. Each has a defined role — do not substitute one for another outside its scope.
+
+### 1. Badge — Primary Brand Mark
+
+Circular seal with scalloped outer edge. Used wherever the full brand identity needs to appear: social profile images, marketing materials, and any context with enough size to read the detail.
+
+**Structure:** Navy/charcoal scalloped outer ring → CAFÉ (top arc) / ATHENA (bottom arc) in Cormorant Garamond → burgundy ribbon banner → THE MANUAL in olive gold → white inner circle.
+
+**Colors in use:** Charcoal `#1a1a2e` (ring, scallops), Burgundy `#6b2737` (ribbon), Olive Gold `#c9a96e` (THE MANUAL text), Cream/white (inner field, CAFÉ/ATHENA text).
+
+**Note:** This is the first formal deployment of burgundy (`#6b2737`) in the brand. The ribbon treatment establishes the pattern: burgundy = banner/ribbon element, warm accent against the charcoal field.
+
+Source files:
+
+- `Brand/Visual Identity/Cafe Athena - Brand and Icon.ai` — master Illustrator file
+- `Brand/Visual Identity/Cafe Athena - Band Mark.svg` — exported SVG
+
+### 2. Olive — Icon Mark
+
+Single olive branch: one stem, one olive fruit, two leaves. Used at small scale where the badge loses legibility: favicon, site icon, app icon, avatar crops below ~80px.
+
+**Colors in use:** Olive Gold fill, Charcoal `#1a1a2e` outline.
+
+Source files:
+
+- `Brand/Visual Identity/Cafe Athena - Brand and Icon.ai` — master Illustrator file
+- `Brand/Visual Identity/Cafe Athena - Icon Mark.svg` — exported SVG
+
+**Favicon exports — complete:**
+
+- `Brand/Visual Identity/favicon.svg`
+- `Brand/Visual Identity/favicon 32px.png`
+- `Brand/Visual Identity/favicon 16px.png`
+- `Brand/Visual Identity/apple-touch-icon.png` (180×180px)
+
+### 3. Wordmark — Horizontal Lockup
 
 | File | Use |
 |------|-----|
-| `Brand/Logo/logo-black.svg` | Primary mark — charcoal (`#1a1a2e`) on light/parchment backgrounds |
-| `Brand/Logo/logo-color.svg` | Accent mark — olive gold (`#c9a96e`) on dark/charcoal backgrounds |
-| `Brand/Logo/logo-white.svg` | Reverse mark — white on dark or photographic backgrounds |
+| `Brand/Visual Identity/logo-black.svg` | Charcoal (`#1a1a2e`) on light/parchment backgrounds |
+| `Brand/Visual Identity/logo-color.svg` | Olive gold (`#c9a96e`) on dark/charcoal backgrounds |
+| `Brand/Visual Identity/logo-white.svg` | White — on dark or photographic backgrounds |
 
-All three files are fully outlined (text converted to paths). No font dependencies. Source file: `Brand/Logo/Cafe Athena - The Manual - Logo.ai`
+All three files are fully outlined (text converted to paths). No font dependencies.
 
-**Structure:** "Café Athena" in Cormorant Garamond Bold / horizontal rule / "THE MANUAL" in Inter Black. All elements outlined as vectors.
+**Structure:** "Café Athena" in Cormorant Garamond Bold / horizontal rule / "THE MANUAL" in Inter Black. Used in site header and document contexts where the horizontal lockup fits.
 
 ---
 

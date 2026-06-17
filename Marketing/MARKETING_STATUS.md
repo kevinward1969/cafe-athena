@@ -25,7 +25,7 @@ _No active tasks. Phase 7 site and social work complete._
 
 | Platform | Brief | Templates | Account | Status |
 |----------|-------|-----------|---------|--------|
-| Instagram | ✓ | ✓ | — | Not yet set up |
+| Instagram | ✓ | ✓ | @cafeathena_themanual | Account created — profile setup in progress |
 | Pinterest | ✓ | ✓ | — | Not yet set up |
 | YouTube | ✓ | ✓ | — | Not yet set up |
 

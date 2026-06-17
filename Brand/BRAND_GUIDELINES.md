@@ -655,11 +655,11 @@ This section is the practical reference for every visual asset produced for Caf�
 
 | File | Variant | Use |
 |------|---------|-----|
-| `Brand/Logo/logo-black.svg` | Black | Primary — charcoal on light backgrounds |
-| `Brand/Logo/logo-color.svg` | Color | Olive gold on dark backgrounds |
-| `Brand/Logo/logo-white.svg` | White | Reverse — on dark or photographic backgrounds |
+| `Brand/Visual Identity/logo-black.svg` | Black | Primary — charcoal on light backgrounds |
+| `Brand/Visual Identity/logo-color.svg` | Color | Olive gold on dark backgrounds |
+| `Brand/Visual Identity/logo-white.svg` | White | Reverse — on dark or photographic backgrounds |
 
-Source: `Brand/Logo/Cafe Athena - The Manual - Logo.ai`
+Source: `Brand/Visual Identity/Cafe Athena - The Manual - Logo.ai`
 All SVG files are fully outlined (no font dependencies).
 
 ---
