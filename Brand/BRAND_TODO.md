@@ -75,22 +75,22 @@ _Requires Phases 1–5._
 
 ---
 
-## Phase 7 — Marketing Activation Handoff
+## Phase 7 — Marketing Activation Handoff ✓
 
 _Requires Phase 6._
 
-- [ ] Rewrite site hero subheadline (acquisition register)
-- [ ] Write About page / author section copy
-- [ ] Standardize all CTAs to olive-gold (#c9a96e)
-- [ ] Fix Archive card legibility (contrast/saturation)
-- [ ] Enrich footer — social links, privacy policy
-- [ ] Set up Instagram channel
-- [ ] Set up Pinterest channel
-- [ ] Set up YouTube channel
-- [ ] Create post templates — Instagram
-- [ ] Create post templates — Pinterest
-- [ ] Create post templates — YouTube
-- [ ] Update `Marketing/MARKETING_STATUS.md`
+- [x] Rewrite site hero subheadline (acquisition register)
+- [x] Write About page / author section copy
+- [x] Standardize all CTAs to olive-gold (#c9a96e)
+- [x] Fix Archive card legibility (contrast/saturation)
+- [x] Enrich footer — social links, privacy policy
+- [x] Set up Instagram channel brief — `Marketing/Social/brief-instagram.md`
+- [x] Set up Pinterest channel brief — `Marketing/Social/brief-pinterest.md`
+- [x] Set up YouTube channel brief — `Marketing/Social/brief-youtube.md`
+- [x] Create post templates — Instagram
+- [x] Create post templates — Pinterest
+- [x] Create post templates — YouTube
+- [x] Update `Marketing/MARKETING_STATUS.md`
 
 ---
 

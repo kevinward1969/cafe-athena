@@ -1,13 +1,13 @@
 # Brand Status
 
-**Last Updated:** 2026-06-11
+**Last Updated:** 2026-06-16
 **Branch:** main
 
 ---
 
 ## Active Work
 
-- [ ] **Phase 7 — Marketing Activation** — see `BRAND_TODO.md` for full task list
+_No active work. All phases complete._
 
 ## Phase Status
 
@@ -19,7 +19,7 @@
 | 4 — Voice & Tone | Complete |
 | 5 — Visual Identity | Complete |
 | 6 — Guidelines Complete | Complete |
-| 7 — Marketing Activation | Next |
+| 7 — Marketing Activation | Complete |
 
 ## Phase 6 — Completed Items
 

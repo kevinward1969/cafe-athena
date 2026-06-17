@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="Café Athena — The Manual. A cookbook built by a home cook for one person: his wife Athena."
+  currentPage="about"
+>
+  <div class="max-w-2xl mx-auto px-6 py-20 md:py-28">
+
+    <header class="mb-14">
+      <span class="font-mono text-[10px] uppercase tracking-[0.3em] text-[#6b6b7b] mb-4 block">About</span>
+      <h1 class="font-heading text-4xl md:text-6xl font-bold text-[#1a1a2e] leading-tight">
+        Café Athena
+      </h1>
+      <div class="w-12 h-0.5 bg-[#c9a96e] mt-6"></div>
+    </header>
+
+    <div class="prose prose-lg max-w-none font-body text-[#1a1a2e]/80 leading-relaxed space-y-6">
+
+      <p>
+        Kevin Ward is not a chef. He says so directly, and he means it as a position, not a disclaimer. He has cooked seriously for most of his adult life, learned from books and close attention rather than culinary school, and cooked everything in this book for one person: his wife Athena, whose name the project carries.
+      </p>
+
+      <p>
+        Café Athena started as a practical problem. Years of recipes were spread across handwritten notes, phone photos, and a sprawling digital archive — and none of it was usable at the counter. The solution Ward built to fix that eventually became a full manuscript, organized around how professional kitchens actually operate: technique first, then stations, then the building blocks that support everything else. Not because that structure is pedagogically fashionable. Because that is the order in which the knowledge compounds.
+      </p>
+
+      <p>
+        The book is built for cooks who already know their way around a kitchen and want more than a recipe list. For the cook who asks why before they ask how long. For the cook who has followed instructions for years and wants to understand what those instructions are actually doing. For the cook who wants the structural reasoning she can carry into every dish she makes after this one.
+      </p>
+
+      <p>
+        Nothing in The Manual was included for trend or aesthetic. Every recipe has been through a real kitchen, tested against a real standard: would it be worth her time at the table?
+      </p>
+
+      <p>
+        The site is the book. Start with the technique folios in The Academy if you want to build from the ground up. Start with a station chapter if you want to cook now and understand while you go. The building blocks are in The Larder when you need them.
+      </p>
+
+    </div>
+
+    <nav class="mt-16 pt-10 border-t border-[#e0d8cc] flex flex-wrap gap-6">
+      <a href="/academy" class="font-mono text-[10px] uppercase tracking-[0.2em] text-[#6b6b7b] hover:text-[#c9a96e] transition-colors">The Academy →</a>
+      <a href="/brigade" class="font-mono text-[10px] uppercase tracking-[0.2em] text-[#6b6b7b] hover:text-[#c9a96e] transition-colors">The Brigade →</a>
+      <a href="/larder" class="font-mono text-[10px] uppercase tracking-[0.2em] text-[#6b6b7b] hover:text-[#c9a96e] transition-colors">The Larder →</a>
+    </nav>
+
+  </div>
+</BaseLayout>
