@@ -61,8 +61,8 @@ const { title, subtitle, part, currentPage, chapters, bannerImage } = Astro.prop
               {String(ch.num).padStart(2, '0')}
             </span>
             <h2 class="font-heading text-2xl font-semibold text-[#1a1a2e] mb-2">{ch.name}</h2>
-            <p class="text-sm text-[#6b6b7b] mb-4 flex-grow">{ch.desc}</p>
-            <span class="text-xs font-semibold uppercase tracking-wider text-[#c9a96e] mt-auto">
+            <p class="text-sm text-[#4a4a5a] mb-4 flex-grow">{ch.desc}</p>
+            <span class="text-xs font-semibold uppercase tracking-wider text-[#1a1a2e]/70 group-hover:text-[#c9a96e] transition-colors mt-auto">
               {ch.recipes.length} {ch.recipes.length === 1 ? 'Entry' : 'Entries'} →
             </span>
           </div>
