@@ -1,0 +1,72 @@
+# **Café Athena - Foundation Crostini (The Three-Tier Crisp)**
+
+A neutral, oven-baked baguette base engineered to carry — not compete with — whatever topping lands on it; crispness here is a deliberate choice, not a default.
+
+**Yield:** 1 baguette (approx. 24–30 crostini, depending on baguette length) | **Prep:** 10 min | **Cook:** 6–14 min (tier-dependent) | **Total:** 16–24 min
+
+## Headnote
+
+This is a building-block recipe, not a finished dish — the base canapés and other composed bread preparations throughout this Manual will reference directly. Built from the 80/20 Poolish-Sourdough Baguette (04-01), it stays deliberately unseasoned beyond oil, leaving full flavor control to whatever recipe calls on it. **Teaching Idea: Moisture Migration vs. Structural Set.** The moment a wet topping lands on toasted bread, moisture begins migrating into the crumb — the bread's job is to hold its structure long enough for the bite to happen before that moisture wins. Baking to a specific crispness tier isn't about doneness; it's about giving the crumb enough of a head start to survive contact with the topping.
+
+## Ingredients
+
+### The Base
+
+* 1 80/20 Poolish-Sourdough Baguette (04-01), preferably day-old (fresh bread's excess moisture can leave a chewy center even when the surface looks done), bias-cut into ⅜–½ inch (1–1.3 cm) rounds
+* 30 ml (2 tbsp) extra virgin olive oil, for brushing (more or less depending on baguette length)
+
+## Mise en Place (Action Checklist)
+
+* Preheat oven to 400°F/205°C.
+* Bias-cut the baguette into ⅜–½ inch rounds.
+* Line a sheet pan.
+* Choose your crispness tier based on the intended topping (see Crispness Tier Chart below).
+
+### Crispness Tier Chart
+
+| Tier | Bake Time @ 400°F/205°C | Cue | Best For |
+|---|---|---|---|
+| Glass Crisp | 12–14 min | Deep gold edge-to-edge; audible snap when broken | Wet or heavy toppings (tartare, mousse) |
+| Structural Crisp (default) | 9–11 min | Golden rim, firm exterior, slight give at the center | All-purpose canapé base |
+| Soft Crisp | 6–8 min | Pale gold; bends without snapping | Delicate toppings (whipped ricotta, soft cheese) |
+
+## Method
+
+1. **Arrange:** Lay the baguette rounds in a single layer on the sheet pan, leaving space between slices so they don't touch.
+
+   **Why:** Crowded slices trap steam against each other's cut faces, softening the crumb instead of crisping it.
+
+1. **Brush:** Brush both cut faces lightly with olive oil — just enough to coat without pooling.
+
+   **Why:** Excess oil fries the surface rather than toasting it, producing a greasy result instead of a crisp one.
+
+1. **Bake — first half:** Bake at 400°F/205°C for the first half of your chosen tier's time.
+
+1. **Flip:** Flip each round.
+
+1. **Bake — second half:** Continue baking until the visual and tactile cue for your tier is met — color and snap are the real signal, not the clock.
+
+1. **Pull:** Remove the tray from the oven.
+
+## Chef's Notes
+
+* **Crispness Tier Chart:** See the chart in Mise en Place above.
+
+* **Why Day-Old Bread Crisps Cleaner:** Fresh baguette still carries excess internal moisture, which has to evaporate before the crumb can set — this can leave a chewy, under-crisped center even when the surface looks done. A day or two of open-air staling lets that moisture leave gradually, so the bake finishes the job instead of fighting it from scratch.
+
+* **Salt & Herb Finish (Optional):** For a base meant to stand on its own without a topping, finish with a light dusting of Diamond Crystal kosher salt immediately after baking, while the oil is still warm enough to help it adhere. A pinch of a dry herb blend (see 11-12, Fines Herbes) works the same way — add after baking, not before, so the herbs don't scorch.
+
+* **Make-Ahead & Storage:** Cool completely before storing in an airtight container at room temperature for up to 2 days. Re-crisp in a 350°F/175°C oven for 2–3 minutes before topping, if needed.
+
+## Glossary
+
+* **Bias-cut:** Slicing at a diagonal angle rather than straight across, increasing surface area for more even browning.
+* **Crostini:** Italian for "little toasts" — thin slices of bread, oiled and baked until crisp, used as a base for toppings.
+
+## Keywords
+
+crostini, bread component, baguette, oven-toasted, bias-cut, crispness control, canapé base, foundation recipe, olive oil, make-ahead
+
+## Category
+
+cuisine: Global | style: Classical | family: Bread Component | course: Component

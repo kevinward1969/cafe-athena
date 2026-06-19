@@ -7680,6 +7680,49 @@
       },
       "version": "1.1",
       "lastModified": "2026-06-08"
+    },
+    {
+      "id": "12-25",
+      "title": "Foundation Crostini (The Three-Tier Crisp)",
+      "chapter": 12,
+      "chapterName": "Les Fonds",
+      "type": "recipe",
+      "cuisine": "Global",
+      "style": "Classical",
+      "family": "Bread Component",
+      "course": "Component",
+      "keywords": [
+        "crostini",
+        "bread component",
+        "baguette",
+        "oven-toasted",
+        "bias-cut",
+        "crispness control",
+        "canapé base",
+        "foundation recipe",
+        "olive oil",
+        "make-ahead"
+      ],
+      "dietary": null,
+      "added": "2026-06-19",
+      "stages": {
+        "formatAudit": true,
+        "keywordPull": true,
+        "glossaryPull": true,
+        "heroImage": false,
+        "heroImageOptimized": false,
+        "referenceImages": false,
+        "referenceImagesProcessed": null,
+        "deployed": false,
+        "clarityAudit": true
+      },
+      "audit": {
+        "lastRun": "2026-06-19",
+        "status": "clean",
+        "issues": []
+      },
+      "version": "1.1",
+      "lastModified": "2026-06-19"
     }
   ]
 }

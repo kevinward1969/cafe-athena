@@ -218,6 +218,7 @@
 - 12-22 Café Athena \- Garlic Crisps (Fried Garnish)
 - 12-23 Café Athena \- Foundation Caramel (The Swirl Dry Method)
 - 12-24 Café Athena \- Pressure-Cooked Whole Chicken & Bone Broth
+- 12-25 Café Athena \- Foundation Crostini (The Three-Tier Crisp)
 
 # REFERENCE
 

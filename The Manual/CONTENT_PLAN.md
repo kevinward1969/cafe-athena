@@ -6,6 +6,7 @@
 *Ch 11 complete (12/12) — 11-12 Fines Herbes vs. Herbes de Provence vs. Bouquet Garni added 2026-05-24*  
 *06-07 Chicken and Dumplings added 2026-06-08 — Ch 6 now 7/12*  
 *12-24 Pressure-Cooked Whole Chicken & Bone Broth added 2026-06-08 — Ch 12 now 24 folios*  
+*12-25 Foundation Crostini (The Three-Tier Crisp) added 2026-06-19 — Ch 12 now 25 folios*  
 *06-08 Whole Roast Chicken (Spatchcock, Dry-Brine) added 2026-06-09 — Ch 6 now 8/12*  
 *06-09 Chicken Wings (Craggly Batter, Buffalo Sauce) added 2026-06-09 — Ch 6 now 9/12*  
 *06-10 Chicken Christopher (Panko Cutlet, Beurre Blanc) added 2026-06-09 — Ch 6 now 10/12*  
