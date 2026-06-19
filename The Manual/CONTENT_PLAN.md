@@ -23,7 +23,7 @@
 |---------|---------|--------|-----|----------|
 | Ch 3 - Garde Manger | 14 | 12 | ✓ | — |
 | Ch 4 - The Mill | 14 | 12 | ✓ | — |
-| **Ch 5 - The Fishmonger** | **4** | 12 | **+8** | High |
+| **Ch 5 - The Fishmonger** | **5** | 12 | **+7** | High |
 | **Ch 6 - The Poulterer** | **10** | 12 | **+2** | High |
 | Ch 7 - The Butcher | 14 | 12 | ✓ | Category gaps (lamb, veal) |
 | Ch 8 - The Field | 14 | 12 | ✓ | — |
@@ -46,6 +46,7 @@
 - 05-02 Miso-Cured Black Cod (Saikyo Yaki)
 - 05-03 Unilateral Seared Bass with Miso-Noisette
 - 05-04 Brown Butter Confit Cod with Potato Seaweed Crumb
+- 05-05 Classic Hot-Smoked Salmon
 
 ### Category Gaps
 
@@ -53,7 +54,7 @@
 |---------|--------|------|
 | White fish (cod/bass) | ✓ Covered (×2) | |
 | Shellfish — scallops | ✓ Covered | |
-| **Salmon** | ❌ Missing | Critical — most-cooked fish in the home |
+| Salmon | ✓ Covered | 05-05 Classic Hot-Smoked Salmon |
 | **Shrimp/prawns** | ❌ Missing | Highest-volume seafood category |
 | **Tuna** | ❌ Missing as main | Tartare exists in Ch 3 — need a cooked/featured preparation |
 | **Mussels or clams** | ❌ Missing | Bivalve category entirely absent |

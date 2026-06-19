@@ -82,6 +82,7 @@
 - 05-02 Café Athena \- Miso-Cured Black Cod (Saikyo Yaki)
 - 05-03 Café Athena \- Unilateral Seared Bass with Miso-Noisette
 - 05-04 Café Athena \- Brown Butter Confit Cod with Potato Seaweed Crumb
+- 05-05 Café Athena \- Classic Hot-Smoked Salmon
 
 ## CHAPTER 6: THE POULTERER
 
