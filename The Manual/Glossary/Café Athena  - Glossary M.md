@@ -29,6 +29,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Mise en Place: "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
 - Miso: A fermented soybean paste, integral to Japanese cuisine, offering a complex savory flavor profile and contributing to umami.
 - Moisture Management: A technique focused on controlling water content during dough formation, essential for achieving a light and tender gnocchi texture, avoiding a dense, chewy result.
+- Moisture Seal: A continuous hydrophobic coating — typically melted chocolate or cocoa butter — brushed inside a baked pastry shell to block a wet filling from soaking into the crust.
 - Monter au Beurre: "Mount with butter." The technique of finishing a sauce by whisking in cold butter at the end of cooking to add shine, thickness, and flavor.
 - Mother: A long-term, refrigerated sourdough starter maintained in a 1:1:1 ratio to preserve microbial activity.
 - Mounting: The technique of whisking cold fat into a hot liquid in stages to create a stable, glossy emulsion.

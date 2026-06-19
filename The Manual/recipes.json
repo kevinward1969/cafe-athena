@@ -1542,7 +1542,7 @@
         "raw fish"
       ],
       "lastDeployed": "2026-06-19",
-      "needsRedeploy": true
+      "needsRedeploy": false
     },
     {
       "id": "03-06",
@@ -1758,7 +1758,7 @@
         "weeknight"
       ],
       "lastDeployed": "2026-06-19",
-      "needsRedeploy": true
+      "needsRedeploy": false
     },
     {
       "id": "03-11",
@@ -4901,9 +4901,9 @@
         "ramekin"
       ],
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
@@ -4917,7 +4917,7 @@
         "issues": []
       },
       "version": "1.0",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-06-19",
       "lastDeployed": "2026-06-19",
       "needsRedeploy": false
     },
@@ -5125,7 +5125,7 @@
       "stages": {
         "formatAudit": true,
         "keywordPull": true,
-        "glossaryPull": false,
+        "glossaryPull": true,
         "heroImage": true,
         "heroImageOptimized": true,
         "referenceImages": false,
@@ -5161,7 +5161,7 @@
         "roasted banana"
       ],
       "version": "1.0",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-19",
       "lastDeployed": "2026-06-19",
       "needsRedeploy": false
     },
@@ -5795,7 +5795,7 @@
         "anaerobic preservation"
       ],
       "lastDeployed": "2026-06-19",
-      "needsRedeploy": true
+      "needsRedeploy": false
     },
     {
       "id": "10-15",
@@ -6591,7 +6591,7 @@
       "dietary": "Vegan, Gluten-Free",
       "added": "2026-05-20",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -6607,7 +6607,8 @@
         "issues": []
       },
       "lastDeployed": "2026-06-19",
-      "needsRedeploy": false
+      "needsRedeploy": false,
+      "lastModified": "2026-06-19"
     },
     {
       "id": "11-08",
@@ -6639,7 +6640,7 @@
       "dietary": "Vegan, Gluten-Free",
       "added": "2026-05-20",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,
@@ -6655,7 +6656,8 @@
         "issues": []
       },
       "lastDeployed": "2026-06-19",
-      "needsRedeploy": false
+      "needsRedeploy": false,
+      "lastModified": "2026-06-19"
     },
     {
       "id": "11-09",
@@ -6735,9 +6737,9 @@
       "dietary": "Vegan, Gluten-Free",
       "added": "2026-05-24",
       "version": "1.1",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-06-19",
       "stages": {
-        "formatAudit": false,
+        "formatAudit": true,
         "keywordPull": true,
         "glossaryPull": true,
         "heroImage": true,

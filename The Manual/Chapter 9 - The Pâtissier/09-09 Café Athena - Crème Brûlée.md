@@ -1,4 +1,4 @@
-# **Café Athena — Crème Brûlée**
+# **Café Athena - Crème Brûlée**
 
 The definitive classic. Silky vanilla custard beneath a shatteringly thick turbinado crust — built on three precision points: a proper temper, a bain-marie thermal buffer, and a wobble-test pull.
 

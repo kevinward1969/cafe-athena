@@ -37,4 +37,5 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dry-Dredge Bridge: The mandatory pre-batter application of dry starch or flour to a product surface, creating an adhesion layer between the protein or vegetable and a liquid batter. Without it, the batter slides off at oil contact.
 - Dry-Pack Method: A lacto-fermentation approach in which salt is added directly to mashed or chopped produce with no added water. The salt draws sufficient brine from the produce itself to submerge the solids. Produces a more concentrated flavor than water-brined methods.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
+- Dutch-process cocoa: Cocoa powder treated with an alkalizing agent to neutralize acidity, producing a darker color and mellower, less bitter flavor than natural cocoa.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.

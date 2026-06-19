@@ -10,4 +10,5 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Well Method: A hand-mixing technique where flour is mounded and hollowed at the center to contain wet ingredients, which are gradually incorporated from the inside out.
 - Wet-Dry-Wet Dredge: A multi-stage coating process employing a liquid binder to create a textured, “craggy” batter for enhanced crisping.
 - White Oil: A 50/50 mixture of beeswax and butter used to create a non-stick, high-gloss finish.
+- Wobble test: A visual doneness check for baked custards in which the ramekin is gently nudged — a properly set custard shows a cohesive jiggle at the center, not liquid movement at the edges.
 - Woody Ends: The fibrous, lignified bottom portion of an asparagus spear that remains tough regardless of cooking time; removed before cooking by snapping or cutting.
