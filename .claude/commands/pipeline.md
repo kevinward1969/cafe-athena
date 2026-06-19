@@ -153,7 +153,10 @@ Run only if `needs_rebuild = true` and user approved in Phase 7.
 
    This runs `prepare-content.py` → `npm run build` (includes Pagefind) → rsync to FastComet.
 2. Confirm rsync completed successfully (look for `✅ Deployed successfully!` in output).
-3. Mark `deployed: true` in registry.
+3. In `The Manual/recipes.json`, set:
+   - `stages.deployed: true`
+   - `lastDeployed: [today's date]`
+   - `needsRedeploy: false`
 
 ---
 

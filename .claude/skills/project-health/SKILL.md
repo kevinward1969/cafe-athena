@@ -159,15 +159,18 @@ If pagefind-entry.json exists, extract `page_count` and compare to content file 
 
 ### 4C — Post-Deploy Content Changes
 
-```bash
-# Find the last commit mentioning deploy
-git log --oneline --grep="deploy" -5
+Check `needsRedeploy` field in recipes.json for all deployed entries:
 
-# Files changed in The Manual after that commit
+- **MODERATE** for each entry where `stages.deployed: true` AND `needsRedeploy: true` — content was changed after last deploy, live site is stale. Report the id, title, and `lastDeployed` date.
+
+As a secondary verification, cross-check against git:
+
+```bash
+git log --oneline --grep="deploy" -1
 git diff [last-deploy-sha]..HEAD --name-only | grep "The Manual/Chapter"
 ```
 
-- **MODERATE** if folio files were modified after the last deploy commit (live site does not reflect these changes)
+If git finds folio changes not reflected by any `needsRedeploy: true` entry, flag as **MINOR** — indicates a folio was edited without going through `/recipe-update`.
 
 ---
 

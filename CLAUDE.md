@@ -166,6 +166,7 @@ Run these in Claude Code. Full definitions in `.claude/commands/`.
 | `/keyword-pull [id]` | Add missing Keywords + Category sections |
 | `/audit-glossary` | Fix alphabetization + duplicates in main glossary |
 | `/new-recipe` | Scaffold a new recipe through the full pipeline |
+| `/recipe-update [id]` | Edit an already-deployed recipe — bumps version, sets needsRedeploy, re-evaluates affected pipeline stages. Use for any post-deploy content change |
 | `/register-recipe [id]` | Register a new entry in `The Manual/recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
 | `/sync-registry` | Sync `The Manual/recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |

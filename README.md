@@ -375,6 +375,7 @@ Slash commands for common tasks — type directly in the Antigravity chat (Claud
 | --- | --- | --- |
 | `/pipeline` | `/pipeline 12-25` | Run a recipe through the full publishing pipeline — register, clarity audit, format audit, keyword/glossary pull, hero image check, build, and deploy |
 | `/new-recipe` | `/new-recipe` | Scaffold a new recipe through Mode 1 |
+| `/recipe-update` | `/recipe-update 03-05` | Edit an already-deployed recipe — bumps version, sets needsRedeploy, re-evaluates affected stages |
 | `/register-recipe` | `/register-recipe 12-20` | Register a new entry in `The Manual/recipes.json` after Claude Desktop Mode 2 |
 | `/format-audit` | `/format-audit 04-15` or `/format-audit Chapter 4` | Audit a recipe against format standards with authorization layer |
 | `/clarity-audit` | `/clarity-audit 04-15` | Audit a recipe for instructional clarity issues |
