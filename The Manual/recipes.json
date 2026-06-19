@@ -2554,8 +2554,8 @@
         "deployed": true,
         "clarityAudit": true
       },
-      "heroImage": false,
-      "heroImageOptimized": false,
+      "heroImage": true,
+      "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-06-10",
         "status": "clean",
@@ -3517,50 +3517,6 @@
       ]
     },
     {
-      "id": "07-10_2",
-      "title": "The Competition Red Texas-Style Chili",
-      "chapter": 7,
-      "chapterName": "The Butcher",
-      "type": "recipe",
-      "added": "2026-04-04",
-      "stages": {
-        "formatAudit": true,
-        "keywordPull": true,
-        "glossaryPull": true,
-        "heroImage": true,
-        "heroImageOptimized": true,
-        "referenceImages": false,
-        "referenceImagesProcessed": null,
-        "deployed": true,
-        "clarityAudit": true
-      },
-      "audit": {
-        "lastRun": "2026-04-22",
-        "status": "clean",
-        "issues": []
-      },
-      "heroImage": true,
-      "heroImageOptimized": true,
-      "cuisine": "American",
-      "style": "Competition",
-      "family": "Beef",
-      "course": "Dinner",
-      "dietary": null,
-      "keywords": [
-        "texas-style chili",
-        "umami",
-        "fermented",
-        "beef",
-        "demi-glace",
-        "cocoa",
-        "guinness",
-        "searing",
-        "maillard reaction",
-        "competition",
-        "chili paste"
-      ]
-    },
-    {
       "id": "07-11",
       "title": "Pressure-Braised Chuck Roast (The Competition Pot Roast)",
       "chapter": 7,
@@ -3669,8 +3625,8 @@
         "status": "clean",
         "issues": []
       },
-      "heroImage": false,
-      "heroImageOptimized": false,
+      "heroImage": true,
+      "heroImageOptimized": true,
       "cuisine": "French",
       "style": "Fine Dining",
       "family": "Beef",
@@ -7326,8 +7282,8 @@
         "deployed": true,
         "clarityAudit": true
       },
-      "heroImage": false,
-      "heroImageOptimized": false,
+      "heroImage": true,
+      "heroImageOptimized": true,
       "audit": {
         "lastRun": "2026-06-10",
         "status": "clean",

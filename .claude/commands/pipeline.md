@@ -112,7 +112,9 @@ Skip if `heroImage: true` AND `heroImageOptimized: true`.
 
    - Warn (non-blocking) if dimensions ≠ 1920×1080
    - Warn (non-blocking) if file size > 500 KB
-   - Mark `heroImage: true` and `heroImageOptimized: true`. Continue.
+   - Mark `heroImage: true` and `heroImageOptimized: true`.
+   - **If `deployed` is still `false` at this point:** set `needs_rebuild = true`. A recipe that has never been deployed must be deployed regardless of whether this pipeline run wrote any content changes.
+   - Continue.
 
    **File not found:**
    **STOP.** Output:

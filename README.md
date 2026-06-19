@@ -114,20 +114,23 @@ The Astro site is the published face of the cookbook.
 | Route | Purpose |
 | --- | --- |
 | `/` | Homepage |
-| `/larder` | Recipes browsed by chapter |
 | `/academy` | Technique folios by chapter |
+| `/brigade` | Station recipes by chapter |
+| `/larder` | Building-block recipes by chapter |
+| `/expo` | Editorial posts and walkthroughs |
+| `/categories` | Browse by family and cuisine |
 | `/glossary` | Full culinary glossary |
 | `/search` | Full-text search (Pagefind) |
-| `/brigade` | About |
+| `/about` | About Café Athena |
 
 ### Content Pipeline
 
 Manual → Site is a one-command transform:
 
 ```bash
-cd site
-python scripts/prepare-content.py   # converts The Manual → src/content/recipes/
-npm run build                        # builds + indexes for Pagefind
+# From repo root:
+python3 site/scripts/prepare-content.py   # converts The Manual → src/content/recipes/
+cd site && npm run build                   # builds + indexes for Pagefind
 ```
 
 `prepare-content.py` reads Markdown files from `The Manual/`, transforms them into Astro-compatible frontmatter, and writes compiled files to `site/src/content/recipes/`.
@@ -370,14 +373,19 @@ Slash commands for common tasks — type directly in the Antigravity chat (Claud
 
 | Command | Example | Description |
 | --- | --- | --- |
+| `/pipeline` | `/pipeline 12-25` | Run a recipe through the full publishing pipeline — register, clarity audit, format audit, keyword/glossary pull, hero image check, build, and deploy |
 | `/new-recipe` | `/new-recipe` | Scaffold a new recipe through Mode 1 |
-| `/format-audit` | `/format-audit 04-15` or `/format-audit Chapter 4` | Audit a recipe against format standards with authorization layer |
-| `/glossary-pull` | `/glossary-pull 04-15` | Extract and merge glossary terms from a recipe |
-| `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in the main glossary |
-| `/keyword-pull` | `/keyword-pull 04-15` | Extract keywords for site metadata |
-| `/recipe-hero-image` | `/recipe-hero-image 04-15` | Generate a hero image brief for a recipe |
 | `/register-recipe` | `/register-recipe 12-20` | Register a new entry in `The Manual/recipes.json` after Claude Desktop Mode 2 |
+| `/format-audit` | `/format-audit 04-15` or `/format-audit Chapter 4` | Audit a recipe against format standards with authorization layer |
+| `/clarity-audit` | `/clarity-audit 04-15` | Audit a recipe for instructional clarity issues |
+| `/glossary-pull` | `/glossary-pull 04-15` | Extract and merge glossary terms from a recipe |
+| `/keyword-pull` | `/keyword-pull 04-15` | Extract keywords for site metadata |
+| `/audit-glossary` | `/audit-glossary` | Fix alphabetization + duplicates in the main glossary |
 | `/sync-registry` | `/sync-registry` | Sync `The Manual/recipes.json` against the live Manual directory |
+| `/register-expo` | `/register-expo` | Register a new Expo post in `Expo/expo.json` |
+| `/sync-expo-registry` | `/sync-expo-registry` | Sync `Expo/expo.json` against the live Expo/Posts/ directory |
+| `/expo-keyword-pull` | `/expo-keyword-pull` | Generate and write tags to an Expo post's frontmatter |
+| `/expo-tag-audit` | `/expo-tag-audit` | Scan all Expo posts for tag usage — counts, single-use candidates, near-duplicates |
 | `/session-handoff` | `/session-handoff` | Update PROJECT_STATUS.md and commit all session changes |
 
 Workflow definitions live in `.claude/commands/`.
@@ -472,6 +480,6 @@ python scripts/prepare-content.py
 
 ---
 
-**Version:** 2.1  
-**Status:** Active — 142 entries across 12 chapters  
-**Last Updated:** April 2026
+**Version:** 2.2  
+**Status:** Active — 176 entries across 12 chapters  
+**Last Updated:** June 2026

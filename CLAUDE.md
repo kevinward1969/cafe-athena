@@ -160,6 +160,7 @@ Run these in Claude Code. Full definitions in `.claude/commands/`.
 
 | Command | Purpose |
 |---------|---------|
+| `/project-health [scope?]` | Full project health audit — registry, flags, images, deploy currency, docs, agents. Optional scope: `registry`, `images`, `deploy`, `docs`, `agents` |
 | `/format-audit [id\|Chapter N]` | Audit recipe(s) against format standard |
 | `/glossary-pull [id]` | Merge recipe glossary terms into main glossary |
 | `/keyword-pull [id]` | Add missing Keywords + Category sections |
@@ -309,6 +310,12 @@ Session-relevant learnings that shape how work should be done in this project.
 ## Project Skills — Auto-Trigger Rules
 
 Skills from `.claude/skills/` and installed plugins are invoked automatically when their trigger conditions are met — do not wait to be asked.
+
+### Project Health
+
+| Skill | Invoke when… |
+|-------|-------------|
+| `project-health` | Something feels off with the project — search not returning results, deploy flags inconsistent, images missing, docs stale, agents drifting. Also invoke at the start of any session that begins with "what's broken" or "let's audit". Supports scope flags: `registry`, `images`, `deploy`, `docs`, `agents` |
 
 ### Site & Content Skills
 
