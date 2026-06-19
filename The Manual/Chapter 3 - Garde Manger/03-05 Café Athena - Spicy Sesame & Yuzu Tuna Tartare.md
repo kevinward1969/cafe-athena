@@ -74,7 +74,7 @@ Add the **cucumber**, **scallions**, and **lime zest** to the chilled tuna. Pour
 
 **Phase 6: Plating**
 
-Dice the **avocado** and place it at the bottom of a ring mold (or bowl). Top with the tuna tartare mixture. Garnish with **toasted sesame seeds**. Serve immediately with nori chips or crostini (12-25).
+Dice the **avocado** and place it at the bottom of a ring mold (or bowl). Top with the tuna tartare mixture. Garnish with **toasted sesame seeds**. Serve immediately with nori chips or [crostini](/12-25).
 
 ## Chef's Notes
 
