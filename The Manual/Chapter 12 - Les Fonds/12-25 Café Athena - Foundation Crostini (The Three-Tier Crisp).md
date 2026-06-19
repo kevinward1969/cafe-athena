@@ -56,6 +56,10 @@ This is a building-block recipe, not a finished dish — the base canapés and o
 
 * **Salt & Herb Finish (Optional):** For a base meant to stand on its own without a topping, finish with a light dusting of Diamond Crystal kosher salt immediately after baking, while the oil is still warm enough to help it adhere. A pinch of a dry herb blend (see 11-12, Fines Herbes) works the same way — add after baking, not before, so the herbs don't scorch.
 
+* **Oven Variability:** The tier times are a starting point, not a guarantee — every oven runs differently, and older or less calibrated ovens can add several minutes to each tier. Use color and snap as your true signal. If your oven consistently runs long, note your actual times and use those going forward; the chart is a baseline to calibrate from, not a fixed rule.
+
+* **Grilling Method:** Crostini can be finished on a grill using indirect heat — direct flame will scorch the surface before the crumb sets. Set up a two-zone fire, place the oiled rounds on the cooler side, and close the lid. The enclosed heat mimics the oven effect; check at the lower end of your desired tier's time and adjust from there. This method adds a faint char-and-smoke note that works well under bold toppings (tartare, grilled vegetables, smoked fish).
+
 * **Make-Ahead & Storage:** Cool completely before storing in an airtight container at room temperature for up to 2 days. Re-crisp in a 350°F/175°C oven for 2–3 minutes before topping, if needed.
 
 ## Glossary
