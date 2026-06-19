@@ -125,6 +125,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Craggy: A textural descriptor referring to the irregular, shaggy appearance of the fried chicken's coating.
 - Craggly batter: A frying batter deliberately seeded with hydrated flour clumps before use. The clumps create irregular surface texture that fries at a different rate than the surrounding thin batter layer, producing a shaggy, heterogeneous crust that shatters unevenly.
 - Creaming Method: A mixing technique where fat and sugar are beaten together to create an aerated emulsion before adding other ingredients.
+- Crème Pâtissière: French pastry cream — a stovetop custard of milk, egg yolks, sugar, and starch cooked until thick. The base for tart fillings, éclairs, and countless other pastry preparations.
 - Crumb: The internal texture of baked goods, particularly referring to the open or dense structure of bread.
 - Cryo-Shock: Immediate immersion of a blanched ingredient in an ice-water bath to halt carry-over cooking and lock in color.
 - Cure: A process utilizing a high-salinity environment to firm the texture of an oily fish while infusing seasoning.
@@ -165,6 +166,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Dry-Dredge Bridge: The mandatory pre-batter application of dry starch or flour to a product surface, creating an adhesion layer between the protein or vegetable and a liquid batter. Without it, the batter slides off at oil contact.
 - Dry-Pack Method: A lacto-fermentation approach in which salt is added directly to mashed or chopped produce with no added water. The salt draws sufficient brine from the produce itself to submerge the solids. Produces a more concentrated flavor than water-brined methods.
 - Dutch Oven Lid: The heavy lid of a Dutch oven traps steam, regulating radiant heat and ensuring even cooking.
+- Dutch-process cocoa: Cocoa powder treated with an alkalizing agent to neutralize acidity, producing a darker color and mellower, less bitter flavor than natural cocoa.
 - Duxelles: A finely chopped mushroom preparation cooked in butter until all moisture has fully evaporated, producing a concentrated, nearly dry paste used as a filling or flavoring base.
 
 ## E
@@ -219,6 +221,7 @@ Alphabetized glossary terms extracted from chapter and recipe glossaries.
 - Garlic-Infused Oil: Olive oil gently heated with crushed garlic cloves until fragrant, then strained. Delivers garlic flavor without the sharpness or texture of raw garlic.
 - Gelatin: A protein derived from collagen, exhibiting hydrocolloidal properties and producing a silky mouthfeel (viscosity) when warmed, and forming a semi-solid gel upon cooling.
 - Gelatinization: The process where starch granules absorb water and swell upon heating, disrupting their crystalline structure to thicken a liquid.
+- Gelée: A lightly set, glossy gel — typically a fruit juice or stock set with gelatin or agar — used as a thin, clean-cut layer or mirror finish in pastry and plating.
 - Geometry: The application of mathematical principles to analyze and understand the cutting process, emphasizing the importance of precise angles and shapes.
 - Glacé: French for "glazed" or "iced." In vegetable cookery, a technique where a small quantity of liquid, butter, and sugar reduces completely around the vegetable, coating it in a shiny, concentrated glaze.
 - Gliadin: Another key protein found in wheat flour that, when combined with glutenin, forms gluten, the protein network responsible for dough structure.
@@ -327,6 +330,7 @@ No glossary terms yet.
 - Mise en Place: "Everything in its place." The culinary practice of preparing, measuring, and organizing all ingredients and equipment before cooking begins.
 - Miso: A fermented soybean paste, integral to Japanese cuisine, offering a complex savory flavor profile and contributing to umami.
 - Moisture Management: A technique focused on controlling water content during dough formation, essential for achieving a light and tender gnocchi texture, avoiding a dense, chewy result.
+- Moisture Seal: A continuous hydrophobic coating — typically melted chocolate or cocoa butter — brushed inside a baked pastry shell to block a wet filling from soaking into the crust.
 - Monter au Beurre: "Mount with butter." The technique of finishing a sauce by whisking in cold butter at the end of cooking to add shine, thickness, and flavor.
 - Mother: A long-term, refrigerated sourdough starter maintained in a 1:1:1 ratio to preserve microbial activity.
 - Mounting: The technique of whisking cold fat into a hot liquid in stages to create a stable, glossy emulsion.
@@ -576,6 +580,7 @@ No glossary terms yet.
 - Well Method: A hand-mixing technique where flour is mounded and hollowed at the center to contain wet ingredients, which are gradually incorporated from the inside out.
 - Wet-Dry-Wet Dredge: A multi-stage coating process employing a liquid binder to create a textured, “craggy” batter for enhanced crisping.
 - White Oil: A 50/50 mixture of beeswax and butter used to create a non-stick, high-gloss finish.
+- Wobble test: A visual doneness check for baked custards in which the ramekin is gently nudged — a properly set custard shows a cohesive jiggle at the center, not liquid movement at the edges.
 - Woody Ends: The fibrous, lignified bottom portion of an asparagus spear that remains tough regardless of cooking time; removed before cooking by snapping or cutting.
 
 ## X
