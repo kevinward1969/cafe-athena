@@ -6,7 +6,7 @@ Rich, umami-forward spread stabilized with gelatin and lightened with Chantilly.
 
 ## Headnote
 
-This is not a dip; it is a structured mousse that rivals traditional liver pâté in both texture and depth. By incorporating gelatin and creating a stable emulsion with the heavy cream, we achieve a "sliceable" consistency that holds its shape on a crostini. The addition of miso and sherry mimics the savory, oxidized notes usually provided by organ meat. **Teaching Idea: Temperature & Emulsions.** The base must be cooled to roughly 85°F/30°C before folding. If the base is too hot, the whipped cream fat melts, breaking the aeration. If it is too cold, the gelatin sets into rubbery lumps before it is incorporated.
+This is not a dip; it is a structured mousse that rivals traditional liver pâté in both texture and depth. By incorporating gelatin and creating a stable emulsion with the heavy cream, we achieve a "sliceable" consistency that holds its shape on a crostini (12-25). The addition of miso and sherry mimics the savory, oxidized notes usually provided by organ meat. **Teaching Idea: Temperature & Emulsions.** The base must be cooled to roughly 85°F/30°C before folding. If the base is too hot, the whipped cream fat melts, breaking the aeration. If it is too cold, the gelatin sets into rubbery lumps before it is incorporated.
 
 ## Ingredients
 
