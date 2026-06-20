@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-19 (session 54)
+Last Updated: 2026-06-20 (session 55)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -33,6 +33,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
 | AI setup health audit | Context degradation and repeated errors observed this session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
+| HF tool integration | FLUX.1, Ideogram 4, and Wan2.2 skilled and wired into architecture (CLAUDE.md, MULTI_AGENT_ARCHITECTURE.md). Lane routing documented. Integration entry point: `~/Projects/Hugging Face/hugging_face/Projects/cafe-athena/hugging-face-agent.md`. | Blocking: AUDIT-004 (FLUX.1 + Wan2.2) and AUDIT-005 (Ideogram 4) must complete before production use. Check `hugging_face/audit/` for status. | 2026-06-20 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
 | Social account setup — Instagram, Pinterest, YouTube | Briefs in `Marketing/Social/`, templates in `Marketing/Social/Templates/`. Kevin is handling account creation manually using Claude (Chrome) for guidance. | No blocking condition — Kevin-driven | 2026-06-16 |
 

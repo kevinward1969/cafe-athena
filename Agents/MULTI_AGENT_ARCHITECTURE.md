@@ -292,7 +292,47 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 
 ---
 
-## 10. Agent File Quick Reference
+## 10. Hugging Face Tool Integration
+
+**Status:** Skilled — audit pending. Not in production use.
+
+Café Athena uses HF tools as a separate lane from the core AI agent system. These are not Claude agents — they are standalone generative tools accessed via Hugging Face Spaces. They run outside the Antigravity/Claude Code pipeline.
+
+### Lane Assignment
+
+| Lane | Purpose | Tools |
+| ---- | ------- | ----- |
+| **Lane 1 — Cookbook Photography** | Hero images and reference images for `site/public/images/` | Gemini Gem 2 (Visual Director) only |
+| **Lane 2 — Promotional & Social** | Social stills, text-containing graphics, atmospheric video clips | HF Tools (FLUX.1, Ideogram 4, Wan2.2) |
+
+The two lanes are strictly separated. A cookbook hero image is never produced by HF tools. A promotional graphic is never routed to Gemini Gem 2.
+
+### Tools in Scope
+
+| Tool | HF Space | Role in Lane 2 |
+| ---- | -------- | -------------- |
+| **FLUX.1 [dev]** | `black-forest-labs/FLUX.1-dev` | Atmospheric food photography — promotional stills, scene-setting brand imagery |
+| **Ideogram 4** | `ideogram-ai/ideogram4` | Any asset requiring readable text — menus, event cards, graphics with the Café Athena name or copy |
+| **Wan2.2 T2V/I2V** | `Wan-AI/Wan2.2-T2V-14B` (T2V) + `Wan-AI/Wan2.2-I2V-A14B` (I2V) | Atmospheric video clips — social reels, ambient loops, animated brand stills |
+
+All three tools are `skilled` — skill files exist in the HF workspace. All three have audits pending (AUDIT-004, AUDIT-005) and must not be used in production until those audits are marked complete.
+
+### Tools Not in Scope
+
+Speech synthesis (Qwen3-TTS, Kokoro-82M, IndexTTS-2, Chatterbox, XTTS-v2), voice cloning (ZONOS-2), music generation (MusicGen, Stable Audio, ACE-Step), and character animation (Consistent Character, InstantID, LoRA DreamBooth, IP-Adapter FaceID) are not in scope for Café Athena's current production workflows. Transcription (whisper-jax) is also not in scope. None of Café Athena's content surfaces — cookbook, site, or social — require these capabilities at this time. Reassess if video content with narration or branded music is added to the social strategy.
+
+### Integration Entry Point
+
+All project-specific brand parameters, visual style direction, tool registry, asset manifest, and production workflows for HF tools are defined in:
+
+`~/Projects/Hugging Face/hugging_face/Projects/cafe-athena/hugging-face-agent.md`
+
+Canonical skill documentation lives in the HF workspace (`hugging_face/spaces/`). Never copy canonical skill content into the Café Athena project — reference by path only.
+
+---
+
+## 11. Agent File Quick Reference
+
 
 | What you need | Where it lives |
 | ------------- | -------------- |
