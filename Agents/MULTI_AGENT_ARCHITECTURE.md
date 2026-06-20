@@ -296,7 +296,16 @@ This would clear the 69-file backlog in a handful of sessions rather than dozens
 
 **Status:** Skilled — audit pending. Not in production use.
 
-Café Athena uses HF tools as an extended toolkit that supplements — not replaces — other generative tools already in use (Adobe Firefly, Adobe Express, Gemini image generation). These are not Claude agents — they are standalone generative tools accessed via Hugging Face Spaces. They run outside the Antigravity/Claude Code pipeline.
+Whenever Café Athena has a creative or media need — promotional imagery, video, audio, graphics — evaluate whether HF has a solution that improves or extends what other tools can do. HF tools work alongside Adobe Firefly, Adobe Express, and Gemini image generation; the right choice is whichever produces the best result for the specific task.
+
+HF tools are not Claude agents — they are standalone generative tools accessed via Hugging Face Spaces, running outside the Antigravity/Claude Code pipeline.
+
+### File Access Rule
+
+| Path | Access |
+| ---- | ------ |
+| `~/Projects/Hugging Face/hugging_face/Projects/cafe-athena/` | **Writable** — all Café Athena project-specific content (registry, brand params, asset manifest, gap docs, handoff prompts) lives here |
+| `~/Projects/Hugging Face/hugging_face/` (all other paths) | **Read-only** — canonical HF workspace (skills, space docs, audits, roadmap). Never write outside the `Projects/cafe-athena/` subfolder. Reference by path only. |
 
 ### Lane Assignment
 
