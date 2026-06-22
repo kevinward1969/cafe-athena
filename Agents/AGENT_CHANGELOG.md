@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-22b | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
 | 2026-06-22 | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
 | 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | v1.2 | v1.3 |
 | 2026-06-14 | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.2 | v1.2 | v1.2 | v1.2 |
@@ -171,10 +172,11 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Gemini Gem 2 — The Visual Director
 
 **File:** `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`  
-**Current Version:** 2.2
+**Current Version:** 2.3
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.3 | 2026-06-22 | Updated site URL reference from cookbook.kevinward.com to cafeathenathemanual.com. |
 | v2.2 | 2026-06-11 | Fixed broken markdown table separator in Mode 3 section-specific guidance (`---- ----` → `----`). Added reference image fallback to Mode 1: if Gem UI attachments are missing, written style descriptions serve as the fallback standard — do not interpolate generic food photography defaults. |
 | v2.1 | 2026-06-10 | Revised people/faces rules. Mode 1 (recipe heroes): "No people or hands" replaced with "no faces/full figures; hands actively engaging with cookware or food are permitted." Mode 2 (banners): removed "No people or hands" restriction — people including faces are acceptable. Mode 3 (section landing): removed face exclusion rule — full figures including faces are permitted. Added Glossary exception to Mode 3 text suppression: legible text in open books/notebooks is acceptable and encouraged. |
 | v2.0 | 2026-06-09 | Expanded scope from recipe hero images only to full Visual Director covering all three image types. Added MODE 1 (Recipe Hero), MODE 2 (Chapter Banner), and MODE 3 (Section Landing Page) sections, each with distinct composition rules, surface guidance, suppress lists, and brief input formats. Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`. Moved from `Guidance/` to `Gemini-Gems/`. Banners: 1920×480 ultra-wide (4:1), ingredient/process focus, no plated dishes. Section landing: 1920×1080 (16:9), hands/people permitted for action shots (faces excluded), cinematic editorial style. Per-section guidance table added for all four site sections (Academy, Brigade, Larder, Glossary). "No people or hands" constraint now scoped to Mode 1 recipe heroes only. |

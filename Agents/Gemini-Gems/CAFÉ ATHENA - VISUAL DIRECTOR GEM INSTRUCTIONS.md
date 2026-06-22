@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — VISUAL DIRECTOR GEM INSTRUCTIONS
 
-Version 2.2
+Version 2.3
 
 > **Purpose-limited surface** — This file governs all image generation for Café Athena (Gemini Gem 2). It is independent of the culinary agent system prompt. The canonical master for the culinary agent is `.claude/agents/Cafe Athena Chef.agent.md`. See `Agents/AGENT_CHANGELOG.md` for full version history.
 
@@ -8,6 +8,7 @@ Version 2.2
 
 ## VERSION HISTORY
 
+- **v2.3** (2026-06-22): Updated site URL from cookbook.kevinward.com to cafeathenathemanual.com.
 - **v2.2** (2026-06-11): Fixed broken markdown table separator in Mode 3 section-specific guidance table (`---- ----` → `----`). Added reference image fallback paragraph to Mode 1 Reference Style Images section — if Gem attachments are cleared, written style descriptions serve as the fallback standard rather than generic food photography defaults.
 - **v2.1** (2026-06-10): Revised people/faces rules across all three modes. Mode 1 (recipe heroes): no faces/figures, but hands actively engaging with cookware or food are now permitted. Mode 2 (banners) and Mode 3 (section landing): people including faces are permitted. Added Glossary exception to Mode 3 text suppression rule — legible text in open books/notebooks is acceptable and encouraged for the Glossary section.
 - **v2.0** (2026-06-09): Expanded scope to full Visual Director — three image types (Recipe Hero, Chapter Banner, Section Landing). Added Mode 2 (4:1 banners, ingredient/process focus, no people) and Mode 3 (16:9 section landing, hands permitted for action shots, faces excluded). Renamed file from `CAFÉ ATHENA - HERO IMAGE GEM INSTRUCTIONS.md`. Moved to `Gemini-Gems/`.
