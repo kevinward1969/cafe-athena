@@ -9,6 +9,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ---
 
+## Human-in-the-Loop Protocol
+
+**Current mode: Development.** Autonomous action is the goal, not the current state.
+
+Rules while in development mode:
+
+1. **One action at a time.** Define what you are about to do, do it, stop.
+2. **Report and wait.** After each action, summarize the result and wait for explicit approval before the next step.
+3. **No pre-loading.** Do not define, queue, or describe multiple upcoming steps. The next step is defined only after the current one is approved.
+4. **Tests one at a time.** Run one test. Document the result. Wait for "go ahead" before the next test.
+5. **Errors stop the chain.** If anything fails or is uncertain, stop and report — do not work around it or proceed.
+
+This mode is lifted only when Kevin explicitly says so.
+
+---
+
 ## Commands
 
 All `npm` commands run from `site/` — there is no root-level `package.json`.
@@ -53,7 +69,7 @@ Never let active-work detail live in more than one place at a time:
 
 ## What This Project Is
 
-A culinary cookbook project with a published Astro site at `cookbook.kevinward.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.
+A culinary cookbook project with a published Astro site at `cafeathenathemanual.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.
 
 ### Manuscript Architecture — Four-Part Arc
 

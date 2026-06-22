@@ -133,7 +133,7 @@ Run only if `needs_rebuild = true`.
    - Keyword count outside 8–15 range (or 8–20 for collection folios)
    - Unresolved manual audit issues marked as exceptions
    - Glossary terms that updated an existing definition
-3. **Prompt:** *"Deploy these changes to cookbook.kevinward.com? [y/n]"*
+3. **Prompt:** *"Deploy these changes to cafeathenathemanual.com? [y/n]"*
 4. If `n`: stop. All registry flags are already written — re-running `/pipeline [id]` will skip completed stages and resume at this prompt.
 5. If `y`: continue to Phase 8.
 

@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cookbook.kevinward.com',
+  site: 'https://cafeathenathemanual.com',
   markdown: {
     shikiConfig: {
       theme: 'github-dark',

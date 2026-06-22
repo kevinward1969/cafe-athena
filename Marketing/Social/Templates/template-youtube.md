@@ -44,9 +44,9 @@
 
 ---
 
-[RECIPE/FOLIO NAME] at cookbook.kevinward.com/[SLUG]
+[RECIPE/FOLIO NAME] at cafeathenathemanual.com/[SLUG]
 
-Café Athena — cookbook.kevinward.com
+Café Athena — cafeathenathemanual.com
 ```
 
 *Example:*
@@ -56,13 +56,13 @@ The fond is what separates a stock from a good stock — the caramelized protein
 
 Covered in this video: roasting bones and aromatics, building the mirepoix, bouquet garni, skimming during extraction, and the reduction test for a finished stock. Demonstrated with a brown veal stock and one application in a pan sauce.
 
-The Stocks & Fond folio has the full written method, ingredient ratios, and technique notes at cookbook.kevinward.com/10-01.
+The Stocks & Fond folio has the full written method, ingredient ratios, and technique notes at cafeathenathemanual.com/10-01.
 
 ---
 
-Stocks & Fond Folio — cookbook.kevinward.com/10-01
+Stocks & Fond Folio — cafeathenathemanual.com/10-01
 
-Café Athena — cookbook.kevinward.com
+Café Athena — cafeathenathemanual.com
 ```
 
 ---
@@ -80,7 +80,7 @@ Café Athena — cookbook.kevinward.com
 ### End Screen CTA
 
 ```
-The full [FOLIO/RECIPE TITLE] is at cookbook.kevinward.com/[SLUG] — the written method, ingredient ratios, and technique notes are there if you want to cook alongside the video.
+The full [FOLIO/RECIPE TITLE] is at cafeathenathemanual.com/[SLUG] — the written method, ingredient ratios, and technique notes are there if you want to cook alongside the video.
 
 [OPTIONAL: Next video reference, if one exists in sequence.]
 ```
@@ -134,9 +134,9 @@ Why [FOOD THING] [WORKS / DOES X] (And What's Actually Happening)
 
 ---
 
-[RELATED FOLIO/RECIPE NAME] at cookbook.kevinward.com/[SLUG]
+[RELATED FOLIO/RECIPE NAME] at cafeathenathemanual.com/[SLUG]
 
-Café Athena — cookbook.kevinward.com
+Café Athena — cafeathenathemanual.com
 ```
 
 *Example:*
@@ -146,13 +146,13 @@ Pasta water works in a sauce because of what it carries — starch from the past
 
 The starch acts as an emulsifier — it stabilizes the fat-and-water interface in the sauce. The salt is already dissolved, so it integrates without graining. The temperature keeps the emulsion mobile; once it cools below a threshold, it breaks. Demonstrated in a cacio e pepe and a pasta al burro.
 
-The pasta folios at cookbook.kevinward.com have the full written method for both dishes.
+The pasta folios at cafeathenathemanual.com have the full written method for both dishes.
 
 ---
 
-Pasta al Burro — cookbook.kevinward.com/04-01
+Pasta al Burro — cafeathenathemanual.com/04-01
 
-Café Athena — cookbook.kevinward.com
+Café Athena — cafeathenathemanual.com
 ```
 
 ---
@@ -170,7 +170,7 @@ Café Athena — cookbook.kevinward.com
 ### End Screen CTA
 
 ```
-The [FOLIO/RECIPE NAME] is at the link in the description — cookbook.kevinward.com/[SLUG]. [OPTIONAL: If there's a longer technique video this short one connects to, name it: "The [FOLIO] long-form video covers the full method."]
+The [FOLIO/RECIPE NAME] is at the link in the description — cafeathenathemanual.com/[SLUG]. [OPTIONAL: If there's a longer technique video this short one connects to, name it: "The [FOLIO] long-form video covers the full method."]
 ```
 
 *Voice rule: End the video by answering the question completely, then direct to the next logical resource. Do not extend the video beyond what the question requires. Persona 1 and Persona 2 both notice padding.*

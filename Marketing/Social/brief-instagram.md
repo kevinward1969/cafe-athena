@@ -9,7 +9,7 @@
 
 Instagram is the discovery surface. It earns the first look — a scroll-stop that tells the right person "this is for me" before they've read a word. It is not a recipe distribution channel. It's a signal of what Café Athena is: serious, unhurried, built around understanding rather than output. The visual and editorial register here sets expectations for the site before a visitor arrives.
 
-Secondary function: direct qualified traffic to `cookbook.kevinward.com`.
+Secondary function: direct qualified traffic to `cafeathenathemanual.com`.
 
 ---
 
@@ -54,7 +54,7 @@ Stories: post to mark new site content going live. No story-exclusive content in
 Copy only the text inside this box.
 
 ```
-Home cook. Built my own cookbook to organize recipes for my wife, Athena. Professional technique, no culinary degree. cookbook.kevinward.com
+Home cook. Built my own cookbook to organize recipes for my wife, Athena. Professional technique, no culinary degree. cafeathenathemanual.com
 ```
 
 *(143 chars — within 150-char limit. Source: bio-social.md.)*
@@ -73,4 +73,4 @@ Close image of the finished dish in a bowl, natural light, no garnish theatre. C
 
 **Post 3 — Pillar 2: The Cookbook, Opened**
 *Technique Folio 01-01: Knife Skills & Mise en Place.*
-Carousel: Frame 1 is the folio title over a clean image. Frame 2 is a single line from the headnote. Frame 3 names the one principle that carries into every other chapter. CTA: the folio is at cookbook.kevinward.com.
+Carousel: Frame 1 is the folio title over a clean image. Frame 2 is a single line from the headnote. Frame 3 names the one principle that carries into every other chapter. CTA: the folio is at cafeathenathemanual.com.

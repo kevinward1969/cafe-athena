@@ -26,7 +26,7 @@
 - [x] Profile image ready (badge — pending upload)
 - [ ] Profile image uploaded
 - [ ] Cover/banner image uploaded
-- [ ] Link to cookbook.kevinward.com in bio
+- [ ] Link to cafeathenathemanual.com in bio
 - [ ] First post / pinned content published
 
 ## Setup Checklist — YouTube
@@ -35,7 +35,7 @@
 - [ ] Profile bio written (see `Marketing/Social/brief-youtube.md`)
 - [ ] Profile image uploaded
 - [ ] Channel art uploaded
-- [ ] Link to cookbook.kevinward.com in about
+- [ ] Link to cafeathenathemanual.com in about
 - [ ] First video / pinned content published
 
 ## Setup Checklist — Pinterest
@@ -43,5 +43,5 @@
 - [ ] Handle registered
 - [ ] Profile bio written (see `Marketing/Social/brief-pinterest.md`)
 - [ ] Profile image uploaded
-- [ ] Link to cookbook.kevinward.com in bio
+- [ ] Link to cafeathenathemanual.com in bio
 - [ ] First pin published

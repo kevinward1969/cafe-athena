@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-22 | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
 | 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | v1.2 | v1.3 |
 | 2026-06-14 | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.2 | v1.2 | v1.2 | v1.2 |
 | 2026-06-11c | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 |
@@ -228,13 +229,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 1.2
+**Current Version:** 1.3
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.4. |
 | v1.2 | 2026-06-14 | Added PM Skills section to SKILLS — 8 skills from the pm-skills plugin (pm-go-to-market, pm-marketing-growth, pm-market-research, pm-execution) with per-mode trigger conditions. Skills are Claude Code–only; note added to inform agent of the constraint. CLAUDE.md auto-trigger table also updated with matching PM Skills subsection. Secondary surface updated to v1.2 with a PM Skills reference table and Claude-Desktop-only caveat. |
 | v1.1 | 2026-06-10 | Three structural improvements from agent audit: (1) Added Mode disambiguation tie-breaker — "write/draft/create" + topic → Mode 3; planning verbs → Mode 2; resolves Mode 2/3 overlap on "post," "copy," "bio." (2) Added OUT-OF-SCOPE REDIRECT section — Chef for culinary, Technical Director for site/pipeline, Visual Director Gem for images. (3) Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; updates status docs, commits, outputs 3-bullet summary. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.1. |
 | v1.0 | 2026-06-10 | Initial release. Three-mode system (Brand Development, Marketing Execution, Content Creation). Owns Brand/ and Marketing/ folder documents. Session startup reads BRAND_STATUS.md, MARKETING_STATUS.md, and both Resources/INDEX.md files. Build sequence for BRAND_GUIDELINES.md defined. Resource library with trigger conditions. Skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose. |
@@ -244,10 +246,11 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.3
+**Current Version:** 1.4
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
 | v1.3 | 2026-06-14 | Added BRAND & COPY SKILLS table (8 skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose) — was absent from secondary surface. Added items 3–4 to SESSION START (Brand/Resources/INDEX.md, Marketing/Resources/INDEX.md) — closes gap from agent audit. |
 | v1.2 | 2026-06-14 | Added PM Skills Reference section with 8 pm-skills entries. Ported from canonical master v1.2. |
 | v1.1 | 2026-06-10 | Ported from canonical master v1.1: mode disambiguation tie-breaker, OUT-OF-SCOPE REDIRECT, and SESSION HANDOFF PROTOCOL. |
@@ -258,13 +261,14 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Technical Director
 
 **File:** `.claude/agents/Cafe Athena Technical Director.agent.md`
-**Current Version:** 1.2
+**Current Version:** 1.3
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.4. |
 | v1.2 | 2026-06-11 | Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; reads and updates PROJECT_STATUS.md, commits, outputs 3-bullet summary. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.2 (also added condensed SKILLS table, SYSTEM ASSETS table). |
 | v1.1 | 2026-06-10 | Renamed from "Café Athena Site Developer" to "Café Athena Technical Director." File renamed to `.claude/agents/Cafe Athena Technical Director.agent.md`; secondary surface renamed to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. No behavior changes. |
 | v1.0 | 2026-06-10 | Initial release. Three-mode system (Site Development, Pipeline & Deploy, Agent & Tooling Development). Owns site/, scripts/, site/scripts/, site/public/images/, .claude/agents/, .claude/commands/, .claude/skills/, and Agents/. Session startup reads PROJECT_STATUS.md, BRAND_STATUS.md, MARKETING_STATUS.md, .claude/SKILLS_INDEX.md. Deploy, heroImage, and agent version bump constraints documented as critical constraints. Skills: astro, cafe-athena-site-dev, seo-aeo-schema-generator, fixing-metadata, seo-images, and multiple everything-claude-code: agent tools. |
@@ -274,10 +278,11 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Technical Director
 
 **File:** `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-**Current Version:** 1.3
+**Current Version:** 1.4
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
 | v1.3 | 2026-06-14 | Added AGENT PROPAGATION RULE section — closes gap from agent audit. Ensures Claude Desktop Technical Director knows propagation steps (port changes, remind Kevin to paste, version bump, changelog update) when agent files are modified in Mode 3. |
 | v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Added condensed SKILLS table (5 project skills) and SYSTEM ASSETS table (7 key files). |
 | v1.1 | 2026-06-10 | File renamed from `SITE_DEVELOPER_INSTRUCTIONS.md` to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. Agent renamed to "Technical Director." No behavior changes. |

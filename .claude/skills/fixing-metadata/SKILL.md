@@ -117,9 +117,9 @@ Reference these guidelines when:
 
 - **Framework:** Plain Astro (static). Metadata is set manually in `.astro` files via `<head>` tags — no Next.js metadata API, no react-helmet.
 - **Primary layout file:** `site/src/pages/[...slug].astro` — this is where per-recipe `<title>`, `<meta description>`, OG tags, and JSON-LD schema live.
-- **Site URL:** `https://cookbook.kevinward.com`
+- **Site URL:** `https://cafeathenathemanual.com`
 - **Title format:** `{Recipe Title} — Café Athena` (consistent across all recipe pages)
-- **OG image:** hero image at `https://cookbook.kevinward.com/images/{XX-YY}.webp` (1920×1080 WebP)
+- **OG image:** hero image at `https://cafeathenathemanual.com/images/{XX-YY}.webp` (1920×1080 WebP)
 - **`og:type`** for recipe pages should be `article`, not `website`
 - **No Twitter/X card needed** — not a social-sharing priority for this project
 - **No paginated pages** — each recipe is a single page, no pagination to worry about

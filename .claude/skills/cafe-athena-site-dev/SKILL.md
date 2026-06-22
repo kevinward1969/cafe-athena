@@ -1,6 +1,6 @@
 ---
 name: cafe-athena-site-dev
-description: "Implement site changes for the Café Athena cookbook site (cookbook.kevinward.com). Use when: site update, site change, modify page, add feature, fix bug, update layout, change styles, astro component, site redesign, deploy, push live, localhost test, site development, web development, site planning."
+description: "Implement site changes for the Café Athena cookbook site (cafeathenathemanual.com). Use when: site update, site change, modify page, add feature, fix bug, update layout, change styles, astro component, site redesign, deploy, push live, localhost test, site development, web development, site planning."
 argument-hint: "Describe the change, feature, or fix needed for the site"
 ---
 
@@ -135,7 +135,7 @@ This script:
 
 - SSH alias: `fastcomet-passiton` (configured in `~/.ssh/config`)
 - Remote path: `~/public_html/cookbook`
-- Live URL: `https://cookbook.kevinward.com`
+- Live URL: `https://cafeathenathemanual.com`
 
 ## GitHub
 

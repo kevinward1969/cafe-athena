@@ -62,7 +62,7 @@ Café Athena started as a practical problem: years of recipes scattered across h
 
 No culinary school. What I know came from family, friends, a lot of reading (Escoffier, Keller, Pépin), and years of watching people who actually know what they're doing. The project is named for my wife, Athena — I'd been posting our dinners under "Tonight at Café Athena" for years before I made it official.
 
-The book lives at cookbook.kevinward.com. I cook the same way I write: with the goal of understanding why something works, not just getting it on the table.
+The book lives at cafeathenathemanual.com. I cook the same way I write: with the goal of understanding why something works, not just getting it on the table.
 ```
 
 *(Source: bio-social.md — full YouTube version. Fits within 1000-char limit.)*
@@ -75,16 +75,16 @@ The book lives at cookbook.kevinward.com. I cook the same way I write: with the 
 *Title:* Why This Cookbook Is Organized Like a Kitchen — The Academy
 *Concept:* Introduce the four-part arc. Explain why technique comes before recipes — what that structure makes possible for a cook versus what a recipe-first organization does. Walk through what The Academy covers: knife skills, mise en place, the logic of the lab. Show the site briefly, but the video is about the idea, not a site demo.
 *Length:* 12–15 min
-*CTA:* cookbook.kevinward.com — technique folios start at Chapter 1.
+*CTA:* cafeathenathemanual.com — technique folios start at Chapter 1.
 
 **Video 2 — Pillar 1: Technique Foundation**
 *Title:* The Fond — What It Is, How It Forms, and Why It Changes a Sauce
 *Concept:* The Maillard reaction at the pan level. What a fond is, what it's made of, how to read it, how to use it. Demonstrated with two dishes from The Larder. No script-reading — cook the dish, explain the principle as the work happens. The video ends with a reduction that uses the fond as the base.
 *Length:* 18–22 min
-*CTA:* Stocks & Fond folio at cookbook.kevinward.com.
+*CTA:* Stocks & Fond folio at cafeathenathemanual.com.
 
 **Video 3 — Pillar 2: Why It Works**
 *Title:* Why Pasta Water Works in a Sauce (And What's Actually Happening)
 *Concept:* Starchy, saline pasta water as an emulsification agent. What the starch does, what the salt does, why the temperature matters, why it falls apart if the pasta sits too long off the heat. Demonstrated in a cacio e pepe or pasta al burro context. Short, clean, answers the question completely.
 *Length:* 7–9 min
-*CTA:* Related pasta folios at cookbook.kevinward.com.
+*CTA:* Related pasta folios at cafeathenathemanual.com.

@@ -6,14 +6,14 @@
 #
 # Prerequisites:
 #   - SSH access to FastComet configured
-#   - Subdomain created in cPanel (cookbook.kevinward.com)
+#   - Domain configured in cPanel (cafeathenathemanual.com)
 # ============================================================
 
 set -euo pipefail
 
 # ── Configuration ─────────────────────────────────────────────
-REMOTE_HOST="fastcomet-passiton"
-REMOTE_PATH="~/public_html/cookbook"
+REMOTE_HOST="fastcomet-cafe-athena"
+REMOTE_PATH="~/public_html/cafeathenathemanual"
 # ──────────────────────────────────────────────────────────────
 
 echo "════════════════════════════════════════"
@@ -49,5 +49,5 @@ rsync -avz --delete \
 echo ""
 echo "════════════════════════════════════════"
 echo "✅ Deployed successfully!"
-echo "   Visit: https://cookbook.kevinward.com"
+echo "   Visit: https://cafeathenathemanual.com"
 echo "════════════════════════════════════════"

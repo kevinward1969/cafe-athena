@@ -120,7 +120,7 @@ Write one `<script type="application/ld+json">` block per schema type. Include i
   "@type": "Recipe",
   "name": "{{recipe title}}",
   "description": "{{headnote / first paragraph}}",
-  "image": "https://cookbook.kevinward.com/images/{{XX-YY}}.webp",
+  "image": "https://cafeathenathemanual.com/images/{{XX-YY}}.webp",
   "author": {
     "@type": "Organization",
     "name": "Café Athena"

@@ -1,4 +1,4 @@
-const SITE_URL = 'https://cookbook.kevinward.com';
+const SITE_URL = 'https://cafeathenathemanual.com';
 
 function stripMarkdown(text: string): string {
   return text

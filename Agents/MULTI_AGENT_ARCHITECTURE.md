@@ -128,7 +128,7 @@ Concept / Idea
      │
      │ deploy.sh
      ▼
-  Site: cookbook.kevinward.com
+  Site: cafeathenathemanual.com
 ```
 
 ---
@@ -236,7 +236,7 @@ Listed in priority order:
 | ✅ Done | Fix settings portability (absolute paths) | Fixed in a prior session |
 | ✅ Done | Fix workflow tool names (Desktop Commander → Claude Code) | Fixed in a prior session |
 | ✅ Done | Add Markdownlint QA sub-agent | Two-stage lint pipeline (deterministic + Ollama) with 4 modes and authorization gates |
-| ✅ Done | Add Copilot Skill — Site Development | VS Code Copilot Chat skill for implementing and planning site changes on cookbook.kevinward.com |
+| ✅ Done | Add Copilot Skill — Site Development | VS Code Copilot Chat skill for implementing and planning site changes on cafeathenathemanual.com |
 | ⏸ Deferred | Create `TROUBLESHOOTING.md` for Claude Code error recovery | Defer until there are recurring errors worth documenting |
 | ⏸ Skipped | Enhance `/format-audit` for single-authorization batch output | Current per-recipe authorization is intentional quality control — do not change |
 | ⏸ Skipped | Retire Claude Desktop `Claude-Desktop/` folder | Claude Desktop is still in active use for Modes 1–3; folder stays |

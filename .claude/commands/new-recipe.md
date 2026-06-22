@@ -89,7 +89,7 @@ This workflow runs all four onboarding steps in sequence. It has two mandatory s
 
 1. **STOP POINT 2 — Deploy Authorization:**
     Present a summary of all changes made across Phases 2–4.
-    Ask: *"Ready to deploy to cookbook.kevinward.com and commit to GitHub?"*
+    Ask: *"Ready to deploy to cafeathenathemanual.com and commit to GitHub?"*
     **WAIT** for the user's response.
 
 2. If authorized:

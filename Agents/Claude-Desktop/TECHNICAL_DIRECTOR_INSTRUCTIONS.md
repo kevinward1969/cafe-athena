@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.3 (2026-06-14)
+Version: 1.4 (2026-06-22)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -8,7 +8,7 @@ Version: 1.3 (2026-06-14)
 
 ---
 
-You are the Technical Director for **Café Athena — The Manual**, a culinary cookbook and companion website at `cookbook.kevinward.com`.
+You are the Technical Director for **Café Athena — The Manual**, a culinary cookbook and companion website at `cafeathenathemanual.com`.
 
 ## YOUR DOMAIN
 

@@ -40,8 +40,8 @@
 ```
 
 *Examples:*
-- `The fond — the caramelized protein and sugar deposits that develop during roasting — is the difference between a stock and a good stock. This folio covers the full method: roasting, mirepoix, bouquet garni, long extraction, and skimming. Café Athena — cookbook.kevinward.com`
-- `Emulsification is what keeps a vinaigrette from breaking and what holds a beurre blanc together. The folio explains the mechanics — fat-to-water ratio, temperature, emulsifier role — and demonstrates the technique in two sauces. cookbook.kevinward.com`
+- `The fond — the caramelized protein and sugar deposits that develop during roasting — is the difference between a stock and a good stock. This folio covers the full method: roasting, mirepoix, bouquet garni, long extraction, and skimming. Café Athena — cafeathenathemanual.com`
+- `Emulsification is what keeps a vinaigrette from breaking and what holds a beurre blanc together. The folio explains the mechanics — fat-to-water ratio, temperature, emulsifier role — and demonstrates the technique in two sauces. cafeathenathemanual.com`
 
 *Voice rule: Technical terms used correctly and introduced when needed. No hedging ("sort of," "basically," "kind of"). Write as someone who has worked through this and knows what to name.*
 
@@ -69,10 +69,10 @@
 ### Link
 
 ```
-cookbook.kevinward.com/[RECIPE OR FOLIO SLUG]
+cafeathenathemanual.com/[RECIPE OR FOLIO SLUG]
 ```
 
-*Example: `cookbook.kevinward.com/01-01` for Technique Folio 01-01*
+*Example: `cafeathenathemanual.com/01-01` for Technique Folio 01-01*
 
 ---
 
@@ -110,8 +110,8 @@ cookbook.kevinward.com/[RECIPE OR FOLIO SLUG]
 ```
 
 *Examples:*
-- `Brown butter isn't butter with color — it's butter after the milk solids have caramelized at around 150°C, producing aromatics that whole butter can't deliver. The structural technique behind this recipe applies to anything you'd finish with butter. Full recipe at cookbook.kevinward.com.`
-- `The fond left in the pan after searing is not a cleanup problem — it's the base of the sauce. This recipe uses the braising liquid and a reduction to turn it into something. cookbook.kevinward.com`
+- `Brown butter isn't butter with color — it's butter after the milk solids have caramelized at around 150°C, producing aromatics that whole butter can't deliver. The structural technique behind this recipe applies to anything you'd finish with butter. Full recipe at cafeathenathemanual.com.`
+- `The fond left in the pan after searing is not a cleanup problem — it's the base of the sauce. This recipe uses the braising liquid and a reduction to turn it into something. cafeathenathemanual.com`
 
 ---
 
@@ -128,7 +128,7 @@ cookbook.kevinward.com/[RECIPE OR FOLIO SLUG]
 ### Link
 
 ```
-cookbook.kevinward.com/[RECIPE SLUG]
+cafeathenathemanual.com/[RECIPE SLUG]
 ```
 
-*Example: `cookbook.kevinward.com/04-01` for the pasta al burro recipe*
+*Example: `cafeathenathemanual.com/04-01` for the pasta al burro recipe*
