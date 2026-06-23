@@ -1,6 +1,6 @@
 # Brand Status
 
-**Last Updated:** 2026-06-16
+**Last Updated:** 2026-06-23
 **Branch:** main
 
 ---
@@ -20,6 +20,12 @@ _No active work. All phases complete._
 | 5 — Visual Identity | Complete |
 | 6 — Guidelines Complete | Complete |
 | 7 — Marketing Activation | Complete |
+
+## Phase 2 — Additional Completed Items (2026-06-23)
+
+- Author photo brief written — `Author/photo-brief.md`
+- Personal anchor photo (Kevin + Athena, Monterey) documented — available for About page origin story context
+- Solo author headshot specs defined — still needed for press/manuscript bio use
 
 ## Phase 6 — Completed Items
 

@@ -27,7 +27,7 @@ Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion
 - [x] Write `Author/bio-long.md`
 - [x] Write `Author/bio-short.md`
 - [x] Write `Author/bio-social.md` — all four platforms
-- [ ] Author photo brief — deferred (needs photo shoot or Visual Director brief)
+- [x] Author photo brief — `Author/photo-brief.md`. Personal anchor photo (Kevin + Athena, Monterey) available. Solo author headshot still needed.
 
 ---
 
