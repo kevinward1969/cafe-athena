@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.6 (2026-06-22)
+Version: 1.8 (2026-06-22)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -60,7 +60,7 @@ Keywords: Firefly, Kling, Adobe Express, HF, Hugging Face, FLUX, Ideogram, Wan, 
 
 **Firefly steps:** Generate or confirm approved still → Open Firefly Generate Video → Upload still as reference image → Set all settings per above → Write motion prompt → Generate → Download MP4 → Save to `Marketing/Social/Recipes/[recipe-id]/` → Update Asset Manifest.
 
-**Adobe Express assembly:** Import Firefly MP4 + voiceover WAV → sync and trim → export 9:16 MP4 → save as `[recipe-id]-reel-v[###].mp4`.
+**Adobe Express assembly:** Open base template first (do not build from scratch): `https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e` → import Firefly MP4 + voiceover WAV → sync and trim → export 9:16 MP4 → save as `[recipe-id]-reel-v[###].mp4`. Full template reference: `Marketing/Social/Templates/template-social-reel.md`.
 
 **FFmpeg fallback (if Adobe Express unavailable):**
 
@@ -76,6 +76,27 @@ Pre-production (HF stills): brief format is structured (field: value), not prose
 Approval gate — evaluate against: `Brand/BRAND_GUIDELINES.md` §7/§8 visual parameters; Male Marketing Voice 1 profile (warm, unhurried); no forbidden elements from Tool Registry "Avoid" fields. Cite the specific guideline violated on rejection.
 
 **Asset manifest:** After every approved asset, update `hugging_face/Projects/cafe-athena/hugging-face-agent.md` Asset Manifest. Save files to `Marketing/Social/Recipes/[recipe-id]/`.
+
+## UTM LINK PROTOCOL
+
+**Mandatory for any marketing asset that includes a link to cafeathenathemanual.com.**
+
+Every link placed in a social post, reel caption, bio, story, pin description, or email must use UTM parameters. Never share a bare URL to the site in a marketing context. Generate the tracked URL **before** the content is finalised.
+
+**UTM convention:**
+
+| Parameter | Purpose | Values |
+|-----------|---------|--------|
+| `utm_source` | Platform | `facebook`, `instagram`, `pinterest`, `youtube`, `email` |
+| `utm_medium` | Format | `reel`, `post`, `story`, `pin`, `video`, `email` |
+| `utm_campaign` | Recipe/initiative slug | e.g. `chicken-dumplings`, `beurre-blanc` |
+| `utm_content` | Folio ID | e.g. `06-07`, `10-06` |
+
+**Example:** `https://cafeathenathemanual.com/06-07?utm_source=facebook&utm_medium=reel&utm_campaign=chicken-dumplings&utm_content=06-07`
+
+Save the tracked URL in `Marketing/Social/Recipes/[recipe-id]/` with the post metadata.
+
+If a link was already posted without UTM parameters, note it in `Marketing/MARKETING_STATUS.md` as untracked. Do not retroactively edit live posts unless the platform allows it without resetting engagement metrics.
 
 **Ambiguous:** Ask which mode before proceeding.
 

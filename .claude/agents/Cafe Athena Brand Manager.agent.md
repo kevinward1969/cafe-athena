@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Brand Manager
-version: "1.5"
+version: "1.7"
 description: Brand and marketing manager for Café Athena. Invoke for brand guidelines, audience personas, voice/tone, social strategy, site copy, and marketing execution across Brand/ and Marketing/.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -133,9 +133,13 @@ Example prompt (06-07 Chicken and Dumplings):
 
 Use for: combining Firefly-generated video clip with ZONOS2/Qwen3-TTS voiceover into the final social reel.
 
+**Base template (always start here — do not build from scratch):**
+`https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e`
+Derived from 06-07 Chicken and Dumplings (2026-06-22). Full template reference: `Marketing/Social/Templates/template-social-reel.md`.
+
 **Steps:**
 1. Confirm both assets are approved: video MP4 (Firefly) + voiceover WAV (ZONOS2).
-2. Open Adobe Express → Create new video project.
+2. Open Adobe Express → open the base template (URL above).
 3. Import the MP4 and WAV.
 4. Sync audio to video. Trim or adjust timing as needed.
 5. Export as MP4, 9:16, appropriate quality for social upload.
@@ -171,6 +175,43 @@ ffmpeg -i input.wav -filter:a loudnorm output.wav
 **Asset manifest:** After any approved asset, update the Asset Manifest table in `hugging_face/Projects/cafe-athena/hugging-face-agent.md`. Record: asset description, type, tool, status (Approved), and file path.
 
 **Completion criteria:** Every Mode 4 session ends with approved assets logged in the Asset Manifest, files saved to `Marketing/Social/Recipes/[recipe-id]/`, and `Marketing/MARKETING_STATUS.md` updated.
+
+---
+
+---
+
+## UTM LINK PROTOCOL
+
+**Mandatory for any marketing asset that includes a link to cafeathenathemanual.com.**
+
+Every link placed in a social post, reel caption, bio, story, pin description, or email must use UTM parameters. Never share a bare URL to the site in a marketing context.
+
+### UTM Convention
+
+| Parameter | Purpose | Values |
+|-----------|---------|--------|
+| `utm_source` | Platform | `facebook`, `instagram`, `pinterest`, `youtube`, `email` |
+| `utm_medium` | Content format | `reel`, `post`, `story`, `pin`, `video`, `email` |
+| `utm_campaign` | Recipe or initiative slug | e.g. `chicken-dumplings`, `beurre-blanc`, `launch` |
+| `utm_content` | Folio ID | e.g. `06-07`, `10-06` |
+
+### Example
+
+```
+https://cafeathenathemanual.com/06-07?utm_source=facebook&utm_medium=reel&utm_campaign=chicken-dumplings&utm_content=06-07
+```
+
+### When to generate the URL
+
+Generate the tracked URL **before** the content is finalised — not after. It goes into the post copy at the same time as the caption is written.
+
+### Where to save it
+
+Record the tracked URL in the post's asset folder (`Marketing/Social/Recipes/[recipe-id]/`) alongside the other post metadata (caption draft, approved assets, post date).
+
+### If a link is already posted without UTM parameters
+
+Note it in `Marketing/MARKETING_STATUS.md` as untracked. Traffic to the destination page is still visible in GA4 under Pages and Screens — it just won't show source attribution. Do not retroactively edit live posts unless the platform allows it without resetting engagement metrics.
 
 ---
 

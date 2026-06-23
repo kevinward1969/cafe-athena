@@ -43,14 +43,14 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 
 | Item | Notes |
 | :--- | :--- |
-| Google Analytics integration | Add GA4 to the Astro site so the project can eventually use Google Ads. Technical Director task — add tracking script to site layout. |
+| Google Analytics integration | ✅ Complete (2026-06-22). GA4 property created, tag added to BaseLayout.astro, deployed. Measurement ID: G-F8Y9NNYBNM. |
 | Social media video/reel skill | Write a `/social-video` skill (or equivalent) documenting the full workflow: Zonos2 TTS → Adobe Firefly Kling 3.0 Omni (video) → Adobe Express (assembly). Based on 06-07 production run pattern. Brand Manager owns; Technical Director builds the skill file. |
 
 ---
 
 ## 📐 Strategic Context & Learnings
 
-- **Canonical social video workflow (2026-06-22):** Voiceover: ZONOS2 → Video: Adobe Firefly Kling 3.0 Omni (720p, 9:16, 15s, seed 1847, reference image, 300 credits) → Assembly: Adobe Express. WanWeb/FFmpeg/HF video tools are backup only. Brand Manager owns production. Confirmed working on 06-07 Chicken and Dumplings Facebook reel.
+- **Canonical social video workflow (2026-06-22):** Voiceover: ZONOS2 → Video: Adobe Firefly Kling 3.0 Omni (720p, 9:16, 15s, seed 1847, reference image, 300 credits) → Assembly: Adobe Express base template (`https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e`). Template reference: `Marketing/Social/Templates/template-social-reel.md`. WanWeb/FFmpeg/HF video tools are backup only. Brand Manager owns production. Confirmed working on 06-07 Chicken and Dumplings Facebook reel.
 - **Plugin scope:** Plugins installed via `claude plugin install` at user scope are stored in `~/.claude/plugins/` and are shared across Claude Code CLI, Claude Desktop, and claude.ai. No separate Desktop install needed.
 - **antigravity-awesome-skills:** Registered as a marketplace but individual plugins lack `plugin.json` manifests — cannot install via `claude plugin install`. Skills must be copied manually to `~/.claude/skills/`. Done for `context-window-management` and `claude-code-guide`.
 - **Context degradation:** This session showed clear signs of context-length-related errors (repeated wrong claims, incomplete fixes). Handoff triggered early. Next session should start with `/everything-claude-code:context-budget` audit before any substantive work.

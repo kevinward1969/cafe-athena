@@ -318,6 +318,7 @@ The `.png` originals in The Manual may be kept until optimized, then deleted onc
 
 Session-relevant learnings that shape how work should be done in this project.
 
+- **Google Analytics (2026-06-22)**: GA4 property live on cafeathenathemanual.com. Measurement ID: `G-F8Y9NNYBNM`. Tag is in `BaseLayout.astro` `<head>`. Measurement ID is public (visible in page source) — safe to document here.
 - **Filesystem Authority**: Always scan live directories for folio numbers — never infer from stale docs.
 - **Scaling Nuance**: Ingredients scale linearly; reduction times do NOT (surface area constraints).
 - **Formula Trust**: Use established adaptive hydration rates for pasta.

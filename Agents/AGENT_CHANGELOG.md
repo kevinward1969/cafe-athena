@@ -10,6 +10,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-22f | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.7 | v1.8 | v1.3 | v1.4 |
+| 2026-06-22e | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.6 | v1.7 | v1.3 | v1.4 |
 | 2026-06-22d | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.5 | v1.6 | v1.3 | v1.4 |
 | 2026-06-22c | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.4 | v1.5 | v1.3 | v1.4 |
 | 2026-06-22b | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
