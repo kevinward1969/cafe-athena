@@ -10,6 +10,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-22d | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.5 | v1.6 | v1.3 | v1.4 |
+| 2026-06-22c | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.4 | v1.5 | v1.3 | v1.4 |
 | 2026-06-22b | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
 | 2026-06-22 | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 |
 | 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | v1.2 | v1.3 |
@@ -231,13 +233,15 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 1.3
+**Current Version:** 1.5
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.5 | 2026-06-22 | Mode 4 renamed from "HF Asset Production" to "Asset Production." Added Adobe Firefly (Kling 3.0 Omni) as primary video tool: locked settings (720p, 9:16, 24fps, 15s, seed 1847, reference image, 300 credits), prompt pattern with 06-07 example, step-by-step workflow. Added Adobe Express as primary assembly tool (replaces WanWeb/FFmpeg). Tool routing table added. FFmpeg retained as backup only. Mode disambiguation and greeting updated to include Firefly/Adobe Express triggers. OUT-OF-SCOPE redirect clarified: cookbook hero images (Lane 1) → Visual Director Gem 2; promotional stills, social video, animated clips → Brand Manager Mode 4. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.6. |
+| v1.4 | 2026-06-22 | Added Mode 4 (HF Asset Production): pre-production brief writing, output approval against brand parameters, FFmpeg post-processing commands (audio trim/compress/normalize, video merge/trim/compress, frame extraction). Brand Manager's role as HF production partner and approval gate is now explicit in the agent. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.5. |
 | v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.4. |
 | v1.2 | 2026-06-14 | Added PM Skills section to SKILLS — 8 skills from the pm-skills plugin (pm-go-to-market, pm-marketing-growth, pm-market-research, pm-execution) with per-mode trigger conditions. Skills are Claude Code–only; note added to inform agent of the constraint. CLAUDE.md auto-trigger table also updated with matching PM Skills subsection. Secondary surface updated to v1.2 with a PM Skills reference table and Claude-Desktop-only caveat. |
 | v1.1 | 2026-06-10 | Three structural improvements from agent audit: (1) Added Mode disambiguation tie-breaker — "write/draft/create" + topic → Mode 3; planning verbs → Mode 2; resolves Mode 2/3 overlap on "post," "copy," "bio." (2) Added OUT-OF-SCOPE REDIRECT section — Chef for culinary, Technical Director for site/pipeline, Visual Director Gem for images. (3) Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; updates status docs, commits, outputs 3-bullet summary. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.1. |
@@ -248,10 +252,12 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.4
+**Current Version:** 1.6
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.6 | 2026-06-22 | Mode 4 renamed to "Asset Production." Added Firefly (Kling 3.0 Omni) as primary video tool with settings table and prompt pattern. Added Adobe Express as primary assembly tool with workflow steps. Tool routing table added. FFmpeg retained as backup. Disambiguation and Out-of-Scope redirect updated. Ported from canonical master v1.5. |
+| v1.5 | 2026-06-22 | Added Mode 4 (HF Asset Production) to MODE DETECTION section: structured brief writing, approval gate criteria, FFmpeg command reference, disambiguation tie-breaker update, ambiguous greeting update. Ported from canonical master v1.4. |
 | v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
 | v1.3 | 2026-06-14 | Added BRAND & COPY SKILLS table (8 skills: brand-voice, audience-persona-builder, copywriting, landing-page-copywriter, social-content, marketing-psychology, avoid-ai-writing, beautiful-prose) — was absent from secondary surface. Added items 3–4 to SESSION START (Brand/Resources/INDEX.md, Marketing/Resources/INDEX.md) — closes gap from agent audit. |
 | v1.2 | 2026-06-14 | Added PM Skills Reference section with 8 pm-skills entries. Ported from canonical master v1.2. |
