@@ -46,3 +46,11 @@ RecipeIdeas/
 
 # Completed side projects and archived working files
 archived/
+
+# Marketing media assets — large binaries, tracked outside git
+Marketing/**/*.mp4
+Marketing/**/*.mov
+Marketing/**/*.wav
+Marketing/**/*.mp3
+Marketing/**/*.aiff
+Marketing/**/*.logicx
