@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|
+| 2026-06-24 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.8 | v1.9 | v1.4 | v1.5 |
 | 2026-06-22f | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.7 | v1.8 | v1.3 | v1.4 |
 | 2026-06-22e | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.6 | v1.7 | v1.3 | v1.4 |
 | 2026-06-22d | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.5 | v1.6 | v1.3 | v1.4 |
@@ -123,6 +124,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.19 | 2026-06-24 | Phase 4 RAG audit. Added `Guidance/Taxonomy.md` to SYSTEM ASSETS as item 2 with explicit READ instruction. Updated Mode 2 Output Protocol step 1 to include Taxonomy.md alongside Recipe-Format-Standard.md. No behavior changes — Taxonomy.md was already referenced inline in step 9; this makes the read instruction explicit. |
 | v1.18 | 2026-06-10 | Added collection folio keyword range to Mode 2 Output Protocol step 8 and RECIPE STRUCTURE item 9: standard range remains 8–15, collection folios may use up to 20. Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.17. |
 | v1.17 | 2026-06-10 | Housekeeping fixes from agent audit: (1) corrected BUILT-IN WORKFLOWS path from `.agents/workflows/` to `.claude/commands/` (two occurrences — live failure mode); (2) updated secondary surface version reference in file header from v1.9 to v1.16 (stale). Also fixed stale "site developer" language in CLAUDE.md Key Files and Propagation Rule tables; removed 5 Technical Director skills mis-attributed to the Chef section in SKILLS_INDEX. No behavior changes. |
 | v1.16 | 2026-06-10 | Updated OUT-OF-SCOPE REDIRECT to reference "Technical Director" following agent rename from "Site Developer." Ported to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` v1.16. |
@@ -242,6 +244,7 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.8 | 2026-06-24 | Phase 4 RAG audit. Removed "Brand context you must always carry" block from ROLE & PERSONA — 4 baked-in bullets about origin story, website purpose, personality, and Kevin's role now replaced with an explicit instruction to read `Brand/BRAND_GUIDELINES.md`. Removed "*(once it exists)*" caveat from SESSION START PROTOCOL item 5 — BRAND_GUIDELINES.md exists and must be read unconditionally. Updated OWNED DOCUMENTS row for BRAND_GUIDELINES.md: "Create it" removed; now says "Maintain as master brand reference — read at every session." Updated BRAND GUIDELINES DEVELOPMENT PROTOCOL framing from "when file does not exist" to "when expanding or revising." Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.9. |
 | v1.5 | 2026-06-22 | Mode 4 renamed from "HF Asset Production" to "Asset Production." Added Adobe Firefly (Kling 3.0 Omni) as primary video tool: locked settings (720p, 9:16, 24fps, 15s, seed 1847, reference image, 300 credits), prompt pattern with 06-07 example, step-by-step workflow. Added Adobe Express as primary assembly tool (replaces WanWeb/FFmpeg). Tool routing table added. FFmpeg retained as backup only. Mode disambiguation and greeting updated to include Firefly/Adobe Express triggers. OUT-OF-SCOPE redirect clarified: cookbook hero images (Lane 1) → Visual Director Gem 2; promotional stills, social video, animated clips → Brand Manager Mode 4. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.6. |
 | v1.4 | 2026-06-22 | Added Mode 4 (HF Asset Production): pre-production brief writing, output approval against brand parameters, FFmpeg post-processing commands (audio trim/compress/normalize, video merge/trim/compress, frame extraction). Brand Manager's role as HF production partner and approval gate is now explicit in the agent. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.5. |
 | v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.4. |
@@ -258,6 +261,7 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.9 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.8. BRAND CONTEXT section renamed to BRAND REFERENCE — baked-in bullets removed, replaced with explicit instruction to read `Brand/BRAND_GUIDELINES.md`. SESSION START item 5: removed "*(once it exists)*" caveat. KEY FILES table: BRAND_GUIDELINES.md row updated to "Maintain as master brand reference — read at every session." BRAND GUIDELINES BUILD SEQUENCE: framing updated to "when expanding or revising." |
 | v1.6 | 2026-06-22 | Mode 4 renamed to "Asset Production." Added Firefly (Kling 3.0 Omni) as primary video tool with settings table and prompt pattern. Added Adobe Express as primary assembly tool with workflow steps. Tool routing table added. FFmpeg retained as backup. Disambiguation and Out-of-Scope redirect updated. Ported from canonical master v1.5. |
 | v1.5 | 2026-06-22 | Added Mode 4 (HF Asset Production) to MODE DETECTION section: structured brief writing, approval gate criteria, FFmpeg command reference, disambiguation tie-breaker update, ambiguous greeting update. Ported from canonical master v1.4. |
 | v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
@@ -278,6 +282,7 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.4 | 2026-06-24 | Phase 4 RAG audit. SESSION START PROTOCOL item 4: replaced stale `.claude/SKILLS_INDEX.md` (retired in Phase 2) with `Docs/TECHNICAL_REFERENCE.md` with explicit read instruction. SYSTEM ASSETS table: replaced `.claude/SKILLS_INDEX.md` row with `Docs/TECHNICAL_REFERENCE.md`; updated CLAUDE.md row description to reflect it is now the behavioral contract, not the architecture reference. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.5. |
 | v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.4. |
 | v1.2 | 2026-06-11 | Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; reads and updates PROJECT_STATUS.md, commits, outputs 3-bullet summary. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.2 (also added condensed SKILLS table, SYSTEM ASSETS table). |
 | v1.1 | 2026-06-10 | Renamed from "Café Athena Site Developer" to "Café Athena Technical Director." File renamed to `.claude/agents/Cafe Athena Technical Director.agent.md`; secondary surface renamed to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. No behavior changes. |
@@ -292,6 +297,7 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.5 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.4. SESSION START item 4: replaced `.claude/SKILLS_INDEX.md` with `Docs/TECHNICAL_REFERENCE.md`. SYSTEM ASSETS table: added `Docs/TECHNICAL_REFERENCE.md` row; updated CLAUDE.md row description. |
 | v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
 | v1.3 | 2026-06-14 | Added AGENT PROPAGATION RULE section — closes gap from agent audit. Ensures Claude Desktop Technical Director knows propagation steps (port changes, remind Kevin to paste, version bump, changelog update) when agent files are modified in Mode 3. |
 | v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Added condensed SKILLS table (5 project skills) and SYSTEM ASSETS table (7 key files). |

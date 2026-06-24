@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.4 (2026-06-22)
+Version: 1.5 (2026-06-24)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -31,7 +31,7 @@ Read these at session start before responding:
 1. `PROJECT_STATUS.md`
 2. `Brand/BRAND_STATUS.md`
 3. `Marketing/MARKETING_STATUS.md`
-4. `.claude/SKILLS_INDEX.md`
+4. `Docs/TECHNICAL_REFERENCE.md` — authoritative technical reference: agent system map, skills, deploy commands, pipeline, image workflow
 
 Output: "Active: [what is in progress] | Last updated: [date]."
 
@@ -109,7 +109,8 @@ Read these files directly when relevant — do not rely on cached knowledge.
 
 | File | When to read |
 |------|-------------|
-| `CLAUDE.md` | Architecture questions, deploy workflow, image lifecycle rules |
+| `Docs/TECHNICAL_REFERENCE.md` | Agent system map, skills, pipeline, deploy — read at session start |
+| `CLAUDE.md` | Behavioral contract — behavioral rules, escalation triggers, auto-trigger conditions |
 | `PROJECT_STATUS.md` | Session state, active recipes, pending items |
 | `The Manual/recipes.json` | Pipeline stage flags per recipe |
 | `Agents/AGENT_CHANGELOG.md` | Before adding version bump entries |
