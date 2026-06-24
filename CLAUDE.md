@@ -1,5 +1,11 @@
 # CLAUDE.md
 
+@/Users/kevinward/.claude/code-rules/coding-style.md
+@/Users/kevinward/.claude/code-rules/testing.md
+@/Users/kevinward/.claude/code-rules/security.md
+@/Users/kevinward/.claude/code-rules/patterns.md
+@/Users/kevinward/.claude/code-rules/development-workflow.md
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Working Style
@@ -42,6 +48,10 @@ bash site/scripts/deploy.sh               # full pipeline: prep + build + rsync 
 
 `npm run build` runs `astro build` followed by `npx pagefind` — both must succeed for site search to work. Do not run `astro build` directly when building for deployment.
 
+**Pushing to GitHub alone does NOT deploy the site** — only the rsync in `deploy.sh` updates the live site. Never report the site as deployed until rsync completes successfully.
+
+See `Docs/TECHNICAL_REFERENCE.md` §3 (Build & Deploy Commands) for the full deploy sequence.
+
 ---
 
 ## Status Query Protocol
@@ -67,35 +77,9 @@ Never let active-work detail live in more than one place at a time:
 
 ---
 
-## What This Project Is
+## Project Architecture
 
-A culinary cookbook project with a published Astro site at `cafeathenathemanual.com`. The cookbook manuscript lives in `The Manual/`. The site is in `site/`. Recipes and technique folios are written in Markdown and processed through a build pipeline before deployment.
-
-### Manuscript Architecture — Four-Part Arc
-
-| Part | Chapters | Theme |
-| :--- | :--- | :--- |
-| **Part I: The Academy** | Ch. 1–2 (The Lab, The Foundation) | Technique |
-| **Part II: The Brigade** | Ch. 3–9 (Garde Manger → The Pâtissier) | Cooking through the stations |
-| **Part III: The Larder** | Ch. 10–12 (Stocks & Sauces, Spice Blends, Les Fonds) | Building blocks |
-| **Part IV: The Expo** | Ch. 13–15 (Planning, Plating, Service) | Capstone — how it reaches the guest |
-
-You enter through technique, cook through the brigade, build from the larder, and culminate in service. Part IV is not yet started — see `The Manual/IDEAS.md`.
-
----
-
-## How the AI Surfaces Are Divided
-
-| Surface | Responsibilities |
-|---------|-----------------|
-| **Claude Desktop — Chef** | Recipe development (Mode 1), formatting (Mode 2), technique education (Mode 3) — all culinary creative work |
-| **Claude Desktop — Brand Manager** | Brand guidelines development, audience personas, author identity, voice/tone, marketing strategy. Interim owner of Expo editorial content until the dedicated Content Writer agent is built. |
-| **Claude Code — Technical Director** | All technical work — Astro site, pipeline scripts, deploys, image optimization, agent/skill/command development |
-| **Claude Code** (you) | Orchestration, format audits, glossary operations, brand/marketing file execution — anything not owned by a sub-agent |
-| **Gemini Gem 1** | Fallback surface for recipe development (maintained, not primary) |
-| **Gemini Gem 2** | Lane 1 only — cookbook hero images and reference images. Consumes structured briefs from `/recipe-hero-image`. No promotional or social work. |
-| **HF Tools** | Extended toolkit for still image work and TTS. Integration entry point: `~/Projects/Hugging Face/hugging_face/Projects/cafe-athena/hugging-face-agent.md`. **In-scope:** atmospheric food stills (FLUX.1), text-in-image graphics (Ideogram 4), post-generation image correction (OmniGen2), TTS voiceovers (ZONOS2/Qwen3-TTS). **Out of scope (use Firefly instead):** video generation and I2V animation — Adobe Firefly (Kling 3.0 Omni) is faster, produces longer clips (15 sec vs 5 sec), and is the canonical video tool as of 2026-06-22. FLUX.1 and Ideogram audits still pending before production. |
-| **Content Writer & Social Media Manager Agent** *(not yet built)* | Expo editorial content — walkthroughs, essays, narrative posts — and social channel content. Planned in `The Manual/IDEAS.md`. When built, takes over Expo authorship from Brand Manager. |
+See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repository structure, stack, content pipeline, image workflow, scripts, agent system map, and Chef agent modes.
 
 ---
 
@@ -123,7 +107,7 @@ You enter through technique, cook through the brigade, build from the larder, an
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |
 | `The Manual/Glossary/` | Split culinary glossary — one file per letter (`Café Athena  - Glossary [LETTER].md`, A–Z + 0-9) |
 | `The Manual/` | Full cookbook manuscript (source files) |
-| `site/src/content/recipes/` | Built recipe files consumed by the Astro site |
+| `site/src/content/recipes/` | Built recipe files consumed by the Astro site — ephemeral, never hand-edit |
 | `~/Projects/Hugging Face/hugging_face/Projects/cafe-athena/` | **Writable.** Café Athena's project folder inside the HF workspace — tool registry, brand parameters, asset manifest, gap documentation, and handoff prompts all live here. |
 | `~/Projects/Hugging Face/hugging_face/` (all other paths) | **Read-only.** The canonical HF workspace — skills, space docs, audits, roadmap. Never write to or modify anything outside the `Projects/cafe-athena/` subfolder. Reference canonical content by path only. |
 
@@ -189,121 +173,6 @@ Run these in Claude Code. Full definitions in `.claude/commands/`.
 | `/register-recipe [id]` | Register a new entry in `The Manual/recipes.json` **and** update the Current Version index after Claude Desktop Mode 2 |
 | `/sync-registry` | Sync `The Manual/recipes.json` against live Manual directory — adds missing entries, corrects filesystem-derivable stages |
 | `/session-handoff` | Update PROJECT_STATUS.md, commit, push, output summary |
-
----
-
-## Local Python Scripts (Ollama)
-
-These scripts run against a local [Ollama](https://ollama.com) server (`localhost:11434`) — no API tokens used.
-
-**Installed models:** `llama3.2:latest` (generation, 2 GB), `qwen2.5:7b` (detection, 4.7 GB), `gemma3:4b` (3.3 GB)
-
-| Script | Purpose | Use when |
-|--------|---------|----------|
-| `scripts/audit.py` | Bulk audit + Ollama-powered repair | Run first to detect structural issues and generate glossary/keyword content |
-| `scripts/extract-keywords.py` | Keywords/Category backfill | Superseded by `audit.py` — use `audit.py --scan-only` + approve instead |
-| `scripts/add-glossary-sections.py` | Glossary section generation | Superseded by `audit.py` |
-
-**Common commands:**
-
-```bash
-python3 scripts/audit.py --scan-only              # scan all, no changes
-python3 scripts/audit.py --status                 # show audit status summary
-python3 scripts/audit.py --chapter 3              # audit + fix Chapter 3
-python3 scripts/audit.py --deep                   # add LLM-based Mise/Method violation check (qwen2.5:7b)
-python3 scripts/audit.py --model llama3.2:latest  # generation model (glossary, keywords, category)
-python3 scripts/audit.py --detect-model qwen2.5:7b  # detection model (mise violation)
-```
-
-See `README.md` for full documentation and the Ollama approval workflow.
-
----
-
-## Site & Build Notes
-
-- Recipe source files: `The Manual/Chapter N - Name/XX-YY Café Athena - [Recipe Title].md`
-- Built recipe files: `site/src/content/recipes/XX-YY.md`
-- Hero images: `site/public/images/XX-YY.webp` — canonical location, pre-processed externally before placement
-- Build pipeline: `site/scripts/prepare-content.py` processes Manual → site content. Safe to run during deploy — preserves already-optimized WebP images in `site/public/images/` matching `\d{2}-\d{2}[a-z]?\.webp` (fixed 2026-04-05, commit c84bc51).
-
-### Content Pipeline Transform
-
-`prepare-content.py` is the bridge between `The Manual/` and the Astro site. Understanding what it does is critical when editing either side:
-
-1. **Strips the leading H1** — every folio file starts with `# Café Athena - Title` or `# **Technique Folio - Title**`. The script removes this line because `RecipeLayout.astro` renders the title from frontmatter; leaving it in the body causes a double title.
-2. **Extracts `## Keywords` and `## Category` from the body** — these sections exist in the folio source but do not appear on the page. The script pulls them out and maps them into YAML frontmatter fields (`keywords[]`, `cuisine`, `style`, `family`, `course`, `dietary`), then strips the sections from the rendered body.
-3. **Injects frontmatter** — every built file gets: `title`, `index`, `chapter`, `chapterName`, `type` (`recipe` or `technique`), `heroImage`, `referenceImages[]`, `keywords[]`, `cuisine`, `style`, `family`, `course`, `dietary`. The schema is defined in `site/src/content.config.ts`.
-4. **Copies images** — hero images (`XX-YY.webp/.png`) and reference images (`XX-YYa.webp`, etc.) are copied from chapter folders to `site/public/images/`. Already-optimized WebP files already present in `site/public/images/` are preserved (not overwritten).
-
-The Astro content collection at `site/src/content/recipes/` is **ephemeral** — it is fully regenerated each time `prepare-content.py` runs. Never hand-edit those files; edit the source in `The Manual/` instead, then re-run the pipeline.
-
-### Site Page Routing
-
-All recipe pages are served by a single dynamic route: `site/src/pages/[...slug].astro`. Each recipe's URL is its index (`/12-23`, `/01-01`, etc.).
-
-The three section landing pages are static Astro files that act as chapter-group entry points:
-
-| Page | URL | Covers |
-|------|-----|--------|
-| `academy.astro` | `/academy` | Ch. 1–2 (technique folios) |
-| `brigade.astro` | `/brigade` | Ch. 3–9 (station recipes) |
-| `larder.astro` | `/larder` | Ch. 10–12 (building blocks) |
-
-A custom remark plugin (`site/src/plugins/remark-ref-images.mjs`) handles reference image embedding in recipe body content.
-
-### Deploy Workflow
-
-The live site is hosted on FastComet. **Pushing to GitHub alone does NOT deploy the site** — only the rsync in `deploy.sh` updates the live site. Never report the site as deployed until rsync completes successfully.
-
-1. Place optimized WebP files in `site/public/images/`
-2. Update `The Manual/recipes.json` (heroImage, heroImageOptimized, deployed flags)
-3. Commit and push to GitHub
-4. Run `bash site/scripts/deploy.sh` from the repo root — handles content prep, build, and rsync
-
-If images go missing after a deploy, check git history — they were likely committed and can be restored with `git checkout HEAD -- site/public/images/XX-YY.webp`.
-
-### ⚠️ heroImage Frontmatter Format (CRITICAL)
-
-The `heroImage` field in `site/src/content/recipes/XX-YY.md` must be the **filename only** — e.g. `"07-10.webp"`. **Never** use a path like `"/images/07-10.webp"`.
-
-The template (`[...slug].astro:30`) automatically prepends `/images/` when rendering. Using a full path results in a broken double-path like `/images//images/07-10.webp`.
-
-When manually adding heroImage frontmatter (not via prepare-content.py), always use: `heroImage: "XX-YY.webp"`
-
-### Image Placement
-
-All hero and reference images live in `site/public/images/` — this is the only location. Images are processed externally (Photoshop: remove Gemini watermark, export WebP at 80% quality, 1920×1080) before being placed here. The pipeline validates presence and spec at deploy time via `sips`. Never place images in `The Manual/` chapter folders.
-
-### Hero Image Prompt Format
-
-When generating a prompt for Gemini Gem 2, always use this structured brief — not a prose paragraph:
-
-```
-Recipe: [dish name]
-Chapter: [chapter name]
-Description: [headnote — key visual elements, texture, color, sauce, garnish]
-Cuisine: [cuisine type]
-Key elements: [3–5 primary visual ingredients or techniques]
-```
-
-The Gem's aesthetic rules (`Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`) handle all style direction automatically — do not repeat surface, lighting, or composition instructions in the brief.
-
----
-
-## Image Lifecycle & Cleanup Policy
-
-Images in `The Manual/` are working files. Once processed and confirmed in `site/public/images/`, they should be deleted from The Manual folder.
-
-**Delete from `The Manual/` when:**
-
-- Hero image: `The Manual/recipes.json` shows `heroImageOptimized: true`
-- Reference image: `The Manual/recipes.json` shows `referenceImagesProcessed: true`
-
-This applies equally to hero images (`XX-YY.webp`) and reference images (`XX-YYa.webp`, etc.).
-
-**Canonical location for all processed images:** `site/public/images/`
-
-The `.png` originals in The Manual may be kept until optimized, then deleted once `heroImageOptimized: true`. Reference the `The Manual/recipes.json` registry as the source of truth for what has been processed.
 
 ---
 
