@@ -153,18 +153,21 @@ Audit each agent instruction file. Any content that is a project fact (not a beh
 ### Agents to Audit
 
 **Café Athena Chef** (`.claude/agents/Cafe Athena Chef.agent.md`)
+
 - Mode detection logic → stays (behavioral)
 - Recipe format rules → should READ `Guidance/Recipe-Format-Standard.md` (already does)
 - Taxonomy → should READ `Guidance/Taxonomy.md`
 - Check: is there project knowledge baked in that should be a reference read?
 
 **Café Athena Brand Manager** (`.claude/agents/Cafe Athena Brand Manager.agent.md`)
+
 - Persona behavior → stays (behavioral)
 - Brand rules, voice, tone → should READ `Brand/BRAND_GUIDELINES.md`
 - Project scope → should READ `Brand/BRAND_SCOPE.md` (once written in Phase 5)
 - Skills → should READ agent's section in `Docs/TECHNICAL_REFERENCE.md`
 
 **Café Athena Technical Director** (`.claude/agents/Cafe Athena Technical Director.agent.md`)
+
 - Behavior rules → stays
 - Technical reference → should READ `Docs/TECHNICAL_REFERENCE.md`
 - Site architecture → should READ `Docs/TECHNICAL_REFERENCE.md`
@@ -241,8 +244,8 @@ Each phase produces output (a new or modified file) that Kevin reviews in Claude
 
 | Phase | Status | Session | Kevin Approved |
 |-------|--------|---------|---------------|
-| 1 — README rewrite | Not started | — | — |
-| 2 — TECHNICAL_REFERENCE.md | Not started | — | — |
+| 1 — README rewrite | Complete ✅ | 2026-06-24 | ✅ |
+| 2 — TECHNICAL_REFERENCE.md | Complete ✅ | 2026-06-24 | ✅ |
 | 3 — Slim CLAUDE.md | Not started | — | — |
 | 4 — Agent RAG audit | Not started | — | — |
 | 5 — Brand/BRAND_SCOPE.md | Not started | — | — |
