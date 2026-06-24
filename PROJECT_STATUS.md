@@ -22,19 +22,15 @@ In-progress folios. Completed items are tracked via `The Manual/recipes.json` an
 
 ---
 
-## 🏗️ Infrastructure Reorganization
+## 🏗️ Infrastructure Reorganization — Complete ✅
 
-**Plan:** `INFRA_REORG_PLAN.md` — full details, briefings, and approval protocol there.
+All 5 phases complete as of 2026-06-24. See `INFRA_REORG_PLAN.md` for full record.
 
-| Phase | Description | Status |
-|-------|-------------|--------|
-| 1 | Rewrite README.md as non-technical scope | Not started |
-| 2 | Create Docs/TECHNICAL_REFERENCE.md | Not started |
-| 3 | Slim CLAUDE.md to behavioral contract | Not started |
-| 4 | Agent RAG audit — move baked-in facts to reference reads | Not started |
-| 5 | Write Brand/BRAND_SCOPE.md | Not started |
-
-Each phase executes in a separate session. Kevin approves output before any commit.
+- README.md — non-technical public scope document
+- Docs/TECHNICAL_REFERENCE.md — single technical reference (replaces SKILLS_INDEX)
+- CLAUDE.md — slimmed to behavioral contract
+- Agent RAG audit — all agents now READ reference docs at session start
+- Brand/BRAND_SCOPE.md — concrete project scope definition
 
 ---
 
