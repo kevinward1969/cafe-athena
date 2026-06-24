@@ -22,6 +22,22 @@ In-progress folios. Completed items are tracked via `The Manual/recipes.json` an
 
 ---
 
+## 🏗️ Infrastructure Reorganization
+
+**Plan:** `INFRA_REORG_PLAN.md` — full details, briefings, and approval protocol there.
+
+| Phase | Description | Status |
+|-------|-------------|--------|
+| 1 | Rewrite README.md as non-technical scope | Not started |
+| 2 | Create Docs/TECHNICAL_REFERENCE.md | Not started |
+| 3 | Slim CLAUDE.md to behavioral contract | Not started |
+| 4 | Agent RAG audit — move baked-in facts to reference reads | Not started |
+| 5 | Write Brand/BRAND_SCOPE.md | Not started |
+
+Each phase executes in a separate session. Kevin approves output before any commit.
+
+---
+
 ## 🔖 Pending from Prior Sessions
 
 Items deferred from earlier sessions. Session handoff writes here. Resolve or carry forward each session.
@@ -31,7 +47,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | AI setup health audit | Context degradation and repeated errors observed 2026-06-14 session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
 | HF tool integration | Integration entry point: `hugging_face/Projects/cafe-athena/hugging-face-agent.md`. **Integration test complete (2026-06-22):** All tools confirmed working in production run. Wan2.2 I2V (zerogpu-aoti fast) is the primary animated still tool — AUDIT-008 passed. ZONOS2 is preferred TTS; Qwen3-TTS is backup. **Remaining gaps:** ZONOS2 formal integration incomplete (no standalone Tool Registry entry, no workflow section, no audit at `hugging_face/audit/zonos2-audit.md`). FLUX and Ideogram audits (AUDIT-004, AUDIT-005 by original numbering) still pending. | Next: formally integrate ZONOS2 per skill-implementation.md, then FLUX/Ideogram audits. | 2026-06-20 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
-| Social account setup — Instagram, Pinterest, YouTube | Briefs in `Marketing/Social/`, templates in `Marketing/Social/Templates/`. Kevin is handling account creation manually. Instagram account created (@cafeathena_themanual). Pinterest and YouTube not yet set up. | Kevin-driven — no blocking condition | 2026-06-16 |
+| Social account setup — Pinterest, YouTube | Briefs in `Marketing/Social/`. Instagram profile live (@cafeathena_themanual) — first post pending. Pinterest and YouTube not yet set up. | Kevin-driven — no blocking condition | 2026-06-16 |
 
 ---
 

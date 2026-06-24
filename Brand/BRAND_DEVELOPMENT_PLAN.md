@@ -1,16 +1,16 @@
 # Café Athena — Brand Development Plan
 
-**Status:** Phase 1 starting
-**Last Updated:** 2026-06-11
+**Status:** Phase 5 revision in progress — see phase statuses below
+**Last Updated:** 2026-06-24
 **Tracking:** See `BRAND_TODO.md` for task-level progress
 
 ---
 
 ## Overview
 
-This plan covers the full first-phase brand build for Café Athena — from identity foundation through visual system and into marketing activation. Work is sequenced by dependency: strategy must precede voice, voice must precede copy, visual identity must precede asset generation.
+This plan covers the full brand build for Café Athena — from scope definition through visual system and into marketing activation. Work is sequenced by dependency: scope must precede strategy, strategy must precede persona, persona and strategy must precede voice, voice must precede identity copy.
 
-**End state:** A complete `BRAND_GUIDELINES.md`, author identity in all three formats, two audience personas, a visual system spec, and a briefed Visual Director Gem capable of producing on-brand assets beyond cookbook images.
+**End state:** A complete `BRAND_GUIDELINES.md`, a defined project scope, author identity written in the correct voice for the correct audience, a full visual system, and a briefed Visual Director Gem capable of producing on-brand assets beyond cookbook images.
 
 ---
 
@@ -25,33 +25,93 @@ This plan covers the full first-phase brand build for Café Athena — from iden
 
 ---
 
-## Phase 1 — Brand Foundation
+## Phase 1 — Project Scope Definition
 
-**Goal:** Define the strategic core — what Café Athena is, who it's for, and what it stands for. Everything downstream depends on this.
+**Status: Not started**
+
+**Goal:** Define what Café Athena is and is not before any brand strategy is written. Everything downstream — positioning, voice, author bios, social copy — depends on a clear answer to "what is this thing?"
 
 **Deliverables:**
-- Mission statement
-- Brand promise (one sentence)
-- Positioning statement (formal)
-- Core values (3–5, with definitions)
-- Brand archetype
+
+- Scope statement — what the project covers (chapters, content types, technique range)
+- Out-of-scope statement — what it explicitly does not cover
+- Format and delivery definition — digital-first, how it is used, what it is not (not a blog, not a social account, not a restaurant guide)
+- Problem/solution statement — the specific problem it solves for the reader
 
 **Primary surface:** Brand Manager
-**Resources to load:** `dm_2019_key_brand_elements.pdf`, `core_values_worksheet.docx`, `positioning_statement_worksheet.docx`
-**Output file:** `BRAND_GUIDELINES.md` §1 (Overview & Brand Identity)
+**Output file:** `Brand/BRAND_SCOPE.md` — referenced by `BRAND_GUIDELINES.md` §1
 
 ---
 
-## Phase 2 — Author Identity
+## Phase 2 — Brand Foundation
 
-**Goal:** Establish Kevin Ward as the credible, specific voice behind the book. Not a generic food blogger — a person with a real culinary point of view.
+**Status: Complete ✓**
+
+**Goal:** Define the strategic core — what Café Athena stands for. Informed by the scope definition.
 
 **Deliverables:**
-- Author backstory (long-form narrative)
-- Author bio — long version (250–300 words, site/press)
-- Author bio — short version (2–3 sentences, site blurb)
-- Author bio — social versions (per-platform character limits: Instagram, YouTube, Pinterest, Facebook)
-- Author photo brief (for Visual Director or external photography)
+
+- Mission statement ✓
+- Brand promise ✓
+- Positioning statement ✓
+- Core values (6 written) ✓
+- Brand archetype ✓
+
+**Output file:** `BRAND_GUIDELINES.md` §1
+
+**Note:** May require minor revision once Phase 1 scope document is written, to ensure positioning reflects the defined scope precisely.
+
+---
+
+## Phase 3 — Audience Personas
+
+**Status: Complete ✓ — cross-check deferred**
+
+**Goal:** Define who Café Athena is actually for. Personas drive voice, copy tone, content priorities, and channel selection.
+
+**Deliverables:**
+
+- Persona 1: The Serious Home Cook ✓
+- Persona 2: The Culinary Curious ✓
+- Persona 3: The Kitchen Experimenter ✓
+- Cross-check all personas against positioning statement ← deferred, not yet done
+
+**Output files:** `Personas/persona-serious-home-cook.md`, `Personas/persona-culinary-curious.md`, `Personas/persona-kitchen-experimenter.md`
+
+---
+
+## Phase 4 — Voice & Tone
+
+**Status: Complete ✓**
+
+**Goal:** Define two distinct registers — how Café Athena writes inside the book vs. how it speaks in marketing contexts.
+
+**Deliverables:**
+
+- Manuscript register spec ✓
+- Acquisition register spec ✓
+- 8 do/don't pairs — manuscript register ✓
+- 8 do/don't pairs — acquisition register ✓
+- Forbidden phrases list (21 entries) ✓
+
+**Output file:** `BRAND_GUIDELINES.md` §5–6
+
+---
+
+## Phase 5 — Author Identity
+
+**Status: Needs revision ⚠️**
+
+**Goal:** Establish Kevin Ward as the credible, specific voice behind the book. Bios are written in the acquisition register voice (Phase 4) and speak to the defined personas (Phase 3). This phase comes after voice and personas — not before — so the copy reflects both.
+
+**Deliverables:**
+
+- Author backstory (long-form narrative) ✓ — in `BRAND_GUIDELINES.md` §2
+- Author bio — long version (250–300 words, site/press) ✓ — `Author/bio-long.md`
+- Author bio — short version (2–3 sentences, site blurb) ✓ — `Author/bio-short.md`
+- Author bio — social versions (per-platform, per acquisition register) ← **needs rewrite** — current versions predate voice/tone work
+- Author photo brief ✓ — `Author/photo-brief.md`
+- Solo author headshot — still needed (specs in photo brief)
 
 **Primary surface:** Brand Manager
 **Resources to load:** `Developing Your Personal Brand.docx`
@@ -59,95 +119,83 @@ This plan covers the full first-phase brand build for Café Athena — from iden
 
 ---
 
-## Phase 3 — Audience Personas
+## Phase 6 — Visual Identity
 
-**Goal:** Define who Café Athena is actually for — specific people, not demographics. Personas drive voice, copy tone, content priorities, and channel selection.
+**Status: Complete ✓**
+
+**Goal:** Establish the complete visual system: color, typography, photography standards, and asset specs.
 
 **Deliverables:**
-- Persona 1: The Serious Home Cook (primary)
-- Persona 2: The Culinary Curious (secondary)
-- Each persona: name, demographics, goals, pain points, content consumption habits, why they'd find Café Athena, what would lose them
 
-**Primary surface:** Brand Manager
-**Resources to load:** `buyer_persona_template.xlsx`
-**Output files:** `Personas/persona-serious-home-cook.md`, `Personas/persona-culinary-curious.md`
+- Color palette ✓
+- Typography system ✓
+- Logo/wordmark (delivered — three SVG variants) ✓
+- Photography standards ✓
+- Social template visual specs ✓
+- §8 Visual Asset System: Educational/Companion Content ✓
+- §9 Asset Naming & Specifications ✓
+- Visual Director Gem brief expansion for brand asset modes ← deferred to when social channels are active
+
+**Output files:** `BRAND_GUIDELINES.md` §3–4, §7–9, `Creative/visual-system.md`
 
 ---
 
-## Phase 4 — Voice & Tone
+## Phase 7 — Brand Guidelines Completion
 
-**Goal:** Define two distinct registers — how Café Athena writes inside the book vs. how it speaks in marketing contexts. These are different tones for different jobs.
+**Status: Complete ✓ — scorecard review skipped**
 
-**Deliverables:**
-- Manuscript register spec (authority, craft, warmth — for cookbook copy)
-- Acquisition register spec (welcoming, curious, accessible — for site/social)
-- 5–8 writing examples per register (do/don't pairs)
-- Forbidden phrases list
-
-**Primary surface:** Brand Manager
-**Output file:** `BRAND_GUIDELINES.md` §5–6 (Voice & Tone sections)
-
----
-
-## Phase 5 — Visual Identity
-
-**Goal:** Establish the complete visual system: color, typography, photography standards, and asset specs. This phase also expands the Visual Director Gem's brief to cover brand assets beyond cookbook images.
+**Goal:** Assemble all phase outputs into the complete `BRAND_GUIDELINES.md`. Revisit once Phase 5 (author bios) revisions are done.
 
 **Deliverables:**
-- Full color palette (primary, secondary, neutral, functional) with hex values
-- Typography system — display, body, accent (web + print)
-- Logo/wordmark brief (for external design or Firefly concept generation)
-- Photography standards (already partially defined in Visual Director Gem; formalize here)
-- Visual asset spec for social templates
-- Updated Visual Director Gem brief to cover brand asset modes
 
-**Primary surface:** Brand Manager (spec) + Visual Director Gem (generation)
-**Output files:** `BRAND_GUIDELINES.md` §3–4, `Creative/visual-system.md`, updated Visual Director Gem instructions
-
----
-
-## Phase 6 — Brand Guidelines Completion
-
-**Goal:** Assemble all phase outputs into the complete `BRAND_GUIDELINES.md`. The document becomes the single reference for all brand decisions.
-
-**Deliverables:**
-- Complete `BRAND_GUIDELINES.md` — all 10 sections from stub outline
-- Internal QA against brand scorecard
+- All 10 sections complete ✓
+- Full consistency QA ✓
+- Brand strategy scorecard review ← skipped; complete before Phase 8 opens
 
 **Primary surface:** Brand Manager + Claude Code
 **Resources to load:** `brand_strategy_scorecard.xlsx`
-**Output file:** `BRAND_GUIDELINES.md` (complete)
+**Output file:** `BRAND_GUIDELINES.md`
 
 ---
 
-## Phase 7 — Marketing Activation Handoff
+## Phase 8 — Marketing Activation
 
-**Goal:** Hand the completed brand system off to the marketing layer. This phase triggers the open items in `Marketing/MARKETING_STATUS.md`.
+**Status: Paused ⏸ — awaiting Phase 5 revision and Phase 7 scorecard**
+
+**Goal:** Hand the completed brand system off to the marketing layer.
 
 **Deliverables:**
+
 - Site copy rewrites (hero, about, CTAs) using acquisition register
-- Social channel setup (Instagram, Pinterest, YouTube — per `Marketing/Social/channels.md`)
+- Social channel setup (Instagram, Pinterest, YouTube)
 - Social post templates (per platform)
 - About page / author section
 
 **Primary surface:** Brand Manager (copy) + Technical Director (site implementation)
-**Dependency:** Phases 1–6 complete
+**Dependency:** Phases 1–7 complete
+
+**Current state:**
+
+- Instagram profile live (@cafeathena_themanual) — bio placeholder, pending Phase 5 rewrite
+- Channel briefs written for all three platforms
+- Post templates exist
+- Pinterest and YouTube accounts not yet created
 
 ---
 
 ## Dependencies Map
 
 ```
-Phase 1 (Foundation)
-  └── Phase 2 (Author Identity)     ← can run in parallel with Phase 3
-  └── Phase 3 (Personas)            ← can run in parallel with Phase 2
-      └── Phase 4 (Voice & Tone)    ← requires both Phase 1 and Phase 3
-          └── Phase 5 (Visual)      ← requires Phase 1; can partially run with Phase 4
-              └── Phase 6 (Guidelines Complete)
-                  └── Phase 7 (Marketing Activation)
+Phase 1 (Scope Definition)
+  └── Phase 2 (Brand Foundation)
+  └── Phase 3 (Audience Personas)      ← can run in parallel with Phase 2
+        └── Phase 4 (Voice & Tone)     ← requires Phase 2 + Phase 3
+              └── Phase 5 (Author Identity)  ← requires Phase 4 + Phase 3
+Phase 2 (Brand Foundation)
+  └── Phase 6 (Visual Identity)        ← can run in parallel with Phases 3–5
+        └── Phase 7 (Guidelines Complete)  ← requires all phases
+              └── Phase 8 (Marketing Activation)
 ```
-
-**Phases 2 and 3 can run in parallel.** All other phases are sequential.
 
 ---
 
@@ -155,8 +203,9 @@ Phase 1 (Foundation)
 
 | File | Purpose |
 |------|---------|
+| `Brand/BRAND_SCOPE.md` | Project scope definition — Phase 1 output (not yet written) |
 | `Resources/INDEX.md` | Which reference docs to load for each phase |
-| `BRAND_TODO.md` | Task-level tracking (this plan's execution layer) |
+| `BRAND_TODO.md` | Task-level tracking |
 | `BRAND_STATUS.md` | High-level status — updated at phase completion |
-| `Marketing/MARKETING_STATUS.md` | Phase 7 activation tracker |
+| `Marketing/MARKETING_STATUS.md` | Phase 8 activation tracker |
 | `Agents/AGENT_CHANGELOG.md` | Log any agent updates triggered by this work |

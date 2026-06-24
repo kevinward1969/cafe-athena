@@ -1,6 +1,6 @@
 # Social Channels
 
-**Status:** Instagram account created — profile image ready. Pinterest and YouTube pending.
+**Status:** Instagram profile live (@cafeathena_themanual) — first post pending. Pinterest and YouTube not yet set up.
 
 ---
 
@@ -15,19 +15,21 @@
 
 ## Profile Image Asset
 
-**Badge** (`Brand/Visual Identity/Cafe Athena - The Manual - Logo.ai`, Artboard 1) is the profile image for all channels. Export at 1080×1080px minimum. The scalloped outer edge requires testing at 110px crop (Instagram circle) to confirm legibility — simplify scallops in a small-scale variant if needed.
+**Primary:** `Marketing/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`
+Source: `Brand/Visual Identity/Cafe Athena - Band Mark.svg`. Export at 1080×1080px, PNG. The scalloped outer edge requires testing at 110px crop (Instagram circle) to confirm legibility.
 
-**Olive icon** (`Brand/Visual Identity/Cafe Athena - The Manual - Logo.ai`, Artboard 2) is the fallback for any platform that crops too tightly for the badge to read.
+**Fallback:** `Marketing/Social/Profile/Cafe Athena - Icon Mark - 1080px - square.png`
+Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform where the band mark scallops disappear at the circle crop.
 
 ## Setup Checklist — Instagram
 
 - [x] Handle registered (@cafeathena_themanual)
-- [ ] Profile bio written (see `Marketing/Social/brief-instagram.md`)
-- [x] Profile image ready (badge — pending upload)
-- [ ] Profile image uploaded
-- [ ] Cover/banner image uploaded
-- [ ] Link to cafeathenathemanual.com in bio
-- [ ] First post / pinned content published
+- [x] Profile bio written (`Marketing/Social/brief-instagram.md`)
+- [x] Profile image ready (`Marketing/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`)
+- [x] Profile image uploaded
+- [x] Bio entered in app
+- [x] Link to cafeathenathemanual.com in bio
+- [ ] First post published
 
 ## Setup Checklist — YouTube
 

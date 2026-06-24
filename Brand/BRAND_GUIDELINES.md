@@ -645,7 +645,7 @@ The Technique Folio is the source of truth. Do not invent mechanisms, comparison
 
 ## §9 — Asset Naming & Specifications
 
-This section is the practical reference for every visual asset produced for Café Athena. Any image added to the project — cookbook, educational, author, or social — follows the naming conventions below and is stored in the canonical location listed. The naming patterns here are derived from the live site architecture at `site/public/images/` and are already in active use.
+This section is the practical reference for every visual asset produced for Café Athena. Any image added to the project — cookbook, educational, author, or social — follows the naming conventions below and is stored in the canonical location listed. Cookbook and site asset naming patterns derive from the live site architecture at `site/public/images/`. Social media assets are platform-upload artifacts — they are never served from the website and are stored under `Marketing/Social/`.
 
 ---
 
@@ -716,22 +716,33 @@ Examples: `author-headshot.webp`, `author-kitchen.webp`, `author-portrait.webp`
 
 #### Social Media Assets
 
+**Platform profile images**
+Pattern: `Cafe Athena - [Mark Name] - [Size] - [Shape].[ext]`
+Size = pixel dimension of the longest edge; Shape = square, portrait, etc.
+Example: `Cafe Athena - Band Mark - 1080px - square.png`
+Fallback (tight crop): `Cafe Athena - Icon Mark - 1080px - square.png`
+Storage: `Marketing/Social/Profile/`
+
 **Instagram posts**
 Pattern: `social-ig-[id]-[descriptor].webp`
 id = recipe or folio index (XX-YY); descriptor = one or two lowercase words
 Example: `social-ig-07-10-hero.webp`, `social-ig-01-02-slide1.webp`
+Storage: `Marketing/Social/Recipes/[recipe-id]/`
 
 **Pinterest pins**
 Pattern: `social-pin-[id]-[descriptor].webp`
 Example: `social-pin-07-10-vertical.webp`
+Storage: `Marketing/Social/Recipes/[recipe-id]/`
 
 **YouTube thumbnails**
 Pattern: `social-yt-[id]-[descriptor].webp`
 Example: `social-yt-01-02-thumb.webp`
+Storage: `Marketing/Social/Recipes/[recipe-id]/`
 
 **Facebook posts**
 Pattern: `social-fb-[id]-[descriptor].webp`
 Example: `social-fb-07-10-feature.webp`
+Storage: `Marketing/Social/Recipes/[recipe-id]/`
 
 ---
 
@@ -760,13 +771,14 @@ WebP is the required format for all assets stored in this project. JPEG is accep
 |---|---|
 | All processed cookbook images (Lane 1) | `site/public/images/` |
 | Educational image exports (Lane 2 infographics, slides) | `site/public/images/edu/` |
-| Social media exports | `site/public/images/social/` |
+| Social media profile images | `Marketing/Social/Profile/` |
+| Social media recipe/post exports | `Marketing/Social/Recipes/[recipe-id]/` |
 | Author photographs | `site/public/images/` |
 | Video and PDF exports (NotebookLM) | `The Manual/Educational/[folio-id]/` |
 
 **The Manual/ is not a storage location for processed images.** Images in `The Manual/` are working files only — unprocessed originals awaiting Photoshop export. Once an image is processed and placed in `site/public/images/`, the working file in `The Manual/` should be deleted. The `The Manual/recipes.json` registry flags when this has been done (`heroImageOptimized: true`, `referenceImagesProcessed: true`).
 
-The `edu/` and `social/` subdirectories under `site/public/images/` are the intended locations for Lane 2 and social assets. They are not yet populated but are established here as the canonical locations for when those channels become active.
+The `edu/` subdirectory under `site/public/images/` is the intended location for Lane 2 educational assets. It is not yet populated but is established as the canonical location for when that channel becomes active. Social assets do not belong in `site/public/images/` — they live under `Marketing/Social/`.
 
 ---
 
