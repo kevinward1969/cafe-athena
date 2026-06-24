@@ -55,3 +55,6 @@ Marketing/**/*.mp3
 Marketing/**/*.aiff
 Marketing/**/*.logicx
 Marketing/**/*.pdf
+
+# Ignore all Marketing resources (working assets)
+Marketing/Resources/
