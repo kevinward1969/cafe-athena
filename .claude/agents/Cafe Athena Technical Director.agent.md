@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Technical Director
-version: "1.4"
+version: "1.5"
 description: Technical implementation agent for Café Athena. Invoke for site development (Astro), pipeline scripts, deploy operations, image optimization, and agent/skill/command work across site/, scripts/, .claude/, and Agents/.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---

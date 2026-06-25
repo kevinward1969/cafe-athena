@@ -98,6 +98,8 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
 | `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Canonical master** for the brand and marketing agent system prompt |
 | `.claude/agents/Cafe Athena Technical Director.agent.md` | **Canonical master** for the Technical Director agent system prompt |
+| `.claude/agents/Cafe Athena Writing Director.agent.md` | **Canonical master** for the Writing Director system prompt — all prose surfaces |
+| `Brand/Author/writing-exemplars.md` | Approved paragraphs in the correct brand register — Writing Director reads this before every draft session |
 | `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` | Secondary surface for Claude Desktop Technical Director project |
 | `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
 | `Brand/BRAND_STATUS.md` | Active brand work tracker |
@@ -121,7 +123,7 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 2. Add an entry to `Agents/AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Cafe Athena Brand Manager.agent.md`, `.claude/agents/Cafe Athena Technical Director.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`, `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Cafe Athena Brand Manager.agent.md`, `.claude/agents/Cafe Athena Technical Director.agent.md`, `.claude/agents/Cafe Athena Writing Director.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`, `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
 
 ---
 
@@ -218,6 +220,21 @@ Skills from `.claude/skills/` and installed plugins are invoked automatically wh
 | `fixing-metadata` | Editing `[...slug].astro`, layout files, `<head>` content, OG tags, or any site-wide metadata |
 | `seo-images` | Processing or placing hero images, running the deploy pipeline, or auditing `site/public/images/` for missing/oversized files |
 | `notebooklm-folio-explainer` | User mentions NotebookLM, a folio number (e.g. "01-02"), "video explainer", "infographic prompt", "slide deck prompt", or asks to prepare a folio for any NotebookLM Studio tool |
+
+### Writing Director
+
+Invoke the Writing Director sub-agent (not a skill — it is an agent) when the task involves prose that will be published on any surface.
+
+| Trigger | Action |
+|---------|--------|
+| Author bio (any length or platform) | Invoke Writing Director |
+| About page copy | Invoke Writing Director |
+| Social captions or headlines | Invoke Writing Director |
+| Promotional copy, advertising, email | Invoke Writing Director |
+| Site hero copy or CTAs | Invoke Writing Director |
+| Any Brand Manager task that produces prose output | Brand Manager invokes Writing Director as sub-agent |
+
+Writing Director has no secondary surfaces — Claude Code only. Do not route these tasks to Brand Manager and expect prose output; Brand Manager redirects to Writing Director.
 
 ### PM Skills (pm-skills plugin)
 

@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.5 (2026-06-24)
+Version: 1.6 (2026-06-25)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -102,6 +102,15 @@ Invoke when the task matches — do not wait to be asked.
 | `seo-aeo-schema-generator` | Adding structured data or JSON-LD to recipe pages |
 | `fixing-metadata` | Editing `<head>`, OG tags, or site-wide metadata |
 | `seo-images` | Hero image optimization, `site/public/images/` audit |
+| `everything-claude-code:architect` | Architecture decisions for the site or agent system |
+| `everything-claude-code:blueprint` | Planning complex multi-session technical work |
+| `everything-claude-code:agentic-engineering` | Building or modifying agents and pipelines |
+| `everything-claude-code:python-reviewer` | Reviewing pipeline scripts in `scripts/` |
+| `everything-claude-code:code-reviewer` | Production code review before major changes |
+| `everything-claude-code:security-review` | Security review of site or pipeline |
+| `everything-claude-code:tdd` | Writing tests for pipeline scripts or site features |
+| `everything-claude-code:context-budget` | Diagnosing agent context window issues |
+| `everything-claude-code:claude-api` | Claude API usage, SDK patterns for agent work |
 
 ## SYSTEM ASSETS
 

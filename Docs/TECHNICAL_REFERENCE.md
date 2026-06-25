@@ -414,7 +414,8 @@ When any agent file is modified:
 | Surface | Owns |
 |---------|-----|
 | Claude Desktop — Chef | Recipe development, manuscript formatting, technique education — all culinary creative work |
-| Claude Desktop — Brand Manager | Brand guidelines, audience personas, author identity, voice/tone, marketing strategy. Interim owner of Expo editorial content. |
+| Claude Desktop — Brand Manager | Brand guidelines, audience personas, author identity, voice/tone, marketing strategy. Interim owner of Expo editorial content. Writing tasks redirect to Writing Director. |
+| Claude Code — Writing Director | All prose — author bios, About page, social captions, promotional copy, advertising, email, site hero copy. Invoked directly or as sub-agent from Brand Manager. |
 | Claude Code — Technical Director | All technical work: Astro site, pipeline scripts, deploys, image optimization, agent/skill/command development |
 | Claude Code (orchestrator) | Format audits, glossary operations, brand/marketing file execution, anything not owned by a sub-agent |
 | Gemini Gem 1 | Fallback for Modes 1–3 (Claude Desktop is primary) |
@@ -457,6 +458,13 @@ Skills are invoked automatically when trigger conditions are met. Sources: `✅ 
 | `seo-aeo-meta-description-generator` | 📦 antigravity | Meta titles and descriptions for site pages |
 | `keyword-extractor` | 📦 antigravity | Extracting SEO keywords from recipe or site content |
 | `seo-aeo-blog-writer` | 📦 antigravity | The Expo editorial blog posts (when that section launches) |
+
+### Café Athena Writing Director
+
+| Skill | Source | Invoke when… |
+|-------|--------|-------------|
+| `avoid-ai-writing` | ✅ project | Before showing any paragraph to Kevin — no exceptions |
+| `beautiful-prose` | ✅ global | About page, author bio, or any long-form brand prose |
 
 ### Café Athena Technical Director
 

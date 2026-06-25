@@ -10,6 +10,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-25c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.1 |
+| 2026-06-25b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.0 |
 | 2026-06-25 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.4 | v1.5 | v1.0 |
 | 2026-06-24 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.8 | v1.9 | v1.4 | v1.5 | — |
 | 2026-06-22f | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.7 | v1.8 | v1.3 | v1.4 | — |
@@ -276,13 +278,14 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Technical Director
 
 **File:** `.claude/agents/Cafe Athena Technical Director.agent.md`
-**Current Version:** 1.3
+**Current Version:** 1.5
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.5 | 2026-06-25 | Phase 1 audit fix — canonical bumped to match CD v1.5 (CD had been edited directly on 2026-06-24, wrong direction). No content changes to canonical. Ported full ECC skills table to CD v1.6 (9 entries were missing from the compact CD port). |
 | v1.4 | 2026-06-24 | Phase 4 RAG audit. SESSION START PROTOCOL item 4: replaced stale `.claude/SKILLS_INDEX.md` (retired in Phase 2) with `Docs/TECHNICAL_REFERENCE.md` with explicit read instruction. SYSTEM ASSETS table: replaced `.claude/SKILLS_INDEX.md` row with `Docs/TECHNICAL_REFERENCE.md`; updated CLAUDE.md row description to reflect it is now the behavioral contract, not the architecture reference. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.5. |
 | v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.4. |
 | v1.2 | 2026-06-11 | Added SESSION HANDOFF PROTOCOL — trigger: "Handoff/Close out/Goodbye/Save and wrap"; reads and updates PROJECT_STATUS.md, commits, outputs 3-bullet summary. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.2 (also added condensed SKILLS table, SYSTEM ASSETS table). |
@@ -294,16 +297,30 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Technical Director
 
 **File:** `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-**Current Version:** 1.4
+**Current Version:** 1.6
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.6 | 2026-06-25 | Phase 1 audit fix — restored 9 ECC skills missing from compact CD port: `architect`, `blueprint`, `agentic-engineering`, `python-reviewer`, `code-reviewer`, `security-review`, `tdd`, `context-budget`, `claude-api`. CD skills table now matches canonical. |
 | v1.5 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.4. SESSION START item 4: replaced `.claude/SKILLS_INDEX.md` with `Docs/TECHNICAL_REFERENCE.md`. SYSTEM ASSETS table: added `Docs/TECHNICAL_REFERENCE.md` row; updated CLAUDE.md row description. |
 | v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
 | v1.3 | 2026-06-14 | Added AGENT PROPAGATION RULE section — closes gap from agent audit. Ensures Claude Desktop Technical Director knows propagation steps (port changes, remind Kevin to paste, version bump, changelog update) when agent files are modified in Mode 3. |
 | v1.2 | 2026-06-11 | Ported from canonical v1.2: SESSION HANDOFF PROTOCOL. Added condensed SKILLS table (5 project skills) and SYSTEM ASSETS table (7 key files). |
 | v1.1 | 2026-06-10 | File renamed from `SITE_DEVELOPER_INSTRUCTIONS.md` to `TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. Agent renamed to "Technical Director." No behavior changes. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
+
+---
+
+## Claude Code Sub-Agent — Café Athena Writing Director
+
+**File:** `.claude/agents/Cafe Athena Writing Director.agent.md`
+**Current Version:** 1.1
+**Status:** Canonical master — no secondary surfaces by design (paragraph approval gate requires interactive session).
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.1 | 2026-06-25 | Replaced absolute "cut all brand names" rule with judgment-based guidance: brand names are not banned — they require judgment and must be used well and appropriately. Earned, narrative-serving brand names (specific personal tools, story-grounding details) may stay; brand names functioning as product placement or tech-industry shorthand are still cut. |
+| v1.0 | 2026-06-25 | Initial release. Three-mode system (Draft, Edit, Standards Audit). Owns all prose surfaces — author bios, About page, social captions, promotional copy, email, site hero copy. Pre-writing brief mandatory in Mode 1; paragraph-by-paragraph approval gate in all modes; no file writes until full piece approved. Session start reads BRAND_GUIDELINES.md §5–§6 and writing-exemplars.md before every session. |
 
 ---
 

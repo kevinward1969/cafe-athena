@@ -1,7 +1,7 @@
 # Café Athena — Multi-Agent Architecture
 
-**Version:** 1.3  
-**Last Updated:** 2026-04-26  
+**Version:** 1.4  
+**Last Updated:** 2026-06-25  
 **Status:** Active  
 
 This document describes the full multi-agent ecosystem for the Café Athena cookbook project, including each agent's role, the relationships between them, identified improvement opportunities, and recommended next steps.
@@ -14,29 +14,37 @@ Each AI surface has a distinct role in the day-to-day workflow. They are not int
 
 | Surface | Used For | Why |
 | ------- | -------- | --- |
-| **Claude Desktop** | Recipe development (Mode 1 — The Lab), recipe formatting (Mode 2 — The Manual), technique education (Mode 3 — The MasterClass) | Easier conversational interface; can write directly to the filesystem via MCP |
-| **Claude Code (sub-agent)** | Development, format audits, QA, web functions, glossary pulls, deploys | Full tool access (Read/Write/Edit/Grep/Glob/Bash); slash-command workflows; best for agentic file operations |
+| **Claude Desktop — Chef** | Recipe development (Mode 1 — The Lab), recipe formatting (Mode 2 — The Manual), technique education (Mode 3 — The MasterClass) | Easier conversational interface; can write directly to the filesystem via MCP |
+| **Claude Code — Chef sub-agent** | All 3 Chef modes + agentic file operations, format audits, glossary pulls, deploys | Full tool access (Read/Write/Edit/Grep/Glob/Bash); slash-command workflows; best for agentic file operations |
+| **Claude Code — Brand Manager sub-agent** | Brand guidelines, audience personas, voice/tone, social strategy, marketing execution | Owns `Brand/` and `Marketing/`; redirects prose work to Writing Director |
+| **Claude Code — Writing Director sub-agent** | All prose — author bios, About page, social captions, promotional copy, advertising, email | Paragraph-by-paragraph approval gate; no secondary surfaces by design |
+| **Claude Code — Technical Director sub-agent** | Astro site, pipeline scripts, deploy operations, image optimization, agent/skill/command work | Owns `site/`, `scripts/`, `.claude/`, `Agents/` |
 | **Gemini Gem 1** | Fallback surface for recipe development | Maintained in sync with canonical master; Claude Desktop is the primary creative surface |
-| **Gemini Gem 2** | Hero image creation for recipes and web images | Purpose-built for image generation; consumes briefs from Gem 1 or `/recipe-hero-image` |
+| **Gemini Gem 2** | Hero image creation for recipes (Lane 1 only) | Purpose-built for image generation; consumes visual briefs from the pipeline |
 
-**The division is intentional.** Claude Desktop handles the creative and culinary work. Claude Code handles the technical and operational work. Gemini handles all image generation. They share the same cookbook manuscript (`The Manual/`) and format standard (`Guidance/Recipe-Format-Standard.md`) as the common source of truth.
+**The division is intentional.** Claude Desktop handles creative and culinary work. Claude Code sub-agents handle technical, brand, prose, and operational work. Gemini handles cookbook photography. They share the same cookbook manuscript (`The Manual/`) and format standard (`Guidance/Recipe-Format-Standard.md`) as the common source of truth.
 
 ---
 
 ## 2. Agent Inventory
 
-The system currently has **four distinct AI agent surfaces**, each targeting a different deployment context:
+The system currently has **nine distinct AI agent surfaces**, each targeting a different deployment context:
 
 | Agent | File | Platform | Tools | Primary Role |
 | ----- | ---- | -------- | ----- | ------------ |
 | **Gemini Gem 1 — The Chef** | `Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md` | Google Gemini Gems | Chat only | All three modes (Lab / Manual / MasterClass) — maintained fallback; Claude Desktop is primary |
-| **Gemini Gem 2 — The Visual Director** | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Recipe hero images, chapter banners, and section landing page images |
-| **Claude Desktop Agent** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three modes, portability-first |
+| **Gemini Gem 2 — The Visual Director** | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | Google Gemini Gems (Imagen) | Image generation | Recipe hero images (Lane 1) |
+| **Claude Desktop Agent — Chef** | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | All three Chef modes, portability-first |
+| **Claude Desktop Agent — Brand Manager** | `Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | Brand guidelines, audience personas, marketing strategy |
+| **Claude Desktop Agent — Technical Director** | `Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` | Claude Desktop / Claude.ai Projects | Chat + optional filesystem MCP | Site development, pipeline, agent tooling |
 | **Claude Code Sub-Agent — Café Athena Chef** | `.claude/agents/Cafe Athena Chef.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All three modes + agentic file operations |
+| **Claude Code Sub-Agent — Brand Manager** | `.claude/agents/Cafe Athena Brand Manager.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Brand and marketing execution; writing tasks redirect to Writing Director |
+| **Claude Code Sub-Agent — Writing Director** | `.claude/agents/Cafe Athena Writing Director.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | All prose — bios, About page, social copy, email, site hero copy; paragraph approval gate |
+| **Claude Code Sub-Agent — Technical Director** | `.claude/agents/Cafe Athena Technical Director.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Astro site, pipeline scripts, deploy, image optimization, agent/skill/command development |
 | **Claude Code Sub-Agent — Markdownlint QA** | `.claude/agents/Markdownlint QA.agent.md` | Claude Code (Antigravity) | Read, Write, Edit, Grep, Glob, Bash | Two-stage markdown lint detection and repair |
 | **Claude Code Sub-Agent — Recipe Clarity Auditor** | `.claude/agents/Recipe Clarity Auditor.agent.md` | Claude Code (Antigravity) | Read, Grep, Glob | Instructional clarity audit — forward references, ambiguous parentheticals, unlisted ingredients, multi-action steps |
 
-Plus **eight slash-command workflows** (`.claude/commands/`) that the Claude Code sub-agent executes:
+Plus **slash-command workflows** (`.claude/commands/`) that the Claude Code sub-agent executes:
 
 | Workflow | Command | Purpose |
 | -------- | ------- | ------- |
@@ -61,38 +69,54 @@ Plus **eight slash-command workflows** (`.claude/commands/`) that the Claude Cod
   ┌──────────────────────────┐       ┌──────────────────────────────────────┐
   │   GEMINI GEM 1           │       │   GEMINI GEM 2                       │
   │   The Chef (fallback)    │       │   The Visual Director                │
-  │   (All 3 Modes)          │       │   (Image generation only)            │
-  │   v3.8                   │       │   v1.1                               │
+  │   (All 3 Modes)          │       │   (Lane 1 — cookbook photography)    │
+  │   v3.12                  │       │   v2.3                               │
   └──────────────────────────┘       └──────────────────────┬───────────────┘
                                                             │ Consumes brief
                                                             │ → outputs hero image
-                                                            │
+                                                            ▼
   ┌──────────────────────────────────────────────────────────────────────────┐
-  │   CLAUDE DESKTOP AGENT (Claude.ai Projects / Desktop) — PRIMARY          │
-  │   PROJECT_INSTRUCTIONS.md v1.9                                           │
-  │   All 3 modes | GitHub connector (read) | MCP filesystem (read+write)    │
+  │   CLAUDE DESKTOP AGENTS (Claude.ai Projects / Desktop)                   │
+  │                                                                           │
+  │   Chef  (PROJECT_INSTRUCTIONS.md)  — All 3 culinary modes, PRIMARY       │
+  │   Brand Manager  (BRAND_MANAGER_INSTRUCTIONS.md)  — brand + marketing    │
+  │   Technical Director  (TECHNICAL_DIRECTOR_INSTRUCTIONS.md)               │
+  │                                                                           │
+  │   All: MCP filesystem (read+write) | GitHub connector (read)             │
   └──────────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────────┐
   │   CLAUDE CODE SUB-AGENTS (Antigravity CLI / VS Code Extension)           │
   │                                                                           │
   │   Café Athena Chef  (.claude/agents/Cafe Athena Chef.agent.md)           │
-  │   All 3 modes + Read/Write/Edit/Grep/Glob/Bash tools                     │
-  │   Executes workflows from .claude/commands/:                            │
-  │     /new-recipe  /format-audit  /glossary-pull  /keyword-pull            │
-  │     /audit-glossary  /recipe-hero-image  /session-handoff                │
+  │   All 3 culinary modes + agentic file operations                         │
+  │   Executes: /new-recipe  /format-audit  /glossary-pull  /keyword-pull   │
+  │             /audit-glossary  /session-handoff  /pipeline                 │
+  │                                                                           │
+  │   Brand Manager  (.claude/agents/Cafe Athena Brand Manager.agent.md)     │
+  │   Brand, personas, voice, social strategy, marketing execution           │
+  │   Redirects prose output → Writing Director                              │
+  │                                                                           │
+  │   Writing Director  (.claude/agents/Cafe Athena Writing Director.agent.md)│
+  │   All prose surfaces — bios, About, social copy, email, site hero copy  │
+  │   Paragraph-by-paragraph approval gate; no secondary surfaces            │
+  │                                                                           │
+  │   Technical Director  (.claude/agents/Cafe Athena Technical Director.agent.md)│
+  │   Astro site, pipeline, deploy, image optimization, agent/skill/command  │
   │                                                                           │
   │   Markdownlint QA  (.claude/agents/Markdownlint QA.agent.md)            │
   │   4-mode lint pipeline: Scan / Safe Fix / Deep Fix / Full Pipeline       │
-  │   Orchestrates: markdownlint_safe_fix.py → fix_markdown_with_ollama.py  │
-  │   Authorization checkpoint before any file writes                        │
+  │                                                                           │
+  │   Recipe Clarity Auditor  (.claude/agents/Recipe Clarity Auditor.agent.md)│
+  │   Forward references, ambiguous parentheticals, unlisted ingredients     │
   └──────────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────────┐
   │   SHARED KNOWLEDGE BASE (project filesystem)                             │
   │   Guidance/Recipe-Format-Standard.md   ← formatting truth               │
   │   Guidance/Taxonomy.md                 ← controlled vocabulary truth     │
-  │   Guidance/Cafe-Athena-Workflow-Guide.md                                 │
+  │   Brand/BRAND_GUIDELINES.md            ← voice, tone, visual system     │
+  │   Brand/Author/writing-exemplars.md    ← approved prose register        │
   │   The Manual/ (chapters + live index)  ← XX-YY assignment truth         │
   │   PROJECT_STATUS.md                    ← session state bridge            │
   └──────────────────────────────────────────────────────────────────────────┘
@@ -351,15 +375,24 @@ Canonical skill documentation lives in the HF workspace (`hugging_face/spaces/`)
 | What you need | Where it lives |
 | ------------- | -------------- |
 | Master recipe formatting rules | `Guidance/Recipe-Format-Standard.md` |
+| Controlled vocabulary (cuisine, style, family, etc.) | `Guidance/Taxonomy.md` |
+| Master brand reference (typography, color, voice) | `Brand/BRAND_GUIDELINES.md` |
+| Approved prose exemplars (Writing Director) | `Brand/Author/writing-exemplars.md` |
 | Claude Code culinary sub-agent | `.claude/agents/Cafe Athena Chef.agent.md` |
+| Claude Code brand manager sub-agent | `.claude/agents/Cafe Athena Brand Manager.agent.md` |
+| Claude Code writing director sub-agent | `.claude/agents/Cafe Athena Writing Director.agent.md` |
+| Claude Code technical director sub-agent | `.claude/agents/Cafe Athena Technical Director.agent.md` |
 | Claude Code markdownlint sub-agent | `.claude/agents/Markdownlint QA.agent.md` |
 | Claude Code clarity audit sub-agent | `.claude/agents/Recipe Clarity Auditor.agent.md` |
-| Claude Desktop / Claude.ai system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
+| Claude Desktop Chef system prompt | `Claude-Desktop/PROJECT_INSTRUCTIONS.md` |
+| Claude Desktop Brand Manager system prompt | `Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` |
+| Claude Desktop Technical Director system prompt | `Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` |
 | Gemini Gem 1 instructions (fallback culinary AI) | `Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md` |
-| Gemini Gem 2 instructions (image AI — Visual Director) | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` |
+| Gemini Gem 2 instructions (Visual Director) | `Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` |
 | Slash-command workflow definitions | `.claude/commands/` |
+| Agent version history | `Agents/AGENT_CHANGELOG.md` |
 | Markdownlint config | `.markdownlint.json` |
 | Active session state | `PROJECT_STATUS.md` |
 | Full cookbook manuscript | `The Manual/` |
 | Published cookbook site | `site/` |
-| Published cookbook site images| `site/public/images/` |
+| Published cookbook site images | `site/public/images/` |

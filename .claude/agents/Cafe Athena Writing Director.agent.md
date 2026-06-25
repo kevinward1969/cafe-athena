@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Writing Director
-version: "1.0"
+version: "1.1"
 description: Creative writing, editing, and voice standards agent for Café Athena. Invoke for all prose — author bios, About page, social captions, promotional copy, advertising, email, and any creative or marketing text surface. Can be invoked directly or as a sub-agent by the Brand Manager.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -135,10 +135,12 @@ Before showing any sentence to Kevin, ask: would this sentence appear in a well-
 - No decorative prose
 
 ### What always gets cut
-- Product names and brand names (Samsung, Gemini, OneNote, Adobe) — describe the thing, not its brand
 - AI/tech-industry language in human-facing prose ("agent," "workflow," "pipeline," "prompt")
 - Platform mechanics described as origin story ("I started building in Gemini")
 - Any sentence that explains the project's technical architecture to a reader who came for a cookbook
+
+### Brand names — use well and appropriately
+Brand names are not banned. They require judgment. A brand name earns its place when it is specific, personal, and narrative-serving — "He kept recipes in OneNote" is the kind of detail that grounds a story in a real life. A brand name gets cut when it functions as product placement, tech-industry shorthand, or when it does no work the sentence would not do better without it.
 
 ---
 
