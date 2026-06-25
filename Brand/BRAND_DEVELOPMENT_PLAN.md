@@ -100,7 +100,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 ## Phase 5 — Author Identity
 
-**Status: Needs revision ⚠️**
+**Status: Complete ✓**
 
 **Goal:** Establish Kevin Ward as the credible, specific voice behind the book. Bios are written in the acquisition register voice (Phase 4) and speak to the defined personas (Phase 3). This phase comes after voice and personas — not before — so the copy reflects both.
 
@@ -109,7 +109,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 - Author backstory (long-form narrative) ✓ — in `BRAND_GUIDELINES.md` §2
 - Author bio — long version (250–300 words, site/press) ✓ — `Author/bio-long.md`
 - Author bio — short version (2–3 sentences, site blurb) ✓ — `Author/bio-short.md`
-- Author bio — social versions (per-platform, per acquisition register) ← **needs rewrite** — current versions predate voice/tone work
+- Author bio — social versions (per-platform, per acquisition register) ✓ — rewritten to acquisition register 2026-06-24
 - Author photo brief ✓ — `Author/photo-brief.md`
 - Solo author headshot — still needed (specs in photo brief)
 
@@ -160,7 +160,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 ## Phase 8 — Marketing Activation
 
-**Status: Paused ⏸ — awaiting Phase 5 revision and Phase 7 scorecard**
+**Status: Active 🟢 — Phase 5 complete; Phase 7 scorecard deferred**
 
 **Goal:** Hand the completed brand system off to the marketing layer.
 

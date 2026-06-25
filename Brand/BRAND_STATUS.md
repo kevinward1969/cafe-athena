@@ -1,6 +1,6 @@
 # Brand Status
 
-**Last Updated:** 2026-06-23
+**Last Updated:** 2026-06-24
 **Branch:** main
 
 ---
@@ -8,6 +8,13 @@
 ## Active Work
 
 _No active work. All phases complete._
+
+## Phase 5 — Revision (2026-06-24)
+
+- Social bios revised to apply Acquisition Register spec — `Brand/Author/bio-social.md`
+  - All four platforms rewritten: concrete nouns, no superlatives, no forbidden phrases
+  - Lead with real kitchen / real person / real problem across all versions
+  - Status updated from "Draft — Phase 2" to "Revised — Phase 5"
 
 ## Phase Status
 

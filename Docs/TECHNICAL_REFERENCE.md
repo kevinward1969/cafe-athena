@@ -380,23 +380,27 @@ All commands run in Claude Code. Definitions in `.claude/commands/`.
 |---------|----------|-------------|
 | **Claude Desktop — Chef** | Claude Desktop / Claude.ai Projects | Recipe development (Mode 1), manuscript formatting (Mode 2), technique education (Mode 3) |
 | **Claude Code — Chef sub-agent** | Claude Code (Antigravity) | All 3 modes + agentic file operations + slash-command workflows |
-| **Claude Code — Brand Manager sub-agent** | Claude Code (Antigravity) | Brand guidelines, audience personas, voice/tone, social strategy, marketing execution |
+| **Claude Code — Brand Manager sub-agent** | Claude Code (Antigravity) | Brand guidelines, audience personas, voice/tone, social strategy, marketing execution. Writing tasks redirect to Writing Director. |
+| **Claude Code — Writing Director sub-agent** | Claude Code (Antigravity) | All prose — author bios, About page, social captions, promotional copy, advertising, email, site hero copy. Pre-writing brief + paragraph approval gate enforced on every session. |
 | **Claude Code — Technical Director sub-agent** | Claude Code (Antigravity) | Site development (Astro), pipeline scripts, deploy operations, image optimization, agent/skill/command work |
 | **Claude Code — Markdownlint QA sub-agent** | Claude Code (Antigravity) | Two-stage markdown lint detection and repair pipeline |
 | **Claude Code — Recipe Clarity Auditor sub-agent** | Claude Code (Antigravity) | Instructional clarity audit — forward references, ambiguous parentheticals, unlisted ingredients |
 | **Gemini Gem 1 — The Chef** | Google Gemini Gems | Fallback surface for all 3 Chef modes — maintained, not primary |
 | **Gemini Gem 2 — Visual Director** | Google Gemini (Imagen) | Recipe hero images only (Lane 1) |
 
-### Canonical Agent Files
+### Canonical Agent Files & Surface Manifest
 
-| Agent | Canonical Master | Secondary Surfaces |
-|-------|-----------------|-------------------|
-| Chef | `.claude/agents/Cafe Athena Chef.agent.md` | `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` → paste to Claude Desktop; `Agents/Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md` → paste to Gem 1 |
-| Brand Manager | `.claude/agents/Cafe Athena Brand Manager.agent.md` | `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` → paste to Claude Desktop |
-| Technical Director | `.claude/agents/Cafe Athena Technical Director.agent.md` | `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` → paste to Claude Desktop |
-| Markdownlint QA | `.claude/agents/Markdownlint QA.agent.md` | None |
-| Recipe Clarity Auditor | `.claude/agents/Recipe Clarity Auditor.agent.md` | None |
-| Visual Director | `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | None |
+This is the authoritative surface manifest. Update it every time a new agent is created or a secondary surface is added. A blank "Secondary Surfaces" cell means no secondary surface exists — not that one was forgotten.
+
+| Agent | Canonical Master | Claude Desktop | Gemini Gem | Notes |
+|-------|-----------------|---------------|------------|-------|
+| Chef | `.claude/agents/Cafe Athena Chef.agent.md` | `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` | `Agents/Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md` (Gem 1) | CD is primary; Gem is fallback |
+| Brand Manager | `.claude/agents/Cafe Athena Brand Manager.agent.md` | `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` | None | Writing tasks redirect to Writing Director |
+| Writing Director | `.claude/agents/Cafe Athena Writing Director.agent.md` | None — Claude Code only | None | No CD or Gem surface by design — paragraph gate requires interactive session |
+| Technical Director | `.claude/agents/Cafe Athena Technical Director.agent.md` | `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` | None | |
+| Markdownlint QA | `.claude/agents/Markdownlint QA.agent.md` | None | None | |
+| Recipe Clarity Auditor | `.claude/agents/Recipe Clarity Auditor.agent.md` | None | None | |
+| Visual Director | `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | None | Gem 2 (canonical) | Gemini-native; no Claude Code surface |
 
 ### Version Bump Rule
 
