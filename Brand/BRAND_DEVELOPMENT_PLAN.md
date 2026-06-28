@@ -1,7 +1,7 @@
 # Café Athena — Brand Development Plan
 
-**Status:** Phase 5 revision in progress — see phase statuses below
-**Last Updated:** 2026-06-24
+**Status:** Phase 8 active — all prior phases complete
+**Last Updated:** 2026-06-28
 **Tracking:** See `BRAND_TODO.md` for task-level progress
 
 ---
@@ -107,9 +107,9 @@ This plan covers the full brand build for Café Athena — from scope definition
 **Deliverables:**
 
 - Author backstory (long-form narrative) ✓ — in `BRAND_GUIDELINES.md` §2
-- Author bio — long version (250–300 words, site/press) ✓ — `Author/bio-long.md`
-- Author bio — short version (2–3 sentences, site blurb) ✓ — `Author/bio-short.md`
-- Author bio — social versions (per-platform, per acquisition register) ✓ — rewritten to acquisition register 2026-06-24
+- Author bio — long version (250–300 words, site/press) ✓ — `Author/bio-long.md` — v1.0 2026-06-28
+- Author bio — short version (2–3 sentences, site blurb) ✓ — `Author/bio-short.md` — v1.0 2026-06-28
+- Author bio — social versions (per-platform, per acquisition register) ✓ — `Author/bio-social.md` — v1.0 full revision 2026-06-28 (all four platforms: Instagram, YouTube, Pinterest, Facebook)
 - Author photo brief ✓ — `Author/photo-brief.md`
 - Solo author headshot — still needed (specs in photo brief)
 
@@ -176,7 +176,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 **Current state:**
 
-- Instagram profile live (@cafeathena_themanual) — bio placeholder, pending Phase 5 rewrite
+- Instagram profile live (@cafeathena_themanual) — bio complete v1.0 2026-06-28
 - Channel briefs written for all three platforms
 - Post templates exist
 - Pinterest and YouTube accounts not yet created
