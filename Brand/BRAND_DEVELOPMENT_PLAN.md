@@ -2,6 +2,7 @@
 
 **Status:** Phase 8 active — all prior phases complete
 **Last Updated:** 2026-06-28
+**Last Updated:** 2026-06-28
 **Tracking:** See `BRAND_TODO.md` for task-level progress
 
 ---
@@ -27,19 +28,19 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 ## Phase 1 — Project Scope Definition
 
-**Status: Not started**
+**Status: Complete ✓**
 
 **Goal:** Define what Café Athena is and is not before any brand strategy is written. Everything downstream — positioning, voice, author bios, social copy — depends on a clear answer to "what is this thing?"
 
 **Deliverables:**
 
-- Scope statement — what the project covers (chapters, content types, technique range)
-- Out-of-scope statement — what it explicitly does not cover
-- Format and delivery definition — digital-first, how it is used, what it is not (not a blog, not a social account, not a restaurant guide)
-- Problem/solution statement — the specific problem it solves for the reader
+- Scope statement — what the project covers (chapters, content types, technique range) ✓
+- Out-of-scope statement — what it explicitly does not cover ✓
+- Format and delivery definition — digital-first, how it is used, what it is not (not a blog, not a social account, not a restaurant guide) ✓
+- Problem/solution statement — the specific problem it solves for the reader ✓
 
 **Primary surface:** Brand Manager
-**Output file:** `Brand/BRAND_SCOPE.md` — referenced by `BRAND_GUIDELINES.md` §1
+**Output file:** `Brand/BRAND_SCOPE.md` — complete 2026-06-24
 
 ---
 
@@ -176,10 +177,11 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 **Current state:**
 
-- Instagram profile live (@cafeathena_themanual) — bio complete v1.0 2026-06-28
+- Instagram live (@cafeathena_themanual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
 - Channel briefs written for all three platforms
-- Post templates exist
-- Pinterest and YouTube accounts not yet created
+- Post templates exist for all three platforms
+- Pinterest — not yet set up
+- YouTube — not yet set up
 
 ---
 
@@ -203,7 +205,7 @@ Phase 2 (Brand Foundation)
 
 | File | Purpose |
 |------|---------|
-| `Brand/BRAND_SCOPE.md` | Project scope definition — Phase 1 output (not yet written) |
+| `Brand/BRAND_SCOPE.md` | Project scope definition — Phase 1 output, complete 2026-06-24 |
 | `Resources/INDEX.md` | Which reference docs to load for each phase |
 | `BRAND_TODO.md` | Task-level tracking |
 | `BRAND_STATUS.md` | High-level status — updated at phase completion |

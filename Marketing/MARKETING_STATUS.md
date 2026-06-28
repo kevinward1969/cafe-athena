@@ -1,6 +1,6 @@
 # Marketing Status
 
-**Last Updated:** 2026-06-16
+**Last Updated:** 2026-06-28
 **Branch:** main
 
 ---
@@ -25,7 +25,7 @@ _No active tasks. Phase 7 site and social work complete._
 
 | Platform | Brief | Templates | Account | Status |
 |----------|-------|-----------|---------|--------|
-| Instagram | ✓ | ✓ | @cafeathena_themanual | Account created — profile setup in progress |
+| Instagram | ✓ | ✓ | @cafeathena_themanual | Live — first reel posted (06-07 Chicken and Dumplings, 2026-06-28) |
 | Pinterest | ✓ | ✓ | — | Not yet set up |
 | YouTube | ✓ | ✓ | — | Not yet set up |
 
