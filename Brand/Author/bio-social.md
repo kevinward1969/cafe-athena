@@ -1,6 +1,6 @@
 # Author Bio — Social (per-platform versions)
 
-**Status:** Complete — Phase 5
+**Status:** v1.0
 **Last Updated:** 2026-06-28
 
 ---

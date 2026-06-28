@@ -1,6 +1,6 @@
 # Author Bio — Short (site blurb, homepage / recipe pages)
 
-**Status:** Complete — Phase 5
+**Status:** v1.0
 **Last Updated:** 2026-06-28
 
 ---

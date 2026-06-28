@@ -1,6 +1,6 @@
 # Author Bio — Long (About page / press)
 
-**Status:** Draft — Phase 5
+**Status:** v1.0
 **Last Updated:** 2026-06-28
 
 ---
