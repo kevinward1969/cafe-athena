@@ -181,7 +181,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 - Pinterest live (pinterest.com/CafeAthenaTheManual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
 - Channel briefs written for all three platforms
 - Post templates exist for all three platforms
-- YouTube — not yet set up
+- YouTube live (youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA) — account created, two banner options in `Brand/Social/YouTube/`
 
 ---
 
