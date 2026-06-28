@@ -26,7 +26,7 @@ _No active tasks. Phase 7 site and social work complete._
 | Platform | Brief | Templates | Account | Status |
 |----------|-------|-----------|---------|--------|
 | Instagram | ✓ | ✓ | @cafeathena_themanual | Live — first reel posted (06-07 Chicken and Dumplings, 2026-06-28) |
-| Pinterest | ✓ | ✓ | — | Not yet set up |
+| Pinterest | ✓ | ✓ | — | In setup — account being created under `kevin@cafeathenathemanual.com` |
 | YouTube | ✓ | ✓ | — | Not yet set up |
 
 ## Protocols
