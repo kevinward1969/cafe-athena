@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-28 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.2 |
 | 2026-06-25c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.1 |
 | 2026-06-25b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.0 |
 | 2026-06-25 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.4 | v1.5 | v1.0 |
@@ -314,11 +315,12 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Writing Director
 
 **File:** `.claude/agents/Cafe Athena Writing Director.agent.md`
-**Current Version:** 1.1
+**Current Version:** 1.2
 **Status:** Canonical master — no secondary surfaces by design (paragraph approval gate requires interactive session).
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.2 | 2026-06-28 | Added three editorial principles to Writing Standards, derived from WIRED-editor review of bio-long.md: (1) Narrative order — emotional anchor before mechanical explanation in any origin story or arc; (2) Authority and concession — never retreat into a self-deprecating list after establishing credentials; close the authority-building move with a statement, not a concession; (3) Closing sentences earn the paragraph — the final sentence must match or exceed the paragraph's best moment; a weak close is worse than an honest functional close. |
 | v1.1 | 2026-06-25 | Replaced absolute "cut all brand names" rule with judgment-based guidance: brand names are not banned — they require judgment and must be used well and appropriately. Earned, narrative-serving brand names (specific personal tools, story-grounding details) may stay; brand names functioning as product placement or tech-industry shorthand are still cut. |
 | v1.0 | 2026-06-25 | Initial release. Three-mode system (Draft, Edit, Standards Audit). Owns all prose surfaces — author bios, About page, social captions, promotional copy, email, site hero copy. Pre-writing brief mandatory in Mode 1; paragraph-by-paragraph approval gate in all modes; no file writes until full piece approved. Session start reads BRAND_GUIDELINES.md §5–§6 and writing-exemplars.md before every session. |
 
