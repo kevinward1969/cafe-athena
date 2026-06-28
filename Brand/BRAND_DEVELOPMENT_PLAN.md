@@ -178,9 +178,9 @@ This plan covers the full brand build for Café Athena — from scope definition
 **Current state:**
 
 - Instagram live (@cafeathena_themanual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
+- Pinterest live (pinterest.com/CafeAthenaTheManual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
 - Channel briefs written for all three platforms
 - Post templates exist for all three platforms
-- Pinterest — not yet set up
 - YouTube — not yet set up
 
 ---
