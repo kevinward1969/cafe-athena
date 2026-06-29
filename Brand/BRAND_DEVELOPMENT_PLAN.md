@@ -135,7 +135,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 - Social template visual specs ✓
 - §8 Visual Asset System: Educational/Companion Content ✓
 - §9 Asset Naming & Specifications ✓
-- Visual Director Gem brief expansion for brand asset modes ← deferred to when social channels are active
+- Visual Director Gem brief expansion for brand asset modes ✓ — Mode 4 (Social Brand Assets) added to Visual Director Gem v2.4, 2026-06-28
 
 **Output files:** `BRAND_GUIDELINES.md` §3–4, §7–9, `Creative/visual-system.md`
 
@@ -187,7 +187,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 **Deferred (Phase 8 follow-on):**
 
 - Brand strategy scorecard review ✓ — `Brand/Scorecards/BRAND_STRATEGY_SCORECARD_2026-06-28.md` 2026-06-28
-- Visual Director Gem brief expansion for brand asset modes — activate when social channels need custom graphics beyond reel templates
+- Visual Director Gem brief expansion for brand asset modes ✓ — Mode 4 added 2026-06-28
 - Cross-check personas against positioning statement ✓ — complete 2026-06-28
 
 ---
