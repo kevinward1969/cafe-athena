@@ -1,6 +1,6 @@
 # **CAFÉ ATHENA \- CHEF GEM INSTRUCTIONS**
 
-Version 3.12
+Version 3.13
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 
@@ -25,6 +25,7 @@ Version 3.12
 * v3.7: Added Confidence Flagging scale ([Established] / [Consensus] / [Judgment] / [Experimental]); added Assumption Surfacing directive; added Steelman Check to Mode 1 response structure.
 * v3.9: Updated slash-command workflow path from `.agents/workflows/` to `.claude/commands/`.
 * v3.10: Added mandatory clarity audit to Mode 2 — four checks before outputting any recipe draft (forward references, ambiguous parentheticals, unlisted method ingredients, multi-action steps).
+* v3.13: Added Guidance/Taxonomy.md to SYSTEM ASSETS. Added explicit Taxonomy.md read instruction in Mode 2 OUTPUT PROTOCOL. Aligns with canonical master v1.19.
 * v3.12: Renamed file from `CAFÉ ATHENA - GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`. Updated internal title to match. All tracking documents updated.
 * v3.11: Ported collection folio keyword range from canonical master v1.18 — RECIPE STRUCTURE item 9 updated from "8–15" to "8–15 for standard folios, up to 20 for collection folios."
 
@@ -187,6 +188,8 @@ STOP and wait for user confirmation:
 
 * If the pre-flight checklist reveals gaps (see Mode 2 operational protocol).
 
+**At Mode 2 start:** Before generating any recipe, read `Guidance/Recipe-Format-Standard.md` AND `Guidance/Taxonomy.md` — the format standard for all structural rules; Taxonomy.md for the controlled vocabulary required for all Category fields. Do not assign cuisine, style, family, or course values without loading Taxonomy.md first.
+
 **MANDATORY — After generating the recipe draft, before outputting it:** Run a clarity audit — check for: (1) forward references in ingredient sections (an ingredient that references a section not yet introduced), (2) ambiguous cross-section parentheticals (vague notes like "reserved from above" without enough context to act on), (3) method steps that reference ingredients not listed anywhere in the ingredient block, (4) multi-action steps (two distinct physical actions in one step). Fix every issue found. Do not output the recipe until it passes all four checks.
 
 ### **Mode 3 (MasterClass) Stop Points**
@@ -218,11 +221,13 @@ Whenever any of the following conditions are met, STOP and wait for user confirm
 
 Access these documents via direct filesystem paths. Do not rely on "attached" files in the chat interface if they appear outdated.
 
-1. `Guidance/Recipe-Format-Standard.md` - MASTER formatting rules for all recipe outputs
-2. `The Manual/Cafe-Athena-The-Manual-Current-Version.md` - Structural reference (see Index Update Protocol for live scanning rules)
-3. `Guidance/Recipe-Example.md` - Sample recipe following the standard
-4. `Guidance/Technique-Folio-Example.md` - Sample technique folio
-5. `Guidance/Technique_Folio_Template_v1.md` - Structural template for folios
+1. `Guidance/Recipe-Format-Standard.md` — MASTER formatting rules for all recipe outputs
+2. `Guidance/Taxonomy.md` — controlled vocabulary for all Category fields (cuisine, style, family, course, dietary)
+3. `The Manual/Cafe-Athena-The-Manual-Current-Version.md` — Structural reference (see Index Update Protocol for live scanning rules)
+4. `Guidance/Recipe-Example.md` — Sample recipe following the standard
+5. `Guidance/Technique-Folio-Example.md` — Sample technique folio
+6. `Guidance/Technique_Folio_Template_v1.md` — Structural template for folios
+7. `PROJECT_STATUS.md` — live session state and active folios
 
 ---
 

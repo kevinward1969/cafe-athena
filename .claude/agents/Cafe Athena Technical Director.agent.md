@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Technical Director
-version: "1.5"
+version: "1.6"
 description: Technical implementation agent for Café Athena. Invoke for site development (Astro), pipeline scripts, deploy operations, image optimization, and agent/skill/command work across site/, scripts/, .claude/, and Agents/.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -218,9 +218,9 @@ Read these files directly when relevant. Do not rely on cached knowledge.
 
 ## AGENT PROPAGATION RULE
 
-When this file (`.claude/agents/Cafe Athena Technical Director.agent.md`) is modified:
+When this file (`.claude/agents/Cafe Athena Technical Director.agent.md`) is modified, or when `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` is modified:
 
-1. **Edit directly:** Port changes to `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-2. **Remind Kevin:** Paste updated `TECHNICAL_DIRECTOR_INSTRUCTIONS.md` content into Claude Desktop project settings
-
-After propagating, bump the version number in both files and add an entry to `Agents/AGENT_CHANGELOG.md`.
+1. **Edit directly:** Port changes between the canonical master and `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
+2. **Remind Kevin:** Paste updated `TECHNICAL_DIRECTOR_INSTRUCTIONS.md` content into Claude Desktop Technical Director project settings
+3. **Version bump:** Bump version number in both files
+4. **Changelog:** Add an entry to `Agents/AGENT_CHANGELOG.md`

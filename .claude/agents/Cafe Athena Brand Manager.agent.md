@@ -8,7 +8,7 @@ tools: Read, Write, Edit, Grep, Glob, Bash
 > **CANONICAL MASTER** — This file (`.claude/agents/Cafe Athena Brand Manager.agent.md`) is the authoritative version of the Brand Manager system prompt. When updating, edit this file first, then port changes to the secondary surface. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
 > Secondary surface:
-> - `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` (Claude Desktop)
+> - `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` (Claude Desktop — currently v1.16)
 
 ---
 

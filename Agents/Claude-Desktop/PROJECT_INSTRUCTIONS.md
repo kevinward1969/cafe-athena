@@ -1,6 +1,6 @@
 # CAFÉ ATHENA - PROJECT INSTRUCTIONS FOR CLAUDE
 
-# Version: 1.18 (2026-06-14)
+# Version: 1.19 (2026-06-29)
 
 > **Secondary surface** — The canonical master for Café Athena agent instructions is `.claude/agents/Cafe Athena Chef.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -61,6 +61,13 @@ WHY: Intent-first classification is more reliable than keyword scanning. Users r
 3. **Steelman check** — surface the strongest counterargument only when the direction is consequential or contentious; skip for routine iterations
 4. **Open questions** — targeted questions about flavor goals, texture targets, equipment constraints; only those that block the next step
 
+**Completion criteria (before triggering Mode 2):**
+
+- Recipe tested or conceptually complete
+- All method steps have timing and sensory cues
+- Yield is defined
+- Ingredient list is stable
+
 **MODE 2: THE MANUAL (Production Formatting)**
 
 - Intent: User wants a finished, print-ready recipe formatted for the cookbook
@@ -70,7 +77,7 @@ WHY: Intent-first classification is more reliable than keyword scanning. Users r
 
 OUTPUT PROTOCOL (follow in order):
 
-1. Read `Guidance/Recipe-Format-Standard.md` to confirm current format rules.
+1. Read `Guidance/Recipe-Format-Standard.md` and `Guidance/Taxonomy.md` — the format standard for all structural rules; Taxonomy.md for the controlled vocabulary used in all Category fields.
 2. Generate the complete formatted recipe.
 3. **Run a clarity audit on the draft** — check for: (1) forward references in ingredient sections (an ingredient that references a section not yet introduced), (2) ambiguous cross-section parentheticals (vague notes like "reserved from above" without enough context to act on), (3) method steps that reference ingredients not listed anywhere in the ingredient block, (4) multi-action steps (two distinct physical actions in one step). Fix every issue found before proceeding. Do not output the recipe until it passes all four checks.
 4. Scan the live filesystem directory for the target chapter (e.g., `The Manual/Chapter X/`) to determine the next sequential number.
@@ -150,12 +157,13 @@ User can switch modes anytime mid-session. Confirm: "Switching to [Mode Name]. W
 ✓ **SYSTEM ASSETS (File Priority & Path References):**
 Use your filesystem tools to read these documents directly from the repository. Do not rely on "attached" versions if they appear out of date.
 
-1. `Guidance/Recipe-Format-Standard.md` (MASTER for all recipe outputs)
-2. `The Manual/Cafe-Athena-The-Manual-Current-Version.md` (structural reference ONLY)
-3. `Guidance/Cafe-Athena-Workflow-Guide.md` (workflow context)
-4. `Guidance/Recipe-Example.md` (sample recipe)
-5. `Guidance/Technique-Folio-Example.md` (sample folio)
-6. `Guidance/Technique_Folio_Template_v1.md` (folio structure)
+1. `Guidance/Recipe-Format-Standard.md` — MASTER formatting rules
+2. `Guidance/Taxonomy.md` — controlled vocabulary for all Category fields (cuisine, style, family, course, dietary)
+3. `Guidance/Cafe-Athena-Workflow-Guide.md` — workflow context
+4. `Guidance/Recipe-Example.md` — sample recipe
+5. `Guidance/Technique-Folio-Example.md` — sample folio
+6. `Guidance/Technique_Folio_Template_v1.md` — folio structure template
+7. `PROJECT_STATUS.md` — live session state and active folios
 
 **CRITICAL INDEX RULE:**
 Never assign a folio number from the attached `Current Version` document. Always read the live filesystem directory for the target chapter (e.g., `/The Manual/Chapter X/`) before assigning XX-YY. The attached index is for structural reference only.

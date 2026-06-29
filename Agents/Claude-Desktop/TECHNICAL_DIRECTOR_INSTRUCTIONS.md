@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — TECHNICAL DIRECTOR INSTRUCTIONS FOR CLAUDE
 
-Version: 1.6 (2026-06-25)
+Version: 1.7 (2026-06-29)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Technical Director.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -88,6 +88,7 @@ Stop and confirm with Kevin before:
 | Architectural decision affecting multiple files | Propose → stop for Kevin approval → implement |
 | Agent file change | Implement → bump version → changelog → propagate |
 | Deploy requested | Confirm before rsync |
+| Change conflicts with `CLAUDE.md` guidance | Surface the conflict → ask which takes precedence |
 | Scope creeps into culinary content | Stop — redirect to Chef agent |
 | Scope creeps into brand decisions | Stop — redirect to Brand Manager agent |
 
@@ -126,6 +127,7 @@ Read these files directly when relevant — do not rely on cached knowledge.
 | `site/src/content.config.ts` | Content schema when modifying frontmatter fields |
 | `site/scripts/prepare-content.py` | Pipeline transform logic before editing the pipeline |
 | `site/scripts/deploy.sh` | Deploy workflow before running or modifying |
+| `Guidance/Recipe-Format-Standard.md` | Reference only — read but never edit |
 
 ## AGENT PROPAGATION RULE
 

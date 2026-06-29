@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-29 | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.3 | v1.16 | v1.6 | v1.7 | v1.3 |
 | 2026-06-28f | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.3 | v1.14 | v1.5 | v1.6 | v1.3 |
 | 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
@@ -67,10 +68,11 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 **File:** `Agents/Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`  
 **Status:** Maintained as a fallback surface. Not the primary creative surface (Claude Desktop holds that role), but kept in sync with canonical master updates when practical.  
-**Current Version:** 3.12
+**Current Version:** 3.13
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v3.13 | 2026-06-29 | Added `Guidance/Taxonomy.md` to SYSTEM ASSETS (item 2). Added `PROJECT_STATUS.md` to SYSTEM ASSETS (item 7). Added explicit Mode 2 start instruction to read both Recipe-Format-Standard.md and Taxonomy.md before generating Category fields. Closes audit-detected gap: Taxonomy.md was referenced in FORMATTING NOTES but not loaded. Aligns with canonical master v1.19. |
 | v3.12 | 2026-06-11 | Renamed file from `CAFÉ ATHENA - GEM INSTRUCTIONS.md` to `CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md`. Updated internal title. All tracking documents updated. |
 | v3.11 | 2026-06-11 | Ported collection folio keyword range from canonical master v1.18 — RECIPE STRUCTURE item 9 updated from "8–15 comma-separated tags" to "8–15 for standard folios, up to 20 for collection folios." Backfilled missing v3.9 and v3.10 entries into the in-file VERSION HISTORY. |
 | v3.0 | — | Initial release. Mode invoker system, consolidated format standard. |
@@ -90,10 +92,11 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 ## Claude Desktop Agent
 
 **File:** `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`  
-**Current Version:** 1.18
+**Current Version:** 1.19
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.19 | 2026-06-29 | Three patches from audit: (1) Mode 2 Output Protocol Step 1 updated to read both Recipe-Format-Standard.md AND Taxonomy.md (was Recipe-Format-Standard.md only — critical gap for Category generation). (2) SYSTEM ASSETS updated: item 2 changed from The Manual Current Version index to Taxonomy.md; PROJECT_STATUS.md added as item 7; Current Version doc removed from assets list (still referenced in INDEX RULE). (3) Mode 1 completion criteria checklist added (recipe complete, all steps have timing/sensory cues, yield defined, ingredient list stable). |
 | v1.0 | — | Initial release. Three-mode system prompt for Claude Desktop / Claude.ai Projects. |
 | v1.1 | 2026-03-12 | Full audit pass (see `Claude-Desktop/CD-Audit.md` for details). Key changes: replaced keyword-based mode detection with intent classification; added Mode 2 INDEX VERIFICATION block; added multi-intent request handler; added folio index protocol to Mode 3; added persona tone directives per mode; added version header; fixed line-count discrepancy in COPY_PASTE_TEMPLATE.md. |
 | v1.2 | 2026-04-04 | Added secondary surface notice and canonical master cross-reference to header. Added Mode 2 step 8: CLAUDE CODE HANDOFF block (`/register-recipe [XX-YY]`) output after user confirms recipe is written to The Manual. Added update reminder note to header. |
@@ -270,10 +273,13 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.11
+**Current Version:** 1.16
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.16 | 2026-06-29 | Minor audit fix: expanded anti-sycophancy guidance in PERSONA from a single vague sentence to the canonical's full format template — "This conflicts with [specific guideline]. My recommendation: [alternative]. Proceed with your version or the recommendation?" |
+| v1.15 | 2026-06-29 | Audit fixes: (1) Session Start item 4 hardcoded GitHub URL for `MARKETING_STRATEGY_2026-06-28.md` replaced with instruction to read most recent date-stamped file in `Marketing/Marketing_Strategy/` — eliminates URL that would break on next strategy update. Item 3 converted from GitHub raw URL to local path. (2) DECISION PROTOCOL table added — 5-row act-vs-ask guidance matching canonical v2.3. (3) Canonical header updated with Desktop version pointer. |
+| v1.14 | 2026-06-28 | Ported from canonical master v2.3: Marketing Content folder restructure — all Social/, NotebookLM/, Site-Copy/ paths updated to Marketing Content/ subdirectories. |
 | v1.11 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START (item 6) and KEY FILES table. Ported from canonical master v2.0. |
 | v1.9 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.8. BRAND CONTEXT section renamed to BRAND REFERENCE — baked-in bullets removed, replaced with explicit instruction to read `Brand/BRAND_GUIDELINES.md`. SESSION START item 5: removed "*(once it exists)*" caveat. KEY FILES table: BRAND_GUIDELINES.md row updated to "Maintain as master brand reference — read at every session." BRAND GUIDELINES BUILD SEQUENCE: framing updated to "when expanding or revising." |
 | v1.6 | 2026-06-22 | Mode 4 renamed to "Asset Production." Added Firefly (Kling 3.0 Omni) as primary video tool with settings table and prompt pattern. Added Adobe Express as primary assembly tool with workflow steps. Tool routing table added. FFmpeg retained as backup. Disambiguation and Out-of-Scope redirect updated. Ported from canonical master v1.5. |
@@ -289,13 +295,14 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Technical Director
 
 **File:** `.claude/agents/Cafe Athena Technical Director.agent.md`
-**Current Version:** 1.5
+**Current Version:** 1.6
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.6 | 2026-06-29 | Audit fix — ported bidirectional Agent Propagation Rule from Desktop v1.6 (Desktop had been updated on 2026-06-25 but canonical was never brought up). Rule now explicitly covers both directions (canonical → Desktop and Desktop → canonical) with 4 numbered steps: Edit directly, Remind Kevin, Version bump, Changelog. |
 | v1.5 | 2026-06-25 | Phase 1 audit fix — canonical bumped to match CD v1.5 (CD had been edited directly on 2026-06-24, wrong direction). No content changes to canonical. Ported full ECC skills table to CD v1.6 (9 entries were missing from the compact CD port). |
 | v1.4 | 2026-06-24 | Phase 4 RAG audit. SESSION START PROTOCOL item 4: replaced stale `.claude/SKILLS_INDEX.md` (retired in Phase 2) with `Docs/TECHNICAL_REFERENCE.md` with explicit read instruction. SYSTEM ASSETS table: replaced `.claude/SKILLS_INDEX.md` row with `Docs/TECHNICAL_REFERENCE.md`; updated CLAUDE.md row description to reflect it is now the behavioral contract, not the architecture reference. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.5. |
 | v1.3 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com` in role description. Ported to TECHNICAL_DIRECTOR_INSTRUCTIONS.md v1.4. |
@@ -308,10 +315,11 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Technical Director
 
 **File:** `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
-**Current Version:** 1.6
+**Current Version:** 1.7
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.7 | 2026-06-29 | Minor audit fixes: (1) Added `Guidance/Recipe-Format-Standard.md` to SYSTEM ASSETS (reference only — matches canonical). (2) Added "Change conflicts with CLAUDE.md → Surface conflict → ask which takes precedence" row to DECISION PROTOCOL (was present in canonical, missing from CD). |
 | v1.6 | 2026-06-25 | Phase 1 audit fix — restored 9 ECC skills missing from compact CD port: `architect`, `blueprint`, `agentic-engineering`, `python-reviewer`, `code-reviewer`, `security-review`, `tdd`, `context-budget`, `claude-api`. CD skills table now matches canonical. |
 | v1.5 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.4. SESSION START item 4: replaced `.claude/SKILLS_INDEX.md` with `Docs/TECHNICAL_REFERENCE.md`. SYSTEM ASSETS table: added `Docs/TECHNICAL_REFERENCE.md` row; updated CLAUDE.md row description. |
 | v1.4 | 2026-06-22 | Domain change — updated site URL from `cookbook.kevinward.com` to `cafeathenathemanual.com`. Ported from canonical master v1.3. |
