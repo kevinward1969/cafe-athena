@@ -150,7 +150,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 - All 10 sections complete ✓
 - Full consistency QA ✓
-- Brand strategy scorecard review ✓ — `Brand/BRAND_STRATEGY_SCORECARD.md` 2026-06-28
+- Brand strategy scorecard review ✓ — `Brand/Scorecards/BRAND_STRATEGY_SCORECARD_2026-06-28.md` 2026-06-28
 
 **Primary surface:** Brand Manager + Claude Code
 **Resources to load:** `brand_strategy_scorecard.xlsx`
@@ -185,7 +185,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 **Deferred (Phase 8 follow-on):**
 
-- Brand strategy scorecard review ✓ — `Brand/BRAND_STRATEGY_SCORECARD.md` 2026-06-28
+- Brand strategy scorecard review ✓ — `Brand/Scorecards/BRAND_STRATEGY_SCORECARD_2026-06-28.md` 2026-06-28
 - Visual Director Gem brief expansion for brand asset modes — activate when social channels need custom graphics beyond reel templates
 - Cross-check personas against positioning statement — deferred from Phase 3
 

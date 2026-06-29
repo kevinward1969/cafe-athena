@@ -11,7 +11,7 @@ _No active work. All phases complete. Scorecard written — execution phase begi
 
 ## Scorecard Completed (2026-06-28)
 
-- `Brand/BRAND_STRATEGY_SCORECARD.md` — drafted, four objectives covering audience growth, brand consistency, content pipeline, and positioning/awareness
+- `Brand/Scorecards/BRAND_STRATEGY_SCORECARD_2026-06-28.md` — drafted, four objectives covering audience growth, brand consistency, content pipeline, and positioning/awareness
 - Replaces the generic Excel template placeholder from Phase 7 deliverable list
 - All KPIs grounded in current state: three social channels live as of 2026-06-28, manuscript in production, site deployed
 
