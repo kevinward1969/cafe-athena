@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.0 | v1.11 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.2 |
@@ -184,10 +185,11 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Gemini Gem 2 — The Visual Director
 
 **File:** `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`  
-**Current Version:** 2.3
+**Current Version:** 2.4
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.4 | 2026-06-28 | Added Mode 4 — Social Brand Assets. Three sub-types: Sub-Type A (Social Recipe Card — new image at platform aspect ratio using Mode 1 style: 1:1, 9:16, 2:3, 1.91:1), Sub-Type B (Announcement Graphic — flat design for chapter launches and milestones, parchment or charcoal background), Sub-Type C (Content Card — atmospheric background with panel zone for text overlays). Shared rules across all sub-types: wordmark in post-production, olive gold required, Cormorant Garamond + Inter hierarchy, max 3 elements, no typography baked into generated image. Triggered by social channels going live 2026-06-28. Closes BRAND_TODO.md Phase 5 item. |
 | v2.3 | 2026-06-22 | Updated site URL reference from cookbook.kevinward.com to cafeathenathemanual.com. |
 | v2.2 | 2026-06-11 | Fixed broken markdown table separator in Mode 3 section-specific guidance (`---- ----` → `----`). Added reference image fallback to Mode 1: if Gem UI attachments are missing, written style descriptions serve as the fallback standard — do not interpolate generic food photography defaults. |
 | v2.1 | 2026-06-10 | Revised people/faces rules. Mode 1 (recipe heroes): "No people or hands" replaced with "no faces/full figures; hands actively engaging with cookware or food are permitted." Mode 2 (banners): removed "No people or hands" restriction — people including faces are acceptable. Mode 3 (section landing): removed face exclusion rule — full figures including faces are permitted. Added Glossary exception to Mode 3 text suppression: legible text in open books/notebooks is acceptable and encouraged. |

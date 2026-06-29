@@ -1,17 +1,23 @@
 # Social Channels
 
-**Status:** Instagram profile live (@cafeathena_themanual) — first post pending. Pinterest and YouTube not yet set up.
+**Status:** All three channels live as of 2026-06-28 — first post published on each (06-07 Chicken and Dumplings).
 
 ---
 
 ## Channel Registry
 
-| Platform | Handle | Status | Notes |
-|----------|--------|--------|-------|
-| Instagram | @cafeathena_themanual | Account created — profile setup in progress | [instagram.com/cafeathena_themanual](https://www.instagram.com/cafeathena_themanual/) |
-| YouTube | — | Not set up | |
-| Pinterest | — | Not set up | |
-| Facebook | — | Not in strategy | Excluded — none of the three personas use Facebook for cooking content; content model (technique-forward, depth-first) doesn't match platform mechanics; no role that Instagram, Pinterest, or YouTube doesn't already fill. |
+| Platform | Handle | URL | Status |
+|----------|--------|-----|--------|
+| Instagram | @cafeathena_themanual | [instagram.com/cafeathena_themanual](https://www.instagram.com/cafeathena_themanual/) | Live — first reel posted 2026-06-28 |
+| Pinterest | CafeAthenaTheManual | [pinterest.com/CafeAthenaTheManual](https://www.pinterest.com/CafeAthenaTheManual/) | Live — first pin posted 2026-06-28 |
+| YouTube | — | [youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA](https://www.youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA) | Live — first Short posted 2026-06-28 |
+| Facebook | — | — | Not in strategy — none of the three personas use Facebook for cooking content; content model doesn't match platform mechanics. |
+
+## Design Tools
+
+| Tool | URL | Role |
+|------|-----|------|
+| Adobe Express Project Folder | [Café Athena — The Manual](https://express.adobe.com/your-stuff/projects/urn:aaid:sc:US:4a65052f-ef4a-4453-a231-0980da154d1c) | Primary workspace — social template assembly, brand asset production, video editing |
 
 ## Profile Image Asset
 

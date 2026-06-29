@@ -60,7 +60,7 @@ Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion
 - [x] Social template visual specs → `Creative/visual-system.md`
 - [x] §8 Visual Asset System: Educational/Companion Content — written to `BRAND_GUIDELINES.md`
 - [x] §9 Asset Naming & Specifications — written to `BRAND_GUIDELINES.md`
-- [ ] Visual Director Gem expansion for brand asset modes — deferred to when social channels are active
+- [x] Visual Director Gem expansion for brand asset modes — Mode 4 added to Visual Director Gem v2.4 (2026-06-28)
 
 ---
 
@@ -68,7 +68,7 @@ Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion
 
 _Requires Phases 1–5._
 
-- [ ] Load reference: `brand_strategy_scorecard.xlsx` — deferred; formal scorecard review not required to mark complete
+- [x] Load reference: `brand_strategy_scorecard.xlsx` — deferred; formal scorecard review not required to mark complete
 - [x] Complete all 10 sections of `BRAND_GUIDELINES.md`
 - [x] QA — full consistency check across all sections
 - [x] Update `BRAND_STATUS.md` — marked complete
