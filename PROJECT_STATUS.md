@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-28
+Last Updated: 2026-06-28 (session 2)
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -62,6 +62,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 
 ## 📐 Strategic Context & Learnings
 
+- **Marketing folder restructure complete (2026-06-28, session 2):** Full reorganization of the `Marketing/` folder. `Marketing/Marketing_Strategy/` now houses all strategy docs (active + archived, archived is gitignored). `Marketing/Marketing Content/` now houses all produced content — `Social/`, `NotebookLM/`, and `Site-Copy/` moved here. `MARKETING_STATUS.md` simplified to a lean pointer doc (Current Documents section links to active strategy and calendar). `MARKETING_CALENDAR_2026.md` created as the weekly production tracker and posted content log. Path references updated across BRAND_GUIDELINES.md, TECHNICAL_REFERENCE.md, CLAUDE.md, PROJECT_STATUS.md, both Brand Manager surfaces (v2.3 / v1.14), Writing Director (v1.3), and all Social/ template self-references. All committed and pushed.
 - **Phase 1 agent audit complete (2026-06-25, session 62):** All non-Chef agent documentation gaps closed. `TECHNICAL_REFERENCE.md` §8 Division of Labor and §9 Skills Map both updated with Writing Director. `CLAUDE.md` updated: Writing Director in Key Files table, `writing-exemplars.md` in Key Files table, Writing Director in Version Bump Rule list, Writing Director auto-trigger section added. Technical Director canonical bumped to v1.5 (was behind CD at v1.5); CD restored to v1.6 with full ECC skills table (9 entries were missing from compact port). `MULTI_AGENT_ARCHITECTURE.md` updated to v1.4 — agent inventory, architecture diagram, and quick reference all reflect current 11-surface system.
 - **Writing Director brand names rule (2026-06-25):** Rule updated from "cut all brand names" to "use brand names well and appropriately." Earned, narrative-serving brand names (e.g., "OneNote" as the specific archiving tool) may stay. Brand names functioning as product placement or tech-industry shorthand (Samsung, Gemini, "AI Chef Agent") get cut. Writing Director bumped to v1.1. Feedback saved to memory.
 - **Writing Director agent (2026-06-25):** New dedicated agent for all prose — author bios, About page, social captions, promotional copy, advertising, email. Three modes: Mode 1 Draft (pre-writing brief + paragraph-gate approval), Mode 2 Edit (diagnosis before rewrite), Mode 3 Standards Audit. Brand Manager v1.9 now redirects all write/draft/create keywords to Writing Director. Writing-exemplars.md seeded with two approved bio paragraphs as the voice baseline. Writing Director is Claude Code only — no CD or Gem surface by design (paragraph gate requires interactive session).
