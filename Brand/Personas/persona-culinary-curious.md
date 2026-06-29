@@ -98,3 +98,15 @@ The honesty. A resource that says "this takes four hours and it's worth it" is m
 **Inaccessibility to a developing cook.** If she has to already know something to use the site well, she's not the intended audience. She's close to that line, and she knows it. A resource that assumes professional-level knowledge would lose her quickly — and she'd assume it's not for her, even if she's closer than she thinks.
 
 **No sense of progression.** She wants to feel like there's somewhere to go. A resource that's just a recipe database — even a well-organized one — doesn't hold her. She needs to feel like engaging with it will make her better.
+
+---
+
+## What Wins Her at the Acquisition Moment
+
+She arrived because something earned a click — a caption that didn't sound like content, a search result that actually explained something, a video that slowed down where other videos sped up. The landing page has one job: confirm that the brand is what the entry point implied.
+
+**Lead with the organizing logic.** The decisive hook is not the recipe count or the production quality — it's that the book is structured in a way that makes her better over time. "Organized by technique" lands. "90+ recipes" doesn't move her. She doesn't need more recipes.
+
+**The voice has to hold.** She reads a few sentences and knows immediately whether the writing is produced or written. If the headnote on the first recipe she opens reads like a food blog, she's gone. The manuscript register and the acquisition register have to feel like the same person.
+
+**The close is the newsletter, not a hard CTA.** She makes deliberate decisions. A well-written email she can evaluate over time — a technique explanation, a single deeply-written recipe — is more likely to convert her than "start cooking today." Give her something worth receiving and let the relationship develop.

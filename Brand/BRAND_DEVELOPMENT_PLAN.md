@@ -75,6 +75,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 - Persona 2: The Culinary Curious ✓
 - Persona 3: The Kitchen Experimenter ✓
 - Cross-check all personas against positioning statement ✓ — complete 2026-06-28; Persona 2 strengthened
+- Expand Persona 2 with acquisition moment guidance ✓ — "What Wins Her at the Acquisition Moment" added to persona-culinary-curious.md
 
 **Output files:** `Personas/persona-serious-home-cook.md`, `Personas/persona-culinary-curious.md`, `Personas/persona-kitchen-experimenter.md`
 

@@ -94,11 +94,15 @@ _No active work. All phases complete. Scorecard written — execution phase begi
 - Persona 2 (The Culinary Curious) strengthened — three additions: pre-carry-forward acknowledgment, entry-point clarity ("How She First Encounters Café Athena"), decisive hook revision in "What Draws Her"
 - `Brand/Personas/persona-culinary-curious.md` updated and committed
 
+## Phase 3 Cross-Check — Fully Complete (2026-06-28)
+
+- Persona 2 acquisition moment guidance added — "What Wins Her at the Acquisition Moment" written to `Brand/Personas/persona-culinary-curious.md`
+- Phase 3 now fully closed across BRAND_TODO.md and BRAND_DEVELOPMENT_PLAN.md
+
 ## Deferred
 
 - Newsletter capture — revisit after social channels are live and audience exists
 - Author photo brief — needs photo shoot or Visual Director brief
-- Acquisition Register §6 Persona 2 guidance — expand to define what wins her at acquisition moment; follows from 2026-06-28 cross-check findings
 
 ---
 

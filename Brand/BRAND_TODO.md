@@ -37,7 +37,7 @@ Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion
 - [x] Create `Personas/persona-culinary-curious.md`
 - [x] Create `Personas/persona-kitchen-experimenter.md`
 - [x] Cross-check personas against positioning statement — complete 2026-06-28; Persona 2 strengthened (entry-point clarity, decisive hook, pre-carry-forward acknowledgment added)
-- [ ] Update Acquisition Register §6 Persona 2 guidance — expand to address what wins her at acquisition moment; follows from cross-check findings
+- [x] Expand persona-culinary-curious.md — add "What Wins Her at the Acquisition Moment" section; follows from 2026-06-28 cross-check findings
 
 ---
 
