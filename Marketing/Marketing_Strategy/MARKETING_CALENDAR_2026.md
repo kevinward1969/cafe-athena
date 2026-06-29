@@ -1,6 +1,6 @@
 # Café Athena — Marketing Calendar 2026
 
-**Last Updated:** 2026-06-28
+**Last Updated:** 2026-06-29
 **Active Strategy:** `Marketing/Marketing_Strategy/MARKETING_STRATEGY_2026-06-28.md`
 
 ---
@@ -13,6 +13,22 @@
 | 🔧 | In production |
 | 📅 | Scheduled |
 | ✅ | Posted |
+
+---
+
+## Standard Weekly Posting Schedule
+
+Template based on platform research (`Marketing/Research/social-media-posting-times-2026.md`, 2026-06-29). Apply to each week's specific dates when batch-scheduling.
+
+| Day | Content | Platform | Time |
+|---|---|---|---|
+| Tuesday | EXPO Post | Site publish | Any time |
+| Tuesday | EXPO — Pinterest pin | Pinterest | 8–11pm |
+| Wednesday | Recipe Reel | Instagram | 6–9pm |
+| Thursday | Technique Reel | Instagram | 9am |
+| Friday | Technique — Video Overview + Short | YouTube | 2–5pm |
+| Saturday | Technique — Infographic + Document Pin | Pinterest | 8–11pm |
+| Sunday | Recipe — Video Pin | Pinterest | 8–11pm |
 
 ---
 
@@ -33,35 +49,35 @@ _Target: 4-week advance content buffer. Requires EXPO scheduled publishing (Tech
 
 ### Week of July 7
 
-| Piece | Folio | Status | Platforms | Notes |
+| Piece | Folio | Status | Platforms | Post Day |
 |---|---|---|---|---|
-| EXPO Post | — | 🔲 | Site → social push | |
-| Technique Reel | — | 🔲 | Instagram | |
-| Recipe Reel | — | 🔲 | Instagram / YouTube Short / Pinterest | |
+| EXPO Post | 06-04 | 🔲 | Site → Instagram feed + Pinterest pin + YouTube Community | Tue Jul 8 |
+| Technique Reel | 01-01 | 🔲 | Instagram Reel / YouTube Short + Video Overview / Pinterest Doc Pin + Infographic | Thu Jul 10 (IG 9am) · Fri Jul 11 (YT 2–5pm) · Sat Jul 12 (Pinterest 8–11pm) |
+| Recipe Reel | 06-04 | 🔲 | Instagram Reel / YouTube Short / Pinterest Video Pin | Wed Jul 9 (IG 6–9pm) · Sun Jul 13 (Pinterest 8–11pm) |
 
 ### Week of July 14
 
-| Piece | Folio | Status | Platforms | Notes |
+| Piece | Folio | Status | Platforms | Post Day |
 |---|---|---|---|---|
-| EXPO Post | — | 🔲 | Site → social push | |
-| Technique Reel | — | 🔲 | Instagram | |
-| Recipe Reel | — | 🔲 | Instagram / YouTube Short / Pinterest | |
+| EXPO Post | 03-01 | 🔲 | Site → Instagram feed + Pinterest pin + YouTube Community | Tue Jul 15 |
+| Technique Reel | 01-02 | 🔲 | Instagram Reel / YouTube Short + Video Overview / Pinterest Doc Pin + Infographic | Thu Jul 17 (IG 9am) · Fri Jul 18 (YT 2–5pm) · Sat Jul 19 (Pinterest 8–11pm) |
+| Recipe Reel | 03-01 | 🔲 | Instagram Reel / YouTube Short / Pinterest Video Pin | Wed Jul 16 (IG 6–9pm) · Sun Jul 20 (Pinterest 8–11pm) |
 
 ### Week of July 21
 
-| Piece | Folio | Status | Platforms | Notes |
+| Piece | Folio | Status | Platforms | Post Day |
 |---|---|---|---|---|
-| EXPO Post | — | 🔲 | Site → social push | |
-| Technique Reel | — | 🔲 | Instagram | |
-| Recipe Reel | — | 🔲 | Instagram / YouTube Short / Pinterest | |
+| EXPO Post | 09-07 | 🔲 | Site → Instagram feed + Pinterest pin + YouTube Community | Tue Jul 22 |
+| Technique Reel | 01-03 | 🔲 | Instagram Reel / YouTube Short + Video Overview / Pinterest Doc Pin + Infographic | Thu Jul 24 (IG 9am) · Fri Jul 25 (YT 2–5pm) · Sat Jul 26 (Pinterest 8–11pm) |
+| Recipe Reel | 09-07 | 🔲 | Instagram Reel / YouTube Short / Pinterest Video Pin | Wed Jul 23 (IG 6–9pm) · Sun Jul 27 (Pinterest 8–11pm) |
 
 ### Week of July 28
 
-| Piece | Folio | Status | Platforms | Notes |
+| Piece | Folio | Status | Platforms | Post Day |
 |---|---|---|---|---|
-| EXPO Post | — | 🔲 | Site → social push | |
-| Technique Reel | — | 🔲 | Instagram | |
-| Recipe Reel | — | 🔲 | Instagram / YouTube Short / Pinterest | |
+| EXPO Post | 08-01 | 🔲 | Site → Instagram feed + Pinterest pin + YouTube Community | Tue Jul 29 |
+| Technique Reel | 01-04 | 🔲 | Instagram Reel / YouTube Short + Video Overview / Pinterest Doc Pin + Infographic | Thu Jul 31 (IG 9am) · Fri Aug 1 (YT 2–5pm) · Sat Aug 2 (Pinterest 8–11pm) |
+| Recipe Reel | 08-01 | 🔲 | Instagram Reel / YouTube Short / Pinterest Video Pin | Wed Jul 30 (IG 6–9pm) · Sun Aug 3 (Pinterest 8–11pm) |
 
 ---
 

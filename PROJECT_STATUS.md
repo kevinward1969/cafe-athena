@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-28 (session 2)
+Last Updated: 2026-06-29
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -40,6 +40,7 @@ All 5 phases complete as of 2026-06-24. See `INFRA_REORG_PLAN.md` for full recor
 | Item | Notes |
 | :--- | :--- |
 | GitHub Actions daily deploy | Set up when July EXPO content batch is ready. Workflow: checkout repo → prepare-content.py → astro build → rsync to FastComet via SSH. Requires FastComet SSH key added to GitHub Secrets. Pairs with `publishDate` field already in expo schema. |
+| Social media scheduling automation — Tech Director evaluation | Evaluated 2026-06-29. Options: (1) **Native tools** — Meta Business Suite (Instagram Reels + feed posts), YouTube Studio (videos + Shorts), Pinterest business account (pins, up to 30 days out). Free, zero setup, most reliable for Reels specifically. (2) **Postiz** (open source, self-hosted via Docker) — single dashboard for all platforms. Requires VPS. **Current FastComet plan (Shared Hosting - FastCloud Extra, root: blumenkraftdesign.com) cannot run Docker** — would need a separate VPS (Hetzner CAX11 ~$5–6/mo or FastComet VPS upgrade). (3) **Buffer free tier** — 3 channels, 10 posts per channel, no self-hosting required. Tech Director to evaluate: is a unified scheduler worth the infrastructure cost, or are native tools sufficient? |
 
 ---
 

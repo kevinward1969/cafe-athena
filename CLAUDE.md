@@ -104,8 +104,10 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
 | `Brand/BRAND_STATUS.md` | Active brand work tracker |
 | `Brand/Scorecards/` | Date-stamped brand strategy scorecards — new file per review cycle, never overwrite |
-| `Marketing/MARKETING_STATUS.md` | Active marketing work tracker — points to current strategy and calendar |
+| `Marketing/MARKETING_STATUS.md` | Active marketing work tracker — points to current strategy, calendar, and content registry |
 | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Weekly content production tracker and posted content log |
+| `Marketing/Marketing Content/marketing_content.json` | **Authoritative registry** for all digital marketing media — every planned and posted asset. Populated at strategy time; updated as content moves through production and posts. |
+| `Marketing/Campaigns/` | Post copy and campaign text organized by `[YYYY]/[Month]/[folder]`. Campaign folders: `W#-Mon##-[folio]-[descriptor]`. Ala carte folders: `Mon##-[type]-[descriptor]`. |
 | `Marketing/Marketing_Strategy/` | All strategy docs — active and archived. Archived folder is gitignored. |
 | `Marketing/Marketing Content/Social/` | Channel setup, post templates, reel production assets |
 | `Marketing/Marketing Content/NotebookLM/` | NotebookLM outputs — infographics, audio, PDFs, slide decks |

@@ -1,6 +1,6 @@
 # Marketing Status
 
-**Last Updated:** 2026-06-28
+**Last Updated:** 2026-06-29
 **Branch:** main
 
 ---
@@ -11,7 +11,19 @@
 |---|---|
 | Active Marketing Strategy | `Marketing/Marketing_Strategy/MARKETING_STRATEGY_2026-06-28.md` |
 | Marketing Calendar | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` |
+| Content Registry | `Marketing/Marketing Content/marketing_content.json` |
+| Campaign Copy & Text | `Marketing/Campaigns/[YYYY]/[Month]/` |
 | Archived Strategies | `Marketing/Marketing_Strategy/archived/` |
+
+## Naming Conventions
+
+**Campaign folders** (folio-tied, week-scheduled): `W#-Mon##-[folio]-[descriptor]`
+Example: `W1-Jul7-06-04-hot-chicken/`
+
+**Ala carte folders** (no folio, no cadence): `Mon##-[type]-[descriptor]`
+Example: `Jul18-fact-maillard-reaction/` · `Jul20-bio-athena-origin/` · `Jul25-review-xyz-restaurant/`
+
+Ala carte types: `bio`, `review`, `fact`, `culture`
 
 ---
 
@@ -21,13 +33,19 @@ Work in this order. Do not start Week 2 until Week 1 is confirmed ready.
 
 | # | Action | Who | Status |
 |---|--------|-----|--------|
-| 1 | Write blog post: *"Why Temperature Is the First Variable Every Cook Must Master"* (folio 01-01) | Writing Director | 🔲 |
-| 2 | Publish blog post to site with `publishDate: 2026-07-07` + configure GitHub Actions daily deploy | Technical Director | 🔲 |
-| 3 | Produce 3 blog post cover images (1080×1080 IG, 1000×1500 Pinterest, 1080×1080 YouTube) | Brand Manager | 🔲 |
+| 1 | Write EXPO post: *"Nashville Hot Chicken — The Technique Behind the Heat"* (folio 06-04) | Writing Director | 🔲 |
+| 2 | Publish EXPO post to site with `publishDate: 2026-07-08` + configure GitHub Actions daily deploy | Technical Director | 🔲 |
+| 3 | Produce 3 EXPO cover images (1080×1080 IG, 1000×1500 Pinterest, 1080×1080 YouTube) | Brand Manager | 🔲 |
 | 4 | Produce Nashville Hot Chicken recipe reel — Firefly → voiceover → Adobe Express assembly (folio 06-04) | Kevin | 🔲 |
 | 5 | Write copy + hashtags for technique reel and recipe reel (hook, caption, CTA for both) | Writing Director | 🔲 |
 
 All five pieces feed into the same registry entry block: `marketing_content.json` entries `2026-07-07-*`. Update `stages` and `platforms` as each step completes.
+
+## Active Issues
+
+| Issue | Status | Notes |
+|---|---|---|
+| Pinterest posting blocked | 🔧 Investigate | Discovered 2026-06-29. Unable to post content to CafeAthenaTheManual account. 06-07 Chicken and Dumplings pin never posted. Affects all July scheduled pins. Resolve before W1-Jul7 content goes live. |
 
 ## Pending Items
 

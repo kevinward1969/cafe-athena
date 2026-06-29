@@ -1,17 +1,61 @@
 {
   "meta": {
-    "version": "1.0",
+    "version": "1.1",
     "created": "2026-06-28",
-    "description": "Marketing content registry — all content entries across types and channels"
+    "updated": "2026-06-29",
+    "description": "Marketing content registry — authoritative source for all digital marketing media, planned and posted. Populated at strategy time; updated as content moves through production and posts.",
+    "ala_carte_types": ["bio_post", "restaurant_review", "food_review", "foodie_fact", "culture"]
   },
   "entries": [
     {
-      "id": "2026-07-07-expo-01-01",
+      "id": "2026-06-28-recipe-06-07",
+      "type": "recipe_reel",
+      "week": "2026-06-28",
+      "theme": "Comfort",
+      "folio": "06-07",
+      "title": "Chicken and Dumplings",
+      "stages": {
+        "firefly_video_produced": true,
+        "firefly_video_approved": true,
+        "voiceover_produced": true,
+        "voiceover_approved": true,
+        "assembled": true,
+        "copy_written": true,
+        "copy_approved": true,
+        "ready": true
+      },
+      "assets": {
+        "source_still":   { "path": "Marketing/Marketing Content/Social/Recipes/06-07/development files/06-07-chicken-dumplings-bistro-still-seed1847-v2.webp", "status": "approved" },
+        "firefly_video":  { "path": "Marketing/Marketing Content/Social/Recipes/06-07/development files/06-07 - Firefly-Kling3Omni.mp4", "status": "approved" },
+        "voiceover":      { "path": "Marketing/Marketing Content/Social/Recipes/06-07/development files/06-07-voiceover-zonos-seed1847-v1.wav", "status": "approved" },
+        "assembled_reel": { "path": "Marketing/Marketing Content/Social/Recipes/06-07/Cafe Athena - The Manual - 06-07 Chicken and Dumplings.mp4", "status": "approved" },
+        "thumbnail":      { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "2026-06-28", "url": "https://www.instagram.com/reel/DaJYYgfgL_u/", "utm": "", "status": "posted" },
+        "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "2026-06-28", "url": "https://www.youtube.com/shorts/lf9vwJ5VeQU", "utm": "", "status": "posted" },
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "", "status": "blocked" }
+      },
+      "notes": "Pre-UTM protocol — no UTM tracking on any platform. Site links included in all posts. First production reel. Facebook posted 2026-06-22 to Kevin Ward personal account (secondary channel, not tracked here). Pinterest blocked — posting not working as of 2026-06-29, investigation needed.",
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-07-expo-06-04",
       "type": "expo_post",
       "week": "2026-07-07",
       "theme": "Heat",
-      "folio": "01-01",
-      "title": "Why Temperature Is the First Variable Every Cook Must Master",
+      "folio": "06-04",
+      "title": "Nashville Hot Chicken — The Technique Behind the Heat",
       "stages": {
         "copy_written": false,
         "copy_approved": false,
@@ -36,9 +80,9 @@
       },
       "platforms": {
         "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
-        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" },
-        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" },
-        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" }
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" }
       },
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
@@ -121,12 +165,12 @@
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
     {
-      "id": "2026-07-14-expo-01-02",
+      "id": "2026-07-14-expo-03-01",
       "type": "expo_post",
       "week": "2026-07-14",
-      "theme": "Salt",
-      "folio": "01-02",
-      "title": "Salt Isn't Seasoning. It's Architecture.",
+      "theme": "Spherification",
+      "folio": "03-01",
+      "title": "Liquid Mozzarella Spheres — How Spherification Works on Cheese",
       "stages": {
         "copy_written": false,
         "copy_approved": false,
@@ -151,9 +195,9 @@
       },
       "platforms": {
         "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
-        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" },
-        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" },
-        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" }
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" }
       },
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
@@ -236,12 +280,12 @@
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
     {
-      "id": "2026-07-21-expo-01-03",
+      "id": "2026-07-21-expo-09-07",
       "type": "expo_post",
       "week": "2026-07-21",
-      "theme": "Bread",
-      "folio": "01-03",
-      "title": "The Number That Fixes Bread (And Why You've Never Heard of It)",
+      "theme": "Pâtissier",
+      "folio": "09-07",
+      "title": "Gooey Butter Cake — Why St. Louis's Best Accident Is Worth the Effort",
       "stages": {
         "copy_written": false,
         "copy_approved": false,
@@ -266,9 +310,9 @@
       },
       "platforms": {
         "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
-        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" },
-        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" },
-        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" }
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" }
       },
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
@@ -351,12 +395,12 @@
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
     {
-      "id": "2026-07-28-expo-01-04",
+      "id": "2026-07-28-expo-08-01",
       "type": "expo_post",
       "week": "2026-07-28",
-      "theme": "The Bond",
-      "folio": "01-04",
-      "title": "Why Some Sauces Hold and Some Sauces Break",
+      "theme": "The Field",
+      "folio": "08-01",
+      "title": "King Trumpet 'Scallops' — Searing Mushrooms Like Protein",
       "stages": {
         "copy_written": false,
         "copy_approved": false,
@@ -381,9 +425,9 @@
       },
       "platforms": {
         "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
-        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" },
-        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" },
-        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" }
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" }
       },
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },

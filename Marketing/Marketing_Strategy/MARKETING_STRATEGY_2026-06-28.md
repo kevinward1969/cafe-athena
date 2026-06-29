@@ -59,12 +59,14 @@ One technique folio produces four pieces of content.
 
 ### Recipe Content Stack
 
-One recipe folio produces two pieces of content.
+One recipe folio produces two pieces of content that work as a pair — reel for discovery, EXPO post for search capture and depth.
 
 | Asset | Source | Production Path | Destination |
 |---|---|---|---|
-| EXPO post | Recipe folio | Writing Director drafts; Kevin approves | Site (scheduled) → pushed to all social |
+| EXPO post | **Same Brigade (Section 2) recipe folio as that week's recipe reel** | Writing Director drafts; Kevin approves | Site (scheduled) → pushed to all social |
 | Recipe reel | Recipe hero image + ZONOS2 voiceover | ZONOS2 → Firefly Kling 3.0 → Adobe Express | Instagram / YouTube Short / Pinterest |
+
+> **EXPO pivot (2026-06-29):** EXPO posts were previously sourced from Academy (Section 1) technique folios. Research (`social-content-trends-2026.md`) confirmed technique content performs as short-form video, not blog posts — Academy content is fully covered by technique reels and YouTube Video Overviews. EXPO posts now pair with the week's Brigade recipe folio to earn search traffic and provide depth the reel can't. Technique reels continue to cover Academy folios independently.
 
 ---
 
@@ -76,6 +78,7 @@ One recipe folio produces two pieces of content.
 **Secondary:** Persona 1 (The Serious Home Cook)
 
 **Content mix:**
+
 - Technique reels (1/week) — the differentiator; most food content is recipe-volume, not technique-forward
 - Recipe reels (1/week) — Brigade and Larder; bridges technique to immediately cookable dishes
 - EXPO post share (1/week) — link in bio; caption drives to site
@@ -90,6 +93,7 @@ One recipe folio produces two pieces of content.
 **Secondary:** Persona 1
 
 **Content mix:**
+
 - Infographic pin (1/week) — technique folio visual from NotebookLM; high save rate for educational content
 - Document pin (1/week) — slide deck PDF uploaded natively; swipeable carousel format
 - Video pin (1/week) — recipe reel repurposed from Instagram upload
@@ -104,6 +108,7 @@ One recipe folio produces two pieces of content.
 **Lead persona:** Persona 1 (The Serious Home Cook) + Persona 2
 
 **Content mix:**
+
 - Video Overview (1/week) — NotebookLM Studio full-length technique video
 - YouTube Short (1/week) — recipe reel repurposed from Instagram upload (same 9:16 format)
 
