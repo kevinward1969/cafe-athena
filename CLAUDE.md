@@ -103,6 +103,7 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` | Secondary surface for Claude Desktop Technical Director project |
 | `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
 | `Brand/BRAND_STATUS.md` | Active brand work tracker |
+| `Brand/Scorecards/` | Date-stamped brand strategy scorecards — new file per review cycle, never overwrite |
 | `Marketing/MARKETING_STATUS.md` | Active marketing work tracker |
 | `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |

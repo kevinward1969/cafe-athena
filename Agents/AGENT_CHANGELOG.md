@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-28b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.0 | v1.11 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.2 |
 | 2026-06-25c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.1 |
 | 2026-06-25b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.0 |
@@ -241,13 +242,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 1.5
+**Current Version:** 2.0
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.0 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START PROTOCOL (item 6) — read most recent date-stamped scorecard when assessing brand progress, KPI targets, or channel performance. Added `Brand/Scorecards/` to OWNED DOCUMENTS — new date-stamped file per review cycle, never overwrite previous. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.11. |
 | v1.8 | 2026-06-24 | Phase 4 RAG audit. Removed "Brand context you must always carry" block from ROLE & PERSONA — 4 baked-in bullets about origin story, website purpose, personality, and Kevin's role now replaced with an explicit instruction to read `Brand/BRAND_GUIDELINES.md`. Removed "*(once it exists)*" caveat from SESSION START PROTOCOL item 5 — BRAND_GUIDELINES.md exists and must be read unconditionally. Updated OWNED DOCUMENTS row for BRAND_GUIDELINES.md: "Create it" removed; now says "Maintain as master brand reference — read at every session." Updated BRAND GUIDELINES DEVELOPMENT PROTOCOL framing from "when file does not exist" to "when expanding or revising." Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.9. |
 | v1.5 | 2026-06-22 | Mode 4 renamed from "HF Asset Production" to "Asset Production." Added Adobe Firefly (Kling 3.0 Omni) as primary video tool: locked settings (720p, 9:16, 24fps, 15s, seed 1847, reference image, 300 credits), prompt pattern with 06-07 example, step-by-step workflow. Added Adobe Express as primary assembly tool (replaces WanWeb/FFmpeg). Tool routing table added. FFmpeg retained as backup only. Mode disambiguation and greeting updated to include Firefly/Adobe Express triggers. OUT-OF-SCOPE redirect clarified: cookbook hero images (Lane 1) → Visual Director Gem 2; promotional stills, social video, animated clips → Brand Manager Mode 4. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.6. |
 | v1.4 | 2026-06-22 | Added Mode 4 (HF Asset Production): pre-production brief writing, output approval against brand parameters, FFmpeg post-processing commands (audio trim/compress/normalize, video merge/trim/compress, frame extraction). Brand Manager's role as HF production partner and approval gate is now explicit in the agent. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.5. |
@@ -261,10 +263,11 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.6
+**Current Version:** 1.11
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.11 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START (item 6) and KEY FILES table. Ported from canonical master v2.0. |
 | v1.9 | 2026-06-24 | Phase 4 RAG audit port from canonical master v1.8. BRAND CONTEXT section renamed to BRAND REFERENCE — baked-in bullets removed, replaced with explicit instruction to read `Brand/BRAND_GUIDELINES.md`. SESSION START item 5: removed "*(once it exists)*" caveat. KEY FILES table: BRAND_GUIDELINES.md row updated to "Maintain as master brand reference — read at every session." BRAND GUIDELINES BUILD SEQUENCE: framing updated to "when expanding or revising." |
 | v1.6 | 2026-06-22 | Mode 4 renamed to "Asset Production." Added Firefly (Kling 3.0 Omni) as primary video tool with settings table and prompt pattern. Added Adobe Express as primary assembly tool with workflow steps. Tool routing table added. FFmpeg retained as backup. Disambiguation and Out-of-Scope redirect updated. Ported from canonical master v1.5. |
 | v1.5 | 2026-06-22 | Added Mode 4 (HF Asset Production) to MODE DETECTION section: structured brief writing, approval gate criteria, FFmpeg command reference, disambiguation tie-breaker update, ambiguous greeting update. Ported from canonical master v1.4. |

@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.10 (2026-06-25)
+Version: 1.11 (2026-06-28)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -108,6 +108,7 @@ Read these at session start:
 3. `Brand/Resources/INDEX.md` — resource library map for Brand tasks
 4. `Marketing/Resources/INDEX.md` — resource library map for Marketing tasks
 5. `Brand/BRAND_GUIDELINES.md` — authoritative brand reference. Read at every session — do not skip.
+6. `Brand/Scorecards/` — brand strategy scorecards (date-stamped). Read the most recent file when assessing brand progress, setting KPI targets, or reviewing channel performance.
 
 ## KEY FILES YOU OWN
 
@@ -115,6 +116,7 @@ Read these at session start:
 |------|-------------------|
 | `Brand/BRAND_GUIDELINES.md` | Maintain as the master brand reference — read at every session |
 | `Brand/BRAND_STATUS.md` | Update every session |
+| `Brand/Scorecards/` | Add a new date-stamped scorecard when objectives or KPIs are reviewed or revised — never overwrite previous scorecards |
 | `Brand/Author/` | **Writing Director owns all bio files** — do not edit here |
 | `Brand/Personas/` | One file per audience persona |
 | `Marketing/MARKETING_STATUS.md` | Update every session |
