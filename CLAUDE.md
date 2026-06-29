@@ -196,6 +196,7 @@ Run these in Claude Code. Full definitions in `.claude/commands/`.
 Session-relevant learnings that shape how work should be done in this project.
 
 - **Google Analytics (2026-06-22)**: GA4 property live on cafeathenathemanual.com. Measurement ID: `G-F8Y9NNYBNM`. Tag is in `BaseLayout.astro` `<head>`. Measurement ID is public (visible in page source) — safe to document here.
+- **Social media accounts (2026-06-28)**: Instagram — `https://www.instagram.com/cafeathena_themanual`. Pinterest — `https://www.pinterest.com/CafeAthenaTheManual`. YouTube — `https://www.youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA`. All three linked in the site footer.
 - **Project email (2026-06-28)**: Master email for all Café Athena platform accounts is `kevin@cafeathenathemanual.com`. Password in 1Password. Mail server settings: Incoming — `mail.cafeathenathemanual.com`, IMAP 993 / POP3 995. Outgoing — `mail.cafeathenathemanual.com`, SMTP 465. CalDAV: `https://mail.cafeathenathemanual.com:2080/calendars/kevin@cafeathenathemanual.com/calendar`. CardDAV: `https://mail.cafeathenathemanual.com:2080/addressbooks/kevin@cafeathenathemanual.com/addressbook`. All require authentication.
 - **Filesystem Authority**: Always scan live directories for folio numbers — never infer from stale docs.
 - **Scaling Nuance**: Ingredients scale linearly; reduction times do NOT (surface area constraints).
