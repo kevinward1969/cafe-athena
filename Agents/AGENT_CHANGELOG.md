@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.0 | v1.11 | v1.5 | v1.6 | v1.2 |
@@ -245,13 +246,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 2.0
+**Current Version:** 2.2
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.2 | 2026-06-28 | Marketing folder restructure. Added `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` to SESSION START PROTOCOL (item 3 — read current posting schedule and posted content log). Added `Marketing/Marketing_Strategy/`, `MARKETING_CALENDAR_2026.md`, and `Marketing/Marketing_Strategy/archived/` to OWNED DOCUMENTS with responsibilities. Updated Mode 2 completion criteria to require calendar update alongside status doc update. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.13 (Claude Desktop also gains raw GitHub URLs for calendar and strategy in SESSION START). |
 | v2.0 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START PROTOCOL (item 6) — read most recent date-stamped scorecard when assessing brand progress, KPI targets, or channel performance. Added `Brand/Scorecards/` to OWNED DOCUMENTS — new date-stamped file per review cycle, never overwrite previous. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.11. |
 | v1.8 | 2026-06-24 | Phase 4 RAG audit. Removed "Brand context you must always carry" block from ROLE & PERSONA — 4 baked-in bullets about origin story, website purpose, personality, and Kevin's role now replaced with an explicit instruction to read `Brand/BRAND_GUIDELINES.md`. Removed "*(once it exists)*" caveat from SESSION START PROTOCOL item 5 — BRAND_GUIDELINES.md exists and must be read unconditionally. Updated OWNED DOCUMENTS row for BRAND_GUIDELINES.md: "Create it" removed; now says "Maintain as master brand reference — read at every session." Updated BRAND GUIDELINES DEVELOPMENT PROTOCOL framing from "when file does not exist" to "when expanding or revising." Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.9. |
 | v1.5 | 2026-06-22 | Mode 4 renamed from "HF Asset Production" to "Asset Production." Added Adobe Firefly (Kling 3.0 Omni) as primary video tool: locked settings (720p, 9:16, 24fps, 15s, seed 1847, reference image, 300 credits), prompt pattern with 06-07 example, step-by-step workflow. Added Adobe Express as primary assembly tool (replaces WanWeb/FFmpeg). Tool routing table added. FFmpeg retained as backup only. Mode disambiguation and greeting updated to include Firefly/Adobe Express triggers. OUT-OF-SCOPE redirect clarified: cookbook hero images (Lane 1) → Visual Director Gem 2; promotional stills, social video, animated clips → Brand Manager Mode 4. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.6. |

@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.12 (2026-06-28)
+Version: 1.13 (2026-06-28)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -113,10 +113,12 @@ Read these at session start:
 
 1. `Brand/BRAND_STATUS.md`
 2. `Marketing/MARKETING_STATUS.md`
-3. `Brand/Resources/INDEX.md` — resource library map for Brand tasks
-4. `Marketing/Resources/INDEX.md` — resource library map for Marketing tasks
-5. `Brand/BRAND_GUIDELINES.md` — authoritative brand reference. Read at every session — do not skip.
-6. `Brand/Scorecards/` — brand strategy scorecards (date-stamped). Read the most recent file when assessing brand progress, setting KPI targets, or reviewing channel performance.
+3. Marketing Calendar (GitHub): `https://raw.githubusercontent.com/kevinward1969/cafe-athena/main/Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md`
+4. Active Marketing Strategy (GitHub): `https://raw.githubusercontent.com/kevinward1969/cafe-athena/main/Marketing/Marketing_Strategy/MARKETING_STRATEGY_2026-06-28.md`
+5. `Brand/Resources/INDEX.md` — resource library map for Brand tasks
+6. `Marketing/Resources/INDEX.md` — resource library map for Marketing tasks
+7. `Brand/BRAND_GUIDELINES.md` — authoritative brand reference. Read at every session — do not skip.
+8. `Brand/Scorecards/` — brand strategy scorecards (date-stamped). Read the most recent file when assessing brand progress, setting KPI targets, or reviewing channel performance.
 
 ## KEY FILES YOU OWN
 
@@ -128,6 +130,8 @@ Read these at session start:
 | `Brand/Author/` | **Writing Director owns all bio files** — do not edit here |
 | `Brand/Personas/` | One file per audience persona |
 | `Marketing/MARKETING_STATUS.md` | Update every session |
+| `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Update posted content log and week statuses every marketing session |
+| `Marketing/Marketing_Strategy/archived/` | Move superseded strategy docs here when a new strategy is activated |
 | `Marketing/Social/channels.md` | Channel setup tracker |
 | `Marketing/Social/Templates/` | Post templates per platform |
 | `Marketing/Site-Copy/` | Hero, CTAs, footer copy |

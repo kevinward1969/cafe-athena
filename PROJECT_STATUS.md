@@ -1,6 +1,6 @@
 # Café Athena - Project Status & Active Context
 
-Last Updated: 2026-06-25 (session 62)
+Last Updated: 2026-06-28
 
 > **Scope:** This file holds *only* active work — in-progress folios, bugs being fixed, items deferred from the last session. Future ideas live in `The Manual/IDEAS.md` and are promoted here when started. Per-recipe state (hero image, format audit, deploy flags) lives in `The Manual/recipes.json` — run `python3 scripts/audit.py --status` or `/sync-registry` for live rollups.
 
@@ -45,7 +45,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | bio-long.md — P3, P4, P5 repair | P1 and P2 are approved and seeded into writing-exemplars.md. P3 violations resolved in session 62 (Samsung → smart refrigerator; AI Chef Agent/Gemini cut; OneNote retained as earned brand name per updated rule). Writing Director drafted P3 but Kevin closed out before approval — start fresh with Writing Director, read writing-exemplars.md and the updated brand-names rule first. | Invoke Writing Director in a dedicated prose session | 2026-06-25 |
 | HF tool integration | Integration entry point: `hugging_face/Projects/cafe-athena/hugging-face-agent.md`. **Integration test complete (2026-06-22):** All tools confirmed working in production run. Wan2.2 I2V (zerogpu-aoti fast) is the primary animated still tool — AUDIT-008 passed. ZONOS2 is preferred TTS; Qwen3-TTS is backup. **Remaining gaps:** ZONOS2 formal integration incomplete (no standalone Tool Registry entry, no workflow section, no audit at `hugging_face/audit/zonos2-audit.md`). FLUX and Ideogram audits (AUDIT-004, AUDIT-005 by original numbering) still pending. | Next: formally integrate ZONOS2 per skill-implementation.md, then FLUX/Ideogram audits. | 2026-06-20 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
-| Social account setup — Pinterest, YouTube | Briefs in `Marketing/Social/`. Instagram profile live (@cafeathena_themanual) — first post pending. Pinterest and YouTube not yet set up. | Kevin-driven — no blocking condition | 2026-06-16 |
+| Incorporate social media links into site | Instagram (@cafeathena_themanual), Pinterest (CafeAthenaTheManual), and YouTube are now live. Footer was enriched in Phase 7 but accounts weren't set up yet — update site footer and any other social link surfaces with the correct handles and URLs. Technical Director task. | Assign to Technical Director in a site session | 2026-06-28 |
 
 ---
 

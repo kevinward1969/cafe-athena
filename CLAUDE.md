@@ -104,7 +104,9 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
 | `Brand/BRAND_STATUS.md` | Active brand work tracker |
 | `Brand/Scorecards/` | Date-stamped brand strategy scorecards — new file per review cycle, never overwrite |
-| `Marketing/MARKETING_STATUS.md` | Active marketing work tracker |
+| `Marketing/MARKETING_STATUS.md` | Active marketing work tracker — points to current strategy and calendar |
+| `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Weekly content production tracker and posted content log |
+| `Marketing/Marketing_Strategy/` | All strategy docs — active and archived. Archived folder is gitignored. |
 | `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |

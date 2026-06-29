@@ -5,9 +5,23 @@
 
 ---
 
-## Active Work
+## Current Documents
 
-_No active tasks. Phase 7 site and social work complete._
+| Document | Path |
+|---|---|
+| Active Marketing Strategy | `Marketing/Marketing_Strategy/MARKETING_STRATEGY_2026-06-28.md` |
+| Marketing Calendar | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` |
+| Archived Strategies | `Marketing/Marketing_Strategy/archived/` |
+
+---
+
+## Pending Items
+
+| Item | Status | Notes |
+|---|---|---|
+| Phase 1 content bank | 🔲 Pending | Produce + schedule first 4 weeks: 4 technique folios, 4 recipe reels, 4 EXPO posts — requires EXPO scheduled publish feature |
+| UTM mapping — technique folio content type | 🔲 Pending | Complete before first technique folio post goes live |
+| EXPO scheduled publishing | 🔲 Pending | Technical Director task — needed before Phase 1 content bank |
 
 ## Phase 7 — Completed Items
 
@@ -38,4 +52,4 @@ _No active tasks. Phase 7 site and social work complete._
 
 - Social proof ("trusted by X home cooks") — needs audience first
 - Newsletter capture — revisit after social channels are established
-- Account setup (Instagram, Pinterest, YouTube) — briefs and templates ready; setup is manual
+- Facebook Group — Phase 2; launch when Instagram reaches 500–1,000 followers; Q3 2026 checkpoint
