@@ -23,16 +23,20 @@ She's starting to build a culinary vocabulary without a framework to put it in. 
 
 She watches cooking content not just to get a recipe but to understand something. She's the person who rewatches the same Kenji Lopez-Alt video three times because something in it is worth understanding.
 
+She is not yet applying these concepts forward. She's still in the phase of understanding backward — reaching for vocabulary after something goes wrong, accumulating fragments without a frame to hold them. The difference between her and Persona 3 is not capability; it's framework. She has curiosity and attention and enough experience to recognize when she's missing something. What she lacks is a coherent structure that connects the vocabulary she's building into something she can use proactively. Café Athena's value to her is not that it teaches her individual techniques — it's that it gives her the organizing logic she needs to start applying what she already knows.
+
 ---
 
 ## Goals
 
 **In the kitchen:**
+
 - Move from recipe-following to genuine cooking — making decisions based on understanding, not instruction
 - Build a mental model of how food works, not just a collection of techniques
 - Cook one or two things that genuinely impress her — not because she followed instructions perfectly, but because she understood what she was doing
 
 **With Café Athena specifically:**
+
 - A resource that meets her where she is — takes her seriously as a developing cook without expecting her to already know everything
 - Technique context that's readable, not clinical — she'll engage with depth if the writing doesn't feel like a textbook
 - A place she can return to over time as her skills grow, not one she'll exhaust in a month
@@ -63,11 +67,21 @@ She watches cooking content not just to get a recipe but to understand something
 
 **Format preferences:** She'll read long-form if it's well-written. She skims badly-written content immediately. The writing has to earn her attention. She is sensitive to AI-sounding prose and generic phrasing — she clicks away when something sounds manufactured.
 
+**How She First Encounters Café Athena:**
+
+She's most likely to arrive via YouTube — a long-form technique video that shows up in her recommended feed after time in Kenji or Ethan Chlebowski territory. She watches for understanding, not entertainment, so a video that slows down and explains the why before the how will hold her where a fast-cut recipe video won't.
+
+The second path is social discovery — an Instagram post or Reel that shows something she doesn't recognize or doesn't fully understand, and that doesn't immediately look like content produced for an algorithm. She'll click through if the caption earns it. She'll leave if the landing page feels like a recipe site dressed up as something more.
+
+She is not searching Google for recipes. She's searching for explanations — "why does pasta water help a sauce," "what does it mean to bloom spices," "how do you know when a braise is done." If Café Athena's technique content shows up in those searches with an answer that actually explains rather than summarizes, she'll bookmark the site and return.
+
+The newsletter is a real signal: if she encounters the brand on any channel and it offers a consistent, well-written email, she's likely to subscribe. Email is the format that holds her attention over time — she doesn't have to go find it.
+
 ---
 
 ## What Draws Her to Café Athena
 
-The architecture. A cookbook organized around how professional kitchens think — technique first, then work, then foundations — gives her a framework she can grow into, not just a collection of recipes she'll cook once.
+The framework she doesn't have yet. She's been accumulating culinary vocabulary without a structure to put it in. Café Athena's organizing logic — technique first, then the work, then the building blocks — gives her a mental model she can grow into, not just a recipe to cook once. This is the decisive hook: not that the book has good recipes, but that it is organized in a way that makes her better over time.
 
 The voice. She will notice immediately if the writing treats her like an intelligent adult who is still learning. She will also notice if it's condescending, performed, or anonymous. The personal origin of Café Athena — a real cook, a real kitchen, a real person it was all cooked for — is more compelling to her than a credential.
 
