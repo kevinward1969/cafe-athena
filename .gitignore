@@ -59,3 +59,7 @@ Marketing/**/*.pdf
 
 # Ignore all Marketing resources (working assets)
 Marketing/Resources/
+
+# Personal Claude Code chat-save transcripts (not project content)
+.claude/chat-logs/
+
