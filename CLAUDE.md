@@ -152,6 +152,22 @@ After propagating changes, bump the version number in the modified file and add 
 
 ---
 
+## ⚠️ Agent Session Start Standard
+
+All agents must evidence context loading before responding to any task. This is a project-wide requirement — not optional, not agent-specific.
+
+**Verification gate:** After reading required files at session start, output one line before responding to the user's task. Format is defined in each agent's instructions. If this line is absent, the agent has not completed its session start protocol.
+
+**Context load tiers:** Every agent organizes its required reads into three tiers:
+
+- **Universal** — read every session, regardless of task
+- **Mode-required** — read before responding to any task in that mode; blocking, not advisory
+- **On-demand** — read when the task requires them; not mandatory at session start
+
+Each agent's instructions define which files belong in which tier. When adding or modifying an agent, assign every required file to one of these tiers explicitly.
+
+---
+
 ## ⚠️ New Recipe Mandatory Updates
 
 Every time a new recipe or technique folio is added, **all four of these must be updated before committing**:

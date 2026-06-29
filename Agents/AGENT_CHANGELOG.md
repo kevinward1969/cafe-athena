@@ -10,6 +10,8 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-29c | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.18 | v1.6 | v1.7 | v1.3 |
+| 2026-06-29b | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.17 | v1.6 | v1.7 | v1.3 |
 | 2026-06-29 | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.3 | v1.16 | v1.6 | v1.7 | v1.3 |
 | 2026-06-28f | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.3 | v1.14 | v1.5 | v1.6 | v1.3 |
 | 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | v1.5 | v1.6 | v1.2 |
@@ -250,13 +252,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 2.3
+**Current Version:** 2.4
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.4 | 2026-06-29 | Architecture review: implemented project-wide Agent Session Start Standard (CLAUDE.md). Restructured SESSION START PROTOCOL into three tiers — Universal (BRAND_GUIDELINES.md, BRAND_STATUS.md every session), Mode-required (MARKETING_STATUS.md + current strategy file blocking for Mode 2; Scorecards/ blocking for Mode 1 brand review), On-demand (calendar, INDEX files). Added verification gate: agent must output one-line context confirmation before responding to any task. Added blocking read requirement inside Mode 2 definition as a second enforcement point. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.17. |
 | v2.3 | 2026-06-28 | Marketing Content folder restructure. All `Marketing/Social/`, `Marketing/NotebookLM/`, and `Marketing/Site-Copy/` paths updated to `Marketing/Marketing Content/[folder]/` throughout. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.14. Writing Director v1.3 also updated for Site-Copy path. |
 | v2.2 | 2026-06-28 | Marketing folder restructure. Added `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` to SESSION START PROTOCOL (item 3 — read current posting schedule and posted content log). Added `Marketing/Marketing_Strategy/`, `MARKETING_CALENDAR_2026.md`, and `Marketing/Marketing_Strategy/archived/` to OWNED DOCUMENTS with responsibilities. Updated Mode 2 completion criteria to require calendar update alongside status doc update. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.13 (Claude Desktop also gains raw GitHub URLs for calendar and strategy in SESSION START). |
 | v2.0 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START PROTOCOL (item 6) — read most recent date-stamped scorecard when assessing brand progress, KPI targets, or channel performance. Added `Brand/Scorecards/` to OWNED DOCUMENTS — new date-stamped file per review cycle, never overwrite previous. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.11. |
@@ -273,10 +276,12 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.16
+**Current Version:** 1.18
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.18 | 2026-06-29 | Mode 3 updated for Desktop context: instead of redirecting to Writing Director (Claude Code only), agent now reads `.claude/agents/Cafe Athena Writing Director.agent.md` via GitHub connector and applies those instructions inline for the duration of the writing task. |
+| v1.17 | 2026-06-29 | Ported from canonical master v2.4: restructured SESSION START into three tiers (Universal / Mode-required / On-demand) and added verification gate output line. |
 | v1.16 | 2026-06-29 | Minor audit fix: expanded anti-sycophancy guidance in PERSONA from a single vague sentence to the canonical's full format template — "This conflicts with [specific guideline]. My recommendation: [alternative]. Proceed with your version or the recommendation?" |
 | v1.15 | 2026-06-29 | Audit fixes: (1) Session Start item 4 hardcoded GitHub URL for `MARKETING_STRATEGY_2026-06-28.md` replaced with instruction to read most recent date-stamped file in `Marketing/Marketing_Strategy/` — eliminates URL that would break on next strategy update. Item 3 converted from GitHub raw URL to local path. (2) DECISION PROTOCOL table added — 5-row act-vs-ask guidance matching canonical v2.3. (3) Canonical header updated with Desktop version pointer. |
 | v1.14 | 2026-06-28 | Ported from canonical master v2.3: Marketing Content folder restructure — all Social/, NotebookLM/, Site-Copy/ paths updated to Marketing Content/ subdirectories. |

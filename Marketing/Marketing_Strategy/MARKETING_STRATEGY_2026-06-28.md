@@ -36,7 +36,7 @@ Three pieces of content per week, sourced from two folio types.
 
 | Content Piece | Source | Frequency |
 |---|---|---|
-| EXPO post | Technique folio + NotebookLM materials, fleshed out | 1 per week |
+| EXPO post | Recipe folio | 1 per week |
 | Technique reel | Technique folio | 1 per week |
 | Recipe reel | Brigade or Larder recipe folio | 1 per week |
 
@@ -46,25 +46,25 @@ Content is produced 4 weeks in advance and scheduled. EXPO post scheduling requi
 
 ### Technique Folio Content Stack
 
-One technique folio produces five pieces of content.
+One technique folio produces four pieces of content.
 
 | Asset | Source | Production Path | Destination |
 |---|---|---|---|
-| EXPO post | Folio + NotebookLM materials | Writing Director drafts; Kevin approves | Site (scheduled) → pushed to social |
 | Video Overview | NotebookLM Studio | Direct upload | YouTube |
-| Technique reel | Folio reference image + ZONOS2 voiceover | ZONOS2 → Firefly Kling 3.0 → Adobe Express | Instagram |
+| Technique reel | Folio reference image + ZONOS2 voiceover | ZONOS2 → Firefly Kling 3.0 → Adobe Express | Instagram / YouTube Short / Pinterest |
 | Infographic | NotebookLM Studio | Direct upload | Pinterest image pin |
-| Slide deck / PDF | NotebookLM Studio | Upload as Document Pin; link in EXPO post | Pinterest Document Pin + EXPO companion download |
+| Slide deck / PDF | NotebookLM Studio | Upload as Document Pin | Pinterest Document Pin |
 
 ---
 
 ### Recipe Content Stack
 
-One recipe folio produces one reel distributed across three platforms.
+One recipe folio produces two pieces of content.
 
 | Asset | Source | Production Path | Destination |
 |---|---|---|---|
-| Recipe reel | Recipe hero image + ZONOS2 voiceover | ZONOS2 → Firefly Kling 3.0 → Adobe Express | Instagram, YouTube Short, Pinterest video pin |
+| EXPO post | Recipe folio | Writing Director drafts; Kevin approves | Site (scheduled) → pushed to all social |
+| Recipe reel | Recipe hero image + ZONOS2 voiceover | ZONOS2 → Firefly Kling 3.0 → Adobe Express | Instagram / YouTube Short / Pinterest |
 
 ---
 

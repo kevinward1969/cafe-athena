@@ -1,7 +1,7 @@
 # Café Athena — Multi-Agent Architecture
 
-**Version:** 1.4  
-**Last Updated:** 2026-06-25  
+**Version:** 1.5  
+**Last Updated:** 2026-06-29  
 **Status:** Active  
 
 This document describes the full multi-agent ecosystem for the Café Athena cookbook project, including each agent's role, the relationships between them, identified improvement opportunities, and recommended next steps.
@@ -254,6 +254,7 @@ Listed in priority order:
 
 | Status | Item | Notes |
 | ------ | ---- | ----- |
+| ✅ Done | Implement Agent Session Start Standard | Added project-wide verification gate policy to `CLAUDE.md`. Brand Manager v2.4 implements it: three-tier context load (Universal / Mode-required / On-demand), verification gate output line, and second enforcement point inside Mode 2 definition. Technical Director already complied; other agents inherit the standard on next update. |
 | ✅ Done | Add `AGENT_CHANGELOG.md` | Created with retroactive entries for all four agents |
 | ✅ Done | Designate canonical master + add version header | Sub-agent is canonical master; cross-references added to all agent files |
 | ✅ Done | Update Hero Image Gem — remove "Nano Banana" reference | Already removed in `recipe-hero-image.md`; no further action needed |
