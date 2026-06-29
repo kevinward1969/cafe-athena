@@ -12,7 +12,7 @@ In-progress folios. Completed items are tracked via `The Manual/recipes.json` an
 
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
-| 06-07 | Chicken and Dumplings — social content | ✅ Complete | Published as Facebook reel 2026-06-22. First multi-tool HF production run — all stages done. Assets in `Marketing/Social/Recipes/06-07/`. |
+| 06-07 | Chicken and Dumplings — social content | ✅ Complete | Published as Facebook reel 2026-06-22. First multi-tool HF production run — all stages done. Assets in `Marketing/Marketing Content/Social/Recipes/06-07/`. |
 | — | Agent audit & doc alignment | ✅ Complete | Phase 1 audit complete (session 62). All gaps closed. See Strategic Context. bio-long.md P3–P5 deferred — separate task, see Pending. |
 
 ---
@@ -54,7 +54,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | Item | Notes |
 | :--- | :--- |
 | Google Analytics integration | ✅ Complete (2026-06-22). GA4 property created, tag added to BaseLayout.astro, deployed. Measurement ID: G-F8Y9NNYBNM. |
-| Social media video/reel workflow | ✅ Complete (2026-06-22). Documented in `Marketing/Social/Templates/template-social-reel.md`. Zonos2 → Firefly Kling 3.0 Omni → Adobe Express. |
+| Social media video/reel workflow | ✅ Complete (2026-06-22). Documented in `Marketing/Marketing Content/Social/Templates/template-social-reel.md`. Zonos2 → Firefly Kling 3.0 Omni → Adobe Express. |
 | Domain change | ✅ Complete (2026-06-23). Code, config, agents, skills, DNS, cPanel, and Claude Desktop agent instructions all updated by Kevin. |
 | Author photo brief | ✅ Complete (2026-06-23). `Brand/Author/photo-brief.md` written. Personal anchor photo documented. Solo headshot specs defined — see Pending above. |
 
@@ -65,7 +65,7 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 - **Phase 1 agent audit complete (2026-06-25, session 62):** All non-Chef agent documentation gaps closed. `TECHNICAL_REFERENCE.md` §8 Division of Labor and §9 Skills Map both updated with Writing Director. `CLAUDE.md` updated: Writing Director in Key Files table, `writing-exemplars.md` in Key Files table, Writing Director in Version Bump Rule list, Writing Director auto-trigger section added. Technical Director canonical bumped to v1.5 (was behind CD at v1.5); CD restored to v1.6 with full ECC skills table (9 entries were missing from compact port). `MULTI_AGENT_ARCHITECTURE.md` updated to v1.4 — agent inventory, architecture diagram, and quick reference all reflect current 11-surface system.
 - **Writing Director brand names rule (2026-06-25):** Rule updated from "cut all brand names" to "use brand names well and appropriately." Earned, narrative-serving brand names (e.g., "OneNote" as the specific archiving tool) may stay. Brand names functioning as product placement or tech-industry shorthand (Samsung, Gemini, "AI Chef Agent") get cut. Writing Director bumped to v1.1. Feedback saved to memory.
 - **Writing Director agent (2026-06-25):** New dedicated agent for all prose — author bios, About page, social captions, promotional copy, advertising, email. Three modes: Mode 1 Draft (pre-writing brief + paragraph-gate approval), Mode 2 Edit (diagnosis before rewrite), Mode 3 Standards Audit. Brand Manager v1.9 now redirects all write/draft/create keywords to Writing Director. Writing-exemplars.md seeded with two approved bio paragraphs as the voice baseline. Writing Director is Claude Code only — no CD or Gem surface by design (paragraph gate requires interactive session).
-- **Canonical social video workflow (2026-06-22):** Voiceover: ZONOS2 → Video: Adobe Firefly Kling 3.0 Omni (720p, 9:16, 15s, seed 1847, reference image, 300 credits) → Assembly: Adobe Express base template (`https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e`). Template reference: `Marketing/Social/Templates/template-social-reel.md`. WanWeb/FFmpeg/HF video tools are backup only. Brand Manager owns production. Confirmed working on 06-07 Chicken and Dumplings Facebook reel.
+- **Canonical social video workflow (2026-06-22):** Voiceover: ZONOS2 → Video: Adobe Firefly Kling 3.0 Omni (720p, 9:16, 15s, seed 1847, reference image, 300 credits) → Assembly: Adobe Express base template (`https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e`). Template reference: `Marketing/Marketing Content/Social/Templates/template-social-reel.md`. WanWeb/FFmpeg/HF video tools are backup only. Brand Manager owns production. Confirmed working on 06-07 Chicken and Dumplings Facebook reel.
 - **Plugin scope:** Plugins installed via `claude plugin install` at user scope are stored in `~/.claude/plugins/` and are shared across Claude Code CLI, Claude Desktop, and claude.ai. No separate Desktop install needed.
 - **antigravity-awesome-skills:** Registered as a marketplace but individual plugins lack `plugin.json` manifests — cannot install via `claude plugin install`. Skills must be copied manually to `~/.claude/skills/`. Done for `context-window-management` and `claude-code-guide`.
 - **Context degradation:** Session 59 showed clear signs of context-length-related errors. Next session with heavy workload should start with `/everything-claude-code:context-budget` audit before any substantive work.

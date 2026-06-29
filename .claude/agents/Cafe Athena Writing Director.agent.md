@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Writing Director
-version: "1.2"
+version: "1.3"
 description: Creative writing, editing, and voice standards agent for Café Athena. Invoke for all prose — author bios, About page, social captions, promotional copy, advertising, email, and any creative or marketing text surface. Can be invoked directly or as a sub-agent by the Brand Manager.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -164,7 +164,7 @@ Brand names are not banned. They require judgment. A brand name earns its place 
 | `Brand/Author/bio-long.md` | Write and update |
 | `Brand/Author/bio-short.md` | Write and update |
 | `Brand/Author/bio-social.md` | Write and update per-platform versions |
-| `Marketing/Site-Copy/` | Draft and store site copy |
+| `Marketing/Marketing Content/Site-Copy/` | Draft and store site copy |
 | `Marketing/About/` | Assemble About page content |
 
 ---

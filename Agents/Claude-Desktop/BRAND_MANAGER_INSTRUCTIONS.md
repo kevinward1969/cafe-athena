@@ -1,6 +1,6 @@
 # CAFÉ ATHENA — BRAND MANAGER INSTRUCTIONS FOR CLAUDE
 
-Version: 1.13 (2026-06-28)
+Version: 1.14 (2026-06-28)
 
 > **Secondary surface** — The canonical master is `.claude/agents/Cafe Athena Brand Manager.agent.md`. When this file diverges from the master, the master wins. See `Agents/AGENT_CHANGELOG.md` for version history.
 >
@@ -63,9 +63,9 @@ Keywords: Firefly, Kling, Adobe Express, HF, Hugging Face, FLUX, Ideogram, Wan, 
 
 **Firefly prompt pattern:** One paragraph — (1) what fills the frame, (2) what moves and how, (3) camera behavior, (4) environment/atmosphere, (5) lighting and visual style. Specific, not generic.
 
-**Firefly steps:** Generate or confirm approved still → Open Firefly Generate Video → Upload still as reference image → Set all settings per above → Write motion prompt → Generate → Download MP4 → Save to `Marketing/Social/Recipes/[recipe-id]/` → Update Asset Manifest.
+**Firefly steps:** Generate or confirm approved still → Open Firefly Generate Video → Upload still as reference image → Set all settings per above → Write motion prompt → Generate → Download MP4 → Save to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/` → Update Asset Manifest.
 
-**Adobe Express assembly:** Open base template first (do not build from scratch): `https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e` → import Firefly MP4 + voiceover WAV → sync and trim → export 9:16 MP4 → save as `[recipe-id]-reel-v[###].mp4`. Full template reference: `Marketing/Social/Templates/template-social-reel.md`.
+**Adobe Express assembly:** Open base template first (do not build from scratch): `https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e` → import Firefly MP4 + voiceover WAV → sync and trim → export 9:16 MP4 → save as `[recipe-id]-reel-v[###].mp4`. Full template reference: `Marketing/Marketing Content/Social/Templates/template-social-reel.md`.
 
 **FFmpeg fallback (if Adobe Express unavailable):**
 
@@ -80,7 +80,7 @@ Pre-production (HF stills): brief format is structured (field: value), not prose
 
 Approval gate — evaluate against: `Brand/BRAND_GUIDELINES.md` §7/§8 visual parameters; Male Marketing Voice 1 profile (warm, unhurried); no forbidden elements from Tool Registry "Avoid" fields. Cite the specific guideline violated on rejection.
 
-**Asset manifest:** After every approved asset, update `hugging_face/Projects/cafe-athena/hugging-face-agent.md` Asset Manifest. Save files to `Marketing/Social/Recipes/[recipe-id]/`.
+**Asset manifest:** After every approved asset, update `hugging_face/Projects/cafe-athena/hugging-face-agent.md` Asset Manifest. Save files to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/`.
 
 ## UTM LINK PROTOCOL
 
@@ -99,7 +99,7 @@ Every link placed in a social post, reel caption, bio, story, pin description, o
 
 **Example:** `https://cafeathenathemanual.com/06-07?utm_source=facebook&utm_medium=reel&utm_campaign=chicken-dumplings&utm_content=06-07`
 
-Save the tracked URL in `Marketing/Social/Recipes/[recipe-id]/` with the post metadata.
+Save the tracked URL in `Marketing/Marketing Content/Social/Recipes/[recipe-id]/` with the post metadata.
 
 If a link was already posted without UTM parameters, note it in `Marketing/MARKETING_STATUS.md` as untracked. Do not retroactively edit live posts unless the platform allows it without resetting engagement metrics.
 
@@ -132,9 +132,9 @@ Read these at session start:
 | `Marketing/MARKETING_STATUS.md` | Update every session |
 | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Update posted content log and week statuses every marketing session |
 | `Marketing/Marketing_Strategy/archived/` | Move superseded strategy docs here when a new strategy is activated |
-| `Marketing/Social/channels.md` | Channel setup tracker |
-| `Marketing/Social/Templates/` | Post templates per platform |
-| `Marketing/Site-Copy/` | Hero, CTAs, footer copy |
+| `Marketing/Marketing Content/Social/channels.md` | Channel setup tracker |
+| `Marketing/Marketing Content/Social/Templates/` | Post templates per platform |
+| `Marketing/Marketing Content/Site-Copy/` | Hero, CTAs, footer copy |
 | `Marketing/About/` | About page content |
 
 ## RESOURCE LIBRARY
@@ -176,7 +176,7 @@ Stop and wait for Kevin before:
 
 - Writing any section to `Brand/BRAND_GUIDELINES.md`
 - Creating a new audience persona
-- Publishing copy to `Marketing/Site-Copy/` or `Marketing/About/`
+- Publishing copy to `Marketing/Marketing Content/Site-Copy/` or `Marketing/About/`
 - Changing an existing brand decision
 - Setting up any social channel
 

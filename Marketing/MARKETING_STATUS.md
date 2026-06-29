@@ -30,10 +30,10 @@
 - [x] Standardize all CTAs to olive-gold (#c9a96e) — `site/src/pages/index.astro`
 - [x] Fix Archive card legibility (contrast/saturation) — `site/src/layouts/SectionLayout.astro`
 - [x] Enrich footer (social links, privacy policy, copyright, About link) — `site/src/layouts/BaseLayout.astro`
-- [x] Instagram channel brief — `Marketing/Social/brief-instagram.md`
-- [x] Pinterest channel brief — `Marketing/Social/brief-pinterest.md`
-- [x] YouTube channel brief — `Marketing/Social/brief-youtube.md`
-- [x] Post templates — Instagram, Pinterest, YouTube — `Marketing/Social/Templates/`
+- [x] Instagram channel brief — `Marketing/Marketing Content/Social/brief-instagram.md`
+- [x] Pinterest channel brief — `Marketing/Marketing Content/Social/brief-pinterest.md`
+- [x] YouTube channel brief — `Marketing/Marketing Content/Social/brief-youtube.md`
+- [x] Post templates — Instagram, Pinterest, YouTube — `Marketing/Marketing Content/Social/Templates/`
 
 ## Social Media
 
@@ -45,7 +45,7 @@
 
 ## Protocols
 
-- **UTM tracking (2026-06-22):** All site links in marketing assets (social posts, reels, bios, pins, emails) must use UTM parameters before posting. Convention: `utm_source` (platform), `utm_medium` (format), `utm_campaign` (recipe slug), `utm_content` (folio ID). Save tracked URL in `Marketing/Social/Recipes/[recipe-id]/` with post metadata. See Brand Manager instructions for full spec.
+- **UTM tracking (2026-06-22):** All site links in marketing assets (social posts, reels, bios, pins, emails) must use UTM parameters before posting. Convention: `utm_source` (platform), `utm_medium` (format), `utm_campaign` (recipe slug), `utm_content` (folio ID). Save tracked URL in `Marketing/Marketing Content/Social/Recipes/[recipe-id]/` with post metadata. See Brand Manager instructions for full spec.
 - **Untracked posts:** 06-07 Chicken and Dumplings Facebook reel (2026-06-22) — posted without UTM. Traffic visible in GA4 under Pages and Screens → `/06-07` but source unattributed.
 
 ## Deferred

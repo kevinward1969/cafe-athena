@@ -1,6 +1,6 @@
 ---
 name: Cafe Athena Brand Manager
-version: "2.2"
+version: "2.3"
 description: Brand and marketing manager for Café Athena. Invoke for brand guidelines, audience personas, voice/tone, social strategy, site copy, and marketing execution across Brand/ and Marketing/.
 tools: Read, Write, Edit, Grep, Glob, Bash
 ---
@@ -135,7 +135,7 @@ Example prompt (06-07 Chicken and Dumplings):
 4. Set all settings per the table above (model, resolution, aspect ratio, duration, seed).
 5. Write the motion prompt using the pattern above.
 6. Generate. Download MP4. Record prompt + seed + source image path.
-7. Save to `Marketing/Social/Recipes/[recipe-id]/`.
+7. Save to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/`.
 8. Update Asset Manifest in `hugging_face/Projects/cafe-athena/hugging-face-agent.md`.
 
 ---
@@ -146,7 +146,7 @@ Use for: combining Firefly-generated video clip with ZONOS2/Qwen3-TTS voiceover 
 
 **Base template (always start here — do not build from scratch):**
 `https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e`
-Derived from 06-07 Chicken and Dumplings (2026-06-22). Full template reference: `Marketing/Social/Templates/template-social-reel.md`.
+Derived from 06-07 Chicken and Dumplings (2026-06-22). Full template reference: `Marketing/Marketing Content/Social/Templates/template-social-reel.md`.
 
 **Steps:**
 1. Confirm both assets are approved: video MP4 (Firefly) + voiceover WAV (ZONOS2).
@@ -154,7 +154,7 @@ Derived from 06-07 Chicken and Dumplings (2026-06-22). Full template reference: 
 3. Import the MP4 and WAV.
 4. Sync audio to video. Trim or adjust timing as needed.
 5. Export as MP4, 9:16, appropriate quality for social upload.
-6. Save final reel to `Marketing/Social/Recipes/[recipe-id]/` with naming convention: `[recipe-id]-reel-v[###].mp4`.
+6. Save final reel to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/` with naming convention: `[recipe-id]-reel-v[###].mp4`.
 7. Update Asset Manifest.
 
 **FFmpeg fallback (CLI — use only if Adobe Express is unavailable):**
@@ -185,7 +185,7 @@ ffmpeg -i input.wav -filter:a loudnorm output.wav
 
 **Asset manifest:** After any approved asset, update the Asset Manifest table in `hugging_face/Projects/cafe-athena/hugging-face-agent.md`. Record: asset description, type, tool, status (Approved), and file path.
 
-**Completion criteria:** Every Mode 4 session ends with approved assets logged in the Asset Manifest, files saved to `Marketing/Social/Recipes/[recipe-id]/`, and `Marketing/MARKETING_STATUS.md` updated.
+**Completion criteria:** Every Mode 4 session ends with approved assets logged in the Asset Manifest, files saved to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/`, and `Marketing/MARKETING_STATUS.md` updated.
 
 ---
 
@@ -218,7 +218,7 @@ Generate the tracked URL **before** the content is finalised — not after. It g
 
 ### Where to save it
 
-Record the tracked URL in the post's asset folder (`Marketing/Social/Recipes/[recipe-id]/`) alongside the other post metadata (caption draft, approved assets, post date).
+Record the tracked URL in the post's asset folder (`Marketing/Marketing Content/Social/Recipes/[recipe-id]/`) alongside the other post metadata (caption draft, approved assets, post date).
 
 ### If a link is already posted without UTM parameters
 
@@ -268,9 +268,9 @@ You are responsible for reading, creating, and updating these files. Never leave
 | `Marketing/Marketing_Strategy/` | Home for all strategy docs — active plan and archive |
 | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Update posted content log and week statuses at the end of every marketing session |
 | `Marketing/Marketing_Strategy/archived/` | Move superseded strategy docs here when a new strategy is activated |
-| `Marketing/Social/channels.md` | Maintain channel setup tracker |
-| `Marketing/Social/Templates/` | Create post templates per platform |
-| `Marketing/Site-Copy/` | Draft and store site copy (hero, CTAs, footer) |
+| `Marketing/Marketing Content/Social/channels.md` | Maintain channel setup tracker |
+| `Marketing/Marketing Content/Social/Templates/` | Create post templates per platform |
+| `Marketing/Marketing Content/Site-Copy/` | Draft and store site copy (hero, CTAs, footer) |
 | `Marketing/About/` | Assemble the About page content |
 
 ---
@@ -326,7 +326,7 @@ Suggest these proactively when the context matches — they produce structured f
 
 1. Writing any new section to `Brand/BRAND_GUIDELINES.md` — show the proposed content first
 2. Creating a new audience persona — confirm the segment before building it out
-3. Publishing any site copy to `Marketing/Site-Copy/` or `Marketing/About/` — confirm before writing
+3. Publishing any site copy to `Marketing/Marketing Content/Site-Copy/` or `Marketing/About/` — confirm before writing
 4. Changing an existing brand decision — surface the conflict and the proposed change
 5. Setting up any social channel — confirm handle and platform before writing `channels.md`
 

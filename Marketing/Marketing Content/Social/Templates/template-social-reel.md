@@ -27,7 +27,7 @@ Derived from the 06-07 Chicken and Dumplings production run (2026-06-22). First 
 2. **Video clip** — Adobe Firefly, Kling 3.0 Omni, 720p, 9:16, 15s, seed 1847, 300 credits. Upload approved still as reference image.
 3. **Assembly** — Open Adobe Express template (URL above). Import Firefly MP4 + final audio WAV. Sync, trim, export.
 4. **UTM link** — Generate tracked URL before writing caption. Convention: `utm_source=[platform]&utm_medium=reel&utm_campaign=[recipe-slug]&utm_content=[folio-id]`
-5. **Save** — Final MP4 to `Marketing/Social/Recipes/[recipe-id]/` as `[recipe-id]-reel-v001.mp4`.
+5. **Save** — Final MP4 to `Marketing/Marketing Content/Social/Recipes/[recipe-id]/` as `[recipe-id]-reel-v001.mp4`.
 
 ---
 

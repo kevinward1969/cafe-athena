@@ -107,6 +107,9 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `Marketing/MARKETING_STATUS.md` | Active marketing work tracker — points to current strategy and calendar |
 | `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` | Weekly content production tracker and posted content log |
 | `Marketing/Marketing_Strategy/` | All strategy docs — active and archived. Archived folder is gitignored. |
+| `Marketing/Marketing Content/Social/` | Channel setup, post templates, reel production assets |
+| `Marketing/Marketing Content/NotebookLM/` | NotebookLM outputs — infographics, audio, PDFs, slide decks |
+| `Marketing/Marketing Content/Site-Copy/` | Hero, CTA, footer copy drafts |
 | `.claude/commands/` | Slash-command workflow definitions |
 | `scripts/audit.py` | Local Ollama-powered audit & repair tool — scans all recipes for structural issues, generates glossary/keyword fixes, applies with user approval |
 | `The Manual/Cafe-Athena-The-Manual-Current-Version.md` | **Master manuscript index** — the human-facing table of contents for every folio in the book. Must be updated every time a new recipe or technique folio is added. Updated by `/register-recipe` (automatic) or manually when bypassing that workflow. |

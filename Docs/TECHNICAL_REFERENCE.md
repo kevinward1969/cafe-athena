@@ -53,10 +53,12 @@ cafe-athena/
 │
 ├── Marketing/                      # Marketing execution — channels, copy, SEO
 │   ├── MARKETING_STATUS.md         # Active marketing work tracker
-│   ├── Social/                     # Channel setup, post templates
-│   ├── Site-Copy/                  # Hero, CTA, footer copy drafts
+│   ├── Marketing Content/          # All produced marketing content
+│   │   ├── Social/                 # Channel setup, post templates, reel assets
+│   │   ├── Site-Copy/              # Hero, CTA, footer copy drafts
+│   │   └── NotebookLM/             # NotebookLM assets and explainer prompts
+│   ├── Marketing_Strategy/         # Strategy docs (active + archived)
 │   ├── About/                      # About page content
-│   ├── NotebookLM/                 # NotebookLM assets and explainer prompts
 │   └── Resources/                  # Working assets (gitignored)
 │
 ├── Agents/                         # AI surface configurations and architecture
@@ -450,7 +452,7 @@ Skills are invoked automatically when trigger conditions are met. Sources: `✅ 
 | `audience-persona-builder` | ✅ global | Building any file in `Brand/Personas/` |
 | `copywriting` | ✅ global | Writing conversion-focused copy (CTAs, email, site) |
 | `landing-page-copywriter` | ✅ global | Hero copy, subheadlines, About page |
-| `social-content` | ✅ global | Social posts, `Marketing/Social/Templates/` content |
+| `social-content` | ✅ global | Social posts, `Marketing/Marketing Content/Social/Templates/` content |
 | `marketing-psychology` | ✅ global | Making copy or CTA decisions |
 | `marketing-strategy` | ✅ global | `Marketing/` planning documents |
 | `competitive-landscape` | ✅ global | Positioning against other food/cookbook brands |

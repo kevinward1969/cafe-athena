@@ -1,6 +1,6 @@
 # YouTube Video Templates — Café Athena
 
-**Source brief:** `Marketing/Social/brief-youtube.md`
+**Source brief:** `Marketing/Marketing Content/Social/brief-youtube.md`
 **Register:** Acquisition (§6, BRAND_GUIDELINES.md)
 **Last Updated:** 2026-06-16
 

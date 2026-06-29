@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
+| 2026-06-28f | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.3 | v1.14 | v1.5 | v1.6 | v1.3 |
 | 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
 | 2026-06-28c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
@@ -246,13 +247,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 2.2
+**Current Version:** 2.3
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v2.3 | 2026-06-28 | Marketing Content folder restructure. All `Marketing/Social/`, `Marketing/NotebookLM/`, and `Marketing/Site-Copy/` paths updated to `Marketing/Marketing Content/[folder]/` throughout. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.14. Writing Director v1.3 also updated for Site-Copy path. |
 | v2.2 | 2026-06-28 | Marketing folder restructure. Added `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` to SESSION START PROTOCOL (item 3 — read current posting schedule and posted content log). Added `Marketing/Marketing_Strategy/`, `MARKETING_CALENDAR_2026.md`, and `Marketing/Marketing_Strategy/archived/` to OWNED DOCUMENTS with responsibilities. Updated Mode 2 completion criteria to require calendar update alongside status doc update. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.13 (Claude Desktop also gains raw GitHub URLs for calendar and strategy in SESSION START). |
 | v2.0 | 2026-06-28 | Added `Brand/Scorecards/` to SESSION START PROTOCOL (item 6) — read most recent date-stamped scorecard when assessing brand progress, KPI targets, or channel performance. Added `Brand/Scorecards/` to OWNED DOCUMENTS — new date-stamped file per review cycle, never overwrite previous. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.11. |
 | v1.8 | 2026-06-24 | Phase 4 RAG audit. Removed "Brand context you must always carry" block from ROLE & PERSONA — 4 baked-in bullets about origin story, website purpose, personality, and Kevin's role now replaced with an explicit instruction to read `Brand/BRAND_GUIDELINES.md`. Removed "*(once it exists)*" caveat from SESSION START PROTOCOL item 5 — BRAND_GUIDELINES.md exists and must be read unconditionally. Updated OWNED DOCUMENTS row for BRAND_GUIDELINES.md: "Create it" removed; now says "Maintain as master brand reference — read at every session." Updated BRAND GUIDELINES DEVELOPMENT PROTOCOL framing from "when file does not exist" to "when expanding or revising." Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.9. |
@@ -323,11 +325,12 @@ Secondary surface: `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`
 ## Claude Code Sub-Agent — Café Athena Writing Director
 
 **File:** `.claude/agents/Cafe Athena Writing Director.agent.md`
-**Current Version:** 1.2
+**Current Version:** 1.3
 **Status:** Canonical master — no secondary surfaces by design (paragraph approval gate requires interactive session).
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.3 | 2026-06-28 | Updated `Marketing/Site-Copy/` path to `Marketing/Marketing Content/Site-Copy/` in OWNED DOCUMENTS — reflects Marketing Content folder restructure. |
 | v1.2 | 2026-06-28 | Added three editorial principles to Writing Standards, derived from WIRED-editor review of bio-long.md: (1) Narrative order — emotional anchor before mechanical explanation in any origin story or arc; (2) Authority and concession — never retreat into a self-deprecating list after establishing credentials; close the authority-building move with a statement, not a concession; (3) Closing sentences earn the paragraph — the final sentence must match or exceed the paragraph's best moment; a weak close is worse than an honest functional close. |
 | v1.1 | 2026-06-25 | Replaced absolute "cut all brand names" rule with judgment-based guidance: brand names are not banned — they require judgment and must be used well and appropriately. Earned, narrative-serving brand names (specific personal tools, story-grounding details) may stay; brand names functioning as product placement or tech-industry shorthand are still cut. |
 | v1.0 | 2026-06-25 | Initial release. Three-mode system (Draft, Edit, Standards Audit). Owns all prose surfaces — author bios, About page, social captions, promotional copy, email, site hero copy. Pre-writing brief mandatory in Mode 1; paragraph-by-paragraph approval gate in all modes; no file writes until full piece approved. Session start reads BRAND_GUIDELINES.md §5–§6 and writing-exemplars.md before every session. |

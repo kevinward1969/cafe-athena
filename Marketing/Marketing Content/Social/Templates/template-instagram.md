@@ -1,6 +1,6 @@
 # Instagram Post Templates — Café Athena
 
-**Source brief:** `Marketing/Social/brief-instagram.md`
+**Source brief:** `Marketing/Marketing Content/Social/brief-instagram.md`
 **Register:** Acquisition (§6, BRAND_GUIDELINES.md)
 **Last Updated:** 2026-06-16
 

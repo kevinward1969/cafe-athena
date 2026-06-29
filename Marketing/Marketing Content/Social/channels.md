@@ -21,17 +21,17 @@
 
 ## Profile Image Asset
 
-**Primary:** `Marketing/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`
+**Primary:** `Marketing/Marketing Content/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`
 Source: `Brand/Visual Identity/Cafe Athena - Band Mark.svg`. Export at 1080×1080px, PNG. The scalloped outer edge requires testing at 110px crop (Instagram circle) to confirm legibility.
 
-**Fallback:** `Marketing/Social/Profile/Cafe Athena - Icon Mark - 1080px - square.png`
+**Fallback:** `Marketing/Marketing Content/Social/Profile/Cafe Athena - Icon Mark - 1080px - square.png`
 Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform where the band mark scallops disappear at the circle crop.
 
 ## Setup Checklist — Instagram
 
 - [x] Handle registered (@cafeathena_themanual)
-- [x] Profile bio written (`Marketing/Social/brief-instagram.md`)
-- [x] Profile image ready (`Marketing/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`)
+- [x] Profile bio written (`Marketing/Marketing Content/Social/brief-instagram.md`)
+- [x] Profile image ready (`Marketing/Marketing Content/Social/Profile/Cafe Athena - Band Mark - 1080px - square.png`)
 - [x] Profile image uploaded
 - [x] Bio entered in app
 - [x] Link to cafeathenathemanual.com in bio
@@ -40,7 +40,7 @@ Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform
 ## Setup Checklist — YouTube
 
 - [ ] Handle registered
-- [ ] Profile bio written (see `Marketing/Social/brief-youtube.md`)
+- [ ] Profile bio written (see `Marketing/Marketing Content/Social/brief-youtube.md`)
 - [ ] Profile image uploaded
 - [ ] Channel art uploaded
 - [ ] Link to cafeathenathemanual.com in about
@@ -49,7 +49,7 @@ Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform
 ## Setup Checklist — Pinterest
 
 - [ ] Handle registered
-- [ ] Profile bio written (see `Marketing/Social/brief-pinterest.md`)
+- [ ] Profile bio written (see `Marketing/Marketing Content/Social/brief-pinterest.md`)
 - [ ] Profile image uploaded
 - [ ] Link to cafeathenathemanual.com in bio
 - [ ] First pin published
