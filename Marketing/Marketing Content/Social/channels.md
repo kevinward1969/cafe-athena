@@ -64,7 +64,7 @@ Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform
 - [x] Handle registered
 - [x] Profile bio written (see `Marketing/Marketing Content/Social/brief-youtube.md`)
 - [x] Profile image uploaded
-- [ ] Channel art uploaded
+- [x] Channel art uploaded
 - [x] Link to cafeathenathemanual.com in about
 - [x] First video published (2026-06-28 — 06-07 Chicken and Dumplings Short)
 
