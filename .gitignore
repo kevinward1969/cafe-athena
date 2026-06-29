@@ -46,6 +46,7 @@ RecipeIdeas/
 
 # Completed side projects and archived working files
 archived/
+Brand/Archived/
 
 # Marketing media assets — large binaries, tracked outside git
 Marketing/**/*.mp4

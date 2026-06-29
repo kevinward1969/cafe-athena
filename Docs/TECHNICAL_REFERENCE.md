@@ -32,7 +32,7 @@ cafe-athena/
 ├── README.md                       # Public scope document — what the project is
 ├── CLAUDE.md                       # Behavioral contract for Claude Code
 ├── PROJECT_STATUS.md               # Active work tracker — read at session start
-├── INFRA_REORG_PLAN.md             # Document reorganization plan (Phases 1–5)
+├── INFRA_REORG_PLAN.md             # Document reorganization plan — all phases complete ✅
 ├── .markdownlint.json              # Shared markdownlint config
 │
 ├── Docs/
@@ -41,15 +41,23 @@ cafe-athena/
 ├── Brand/                          # Brand identity — persona, voice, creative standards
 │   ├── BRAND_STATUS.md             # Active brand work tracker
 │   ├── BRAND_GUIDELINES.md         # Typography, color, voice, tone — master brand reference
+│   ├── BRAND_SCOPE.md              # Brand scope definition
 │   ├── Author/                     # Author bio versions (short, long, social)
 │   ├── Personas/                   # Audience and customer identities
-│   └── Creative/                   # Logo guidance, visual asset standards
+│   ├── Creative/                   # Logo guidance, visual asset standards
+│   ├── Visual Identity/            # Logo files (SVG — black, color, white; AI source)
+│   ├── Scorecards/                 # Date-stamped brand strategy scorecards
+│   ├── Social/                     # Social channel assets and templates
+│   ├── Resources/                  # Reference materials
+│   └── Archived/                   # Completed build docs (gitignored)
 │
 ├── Marketing/                      # Marketing execution — channels, copy, SEO
 │   ├── MARKETING_STATUS.md         # Active marketing work tracker
 │   ├── Social/                     # Channel setup, post templates
 │   ├── Site-Copy/                  # Hero, CTA, footer copy drafts
-│   └── About/                      # About page content
+│   ├── About/                      # About page content
+│   ├── NotebookLM/                 # NotebookLM assets and explainer prompts
+│   └── Resources/                  # Working assets (gitignored)
 │
 ├── Agents/                         # AI surface configurations and architecture
 │   ├── AGENT_CHANGELOG.md          # Version history for all agent surfaces
@@ -386,7 +394,7 @@ All commands run in Claude Code. Definitions in `.claude/commands/`.
 | **Claude Code — Markdownlint QA sub-agent** | Claude Code (Antigravity) | Two-stage markdown lint detection and repair pipeline |
 | **Claude Code — Recipe Clarity Auditor sub-agent** | Claude Code (Antigravity) | Instructional clarity audit — forward references, ambiguous parentheticals, unlisted ingredients |
 | **Gemini Gem 1 — The Chef** | Google Gemini Gems | Fallback surface for all 3 Chef modes — maintained, not primary |
-| **Gemini Gem 2 — Visual Director** | Google Gemini (Imagen) | Recipe hero images only (Lane 1) |
+| **Gemini Gem 2 — Visual Director** | Google Gemini (Imagen) | Recipe hero images (Lane 1) + social brand assets (Mode 4) |
 
 ### Canonical Agent Files & Surface Manifest
 
@@ -419,7 +427,7 @@ When any agent file is modified:
 | Claude Code — Technical Director | All technical work: Astro site, pipeline scripts, deploys, image optimization, agent/skill/command development |
 | Claude Code (orchestrator) | Format audits, glossary operations, brand/marketing file execution, anything not owned by a sub-agent |
 | Gemini Gem 1 | Fallback for Modes 1–3 (Claude Desktop is primary) |
-| Gemini Gem 2 | Cookbook hero images and reference images only — Lane 1 |
+| Gemini Gem 2 | Cookbook hero images and reference images (Lane 1) · Social brand assets (Mode 4) |
 | HF Tools | Promotional stills (FLUX.1), text-in-image graphics (Ideogram 4), video (Wan2.2), voiceovers (TTS) |
 
 ---
