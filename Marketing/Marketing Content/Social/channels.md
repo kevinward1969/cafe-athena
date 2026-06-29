@@ -11,7 +11,19 @@
 | Instagram | @cafeathena_themanual | [instagram.com/cafeathena_themanual](https://www.instagram.com/cafeathena_themanual/) | Live — first reel posted 2026-06-28 |
 | Pinterest | CafeAthenaTheManual | [pinterest.com/CafeAthenaTheManual](https://www.pinterest.com/CafeAthenaTheManual/) | Live — first pin posted 2026-06-28 |
 | YouTube | — | [youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA](https://www.youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA) | Live — first Short posted 2026-06-28 |
-| Facebook | — | — | Not in strategy — none of the three personas use Facebook for cooking content; content model doesn't match platform mechanics. |
+| Facebook | Kevin Ward (personal) | — | Secondary — Kevin posts manually to personal account. Not tracked in marketing_content.json. No UTM applied to pre-protocol posts. |
+
+## Pinterest Boards
+
+| Board | URL | Content |
+|---|---|---|
+| Café Athena — The Manual: Recipes | [pinterest.com/CafeAthenaTheManual/café-athena-the-manual-recipes](https://www.pinterest.com/CafeAthenaTheManual/caf%C3%A9-athena-the-manual-recipes/) | Recipe reels, EXPO post pins, recipe singles |
+| Café Athena — The Manual: Cooking Techniques | [pinterest.com/CafeAthenaTheManual/café-athena-the-manual-cooking-techniques](https://www.pinterest.com/CafeAthenaTheManual/caf%C3%A9-athena-the-manual-cooking-techniques/) | Foundation chapter technique folios, practical execution |
+| Café Athena — The Manual: Cooking Science | [pinterest.com/CafeAthenaTheManual/café-athena-the-manual-cooking-science](https://www.pinterest.com/CafeAthenaTheManual/caf%C3%A9-athena-the-manual-cooking-science/) | Chapter 1 (The Lab) folios, NotebookLM infographics, document pins |
+
+Hashtags by board: `#CafeAthenaRecipes` / `#CafeAthenaCookingTechniques` / `#CafeAthenaCookingScience`. Brand hashtag `#cafeathenathemanual` on every post on every platform.
+
+---
 
 ## Design Tools
 
@@ -35,21 +47,24 @@ Source: `Brand/Visual Identity/Cafe Athena - Icon Mark.svg`. Use on any platform
 - [x] Profile image uploaded
 - [x] Bio entered in app
 - [x] Link to cafeathenathemanual.com in bio
-- [ ] First post published
+- [x] First post published (2026-06-28 — 06-07 Chicken and Dumplings)
 
 ## Setup Checklist — YouTube
 
-- [ ] Handle registered
-- [ ] Profile bio written (see `Marketing/Marketing Content/Social/brief-youtube.md`)
-- [ ] Profile image uploaded
+- [x] Handle registered
+- [x] Profile bio written (see `Marketing/Marketing Content/Social/brief-youtube.md`)
+- [x] Profile image uploaded
 - [ ] Channel art uploaded
-- [ ] Link to cafeathenathemanual.com in about
-- [ ] First video / pinned content published
+- [x] Link to cafeathenathemanual.com in about
+- [x] First video published (2026-06-28 — 06-07 Chicken and Dumplings Short)
 
 ## Setup Checklist — Pinterest
 
-- [ ] Handle registered
-- [ ] Profile bio written (see `Marketing/Marketing Content/Social/brief-pinterest.md`)
+- [x] Handle registered (CafeAthenaTheManual)
+- [x] Profile bio written (see `Marketing/Marketing Content/Social/brief-pinterest.md`)
 - [ ] Profile image uploaded
-- [ ] Link to cafeathenathemanual.com in bio
-- [ ] First pin published
+- [x] Link to cafeathenathemanual.com in bio
+- [x] First pin published (2026-06-28 — 06-07 Chicken and Dumplings)
+- [x] Recipes board created
+- [x] Cooking Techniques board created
+- [x] Cooking Science board created

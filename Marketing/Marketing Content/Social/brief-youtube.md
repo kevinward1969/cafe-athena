@@ -1,7 +1,9 @@
 # YouTube Channel Brief — Café Athena
 
-**Status:** Pre-launch
-**Last Updated:** 2026-06-16
+**Status:** Live — first Short posted 2026-06-28
+**Channel:** Café Athena — The Manual
+**URL:** youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA
+**Last Updated:** 2026-06-29
 
 ---
 
@@ -28,26 +30,68 @@ Persona 3 uses YouTube for rabbit-hole research but doesn't subscribe reliably. 
 ## Content Pillars
 
 ### 1. Technique Foundations
+
 Direct video translations of the technique folios — the principle explained, demonstrated, and applied to at least one recipe from the book. These are the core of the channel. One per folio: knife skills and mise en place, the fond, emulsification, pasta structure, stock extraction. Long-form (12–25 min), dense, no padding. These rank long-tail and compound over time.
 
 ### 2. Why It Works
+
 Shorter standalone videos (6–10 min) built around a single culinary question: *Why does pasta water work in a sauce? What is the Maillard reaction and when does it actually matter? Why does fat temperature control texture in pastry?* Entry points for Persona 2 — search-driven, high-value for the algorithm because they satisfy intent completely. Each one should answer the question fully and surface at least one related folio on the site.
 
 ### 3. Cooked, Not Styled
+
 A cooking video that documents the dish as made — not a tutorial, not a performance. This is closer to Jacques Pépin's kitchen style than to a food network production: the cook knows what they're doing and the camera follows the work. Shorter (8–12 min), lower production threshold. Shows the kitchen, not a set. Caption: what it was, why it went in the book.
 
 ### 4. The Manual, Explained
+
 Channel-exclusive series: a walk through the manuscript's architecture. What each part covers, how it's organized, why it's structured the way it is. Not a review of the site — a genuine explanation of how the book thinks. One video per part of the four-part arc (Academy, Brigade, Larder, Expo). Doubles as long-form authority content and a persistent onboarding resource for new subscribers.
 
 ---
 
 ## Posting Cadence
 
-**1 video every 2 weeks, pre-launch phase.** This is the correct pace for a solo creator building quality long-form content without a production team. YouTube's algorithm rewards consistency over frequency; a steady 2-week cadence is more sustainable and less damaging to quality than a weekly obligation that forces rushed work.
+**2 uploads per week** from the standard content calendar:
 
-Pre-launch: build a bank of 3–5 videos before publishing anything. Sequence them: start with Pillar 1 (technique foundation) or Pillar 4 (The Manual, Explained) to establish the channel's intellectual register before the shorter-form content begins.
+| Day | Content | Format | Time |
+|---|---|---|---|
+| Friday | Technique Video Overview (NotebookLM Studio) + Technique reel repurposed as Short | Long-form video + Short | 2–5pm |
+| Weekly (flexible) | Recipe reel repurposed as Short | Short | Same week as Instagram recipe reel |
 
-No Shorts at launch. They serve a different audience and a different algorithm. Add them later, if at all.
+The Video Overview is the long-form anchor. The Short is the same technique reel uploaded to IG on Thursday — same 9:16 asset, no additional production. Recipe Shorts follow the same pattern: Instagram reel → YouTube Short, no recut needed.
+
+**Long-form bank:** Build 3–5 Video Overviews before beginning the cadence. YouTube's algorithm rewards consistent watch-time; a channel with one video underperforms at launch. Once the bank exists, weekly publishing is sustainable.
+
+---
+
+## Playlists
+
+Three playlists mirror the Pinterest board structure exactly — same names, same routing logic. Every uploaded video is assigned to exactly one playlist at upload time.
+
+| Playlist | Content |
+|---|---|
+| Café Athena — The Manual: Recipes | Recipe reels (Shorts), EXPO-paired videos |
+| Café Athena — The Manual: Cooking Techniques | Foundation chapter technique Video Overviews and Shorts (Chapter 2 folios) |
+| Café Athena — The Manual: Cooking Science | Chapter 1 (The Lab) Video Overviews and Shorts — thermodynamics, emulsification, salinity, baker's percentages |
+
+**Format note:** Use **Series playlist** type for Cooking Techniques and Cooking Science — YouTube treats these as structured courses, which improves recommendation sequencing. Recipes can be a standard playlist.
+
+---
+
+## Hashtag Strategy
+
+Two layers on every upload — in the video description, not the title.
+
+**Brand hashtag (every upload):**
+`#cafeathenathemanual`
+
+**Content category hashtag (match to playlist):**
+
+| Playlist | Hashtag |
+|---|---|
+| Recipes | `#CafeAthenaRecipes` |
+| Cooking Techniques | `#CafeAthenaCookingTechniques` |
+| Cooking Science | `#CafeAthenaCookingScience` |
+
+These hashtags are consistent across Instagram, Pinterest, and YouTube.
 
 ---
 

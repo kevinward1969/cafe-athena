@@ -2,7 +2,7 @@
 
 **Source brief:** `Marketing/Marketing Content/Social/brief-pinterest.md`
 **Register:** Acquisition (§6, BRAND_GUIDELINES.md)
-**Last Updated:** 2026-06-16
+**Last Updated:** 2026-06-29
 
 ---
 
@@ -50,19 +50,34 @@
 ### Board Assignment
 
 ```
-[STATION BOARD NAME]
+[BOARD NAME]
 ```
 
-*Board names mirror the manuscript's architecture:*
-- `The Academy` — technique folios, knife skills, foundational method
-- `The Garde Manger` — cold preparations, charcuterie, salads
-- `The Saucier` — emulsifications, reductions, stocks, sauces
-- `The Rôtisseur` — roasting, braising, grilling
-- `The Poissonnier` — fish and shellfish
-- `The Entremetier` — vegetables, grains, starches
-- `The Pâtissier` — pastry, dough, confections
-- `The Larder` — stocks, fond, compound butters, spice blends
-- `The Butcher` — meat breakdown and preparation
+Assign to exactly one of the three boards based on content type:
+
+| Board | Assign when… |
+|---|---|
+| Café Athena — The Manual: Recipes | Recipe reel, EXPO post pin, recipe single |
+| Café Athena — The Manual: Cooking Techniques | Technique folio from Chapter 2 (Foundation) |
+| Café Athena — The Manual: Cooking Science | Chapter 1 (The Lab) folio, NotebookLM infographic or document pin |
+
+---
+
+### Hashtags
+
+```
+#cafeathenathemanual #[BOARD CATEGORY HASHTAG]
+```
+
+Board category hashtag per board:
+
+| Board | Hashtag |
+|---|---|
+| Recipes | `#CafeAthenaRecipes` |
+| Cooking Techniques | `#CafeAthenaCookingTechniques` |
+| Cooking Science | `#CafeAthenaCookingScience` |
+
+Weave into the description closing line — do not append as a bare tag dump.
 
 ---
 
@@ -79,7 +94,7 @@ cafeathenathemanual.com/[RECIPE OR FOLIO SLUG]
 ---
 
 ## Template B — Recipe Single Pin
-**Pillar 2: Recipe Singles | Board: [STATION NAME]**
+**Pillar 2: Recipe Singles | Board: Café Athena — The Manual: Recipes**
 
 *One pin per recipe. Lead with what makes it structurally interesting — the technique, the principle, the thing the headnote explains — not a flavor list.*
 
@@ -118,10 +133,20 @@ cafeathenathemanual.com/[RECIPE OR FOLIO SLUG]
 ### Board Assignment
 
 ```
-[STATION BOARD NAME]
+Café Athena — The Manual: Recipes
 ```
 
-*Use the same board taxonomy as Template A. Recipe pins go to the station where that dish lives in the manuscript. A pasta dish goes to `The Saucier` or `The Entremetier` depending on how the technique is weighted.*
+All recipe single pins go to the Recipes board.
+
+---
+
+### Hashtags
+
+```
+#cafeathenathemanual #CafeAthenaRecipes
+```
+
+Weave into the description closing line — do not append as a bare tag dump.
 
 ---
 

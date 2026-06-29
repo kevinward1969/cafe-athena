@@ -1,7 +1,9 @@
 # Instagram Channel Brief — Café Athena
 
-**Status:** Pre-launch
-**Last Updated:** 2026-06-16
+**Status:** Live — first reel posted 2026-06-28
+**Handle:** @cafeathena_themanual
+**URL:** instagram.com/cafeathena_themanual
+**Last Updated:** 2026-06-29
 
 ---
 
@@ -24,28 +26,55 @@ Persona 1 (The Serious Home Cook) is also reachable here but converts more relia
 ## Content Pillars
 
 ### 1. The Why Behind a Step
+
 A single technique moment pulled from a recipe — the structural reason for one step that most recipes skip. Not a tutorial. One clear visual, one tight caption that explains the principle. Format: static image or short Reel (under 60s). Example territory: *why you rest the dough before rolling*, *why the pan needs to be dry before the fat goes in*, *what it looks like when a reduction is actually ready*.
 
 ### 2. The Cookbook, Opened
+
 A folio introduced — not reviewed or summarized, but shown as it exists: title, a line from the headnote, and the detail that explains the why of the dish. Makes the site legible before anyone visits it. Format: static carousel (2–3 frames: dish name / headnote excerpt / one technique detail from that recipe).
 
 ### 3. Origin Frame
+
 Posts drawn from the author story and project context — named for Athena, built to solve a real problem, a cookbook that grew from a personal archive. These run sparingly (once or twice a month) and never perform warmth. They state facts. The origin story earns trust; it does not need to sell.
 
 ### 4. The Table
+
 Finished dish, photographed as it was cooked — for the household, not for content. No elaborate food styling, no trend-chasing plating. The aesthetic is consistent with the site: warm surfaces (cream, parchment), editorial framing. Every image should look like it came from the same kitchen. Caption optional or minimal.
 
 ---
 
 ## Posting Cadence
 
-**3 posts per week, pre-launch.** Sustainable for a solo creator.
+**3 posts per week.** From the standard weekly content calendar:
 
-- **Mon:** Pillar 1 (The Why Behind a Step) — knowledge post, highest potential for save/share
-- **Wed:** Pillar 4 (The Table) — visual post, low lift, maintains consistency
-- **Fri:** Pillar 2 or 3 (Cookbook / Origin, alternating) — drives to site
+| Day | Content | Format | Time |
+|---|---|---|---|
+| Tuesday | EXPO post share — link in bio, caption drives to site | Feed post | Any time |
+| Wednesday | Recipe reel — Brigade or Larder folio | Reel | 6–9pm |
+| Thursday | Technique reel — Foundation chapter folio | Reel | 9am |
 
 Stories: post to mark new site content going live. No story-exclusive content initially — the grid is the priority.
+
+**Content pillar mapping:** Technique reels = Pillar 1 (The Why Behind a Step). Recipe reels = Pillar 4 (The Table). EXPO shares = Pillar 2 (The Cookbook, Opened). Origin Frame posts (Pillar 3) run sparingly — once or twice a month, not on a fixed day.
+
+---
+
+## Hashtag Strategy
+
+Two layers on every post. Weave into the caption closing line — not a bare tag dump at the end.
+
+**Brand hashtag (every post):**
+`#cafeathenathemanual`
+
+**Content category hashtag (match to post type):**
+
+| Content | Hashtag |
+|---|---|
+| Recipe reel | `#CafeAthenaRecipes` |
+| Technique reel | `#CafeAthenaCookingTechniques` or `#CafeAthenaCookingScience` (match the folio's chapter) |
+| EXPO post share | matches the folio the EXPO post is about |
+
+These hashtags are consistent across Instagram, Pinterest, and YouTube.
 
 ---
 
