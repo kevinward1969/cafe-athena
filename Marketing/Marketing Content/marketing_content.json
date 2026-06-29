@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-06-28",
+    "description": "Marketing content registry — all content entries across types and channels"
+  },
+  "entries": [
+    {
+      "id": "2026-07-07-expo-01-01",
+      "type": "expo_post",
+      "week": "2026-07-07",
+      "theme": "Heat",
+      "folio": "01-01",
+      "title": "Why Temperature Is the First Variable Every Cook Must Master",
+      "stages": {
+        "copy_written": false,
+        "copy_approved": false,
+        "cover_images_produced": false,
+        "cover_images_approved": false,
+        "ready": false
+      },
+      "copy": {
+        "headline": "",
+        "subhead": "",
+        "social_caption": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "cover_images": {
+        "instagram": { "path": "", "dimensions": "1080x1080", "status": "pending" },
+        "pinterest":  { "path": "", "dimensions": "1000x1500", "status": "pending" },
+        "youtube":    { "path": "", "dimensions": "1080x1080", "status": "pending" }
+      },
+      "platforms": {
+        "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-01-expo&utm_content=01-01", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-07-technique-01-01",
+      "type": "technique_reel",
+      "week": "2026-07-07",
+      "theme": "Heat",
+      "folio": "01-01",
+      "title": "Your Food Isn't Cooking — It's Transferring Heat",
+      "notebooklm_title": "",
+      "stages": {
+        "video_asset_confirmed": true,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "video":       { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-01 - Culinary_Thermodynamics.mp4", "status": "ready" },
+        "infographic": { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-01 - Chef_s_Guide_to_Cooking_Thermodynamics.webp", "status": "ready" },
+        "pdf":         { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-01 - Culinary_Thermodynamics.pdf", "status": "ready" },
+        "thumbnail":   { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",          "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=heat-control&utm_content=01-01", "status": "planned" },
+        "youtube":   { "format": "short",         "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=heat-control&utm_content=01-01", "status": "planned" },
+        "pinterest": { "format": "document_pin",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=document_pin&utm_campaign=heat-control&utm_content=01-01", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-07-recipe-06-04",
+      "type": "recipe_reel",
+      "week": "2026-07-07",
+      "theme": "Heat",
+      "folio": "06-04",
+      "title": "Nashville Hot Chicken — The Heat That Fights Back",
+      "stages": {
+        "firefly_video_produced": false,
+        "firefly_video_approved": false,
+        "voiceover_produced": false,
+        "voiceover_approved": false,
+        "assembled": false,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "source_still":   { "path": "", "status": "pending" },
+        "firefly_video":  { "path": "", "status": "pending" },
+        "voiceover":      { "path": "", "status": "pending" },
+        "assembled_reel": { "path": "", "status": "pending" },
+        "thumbnail":      { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" },
+        "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" },
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=nashville-hot-chicken&utm_content=06-04", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-14-expo-01-02",
+      "type": "expo_post",
+      "week": "2026-07-14",
+      "theme": "Salt",
+      "folio": "01-02",
+      "title": "Salt Isn't Seasoning. It's Architecture.",
+      "stages": {
+        "copy_written": false,
+        "copy_approved": false,
+        "cover_images_produced": false,
+        "cover_images_approved": false,
+        "ready": false
+      },
+      "copy": {
+        "headline": "",
+        "subhead": "",
+        "social_caption": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "cover_images": {
+        "instagram": { "path": "", "dimensions": "1080x1080", "status": "pending" },
+        "pinterest":  { "path": "", "dimensions": "1000x1500", "status": "pending" },
+        "youtube":    { "path": "", "dimensions": "1080x1080", "status": "pending" }
+      },
+      "platforms": {
+        "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-02-expo&utm_content=01-02", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-14-technique-01-02",
+      "type": "technique_reel",
+      "week": "2026-07-14",
+      "theme": "Salt",
+      "folio": "01-02",
+      "title": "You've Been Salting Your Food at the Wrong Time",
+      "notebooklm_title": "",
+      "stages": {
+        "video_asset_confirmed": true,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "video":       { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-02_Salinity___Equilibrium.mp4", "status": "ready" },
+        "infographic": { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-02 Salt_and_Culinary_Water_Management.webp", "status": "ready" },
+        "pdf":         { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-02 Salt_and_Water_Management.pdf", "status": "ready" },
+        "thumbnail":   { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",          "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=salinity-equilibrium&utm_content=01-02", "status": "planned" },
+        "youtube":   { "format": "short",         "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=salinity-equilibrium&utm_content=01-02", "status": "planned" },
+        "pinterest": { "format": "document_pin",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=document_pin&utm_campaign=salinity-equilibrium&utm_content=01-02", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-14-recipe-03-01",
+      "type": "recipe_reel",
+      "week": "2026-07-14",
+      "theme": "Salt",
+      "folio": "03-01",
+      "title": "Liquid Mozzarella Spheres — The Caprese You Can't Look Away From",
+      "stages": {
+        "firefly_video_produced": false,
+        "firefly_video_approved": false,
+        "voiceover_produced": false,
+        "voiceover_approved": false,
+        "assembled": false,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "source_still":   { "path": "", "status": "pending" },
+        "firefly_video":  { "path": "", "status": "pending" },
+        "voiceover":      { "path": "", "status": "pending" },
+        "assembled_reel": { "path": "", "status": "pending" },
+        "thumbnail":      { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" },
+        "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" },
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=liquid-mozzarella-spheres&utm_content=03-01", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-21-expo-01-03",
+      "type": "expo_post",
+      "week": "2026-07-21",
+      "theme": "Bread",
+      "folio": "01-03",
+      "title": "The Number That Fixes Bread (And Why You've Never Heard of It)",
+      "stages": {
+        "copy_written": false,
+        "copy_approved": false,
+        "cover_images_produced": false,
+        "cover_images_approved": false,
+        "ready": false
+      },
+      "copy": {
+        "headline": "",
+        "subhead": "",
+        "social_caption": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "cover_images": {
+        "instagram": { "path": "", "dimensions": "1080x1080", "status": "pending" },
+        "pinterest":  { "path": "", "dimensions": "1000x1500", "status": "pending" },
+        "youtube":    { "path": "", "dimensions": "1080x1080", "status": "pending" }
+      },
+      "platforms": {
+        "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-03-expo&utm_content=01-03", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-21-technique-01-03",
+      "type": "technique_reel",
+      "week": "2026-07-21",
+      "theme": "Bread",
+      "folio": "01-03",
+      "title": "Stop Guessing Flour. Use This Formula Instead.",
+      "notebooklm_title": "",
+      "stages": {
+        "video_asset_confirmed": true,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "video":       { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-03 Baker's Percentages.mp4", "status": "ready" },
+        "infographic": { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-03 Mastering_Bread_Hydration_and_Scaling.webp", "status": "ready" },
+        "pdf":         { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-03 Mastering_Baker_s_Percentages.pdf", "status": "ready" },
+        "thumbnail":   { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",          "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=bakers-percentages&utm_content=01-03", "status": "planned" },
+        "youtube":   { "format": "short",         "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=bakers-percentages&utm_content=01-03", "status": "planned" },
+        "pinterest": { "format": "document_pin",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=document_pin&utm_campaign=bakers-percentages&utm_content=01-03", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-21-recipe-09-07",
+      "type": "recipe_reel",
+      "week": "2026-07-21",
+      "theme": "Bread",
+      "folio": "09-07",
+      "title": "Gooey Butter Cake — St. Louis's Best Accident",
+      "stages": {
+        "firefly_video_produced": false,
+        "firefly_video_approved": false,
+        "voiceover_produced": false,
+        "voiceover_approved": false,
+        "assembled": false,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "source_still":   { "path": "", "status": "pending" },
+        "firefly_video":  { "path": "", "status": "pending" },
+        "voiceover":      { "path": "", "status": "pending" },
+        "assembled_reel": { "path": "", "status": "pending" },
+        "thumbnail":      { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" },
+        "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" },
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=gooey-butter-cake&utm_content=09-07", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-28-expo-01-04",
+      "type": "expo_post",
+      "week": "2026-07-28",
+      "theme": "The Bond",
+      "folio": "01-04",
+      "title": "Why Some Sauces Hold and Some Sauces Break",
+      "stages": {
+        "copy_written": false,
+        "copy_approved": false,
+        "cover_images_produced": false,
+        "cover_images_approved": false,
+        "ready": false
+      },
+      "copy": {
+        "headline": "",
+        "subhead": "",
+        "social_caption": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "cover_images": {
+        "instagram": { "path": "", "dimensions": "1080x1080", "status": "pending" },
+        "pinterest":  { "path": "", "dimensions": "1000x1500", "status": "pending" },
+        "youtube":    { "path": "", "dimensions": "1080x1080", "status": "pending" }
+      },
+      "platforms": {
+        "site":      { "format": "article",   "scheduled_date": "", "posted_date": "", "url": "", "status": "planned" },
+        "instagram": { "format": "feed_post", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=feed_post&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" },
+        "pinterest": { "format": "pin",       "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" },
+        "youtube":   { "format": "community", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=community&utm_campaign=01-04-expo&utm_content=01-04", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-28-technique-01-04",
+      "type": "technique_reel",
+      "week": "2026-07-28",
+      "theme": "The Bond",
+      "folio": "01-04",
+      "title": "The Science Behind Every Emulsion in Your Kitchen",
+      "notebooklm_title": "",
+      "stages": {
+        "video_asset_confirmed": true,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "video":       { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-04_Emulsions___Hydrocolloids.mp4", "status": "ready" },
+        "infographic": { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-04 Culinary_Guide_to_Food_Emulsions.webp", "status": "ready" },
+        "pdf":         { "path": "Marketing/Marketing Content/NotebookLM/Chapter 1/01-04 Modern_Emulsion_Mechanics.pdf", "status": "ready" },
+        "thumbnail":   { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",          "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=emulsions&utm_content=01-04", "status": "planned" },
+        "youtube":   { "format": "short",         "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=emulsions&utm_content=01-04", "status": "planned" },
+        "pinterest": { "format": "document_pin",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=document_pin&utm_campaign=emulsions&utm_content=01-04", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    },
+    {
+      "id": "2026-07-28-recipe-08-01",
+      "type": "recipe_reel",
+      "week": "2026-07-28",
+      "theme": "The Bond",
+      "folio": "08-01",
+      "title": "King Trumpet 'Scallops' & Celeriac Mousseline — Technique in Disguise",
+      "stages": {
+        "firefly_video_produced": false,
+        "firefly_video_approved": false,
+        "voiceover_produced": false,
+        "voiceover_approved": false,
+        "assembled": false,
+        "copy_written": false,
+        "copy_approved": false,
+        "ready": false
+      },
+      "assets": {
+        "source_still":   { "path": "", "status": "pending" },
+        "firefly_video":  { "path": "", "status": "pending" },
+        "voiceover":      { "path": "", "status": "pending" },
+        "assembled_reel": { "path": "", "status": "pending" },
+        "thumbnail":      { "path": "", "status": "pending" }
+      },
+      "copy": {
+        "hook": "",
+        "caption": "",
+        "cta": ""
+      },
+      "hashtags": {
+        "instagram": [],
+        "pinterest": [],
+        "youtube": []
+      },
+      "platforms": {
+        "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=instagram&utm_medium=reel&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" },
+        "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=youtube&utm_medium=short&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" },
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "utm_source=pinterest&utm_medium=pin&utm_campaign=king-trumpet-scallops&utm_content=08-01", "status": "planned" }
+      },
+      "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
+    }
+  ]
+}

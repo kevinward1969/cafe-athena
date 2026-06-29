@@ -15,13 +15,26 @@
 
 ---
 
+## Next Actions — Week 1 (July 7 deadline)
+
+Work in this order. Do not start Week 2 until Week 1 is confirmed ready.
+
+| # | Action | Who | Status |
+|---|--------|-----|--------|
+| 1 | Write blog post: *"Why Temperature Is the First Variable Every Cook Must Master"* (folio 01-01) | Writing Director | 🔲 |
+| 2 | Publish blog post to site with `publishDate: 2026-07-07` + configure GitHub Actions daily deploy | Technical Director | 🔲 |
+| 3 | Produce 3 blog post cover images (1080×1080 IG, 1000×1500 Pinterest, 1080×1080 YouTube) | Brand Manager | 🔲 |
+| 4 | Produce Nashville Hot Chicken recipe reel — Firefly → voiceover → Adobe Express assembly (folio 06-04) | Kevin | 🔲 |
+| 5 | Write copy + hashtags for technique reel and recipe reel (hook, caption, CTA for both) | Writing Director | 🔲 |
+
+All five pieces feed into the same registry entry block: `marketing_content.json` entries `2026-07-07-*`. Update `stages` and `platforms` as each step completes.
+
 ## Pending Items
 
 | Item | Status | Notes |
 |---|---|---|
-| Phase 1 content bank | 🔲 Pending | Produce + schedule first 4 weeks: 4 technique folios, 4 recipe reels, 4 EXPO posts — requires EXPO scheduled publish feature |
 | UTM mapping — technique folio content type | 🔲 Pending | Complete before first technique folio post goes live |
-| EXPO scheduled publishing | ✅ Built (2026-06-28) | `publishDate` field added to expo schema. Posts with a future date are excluded at build time. GitHub Actions daily deploy deferred — set up when July content batch is ready. |
+| EXPO scheduled publishing | ✅ Built (2026-06-28) | `publishDate` field added to expo schema. Posts with a future date are excluded at build time. GitHub Actions daily deploy deferred — configure as Action #2 above. |
 
 ## Phase 7 — Completed Items
 
