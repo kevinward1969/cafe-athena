@@ -21,7 +21,7 @@
 |---|---|---|
 | Phase 1 content bank | 🔲 Pending | Produce + schedule first 4 weeks: 4 technique folios, 4 recipe reels, 4 EXPO posts — requires EXPO scheduled publish feature |
 | UTM mapping — technique folio content type | 🔲 Pending | Complete before first technique folio post goes live |
-| EXPO scheduled publishing | 🔲 Pending | Technical Director task — needed before Phase 1 content bank |
+| EXPO scheduled publishing | ✅ Built (2026-06-28) | `publishDate` field added to expo schema. Posts with a future date are excluded at build time. GitHub Actions daily deploy deferred — set up when July content batch is ready. |
 
 ## Phase 7 — Completed Items
 

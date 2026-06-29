@@ -3,7 +3,10 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const allPosts = await getCollection('expo');
+  const now = new Date();
+  const allPosts = (await getCollection('expo')).filter(
+    p => !p.data.publishDate || p.data.publishDate <= now
+  );
 
   const tagSet = new Set<string>();
   for (const post of allPosts) {

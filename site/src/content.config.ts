@@ -26,6 +26,7 @@ const expo = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.date(),
+    publishDate: z.date().optional(),
     excerpt: z.string(),
     heroImage: z.string().optional(),
     relatedRecipes: z.array(z.string()).optional().default([]),

@@ -35,6 +35,14 @@ All 5 phases complete as of 2026-06-24. See `INFRA_REORG_PLAN.md` for full recor
 
 ---
 
+## 🔖 Pending New Work
+
+| Item | Notes |
+| :--- | :--- |
+| GitHub Actions daily deploy | Set up when July EXPO content batch is ready. Workflow: checkout repo → prepare-content.py → astro build → rsync to FastComet via SSH. Requires FastComet SSH key added to GitHub Secrets. Pairs with `publishDate` field already in expo schema. |
+
+---
+
 ## 🔖 Pending from Prior Sessions
 
 Items deferred from earlier sessions. Session handoff writes here. Resolve or carry forward each session.
