@@ -49,12 +49,14 @@ def clean_dirs():
         shutil.rmtree(CONTENT_DIR)
     os.makedirs(CONTENT_DIR, exist_ok=True)
 
-    # Images dir: remove recipe images only, keep section-*.webp and
-    # already-optimized WebP hero images (XX-YY.webp pattern).
+    # Images dir: only delete files that start with a digit but don't match
+    # the recipe ID pattern (stale pipeline artifacts). All named static
+    # assets (section-*, banner-*, placeholder*, author photos, etc.) are
+    # preserved regardless of prefix.
     if os.path.exists(IMAGES_DIR):
         recipe_id_pattern = re.compile(r'^\d{2}-\d{2}[a-z]*(?:_\d+)?\.webp$')
         for fname in os.listdir(IMAGES_DIR):
-            if not fname.startswith('section-') and not fname.startswith('banner-') and not fname.startswith('placeholder') and not recipe_id_pattern.match(fname):
+            if re.match(r'^\d', fname) and not recipe_id_pattern.match(fname):
                 fpath = os.path.join(IMAGES_DIR, fname)
                 if os.path.isfile(fpath):
                     os.remove(fpath)

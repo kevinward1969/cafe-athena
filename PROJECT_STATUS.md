@@ -13,7 +13,7 @@ In-progress folios. Completed items are tracked via `The Manual/recipes.json` an
 | Folio | Title | Status | Notes |
 | :--- | :--- | :--- | :--- |
 | 06-07 | Chicken and Dumplings — social content | ✅ Complete | Published as Facebook reel 2026-06-22. First multi-tool HF production run — all stages done. Assets in `Marketing/Marketing Content/Social/Recipes/06-07/`. |
-| — | Agent audit & doc alignment | ✅ Complete | Phase 1 audit complete (session 62). All gaps closed. See Strategic Context. bio-long.md P3–P5 deferred — separate task, see Pending. |
+| — | Agent audit & doc alignment | ✅ Complete | Phase 1 audit complete (session 62). All gaps closed. See Strategic Context. |
 
 ---
 
@@ -50,7 +50,6 @@ Items deferred from earlier sessions. Session handoff writes here. Resolve or ca
 | Item | Context | Blocking Condition | Since |
 | :--- | :--- | :--- | :--- |
 | AI setup health audit | Context degradation and repeated errors observed 2026-06-14 session. `context-window-management` and `claude-code-guide` skills installed. `everything-claude-code:context-budget` and `harness-optimizer` available. | Start fresh session; run context-budget + harness-optimizer to audit full setup | 2026-06-14 |
-| bio-long.md — P3, P4, P5 repair | P1 and P2 are approved and seeded into writing-exemplars.md. P3 violations resolved in session 62 (Samsung → smart refrigerator; AI Chef Agent/Gemini cut; OneNote retained as earned brand name per updated rule). Writing Director drafted P3 but Kevin closed out before approval — start fresh with Writing Director, read writing-exemplars.md and the updated brand-names rule first. | Invoke Writing Director in a dedicated prose session | 2026-06-25 |
 | HF tool integration | Integration entry point: `hugging_face/Projects/cafe-athena/hugging-face-agent.md`. **Integration test complete (2026-06-22):** All tools confirmed working in production run. Wan2.2 I2V (zerogpu-aoti fast) is the primary animated still tool — AUDIT-008 passed. ZONOS2 is preferred TTS; Qwen3-TTS is backup. **Remaining gaps:** ZONOS2 formal integration incomplete (no standalone Tool Registry entry, no workflow section, no audit at `hugging_face/audit/zonos2-audit.md`). FLUX and Ideogram audits (AUDIT-004, AUDIT-005 by original numbering) still pending. | Next: formally integrate ZONOS2 per skill-implementation.md, then FLUX/Ideogram audits. | 2026-06-20 |
 | Install pm-skills in Claude Desktop | pm-skills plugins installed at user scope (~/.claude) — already globally available. Confirm they appear in Claude Desktop. | Open Claude Desktop and verify plugins are active | 2026-06-14 |
 | Incorporate social media links into site | ✅ Complete (2026-06-28). Footer links updated: Instagram (cafeathena_themanual), Pinterest (CafeAthenaTheManual), YouTube (UC8TEjsxUEezQnvg9KeR4pnA). URLs documented in CLAUDE.md. Needs build + deploy. | — | 2026-06-28 |
