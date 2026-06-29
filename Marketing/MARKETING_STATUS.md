@@ -41,12 +41,6 @@ Work in this order. Do not start Week 2 until Week 1 is confirmed ready.
 
 All five pieces feed into the same registry entry block: `marketing_content.json` entries `2026-07-07-*`. Update `stages` and `platforms` as each step completes.
 
-## Active Issues
-
-| Issue | Status | Notes |
-|---|---|---|
-| Pinterest posting blocked | 🔧 Investigate | Discovered 2026-06-29. Unable to post content to CafeAthenaTheManual account. 06-07 Chicken and Dumplings pin never posted. Affects all July scheduled pins. Resolve before W1-Jul7 content goes live. |
-
 ## Pending Items
 
 | Item | Status | Notes |

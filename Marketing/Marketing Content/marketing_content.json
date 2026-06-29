@@ -44,9 +44,9 @@
       "platforms": {
         "instagram": { "format": "reel",  "scheduled_date": "", "posted_date": "2026-06-28", "url": "https://www.instagram.com/reel/DaJYYgfgL_u/", "utm": "", "status": "posted" },
         "youtube":   { "format": "short", "scheduled_date": "", "posted_date": "2026-06-28", "url": "https://www.youtube.com/shorts/lf9vwJ5VeQU", "utm": "", "status": "posted" },
-        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "", "url": "", "utm": "", "status": "blocked" }
+        "pinterest": { "format": "pin",   "scheduled_date": "", "posted_date": "2026-06-28", "url": "https://www.pinterest.com/pin/1130192469034015417/", "utm": "", "status": "posted" }
       },
-      "notes": "Pre-UTM protocol — no UTM tracking on any platform. Site links included in all posts. First production reel. Facebook posted 2026-06-22 to Kevin Ward personal account (secondary channel, not tracked here). Pinterest blocked — posting not working as of 2026-06-29, investigation needed.",
+      "notes": "Pre-UTM protocol — no UTM tracking on any platform. Site links included in all posts. First production reel. Facebook posted 2026-06-22 to Kevin Ward personal account (secondary channel, not tracked here).",
       "performance": { "views": null, "likes": null, "saves": null, "comments": null, "shares": null, "clicks": null }
     },
     {
