@@ -261,13 +261,11 @@ Invoke the Writing Director sub-agent (not a skill — it is an agent) when the 
 |---------|--------|
 | Author bio (any length or platform) | Invoke Writing Director |
 | About page copy | Invoke Writing Director |
-| Social captions or headlines | Invoke **Marketing Manager** (not Writing Director) |
 | Promotional copy, advertising, email | Invoke Writing Director |
-| Site hero copy | Invoke Writing Director |
-| CTAs | Invoke **Marketing Manager** — CTAs are marketing copy |
+| Site hero copy or CTAs | Invoke Writing Director |
 | Any Brand Manager task that produces prose output | Brand Manager invokes Writing Director as sub-agent |
 
-Writing Director has no secondary surfaces — Claude Code only. Social captions, CTAs, EXPO titles, and all channel-facing copy route to the Marketing Manager, not the Writing Director.
+Writing Director has no secondary surfaces — Claude Code only. Social captions, CTAs, EXPO titles, and all channel-facing copy are written inside Marketing Manager sessions — they do not trigger Writing Director from main Claude Code.
 
 ### PM Skills (pm-skills plugin)
 
