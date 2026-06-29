@@ -10,6 +10,7 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 | Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Marketing Manager | Marketing Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
 |--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|-------------------|------------------------|----------------|---------------------|-----------------|
+| 2026-06-29e | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v3.0 | v1.19 | v1.1 | v1.1 | v1.6 | v1.7 | v1.3 |
 | 2026-06-29d | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v3.0 | v1.19 | v1.0 | v1.0 | v1.6 | v1.7 | v1.3 |
 | 2026-06-29c | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.18 | — | — | v1.6 | v1.7 | v1.3 |
 | 2026-06-29b | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.17 | — | — | v1.6 | v1.7 | v1.3 |
@@ -310,6 +311,7 @@ Secondary surface: `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.1 | 2026-06-29 | Writing model corrected. Removed "never write captions or post copy" constraint. Marketing Manager now writes all channel-facing marketing content directly (captions, post descriptions, EXPO titles, campaign copy, CTAs, hashtag blocks, voiceover scripts). Added WRITING STANDARDS section with acquisition register guidance, voice exemplars reference (`Brand/Author/writing-exemplars.md`), and `avoid-ai-writing` self-check. Writing Director invocation narrowed to long-form editorial only (author bios, About page, site hero copy). Mode 1 and Mode 2 copy steps updated to write directly. UTM section: removed "pass to Writing Director" reference. Ported to Marketing Manager CD v1.1. CLAUDE.md auto-trigger table updated: social captions and CTAs now route to Marketing Manager. |
 | v1.0 | 2026-06-29 | Initial release. Spun out from Brand Manager Modes 2 and 4. Mode 1 (Marketing Execution): content calendar management, marketing_content.json registry, campaign folders, UTM generation, MARKETING_STATUS.md updates, Writing Director sub-agent for any copy output. Mode 2 (Content Production): Firefly/Adobe Express/ZONOS2 asset production workflow, approval gate against BRAND_GUIDELINES.md, asset manifest updates. Writing Director Sub-Agent Protocol: spawn via Agent tool with full context pass (content type, folio ID, platform, UTM URL, hashtag requirements). UTM protocol: full convention (utm_source, utm_medium, utm_campaign, utm_content). Owns Marketing/ directory exclusively. Three-tier session start per Agent Session Start Standard. Verification gate: "Context loaded: Marketing status [date] \| Brand guidelines [date] \| Mode: [detected mode]". |
 
 ---
@@ -321,6 +323,7 @@ Secondary surface: `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.1 | 2026-06-29 | Ported from canonical master v1.1. Removed "never write captions" constraint. WRITING STANDARDS section added with acquisition register guidance, voice exemplars reference, and avoid-ai-writing self-check. Mode 2 copy step updated to write directly using GitHub connector to read BRAND_GUIDELINES.md §7 and writing-exemplars.md inline. Writing Director routing narrowed to long-form editorial only. |
 | v1.0 | 2026-06-29 | Initial release. Secondary surface port of canonical master v1.0. Adapted for Desktop: uses GitHub connector to read Writing Director instructions inline rather than spawning via Agent tool. Both modes documented with tool routing, sequences, and completion criteria. |
 
 ---
