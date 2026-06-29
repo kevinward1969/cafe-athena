@@ -25,6 +25,16 @@ Hashtags by board: `#CafeAthenaRecipes` / `#CafeAthenaCookingTechniques` / `#Caf
 
 ---
 
+## YouTube Playlists
+
+| Playlist | URL | Content |
+|---|---|---|
+| Café Athena — The Manual: Recipes | [youtube.com/playlist — Recipes](https://www.youtube.com/watch?v=lf9vwJ5VeQU&list=PLeW69CVz5uwU) | Recipe reels (Shorts), EXPO-paired videos |
+| Café Athena — The Manual: Cooking Techniques | [youtube.com/playlist — Cooking Techniques](https://www.youtube.com/watch?v=301GZsic7jg&list=PLBHSrXG8LU6o) | Foundation chapter technique Video Overviews and Shorts (Chapter 2 folios) |
+| Café Athena — The Manual: Cooking Science | [youtube.com/playlist — Cooking Science](https://www.youtube.com/playlist?list=PLH2CgKLUtyss) | Chapter 1 (The Lab) Video Overviews and Shorts |
+
+---
+
 ## Design Tools
 
 | Tool | URL | Role |

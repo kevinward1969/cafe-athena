@@ -66,11 +66,11 @@ The Video Overview is the long-form anchor. The Short is the same technique reel
 
 Three playlists mirror the Pinterest board structure exactly — same names, same routing logic. Every uploaded video is assigned to exactly one playlist at upload time.
 
-| Playlist | Content |
-|---|---|
-| Café Athena — The Manual: Recipes | Recipe reels (Shorts), EXPO-paired videos |
-| Café Athena — The Manual: Cooking Techniques | Foundation chapter technique Video Overviews and Shorts (Chapter 2 folios) |
-| Café Athena — The Manual: Cooking Science | Chapter 1 (The Lab) Video Overviews and Shorts — thermodynamics, emulsification, salinity, baker's percentages |
+| Playlist | URL | Content |
+|---|---|---|
+| Café Athena — The Manual: Recipes | [youtube.com/playlist — Recipes](https://www.youtube.com/watch?v=lf9vwJ5VeQU&list=PLeW69CVz5uwU) | Recipe reels (Shorts), EXPO-paired videos |
+| Café Athena — The Manual: Cooking Techniques | [youtube.com/playlist — Cooking Techniques](https://www.youtube.com/watch?v=301GZsic7jg&list=PLBHSrXG8LU6o) | Foundation chapter technique Video Overviews and Shorts (Chapter 2 folios) |
+| Café Athena — The Manual: Cooking Science | [youtube.com/playlist — Cooking Science](https://www.youtube.com/playlist?list=PLH2CgKLUtyss) | Chapter 1 (The Lab) Video Overviews and Shorts — thermodynamics, emulsification, salinity, baker's percentages |
 
 **Format note:** Use **Series playlist** type for Cooking Techniques and Cooking Science — YouTube treats these as structured courses, which improves recommendation sequencing. Recipes can be a standard playlist.
 
