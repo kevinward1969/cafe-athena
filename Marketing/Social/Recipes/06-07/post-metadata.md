@@ -1,6 +1,8 @@
 # 06-07 — Chicken and Dumplings — Social Reel
 
-## Published Post
+## Published Posts
+
+### Facebook
 
 | Field | Value |
 |-------|-------|
@@ -10,11 +12,22 @@
 | UTM tracking | None (posted before UTM protocol established) |
 | Final reel | `Cafe Athena - The Manual - 06-07 Chicken and Dumplings.mp4` |
 
+### YouTube
+
+| Field | Value |
+|-------|-------|
+| Platform | YouTube |
+| Format | Short |
+| Published | 2026-06-28 |
+| URL | [youtube.com/shorts/lf9vwJ5VeQU](https://www.youtube.com/shorts/lf9vwJ5VeQU) |
+| UTM tracking | None |
+| Final reel | `Cafe Athena - The Manual - 06-07 Chicken and Dumplings.mp4` |
+
 ## Adobe Express Template
 
 Reusable template derived from this production run. Use as the starting point for all future recipe reels.
 
-**Template URL:** https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e
+**Template URL:** [Adobe Express — 06-07 Template](https://express.adobe.com/design/userTemplate/urn:aaid:sc:US:7fa31834-9bb7-583f-83e5-49ee4deb977e)
 
 ## Production Assets
 

@@ -1,7 +1,6 @@
 # Café Athena — Brand Development Plan
 
-**Status:** Phase 8 active — all prior phases complete
-**Last Updated:** 2026-06-28
+**Status:** Phase 8 complete — all three social channels live with first content posted
 **Last Updated:** 2026-06-28
 **Tracking:** See `BRAND_TODO.md` for task-level progress
 
@@ -161,27 +160,34 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 ## Phase 8 — Marketing Activation
 
-**Status: Active 🟢 — Phase 5 complete; Phase 7 scorecard deferred**
+**Status: Complete ✓**
 
 **Goal:** Hand the completed brand system off to the marketing layer.
 
 **Deliverables:**
 
-- Site copy rewrites (hero, about, CTAs) using acquisition register
-- Social channel setup (Instagram, Pinterest, YouTube)
-- Social post templates (per platform)
-- About page / author section
+- Site copy rewrites (hero, about, CTAs) using acquisition register ✓
+- Social channel setup (Instagram, Pinterest, YouTube) ✓
+- Social post templates (per platform) ✓
+- About page / author section ✓
 
 **Primary surface:** Brand Manager (copy) + Technical Director (site implementation)
 **Dependency:** Phases 1–7 complete
 
-**Current state:**
+**Completed state:**
 
-- Instagram live (instagram.com/cafeathena_themanual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
-- Pinterest live (pinterest.com/CafeAthenaTheManual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28)
-- Channel briefs written for all three platforms
-- Post templates exist for all three platforms
-- YouTube live (youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA) — account created, banner finalized and uploaded
+- Instagram live (instagram.com/cafeathena_themanual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28) ✓
+- Pinterest live (pinterest.com/CafeAthenaTheManual) — first reel posted (06-07 Chicken and Dumplings, 2026-06-28) ✓
+- YouTube live (youtube.com/channel/UC8TEjsxUEezQnvg9KeR4pnA) — first Short posted (06-07 Chicken and Dumplings, 2026-06-28) ✓
+- Channel briefs written for all three platforms ✓
+- Post templates exist for all three platforms ✓
+- YouTube banner finalized and uploaded (`Brand/Social/YouTube/CafeAthenaTheManual-YouTubeBanner01.png`) ✓
+
+**Deferred (Phase 8 follow-on):**
+
+- Brand strategy scorecard review (`brand_strategy_scorecard.xlsx`) — skipped at Phase 7, still outstanding
+- Visual Director Gem brief expansion for brand asset modes — activate when social channels need custom graphics beyond reel templates
+- Cross-check personas against positioning statement — deferred from Phase 3
 
 ---
 
