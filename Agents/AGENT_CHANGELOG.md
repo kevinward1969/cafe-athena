@@ -8,61 +8,62 @@ Tracks version history for all Café Athena AI agent surfaces. Update the canoni
 
 > **Note:** Gemini Gem 1 (The Chef) is maintained as a fallback surface. Updates to the canonical master should be ported here when practical.
 
-| Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
-|--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|----------------|---------------------|-----------------|
-| 2026-06-29c | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.18 | v1.6 | v1.7 | v1.3 |
-| 2026-06-29b | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.17 | v1.6 | v1.7 | v1.3 |
-| 2026-06-29 | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.3 | v1.16 | v1.6 | v1.7 | v1.3 |
-| 2026-06-28f | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.3 | v1.14 | v1.5 | v1.6 | v1.3 |
-| 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | v1.5 | v1.6 | v1.2 |
-| 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
-| 2026-06-28c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.1 | v1.12 | v1.5 | v1.6 | v1.2 |
-| 2026-06-28b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.0 | v1.11 | v1.5 | v1.6 | v1.2 |
-| 2026-06-28 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.2 |
-| 2026-06-25c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.1 |
-| 2026-06-25b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.5 | v1.6 | v1.0 |
-| 2026-06-25 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | v1.4 | v1.5 | v1.0 |
-| 2026-06-24 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.8 | v1.9 | v1.4 | v1.5 | — |
-| 2026-06-22f | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.7 | v1.8 | v1.3 | v1.4 | — |
-| 2026-06-22e | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.6 | v1.7 | v1.3 | v1.4 | — |
-| 2026-06-22d | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.5 | v1.6 | v1.3 | v1.4 | — |
-| 2026-06-22c | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.4 | v1.5 | v1.3 | v1.4 | — |
-| 2026-06-22b | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 | — |
-| 2026-06-22 | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.3 | v1.4 | v1.3 | v1.4 | — |
-| 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | v1.2 | v1.3 | — |
-| 2026-06-14 | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.2 | v1.2 | v1.2 | v1.2 | — |
-| 2026-06-11c | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 | — |
-| 2026-06-11b | v1.18 | v3.11 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 | — |
-| 2026-06-11 | v1.18 | v3.10 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | v1.2 | v1.2 | — |
-| 2026-06-10h | v1.18 | v3.10 | v1.17 | v2.1 | v1.2 | v1.0 | v1.1 | v1.1 | v1.1 | v1.1 | — |
-| 2026-06-10g | v1.17 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.1 | v1.1 | — |
-| 2026-06-10f | v1.16 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.1 | v1.1 | — |
-| 2026-06-10e | v1.15 | v3.10 | v1.15 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 | — |
-| 2026-06-10d | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | v1.0 | v1.0 | — |
-| 2026-06-10c | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | — |
-| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | — | — | — | — | — |
-| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 | — | — | — | — | — |
-| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 | — | — | — | — | — |
-| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 | — | — | — | — | — |
-| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 | — | — | — | — | — |
-| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — | — | — | — | — | — |
-| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — | — |
-| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — | — | — | — | — | — |
-| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — | — |
-| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — | — |
-| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — | — | — | — | — | — |
-| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — | — | — | — | — | — |
-| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — | — | — | — | — | — |
-| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — | — | — | — | — | — |
-| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — | — | — | — | — | — |
+| Release Date | Canonical Master (Chef) | GEM Instructions | Claude Desktop (Chef) | Visual Director Gem | Markdownlint QA | Recipe Clarity Auditor | Brand Manager | Brand Manager (CD) | Marketing Manager | Marketing Manager (CD) | Technical Director | Technical Director (CD) | Writing Director |
+|--------------|------------------------|-----------------|----------------------|---------------------|-----------------|------------------------|---------------|--------------------|-------------------|------------------------|----------------|---------------------|-----------------|
+| 2026-06-29d | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v3.0 | v1.19 | v1.0 | v1.0 | v1.6 | v1.7 | v1.3 |
+| 2026-06-29c | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.18 | — | — | v1.6 | v1.7 | v1.3 |
+| 2026-06-29b | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.4 | v1.17 | — | — | v1.6 | v1.7 | v1.3 |
+| 2026-06-29 | v1.19 | v3.13 | v1.19 | v2.4 | v1.2 | v1.0 | v2.3 | v1.16 | — | — | v1.6 | v1.7 | v1.3 |
+| 2026-06-28f | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.3 | v1.14 | — | — | v1.5 | v1.6 | v1.3 |
+| 2026-06-28e | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.2 | v1.13 | — | — | v1.5 | v1.6 | v1.2 |
+| 2026-06-28d | v1.19 | v3.12 | v1.18 | v2.4 | v1.2 | v1.0 | v2.1 | v1.12 | — | — | v1.5 | v1.6 | v1.2 |
+| 2026-06-28c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.1 | v1.12 | — | — | v1.5 | v1.6 | v1.2 |
+| 2026-06-28b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v2.0 | v1.11 | — | — | v1.5 | v1.6 | v1.2 |
+| 2026-06-28 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | — | — | v1.5 | v1.6 | v1.2 |
+| 2026-06-25c | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | — | — | v1.5 | v1.6 | v1.1 |
+| 2026-06-25b | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | — | — | v1.5 | v1.6 | v1.0 |
+| 2026-06-25 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.9 | v1.10 | — | — | v1.4 | v1.5 | v1.0 |
+| 2026-06-24 | v1.19 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.8 | v1.9 | — | — | v1.4 | v1.5 | — |
+| 2026-06-22f | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.7 | v1.8 | — | — | v1.3 | v1.4 | — |
+| 2026-06-22e | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.6 | v1.7 | — | — | v1.3 | v1.4 | — |
+| 2026-06-22d | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.5 | v1.6 | — | — | v1.3 | v1.4 | — |
+| 2026-06-22c | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.4 | v1.5 | — | — | v1.3 | v1.4 | — |
+| 2026-06-22b | v1.18 | v3.12 | v1.18 | v2.3 | v1.2 | v1.0 | v1.3 | v1.4 | — | — | v1.3 | v1.4 | — |
+| 2026-06-22 | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.3 | v1.4 | — | — | v1.3 | v1.4 | — |
+| 2026-06-14b | v1.18 | v3.12 | v1.18 | v2.2 | v1.2 | v1.0 | v1.2 | v1.3 | — | — | v1.2 | v1.3 | — |
+| 2026-06-14 | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.2 | v1.2 | — | — | v1.2 | v1.2 | — |
+| 2026-06-11c | v1.18 | v3.12 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | — | — | v1.2 | v1.2 | — |
+| 2026-06-11b | v1.18 | v3.11 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | — | — | v1.2 | v1.2 | — |
+| 2026-06-11 | v1.18 | v3.10 | v1.17 | v2.2 | v1.2 | v1.0 | v1.1 | v1.1 | — | — | v1.2 | v1.2 | — |
+| 2026-06-10h | v1.18 | v3.10 | v1.17 | v2.1 | v1.2 | v1.0 | v1.1 | v1.1 | — | — | v1.1 | v1.1 | — |
+| 2026-06-10g | v1.17 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | v1.1 | v1.1 | — |
+| 2026-06-10f | v1.16 | v3.10 | v1.16 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | v1.1 | v1.1 | — |
+| 2026-06-10e | v1.15 | v3.10 | v1.15 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | v1.0 | v1.0 | — |
+| 2026-06-10d | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | v1.0 | v1.0 | — |
+| 2026-06-10c | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | v1.0 | v1.0 | — | — | — | — | — |
+| 2026-06-10b | v1.14 | v3.10 | v1.14 | v2.1 | v1.2 | v1.0 | — | — | — | — | — | — | — |
+| 2026-06-10 | v1.13 | v3.10 | v1.14 | v2.1 | v1.1 | v1.0 | — | — | — | — | — | — | — |
+| 2026-06-09d | v1.13 | v3.10 | v1.14 | v2.0 | v1.1 | v1.0 | — | — | — | — | — | — | — |
+| 2026-06-09c | v1.13 | v3.10 | v1.14 | v1.3 | v1.1 | v1.0 | — | — | — | — | — | — | — |
+| 2026-06-09b | v1.13 | v3.10 | v1.14 | v1.2 | v1.1 | v1.0 | — | — | — | — | — | — | — |
+| 2026-06-09 | v1.12 | v3.9 | v1.13 | v1.1 | v1.0 | — | — | — | — | — | — | — | — |
+| 2026-05-25 | v1.12 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-19e | v1.11 | v3.8 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-19d | v1.11 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-19c | v1.10 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-19b | v1.9 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-19 | v1.8 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-18c | v1.7 | v3.7 | v1.9 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-18b | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-18 | v1.6 | v3.7 | v1.8 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-05-15 | v1.6 | v3.7 | v1.7 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-04-26 | v1.6 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-04-23 | v1.5 | v3.7 | v1.6 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-04-16b | v1.4 | v3.7 | v1.5 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-04-16 | v1.3 | v3.6 | v1.4 | v1.1 | — | — | — | — | — | — | — | — | — |
+| 2026-04-14 | v1.2 | v3.5 | v1.3 | v1.0 | — | — | — | — | — | — | — | — | — |
+| 2026-04-04 | v1.1 | v3.4 | v1.2 | v1.0 | — | — | — | — | — | — | — | — | — |
+| (initial) | v1.0 | v3.0 | v1.0 | v1.0 | — | — | — | — | — | — | — | — | — |
 
 ---
 
@@ -252,13 +253,14 @@ These workflow files do not carry independent version numbers, but were updated 
 ## Claude Code Sub-Agent — Café Athena Brand Manager
 
 **File:** `.claude/agents/Cafe Athena Brand Manager.agent.md`
-**Current Version:** 2.4
+**Current Version:** 3.0
 **Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
 
 Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v3.0 | 2026-06-29 | Major architecture revision — scope reduced to Mode 1 (Brand Development) only. Modes 2 (Marketing Execution) and 4 (Asset Production) extracted into the new Marketing Manager sub-agent. Mode 3 (Writing) was already a Writing Director redirect; now formalized as spawnable sub-agent via Agent tool. Description updated: "Owns Brand/ exclusively. Marketing execution and production route to the Marketing Manager." Agent tool added to tools list. Writing Director Sub-Agent Protocol section added with full spawn instructions. Invocation model updated with explicit out-of-scope redirects. Owned documents reduced to Brand/ only — Marketing/ removed. Session start simplified: Universal reads BRAND_GUIDELINES.md + BRAND_STATUS.md; Mode-required reads Scorecards/ for brand review; On-demand reads Resources/INDEX.md, Personas/, Creative/. Verification gate updated. |
 | v2.4 | 2026-06-29 | Architecture review: implemented project-wide Agent Session Start Standard (CLAUDE.md). Restructured SESSION START PROTOCOL into three tiers — Universal (BRAND_GUIDELINES.md, BRAND_STATUS.md every session), Mode-required (MARKETING_STATUS.md + current strategy file blocking for Mode 2; Scorecards/ blocking for Mode 1 brand review), On-demand (calendar, INDEX files). Added verification gate: agent must output one-line context confirmation before responding to any task. Added blocking read requirement inside Mode 2 definition as a second enforcement point. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.17. |
 | v2.3 | 2026-06-28 | Marketing Content folder restructure. All `Marketing/Social/`, `Marketing/NotebookLM/`, and `Marketing/Site-Copy/` paths updated to `Marketing/Marketing Content/[folder]/` throughout. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.14. Writing Director v1.3 also updated for Site-Copy path. |
 | v2.2 | 2026-06-28 | Marketing folder restructure. Added `Marketing/Marketing_Strategy/MARKETING_CALENDAR_2026.md` to SESSION START PROTOCOL (item 3 — read current posting schedule and posted content log). Added `Marketing/Marketing_Strategy/`, `MARKETING_CALENDAR_2026.md`, and `Marketing/Marketing_Strategy/archived/` to OWNED DOCUMENTS with responsibilities. Updated Mode 2 completion criteria to require calendar update alongside status doc update. Ported to BRAND_MANAGER_INSTRUCTIONS.md v1.13 (Claude Desktop also gains raw GitHub URLs for calendar and strategy in SESSION START). |
@@ -276,10 +278,11 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 ## Claude Desktop Agent — Café Athena Brand Manager
 
 **File:** `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
-**Current Version:** 1.18
+**Current Version:** 1.19
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.19 | 2026-06-29 | Ported from canonical master v3.0: stripped Modes 2/3/4, keeping Mode 1 (Brand Development) only. For prose output, agent reads Writing Director instructions inline via GitHub connector (Desktop has no Agent tool). Invocation model updated with explicit out-of-scope redirects. Owned documents reduced to Brand/ only. Session start updated to three tiers. UTM protocol removed. |
 | v1.18 | 2026-06-29 | Mode 3 updated for Desktop context: instead of redirecting to Writing Director (Claude Code only), agent now reads `.claude/agents/Cafe Athena Writing Director.agent.md` via GitHub connector and applies those instructions inline for the duration of the writing task. |
 | v1.17 | 2026-06-29 | Ported from canonical master v2.4: restructured SESSION START into three tiers (Universal / Mode-required / On-demand) and added verification gate output line. |
 | v1.16 | 2026-06-29 | Minor audit fix: expanded anti-sycophancy guidance in PERSONA from a single vague sentence to the canonical's full format template — "This conflicts with [specific guideline]. My recommendation: [alternative]. Proceed with your version or the recommendation?" |
@@ -294,6 +297,31 @@ Secondary surface: `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`
 | v1.2 | 2026-06-14 | Added PM Skills Reference section with 8 pm-skills entries. Ported from canonical master v1.2. |
 | v1.1 | 2026-06-10 | Ported from canonical master v1.1: mode disambiguation tie-breaker, OUT-OF-SCOPE REDIRECT, and SESSION HANDOFF PROTOCOL. |
 | v1.0 | 2026-06-10 | Initial release. Secondary surface port of canonical master v1.0. |
+
+---
+
+## Claude Code Sub-Agent — Café Athena Marketing Manager
+
+**File:** `.claude/agents/Cafe Athena Marketing Manager.agent.md`
+**Current Version:** 1.0
+**Status:** Canonical master — update this first, then port to Claude Desktop secondary surface.
+
+Secondary surface: `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-29 | Initial release. Spun out from Brand Manager Modes 2 and 4. Mode 1 (Marketing Execution): content calendar management, marketing_content.json registry, campaign folders, UTM generation, MARKETING_STATUS.md updates, Writing Director sub-agent for any copy output. Mode 2 (Content Production): Firefly/Adobe Express/ZONOS2 asset production workflow, approval gate against BRAND_GUIDELINES.md, asset manifest updates. Writing Director Sub-Agent Protocol: spawn via Agent tool with full context pass (content type, folio ID, platform, UTM URL, hashtag requirements). UTM protocol: full convention (utm_source, utm_medium, utm_campaign, utm_content). Owns Marketing/ directory exclusively. Three-tier session start per Agent Session Start Standard. Verification gate: "Context loaded: Marketing status [date] \| Brand guidelines [date] \| Mode: [detected mode]". |
+
+---
+
+## Claude Desktop Agent — Café Athena Marketing Manager
+
+**File:** `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`
+**Current Version:** 1.0
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2026-06-29 | Initial release. Secondary surface port of canonical master v1.0. Adapted for Desktop: uses GitHub connector to read Writing Director instructions inline rather than spawning via Agent tool. Both modes documented with tool routing, sequences, and completion criteria. |
 
 ---
 

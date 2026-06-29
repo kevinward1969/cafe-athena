@@ -7,6 +7,7 @@
 ---
 
 ## Template A — Technique / Knowledge Post
+
 **Pillar 1: The Why Behind a Step | Posts Monday**
 
 ---
@@ -18,6 +19,7 @@
 ```
 
 *Examples:*
+
 - `Most recipes say "soften the onions." Here is what soften actually means.`
 - `The pan needs to be dry before the fat goes in. This is why.`
 - `A reduction is ready when it coats the back of a spoon and a line holds. This is the test, not a timer.`
@@ -50,6 +52,7 @@ The full [FOLIO/RECIPE TITLE] is at the link in bio. [OPTIONAL: One sentence on 
 ```
 
 *Examples:*
+
 - `The full Stocks & Fond folio is at the link in bio. It covers the fond before the liquid goes in, skimming, and reading a finished stock.`
 - `Technique Folio 01-01 is at the link in bio. Knife skills, mise en place, and the logic behind both.`
 
@@ -75,6 +78,7 @@ The full [FOLIO/RECIPE TITLE] is at the link in bio. [OPTIONAL: One sentence on 
 ---
 
 ## Template B — Visual / Dish Post
+
 **Pillar 4: The Table | Posts Wednesday**
 
 ---
@@ -88,6 +92,7 @@ The full [FOLIO/RECIPE TITLE] is at the link in bio. [OPTIONAL: One sentence on 
 ```
 
 *Examples:*
+
 - `Pasta al burro — what we had on Tuesday.`
 - `Brown butter. One pan. The whole sauce.`
 - *(blank — let the image open the post)*
@@ -103,6 +108,7 @@ The full [FOLIO/RECIPE TITLE] is at the link in bio. [OPTIONAL: One sentence on 
 ```
 
 *Examples:*
+
 - `Pasta al burro. Brown butter after the milk solids caramelize at around 150°C — the aromatics you get from whole butter don't exist below that threshold. The recipe is on the site.`
 - `Braised chicken thighs, finished in the fond. The liquid that looked like nothing becomes the sauce once you add the stock and reduce it down.`
 

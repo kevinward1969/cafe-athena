@@ -96,11 +96,14 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 | `Agents/AGENT_CHANGELOG.md` | Version history for all agent surfaces |
 | `Agents/MULTI_AGENT_ARCHITECTURE.md` | Full architecture reference and improvement roadmap |
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Canonical master** for the culinary agent system prompt |
-| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Canonical master** for the brand and marketing agent system prompt |
+| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Canonical master** for the Brand Manager — brand strategy and identity (Mode 1 only) |
+| `.claude/agents/Cafe Athena Marketing Manager.agent.md` | **Canonical master** for the Marketing Manager — marketing execution (Mode 1) and content production (Mode 2) |
 | `.claude/agents/Cafe Athena Technical Director.agent.md` | **Canonical master** for the Technical Director agent system prompt |
 | `.claude/agents/Cafe Athena Writing Director.agent.md` | **Canonical master** for the Writing Director system prompt — all prose surfaces |
 | `Brand/Author/writing-exemplars.md` | Approved paragraphs in the correct brand register — Writing Director reads this before every draft session |
 | `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md` | Secondary surface for Claude Desktop Technical Director project |
+| `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md` | Secondary surface for Claude Desktop Marketing Manager project |
+| `Marketing/Production/` | Production workflow documents (reel assembly, voiceover, video generation) — not channel templates |
 | `Brand/BRAND_GUIDELINES.md` | Master brand reference — typography, color, voice, visual system |
 | `Brand/BRAND_STATUS.md` | Active brand work tracker |
 | `Brand/Scorecards/` | Date-stamped brand strategy scorecards — new file per review cycle, never overwrite |
@@ -131,7 +134,7 @@ See `Docs/TECHNICAL_REFERENCE.md` for the full technical reference — repositor
 2. Add an entry to `Agents/AGENT_CHANGELOG.md` describing what changed and why
 3. Follow the propagation rule below for any changes that affect secondary surfaces
 
-This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Cafe Athena Brand Manager.agent.md`, `.claude/agents/Cafe Athena Technical Director.agent.md`, `.claude/agents/Cafe Athena Writing Director.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`, `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
+This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Cafe Athena Brand Manager.agent.md`, `.claude/agents/Cafe Athena Marketing Manager.agent.md`, `.claude/agents/Cafe Athena Technical Director.agent.md`, `.claude/agents/Cafe Athena Writing Director.agent.md`, `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`, `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`, `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`, `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`, `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md`, and any `.claude/commands/*.md` file.
 
 ---
 
@@ -142,13 +145,15 @@ This applies to: `.claude/agents/Cafe Athena Chef.agent.md`, `.claude/agents/Caf
 | File Changed | Action Required |
 |-------------|----------------------|
 | `.claude/agents/Cafe Athena Chef.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `PROJECT_INSTRUCTIONS.md` content into Claude Desktop project settings, and port relevant changes to `Agents/Gemini-Gems/CAFÉ ATHENA - CHEF GEM INSTRUCTIONS.md` then paste into Gemini Gem 1 config. |
-| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `BRAND_MANAGER_INSTRUCTIONS.md` content into Claude Desktop brand project settings. |
+| `.claude/agents/Cafe Athena Brand Manager.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `BRAND_MANAGER_INSTRUCTIONS.md` content into Claude Desktop Brand Manager project settings. |
+| `.claude/agents/Cafe Athena Marketing Manager.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `MARKETING_MANAGER_INSTRUCTIONS.md` content into Claude Desktop Marketing Manager project settings. |
 | `.claude/agents/Cafe Athena Technical Director.agent.md` | **Edit directly:** port changes to `Agents/Claude-Desktop/TECHNICAL_DIRECTOR_INSTRUCTIONS.md`. **Remind Kevin:** paste updated `TECHNICAL_DIRECTOR_INSTRUCTIONS.md` content into Claude Desktop Technical Director project settings. |
 | `Guidance/Recipe-Format-Standard.md` | No action needed — Claude Desktop reads this file live from the filesystem via MCP |
 | `.claude/commands/*.md` | No action needed — workflows run in Claude Code only |
 | `Agents/Gemini-Gems/CAFÉ ATHENA - VISUAL DIRECTOR GEM INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Gemini Gem 2 configuration |
 | `Agents/Claude-Desktop/PROJECT_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop Chef project settings |
 | `Agents/Claude-Desktop/BRAND_MANAGER_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop Brand Manager project settings |
+| `Agents/Claude-Desktop/MARKETING_MANAGER_INSTRUCTIONS.md` | **Remind Kevin:** paste updated content into the Claude Desktop Marketing Manager project settings |
 
 After propagating changes, bump the version number in the modified file and add an entry to `Agents/AGENT_CHANGELOG.md`.
 
