@@ -1,7 +1,7 @@
 # Brand Development — Task Tracker
 
 **Plan:** `BRAND_DEVELOPMENT_PLAN.md`
-**Last Updated:** 2026-06-11
+**Last Updated:** 2026-06-28
 
 Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion.
 
@@ -36,7 +36,8 @@ Mark tasks complete as they finish. Update `BRAND_STATUS.md` at phase completion
 - [x] Create `Personas/persona-serious-home-cook.md`
 - [x] Create `Personas/persona-culinary-curious.md`
 - [x] Create `Personas/persona-kitchen-experimenter.md`
-- [ ] Cross-check personas against positioning statement — deferred to Phase 6 review
+- [x] Cross-check personas against positioning statement — complete 2026-06-28; Persona 2 strengthened (entry-point clarity, decisive hook, pre-carry-forward acknowledgment added)
+- [ ] Update Acquisition Register §6 Persona 2 guidance — expand to address what wins her at acquisition moment; follows from cross-check findings
 
 ---
 

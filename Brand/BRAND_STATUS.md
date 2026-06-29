@@ -88,11 +88,17 @@ _No active work. All phases complete. Scorecard written — execution phase begi
 - Short bio (site blurb) — written to `Brand/Author/bio-short.md`
 - Social bios (Instagram, YouTube, Pinterest, Facebook) — written to `Brand/Author/bio-social.md`
 
+## Phase 3 Cross-Check — Complete (2026-06-28)
+
+- Personas 1 and 3 confirmed aligned against positioning statement and Acquisition Register — no changes needed
+- Persona 2 (The Culinary Curious) strengthened — three additions: pre-carry-forward acknowledgment, entry-point clarity ("How She First Encounters Café Athena"), decisive hook revision in "What Draws Her"
+- `Brand/Personas/persona-culinary-curious.md` updated and committed
+
 ## Deferred
 
 - Newsletter capture — revisit after social channels are live and audience exists
 - Author photo brief — needs photo shoot or Visual Director brief
-- Cross-check personas against positioning statement — deferred; address in Phase 7 review if needed
+- Acquisition Register §6 Persona 2 guidance — expand to define what wins her at acquisition moment; follows from 2026-06-28 cross-check findings
 
 ---
 

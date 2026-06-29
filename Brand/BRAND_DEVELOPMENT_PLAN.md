@@ -65,7 +65,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 ## Phase 3 — Audience Personas
 
-**Status: Complete ✓ — cross-check deferred**
+**Status: Complete ✓**
 
 **Goal:** Define who Café Athena is actually for. Personas drive voice, copy tone, content priorities, and channel selection.
 
@@ -74,7 +74,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 - Persona 1: The Serious Home Cook ✓
 - Persona 2: The Culinary Curious ✓
 - Persona 3: The Kitchen Experimenter ✓
-- Cross-check all personas against positioning statement ← deferred, not yet done
+- Cross-check all personas against positioning statement ✓ — complete 2026-06-28; Persona 2 strengthened
 
 **Output files:** `Personas/persona-serious-home-cook.md`, `Personas/persona-culinary-curious.md`, `Personas/persona-kitchen-experimenter.md`
 
@@ -187,7 +187,7 @@ This plan covers the full brand build for Café Athena — from scope definition
 
 - Brand strategy scorecard review ✓ — `Brand/Scorecards/BRAND_STRATEGY_SCORECARD_2026-06-28.md` 2026-06-28
 - Visual Director Gem brief expansion for brand asset modes — activate when social channels need custom graphics beyond reel templates
-- Cross-check personas against positioning statement — deferred from Phase 3
+- Cross-check personas against positioning statement ✓ — complete 2026-06-28
 
 ---
 
