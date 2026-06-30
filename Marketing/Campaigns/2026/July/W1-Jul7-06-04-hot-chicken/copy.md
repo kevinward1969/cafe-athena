@@ -68,3 +68,13 @@ The heat in Nashville Hot Chicken comes from a post-fry spice paste — cayenne,
 **Scheduled pin URL:** [pinterest.com — scheduled](https://www.pinterest.com/CafeAthenaTheManual/scheduled-pin/3635761561647467072)
 
 **Scheduled:** Sun Jul 13, 9:00pm (permanent URL available on post day)
+
+---
+
+## Facebook
+
+**UTM link:** [cafeathenathemanual.com/06-04 — Facebook Reel](https://cafeathenathemanual.com/06-04?utm_source=facebook&utm_medium=reel&utm_campaign=nashville-hot-chicken&utm_content=06-04)
+
+**Post URL:**
+
+**Posted:**
