@@ -40,6 +40,7 @@ Template based on platform research (`Marketing/Research/social-media-posting-ti
 | 2026-06-28 | Instagram | 06-07 | Recipe reel | ✓ | First reel — Chicken and Dumplings |
 | 2026-06-28 | Pinterest | 06-07 | Recipe reel | ✓ | |
 | 2026-06-28 | YouTube | 06-07 | Short | ✓ | |
+| 2026-06-29 | Instagram | 06-04 | Recipe reel | ✓ | Published early — intended Jul 9; before EXPO post |
 
 ---
 
